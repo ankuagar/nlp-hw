@@ -6,11 +6,14 @@ import json
 import os
 import random
 import string
+import logging
+import argparse
+import tempfile
+import shutil
 
 from tqdm import tqdm
-
 from params import load_guesser, load_questions, load_buzzer, \
-    add_buzzer_params, add_guesser_params, add_general_params,\
+    add_buzzer_params, add_guesser_params, add_general_params, \
     add_question_params, setup_logging
 
 # Ensure the summary directory exists
@@ -26,7 +29,7 @@ kLABELS = {"best": "Guess was correct, Buzz was correct",
 
 def normalize_answer(answer):
     """
-    Remove superflous components to create a normalized form of an answer that
+    Remove superfluous components to create a normalized form of an answer that
     can be more easily compared.
     """
     from unidecode import unidecode
@@ -47,8 +50,8 @@ def normalize_answer(answer):
  
 def rough_compare(guess, page):
     """
-    See if a guess is correct.  Not perfect, but better than direct string
-    comparison.  Allows for slight variation.
+    See if a guess is correct. Not perfect, but better than direct string
+    comparison. Allows for slight variation.
     """
     # TODO: Also add the original answer line
     if page is None:
@@ -88,7 +91,7 @@ def eval_retrieval(guesser, questions, n_guesses=25, cutoff=-1):
     assert len(all_guesses) == len(question_text)
     for question, guesses, text in zip(questions, all_guesses, question_text):
         if len(guesses) > n_guesses:
-            logging.warn("Warning: guesser is not obeying n_guesses argument")
+            logging.warning("Warning: guesser is not obeying n_guesses argument")
             guesses = guesses[:n_guesses]
             
         top_guess = guesses[0]["guess"]
@@ -134,7 +137,6 @@ def pretty_feature_print(features, first_features=["guess", "answer", "id"]):
             lines.append("%20s: %s" % (ii, str(features[ii])))
     lines.append("--------------------")
     return "\n".join(lines)
-
 
 def eval_buzzer(buzzer, questions, history_length, history_depth):
     """
@@ -204,8 +206,6 @@ def eval_buzzer(buzzer, questions, history_length, history_depth):
 
 if __name__ == "__main__":
     # Load model and evaluate it
-    import argparse
-    
     parser = argparse.ArgumentParser()
     add_general_params(parser)
     add_guesser_params(parser)
@@ -213,63 +213,86 @@ if __name__ == "__main__":
     add_buzzer_params(parser)
 
     parser.add_argument('--evaluate', default="buzzer", type=str)
-    parser.add_argument('--cutoff', default=-1, type=int)    
+    parser.add_argument('--cutoff', default=-1, type=int)
+    parser.add_argument('--output_json', default="summary/eval_output.json", type=str)  # Output path argument for JSON
     
     flags = parser.parse_args()
     setup_logging(flags)
 
     questions = load_questions(flags)
     guesser = load_guesser(flags, load=flags.load)    
-    if flags.evaluate == "buzzer":
-        buzzer = load_buzzer(flags, load=True)
-        outcomes, examples, unseen = eval_buzzer(buzzer, questions,
-                                                 history_length=flags.buzzer_history_length,
-                                                 history_depth=flags.buzzer_history_depth)
-    elif flags.evaluate == "guesser":
-        if flags.cutoff >= 0:
-            outcomes, examples = eval_retrieval(guesser, questions, flags.num_guesses, flags.cutoff)
+
+    try:
+        if flags.evaluate == "buzzer":
+            buzzer = load_buzzer(flags, load=True)
+            outcomes, examples, unseen = eval_buzzer(buzzer, questions,
+                                                     history_length=flags.buzzer_history_length,
+                                                     history_depth=flags.buzzer_history_depth)
+        elif flags.evaluate == "guesser":
+            if flags.cutoff >= 0:
+                outcomes, examples = eval_retrieval(guesser, questions, flags.num_guesses, flags.cutoff)
+            else:
+                outcomes, examples = eval_retrieval(guesser, questions, flags.num_guesses)
         else:
-            outcomes, examples = eval_retrieval(guesser, questions, flags.num_guesses)
-    else:
-        assert False, "Gotta evaluate something"
+            assert False, "Gotta evaluate something"
         
-    total = sum(outcomes[x] for x in outcomes if x != "hit")
-    outcome_percentages = {f"{ii} %":outcome_subtotal / total for ii, outcome_subtotal in outcomes.items()}
+        total = sum(outcomes[x] for x in outcomes if x != "hit")
+        outcome_percentages = {f"{ii} %": outcome_subtotal / total for ii, outcome_subtotal in outcomes.items()}
 
-    for ii in outcomes:
-        print("%s %0.2f\n===================\n" % (ii, outcomes[ii] / total)) #line representing outcome percentage
-        if len(examples[ii]) > 10:
-            population = list(random.sample(examples[ii], 10))
-        else:
-            population = examples[ii]
-        for jj in population: #each question is a jj
-            print(pretty_feature_print(jj))
-        print("=================")
+        for ii in outcomes:
+            print("%s %0.2f\n===================\n" % (ii, outcomes[ii] / total))
+            if len(examples[ii]) > 10:
+                population = list(random.sample(examples[ii], 10))
+            else:
+                population = examples[ii]
+            for jj in population:
+                print(pretty_feature_print(jj))
+            print("=================")
         
-    if flags.evaluate == "buzzer":
-        for weight, feature in zip(buzzer._classifier.coef_[0], buzzer._featurizer.feature_names_):
-            print("%40s: %0.4f" % (feature.strip(), weight))
+        if flags.evaluate == "buzzer":
+            for weight, feature in zip(buzzer._classifier.coef_[0], buzzer._featurizer.feature_names_):
+                print("%40s: %0.4f" % (feature.strip(), weight))
+            
+            print("Questions Right: %i (out of %i) Accuracy: %0.2f  Buzz ratio: %0.2f Buzz position: %f" %
+                  (outcomes["best"], total,
+                   (outcomes["best"] + outcomes["waiting"]) / total if total else 0,
+                   (outcomes["best"] - outcomes["aggressive"] * 0.5) / total if total else 0,
+                   unseen))
         
-        print("Questions Right: %i (out of %i) Accuracy: %0.2f  Buzz ratio: %0.2f Buzz position: %f" %
-              (outcomes["best"], # Right
-               total,            # Total
-               (outcomes["best"] + outcomes["waiting"]) / total, # Accuracy
-               (outcomes["best"] - outcomes["aggressive"] * 0.5) / total, # Ratio
-               unseen))
+        elif flags.evaluate == "guesser":
+            print("Precision @1: %0.4f Recall: %0.4f" % (outcomes["hit"]/total, outcomes["close"]/total))
 
-    elif flags.evaluate == "guesser":
-        print("Precision @1: %0.4f Recall: %0.4f" % (outcomes["hit"]/total, outcomes["close"]/total))
+        # Results preparation
+        results = {
+            "questions_right": outcomes["best"],
+            "total": total,
+            "accuracy": (outcomes["best"] + outcomes["waiting"]) / total if total else 0,
+            "buzz_ratio": (outcomes["best"] - 0.5 * outcomes["aggressive"]) / total if total else 0,
+            "buzz_position": unseen,
+            "outcome_percentages": outcome_percentages
+        }
 
-    # At the end of eval.py's main section, after results calculation
-    results = {
-        "questions_right": outcomes["best"],
-        "total": total,
-        "accuracy": (outcomes["best"] + outcomes["waiting"]) / total,
-        "buzz_ratio": (outcomes["best"] - outcomes["aggressive"] * 0.5) / total,
-        "buzz_position": unseen,
-        "outcome_percentages": outcome_percentages
-    }
+        # Ensure atomic writes using temporary files
+        temp_file = tempfile.NamedTemporaryFile("w", delete=False, dir=os.path.dirname(flags.output_json))
+        try:
+            with temp_file as tf:
+                json.dump(results, tf)
+                tf.flush()
+                os.fsync(tf.fileno())
 
-    # Save results to JSON file
-    with open("summary/eval_output.json", "w") as f:
-        json.dump(results, f)
+            # Move the temporary file to the final destination
+            shutil.move(temp_file.name, flags.output_json)
+
+        except Exception as e:
+            logging.error(f"An error occurred while writing JSON output: {e}")
+            # Clean up temporary file if an error occurs
+            os.unlink(temp_file.name)
+
+    except Exception as e:
+        logging.error(f"An error occurred during evaluation: {e}", exc_info=True)
+        # If output JSON path was given, write error details to a separate error log
+        if flags.output_json:
+            error_log_path = flags.output_json.replace(".json", "_error_log.txt")
+            with open(error_log_path, "w") as error_log:
+                error_log.write(f"An error occurred during evaluation: {e}\n")
+

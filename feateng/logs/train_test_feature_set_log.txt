@@ -1,0 +1,385 @@
+[Subset ()] Starting buzzer.py command.
+[Subset ('Length',)] Starting buzzer.py command.
+[Subset ('Frequency',)] Starting buzzer.py command.
+[Subset ('Category',)] Starting buzzer.py command.
+[Subset ('Category',)] Starting eval.py command.
+[Subset ('Length',)] Starting eval.py command.
+[Subset ()] Starting eval.py command.
+[Subset ('Frequency',)] Starting eval.py command.
+[Subset ('Category',)] Subset ('Category',) generated an exception: Invalid JSON format in summary/eval_output_with_category.json for subset ('Category',): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length',)] Subset ('Length',) generated an exception: Invalid JSON format in summary/eval_output_with_length.json for subset ('Length',): Expecting value: line 1 column 1 (char 0)
+[Subset ('ContextualMatch',)] Starting buzzer.py command.
+[Subset ('PreviousGuess',)] Starting buzzer.py command.
+[Subset ()] Subset () generated an exception: Invalid JSON format in summary/eval_output_no_features.json for subset (): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Frequency')] Starting buzzer.py command.
+[Subset ('Frequency',)] Subset ('Frequency',) generated an exception: Invalid JSON format in summary/eval_output_with_frequency.json for subset ('Frequency',): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Category')] Starting buzzer.py command.
+[Subset ('PreviousGuess',)] Starting eval.py command.
+[Subset ('Length', 'Category')] Starting eval.py command.
+[Subset ('Length', 'Frequency')] Starting eval.py command.
+[Subset ('PreviousGuess',)] Subset ('PreviousGuess',) generated an exception: Invalid JSON format in summary/eval_output_with_previousguess.json for subset ('PreviousGuess',): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Category')] Subset ('Length', 'Category') generated an exception: Invalid JSON format in summary/eval_output_with_length_category.json for subset ('Length', 'Category'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency')] Subset ('Length', 'Frequency') generated an exception: Invalid JSON format in summary/eval_output_with_length_frequency.json for subset ('Length', 'Frequency'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Frequency', 'Category')] Starting buzzer.py command.
+[Subset ('ContextualMatch',)] Starting eval.py command.
+[Subset ('Length', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category')] Starting eval.py command.
+[Subset ('Length', 'PreviousGuess')] Subset ('Length', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_length_previousguess.json for subset ('Length', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Frequency', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Frequency', 'Category')] Subset ('Frequency', 'Category') generated an exception: Invalid JSON format in summary/eval_output_with_frequency_category.json for subset ('Frequency', 'Category'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Frequency', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('ContextualMatch',)] Subset ('ContextualMatch',) generated an exception: Invalid JSON format in summary/eval_output_with_contextualmatch.json for subset ('ContextualMatch',): Expecting value: line 1 column 1 (char 0)
+[Subset ('Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Frequency', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'PreviousGuess')] Subset ('Frequency', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_frequency_previousguess.json for subset ('Frequency', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'ContextualMatch')] Subset ('Length', 'ContextualMatch') generated an exception: Invalid JSON format in summary/eval_output_with_length_contextualmatch.json for subset ('Length', 'ContextualMatch'): Expecting value: line 1 column 1 (char 0)
+[Subset ('ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Frequency', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Category', 'PreviousGuess')] Subset ('Category', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_category_previousguess.json for subset ('Category', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Frequency', 'Category')] Starting buzzer.py command.
+[Subset ('Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Frequency', 'ContextualMatch')] Subset ('Frequency', 'ContextualMatch') generated an exception: Invalid JSON format in summary/eval_output_with_frequency_contextualmatch.json for subset ('Frequency', 'ContextualMatch'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Frequency', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'Category')] Subset ('Length', 'Frequency', 'Category') generated an exception: Invalid JSON format in summary/eval_output_with_length_frequency_category.json for subset ('Length', 'Frequency', 'Category'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Frequency', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Category', 'ContextualMatch')] Subset ('Category', 'ContextualMatch') generated an exception: Invalid JSON format in summary/eval_output_with_category_contextualmatch.json for subset ('Category', 'ContextualMatch'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'PreviousGuess')] Subset ('Length', 'Frequency', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_length_frequency_previousguess.json for subset ('Length', 'Frequency', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch')] Starting eval.py command.
+[Subset ('ContextualMatch', 'PreviousGuess')] Subset ('ContextualMatch', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_contextualmatch_previousguess.json for subset ('ContextualMatch', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Length', 'Category', 'PreviousGuess')] Subset ('Length', 'Category', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_length_category_previousguess.json for subset ('Length', 'Category', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Frequency', 'Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch')] Subset ('Length', 'Frequency', 'ContextualMatch') generated an exception: Invalid JSON format in summary/eval_output_with_length_frequency_contextualmatch.json for subset ('Length', 'Frequency', 'ContextualMatch'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Frequency', 'Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Category', 'ContextualMatch')] Subset ('Length', 'Category', 'ContextualMatch') generated an exception: Invalid JSON format in summary/eval_output_with_length_category_contextualmatch.json for subset ('Length', 'Category', 'ContextualMatch'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Frequency', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category', 'PreviousGuess')] Subset ('Frequency', 'Category', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_frequency_category_previousguess.json for subset ('Frequency', 'Category', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Frequency', 'Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Length', 'ContextualMatch', 'PreviousGuess')] Subset ('Length', 'ContextualMatch', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_length_contextualmatch_previousguess.json for subset ('Length', 'ContextualMatch', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Frequency', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category', 'ContextualMatch')] Subset ('Frequency', 'Category', 'ContextualMatch') generated an exception: Invalid JSON format in summary/eval_output_with_frequency_category_contextualmatch.json for subset ('Frequency', 'Category', 'ContextualMatch'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Frequency', 'Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Frequency', 'ContextualMatch', 'PreviousGuess')] Subset ('Frequency', 'ContextualMatch', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_frequency_contextualmatch_previousguess.json for subset ('Frequency', 'ContextualMatch', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'Category', 'PreviousGuess')] Subset ('Length', 'Frequency', 'Category', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_length_frequency_category_previousguess.json for subset ('Length', 'Frequency', 'Category', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Category', 'ContextualMatch', 'PreviousGuess')] Subset ('Category', 'ContextualMatch', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_category_contextualmatch_previousguess.json for subset ('Category', 'ContextualMatch', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch')] Subset ('Length', 'Frequency', 'Category', 'ContextualMatch') generated an exception: Invalid JSON format in summary/eval_output_with_length_frequency_category_contextualmatch.json for subset ('Length', 'Frequency', 'Category', 'ContextualMatch'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess')] Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_length_frequency_contextualmatch_previousguess.json for subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess')] Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_length_category_contextualmatch_previousguess.json for subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_frequency_category_contextualmatch_previousguess.json for subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess') generated an exception: Invalid JSON format in summary/eval_output_with_all_features.json for subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess'): Expecting value: line 1 column 1 (char 0)
+[Subset Main] No results were generated, possibly due to errors in processing.
+[Subset ()] Starting buzzer.py command.
+[Subset ('Length',)] Starting buzzer.py command.
+[Subset ('Frequency',)] Starting buzzer.py command.
+[Subset ('Category',)] Starting buzzer.py command.
+[Subset ('Category',)] Starting eval.py command.
+[Subset ()] Starting eval.py command.
+[Subset ('Frequency',)] Starting eval.py command.
+[Subset ('Length',)] Starting eval.py command.
+[Subset ('Length',)] Successfully processed subset.
+[Subset ('Category',)] Successfully processed subset.
+[Subset ()] Successfully processed subset.
+[Subset ('ContextualMatch',)] Starting buzzer.py command.
+[Subset ('Length', 'Frequency')] Starting buzzer.py command.
+[Subset ('PreviousGuess',)] Starting buzzer.py command.
+[Subset ('Frequency',)] Successfully processed subset.
+[Subset ('Length', 'Category')] Starting buzzer.py command.
+[Subset ('PreviousGuess',)] Starting eval.py command.
+[Subset ('Length', 'Category')] Starting eval.py command.
+[Subset ('Length', 'Frequency')] Starting eval.py command.
+[Subset ('PreviousGuess',)] Successfully processed subset.
+[Subset ('Length', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Category')] Successfully processed subset.
+[Subset ('Length', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency')] Successfully processed subset.
+[Subset ('Frequency', 'Category')] Starting buzzer.py command.
+[Subset ('ContextualMatch',)] Starting eval.py command.
+[Subset ('Length', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category')] Starting eval.py command.
+[Subset ('Length', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Frequency', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Frequency', 'Category')] Successfully processed subset.
+[Subset ('Frequency', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('ContextualMatch',)] Successfully processed subset.
+[Subset ('Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Frequency', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'ContextualMatch')] Successfully processed subset.
+[Subset ('ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Frequency', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Category', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category')] Starting buzzer.py command.
+[Subset ('Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Frequency', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'Category')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Category', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch')] Starting eval.py command.
+[Subset ('ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Length', 'Category', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Frequency', 'Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Frequency', 'Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Category', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Frequency', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Frequency', 'Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Frequency', 'Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Length', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Frequency', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Frequency', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Category', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ()] Starting buzzer.py command.
+[Subset ('Length',)] Starting buzzer.py command.
+[Subset ('Frequency',)] Starting buzzer.py command.
+[Subset ('Category',)] Starting buzzer.py command.
+[Subset ()] Starting eval.py command.
+[Subset ('Length',)] Starting eval.py command.
+[Subset ('Category',)] Starting eval.py command.
+[Subset ('Frequency',)] Starting eval.py command.
+[Subset ()] Successfully processed subset.
+[Subset ('ContextualMatch',)] Starting buzzer.py command.
+[Subset ('Category',)] Successfully processed subset.
+[Subset ('PreviousGuess',)] Starting buzzer.py command.
+[Subset ('Length',)] Successfully processed subset.
+[Subset ('Length', 'Frequency')] Starting buzzer.py command.
+[Subset ('Frequency',)] Successfully processed subset.
+[Subset ('Length', 'Category')] Starting buzzer.py command.
+[Subset ('PreviousGuess',)] Starting eval.py command.
+[Subset ('Length', 'Category')] Starting eval.py command.
+[Subset ('Length', 'Frequency')] Starting eval.py command.
+[Subset ('PreviousGuess',)] Successfully processed subset.
+[Subset ('Length', 'Category')] Successfully processed subset.
+[Subset ('Length', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency')] Successfully processed subset.
+[Subset ('Frequency', 'Category')] Starting buzzer.py command.
+[Subset ('Length', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category')] Starting eval.py command.
+[Subset ('Length', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Frequency', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Frequency', 'Category')] Successfully processed subset.
+[Subset ('Frequency', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Frequency', 'PreviousGuess')] Starting eval.py command.
+[Subset ('ContextualMatch',)] Starting eval.py command.
+[Subset ('Frequency', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'ContextualMatch')] Starting eval.py command.
+[Subset ('ContextualMatch',)] Successfully processed subset.
+[Subset ('Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Category', 'PreviousGuess')] Successfully processed subset.
+[Subset ('ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category')] Starting buzzer.py command.
+[Subset ('Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'Category')] Starting eval.py command.
+[Subset ('Frequency', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Category', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Category', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch')] Starting eval.py command.
+[Subset ('ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Frequency', 'Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Frequency', 'Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Category', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Frequency', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Frequency', 'Category', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Frequency', 'Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Length', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Frequency', 'Category', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'Category', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Frequency', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Category', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ()] Starting buzzer.py command.
+[Subset ('Length',)] Starting buzzer.py command.
+[Subset ('Frequency',)] Starting buzzer.py command.
+[Subset ('Category',)] Starting buzzer.py command.
+[Subset ('Length',)] Starting eval.py command.
+[Subset ()] Starting eval.py command.
+[Subset ('Category',)] Starting eval.py command.
+[Subset ('Frequency',)] Starting eval.py command.
+[Subset ('Category',)] Successfully processed subset.
+[Subset ('ContextualMatch',)] Starting buzzer.py command.
+[Subset ()] Successfully processed subset.
+[Subset ('PreviousGuess',)] Starting buzzer.py command.
+[Subset ('Length',)] Successfully processed subset.
+[Subset ('Length', 'Frequency')] Starting buzzer.py command.
+[Subset ('Frequency',)] Successfully processed subset.
+[Subset ('Length', 'Category')] Starting buzzer.py command.
+[Subset ('PreviousGuess',)] Starting eval.py command.
+[Subset ('Length', 'Category')] Starting eval.py command.
+[Subset ('Length', 'Frequency')] Starting eval.py command.
+[Subset ('PreviousGuess',)] Successfully processed subset.
+[Subset ('Length', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Category')] Successfully processed subset.
+[Subset ('Length', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency')] Successfully processed subset.
+[Subset ('Frequency', 'Category')] Starting buzzer.py command.
+[Subset ('ContextualMatch',)] Starting eval.py command.
+[Subset ('Length', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category')] Starting eval.py command.
+[Subset ('Length', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Frequency', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Frequency', 'Category')] Successfully processed subset.
+[Subset ('Frequency', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('ContextualMatch',)] Successfully processed subset.
+[Subset ('Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Frequency', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Frequency', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Length', 'ContextualMatch')] Successfully processed subset.
+[Subset ('ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Category', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category')] Starting buzzer.py command.
+[Subset ('Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Frequency', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'Category')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Category', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch')] Starting eval.py command.
+[Subset ('ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Length', 'Category', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Frequency', 'Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Frequency', 'Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Category', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Frequency', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Frequency', 'Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Frequency', 'Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Length', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch')] Starting buzzer.py command.
+[Subset ('Frequency', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch')] Starting eval.py command.
+[Subset ('Category', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting buzzer.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Frequency', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Starting eval.py command.
+[Subset ('Length', 'Category', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
+[Subset ('Length', 'Frequency', 'Category', 'ContextualMatch', 'PreviousGuess')] Successfully processed subset.
