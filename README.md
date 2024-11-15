@@ -89,5 +89,5 @@ The features are correctly implemented in features.py.
 They are instantiated in params.py and included in the feature set.
 
 ## Compare Models
-After training, we compare the performance of models with and without the new feature using the evaluation metrics provided by eval.py. For more details on evaluation, see the Evals Folder.
+After training, we compare the performance of models with and without the new feature using the evaluation metrics provided by eval.py. For more details on evaluation, see the feateng/evals Folder.
 
