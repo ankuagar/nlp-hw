@@ -49,7 +49,10 @@ def add_buzzer_params(parser):
     parser.add_argument('--LogisticBuzzer_filename', type=str, default="models/LogisticBuzzer")
     parser.add_argument('--RNNBuzzer_filename', type=str, default="models/RNNBuzzer")
     parser.add_argument('--rnn_hidden_size', type=int, default=128, help="Hidden size for the RNN model")
-
+    parser.add_argument('--MLPBuzzer_filename', type=str, default="models/MLPBuzzer")       
+    parser.add_argument('--mlp_hidden_dims', type=int, nargs='+', default=[128, 64], help="Hidden layer sizes for MLP-based buzzer.")
+    parser.add_argument('--mlp_learning_rate', type=float, default=1e-3, help="Learning rate for MLP-based buzzer.")
+    
 def add_guesser_params(parser):
     parser.add_argument('--guesser_type', type=str, default="Tfidf")
     # TODO (jbg): This is more general than tfidf, make more general (currently being used by DAN guesser as well)
@@ -189,7 +192,15 @@ def load_buzzer(flags, load=False):
     if flags.buzzer_type == "LogisticBuzzer":
         from logistic_buzzer import LogisticBuzzer
         buzzer = LogisticBuzzer(flags.LogisticBuzzer_filename, flags.run_length, flags.num_guesses)
-
+    elif flags.buzzer_type == "MLP":
+        from mlp_buzzer import MLPBuzzer
+        buzzer = MLPBuzzer(
+            filename=flags.MLPBuzzer_filename,
+            run_length=flags.run_length,
+            num_guesses=flags.num_guesses,
+            hidden_dims=flags.mlp_hidden_dims,
+            learning_rate=flags.mlp_learning_rate,
+        )
     # New logic for RNNBuzzer
     if flags.buzzer_type == "RNNBuzzer":
         from rnn_buzzer import RNNBuzzer
