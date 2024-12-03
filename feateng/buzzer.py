@@ -246,7 +246,6 @@ class Buzzer:
 
         return self._classifier.predict(X), guess, features
     
-           
     def predict(self, questions, online=False):
         """
         Predict from a large set of questions whether you should buzz or not.

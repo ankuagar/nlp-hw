@@ -119,26 +119,30 @@ class RNNBuzzer(Buzzer):
 
     def predict(self, questions=None):
         """
-        Predict with the RNN model.
+        Predict with the RNN model and return outputs in the same format as Buzzer.predict.
         """
         # Ensure self._runs and self._features are populated
-        if not self._runs or not self._features:
+        if not self._runs or not self._features or not self._correct or not self._metadata:
             raise ValueError("No data available. Ensure add_data and build_features are called before prediction.")
 
         # Prepare embeddings and feature matrix
         embedded_data = self.prepare_embeddings()
         feature_matrix = self.prepare_features()
 
-        # Predict
+        # Predict using the RNN model
         self.model.eval()
         with torch.no_grad():
-            predictions = self.model(
+            predictions_tensor = self.model(
                 embedded_data.to(self.device),
                 torch.tensor(feature_matrix, dtype=torch.float32).to(self.device),
             )
-            predicted_labels = torch.argmax(predictions, dim=1).cpu().tolist()
-        return predicted_labels
-    
+            predicted_labels = torch.argmax(predictions_tensor, dim=1).cpu().tolist()
+
+        # Ensure outputs match Buzzer.predict format
+        predictions = predicted_labels
+        return predictions, feature_matrix, self._features, self._correct, self._metadata
+
+        
     def save(self):
         """
         Save the RNN model, featurizer, and additional metadata.

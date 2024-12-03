@@ -134,8 +134,13 @@ def eval_buzzer(buzzer, questions, history_length, history_depth):
         buzzer.model.to(device)
 
     # Predict buzz decisions
-    predict, feature_matrix, feature_dict, correct, metadata = buzzer.predict(questions)
-    
+    if buzzer_type == "MLP":    
+        predict, feature_matrix, feature_dict, correct, metadata = buzzer.predict(buzzer._features)
+    elif buzzer_type == "RNNBuzzer":
+        predict, feature_matrix, feature_dict, correct, metadata = buzzer.predict(questions)
+    else :
+        predict, feature_matrix, feature_dict, correct, metadata = buzzer.predict(questions)
+
     # Debugging: Log predictions and features
     print(f"Predictions (raw): {predict}")  # Raw predictions (probabilities or binary decisions)
     print(f"Feature Matrix Shape: {feature_matrix.shape}")  # Check feature dimensions
@@ -215,6 +220,7 @@ if __name__ == "__main__":
 
     if flags.evaluate == "buzzer":
         buzzer = load_buzzer(flags, load=True)
+        buzzer_type = flags.buzzer_type
         outcomes, examples, unseen = eval_buzzer(buzzer, questions,
                                                  history_length=flags.buzzer_history_length,
                                                  history_depth=flags.buzzer_history_depth)
