@@ -1,0 +1,664 @@
+{
+  "In the limit of low pressure and coverage, this relation can be derived from Hirasaki's model. Solid-phase": {
+    "guess": "Langmuir adsorption model",
+    "confidence": [
+      [
+        "Lang",
+        -0.5049622
+      ],
+      [
+        "m",
+        0.0
+      ],
+      [
+        "uir",
+        0.0
+      ],
+      [
+        " adsorption",
+        -0.13987048
+      ],
+      [
+        " model",
+        -0.015912594
+      ]
+    ]
+  },
+  "In the limit of low pressure and coverage, this relation can be derived from Hirasaki's model. Solid-phase microextraction techniques have been used to determine its constants, two of which are dimensionless,": {
+    "guess": "Langmuir adsorption model",
+    "confidence": [
+      [
+        "Lang",
+        -0.50540435
+      ],
+      [
+        "m",
+        0.0
+      ],
+      [
+        "uir",
+        0.0
+      ],
+      [
+        " adsorption",
+        -0.18320449
+      ],
+      [
+        " model",
+        -0.011046296
+      ]
+    ]
+  },
+  "In the limit of low pressure and coverage, this relation can be derived from Hirasaki's model. Solid-phase microextraction techniques have been used to determine its constants, two of which are dimensionless, and the rest of which must be converted between units, while their reciprocal is the water partition": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9485345
+      ]
+    ]
+  },
+  "In the limit of low pressure and coverage, this relation can be derived from Hirasaki's model. Solid-phase microextraction techniques have been used to determine its constants, two of which are dimensionless, and the rest of which must be converted between units, while their reciprocal is the water partition coefficient. Its application to the solvent is a special case which falls under Raoult's Law,": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.23547514
+      ],
+      [
+        "'s",
+        -2.7610455e-05
+      ],
+      [
+        " law",
+        -0.007608398
+      ]
+    ]
+  },
+  "In the limit of low pressure and coverage, this relation can be derived from Hirasaki's model. Solid-phase microextraction techniques have been used to determine its constants, two of which are dimensionless, and the rest of which must be converted between units, while their reciprocal is the water partition coefficient. Its application to the solvent is a special case which falls under Raoult's Law, and it assumes dilute ideal solutions. Most simply stated as P equals KC, it holds that the concentration": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.014369052
+      ],
+      [
+        "'s",
+        -1.1517961e-05
+      ],
+      [
+        " law",
+        -0.00080450665
+      ]
+    ]
+  },
+  "In the limit of low pressure and coverage, this relation can be derived from Hirasaki's model. Solid-phase microextraction techniques have been used to determine its constants, two of which are dimensionless, and the rest of which must be converted between units, while their reciprocal is the water partition coefficient. Its application to the solvent is a special case which falls under Raoult's Law, and it assumes dilute ideal solutions. Most simply stated as P equals KC, it holds that the concentration of a solute gas in a solution is directly proportional to the partial pressure of that gas": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.0026655502
+      ],
+      [
+        "'s",
+        -6.9882217e-06
+      ],
+      [
+        " law",
+        -0.0006265374
+      ]
+    ]
+  },
+  "In the limit of low pressure and coverage, this relation can be derived from Hirasaki's model. Solid-phase microextraction techniques have been used to determine its constants, two of which are dimensionless, and the rest of which must be converted between units, while their reciprocal is the water partition coefficient. Its application to the solvent is a special case which falls under Raoult's Law, and it assumes dilute ideal solutions. Most simply stated as P equals KC, it holds that the concentration of a solute gas in a solution is directly proportional to the partial pressure of that gas above the solution. The cause of decompression sickness, FTP, give this gas law named for an English": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.00047821683
+      ],
+      [
+        "'s",
+        -1.0206721e-05
+      ],
+      [
+        " law",
+        -0.00070992863
+      ]
+    ]
+  },
+  "In the limit of low pressure and coverage, this relation can be derived from Hirasaki's model. Solid-phase microextraction techniques have been used to determine its constants, two of which are dimensionless, and the rest of which must be converted between units, while their reciprocal is the water partition coefficient. Its application to the solvent is a special case which falls under Raoult's Law, and it assumes dilute ideal solutions. Most simply stated as P equals KC, it holds that the concentration of a solute gas in a solution is directly proportional to the partial pressure of that gas above the solution. The cause of decompression sickness, FTP, give this gas law named for an English chemist.": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.0004686842
+      ],
+      [
+        "'s",
+        -1.0206721e-05
+      ],
+      [
+        " law",
+        -0.0011702254
+      ]
+    ]
+  },
+  "Limited proteolysis, phosphorylation, and isoprenylation all occur here.  In flagellate protozoa, it": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.18460165
+      ]
+    ]
+  },
+  "Limited proteolysis, phosphorylation, and isoprenylation all occur here.  In flagellate protozoa, it is known as the parabasal body and in plants, it is known as the dictyosome.  It was first described": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -1.4498052e-05
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -0.0019286326
+      ]
+    ]
+  },
+  "Limited proteolysis, phosphorylation, and isoprenylation all occur here.  In flagellate protozoa, it is known as the parabasal body and in plants, it is known as the dictyosome.  It was first described in 1898 but, because of the limitations of light microscopy and because staining techniques failed": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -6.7662884e-05
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -0.00033546583
+      ]
+    ]
+  },
+  "Limited proteolysis, phosphorylation, and isoprenylation all occur here.  In flagellate protozoa, it is known as the parabasal body and in plants, it is known as the dictyosome.  It was first described in 1898 but, because of the limitations of light microscopy and because staining techniques failed to resolve its structure, its existence was not proven until the late 1950s.  FTP, name the organelle": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -1.6286107e-05
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -0.00012344286
+      ]
+    ]
+  },
+  "Limited proteolysis, phosphorylation, and isoprenylation all occur here.  In flagellate protozoa, it is known as the parabasal body and in plants, it is known as the dictyosome.  It was first described in 1898 but, because of the limitations of light microscopy and because staining techniques failed to resolve its structure, its existence was not proven until the late 1950s.  FTP, name the organelle where glycosylation occurs and proteins are packaged for secretion.": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -0.00038241007
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -1.6882126e-05
+      ]
+    ]
+  },
+  "The limping pose of the subject in this painting is completely stolen from the Pieta of the artist's": {
+    "guess": "The Entombment (Caravaggio)",
+    "confidence": [
+      [
+        "The",
+        -0.19588892
+      ],
+      [
+        " Ent",
+        -0.3072306
+      ],
+      [
+        "omb",
+        0.0
+      ],
+      [
+        "ment",
+        0.0
+      ],
+      [
+        " (",
+        -0.38867325
+      ],
+      [
+        "Car",
+        -0.047741476
+      ],
+      [
+        "av",
+        -1.9361265e-07
+      ],
+      [
+        "aggio",
+        -1.9361265e-07
+      ],
+      [
+        ")",
+        -0.023335738
+      ]
+    ]
+  },
+  "The limping pose of the subject in this painting is completely stolen from the Pieta of the artist's student. A document in this work mentions a \"mother of five children whose husband has died for his": {
+    "guess": "The Death of Marat",
+    "confidence": [
+      [
+        "The",
+        -0.03362172
+      ],
+      [
+        " Death",
+        -0.0056836996
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Mar",
+        -0.00056316133
+      ],
+      [
+        "at",
+        0.0
+      ]
+    ]
+  },
+  "The limping pose of the subject in this painting is completely stolen from the Pieta of the artist's student. A document in this work mentions a \"mother of five children whose husband has died for his country\" next to a bill of money. An update of this painting that includes a bowl of fruit and a fancy": {
+    "guess": "Oath of the Horatii",
+    "confidence": [
+      [
+        "O",
+        -0.79742974
+      ],
+      [
+        "ath",
+        -0.00018840152
+      ],
+      [
+        " of",
+        -3.4121115e-06
+      ],
+      [
+        " the",
+        -3.888926e-06
+      ],
+      [
+        " Hor",
+        -6.122589e-05
+      ],
+      [
+        "atii",
+        -4.365741e-06
+      ]
+    ]
+  },
+  "The limping pose of the subject in this painting is completely stolen from the Pieta of the artist's student. A document in this work mentions a \"mother of five children whose husband has died for his country\" next to a bill of money. An update of this painting that includes a bowl of fruit and a fancy hat on top of a pink table was painted by (*) Edvard Munch - that version takes the liberty of including": {
+    "guess": "The Death of Marat",
+    "confidence": [
+      [
+        "The",
+        -0.20490102
+      ],
+      [
+        " Death",
+        -0.06433285
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Mar",
+        -1.5213274e-05
+      ],
+      [
+        "at",
+        0.0
+      ]
+    ]
+  },
+  "The limping pose of the subject in this painting is completely stolen from the Pieta of the artist's student. A document in this work mentions a \"mother of five children whose husband has died for his country\" next to a bill of money. An update of this painting that includes a bowl of fruit and a fancy hat on top of a pink table was painted by (*) Edvard Munch - that version takes the liberty of including a naked woman in the middle. The wooden box at the bottom of this painting contains the subject's": {
+    "guess": "The Death of Marat",
+    "confidence": [
+      [
+        "The",
+        -0.018078767
+      ],
+      [
+        " Death",
+        -0.0020115525
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Mar",
+        -0.00016039233
+      ],
+      [
+        "at",
+        0.0
+      ]
+    ]
+  },
+  "The limping pose of the subject in this painting is completely stolen from the Pieta of the artist's student. A document in this work mentions a \"mother of five children whose husband has died for his country\" next to a bill of money. An update of this painting that includes a bowl of fruit and a fancy hat on top of a pink table was painted by (*) Edvard Munch - that version takes the liberty of including a naked woman in the middle. The wooden box at the bottom of this painting contains the subject's and the artist's name. It depicts a man with a letter of introduction in his right hand, who is": {
+    "guess": "The Death of Marat",
+    "confidence": [
+      [
+        "The",
+        -0.15767744
+      ],
+      [
+        " Death",
+        -0.20139335
+      ],
+      [
+        " of",
+        -6.704273e-07
+      ],
+      [
+        " Mar",
+        -0.0038493595
+      ],
+      [
+        "at",
+        0.0
+      ]
+    ]
+  },
+  "The limping pose of the subject in this painting is completely stolen from the Pieta of the artist's student. A document in this work mentions a \"mother of five children whose husband has died for his country\" next to a bill of money. An update of this painting that includes a bowl of fruit and a fancy hat on top of a pink table was painted by (*) Edvard Munch - that version takes the liberty of including a naked woman in the middle. The wooden box at the bottom of this painting contains the subject's and the artist's name. It depicts a man with a letter of introduction in his right hand, who is sitting in a bathtub with green draperies. For 10 points, name this Jacques-Louis David painting depicting": {
+    "guess": "The Death of Marat",
+    "confidence": [
+      [
+        "The",
+        -0.3169276
+      ],
+      [
+        " Death",
+        -1.0445127e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Mar",
+        0.0
+      ],
+      [
+        "at",
+        0.0
+      ]
+    ]
+  },
+  "The limping pose of the subject in this painting is completely stolen from the Pieta of the artist's student. A document in this work mentions a \"mother of five children whose husband has died for his country\" next to a bill of money. An update of this painting that includes a bowl of fruit and a fancy hat on top of a pink table was painted by (*) Edvard Munch - that version takes the liberty of including a naked woman in the middle. The wooden box at the bottom of this painting contains the subject's and the artist's name. It depicts a man with a letter of introduction in his right hand, who is sitting in a bathtub with green draperies. For 10 points, name this Jacques-Louis David painting depicting the murder of a French Revolutionary leader.": {
+    "guess": "The Death of Marat",
+    "confidence": [
+      [
+        "The",
+        -0.08051564
+      ],
+      [
+        " Death",
+        -5.5122365e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Mar",
+        0.0
+      ],
+      [
+        "at",
+        0.0
+      ]
+    ]
+  },
+  "Lil' Scrappy refers to this entity in the chorus of his song \"Lord Have Mercy,\" and notes after that": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.42724022
+      ],
+      [
+        ".",
+        -0.69316494
+      ]
+    ]
+  },
+  "Lil' Scrappy refers to this entity in the chorus of his song \"Lord Have Mercy,\" and notes after that line that he \"don't wanna burn.\" In a UGK song by this name, Pimp C notes that one of these exists \"for": {
+    "guess": "Heaven",
+    "confidence": [
+      [
+        "He",
+        -0.028184002
+      ],
+      [
+        "aven",
+        -0.00026169344
+      ]
+    ]
+  },
+  "Lil' Scrappy refers to this entity in the chorus of his song \"Lord Have Mercy,\" and notes after that line that he \"don't wanna burn.\" In a UGK song by this name, Pimp C notes that one of these exists \"for the people in the game sellin' cheese\" and posits if he'll \"see Screw again, got one foot in the": {
+    "guess": "Heaven",
+    "confidence": [
+      [
+        "He",
+        -0.045779925
+      ],
+      [
+        "aven",
+        -6.392203e-06
+      ]
+    ]
+  },
+  "Lil' Scrappy refers to this entity in the chorus of his song \"Lord Have Mercy,\" and notes after that line that he \"don't wanna burn.\" In a UGK song by this name, Pimp C notes that one of these exists \"for the people in the game sellin' cheese\" and posits if he'll \"see Screw again, got one foot in the street and one foot in the pen,\" and the final line of Lupe Fiasco's song \"The Cool\" features a response": {
+    "guess": "Heaven or Hell",
+    "confidence": [
+      [
+        "He",
+        -0.011581301
+      ],
+      [
+        "aven",
+        -1.147242e-06
+      ],
+      [
+        " or",
+        -0.5645799
+      ],
+      [
+        " Hell",
+        -0.0008198729
+      ]
+    ]
+  },
+  "Lil' Scrappy refers to this entity in the chorus of his song \"Lord Have Mercy,\" and notes after that line that he \"don't wanna burn.\" In a UGK song by this name, Pimp C notes that one of these exists \"for the people in the game sellin' cheese\" and posits if he'll \"see Screw again, got one foot in the street and one foot in the pen,\" and the final line of Lupe Fiasco's song \"The Cool\" features a response mentioning it after \"hustler for death.\" It is referenced after the line \"How many brothas fell": {
+    "guess": "Heaven",
+    "confidence": [
+      [
+        "He",
+        -0.0020184517
+      ],
+      [
+        "aven",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Lil' Scrappy refers to this entity in the chorus of his song \"Lord Have Mercy,\" and notes after that line that he \"don't wanna burn.\" In a UGK song by this name, Pimp C notes that one of these exists \"for the people in the game sellin' cheese\" and posits if he'll \"see Screw again, got one foot in the street and one foot in the pen,\" and the final line of Lupe Fiasco's song \"The Cool\" features a response mentioning it after \"hustler for death.\" It is referenced after the line \"How many brothas fell victim to tha streetz\" in Tupac's song \"Life Goes On,\" and later Tupac offered an (*) alternative": {
+    "guess": "Heaven",
+    "confidence": [
+      [
+        "He",
+        -0.0019061435
+      ],
+      [
+        "aven",
+        0.0
+      ]
+    ]
+  },
+  "Lil' Scrappy refers to this entity in the chorus of his song \"Lord Have Mercy,\" and notes after that line that he \"don't wanna burn.\" In a UGK song by this name, Pimp C notes that one of these exists \"for the people in the game sellin' cheese\" and posits if he'll \"see Screw again, got one foot in the street and one foot in the pen,\" and the final line of Lupe Fiasco's song \"The Cool\" features a response mentioning it after \"hustler for death.\" It is referenced after the line \"How many brothas fell victim to tha streetz\" in Tupac's song \"Life Goes On,\" and later Tupac offered an (*) alternative to it, where \"thugs get in free and you gotta be a G\" in \"Thugz Mansion.\" For 10 points, name this place": {
+    "guess": "Heaven",
+    "confidence": [
+      [
+        "He",
+        -0.0008155853
+      ],
+      [
+        "aven",
+        0.0
+      ]
+    ]
+  },
+  "Lil' Scrappy refers to this entity in the chorus of his song \"Lord Have Mercy,\" and notes after that line that he \"don't wanna burn.\" In a UGK song by this name, Pimp C notes that one of these exists \"for the people in the game sellin' cheese\" and posits if he'll \"see Screw again, got one foot in the street and one foot in the pen,\" and the final line of Lupe Fiasco's song \"The Cool\" features a response mentioning it after \"hustler for death.\" It is referenced after the line \"How many brothas fell victim to tha streetz\" in Tupac's song \"Life Goes On,\" and later Tupac offered an (*) alternative to it, where \"thugs get in free and you gotta be a G\" in \"Thugz Mansion.\" For 10 points, name this place which Nas thought about \"a mile away, and you could ride by the gates,\" a place to which Pimp C,": {
+    "guess": "Heaven",
+    "confidence": [
+      [
+        "He",
+        -0.10796342
+      ],
+      [
+        "aven",
+        0.0
+      ]
+    ]
+  },
+  "Lil' Scrappy refers to this entity in the chorus of his song \"Lord Have Mercy,\" and notes after that line that he \"don't wanna burn.\" In a UGK song by this name, Pimp C notes that one of these exists \"for the people in the game sellin' cheese\" and posits if he'll \"see Screw again, got one foot in the street and one foot in the pen,\" and the final line of Lupe Fiasco's song \"The Cool\" features a response mentioning it after \"hustler for death.\" It is referenced after the line \"How many brothas fell victim to tha streetz\" in Tupac's song \"Life Goes On,\" and later Tupac offered an (*) alternative to it, where \"thugs get in free and you gotta be a G\" in \"Thugz Mansion.\" For 10 points, name this place which Nas thought about \"a mile away, and you could ride by the gates,\" a place to which Pimp C, the Notorious B.I.G. and Tupac probably did not ascend after death.": {
+    "guess": "Hell",
+    "confidence": [
+      [
+        "Hell",
+        -0.14304304
+      ]
+    ]
+  },
+  "Lillian Hellman called it \"the great play of our time.\" It has a scene in which Mr. Peachum sells Filch": {
+    "guess": "The Threepenny Opera",
+    "confidence": [
+      [
+        "The",
+        -0.018737204
+      ],
+      [
+        " Three",
+        -0.0009251573
+      ],
+      [
+        "p",
+        0.0
+      ],
+      [
+        "enny",
+        -1.9361265e-07
+      ],
+      [
+        " Opera",
+        0.0
+      ]
+    ]
+  },
+  "Lillian Hellman called it \"the great play of our time.\" It has a scene in which Mr. Peachum sells Filch \"begging licenses.\" The central character, Mackie the Knife, seeks the hand of Polly Peachum. For": {
+    "guess": "The Threepenny Opera",
+    "confidence": [
+      [
+        "The",
+        -0.038073856
+      ],
+      [
+        " Three",
+        -6.1821906e-05
+      ],
+      [
+        "p",
+        0.0
+      ],
+      [
+        "enny",
+        -3.1281633e-07
+      ],
+      [
+        " Opera",
+        0.0
+      ]
+    ]
+  },
+  "Lillian Hellman called it \"the great play of our time.\" It has a scene in which Mr. Peachum sells Filch \"begging licenses.\" The central character, Mackie the Knife, seeks the hand of Polly Peachum. For 10 points, name this play, a spin-off of the John Gay comedy, The Beggar's Opera, written by German": {
+    "guess": "The Threepenny Opera",
+    "confidence": [
+      [
+        "The",
+        -8.5543434e-05
+      ],
+      [
+        " Three",
+        0.0
+      ],
+      [
+        "p",
+        0.0
+      ],
+      [
+        "enny",
+        -3.1281633e-07
+      ],
+      [
+        " Opera",
+        0.0
+      ]
+    ]
+  },
+  "Lillian Hellman called it \"the great play of our time.\" It has a scene in which Mr. Peachum sells Filch \"begging licenses.\" The central character, Mackie the Knife, seeks the hand of Polly Peachum. For 10 points, name this play, a spin-off of the John Gay comedy, The Beggar's Opera, written by German playwright Bertolt Brecht.": {
+    "guess": "The Threepenny Opera",
+    "confidence": [
+      [
+        "The",
+        -0.00015896189
+      ],
+      [
+        " Three",
+        0.0
+      ],
+      [
+        "p",
+        0.0
+      ],
+      [
+        "enny",
+        -1.504853e-06
+      ],
+      [
+        " Opera",
+        0.0
+      ]
+    ]
+  }
+}

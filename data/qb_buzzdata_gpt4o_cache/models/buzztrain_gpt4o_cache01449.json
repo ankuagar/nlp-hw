@@ -1,0 +1,217 @@
+{
+  "The Duane-Hunt law describes an inverse form of this phenomenon produced by the bremsstrahlung. The stopping": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.28870827
+      ]
+    ]
+  },
+  "The Duane-Hunt law describes an inverse form of this phenomenon produced by the bremsstrahlung. The stopping potential is typically used in experimental measurements of this phenomenon. Millikan was able": {
+    "guess": "Photoelectric effect",
+    "confidence": [
+      [
+        "Photo",
+        -0.03186537
+      ],
+      [
+        "electric",
+        -9.0883464e-07
+      ],
+      [
+        " effect",
+        -8.006007e-05
+      ]
+    ]
+  },
+  "The Duane-Hunt law describes an inverse form of this phenomenon produced by the bremsstrahlung. The stopping potential is typically used in experimental measurements of this phenomenon. Millikan was able to measure Planck's constant to within 0.5% precision in a series of experiments on this effect.": {
+    "guess": "Photoelectric effect",
+    "confidence": [
+      [
+        "Photo",
+        -0.0032957054
+      ],
+      [
+        "electric",
+        -1.9361265e-07
+      ],
+      [
+        " effect",
+        -2.3915141e-05
+      ]
+    ]
+  },
+  "The Duane-Hunt law describes an inverse form of this phenomenon produced by the bremsstrahlung. The stopping potential is typically used in experimental measurements of this phenomenon. Millikan was able to measure Planck's constant to within 0.5% precision in a series of experiments on this effect. The change in energy of a certain particle due to it is independent of intensity of the incident radiation.": {
+    "guess": "Photoelectric effect",
+    "confidence": [
+      [
+        "Photo",
+        -0.00057030993
+      ],
+      [
+        "electric",
+        0.0
+      ],
+      [
+        " effect",
+        -7.016616e-05
+      ]
+    ]
+  },
+  "The Duane-Hunt law describes an inverse form of this phenomenon produced by the bremsstrahlung. The stopping potential is typically used in experimental measurements of this phenomenon. Millikan was able to measure Planck's constant to within 0.5% precision in a series of experiments on this effect. The change in energy of a certain particle due to it is independent of intensity of the incident radiation. It can only occur when the work function is less than the product of Planck's constant and the": {
+    "guess": "Photoelectric effect",
+    "confidence": [
+      [
+        "Photo",
+        -0.0003159201
+      ],
+      [
+        "electric",
+        0.0
+      ],
+      [
+        " effect",
+        -0.009762937
+      ]
+    ]
+  },
+  "The Duane-Hunt law describes an inverse form of this phenomenon produced by the bremsstrahlung. The stopping potential is typically used in experimental measurements of this phenomenon. Millikan was able to measure Planck's constant to within 0.5% precision in a series of experiments on this effect. The change in energy of a certain particle due to it is independent of intensity of the incident radiation. It can only occur when the work function is less than the product of Planck's constant and the frequency of the incident light. For 10 points, name this effect in which photons eject electrons": {
+    "guess": "Photoelectric effect",
+    "confidence": [
+      [
+        "Photo",
+        -0.0002787359
+      ],
+      [
+        "electric",
+        0.0
+      ],
+      [
+        " effect",
+        -6.6232446e-05
+      ]
+    ]
+  },
+  "The Duane-Hunt law describes an inverse form of this phenomenon produced by the bremsstrahlung. The stopping potential is typically used in experimental measurements of this phenomenon. Millikan was able to measure Planck's constant to within 0.5% precision in a series of experiments on this effect. The change in energy of a certain particle due to it is independent of intensity of the incident radiation. It can only occur when the work function is less than the product of Planck's constant and the frequency of the incident light. For 10 points, name this effect in which photons eject electrons from a metal plate, whose explanation won Einstein the 1905 Nobel Prize.": {
+    "guess": "Photoelectric effect",
+    "confidence": [
+      [
+        "Photo",
+        -0.00081796566
+      ],
+      [
+        "electric",
+        0.0
+      ],
+      [
+        " effect",
+        -1.962381e-05
+      ]
+    ]
+  },
+  "This is the dual of the Voronoi diagram in R2 [R2] and is defined as the triangulation of a set of points": {
+    "guess": "Delaunay triangulation",
+    "confidence": [
+      [
+        "D",
+        -9.984788e-05
+      ],
+      [
+        "ela",
+        0.0
+      ],
+      [
+        "unay",
+        -9.0883464e-07
+      ],
+      [
+        " triang",
+        -0.009797292
+      ],
+      [
+        "ulation",
+        0.0
+      ]
+    ]
+  },
+  "This is the dual of the Voronoi diagram in R2 [R2] and is defined as the triangulation of a set of points such that no other point is inside the circumcircle of a triangle. The Euclidean minimum spanning": {
+    "guess": "Delaunay triangulation",
+    "confidence": [
+      [
+        "D",
+        -0.00096267345
+      ],
+      [
+        "ela",
+        0.0
+      ],
+      [
+        "unay",
+        -6.704273e-07
+      ],
+      [
+        " triang",
+        -0.043035273
+      ],
+      [
+        "ulation",
+        0.0
+      ]
+    ]
+  },
+  "This is the dual of the Voronoi diagram in R2 [R2] and is defined as the triangulation of a set of points such that no other point is inside the circumcircle of a triangle. The Euclidean minimum spanning tree of a set of points is a subset of this triangulation of the same points. It is often used to": {
+    "guess": "Delaunay Triangulation",
+    "confidence": [
+      [
+        "D",
+        -2.8444882e-05
+      ],
+      [
+        "ela",
+        0.0
+      ],
+      [
+        "unay",
+        -4.3202e-07
+      ],
+      [
+        " Tri",
+        -0.16023844
+      ],
+      [
+        "ang",
+        0.0
+      ],
+      [
+        "ulation",
+        0.0
+      ]
+    ]
+  },
+  "This is the dual of the Voronoi diagram in R2 [R2] and is defined as the triangulation of a set of points such that no other point is inside the circumcircle of a triangle. The Euclidean minimum spanning tree of a set of points is a subset of this triangulation of the same points. It is often used to build meshes for finite element computer codes.": {
+    "guess": "Delaunay triangulation",
+    "confidence": [
+      [
+        "D",
+        -7.100059e-05
+      ],
+      [
+        "ela",
+        0.0
+      ],
+      [
+        "unay",
+        -1.8624639e-06
+      ],
+      [
+        " triang",
+        -0.0070188222
+      ],
+      [
+        "ulation",
+        0.0
+      ]
+    ]
+  }
+}

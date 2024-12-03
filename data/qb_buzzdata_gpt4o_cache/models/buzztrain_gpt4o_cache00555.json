@@ -1,0 +1,401 @@
+{
+  "Bloodstone, agate, and onyx are chalcedonic varieties of this mineral.  Other color variations arise": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -3.523949e-05
+      ]
+    ]
+  },
+  "Bloodstone, agate, and onyx are chalcedonic varieties of this mineral.  Other color variations arise from substituting atoms for silicon; iron for citrine and amethysts, titanium for the rose variety.": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.0298515
+      ]
+    ]
+  },
+  "Bloodstone, agate, and onyx are chalcedonic varieties of this mineral.  Other color variations arise from substituting atoms for silicon; iron for citrine and amethysts, titanium for the rose variety.  When cemented it makes sandstone and when fused, silica glass.  For ten points, identify this mineral": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -1.92662e-05
+      ]
+    ]
+  },
+  "Bloodstone, agate, and onyx are chalcedonic varieties of this mineral.  Other color variations arise from substituting atoms for silicon; iron for citrine and amethysts, titanium for the rose variety.  When cemented it makes sandstone and when fused, silica glass.  For ten points, identify this mineral composed of crystalline silicon dioxide.": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.0016818441
+      ]
+    ]
+  },
+  "Blogs it hosts include \"Evaluations,\" started in December 2009. Books by its current contributors include": {
+    "guess": "The New Republic",
+    "confidence": [
+      [
+        "The",
+        -0.48339537
+      ],
+      [
+        " New",
+        -0.32908055
+      ],
+      [
+        " Republic",
+        -0.27975413
+      ]
+    ]
+  },
+  "Blogs it hosts include \"Evaluations,\" started in December 2009. Books by its current contributors include a study of \"an elite based on brainpower,\" Bobos in Paradise. Another of its writers published": {
+    "guess": "The New York Times",
+    "confidence": [
+      [
+        "The",
+        -0.1736891
+      ],
+      [
+        " New",
+        -0.26748008
+      ],
+      [
+        " York",
+        -0.018635413
+      ],
+      [
+        " Times",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Blogs it hosts include \"Evaluations,\" started in December 2009. Books by its current contributors include a study of \"an elite based on brainpower,\" Bobos in Paradise. Another of its writers published The Greatest Story Ever Sold about the deceptions of the Bush Administration. In addition to David Brooks": {
+    "guess": "The New York Times",
+    "confidence": [
+      [
+        "The",
+        -0.017654408
+      ],
+      [
+        " New",
+        -0.012245913
+      ],
+      [
+        " York",
+        -1.9361265e-07
+      ],
+      [
+        " Times",
+        0.0
+      ]
+    ]
+  },
+  "Blogs it hosts include \"Evaluations,\" started in December 2009. Books by its current contributors include a study of \"an elite based on brainpower,\" Bobos in Paradise. Another of its writers published The Greatest Story Ever Sold about the deceptions of the Bush Administration. In addition to David Brooks and Frank Rich, its weekly writers include Gail Collins, Ross Douthat (DOW-that), and Maureen": {
+    "guess": "The New York Times",
+    "confidence": [
+      [
+        "The",
+        -0.028153297
+      ],
+      [
+        " New",
+        -0.0004331725
+      ],
+      [
+        " York",
+        0.0
+      ],
+      [
+        " Times",
+        0.0
+      ]
+    ]
+  },
+  "Blogs it hosts include \"Evaluations,\" started in December 2009. Books by its current contributors include a study of \"an elite based on brainpower,\" Bobos in Paradise. Another of its writers published The Greatest Story Ever Sold about the deceptions of the Bush Administration. In addition to David Brooks and Frank Rich, its weekly writers include Gail Collins, Ross Douthat (DOW-that), and Maureen Dowd. For 10 points, name this newspaper, whose op-ed page features the weekly stylings of Paul Krugman": {
+    "guess": "The New York Times",
+    "confidence": [
+      [
+        "The",
+        -0.00977781
+      ],
+      [
+        " New",
+        -0.00043078844
+      ],
+      [
+        " York",
+        0.0
+      ],
+      [
+        " Times",
+        0.0
+      ]
+    ]
+  },
+  "Blogs it hosts include \"Evaluations,\" started in December 2009. Books by its current contributors include a study of \"an elite based on brainpower,\" Bobos in Paradise. Another of its writers published The Greatest Story Ever Sold about the deceptions of the Bush Administration. In addition to David Brooks and Frank Rich, its weekly writers include Gail Collins, Ross Douthat (DOW-that), and Maureen Dowd. For 10 points, name this newspaper, whose op-ed page features the weekly stylings of Paul Krugman and Thomas Friedman.": {
+    "guess": "The New York Times",
+    "confidence": [
+      [
+        "The",
+        -0.004882431
+      ],
+      [
+        " New",
+        -0.0003360582
+      ],
+      [
+        " York",
+        0.0
+      ],
+      [
+        " Times",
+        0.0
+      ]
+    ]
+  },
+  "Bloom filters require a set of different functions that do this. In cryptography, algorithms that perform": {
+    "guess": "Hash function",
+    "confidence": [
+      [
+        "Hash",
+        -0.09874099
+      ],
+      [
+        " function",
+        -0.7319648
+      ]
+    ]
+  },
+  "Bloom filters require a set of different functions that do this. In cryptography, algorithms that perform this task should have a strong avalanche effect and include WHIRLPOOL, MD5, and the SHA family.": {
+    "guess": "Hash function",
+    "confidence": [
+      [
+        "Hash",
+        -0.09007893
+      ],
+      [
+        " function",
+        -0.0006658526
+      ]
+    ]
+  },
+  "Bloom filters require a set of different functions that do this. In cryptography, algorithms that perform this task should have a strong avalanche effect and include WHIRLPOOL, MD5, and the SHA family. Data structures that use open addressing can perform this action several times to locate elements.": {
+    "guess": "Hash function",
+    "confidence": [
+      [
+        "Hash",
+        -0.004651911
+      ],
+      [
+        " function",
+        -0.4989565
+      ]
+    ]
+  },
+  "Bloom filters require a set of different functions that do this. In cryptography, algorithms that perform this task should have a strong avalanche effect and include WHIRLPOOL, MD5, and the SHA family. Data structures that use open addressing can perform this action several times to locate elements. For ten points, name the action that turns any large element or piece of data into a single integer,": {
+    "guess": "Hashing",
+    "confidence": [
+      [
+        "Hash",
+        -0.00081129395
+      ],
+      [
+        "ing",
+        -0.00079568924
+      ]
+    ]
+  },
+  "Bloom filters require a set of different functions that do this. In cryptography, algorithms that perform this task should have a strong avalanche effect and include WHIRLPOOL, MD5, and the SHA family. Data structures that use open addressing can perform this action several times to locate elements. For ten points, name the action that turns any large element or piece of data into a single integer, often used in sets and maps.": {
+    "guess": "Hashing",
+    "confidence": [
+      [
+        "Hash",
+        -0.00029887765
+      ],
+      [
+        "ing",
+        -0.0013730881
+      ]
+    ]
+  },
+  "The bloody battle of Ligny preceded this battle and kept one side from joining this battle until late": {
+    "guess": "Battle of Waterloo",
+    "confidence": [
+      [
+        "Battle",
+        -3.070975e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Waterloo",
+        -0.0001439459
+      ]
+    ]
+  },
+  "The bloody battle of Ligny preceded this battle and kept one side from joining this battle until late afternoon. Early on, the losing side in this battle became bogged down trying to take the heavily fortified": {
+    "guess": "Battle of Waterloo",
+    "confidence": [
+      [
+        "Battle",
+        -2.6656826e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Waterloo",
+        -3.0545007e-06
+      ]
+    ]
+  },
+  "The bloody battle of Ligny preceded this battle and kept one side from joining this battle until late afternoon. Early on, the losing side in this battle became bogged down trying to take the heavily fortified chateau Hougomont. Later in this battle, Bernhardt of Saxe-Weimar re-took Papelotte for the": {
+    "guess": "Battle of Waterloo",
+    "confidence": [
+      [
+        "Battle",
+        -0.0005175284
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Waterloo",
+        0.0
+      ]
+    ]
+  },
+  "The bloody battle of Ligny preceded this battle and kept one side from joining this battle until late afternoon. Early on, the losing side in this battle became bogged down trying to take the heavily fortified chateau Hougomont. Later in this battle, Bernhardt of Saxe-Weimar re-took Papelotte for the victors, and (*) Michel Ney was ordered to capture La Haye Saint for the eventual losers. A cavalry": {
+    "guess": "Waterloo",
+    "confidence": [
+      [
+        "Water",
+        -0.011190357
+      ],
+      [
+        "loo",
+        0.0
+      ]
+    ]
+  },
+  "The bloody battle of Ligny preceded this battle and kept one side from joining this battle until late afternoon. Early on, the losing side in this battle became bogged down trying to take the heavily fortified chateau Hougomont. Later in this battle, Bernhardt of Saxe-Weimar re-took Papelotte for the victors, and (*) Michel Ney was ordered to capture La Haye Saint for the eventual losers. A cavalry charge into Allied squares was unsuccessful and the Imperial Guard retreated shortly after the arrival": {
+    "guess": "Waterloo",
+    "confidence": [
+      [
+        "Water",
+        -0.006821936
+      ],
+      [
+        "loo",
+        0.0
+      ]
+    ]
+  },
+  "The bloody battle of Ligny preceded this battle and kept one side from joining this battle until late afternoon. Early on, the losing side in this battle became bogged down trying to take the heavily fortified chateau Hougomont. Later in this battle, Bernhardt of Saxe-Weimar re-took Papelotte for the victors, and (*) Michel Ney was ordered to capture La Haye Saint for the eventual losers. A cavalry charge into Allied squares was unsuccessful and the Imperial Guard retreated shortly after the arrival of the Prussians under Gebhard von Blucher.  For 10 points, name this 1815 battle in modern-day": {
+    "guess": "Battle of Waterloo",
+    "confidence": [
+      [
+        "Battle",
+        -0.25225168
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Waterloo",
+        0.0
+      ]
+    ]
+  },
+  "The bloody battle of Ligny preceded this battle and kept one side from joining this battle until late afternoon. Early on, the losing side in this battle became bogged down trying to take the heavily fortified chateau Hougomont. Later in this battle, Bernhardt of Saxe-Weimar re-took Papelotte for the victors, and (*) Michel Ney was ordered to capture La Haye Saint for the eventual losers. A cavalry charge into Allied squares was unsuccessful and the Imperial Guard retreated shortly after the arrival of the Prussians under Gebhard von Blucher.  For 10 points, name this 1815 battle in modern-day Belgium where the Duke of Wellington defeat Napoleon, ending his Hundred Days.": {
+    "guess": "Battle of Waterloo",
+    "confidence": [
+      [
+        "Battle",
+        -0.16264725
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Waterloo",
+        0.0
+      ]
+    ]
+  },
+  "Blood from the Splenic vein joins the mesenteric veins before flowing into this  organ. This organ is": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.03622156
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Blood from the Splenic vein joins the mesenteric veins before flowing into this  organ. This organ is one of the only internal organs that is capable of regeneration if  a large part of it is removed,": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.015979474
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Blood from the Splenic vein joins the mesenteric veins before flowing into this  organ. This organ is one of the only internal organs that is capable of regeneration if  a large part of it is removed, making it easier to transplant. In addition to being the  largest gland in the human body, this organ": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.057173073
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Blood from the Splenic vein joins the mesenteric veins before flowing into this  organ. This organ is one of the only internal organs that is capable of regeneration if  a large part of it is removed, making it easier to transplant. In addition to being the  largest gland in the human body, this organ is also the largest internal organ. For ten  points, name this four-lobed organ that is responsible": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.023350762
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Blood from the Splenic vein joins the mesenteric veins before flowing into this  organ. This organ is one of the only internal organs that is capable of regeneration if  a large part of it is removed, making it easier to transplant. In addition to being the  largest gland in the human body, this organ is also the largest internal organ. For ten  points, name this four-lobed organ that is responsible for releasing bile and breaking  down toxic substances and is the target of the hepatitis disease.": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.006014945
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  }
+}

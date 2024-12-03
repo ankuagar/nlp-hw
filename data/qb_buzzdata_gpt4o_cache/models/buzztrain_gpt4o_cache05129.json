@@ -1,0 +1,270 @@
+{
+  "Both nitrogen and sulfur-containing compounds of this class can undergo the Stevens rearrangement.  The": {
+    "guess": "Amine",
+    "confidence": [
+      [
+        "Am",
+        -0.03314256
+      ],
+      [
+        "ine",
+        -0.023245826
+      ]
+    ]
+  },
+  "Both nitrogen and sulfur-containing compounds of this class can undergo the Stevens rearrangement.  The sulfur variety are formed as intermediates in DMSO oxidations such as the Pfitzner-Moffatt and Swern": {
+    "guess": "Sulfonium ylides",
+    "confidence": [
+      [
+        "Sul",
+        -0.26728383
+      ],
+      [
+        "fon",
+        -0.100845635
+      ],
+      [
+        "ium",
+        -1.0325924e-05
+      ],
+      [
+        " yl",
+        -0.44372988
+      ],
+      [
+        "ides",
+        -0.00015955791
+      ]
+    ]
+  },
+  "Both nitrogen and sulfur-containing compounds of this class can undergo the Stevens rearrangement.  The sulfur variety are formed as intermediates in DMSO oxidations such as the Pfitzner-Moffatt and Swern reactions.  Variants of the most widely used reaction involving these compounds include those using": {
+    "guess": "Ylide",
+    "confidence": [
+      [
+        "Y",
+        -0.011809398
+      ],
+      [
+        "lide",
+        -0.0026787487
+      ]
+    ]
+  },
+  "Both nitrogen and sulfur-containing compounds of this class can undergo the Stevens rearrangement.  The sulfur variety are formed as intermediates in DMSO oxidations such as the Pfitzner-Moffatt and Swern reactions.  Variants of the most widely used reaction involving these compounds include those using them as a lithium halide complex, and the Horner-Wadsworth-Emmons reaction, which uses a phosphonate.": {
+    "guess": "Ylide",
+    "confidence": [
+      [
+        "Y",
+        -0.04966942
+      ],
+      [
+        "lide",
+        -0.0053996462
+      ]
+    ]
+  },
+  "Both nitrogen and sulfur-containing compounds of this class can undergo the Stevens rearrangement.  The sulfur variety are formed as intermediates in DMSO oxidations such as the Pfitzner-Moffatt and Swern reactions.  Variants of the most widely used reaction involving these compounds include those using them as a lithium halide complex, and the Horner-Wadsworth-Emmons reaction, which uses a phosphonate.  They are more stable than their corresponding carbanion due to the field effect and they are": {
+    "guess": "Ylide",
+    "confidence": [
+      [
+        "Y",
+        -0.013496887
+      ],
+      [
+        "lide",
+        -0.0146453865
+      ]
+    ]
+  },
+  "Both nitrogen and sulfur-containing compounds of this class can undergo the Stevens rearrangement.  The sulfur variety are formed as intermediates in DMSO oxidations such as the Pfitzner-Moffatt and Swern reactions.  Variants of the most widely used reaction involving these compounds include those using them as a lithium halide complex, and the Horner-Wadsworth-Emmons reaction, which uses a phosphonate.  They are more stable than their corresponding carbanion due to the field effect and they are generated from the corresponding halide using a strong base.  FTP, name these organic compounds whose": {
+    "guess": "Ylide",
+    "confidence": [
+      [
+        "Y",
+        -0.0030548312
+      ],
+      [
+        "lide",
+        -0.0025505773
+      ]
+    ]
+  },
+  "Both nitrogen and sulfur-containing compounds of this class can undergo the Stevens rearrangement.  The sulfur variety are formed as intermediates in DMSO oxidations such as the Pfitzner-Moffatt and Swern reactions.  Variants of the most widely used reaction involving these compounds include those using them as a lithium halide complex, and the Horner-Wadsworth-Emmons reaction, which uses a phosphonate.  They are more stable than their corresponding carbanion due to the field effect and they are generated from the corresponding halide using a strong base.  FTP, name these organic compounds whose phosphorus variety react with aldehydes and ketones in the Wittig reaction.": {
+    "guess": "Ylide",
+    "confidence": [
+      [
+        "Y",
+        -0.0025012214
+      ],
+      [
+        "lide",
+        -0.0067446167
+      ]
+    ]
+  },
+  "Niven's Theorem concerns the values taken by this function on certain rational inputs. This function": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.007968932
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "Niven's Theorem concerns the values taken by this function on certain rational inputs. This function is used to represent the imaginary part of a complex number when converting to polar coordinates and": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.14314346
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "Niven's Theorem concerns the values taken by this function on certain rational inputs. This function is used to represent the imaginary part of a complex number when converting to polar coordinates and is denoted with the hyperbolic function e to the x minus e to the negative x divided by two. The Taylor": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.43125883
+      ],
+      [
+        "ine",
+        -1.18755715e-05
+      ]
+    ]
+  },
+  "Niven's Theorem concerns the values taken by this function on certain rational inputs. This function is used to represent the imaginary part of a complex number when converting to polar coordinates and is denoted with the hyperbolic function e to the x minus e to the negative x divided by two. The Taylor series for this function is equal to zero when x equals zero and the inverse of this function is": {
+    "guess": "Sinh",
+    "confidence": [
+      [
+        "Sinh",
+        -0.41074455
+      ]
+    ]
+  },
+  "Niven's Theorem concerns the values taken by this function on certain rational inputs. This function is used to represent the imaginary part of a complex number when converting to polar coordinates and is denoted with the hyperbolic function e to the x minus e to the negative x divided by two. The Taylor series for this function is equal to zero when x equals zero and the inverse of this function is the (*) cosecant function. For 10 points, name this function which for an angle alpha of a triangle": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.21310833
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "Niven's Theorem concerns the values taken by this function on certain rational inputs. This function is used to represent the imaginary part of a complex number when converting to polar coordinates and is denoted with the hyperbolic function e to the x minus e to the negative x divided by two. The Taylor series for this function is equal to zero when x equals zero and the inverse of this function is the (*) cosecant function. For 10 points, name this function which for an angle alpha of a triangle is equal to the ratio of opposite over hypotenuse.": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.003717177
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "Its nitride form is used in some protective coatings, while the chloride of this element is functional": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -0.04751756
+      ],
+      [
+        "ium",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Its nitride form is used in some protective coatings, while the chloride of this element is functional as a Ziegler-Natta catalyst for polyolefins production. Its strength and ability to osseointegrate": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -4.4849444e-06
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "Its nitride form is used in some protective coatings, while the chloride of this element is functional as a Ziegler-Natta catalyst for polyolefins production. Its strength and ability to osseointegrate make it effective in medical implants, and its dioxide has found uses in white pigments, photocatalysts,": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -4.1273333e-06
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "Its nitride form is used in some protective coatings, while the chloride of this element is functional as a Ziegler-Natta catalyst for polyolefins production. Its strength and ability to osseointegrate make it effective in medical implants, and its dioxide has found uses in white pigments, photocatalysts, and sunscreens. The ninth most abundant element in the Earth's crust, it can be extracted from": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -0.0046586725
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "Its nitride form is used in some protective coatings, while the chloride of this element is functional as a Ziegler-Natta catalyst for polyolefins production. Its strength and ability to osseointegrate make it effective in medical implants, and its dioxide has found uses in white pigments, photocatalysts, and sunscreens. The ninth most abundant element in the Earth's crust, it can be extracted from ilmenite and rutile using either the Hunter process or the commercialized Kroll process. FTP, name": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -0.0032629152
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "Its nitride form is used in some protective coatings, while the chloride of this element is functional as a Ziegler-Natta catalyst for polyolefins production. Its strength and ability to osseointegrate make it effective in medical implants, and its dioxide has found uses in white pigments, photocatalysts, and sunscreens. The ninth most abundant element in the Earth's crust, it can be extracted from ilmenite and rutile using either the Hunter process or the commercialized Kroll process. FTP, name this corrosion- resistant transition metal that has a higher strength-to-weight ratio than aluminum,": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -0.00025359125
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "Its nitride form is used in some protective coatings, while the chloride of this element is functional as a Ziegler-Natta catalyst for polyolefins production. Its strength and ability to osseointegrate make it effective in medical implants, and its dioxide has found uses in white pigments, photocatalysts, and sunscreens. The ninth most abundant element in the Earth's crust, it can be extracted from ilmenite and rutile using either the Hunter process or the commercialized Kroll process. FTP, name this corrosion- resistant transition metal that has a higher strength-to-weight ratio than aluminum, with atomic number 22 and symbol Ti.": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -0.0020354646
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  }
+}

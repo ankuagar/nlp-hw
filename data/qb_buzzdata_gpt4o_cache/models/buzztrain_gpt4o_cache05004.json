@@ -1,0 +1,97 @@
+{
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -0.037773944
+      ],
+      [
+        "employment",
+        0.0
+      ]
+    ]
+  },
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund Phelps's investigations into it yielded an expectations-augmented form of one model of it. Causes": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -0.012243793
+      ],
+      [
+        "employment",
+        0.0
+      ]
+    ]
+  },
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund Phelps's investigations into it yielded an expectations-augmented form of one model of it. Causes of this include sectoral shift, which has frictional and structural forms. Arthur Okun proposed": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -0.0064671445
+      ],
+      [
+        "employment",
+        0.0
+      ]
+    ]
+  },
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund Phelps's investigations into it yielded an expectations-augmented form of one model of it. Causes of this include sectoral shift, which has frictional and structural forms. Arthur Okun proposed that economic output decreases by two to three percentage points for every one percentage point this": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -0.017908175
+      ],
+      [
+        "employment",
+        0.0
+      ]
+    ]
+  },
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund Phelps's investigations into it yielded an expectations-augmented form of one model of it. Causes of this include sectoral shift, which has frictional and structural forms. Arthur Okun proposed that economic output decreases by two to three percentage points for every one percentage point this rate increases. Excluding changes from business cycles yields the natural rate of this phenomenon,": {
+    "guess": "Unemployment rate",
+    "confidence": [
+      [
+        "Un",
+        -0.004160315
+      ],
+      [
+        "employment",
+        0.0
+      ],
+      [
+        " rate",
+        -0.5803399
+      ]
+    ]
+  },
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund Phelps's investigations into it yielded an expectations-augmented form of one model of it. Causes of this include sectoral shift, which has frictional and structural forms. Arthur Okun proposed that economic output decreases by two to three percentage points for every one percentage point this rate increases. Excluding changes from business cycles yields the natural rate of this phenomenon, and William Phillips observed a correlation between an increase in wages with a decrease in this. For": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -2.7252845e-05
+      ],
+      [
+        "employment",
+        0.0
+      ]
+    ]
+  },
+  "The NAIRU model for this phenomenon is advocated by Milton Friedman and proposes a baseline for it. Edmund Phelps's investigations into it yielded an expectations-augmented form of one model of it. Causes of this include sectoral shift, which has frictional and structural forms. Arthur Okun proposed that economic output decreases by two to three percentage points for every one percentage point this rate increases. Excluding changes from business cycles yields the natural rate of this phenomenon, and William Phillips observed a correlation between an increase in wages with a decrease in this. For 10 points, name phenomena in which willing people are unable to find jobs.": {
+    "guess": "Unemployment",
+    "confidence": [
+      [
+        "Un",
+        -7.703444e-06
+      ],
+      [
+        "employment",
+        0.0
+      ]
+    ]
+  }
+}

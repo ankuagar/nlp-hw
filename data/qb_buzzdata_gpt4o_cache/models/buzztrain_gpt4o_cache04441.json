@@ -1,0 +1,156 @@
+{
+  "The log of this value is the x axis of a Bode plot. In Shannon's theorem, a log term is multiplied by": {
+    "guess": "Frequency",
+    "confidence": [
+      [
+        "Frequency",
+        -0.010485395
+      ]
+    ]
+  },
+  "The log of this value is the x axis of a Bode plot. In Shannon's theorem, a log term is multiplied by a number that has the same units as these and represents a width of these.  For a cyclotron, this value": {
+    "guess": "Frequency",
+    "confidence": [
+      [
+        "Frequency",
+        -0.4747691
+      ]
+    ]
+  },
+  "The log of this value is the x axis of a Bode plot. In Shannon's theorem, a log term is multiplied by a number that has the same units as these and represents a width of these.  For a cyclotron, this value is q b over two pi m.  The set of these associated with a string under tension are multiples of": {
+    "guess": "Frequency",
+    "confidence": [
+      [
+        "Frequency",
+        -9.2576454e-05
+      ]
+    ]
+  },
+  "The log of this value is the x axis of a Bode plot. In Shannon's theorem, a log term is multiplied by a number that has the same units as these and represents a width of these.  For a cyclotron, this value is q b over two pi m.  The set of these associated with a string under tension are multiples of a quantity that is the square root of the ratio of the product of length and tension to mass all divided": {
+    "guess": "Frequency",
+    "confidence": [
+      [
+        "Frequency",
+        -0.0003003081
+      ]
+    ]
+  },
+  "The log of this value is the x axis of a Bode plot. In Shannon's theorem, a log term is multiplied by a number that has the same units as these and represents a width of these.  For a cyclotron, this value is q b over two pi m.  The set of these associated with a string under tension are multiples of a quantity that is the square root of the ratio of the product of length and tension to mass all divided by twice the length.  For a pendulum, it is equal to the square root of the ratio of g to length": {
+    "guess": "Frequency",
+    "confidence": [
+      [
+        "Frequency",
+        -0.0001844678
+      ]
+    ]
+  },
+  "The log of this value is the x axis of a Bode plot. In Shannon's theorem, a log term is multiplied by a number that has the same units as these and represents a width of these.  For a cyclotron, this value is q b over two pi m.  The set of these associated with a string under tension are multiples of a quantity that is the square root of the ratio of the product of length and tension to mass all divided by twice the length.  For a pendulum, it is equal to the square root of the ratio of g to length divided by two pi. This value is inversely proportional to the wavelength.  For 10 points, name this": {
+    "guess": "Frequency",
+    "confidence": [
+      [
+        "Frequency",
+        -0.0005461226
+      ]
+    ]
+  },
+  "The log of this value is the x axis of a Bode plot. In Shannon's theorem, a log term is multiplied by a number that has the same units as these and represents a width of these.  For a cyclotron, this value is q b over two pi m.  The set of these associated with a string under tension are multiples of a quantity that is the square root of the ratio of the product of length and tension to mass all divided by twice the length.  For a pendulum, it is equal to the square root of the ratio of g to length divided by two pi. This value is inversely proportional to the wavelength.  For 10 points, name this number of times a cyclical occurrence happens in a period of time which is measured in hertz.": {
+    "guess": "Frequency",
+    "confidence": [
+      [
+        "Frequency",
+        -0.00014025059
+      ]
+    ]
+  },
+  "One logical positivist derided emotivism as a \"Boo Hurrah theory\" of this field while, in the Provincial": {
+    "guess": "Ethics",
+    "confidence": [
+      [
+        "Eth",
+        -0.13980155
+      ],
+      [
+        "ics",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "One logical positivist derided emotivism as a \"Boo Hurrah theory\" of this field while, in the Provincial Letters, Pascal attacked casuistic approaches to it. G.E. Moore elucidated the naturalistic fallacy,": {
+    "guess": "Ethics",
+    "confidence": [
+      [
+        "Eth",
+        -9.841743e-05
+      ],
+      [
+        "ics",
+        0.0
+      ]
+    ]
+  },
+  "One logical positivist derided emotivism as a \"Boo Hurrah theory\" of this field while, in the Provincial Letters, Pascal attacked casuistic approaches to it. G.E. Moore elucidated the naturalistic fallacy, which occurs when approaches to it appeal to some definition of a certain \"indefinable\" construct,": {
+    "guess": "Ethics",
+    "confidence": [
+      [
+        "Eth",
+        -0.0038744197
+      ],
+      [
+        "ics",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One logical positivist derided emotivism as a \"Boo Hurrah theory\" of this field while, in the Provincial Letters, Pascal attacked casuistic approaches to it. G.E. Moore elucidated the naturalistic fallacy, which occurs when approaches to it appeal to some definition of a certain \"indefinable\" construct, which Henry Sidgwick considered across three primitive paradigms of the field. Kant's categorical": {
+    "guess": "Ethics",
+    "confidence": [
+      [
+        "Eth",
+        -0.011618424
+      ],
+      [
+        "ics",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "One logical positivist derided emotivism as a \"Boo Hurrah theory\" of this field while, in the Provincial Letters, Pascal attacked casuistic approaches to it. G.E. Moore elucidated the naturalistic fallacy, which occurs when approaches to it appeal to some definition of a certain \"indefinable\" construct, which Henry Sidgwick considered across three primitive paradigms of the field. Kant's categorical imperative is hailed as the most reasonable approach in deontology, a stance that John Rawls clarified": {
+    "guess": "Ethics",
+    "confidence": [
+      [
+        "Eth",
+        -0.0065179565
+      ],
+      [
+        "ics",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One logical positivist derided emotivism as a \"Boo Hurrah theory\" of this field while, in the Provincial Letters, Pascal attacked casuistic approaches to it. G.E. Moore elucidated the naturalistic fallacy, which occurs when approaches to it appeal to some definition of a certain \"indefinable\" construct, which Henry Sidgwick considered across three primitive paradigms of the field. Kant's categorical imperative is hailed as the most reasonable approach in deontology, a stance that John Rawls clarified by defining with respect to justice and right the construct of good. FTP, name this branch of axiology": {
+    "guess": "Ethics",
+    "confidence": [
+      [
+        "Eth",
+        -0.001269401
+      ],
+      [
+        "ics",
+        0.0
+      ]
+    ]
+  },
+  "One logical positivist derided emotivism as a \"Boo Hurrah theory\" of this field while, in the Provincial Letters, Pascal attacked casuistic approaches to it. G.E. Moore elucidated the naturalistic fallacy, which occurs when approaches to it appeal to some definition of a certain \"indefinable\" construct, which Henry Sidgwick considered across three primitive paradigms of the field. Kant's categorical imperative is hailed as the most reasonable approach in deontology, a stance that John Rawls clarified by defining with respect to justice and right the construct of good. FTP, name this branch of axiology concerned with philosophical morality.": {
+    "guess": "Ethics",
+    "confidence": [
+      [
+        "Eth",
+        -0.0014028487
+      ],
+      [
+        "ics",
+        0.0
+      ]
+    ]
+  }
+}

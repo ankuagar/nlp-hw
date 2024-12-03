@@ -1,0 +1,67 @@
+{
+  "Oseltamivir is a treatment for this virus, whose genome's eight segments can undergo   reassortment.": {
+    "guess": "Influenza",
+    "confidence": [
+      [
+        "Infl",
+        -0.0026480712
+      ],
+      [
+        "uenza",
+        0.0
+      ]
+    ]
+  },
+  "Oseltamivir is a treatment for this virus, whose genome's eight segments can undergo   reassortment. This virus, a member of family Orthomyxoviridae, can trigger upper  respiratory conditions like croup": {
+    "guess": "Influenza",
+    "confidence": [
+      [
+        "Infl",
+        -0.019957902
+      ],
+      [
+        "uenza",
+        0.0
+      ]
+    ]
+  },
+  "Oseltamivir is a treatment for this virus, whose genome's eight segments can undergo   reassortment. This virus, a member of family Orthomyxoviridae, can trigger upper  respiratory conditions like croup and cause tissue damage in the (*) lungs. The types of  hemagglutinin and neuraminidase proteins are": {
+    "guess": "Influenza",
+    "confidence": [
+      [
+        "Infl",
+        -0.025523065
+      ],
+      [
+        "uenza",
+        0.0
+      ]
+    ]
+  },
+  "Oseltamivir is a treatment for this virus, whose genome's eight segments can undergo   reassortment. This virus, a member of family Orthomyxoviridae, can trigger upper  respiratory conditions like croup and cause tissue damage in the (*) lungs. The types of  hemagglutinin and neuraminidase proteins are used to name strains of this virus, like the H5N1  strain. For 10 points, name this common virus": {
+    "guess": "Influenza",
+    "confidence": [
+      [
+        "Infl",
+        -0.0061386493
+      ],
+      [
+        "uenza",
+        0.0
+      ]
+    ]
+  },
+  "Oseltamivir is a treatment for this virus, whose genome's eight segments can undergo   reassortment. This virus, a member of family Orthomyxoviridae, can trigger upper  respiratory conditions like croup and cause tissue damage in the (*) lungs. The types of  hemagglutinin and neuraminidase proteins are used to name strains of this virus, like the H5N1  strain. For 10 points, name this common virus that has bird and swine varieties.": {
+    "guess": "Influenza",
+    "confidence": [
+      [
+        "Infl",
+        -0.0049164775
+      ],
+      [
+        "uenza",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "The Sleeping Beauty system uses these to stably deliver genes or RNA interference to mammalian cells.": {
+    "guess": "Transposon",
+    "confidence": [
+      [
+        "Trans",
+        -0.0088321315
+      ],
+      [
+        "pos",
+        -5.371606e-05
+      ],
+      [
+        "on",
+        -0.011668015
+      ]
+    ]
+  },
+  "The Sleeping Beauty system uses these to stably deliver genes or RNA interference to mammalian cells. The Shapiro intermediate is associated with the Class I type of them. Thought to be a driving factor": {
+    "guess": "Transposon",
+    "confidence": [
+      [
+        "Trans",
+        -0.2839598
+      ],
+      [
+        "pos",
+        -0.0015031944
+      ],
+      [
+        "on",
+        -0.034239598
+      ]
+    ]
+  },
+  "The Sleeping Beauty system uses these to stably deliver genes or RNA interference to mammalian cells. The Shapiro intermediate is associated with the Class I type of them. Thought to be a driving factor behind the development of chromosomes and DNA methylation, gypsy elements are common examples in Drosophila,": {
+    "guess": "Transposon",
+    "confidence": [
+      [
+        "Trans",
+        -0.58854014
+      ],
+      [
+        "pos",
+        -0.011047815
+      ],
+      [
+        "on",
+        -0.02975512
+      ]
+    ]
+  },
+  "The Sleeping Beauty system uses these to stably deliver genes or RNA interference to mammalian cells. The Shapiro intermediate is associated with the Class I type of them. Thought to be a driving factor behind the development of chromosomes and DNA methylation, gypsy elements are common examples in Drosophila, while in humans, Alu [ah-LOO] elements are the most common type. Two human varieties, LINES": {
+    "guess": "Transposable element",
+    "confidence": [
+      [
+        "Trans",
+        -0.00029220225
+      ],
+      [
+        "posable",
+        -0.0024756587
+      ],
+      [
+        " element",
+        -0.000109622575
+      ]
+    ]
+  },
+  "The Sleeping Beauty system uses these to stably deliver genes or RNA interference to mammalian cells. The Shapiro intermediate is associated with the Class I type of them. Thought to be a driving factor behind the development of chromosomes and DNA methylation, gypsy elements are common examples in Drosophila, while in humans, Alu [ah-LOO] elements are the most common type. Two human varieties, LINES and SINES, differ in their length and their ability to code for proteins, such as reverse transcriptases.": {
+    "guess": "Transposable element",
+    "confidence": [
+      [
+        "Trans",
+        -7.862962e-05
+      ],
+      [
+        "posable",
+        -0.0019286326
+      ],
+      [
+        " element",
+        -5.8722613e-05
+      ]
+    ]
+  },
+  "The Sleeping Beauty system uses these to stably deliver genes or RNA interference to mammalian cells. The Shapiro intermediate is associated with the Class I type of them. Thought to be a driving factor behind the development of chromosomes and DNA methylation, gypsy elements are common examples in Drosophila, while in humans, Alu [ah-LOO] elements are the most common type. Two human varieties, LINES and SINES, differ in their length and their ability to code for proteins, such as reverse transcriptases. The first system of these items to be described was the Ac/Ds system, whose members use a \"cut": {
+    "guess": "Transposable element",
+    "confidence": [
+      [
+        "Trans",
+        -0.00036370975
+      ],
+      [
+        "posable",
+        -0.006715371
+      ],
+      [
+        " element",
+        -0.00011188744
+      ]
+    ]
+  },
+  "The Sleeping Beauty system uses these to stably deliver genes or RNA interference to mammalian cells. The Shapiro intermediate is associated with the Class I type of them. Thought to be a driving factor behind the development of chromosomes and DNA methylation, gypsy elements are common examples in Drosophila, while in humans, Alu [ah-LOO] elements are the most common type. Two human varieties, LINES and SINES, differ in their length and their ability to code for proteins, such as reverse transcriptases. The first system of these items to be described was the Ac/Ds system, whose members use a \"cut and paste\" method to move around in the genome. FTP, name these genetic elements first discovered": {
+    "guess": "Transposable element",
+    "confidence": [
+      [
+        "Trans",
+        -0.00024025145
+      ],
+      [
+        "posable",
+        -0.0052337637
+      ],
+      [
+        " element",
+        -0.0021870222
+      ]
+    ]
+  },
+  "The Sleeping Beauty system uses these to stably deliver genes or RNA interference to mammalian cells. The Shapiro intermediate is associated with the Class I type of them. Thought to be a driving factor behind the development of chromosomes and DNA methylation, gypsy elements are common examples in Drosophila, while in humans, Alu [ah-LOO] elements are the most common type. Two human varieties, LINES and SINES, differ in their length and their ability to code for proteins, such as reverse transcriptases. The first system of these items to be described was the Ac/Ds system, whose members use a \"cut and paste\" method to move around in the genome. FTP, name these genetic elements first discovered in maize by Barbara McClintock.": {
+    "guess": "Transposable element",
+    "confidence": [
+      [
+        "Trans",
+        -0.0005803157
+      ],
+      [
+        "posable",
+        -0.0040784013
+      ],
+      [
+        " element",
+        -0.00048940734
+      ]
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "Ursula is asked to watch for the arrival of a doctor in a play by this man, which ends with the death": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7962622
+      ]
+    ]
+  },
+  "Ursula is asked to watch for the arrival of a doctor in a play by this man, which ends with the death of a new mother who had conceived a sickly baby with her cousin. In addition to The Intruder, he  wrote": {
+    "guess": "Maurice Maeterlinck",
+    "confidence": [
+      [
+        "Maur",
+        -0.13485454
+      ],
+      [
+        "ice",
+        -1.9361265e-07
+      ],
+      [
+        " Ma",
+        0.0
+      ],
+      [
+        "eter",
+        0.0
+      ],
+      [
+        "lin",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "Ursula is asked to watch for the arrival of a doctor in a play by this man, which ends with the death of a new mother who had conceived a sickly baby with her cousin. In addition to The Intruder, he  wrote a play in which (*) Berylune gives a magic diamond to Tyltyl to help capture the title animal,": {
+    "guess": "Maurice Maeterlinck",
+    "confidence": [
+      [
+        "Maur",
+        -0.12751739
+      ],
+      [
+        "ice",
+        -1.9361265e-07
+      ],
+      [
+        " Ma",
+        -3.1281633e-07
+      ],
+      [
+        "eter",
+        0.0
+      ],
+      [
+        "lin",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "Ursula is asked to watch for the arrival of a doctor in a play by this man, which ends with the death of a new mother who had conceived a sickly baby with her cousin. In addition to The Intruder, he  wrote a play in which (*) Berylune gives a magic diamond to Tyltyl to help capture the title animal, and about two lovers who are attacked by Golaud. For 10 points\u2014 name this writer of The Blue Bird and": {
+    "guess": "Maurice Maeterlinck",
+    "confidence": [
+      [
+        "Maur",
+        -0.01632925
+      ],
+      [
+        "ice",
+        -1.9361265e-07
+      ],
+      [
+        " Ma",
+        0.0
+      ],
+      [
+        "eter",
+        0.0
+      ],
+      [
+        "lin",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "Ursula is asked to watch for the arrival of a doctor in a play by this man, which ends with the death of a new mother who had conceived a sickly baby with her cousin. In addition to The Intruder, he  wrote a play in which (*) Berylune gives a magic diamond to Tyltyl to help capture the title animal, and about two lovers who are attacked by Golaud. For 10 points\u2014 name this writer of The Blue Bird and Pell\u00e9as and M\u00e9lisande.": {
+    "guess": "Maurice Maeterlinck",
+    "confidence": [
+      [
+        "Maur",
+        -0.012032858
+      ],
+      [
+        "ice",
+        0.0
+      ],
+      [
+        " Ma",
+        0.0
+      ],
+      [
+        "eter",
+        0.0
+      ],
+      [
+        "lin",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  }
+}

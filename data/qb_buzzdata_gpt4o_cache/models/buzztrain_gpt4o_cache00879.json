@@ -1,0 +1,212 @@
+{
+  "Chloramphenicol stalls the activity of this structure, while reversal of its primary function is enabled": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -0.00034154154
+      ],
+      [
+        "ib",
+        0.0
+      ],
+      [
+        "osome",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Chloramphenicol stalls the activity of this structure, while reversal of its primary function is enabled by LepA. That function is carried out using the GTPase activity of EF-G. One of its main substrates": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -0.00011629798
+      ],
+      [
+        "ib",
+        0.0
+      ],
+      [
+        "osome",
+        0.0
+      ]
+    ]
+  },
+  "Chloramphenicol stalls the activity of this structure, while reversal of its primary function is enabled by LepA. That function is carried out using the GTPase activity of EF-G. One of its main substrates is assembled using the enzyme aaRS, and in prokaryotes, its 16S portion attaches to the Shine-Dalgarno": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -0.0006332091
+      ],
+      [
+        "ib",
+        0.0
+      ],
+      [
+        "osome",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Chloramphenicol stalls the activity of this structure, while reversal of its primary function is enabled by LepA. That function is carried out using the GTPase activity of EF-G. One of its main substrates is assembled using the enzyme aaRS, and in prokaryotes, its 16S portion attaches to the Shine-Dalgarno sequence. Designated 70S or 80S, this organelle transfers a nascent peptide from its P-site to": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -0.003938887
+      ],
+      [
+        "ib",
+        -3.1281633e-07
+      ],
+      [
+        "osome",
+        0.0
+      ]
+    ]
+  },
+  "Chloramphenicol stalls the activity of this structure, while reversal of its primary function is enabled by LepA. That function is carried out using the GTPase activity of EF-G. One of its main substrates is assembled using the enzyme aaRS, and in prokaryotes, its 16S portion attaches to the Shine-Dalgarno sequence. Designated 70S or 80S, this organelle transfers a nascent peptide from its P-site to its A-site where aminoacyl-tRNA accepts the polymerizing protein chain. The tRNAs then exit from its": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -4.1273333e-06
+      ],
+      [
+        "ib",
+        0.0
+      ],
+      [
+        "osome",
+        0.0
+      ]
+    ]
+  },
+  "Chloramphenicol stalls the activity of this structure, while reversal of its primary function is enabled by LepA. That function is carried out using the GTPase activity of EF-G. One of its main substrates is assembled using the enzyme aaRS, and in prokaryotes, its 16S portion attaches to the Shine-Dalgarno sequence. Designated 70S or 80S, this organelle transfers a nascent peptide from its P-site to its A-site where aminoacyl-tRNA accepts the polymerizing protein chain. The tRNAs then exit from its E-site. Coming in free and bound varieties, for 10 points, name this organelle sometimes found on": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -2.8206474e-05
+      ],
+      [
+        "ib",
+        0.0
+      ],
+      [
+        "osome",
+        0.0
+      ]
+    ]
+  },
+  "Chloramphenicol stalls the activity of this structure, while reversal of its primary function is enabled by LepA. That function is carried out using the GTPase activity of EF-G. One of its main substrates is assembled using the enzyme aaRS, and in prokaryotes, its 16S portion attaches to the Shine-Dalgarno sequence. Designated 70S or 80S, this organelle transfers a nascent peptide from its P-site to its A-site where aminoacyl-tRNA accepts the polymerizing protein chain. The tRNAs then exit from its E-site. Coming in free and bound varieties, for 10 points, name this organelle sometimes found on rough ER that contains two subunits and is the site of protein synthesis.": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -3.888926e-06
+      ],
+      [
+        "ib",
+        0.0
+      ],
+      [
+        "osome",
+        0.0
+      ]
+    ]
+  },
+  "The chloride of this paramagnetic metal is useful as a Ziegler-Natta catalyst to produce polyolefins,": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -0.00045653275
+      ],
+      [
+        "ium",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The chloride of this paramagnetic metal is useful as a Ziegler-Natta catalyst to produce polyolefins, while its dioxide is used as a white pigment and photocatalyst. The ninth most abundant element in": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -0.0064968737
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "The chloride of this paramagnetic metal is useful as a Ziegler-Natta catalyst to produce polyolefins, while its dioxide is used as a white pigment and photocatalyst. The ninth most abundant element in the Earth's crust, it can be extracted from ilmenite and rutile using either the Hunter process or the": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -0.0062522655
+      ],
+      [
+        "ium",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The chloride of this paramagnetic metal is useful as a Ziegler-Natta catalyst to produce polyolefins, while its dioxide is used as a white pigment and photocatalyst. The ninth most abundant element in the Earth's crust, it can be extracted from ilmenite and rutile using either the Hunter process or the commercialized Kroll process. Its ability to osseointegrate makes it useful in medical prostheses": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -0.0004068395
+      ],
+      [
+        "ium",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The chloride of this paramagnetic metal is useful as a Ziegler-Natta catalyst to produce polyolefins, while its dioxide is used as a white pigment and photocatalyst. The ninth most abundant element in the Earth's crust, it can be extracted from ilmenite and rutile using either the Hunter process or the commercialized Kroll process. Its ability to osseointegrate makes it useful in medical prostheses and implants, and its dioxide has found use as a UV absorber in sunscreens. FTP, name this transitional": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -0.0011314054
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "The chloride of this paramagnetic metal is useful as a Ziegler-Natta catalyst to produce polyolefins, while its dioxide is used as a white pigment and photocatalyst. The ninth most abundant element in the Earth's crust, it can be extracted from ilmenite and rutile using either the Hunter process or the commercialized Kroll process. Its ability to osseointegrate makes it useful in medical prostheses and implants, and its dioxide has found use as a UV absorber in sunscreens. FTP, name this transitional metal that has a higher strength-to-weight ratio than aluminum, with atomic number 22 and symbol": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -0.004683715
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "The chloride of this paramagnetic metal is useful as a Ziegler-Natta catalyst to produce polyolefins, while its dioxide is used as a white pigment and photocatalyst. The ninth most abundant element in the Earth's crust, it can be extracted from ilmenite and rutile using either the Hunter process or the commercialized Kroll process. Its ability to osseointegrate makes it useful in medical prostheses and implants, and its dioxide has found use as a UV absorber in sunscreens. FTP, name this transitional metal that has a higher strength-to-weight ratio than aluminum, with atomic number 22 and symbol Ti.": {
+    "guess": "Titanium",
+    "confidence": [
+      [
+        "Titan",
+        -0.043207344
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  }
+}

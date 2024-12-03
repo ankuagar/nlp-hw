@@ -1,0 +1,113 @@
+{
+  "In Eagle Syndrome, hemophilia and in burn victims this process may occur in soft tissues. It can occur": {
+    "guess": "Calcification",
+    "confidence": [
+      [
+        "Calc",
+        -0.024836618
+      ],
+      [
+        "ification",
+        -3.5313153e-06
+      ]
+    ]
+  },
+  "In Eagle Syndrome, hemophilia and in burn victims this process may occur in soft tissues. It can occur by two similar processes, the intramembranous and endochondral types. In each, it begins with the": {
+    "guess": "Ossification",
+    "confidence": [
+      [
+        "O",
+        -0.05459314
+      ],
+      [
+        "ss",
+        -6.704273e-07
+      ],
+      [
+        "ification",
+        0.0
+      ]
+    ]
+  },
+  "In Eagle Syndrome, hemophilia and in burn victims this process may occur in soft tissues. It can occur by two similar processes, the intramembranous and endochondral types. In each, it begins with the mesenchymal cells differentiating into osteoblasts, accompanied by formation of a mesh of collagen fibers.": {
+    "guess": "Ossification",
+    "confidence": [
+      [
+        "O",
+        -0.099767126
+      ],
+      [
+        "ss",
+        -4.9617593e-06
+      ],
+      [
+        "ification",
+        0.0
+      ]
+    ]
+  },
+  "In Eagle Syndrome, hemophilia and in burn victims this process may occur in soft tissues. It can occur by two similar processes, the intramembranous and endochondral types. In each, it begins with the mesenchymal cells differentiating into osteoblasts, accompanied by formation of a mesh of collagen fibers. Next, the deposition of the matrix from the osteoblasts occurs, and a network of fibers called": {
+    "guess": "s.",
+    "confidence": [
+      [
+        "s",
+        -3.5313153e-06
+      ],
+      [
+        ".",
+        -2.978812
+      ]
+    ]
+  },
+  "In Eagle Syndrome, hemophilia and in burn victims this process may occur in soft tissues. It can occur by two similar processes, the intramembranous and endochondral types. In each, it begins with the mesenchymal cells differentiating into osteoblasts, accompanied by formation of a mesh of collagen fibers. Next, the deposition of the matrix from the osteoblasts occurs, and a network of fibers called the primary spongiosa is formed. Finally, the marrow is formed during the transformation from the": {
+    "guess": "Ossification",
+    "confidence": [
+      [
+        "O",
+        -0.11869959
+      ],
+      [
+        "ss",
+        -2.4584822e-06
+      ],
+      [
+        "ification",
+        0.0
+      ]
+    ]
+  },
+  "In Eagle Syndrome, hemophilia and in burn victims this process may occur in soft tissues. It can occur by two similar processes, the intramembranous and endochondral types. In each, it begins with the mesenchymal cells differentiating into osteoblasts, accompanied by formation of a mesh of collagen fibers. Next, the deposition of the matrix from the osteoblasts occurs, and a network of fibers called the primary spongiosa is formed. Finally, the marrow is formed during the transformation from the spongiosa into secondary bone. FTP, name this process by which cartilage or fibrous tissue is converted": {
+    "guess": "Ossification",
+    "confidence": [
+      [
+        "O",
+        -0.030923055
+      ],
+      [
+        "ss",
+        -1.2664457e-06
+      ],
+      [
+        "ification",
+        0.0
+      ]
+    ]
+  },
+  "In Eagle Syndrome, hemophilia and in burn victims this process may occur in soft tissues. It can occur by two similar processes, the intramembranous and endochondral types. In each, it begins with the mesenchymal cells differentiating into osteoblasts, accompanied by formation of a mesh of collagen fibers. Next, the deposition of the matrix from the osteoblasts occurs, and a network of fibers called the primary spongiosa is formed. Finally, the marrow is formed during the transformation from the spongiosa into secondary bone. FTP, name this process by which cartilage or fibrous tissue is converted into bone.": {
+    "guess": "Ossification",
+    "confidence": [
+      [
+        "O",
+        -0.019137833
+      ],
+      [
+        "ss",
+        -3.5313153e-06
+      ],
+      [
+        "ification",
+        0.0
+      ]
+    ]
+  }
+}

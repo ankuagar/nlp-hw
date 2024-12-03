@@ -1,0 +1,4146 @@
+{
+  "These objects can develop large cracks called bergschrunds (BERG-shrunds), which can further lead to": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.28650185
+      ],
+      [
+        "acier",
+        -0.0009666072
+      ]
+    ]
+  },
+  "These objects can develop large cracks called bergschrunds (BERG-shrunds), which can further lead to the formation of cirques (SIRKS). The firn line separates the ablation and accumulation zones of these": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.0011102092
+      ],
+      [
+        "acier",
+        -0.52373517
+      ]
+    ]
+  },
+  "These objects can develop large cracks called bergschrunds (BERG-shrunds), which can further lead to the formation of cirques (SIRKS). The firn line separates the ablation and accumulation zones of these objects. The movement of these masses is responsible for the creation of moraines and drumlins, which": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.0111848125
+      ],
+      [
+        "acier",
+        -0.39242637
+      ]
+    ]
+  },
+  "These objects can develop large cracks called bergschrunds (BERG-shrunds), which can further lead to the formation of cirques (SIRKS). The firn line separates the ablation and accumulation zones of these objects. The movement of these masses is responsible for the creation of moraines and drumlins, which are accumulations of till carried by these objects. These objects hold the majority of the world's": {
+    "guess": "Glaciers",
+    "confidence": [
+      [
+        "Gl",
+        -0.023394674
+      ],
+      [
+        "ac",
+        -0.47457826
+      ],
+      [
+        "iers",
+        0.0
+      ]
+    ]
+  },
+  "These objects can develop large cracks called bergschrunds (BERG-shrunds), which can further lead to the formation of cirques (SIRKS). The firn line separates the ablation and accumulation zones of these objects. The movement of these masses is responsible for the creation of moraines and drumlins, which are accumulations of till carried by these objects. These objects hold the majority of the world's fresh water. For 10 points, name these large, flowing masses of ice.": {
+    "guess": "Glaciers",
+    "confidence": [
+      [
+        "Gl",
+        -0.004088136
+      ],
+      [
+        "ac",
+        -0.25207353
+      ],
+      [
+        "iers",
+        0.0
+      ]
+    ]
+  },
+  "In these objects, FUN effects can be observed, which are a fractionation class of refractory inclusions": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.31717813
+      ]
+    ]
+  },
+  "In these objects, FUN effects can be observed, which are a fractionation class of refractory inclusions or CAI. Oxygen isotope levels in the Allende one were used to discriminate between different models": {
+    "guess": "Meteorite",
+    "confidence": [
+      [
+        "Meteor",
+        -0.3828424
+      ],
+      [
+        "ite",
+        -3.5477897e-05
+      ]
+    ]
+  },
+  "In these objects, FUN effects can be observed, which are a fractionation class of refractory inclusions or CAI. Oxygen isotope levels in the Allende one were used to discriminate between different models of the solar system's formation. The largest class of these are chondrites, which is a subclass of": {
+    "guess": "Meteorite",
+    "confidence": [
+      [
+        "Meteor",
+        -0.25244915
+      ],
+      [
+        "ite",
+        -0.00026133584
+      ]
+    ]
+  },
+  "In these objects, FUN effects can be observed, which are a fractionation class of refractory inclusions or CAI. Oxygen isotope levels in the Allende one were used to discriminate between different models of the solar system's formation. The largest class of these are chondrites, which is a subclass of the stony type of them. One called ALH 84001 that was found in Antarctica was part of a 1990's argument": {
+    "guess": "Meteorite",
+    "confidence": [
+      [
+        "Meteor",
+        -0.005317601
+      ],
+      [
+        "ite",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "In these objects, FUN effects can be observed, which are a fractionation class of refractory inclusions or CAI. Oxygen isotope levels in the Allende one were used to discriminate between different models of the solar system's formation. The largest class of these are chondrites, which is a subclass of the stony type of them. One called ALH 84001 that was found in Antarctica was part of a 1990's argument for life on Mars. For 10 points, name these rocks that fall from outer space and survive the collision.": {
+    "guess": "Meteorite",
+    "confidence": [
+      [
+        "Meteor",
+        -0.0017207577
+      ],
+      [
+        "ite",
+        -0.0031777136
+      ]
+    ]
+  },
+  "One object named for this man is a cuboid whose sides and face diagonals have integral lengths, his namesake": {
+    "guess": "Euler",
+    "confidence": [
+      [
+        "Euler",
+        -0.015137939
+      ]
+    ]
+  },
+  "One object named for this man is a cuboid whose sides and face diagonals have integral lengths, his namesake bricks. A function named for this man is the number of integers less than n relatively prime": {
+    "guess": "Euler's totient function",
+    "confidence": [
+      [
+        "Euler",
+        -0.34218338
+      ],
+      [
+        "'s",
+        -0.00054445374
+      ],
+      [
+        " tot",
+        -0.0012371336
+      ],
+      [
+        "ient",
+        0.0
+      ],
+      [
+        " function",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "One object named for this man is a cuboid whose sides and face diagonals have integral lengths, his namesake bricks. A function named for this man is the number of integers less than n relatively prime to n, his totient function. The quantity chi, this man's namesake (*) \"characteristic,\" is equal to": {
+    "guess": "Euler characteristic",
+    "confidence": [
+      [
+        "Euler",
+        -0.034291554
+      ],
+      [
+        " characteristic",
+        -0.030569276
+      ]
+    ]
+  },
+  "One object named for this man is a cuboid whose sides and face diagonals have integral lengths, his namesake bricks. A function named for this man is the number of integers less than n relatively prime to n, his totient function. The quantity chi, this man's namesake (*) \"characteristic,\" is equal to vertices plus faces minus edges for polyhedra. This mathematician ushered in graph theory in proving": {
+    "guess": "Leonhard Euler",
+    "confidence": [
+      [
+        "Leon",
+        -0.1699486
+      ],
+      [
+        "hard",
+        -1.9361265e-07
+      ],
+      [
+        " Euler",
+        0.0
+      ]
+    ]
+  },
+  "One object named for this man is a cuboid whose sides and face diagonals have integral lengths, his namesake bricks. A function named for this man is the number of integers less than n relatively prime to n, his totient function. The quantity chi, this man's namesake (*) \"characteristic,\" is equal to vertices plus faces minus edges for polyhedra. This mathematician ushered in graph theory in proving that a certain traversal was impossible because it had none of his namesake cycles. His identity states": {
+    "guess": "Leonhard Euler",
+    "confidence": [
+      [
+        "Leon",
+        -0.034711216
+      ],
+      [
+        "hard",
+        -1.9361265e-07
+      ],
+      [
+        " Euler",
+        0.0
+      ]
+    ]
+  },
+  "One object named for this man is a cuboid whose sides and face diagonals have integral lengths, his namesake bricks. A function named for this man is the number of integers less than n relatively prime to n, his totient function. The quantity chi, this man's namesake (*) \"characteristic,\" is equal to vertices plus faces minus edges for polyhedra. This mathematician ushered in graph theory in proving that a certain traversal was impossible because it had none of his namesake cycles. His identity states that a certain number to the power of i times pi equals negative 1. For 10 points, name this Swiss": {
+    "guess": "Leonhard Euler",
+    "confidence": [
+      [
+        "Leon",
+        -0.08126634
+      ],
+      [
+        "hard",
+        0.0
+      ],
+      [
+        " Euler",
+        0.0
+      ]
+    ]
+  },
+  "One object named for this man is a cuboid whose sides and face diagonals have integral lengths, his namesake bricks. A function named for this man is the number of integers less than n relatively prime to n, his totient function. The quantity chi, this man's namesake (*) \"characteristic,\" is equal to vertices plus faces minus edges for polyhedra. This mathematician ushered in graph theory in proving that a certain traversal was impossible because it had none of his namesake cycles. His identity states that a certain number to the power of i times pi equals negative 1. For 10 points, name this Swiss mathematician who solved the Seven Bridges of K\u00f6nigsberg problem, the namesake of a constant with": {
+    "guess": "Leonhard Euler",
+    "confidence": [
+      [
+        "Leon",
+        -0.102022134
+      ],
+      [
+        "hard",
+        0.0
+      ],
+      [
+        " Euler",
+        0.0
+      ]
+    ]
+  },
+  "One object named for this man is a cuboid whose sides and face diagonals have integral lengths, his namesake bricks. A function named for this man is the number of integers less than n relatively prime to n, his totient function. The quantity chi, this man's namesake (*) \"characteristic,\" is equal to vertices plus faces minus edges for polyhedra. This mathematician ushered in graph theory in proving that a certain traversal was impossible because it had none of his namesake cycles. His identity states that a certain number to the power of i times pi equals negative 1. For 10 points, name this Swiss mathematician who solved the Seven Bridges of K\u00f6nigsberg problem, the namesake of a constant with Mascheroni who did work with the number e.": {
+    "guess": "Leonhard Euler",
+    "confidence": [
+      [
+        "Leon",
+        -0.0051304577
+      ],
+      [
+        "hard",
+        0.0
+      ],
+      [
+        " Euler",
+        0.0
+      ]
+    ]
+  },
+  "This object is lost at a drunken party whence its owner does not return \"with ivy leaves in his hair,\"": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.17348547
+      ]
+    ]
+  },
+  "This object is lost at a drunken party whence its owner does not return \"with ivy leaves in his hair,\" as his lover had hoped. Unlike its author's previous work, which had dealt with history up to the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.68911386
+      ]
+    ]
+  },
+  "This object is lost at a drunken party whence its owner does not return \"with ivy leaves in his hair,\" as his lover had hoped. Unlike its author's previous work, which had dealt with history up to the present day, this work forecasts the development of the future. This object's owner dies when he goes": {
+    "guess": "The Golden Bowl",
+    "confidence": [
+      [
+        "The",
+        -0.9393255
+      ],
+      [
+        " Golden",
+        -0.76104367
+      ],
+      [
+        " Bowl",
+        -0.08718105
+      ]
+    ]
+  },
+  "This object is lost at a drunken party whence its owner does not return \"with ivy leaves in his hair,\" as his lover had hoped. Unlike its author's previous work, which had dealt with history up to the present day, this work forecasts the development of the future. This object's owner dies when he goes to Miss Diana's soiree to try and retrieve it. At the end of the play, it is revealed that the notes": {
+    "guess": "The Green Carnation",
+    "confidence": [
+      [
+        "The",
+        -0.4090407
+      ],
+      [
+        " Green",
+        -0.78307587
+      ],
+      [
+        " Carn",
+        -0.13211438
+      ],
+      [
+        "ation",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This object is lost at a drunken party whence its owner does not return \"with ivy leaves in his hair,\" as his lover had hoped. Unlike its author's previous work, which had dealt with history up to the present day, this work forecasts the development of the future. This object's owner dies when he goes to Miss Diana's soiree to try and retrieve it. At the end of the play, it is revealed that the notes used to write this still exist, inspiring (*) Thea Elvsted to try and reconstruct it. By publishing": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.82174957
+      ]
+    ]
+  },
+  "This object is lost at a drunken party whence its owner does not return \"with ivy leaves in his hair,\" as his lover had hoped. Unlike its author's previous work, which had dealt with history up to the present day, this work forecasts the development of the future. This object's owner dies when he goes to Miss Diana's soiree to try and retrieve it. At the end of the play, it is revealed that the notes used to write this still exist, inspiring (*) Thea Elvsted to try and reconstruct it. By publishing this work, its author could take the university professorship already promised to his friend, George": {
+    "guess": "Hedda Gabler",
+    "confidence": [
+      [
+        "H",
+        -0.93205905
+      ],
+      [
+        "ed",
+        -2.577686e-06
+      ],
+      [
+        "da",
+        0.0
+      ],
+      [
+        " Gab",
+        -5.5122365e-07
+      ],
+      [
+        "ler",
+        0.0
+      ]
+    ]
+  },
+  "This object is lost at a drunken party whence its owner does not return \"with ivy leaves in his hair,\" as his lover had hoped. Unlike its author's previous work, which had dealt with history up to the present day, this work forecasts the development of the future. This object's owner dies when he goes to Miss Diana's soiree to try and retrieve it. At the end of the play, it is revealed that the notes used to write this still exist, inspiring (*) Thea Elvsted to try and reconstruct it. By publishing this work, its author could take the university professorship already promised to his friend, George Tesman. For 10 points, name this object, which the title character of an Ibsen play throws into": {
+    "guess": "Hedda Gabler",
+    "confidence": [
+      [
+        "H",
+        -0.5640673
+      ],
+      [
+        "ed",
+        -1.2664457e-06
+      ],
+      [
+        "da",
+        0.0
+      ],
+      [
+        " Gab",
+        -1.0445127e-05
+      ],
+      [
+        "ler",
+        0.0
+      ]
+    ]
+  },
+  "This object is lost at a drunken party whence its owner does not return \"with ivy leaves in his hair,\" as his lover had hoped. Unlike its author's previous work, which had dealt with history up to the present day, this work forecasts the development of the future. This object's owner dies when he goes to Miss Diana's soiree to try and retrieve it. At the end of the play, it is revealed that the notes used to write this still exist, inspiring (*) Thea Elvsted to try and reconstruct it. By publishing this work, its author could take the university professorship already promised to his friend, George Tesman. For 10 points, name this object, which the title character of an Ibsen play throws into the fire.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.39798373
+      ]
+    ]
+  },
+  "One of these objects kills Superboy-Prime after his encounter with it, and one in DotA (\"dough-ta\") gives": {
+    "guess": "Green Lantern Ring",
+    "confidence": [
+      [
+        "Green",
+        -0.22319993
+      ],
+      [
+        " Lantern",
+        -0.057699494
+      ],
+      [
+        " Ring",
+        -0.4957798
+      ]
+    ]
+  },
+  "One of these objects kills Superboy-Prime after his encounter with it, and one in DotA (\"dough-ta\") gives a boost to mana in return for a drop of 150 HP. An aqua one of these names a move in Pokemon that": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.2327578
+      ]
+    ]
+  },
+  "One of these objects kills Superboy-Prime after his encounter with it, and one in DotA (\"dough-ta\") gives a boost to mana in return for a drop of 150 HP. An aqua one of these names a move in Pokemon that grants regeneration to the user, and when Barry Allen becomes the Flash, his clothes disappear into": {
+    "guess": "Ring",
+    "confidence": [
+      [
+        "Ring",
+        -0.026047716
+      ]
+    ]
+  },
+  "One of these objects kills Superboy-Prime after his encounter with it, and one in DotA (\"dough-ta\") gives a boost to mana in return for a drop of 150 HP. An aqua one of these names a move in Pokemon that grants regeneration to the user, and when Barry Allen becomes the Flash, his clothes disappear into one of these. One of these objects [*] \"of fire\" names a song in which the singer goes \"down, down,": {
+    "guess": "Ring",
+    "confidence": [
+      [
+        "Ring",
+        -0.004431067
+      ]
+    ]
+  },
+  "One of these objects kills Superboy-Prime after his encounter with it, and one in DotA (\"dough-ta\") gives a boost to mana in return for a drop of 150 HP. An aqua one of these names a move in Pokemon that grants regeneration to the user, and when Barry Allen becomes the Flash, his clothes disappear into one of these. One of these objects [*] \"of fire\" names a song in which the singer goes \"down, down, down and the flames went higher,\" the most famous song by Johnny Cash. In a series of novels, nineteen": {
+    "guess": "Ring",
+    "confidence": [
+      [
+        "Ring",
+        -0.027518189
+      ]
+    ]
+  },
+  "One of these objects kills Superboy-Prime after his encounter with it, and one in DotA (\"dough-ta\") gives a boost to mana in return for a drop of 150 HP. An aqua one of these names a move in Pokemon that grants regeneration to the user, and when Barry Allen becomes the Flash, his clothes disappear into one of these. One of these objects [*] \"of fire\" names a song in which the singer goes \"down, down, down and the flames went higher,\" the most famous song by Johnny Cash. In a series of novels, nineteen of these were made and given to humans, elves, and dwarves, and one was made \"to rule them all.\"": {
+    "guess": "Ring",
+    "confidence": [
+      [
+        "Ring",
+        -0.05234424
+      ]
+    ]
+  },
+  "One of these objects kills Superboy-Prime after his encounter with it, and one in DotA (\"dough-ta\") gives a boost to mana in return for a drop of 150 HP. An aqua one of these names a move in Pokemon that grants regeneration to the user, and when Barry Allen becomes the Flash, his clothes disappear into one of these. One of these objects [*] \"of fire\" names a song in which the singer goes \"down, down, down and the flames went higher,\" the most famous song by Johnny Cash. In a series of novels, nineteen of these were made and given to humans, elves, and dwarves, and one was made \"to rule them all.\" For 10 points, name these objects, one of which Sauron created to adorn his finger.": {
+    "guess": "Rings",
+    "confidence": [
+      [
+        "R",
+        -0.17435592
+      ],
+      [
+        "ings",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "One of these objects was mapped and named by Andrew Lawson. In the normal type of these boundaries, a": {
+    "guess": "Fault",
+    "confidence": [
+      [
+        "Fault",
+        -0.023462443
+      ]
+    ]
+  },
+  "One of these objects was mapped and named by Andrew Lawson. In the normal type of these boundaries, a graben [GRAH-buhn] is a downthrown block, and the hanging wall drops downward relative to the footwall.": {
+    "guess": "Fault (geology)",
+    "confidence": [
+      [
+        "Fault",
+        -0.005100103
+      ],
+      [
+        " (",
+        -9.729906e-06
+      ],
+      [
+        "ge",
+        -4.3202e-07
+      ],
+      [
+        "ology",
+        0.0
+      ],
+      [
+        ")",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One of these objects was mapped and named by Andrew Lawson. In the normal type of these boundaries, a graben [GRAH-buhn] is a downthrown block, and the hanging wall drops downward relative to the footwall. Up and down movement is associated with the dip-slip type of these features, some of which occur": {
+    "guess": "Fault (geology)",
+    "confidence": [
+      [
+        "Fault",
+        -0.0035114533
+      ],
+      [
+        " (",
+        -0.00014656837
+      ],
+      [
+        "ge",
+        -8.537869e-06
+      ],
+      [
+        "ology",
+        -3.1281633e-07
+      ],
+      [
+        ")",
+        -8.180258e-06
+      ]
+    ]
+  },
+  "One of these objects was mapped and named by Andrew Lawson. In the normal type of these boundaries, a graben [GRAH-buhn] is a downthrown block, and the hanging wall drops downward relative to the footwall. Up and down movement is associated with the dip-slip type of these features, some of which occur near the edges of tectonic plates. For 10 points, name these fractures in the earth's crust, one of": {
+    "guess": "Faults",
+    "confidence": [
+      [
+        "Fault",
+        -0.0015902004
+      ],
+      [
+        "s",
+        -0.38996506
+      ]
+    ]
+  },
+  "One of these objects was mapped and named by Andrew Lawson. In the normal type of these boundaries, a graben [GRAH-buhn] is a downthrown block, and the hanging wall drops downward relative to the footwall. Up and down movement is associated with the dip-slip type of these features, some of which occur near the edges of tectonic plates. For 10 points, name these fractures in the earth's crust, one of which is named for San Andreas.": {
+    "guess": "Fault (geology)",
+    "confidence": [
+      [
+        "Fault",
+        -0.0014280942
+      ],
+      [
+        " (",
+        -4.0842064e-05
+      ],
+      [
+        "ge",
+        -4.3202e-07
+      ],
+      [
+        "ology",
+        0.0
+      ],
+      [
+        ")",
+        -5.3193703e-06
+      ]
+    ]
+  },
+  "These objects are home to Colossus Wasps, which prey on another species that inhabits them, the exogorths.": {
+    "guess": "Space slug",
+    "confidence": [
+      [
+        "Space",
+        -0.82353723
+      ],
+      [
+        " slug",
+        -0.0025242919
+      ]
+    ]
+  },
+  "These objects are home to Colossus Wasps, which prey on another species that inhabits them, the exogorths. A particular one was the location for the Chiss Expansionary Defense Force outpost near Crustai,": {
+    "guess": "Asteroid (Star Wars)",
+    "confidence": [
+      [
+        "Ast",
+        -0.42935795
+      ],
+      [
+        "eroid",
+        -0.4740914
+      ],
+      [
+        " (",
+        -1.3406655
+      ],
+      [
+        "Star",
+        -0.00072672893
+      ],
+      [
+        " Wars",
+        -3.631232e-05
+      ],
+      [
+        ")",
+        -2.9994528e-05
+      ]
+    ]
+  },
+  "These objects are home to Colossus Wasps, which prey on another species that inhabits them, the exogorths. A particular one was the location for the Chiss Expansionary Defense Force outpost near Crustai, and another was where Maw Installation was situated. Shortly before stating a disdain for excuses,": {
+    "guess": "Asteroid Field",
+    "confidence": [
+      [
+        "Ast",
+        -0.9249485
+      ],
+      [
+        "eroid",
+        -0.5759441
+      ],
+      [
+        " Field",
+        -1.5085559
+      ]
+    ]
+  },
+  "These objects are home to Colossus Wasps, which prey on another species that inhabits them, the exogorths. A particular one was the location for the Chiss Expansionary Defense Force outpost near Crustai, and another was where Maw Installation was situated. Shortly before stating a disdain for excuses, one character announces that these objects \"do not concern me\" to Admiral Piett. A sonic charge is": {
+    "guess": "Asteroids",
+    "confidence": [
+      [
+        "Ast",
+        -0.0062294025
+      ],
+      [
+        "eroids",
+        -0.014163628
+      ]
+    ]
+  },
+  "These objects are home to Colossus Wasps, which prey on another species that inhabits them, the exogorths. A particular one was the location for the Chiss Expansionary Defense Force outpost near Crustai, and another was where Maw Installation was situated. Shortly before stating a disdain for excuses, one character announces that these objects \"do not concern me\" to Admiral Piett. A sonic charge is used in a dogfight among these objects near (*) Geonosis, and another group of these is encountered": {
+    "guess": "Asteroid field",
+    "confidence": [
+      [
+        "Ast",
+        -0.011777114
+      ],
+      [
+        "eroid",
+        -0.12692863
+      ],
+      [
+        " field",
+        -0.4681665
+      ]
+    ]
+  },
+  "These objects are home to Colossus Wasps, which prey on another species that inhabits them, the exogorths. A particular one was the location for the Chiss Expansionary Defense Force outpost near Crustai, and another was where Maw Installation was situated. Shortly before stating a disdain for excuses, one character announces that these objects \"do not concern me\" to Admiral Piett. A sonic charge is used in a dogfight among these objects near (*) Geonosis, and another group of these is encountered as a result of an clash with Death Squadron; the chance of surviving that incident is given as 3,720": {
+    "guess": "Asteroid field",
+    "confidence": [
+      [
+        "Ast",
+        -0.010525033
+      ],
+      [
+        "eroid",
+        -0.3868719
+      ],
+      [
+        " field",
+        -0.24524693
+      ]
+    ]
+  },
+  "These objects are home to Colossus Wasps, which prey on another species that inhabits them, the exogorths. A particular one was the location for the Chiss Expansionary Defense Force outpost near Crustai, and another was where Maw Installation was situated. Shortly before stating a disdain for excuses, one character announces that these objects \"do not concern me\" to Admiral Piett. A sonic charge is used in a dogfight among these objects near (*) Geonosis, and another group of these is encountered as a result of an clash with Death Squadron; the chance of surviving that incident is given as 3,720 to 1. During an attempt to seek refuge within one of these objects, the presence of mynocks reveals": {
+    "guess": "Asteroids",
+    "confidence": [
+      [
+        "Ast",
+        -0.0091833705
+      ],
+      [
+        "eroids",
+        -0.005234002
+      ]
+    ]
+  },
+  "These objects are home to Colossus Wasps, which prey on another species that inhabits them, the exogorths. A particular one was the location for the Chiss Expansionary Defense Force outpost near Crustai, and another was where Maw Installation was situated. Shortly before stating a disdain for excuses, one character announces that these objects \"do not concern me\" to Admiral Piett. A sonic charge is used in a dogfight among these objects near (*) Geonosis, and another group of these is encountered as a result of an clash with Death Squadron; the chance of surviving that incident is given as 3,720 to 1. During an attempt to seek refuge within one of these objects, the presence of mynocks reveals that a space slug is impersonating a cave. For 10 points, name these objects which made up a field": {
+    "guess": "Asteroids",
+    "confidence": [
+      [
+        "Ast",
+        -0.0026693537
+      ],
+      [
+        "eroids",
+        -0.018150644
+      ]
+    ]
+  },
+  "These objects are home to Colossus Wasps, which prey on another species that inhabits them, the exogorths. A particular one was the location for the Chiss Expansionary Defense Force outpost near Crustai, and another was where Maw Installation was situated. Shortly before stating a disdain for excuses, one character announces that these objects \"do not concern me\" to Admiral Piett. A sonic charge is used in a dogfight among these objects near (*) Geonosis, and another group of these is encountered as a result of an clash with Death Squadron; the chance of surviving that incident is given as 3,720 to 1. During an attempt to seek refuge within one of these objects, the presence of mynocks reveals that a space slug is impersonating a cave. For 10 points, name these objects which made up a field near the Hoth system that the Millennium Falcon flew into in The Empire Strikes Back": {
+    "guess": "Asteroids",
+    "confidence": [
+      [
+        "Ast",
+        -0.0008304748
+      ],
+      [
+        "eroids",
+        -0.00043078844
+      ]
+    ]
+  },
+  "Some of these objects have gaps in their ultraviolet spectrum due to the existence of neutral hydrogen": {
+    "guess": "Quasar",
+    "confidence": [
+      [
+        "Qu",
+        -0.32695836
+      ],
+      [
+        "asar",
+        -0.12698753
+      ]
+    ]
+  },
+  "Some of these objects have gaps in their ultraviolet spectrum due to the existence of neutral hydrogen in the intergalactic medium,  providing evidence for the reionization of hydrogen around z = 6. Gravitational": {
+    "guess": "Quasar",
+    "confidence": [
+      [
+        "Qu",
+        -0.16213192
+      ],
+      [
+        "asar",
+        -0.07897395
+      ]
+    ]
+  },
+  "Some of these objects have gaps in their ultraviolet spectrum due to the existence of neutral hydrogen in the intergalactic medium,  providing evidence for the reionization of hydrogen around z = 6. Gravitational lensing was first confirmed by a twin of these. These objects can have redshifts greater": {
+    "guess": "Quasar",
+    "confidence": [
+      [
+        "Qu",
+        -0.0007198188
+      ],
+      [
+        "asar",
+        -7.505351e-05
+      ]
+    ]
+  },
+  "Some of these objects have gaps in their ultraviolet spectrum due to the existence of neutral hydrogen in the intergalactic medium,  providing evidence for the reionization of hydrogen around z = 6. Gravitational lensing was first confirmed by a twin of these. These objects can have redshifts greater than 5.8, which is where the (*) Gunn-Peterson trough is observed. Their variability suggests they": {
+    "guess": "Quasar",
+    "confidence": [
+      [
+        "Qu",
+        -0.0010485277
+      ],
+      [
+        "asar",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "Some of these objects have gaps in their ultraviolet spectrum due to the existence of neutral hydrogen in the intergalactic medium,  providing evidence for the reionization of hydrogen around z = 6. Gravitational lensing was first confirmed by a twin of these. These objects can have redshifts greater than 5.8, which is where the (*) Gunn-Peterson trough is observed. Their variability suggests they are compact, of a size on the order of light-weeks or months. These objects are powered by accretion": {
+    "guess": "Quasar",
+    "confidence": [
+      [
+        "Qu",
+        -0.000181849
+      ],
+      [
+        "asar",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "Some of these objects have gaps in their ultraviolet spectrum due to the existence of neutral hydrogen in the intergalactic medium,  providing evidence for the reionization of hydrogen around z = 6. Gravitational lensing was first confirmed by a twin of these. These objects can have redshifts greater than 5.8, which is where the (*) Gunn-Peterson trough is observed. Their variability suggests they are compact, of a size on the order of light-weeks or months. These objects are powered by accretion disks around supermassive black holes. For 10 points, name these remnants of the early universe which": {
+    "guess": "Quasar",
+    "confidence": [
+      [
+        "Qu",
+        -0.0005933052
+      ],
+      [
+        "asar",
+        -6.6232446e-05
+      ]
+    ]
+  },
+  "Some of these objects have gaps in their ultraviolet spectrum due to the existence of neutral hydrogen in the intergalactic medium,  providing evidence for the reionization of hydrogen around z = 6. Gravitational lensing was first confirmed by a twin of these. These objects can have redshifts greater than 5.8, which is where the (*) Gunn-Peterson trough is observed. Their variability suggests they are compact, of a size on the order of light-weeks or months. These objects are powered by accretion disks around supermassive black holes. For 10 points, name these remnants of the early universe which emit as much energy as some galaxies, are the most luminous objects in the universe, and are composed": {
+    "guess": "Quasar",
+    "confidence": [
+      [
+        "Qu",
+        -0.00032926726
+      ],
+      [
+        "asar",
+        -8.4947416e-05
+      ]
+    ]
+  },
+  "Some of these objects have gaps in their ultraviolet spectrum due to the existence of neutral hydrogen in the intergalactic medium,  providing evidence for the reionization of hydrogen around z = 6. Gravitational lensing was first confirmed by a twin of these. These objects can have redshifts greater than 5.8, which is where the (*) Gunn-Peterson trough is observed. Their variability suggests they are compact, of a size on the order of light-weeks or months. These objects are powered by accretion disks around supermassive black holes. For 10 points, name these remnants of the early universe which emit as much energy as some galaxies, are the most luminous objects in the universe, and are composed mostly of \"radio quiet\" types.": {
+    "guess": "Quasar",
+    "confidence": [
+      [
+        "Qu",
+        -0.00021557629
+      ],
+      [
+        "asar",
+        -9.627177e-05
+      ]
+    ]
+  },
+  "This object is discussed in the sixth tractate of the Tohorot in the Mishnah, which states that to be": {
+    "guess": "Mikveh",
+    "confidence": [
+      [
+        "M",
+        -0.009837783
+      ],
+      [
+        "ik",
+        -6.704273e-07
+      ],
+      [
+        "veh",
+        -0.10039483
+      ]
+    ]
+  },
+  "This object is discussed in the sixth tractate of the Tohorot in the Mishnah, which states that to be valid, one of these objects must contain at least 40 se'ah. A dispute exists over whether a person": {
+    "guess": "Mikveh",
+    "confidence": [
+      [
+        "M",
+        -0.006739762
+      ],
+      [
+        "ik",
+        -9.0883464e-07
+      ],
+      [
+        "veh",
+        -0.0010098268
+      ]
+    ]
+  },
+  "This object is discussed in the sixth tractate of the Tohorot in the Mishnah, which states that to be valid, one of these objects must contain at least 40 se'ah. A dispute exists over whether a person with uncombed hair or dreadlocks can properly use this object, and this object is used during the second": {
+    "guess": "Mikveh",
+    "confidence": [
+      [
+        "M",
+        -0.0008937132
+      ],
+      [
+        "ik",
+        -3.166338e-05
+      ],
+      [
+        "veh",
+        -0.0019301822
+      ]
+    ]
+  },
+  "This object is discussed in the sixth tractate of the Tohorot in the Mishnah, which states that to be valid, one of these objects must contain at least 40 se'ah. A dispute exists over whether a person with uncombed hair or dreadlocks can properly use this object, and this object is used during the second stage of taharah, the preparation of bodies for burial. Keri, Zavah, and Niddah are states caused": {
+    "guess": "Mikveh",
+    "confidence": [
+      [
+        "M",
+        -3.1305768e-05
+      ],
+      [
+        "ik",
+        -2.486877e-05
+      ],
+      [
+        "veh",
+        -0.0019298246
+      ]
+    ]
+  },
+  "This object is discussed in the sixth tractate of the Tohorot in the Mishnah, which states that to be valid, one of these objects must contain at least 40 se'ah. A dispute exists over whether a person with uncombed hair or dreadlocks can properly use this object, and this object is used during the second stage of taharah, the preparation of bodies for burial. Keri, Zavah, and Niddah are states caused by discharge of bodily fluids that this object can remove via tevilah, or ablution via full-body": {
+    "guess": "Mikveh",
+    "confidence": [
+      [
+        "M",
+        -0.000101039914
+      ],
+      [
+        "ik",
+        -9.133887e-06
+      ],
+      [
+        "veh",
+        -0.002476605
+      ]
+    ]
+  },
+  "This object is discussed in the sixth tractate of the Tohorot in the Mishnah, which states that to be valid, one of these objects must contain at least 40 se'ah. A dispute exists over whether a person with uncombed hair or dreadlocks can properly use this object, and this object is used during the second stage of taharah, the preparation of bodies for burial. Keri, Zavah, and Niddah are states caused by discharge of bodily fluids that this object can remove via tevilah, or ablution via full-body immersion. For ten points, name this type of ritual bath, used for purification in Judaism.": {
+    "guess": "Mikveh",
+    "confidence": [
+      [
+        "M",
+        -0.0029784178
+      ],
+      [
+        "ik",
+        -5.5122365e-07
+      ],
+      [
+        "veh",
+        -0.004421336
+      ]
+    ]
+  },
+  "These objects were studied by Heinrich Heesch, who developed the idea of \"discharging.\" Because \"chains\"": {
+    "guess": "Four color theorem",
+    "confidence": [
+      [
+        "Four",
+        -0.6863562
+      ],
+      [
+        " color",
+        -8.351697e-05
+      ],
+      [
+        " theorem",
+        0.0
+      ]
+    ]
+  },
+  "These objects were studied by Heinrich Heesch, who developed the idea of \"discharging.\" Because \"chains\" could be tangled, Kempe's proof of a theorem about these objects was flawed. Tait proved that theorem": {
+    "guess": "Four color theorem",
+    "confidence": [
+      [
+        "Four",
+        -0.0012233243
+      ],
+      [
+        " color",
+        0.0
+      ],
+      [
+        " theorem",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "These objects were studied by Heinrich Heesch, who developed the idea of \"discharging.\" Because \"chains\" could be tangled, Kempe's proof of a theorem about these objects was flawed. Tait proved that theorem to be equivalent to the claim that no snarks are planar, and that theorem is a special case of": {
+    "guess": "Four color theorem",
+    "confidence": [
+      [
+        "Four",
+        -0.07312287
+      ],
+      [
+        " color",
+        -6.6306106e-06
+      ],
+      [
+        " theorem",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "These objects were studied by Heinrich Heesch, who developed the idea of \"discharging.\" Because \"chains\" could be tangled, Kempe's proof of a theorem about these objects was flawed. Tait proved that theorem to be equivalent to the claim that no snarks are planar, and that theorem is a special case of the Hadwiger conjecture. One of these objects on a Klein bottle does not satisfy the conditions of": {
+    "guess": "Four color theorem",
+    "confidence": [
+      [
+        "Four",
+        -0.025170313
+      ],
+      [
+        " color",
+        -6.704273e-07
+      ],
+      [
+        " theorem",
+        0.0
+      ]
+    ]
+  },
+  "These objects were studied by Heinrich Heesch, who developed the idea of \"discharging.\" Because \"chains\" could be tangled, Kempe's proof of a theorem about these objects was flawed. Tait proved that theorem to be equivalent to the claim that no snarks are planar, and that theorem is a special case of the Hadwiger conjecture. One of these objects on a Klein bottle does not satisfy the conditions of the Heawood conjecture. Haken and Appel used a computer-aided proof that checks over nineteen-hundred": {
+    "guess": "Four color theorem",
+    "confidence": [
+      [
+        "Four",
+        -0.045653056
+      ],
+      [
+        " color",
+        -6.6306106e-06
+      ],
+      [
+        " theorem",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "These objects were studied by Heinrich Heesch, who developed the idea of \"discharging.\" Because \"chains\" could be tangled, Kempe's proof of a theorem about these objects was flawed. Tait proved that theorem to be equivalent to the claim that no snarks are planar, and that theorem is a special case of the Hadwiger conjecture. One of these objects on a Klein bottle does not satisfy the conditions of the Heawood conjecture. Haken and Appel used a computer-aided proof that checks over nineteen-hundred reducible configurations of these objects in order to solve Guthrie's problem. For 10 points, name": {
+    "guess": "Four color theorem",
+    "confidence": [
+      [
+        "Four",
+        -0.02451748
+      ],
+      [
+        " color",
+        -3.6431527e-05
+      ],
+      [
+        " theorem",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "These objects were studied by Heinrich Heesch, who developed the idea of \"discharging.\" Because \"chains\" could be tangled, Kempe's proof of a theorem about these objects was flawed. Tait proved that theorem to be equivalent to the claim that no snarks are planar, and that theorem is a special case of the Hadwiger conjecture. One of these objects on a Klein bottle does not satisfy the conditions of the Heawood conjecture. Haken and Appel used a computer-aided proof that checks over nineteen-hundred reducible configurations of these objects in order to solve Guthrie's problem. For 10 points, name these objects from graph theory that can be properly colored with four hues.": {
+    "guess": "Maps",
+    "confidence": [
+      [
+        "Maps",
+        -0.12514193
+      ]
+    ]
+  },
+  "One of these objects is named after Cocos Island and is next to one named after a region of Peru, Nazca.": {
+    "guess": "Tectonic plate",
+    "confidence": [
+      [
+        "T",
+        -0.06889534
+      ],
+      [
+        "ect",
+        0.0
+      ],
+      [
+        "onic",
+        0.0
+      ],
+      [
+        " plate",
+        -0.5277851
+      ]
+    ]
+  },
+  "One of these objects is named after Cocos Island and is next to one named after a region of Peru, Nazca. The spaces between them are usually classified as divergent or convergent transform faults. The": {
+    "guess": "Tectonic plate",
+    "confidence": [
+      [
+        "T",
+        -0.09514738
+      ],
+      [
+        "ect",
+        0.0
+      ],
+      [
+        "onic",
+        -1.9361265e-07
+      ],
+      [
+        " plate",
+        -0.43297097
+      ]
+    ]
+  },
+  "One of these objects is named after Cocos Island and is next to one named after a region of Peru, Nazca. The spaces between them are usually classified as divergent or convergent transform faults. The theory of these objects has become connected to theories of mantle plumes, and the original theory came": {
+    "guess": "Plate tectonics",
+    "confidence": [
+      [
+        "Plate",
+        -0.06520048
+      ],
+      [
+        " tect",
+        -1.6240566e-06
+      ],
+      [
+        "onics",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "One of these objects is named after Cocos Island and is next to one named after a region of Peru, Nazca. The spaces between them are usually classified as divergent or convergent transform faults. The theory of these objects has become connected to theories of mantle plumes, and the original theory came out of the continental drift ideas of Alfred Wegener. For 10 points, name these shifting sections": {
+    "guess": "Tectonic plates",
+    "confidence": [
+      [
+        "T",
+        -0.011694763
+      ],
+      [
+        "ect",
+        0.0
+      ],
+      [
+        "onic",
+        0.0
+      ],
+      [
+        " plates",
+        -0.07989202
+      ]
+    ]
+  },
+  "One of these objects is named after Cocos Island and is next to one named after a region of Peru, Nazca. The spaces between them are usually classified as divergent or convergent transform faults. The theory of these objects has become connected to theories of mantle plumes, and the original theory came out of the continental drift ideas of Alfred Wegener. For 10 points, name these shifting sections of the Earth's surface.": {
+    "guess": "Tectonic plates",
+    "confidence": [
+      [
+        "T",
+        -0.034077745
+      ],
+      [
+        "ect",
+        0.0
+      ],
+      [
+        "onic",
+        0.0
+      ],
+      [
+        " plates",
+        -0.12752569
+      ]
+    ]
+  },
+  "This object was delivered not with an inflatable \"airbag\" system like its predecessors, but with a \"sky": {
+    "guess": "Curiosity rover",
+    "confidence": [
+      [
+        "Cur",
+        -0.5890386
+      ],
+      [
+        "iosity",
+        0.0
+      ],
+      [
+        " rover",
+        -0.53769416
+      ]
+    ]
+  },
+  "This object was delivered not with an inflatable \"airbag\" system like its predecessors, but with a \"sky crane\" system that was untested prior to its deployment, which was called \"Seven Minutes of Terror.\"": {
+    "guess": "Curiosity (rover)",
+    "confidence": [
+      [
+        "Cur",
+        -0.0053248354
+      ],
+      [
+        "iosity",
+        0.0
+      ],
+      [
+        " (",
+        -0.089107625
+      ],
+      [
+        "ro",
+        -0.0010646054
+      ],
+      [
+        "ver",
+        0.0
+      ],
+      [
+        ")",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "This object was delivered not with an inflatable \"airbag\" system like its predecessors, but with a \"sky crane\" system that was untested prior to its deployment, which was called \"Seven Minutes of Terror.\" Its arrival at Gale Crater on August 6, 2012 was observed by the Odyssey orbiter. (*) For 10 points,": {
+    "guess": "Curiosity (rover)",
+    "confidence": [
+      [
+        "Cur",
+        -0.000821065
+      ],
+      [
+        "iosity",
+        0.0
+      ],
+      [
+        " (",
+        -0.0016211456
+      ],
+      [
+        "ro",
+        -0.00034023033
+      ],
+      [
+        "ver",
+        0.0
+      ],
+      [
+        ")",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This object was delivered not with an inflatable \"airbag\" system like its predecessors, but with a \"sky crane\" system that was untested prior to its deployment, which was called \"Seven Minutes of Terror.\" Its arrival at Gale Crater on August 6, 2012 was observed by the Odyssey orbiter. (*) For 10 points, name this semi-autonomous, car-sized rover currently conducting experiments on a certain red planet.": {
+    "guess": "Curiosity (rover)",
+    "confidence": [
+      [
+        "Cur",
+        -0.00045021495
+      ],
+      [
+        "iosity",
+        0.0
+      ],
+      [
+        " (",
+        -0.017696096
+      ],
+      [
+        "ro",
+        -0.00063761964
+      ],
+      [
+        "ver",
+        -1.9361265e-07
+      ],
+      [
+        ")",
+        -3.888926e-06
+      ]
+    ]
+  },
+  "This object's namesake Mare Explorer mission has been proposed to visit its Liegia Mare, which is mainly": {
+    "guess": "Titan (moon)",
+    "confidence": [
+      [
+        "Titan",
+        -0.0014040407
+      ],
+      [
+        " (",
+        -0.12821645
+      ],
+      [
+        "moon",
+        -3.6431527e-05
+      ],
+      [
+        ")",
+        -0.00023512568
+      ]
+    ]
+  },
+  "This object's namesake Mare Explorer mission has been proposed to visit its Liegia Mare, which is mainly made up of ethane and methane. Hotei Regio and Tui Regio are sites on this body, which is also home": {
+    "guess": "\u03a4\u1fd1\u03c4\u03ac\u03bd",
+    "confidence": [
+      [
+        "\u03a4",
+        -0.18314475
+      ],
+      [
+        "\\xe1\\xbf",
+        -0.0022643285
+      ],
+      [
+        "\\x91",
+        -4.3202e-07
+      ],
+      [
+        "\u03c4\u03ac",
+        -4.5848617e-05
+      ],
+      [
+        "\u03bd",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This object's namesake Mare Explorer mission has been proposed to visit its Liegia Mare, which is mainly made up of ethane and methane. Hotei Regio and Tui Regio are sites on this body, which is also home to the unusually dark Shangri-La area. The Kraken Lake is on this object, which features a region": {
+    "guess": "Titan",
+    "confidence": [
+      [
+        "Titan",
+        -0.3568991
+      ]
+    ]
+  },
+  "This object's namesake Mare Explorer mission has been proposed to visit its Liegia Mare, which is mainly made up of ethane and methane. Hotei Regio and Tui Regio are sites on this body, which is also home to the unusually dark Shangri-La area. The Kraken Lake is on this object, which features a region with remarkably high albedo called its \"Xanadu\" area. Because the Miller-Urey experiment's prebiotic": {
+    "guess": "Titan",
+    "confidence": [
+      [
+        "Titan",
+        -0.26620978
+      ]
+    ]
+  },
+  "This object's namesake Mare Explorer mission has been proposed to visit its Liegia Mare, which is mainly made up of ethane and methane. Hotei Regio and Tui Regio are sites on this body, which is also home to the unusually dark Shangri-La area. The Kraken Lake is on this object, which features a region with remarkably high albedo called its \"Xanadu\" area. Because the Miller-Urey experiment's prebiotic conditions were similar to this body's atmosphere and because it may have (*) methane lakes with": {
+    "guess": "Titan",
+    "confidence": [
+      [
+        "Titan",
+        -0.22467846
+      ]
+    ]
+  },
+  "This object's namesake Mare Explorer mission has been proposed to visit its Liegia Mare, which is mainly made up of ethane and methane. Hotei Regio and Tui Regio are sites on this body, which is also home to the unusually dark Shangri-La area. The Kraken Lake is on this object, which features a region with remarkably high albedo called its \"Xanadu\" area. Because the Miller-Urey experiment's prebiotic conditions were similar to this body's atmosphere and because it may have (*) methane lakes with floating ice, this satellite has been the subject of the search for life. This object was the destination": {
+    "guess": "Titan",
+    "confidence": [
+      [
+        "Titan",
+        -0.41809246
+      ]
+    ]
+  },
+  "This object's namesake Mare Explorer mission has been proposed to visit its Liegia Mare, which is mainly made up of ethane and methane. Hotei Regio and Tui Regio are sites on this body, which is also home to the unusually dark Shangri-La area. The Kraken Lake is on this object, which features a region with remarkably high albedo called its \"Xanadu\" area. Because the Miller-Urey experiment's prebiotic conditions were similar to this body's atmosphere and because it may have (*) methane lakes with floating ice, this satellite has been the subject of the search for life. This object was the destination of the Huygens probe, and this is the only moon with a dense atmosphere. For 10 points, name this": {
+    "guess": "Titan",
+    "confidence": [
+      [
+        "Titan",
+        -0.57024056
+      ]
+    ]
+  },
+  "This object's namesake Mare Explorer mission has been proposed to visit its Liegia Mare, which is mainly made up of ethane and methane. Hotei Regio and Tui Regio are sites on this body, which is also home to the unusually dark Shangri-La area. The Kraken Lake is on this object, which features a region with remarkably high albedo called its \"Xanadu\" area. Because the Miller-Urey experiment's prebiotic conditions were similar to this body's atmosphere and because it may have (*) methane lakes with floating ice, this satellite has been the subject of the search for life. This object was the destination of the Huygens probe, and this is the only moon with a dense atmosphere. For 10 points, name this largest moon of Saturn.": {
+    "guess": "Titan",
+    "confidence": [
+      [
+        "Titan",
+        -0.4990167
+      ]
+    ]
+  },
+  "This object appears in the title of an essay by Leslie Fiedler about homoeroticism in American literature.": {
+    "guess": "\"Come Back to the Raft Ag'in, Huck Honey!\"",
+    "confidence": [
+      [
+        "\"",
+        -0.32794297
+      ],
+      [
+        "Come",
+        -0.0019075738
+      ],
+      [
+        " Back",
+        -0.00041696816
+      ],
+      [
+        " to",
+        -8.363618e-05
+      ],
+      [
+        " the",
+        -4.608702e-05
+      ],
+      [
+        " Ra",
+        -8.7212284e-05
+      ],
+      [
+        "ft",
+        0.0
+      ],
+      [
+        " Ag",
+        -0.009533773
+      ],
+      [
+        "'in",
+        -0.062321015
+      ],
+      [
+        ",",
+        -0.0032450857
+      ],
+      [
+        " Huck",
+        -0.0008970509
+      ],
+      [
+        " Honey",
+        -8.220573e-05
+      ],
+      [
+        "!\"",
+        -0.018235864
+      ]
+    ]
+  },
+  "This object appears in the title of an essay by Leslie Fiedler about homoeroticism in American literature. During the day, part of this object is inhabited by a man painted blue to look like a \"Sick Arab\".": {
+    "guess": "Raft",
+    "confidence": [
+      [
+        "Ra",
+        -0.40981933
+      ],
+      [
+        "ft",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "This object appears in the title of an essay by Leslie Fiedler about homoeroticism in American literature. During the day, part of this object is inhabited by a man painted blue to look like a \"Sick Arab\". A character who lives on this object writes a letter to Miss Watson, which he later tears up, exclaiming": {
+    "guess": "Raft",
+    "confidence": [
+      [
+        "Ra",
+        -0.35919508
+      ],
+      [
+        "ft",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "This object appears in the title of an essay by Leslie Fiedler about homoeroticism in American literature. During the day, part of this object is inhabited by a man painted blue to look like a \"Sick Arab\". A character who lives on this object writes a letter to Miss Watson, which he later tears up, exclaiming \"All right, then, (*) I'll go to hell!\" Actors who put on the \"Royal Nonesuch\" use this vessel": {
+    "guess": "Raft",
+    "confidence": [
+      [
+        "Ra",
+        -0.18401793
+      ],
+      [
+        "ft",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "This object appears in the title of an essay by Leslie Fiedler about homoeroticism in American literature. During the day, part of this object is inhabited by a man painted blue to look like a \"Sick Arab\". A character who lives on this object writes a letter to Miss Watson, which he later tears up, exclaiming \"All right, then, (*) I'll go to hell!\" Actors who put on the \"Royal Nonesuch\" use this vessel to escape from Bricksville, and after it crashes, one passenger observes the feud of the Grangerfords": {
+    "guess": "Raft",
+    "confidence": [
+      [
+        "Ra",
+        -0.111254685
+      ],
+      [
+        "ft",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This object appears in the title of an essay by Leslie Fiedler about homoeroticism in American literature. During the day, part of this object is inhabited by a man painted blue to look like a \"Sick Arab\". A character who lives on this object writes a letter to Miss Watson, which he later tears up, exclaiming \"All right, then, (*) I'll go to hell!\" Actors who put on the \"Royal Nonesuch\" use this vessel to escape from Bricksville, and after it crashes, one passenger observes the feud of the Grangerfords and the Shepherdsons. The Duke and the Dauphin board this vessel in Arkansas, long after it sets": {
+    "guess": "Raft",
+    "confidence": [
+      [
+        "Ra",
+        -0.18803167
+      ],
+      [
+        "ft",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "This object appears in the title of an essay by Leslie Fiedler about homoeroticism in American literature. During the day, part of this object is inhabited by a man painted blue to look like a \"Sick Arab\". A character who lives on this object writes a letter to Miss Watson, which he later tears up, exclaiming \"All right, then, (*) I'll go to hell!\" Actors who put on the \"Royal Nonesuch\" use this vessel to escape from Bricksville, and after it crashes, one passenger observes the feud of the Grangerfords and the Shepherdsons. The Duke and the Dauphin board this vessel in Arkansas, long after it sets out from Jackson's Island with the intended destination of Cairo, Illinois. For 10 points, name": {
+    "guess": "Raft",
+    "confidence": [
+      [
+        "Ra",
+        -0.30089816
+      ],
+      [
+        "ft",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "This object appears in the title of an essay by Leslie Fiedler about homoeroticism in American literature. During the day, part of this object is inhabited by a man painted blue to look like a \"Sick Arab\". A character who lives on this object writes a letter to Miss Watson, which he later tears up, exclaiming \"All right, then, (*) I'll go to hell!\" Actors who put on the \"Royal Nonesuch\" use this vessel to escape from Bricksville, and after it crashes, one passenger observes the feud of the Grangerfords and the Shepherdsons. The Duke and the Dauphin board this vessel in Arkansas, long after it sets out from Jackson's Island with the intended destination of Cairo, Illinois. For 10 points, name this vessel on which Jim and Huck float down the Mississippi.": {
+    "guess": "Raft",
+    "confidence": [
+      [
+        "Ra",
+        -0.092643015
+      ],
+      [
+        "ft",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "These objects are supposedly threatened by the development of a 344-millimeter Lepage glue gun. A character": {
+    "guess": "The answer is: The Red Balloon",
+    "confidence": [
+      [
+        "The",
+        -0.65582734
+      ],
+      [
+        " answer",
+        -0.99257636
+      ],
+      [
+        " is",
+        -0.0003035266
+      ],
+      [
+        ":",
+        -0.00078425667
+      ],
+      [
+        " The",
+        -2.0022993
+      ],
+      [
+        " Red",
+        -1.1764265
+      ],
+      [
+        " Balloon",
+        -0.3067168
+      ]
+    ]
+  },
+  "These objects are supposedly threatened by the development of a 344-millimeter Lepage glue gun. A character who decides to die of pneumonia moves into a hospital that often treats men who work in these": {
+    "guess": "Bridges",
+    "confidence": [
+      [
+        "Br",
+        -0.1651825
+      ],
+      [
+        "idges",
+        -8.697388e-05
+      ]
+    ]
+  },
+  "These objects are supposedly threatened by the development of a 344-millimeter Lepage glue gun. A character who decides to die of pneumonia moves into a hospital that often treats men who work in these objects, and Chief White Halfoat had earlier threatened to slit the throat of one of the officers in": {
+    "guess": "Catch-22 (novel)",
+    "confidence": [
+      [
+        "Catch",
+        -0.97288626
+      ],
+      [
+        "-",
+        -4.0961266e-05
+      ],
+      [
+        "22",
+        0.0
+      ],
+      [
+        " (",
+        -0.31551248
+      ],
+      [
+        "nov",
+        -0.406714
+      ],
+      [
+        "el",
+        -2.1008714e-06
+      ],
+      [
+        ")",
+        -0.00014346908
+      ]
+    ]
+  },
+  "These objects are supposedly threatened by the development of a 344-millimeter Lepage glue gun. A character who decides to die of pneumonia moves into a hospital that often treats men who work in these objects, and Chief White Halfoat had earlier threatened to slit the throat of one of the officers in charge of them. A man who continually crashes these (*) vehicles escapes to Sweden in a rowboat. These": {
+    "guess": "B-25 bombers",
+    "confidence": [
+      [
+        "B",
+        -0.06871585
+      ],
+      [
+        "-",
+        -8.180258e-06
+      ],
+      [
+        "25",
+        -0.00043758305
+      ],
+      [
+        " bomb",
+        -0.708023
+      ],
+      [
+        "ers",
+        0.0
+      ]
+    ]
+  },
+  "These objects are supposedly threatened by the development of a 344-millimeter Lepage glue gun. A character who decides to die of pneumonia moves into a hospital that often treats men who work in these objects, and Chief White Halfoat had earlier threatened to slit the throat of one of the officers in charge of them. A man who continually crashes these (*) vehicles escapes to Sweden in a rowboat. These vehicles are the principle means by which the Allies conduct the \"Great Big Siege of Bologna\".": {
+    "guess": "Bombers",
+    "confidence": [
+      [
+        "Bomb",
+        -0.5865258
+      ],
+      [
+        "ers",
+        -2.2365493e-05
+      ]
+    ]
+  },
+  "These objects are supposedly threatened by the development of a 344-millimeter Lepage glue gun. A character who decides to die of pneumonia moves into a hospital that often treats men who work in these objects, and Chief White Halfoat had earlier threatened to slit the throat of one of the officers in charge of them. A man who continually crashes these (*) vehicles escapes to Sweden in a rowboat. These vehicles are the principle means by which the Allies conduct the \"Great Big Siege of Bologna\". McWatt bisects Kid Sampson with the propeller of one of these vehicles before crashing it into a mountain,": {
+    "guess": "Bombers",
+    "confidence": [
+      [
+        "Bomb",
+        -0.83658487
+      ],
+      [
+        "ers",
+        -0.0007199381
+      ]
+    ]
+  },
+  "These objects are supposedly threatened by the development of a 344-millimeter Lepage glue gun. A character who decides to die of pneumonia moves into a hospital that often treats men who work in these objects, and Chief White Halfoat had earlier threatened to slit the throat of one of the officers in charge of them. A man who continually crashes these (*) vehicles escapes to Sweden in a rowboat. These vehicles are the principle means by which the Allies conduct the \"Great Big Siege of Bologna\". McWatt bisects Kid Sampson with the propeller of one of these vehicles before crashing it into a mountain, and Snowden is killed by the flak that hits one of them. For 10 points, name these vehicles flown": {
+    "guess": "Bombers",
+    "confidence": [
+      [
+        "Bomb",
+        -0.5492096
+      ],
+      [
+        "ers",
+        -2.1769476e-05
+      ]
+    ]
+  },
+  "These objects are supposedly threatened by the development of a 344-millimeter Lepage glue gun. A character who decides to die of pneumonia moves into a hospital that often treats men who work in these objects, and Chief White Halfoat had earlier threatened to slit the throat of one of the officers in charge of them. A man who continually crashes these (*) vehicles escapes to Sweden in a rowboat. These vehicles are the principle means by which the Allies conduct the \"Great Big Siege of Bologna\". McWatt bisects Kid Sampson with the propeller of one of these vehicles before crashing it into a mountain, and Snowden is killed by the flak that hits one of them. For 10 points, name these vehicles flown by the bombardier Yossarian in Catch-22.": {
+    "guess": "Bombers",
+    "confidence": [
+      [
+        "Bomb",
+        -0.31348035
+      ],
+      [
+        "ers",
+        -3.1305768e-05
+      ]
+    ]
+  },
+  "This object is made of vessel elements and tracheids, the latter of which has cell walls with a lot of": {
+    "guess": "Xylem",
+    "confidence": [
+      [
+        "X",
+        -0.00831326
+      ],
+      [
+        "yle",
+        0.0
+      ],
+      [
+        "m",
+        0.0
+      ]
+    ]
+  },
+  "This object is made of vessel elements and tracheids, the latter of which has cell walls with a lot of lignin. The vessels, which do not appear in ferns or conifers, are cylindrical, are generally less": {
+    "guess": "Xylem",
+    "confidence": [
+      [
+        "X",
+        -0.0003670365
+      ],
+      [
+        "yle",
+        0.0
+      ],
+      [
+        "m",
+        0.0
+      ]
+    ]
+  },
+  "This object is made of vessel elements and tracheids, the latter of which has cell walls with a lot of lignin. The vessels, which do not appear in ferns or conifers, are cylindrical, are generally less than one centimeter in diameter, and are useful when the cell contents die. There are two types of": {
+    "guess": "Xylem",
+    "confidence": [
+      [
+        "X",
+        -0.00010342398
+      ],
+      [
+        "yle",
+        0.0
+      ],
+      [
+        "m",
+        0.0
+      ]
+    ]
+  },
+  "This object is made of vessel elements and tracheids, the latter of which has cell walls with a lot of lignin. The vessels, which do not appear in ferns or conifers, are cylindrical, are generally less than one centimeter in diameter, and are useful when the cell contents die. There are two types of this tissue, with the secondary type typically growing inward from the vascular cambium. Though it also": {
+    "guess": "Xylem",
+    "confidence": [
+      [
+        "X",
+        -0.0036283429
+      ],
+      [
+        "yle",
+        0.0
+      ],
+      [
+        "m",
+        0.0
+      ]
+    ]
+  },
+  "This object is made of vessel elements and tracheids, the latter of which has cell walls with a lot of lignin. The vessels, which do not appear in ferns or conifers, are cylindrical, are generally less than one centimeter in diameter, and are useful when the cell contents die. There are two types of this tissue, with the secondary type typically growing inward from the vascular cambium. Though it also provides structure to plants, its primary purpose is to transport water and nutrients throughout": {
+    "guess": "Xylem",
+    "confidence": [
+      [
+        "X",
+        -0.00036370975
+      ],
+      [
+        "yle",
+        0.0
+      ],
+      [
+        "m",
+        0.0
+      ]
+    ]
+  },
+  "This object is made of vessel elements and tracheids, the latter of which has cell walls with a lot of lignin. The vessels, which do not appear in ferns or conifers, are cylindrical, are generally less than one centimeter in diameter, and are useful when the cell contents die. There are two types of this tissue, with the secondary type typically growing inward from the vascular cambium. Though it also provides structure to plants, its primary purpose is to transport water and nutrients throughout a plant. Name this tissue often contrasted with phloem.": {
+    "guess": "Xylem",
+    "confidence": [
+      [
+        "X",
+        -0.0010569837
+      ],
+      [
+        "yle",
+        0.0
+      ],
+      [
+        "m",
+        0.0
+      ]
+    ]
+  },
+  "The objects used in this ceremony were once rescued from an invading army by a minister's wife named": {
+    "guess": "Coronation of the British monarch",
+    "confidence": [
+      [
+        "Cor",
+        -0.5304873
+      ],
+      [
+        "onation",
+        -0.0007763966
+      ],
+      [
+        " of",
+        -0.0662617
+      ],
+      [
+        " the",
+        -0.016830701
+      ],
+      [
+        " British",
+        -0.0010456705
+      ],
+      [
+        " monarch",
+        -0.011060084
+      ]
+    ]
+  },
+  "The objects used in this ceremony were once rescued from an invading army by a minister's wife named Christian Fletcher. This ceremony typically took place on Moot Hill. During this ceremony, the Ollamh": {
+    "guess": "Stone of Scone",
+    "confidence": [
+      [
+        "Stone",
+        -0.030246085
+      ],
+      [
+        " of",
+        -6.704273e-07
+      ],
+      [
+        " S",
+        -0.0013259569
+      ],
+      [
+        "cone",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The objects used in this ceremony were once rescued from an invading army by a minister's wife named Christian Fletcher. This ceremony typically took place on Moot Hill. During this ceremony, the Ollamh Righ, an official poet, formally recited the genealogy of the person undergoing this ceremony. The": {
+    "guess": "Stone of Scone",
+    "confidence": [
+      [
+        "Stone",
+        -0.46785906
+      ],
+      [
+        " of",
+        -1.0280384e-06
+      ],
+      [
+        " S",
+        -0.002475897
+      ],
+      [
+        "cone",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The objects used in this ceremony were once rescued from an invading army by a minister's wife named Christian Fletcher. This ceremony typically took place on Moot Hill. During this ceremony, the Ollamh Righ, an official poet, formally recited the genealogy of the person undergoing this ceremony. The person undergoing this ceremony was traditionally seated on the (*) Stone of Scone. Persons who underwent": {
+    "guess": "Scottish coronation",
+    "confidence": [
+      [
+        "Scott",
+        -0.5942794
+      ],
+      [
+        "ish",
+        -1.9361265e-07
+      ],
+      [
+        " coron",
+        -0.025171008
+      ],
+      [
+        "ation",
+        -0.00150236
+      ]
+    ]
+  },
+  "The objects used in this ceremony were once rescued from an invading army by a minister's wife named Christian Fletcher. This ceremony typically took place on Moot Hill. During this ceremony, the Ollamh Righ, an official poet, formally recited the genealogy of the person undergoing this ceremony. The person undergoing this ceremony was traditionally seated on the (*) Stone of Scone. Persons who underwent this ceremony include Alexander the Glorious and early members of the Stuart Dynasty. For ten": {
+    "guess": "Coronation of the monarchs of Scotland",
+    "confidence": [
+      [
+        "Cor",
+        -0.7190609
+      ],
+      [
+        "onation",
+        -5.1689596e-05
+      ],
+      [
+        " of",
+        -3.3213026e-05
+      ],
+      [
+        " the",
+        -0.1003532
+      ],
+      [
+        " monarch",
+        -0.5102536
+      ],
+      [
+        "s",
+        -0.13681154
+      ],
+      [
+        " of",
+        -7.958325e-05
+      ],
+      [
+        " Scotland",
+        -0.0002849345
+      ]
+    ]
+  },
+  "The objects used in this ceremony were once rescued from an invading army by a minister's wife named Christian Fletcher. This ceremony typically took place on Moot Hill. During this ceremony, the Ollamh Righ, an official poet, formally recited the genealogy of the person undergoing this ceremony. The person undergoing this ceremony was traditionally seated on the (*) Stone of Scone. Persons who underwent this ceremony include Alexander the Glorious and early members of the Stuart Dynasty. For ten points, give this ceremony by which a person becomes a king or queen of England's northern neighbor.": {
+    "guess": "Coronation of the monarch of Scotland",
+    "confidence": [
+      [
+        "Cor",
+        -0.08080343
+      ],
+      [
+        "onation",
+        -1.4974867e-05
+      ],
+      [
+        " of",
+        -8.657073e-06
+      ],
+      [
+        " the",
+        -0.048760183
+      ],
+      [
+        " monarch",
+        -0.48554993
+      ],
+      [
+        " of",
+        -0.1623541
+      ],
+      [
+        " Scotland",
+        -0.023274247
+      ]
+    ]
+  },
+  "An object guarded by one of these figures is also protected by Serket. These figures were among the seven": {
+    "guess": "Scorpion (constellation)",
+    "confidence": [
+      [
+        "Sc",
+        -0.93223643
+      ],
+      [
+        "orpion",
+        -0.13912973
+      ],
+      [
+        " (",
+        -1.4026682
+      ],
+      [
+        "const",
+        -0.42241773
+      ],
+      [
+        "ellation",
+        -7.5411124e-05
+      ],
+      [
+        ")",
+        -7.088138e-05
+      ]
+    ]
+  },
+  "An object guarded by one of these figures is also protected by Serket. These figures were among the seven guardians of Osiris's body, and they also formed the bowl of the Big Dipper. These gods were described": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.41194975
+      ]
+    ]
+  },
+  "An object guarded by one of these figures is also protected by Serket. These figures were among the seven guardians of Osiris's body, and they also formed the bowl of the Big Dipper. These gods were described as pillars of Shu, and were each associated with one of the cardinal directions. One of these": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0845032
+      ]
+    ]
+  },
+  "An object guarded by one of these figures is also protected by Serket. These figures were among the seven guardians of Osiris's body, and they also formed the bowl of the Big Dipper. These gods were described as pillars of Shu, and were each associated with one of the cardinal directions. One of these deities, Duamutef, claims that he comes to rescue Osiris from an assailant, and another, Imsety, has": {
+    "guess": "Four sons of Horus",
+    "confidence": [
+      [
+        "Four",
+        -0.040716074
+      ],
+      [
+        " sons",
+        -0.69314826
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hor",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "An object guarded by one of these figures is also protected by Serket. These figures were among the seven guardians of Osiris's body, and they also formed the bowl of the Big Dipper. These gods were described as pillars of Shu, and were each associated with one of the cardinal directions. One of these deities, Duamutef, claims that he comes to rescue Osiris from an assailant, and another, Imsety, has the role of lifting up corpses. For 10 points, name quartet of gods who guarded the Canopic Jars,": {
+    "guess": "Four sons of Horus",
+    "confidence": [
+      [
+        "Four",
+        -0.024718467
+      ],
+      [
+        " sons",
+        -0.47407776
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hor",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "An object guarded by one of these figures is also protected by Serket. These figures were among the seven guardians of Osiris's body, and they also formed the bowl of the Big Dipper. These gods were described as pillars of Shu, and were each associated with one of the cardinal directions. One of these deities, Duamutef, claims that he comes to rescue Osiris from an assailant, and another, Imsety, has the role of lifting up corpses. For 10 points, name quartet of gods who guarded the Canopic Jars, who were said to be children of the son of Osiris and Isis.": {
+    "guess": "Four sons of Horus",
+    "confidence": [
+      [
+        "Four",
+        -0.0019675314
+      ],
+      [
+        " sons",
+        -0.693148
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hor",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Objections to its revisions of the terms of the Treaty of Worms regarding control of Piacenza prompted": {
+    "guess": "War of the Austrian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.8336052
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " the",
+        -0.0048114923
+      ],
+      [
+        " Austrian",
+        -0.051417265
+      ],
+      [
+        " Succ",
+        -3.1281633e-07
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "Objections to its revisions of the terms of the Treaty of Worms regarding control of Piacenza prompted Sardinia's refusal to sign it. It addressed its central issue by confirming the terms of the Treaty": {
+    "guess": "Aix-la-Chapelle (1748)",
+    "confidence": [
+      [
+        "A",
+        -0.2843979
+      ],
+      [
+        "ix",
+        -0.0001006823
+      ],
+      [
+        "-la",
+        -0.00023178798
+      ],
+      [
+        "-Ch",
+        0.0
+      ],
+      [
+        "ap",
+        -1.8624639e-06
+      ],
+      [
+        "elle",
+        0.0
+      ],
+      [
+        " (",
+        -0.17978774
+      ],
+      [
+        "174",
+        -0.00010485443
+      ],
+      [
+        "8",
+        -5.5122365e-07
+      ],
+      [
+        ")",
+        -0.00017398155
+      ]
+    ]
+  },
+  "Objections to its revisions of the terms of the Treaty of Worms regarding control of Piacenza prompted Sardinia's refusal to sign it. It addressed its central issue by confirming the terms of the Treaty of Breslau six years earlier, and its negotiators included Francis III of Modena and Charles Emmanuel": {
+    "guess": "Treaty of Aix-la-Chapelle (1748)",
+    "confidence": [
+      [
+        "Treat",
+        -0.012687163
+      ],
+      [
+        "y",
+        -5.5122365e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Aix",
+        -0.0013549984
+      ],
+      [
+        "-la",
+        -9.133887e-06
+      ],
+      [
+        "-Ch",
+        0.0
+      ],
+      [
+        "ap",
+        -9.0883464e-07
+      ],
+      [
+        "elle",
+        0.0
+      ],
+      [
+        " (",
+        -0.0067283954
+      ],
+      [
+        "174",
+        -7.89631e-07
+      ],
+      [
+        "8",
+        0.0
+      ],
+      [
+        ")",
+        -4.723352e-06
+      ]
+    ]
+  },
+  "Objections to its revisions of the terms of the Treaty of Worms regarding control of Piacenza prompted Sardinia's refusal to sign it. It addressed its central issue by confirming the terms of the Treaty of Breslau six years earlier, and its negotiators included Francis III of Modena and Charles Emmanuel III. St. Vincent and Dominica were declared neutral, while England regained Chennai, France regained": {
+    "guess": "Treaty of Aix-la-Chapelle (1748)",
+    "confidence": [
+      [
+        "Treat",
+        -0.012290772
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Aix",
+        -0.00018601745
+      ],
+      [
+        "-la",
+        -2.1008714e-06
+      ],
+      [
+        "-Ch",
+        0.0
+      ],
+      [
+        "ap",
+        0.0
+      ],
+      [
+        "elle",
+        0.0
+      ],
+      [
+        " (",
+        -1.2664457e-06
+      ],
+      [
+        "174",
+        -5.4385737e-06
+      ],
+      [
+        "8",
+        0.0
+      ],
+      [
+        ")",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "Objections to its revisions of the terms of the Treaty of Worms regarding control of Piacenza prompted Sardinia's refusal to sign it. It addressed its central issue by confirming the terms of the Treaty of Breslau six years earlier, and its negotiators included Francis III of Modena and Charles Emmanuel III. St. Vincent and Dominica were declared neutral, while England regained Chennai, France regained Louisbourg, and Philip was named Duke of Parma. The Treaty of Madrid revised provisions between": {
+    "guess": "Aix-la-Chapelle",
+    "confidence": [
+      [
+        "A",
+        -0.7576571
+      ],
+      [
+        "ix",
+        -0.00012809181
+      ],
+      [
+        "-la",
+        -0.0007169579
+      ],
+      [
+        "-Ch",
+        -3.1281633e-07
+      ],
+      [
+        "ap",
+        -7.89631e-07
+      ],
+      [
+        "elle",
+        0.0
+      ]
+    ]
+  },
+  "Objections to its revisions of the terms of the Treaty of Worms regarding control of Piacenza prompted Sardinia's refusal to sign it. It addressed its central issue by confirming the terms of the Treaty of Breslau six years earlier, and its negotiators included Francis III of Modena and Charles Emmanuel III. St. Vincent and Dominica were declared neutral, while England regained Chennai, France regained Louisbourg, and Philip was named Duke of Parma. The Treaty of Madrid revised provisions between England and Spain regarding slave importation that were issued in this treaty, which confirmed Glatz": {
+    "guess": "Aix-la-Chapelle",
+    "confidence": [
+      [
+        "A",
+        -0.75208235
+      ],
+      [
+        "ix",
+        -0.00018863993
+      ],
+      [
+        "-la",
+        -4.4849444e-06
+      ],
+      [
+        "-Ch",
+        0.0
+      ],
+      [
+        "ap",
+        -4.3202e-07
+      ],
+      [
+        "elle",
+        0.0
+      ]
+    ]
+  },
+  "Objections to its revisions of the terms of the Treaty of Worms regarding control of Piacenza prompted Sardinia's refusal to sign it. It addressed its central issue by confirming the terms of the Treaty of Breslau six years earlier, and its negotiators included Francis III of Modena and Charles Emmanuel III. St. Vincent and Dominica were declared neutral, while England regained Chennai, France regained Louisbourg, and Philip was named Duke of Parma. The Treaty of Madrid revised provisions between England and Spain regarding slave importation that were issued in this treaty, which confirmed Glatz as a Prussian possession. FTP, identify this treaty that also gave Prussia control of Silesia and": {
+    "guess": "Treaty of Aix-la-Chapelle",
+    "confidence": [
+      [
+        "Treat",
+        -0.012831582
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Aix",
+        -0.0004362718
+      ],
+      [
+        "-la",
+        -1.3067608e-05
+      ],
+      [
+        "-Ch",
+        0.0
+      ],
+      [
+        "ap",
+        -9.0883464e-07
+      ],
+      [
+        "elle",
+        0.0
+      ]
+    ]
+  },
+  "Objections to its revisions of the terms of the Treaty of Worms regarding control of Piacenza prompted Sardinia's refusal to sign it. It addressed its central issue by confirming the terms of the Treaty of Breslau six years earlier, and its negotiators included Francis III of Modena and Charles Emmanuel III. St. Vincent and Dominica were declared neutral, while England regained Chennai, France regained Louisbourg, and Philip was named Duke of Parma. The Treaty of Madrid revised provisions between England and Spain regarding slave importation that were issued in this treaty, which confirmed Glatz as a Prussian possession. FTP, identify this treaty that also gave Prussia control of Silesia and upheld the Pragmatic Sanction of Maria Theresa, ending the War of Austrian Succession.": {
+    "guess": "Treaty of Aix-la-Chapelle",
+    "confidence": [
+      [
+        "Treat",
+        -0.39486456
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Aix",
+        -0.00026157423
+      ],
+      [
+        "-la",
+        -7.107425e-06
+      ],
+      [
+        "-Ch",
+        0.0
+      ],
+      [
+        "ap",
+        -5.5122365e-07
+      ],
+      [
+        "elle",
+        0.0
+      ]
+    ]
+  },
+  "The objects in question were not presented as an excuse; rather, Dr. Martin Blinder cited them in his": {
+    "guess": "Twinkie defense",
+    "confidence": [
+      [
+        "Tw",
+        -0.1473312
+      ],
+      [
+        "ink",
+        0.0
+      ],
+      [
+        "ie",
+        -1.9361265e-07
+      ],
+      [
+        " defense",
+        -0.004094547
+      ]
+    ]
+  },
+  "The objects in question were not presented as an excuse; rather, Dr. Martin Blinder cited them in his testimony as evidence for depression. In fact, attorneys for [*] Dan White didn't even get an acquittal,": {
+    "guess": "Twinkie defense",
+    "confidence": [
+      [
+        "Tw",
+        -0.026322596
+      ],
+      [
+        "ink",
+        0.0
+      ],
+      [
+        "ie",
+        -0.00026145502
+      ],
+      [
+        " defense",
+        -0.008652627
+      ]
+    ]
+  },
+  "The objects in question were not presented as an excuse; rather, Dr. Martin Blinder cited them in his testimony as evidence for depression. In fact, attorneys for [*] Dan White didn't even get an acquittal, but rather a reduction of the charge to voluntary manslaughter, and no one claimed directly that": {
+    "guess": "Twinkie defense",
+    "confidence": [
+      [
+        "Tw",
+        -0.010174859
+      ],
+      [
+        "ink",
+        0.0
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " defense",
+        -0.07889618
+      ]
+    ]
+  },
+  "The objects in question were not presented as an excuse; rather, Dr. Martin Blinder cited them in his testimony as evidence for depression. In fact, attorneys for [*] Dan White didn't even get an acquittal, but rather a reduction of the charge to voluntary manslaughter, and no one claimed directly that a sugar overdose had caused the murders of George Moscone and Harvey Milk. For 10 points\u2014name this": {
+    "guess": "Twinkie defense",
+    "confidence": [
+      [
+        "Tw",
+        -0.01025887
+      ],
+      [
+        "ink",
+        0.0
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " defense",
+        -0.00043770226
+      ]
+    ]
+  },
+  "The objects in question were not presented as an excuse; rather, Dr. Martin Blinder cited them in his testimony as evidence for depression. In fact, attorneys for [*] Dan White didn't even get an acquittal, but rather a reduction of the charge to voluntary manslaughter, and no one claimed directly that a sugar overdose had caused the murders of George Moscone and Harvey Milk. For 10 points\u2014name this misunderstood legal strategy based around a certain junk food.": {
+    "guess": "Twinkie defense",
+    "confidence": [
+      [
+        "Tw",
+        -0.0033728192
+      ],
+      [
+        "ink",
+        0.0
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " defense",
+        -0.00020890454
+      ]
+    ]
+  },
+  "This object's extinction curve features a bump at 220nm due to the presence of graphite, and one type": {
+    "guess": "Interstellar extinction",
+    "confidence": [
+      [
+        "Inter",
+        -0.16672792
+      ],
+      [
+        "stellar",
+        -2.8160932e-06
+      ],
+      [
+        " extinction",
+        -0.65153235
+      ]
+    ]
+  },
+  "This object's extinction curve features a bump at 220nm due to the presence of graphite, and one type of matter here is distributed according to the MRN power law, which was later extended by Drane. McKee": {
+    "guess": "Interstellar Medium",
+    "confidence": [
+      [
+        "Inter",
+        -0.08794062
+      ],
+      [
+        "stellar",
+        -3.2929079e-06
+      ],
+      [
+        " Medium",
+        -0.3815134
+      ]
+    ]
+  },
+  "This object's extinction curve features a bump at 220nm due to the presence of graphite, and one type of matter here is distributed according to the MRN power law, which was later extended by Drane. McKee and Ostriker proposed a three-phase model of it, adding a dynamic phase to the equilibrum two-phase": {
+    "guess": "Interstellar Medium",
+    "confidence": [
+      [
+        "Inter",
+        -0.03504012
+      ],
+      [
+        "stellar",
+        -4.3202e-07
+      ],
+      [
+        " Medium",
+        -0.0013005921
+      ]
+    ]
+  },
+  "This object's extinction curve features a bump at 220nm due to the presence of graphite, and one type of matter here is distributed according to the MRN power law, which was later extended by Drane. McKee and Ostriker proposed a three-phase model of it, adding a dynamic phase to the equilibrum two-phase FGH model, which divided it into cold-dense and intercloud regions. Evidence for the existence of": {
+    "guess": "Interstellar Medium",
+    "confidence": [
+      [
+        "Inter",
+        -0.017588813
+      ],
+      [
+        "stellar",
+        -3.1281633e-07
+      ],
+      [
+        " Medium",
+        -0.0021268262
+      ]
+    ]
+  },
+  "This object's extinction curve features a bump at 220nm due to the presence of graphite, and one type of matter here is distributed according to the MRN power law, which was later extended by Drane. McKee and Ostriker proposed a three-phase model of it, adding a dynamic phase to the equilibrum two-phase FGH model, which divided it into cold-dense and intercloud regions. Evidence for the existence of this region came from the dip in a broad oscillating Ca II absorption line of delta-Ori and other": {
+    "guess": "Interstellar Medium",
+    "confidence": [
+      [
+        "Inter",
+        -0.052544024
+      ],
+      [
+        "stellar",
+        -9.0883464e-07
+      ],
+      [
+        " Medium",
+        -8.9119545e-05
+      ]
+    ]
+  },
+  "This object's extinction curve features a bump at 220nm due to the presence of graphite, and one type of matter here is distributed according to the MRN power law, which was later extended by Drane. McKee and Ostriker proposed a three-phase model of it, adding a dynamic phase to the equilibrum two-phase FGH model, which divided it into cold-dense and intercloud regions. Evidence for the existence of this region came from the dip in a broad oscillating Ca II absorption line of delta-Ori and other so-called forbidden transitions, and this regions primary heating mechanisms are photoelectric grain": {
+    "guess": "Interstellar Medium",
+    "confidence": [
+      [
+        "Inter",
+        -0.18745495
+      ],
+      [
+        "stellar",
+        -1.9361265e-07
+      ],
+      [
+        " Medium",
+        -0.00092766056
+      ]
+    ]
+  },
+  "This object's extinction curve features a bump at 220nm due to the presence of graphite, and one type of matter here is distributed according to the MRN power law, which was later extended by Drane. McKee and Ostriker proposed a three-phase model of it, adding a dynamic phase to the equilibrum two-phase FGH model, which divided it into cold-dense and intercloud regions. Evidence for the existence of this region came from the dip in a broad oscillating Ca II absorption line of delta-Ori and other so-called forbidden transitions, and this regions primary heating mechanisms are photoelectric grain heating and low-energy cosmic rays. This region also contains superbubbles created by stellar winds,": {
+    "guess": "Interstellar Medium",
+    "confidence": [
+      [
+        "Inter",
+        -0.13103807
+      ],
+      [
+        "stellar",
+        -1.9361265e-07
+      ],
+      [
+        " Medium",
+        -0.0015025985
+      ]
+    ]
+  },
+  "This object's extinction curve features a bump at 220nm due to the presence of graphite, and one type of matter here is distributed according to the MRN power law, which was later extended by Drane. McKee and Ostriker proposed a three-phase model of it, adding a dynamic phase to the equilibrum two-phase FGH model, which divided it into cold-dense and intercloud regions. Evidence for the existence of this region came from the dip in a broad oscillating Ca II absorption line of delta-Ori and other so-called forbidden transitions, and this regions primary heating mechanisms are photoelectric grain heating and low-energy cosmic rays. This region also contains superbubbles created by stellar winds, and is responsible for the ubiquitous 21-cm H line. Also containing HII regions and molecular clouds,": {
+    "guess": "Interstellar Medium",
+    "confidence": [
+      [
+        "Inter",
+        -0.080323905
+      ],
+      [
+        "stellar",
+        0.0
+      ],
+      [
+        " Medium",
+        -0.0031777136
+      ]
+    ]
+  },
+  "This object's extinction curve features a bump at 220nm due to the presence of graphite, and one type of matter here is distributed according to the MRN power law, which was later extended by Drane. McKee and Ostriker proposed a three-phase model of it, adding a dynamic phase to the equilibrum two-phase FGH model, which divided it into cold-dense and intercloud regions. Evidence for the existence of this region came from the dip in a broad oscillating Ca II absorption line of delta-Ori and other so-called forbidden transitions, and this regions primary heating mechanisms are photoelectric grain heating and low-energy cosmic rays. This region also contains superbubbles created by stellar winds, and is responsible for the ubiquitous 21-cm H line. Also containing HII regions and molecular clouds, for 10 points, name this region of space that consists mostly of hydrogen, the gas and dust that": {
+    "guess": "Interstellar Medium",
+    "confidence": [
+      [
+        "Inter",
+        -0.0010318574
+      ],
+      [
+        "stellar",
+        0.0
+      ],
+      [
+        " Medium",
+        -0.0024756587
+      ]
+    ]
+  },
+  "This object's extinction curve features a bump at 220nm due to the presence of graphite, and one type of matter here is distributed according to the MRN power law, which was later extended by Drane. McKee and Ostriker proposed a three-phase model of it, adding a dynamic phase to the equilibrum two-phase FGH model, which divided it into cold-dense and intercloud regions. Evidence for the existence of this region came from the dip in a broad oscillating Ca II absorption line of delta-Ori and other so-called forbidden transitions, and this regions primary heating mechanisms are photoelectric grain heating and low-energy cosmic rays. This region also contains superbubbles created by stellar winds, and is responsible for the ubiquitous 21-cm H line. Also containing HII regions and molecular clouds, for 10 points, name this region of space that consists mostly of hydrogen, the gas and dust that floats between stars.": {
+    "guess": "Interstellar Medium",
+    "confidence": [
+      [
+        "Inter",
+        -0.00018601745
+      ],
+      [
+        "stellar",
+        0.0
+      ],
+      [
+        " Medium",
+        -0.0052337637
+      ]
+    ]
+  },
+  "This object once created three valleys after one figure used a mountain as a shield, and one figure tried": {
+    "guess": "Mj\u00f6lnir",
+    "confidence": [
+      [
+        "Mj",
+        -0.63968635
+      ],
+      [
+        "\u00f6",
+        -0.08002947
+      ],
+      [
+        "ln",
+        0.0
+      ],
+      [
+        "ir",
+        0.0
+      ]
+    ]
+  },
+  "This object once created three valleys after one figure used a mountain as a shield, and one figure tried to distract this object's creator by changing into a fly. This item was created following a bet": {
+    "guess": "Mj\u00f6lnir",
+    "confidence": [
+      [
+        "Mj",
+        -0.014014352
+      ],
+      [
+        "\u00f6",
+        -0.0043711364
+      ],
+      [
+        "ln",
+        0.0
+      ],
+      [
+        "ir",
+        0.0
+      ]
+    ]
+  },
+  "This object once created three valleys after one figure used a mountain as a shield, and one figure tried to distract this object's creator by changing into a fly. This item was created following a bet involving the sons of Ivali, and in one story this object's owner retrieved it by dressing up as a": {
+    "guess": "Mj\u00f6lnir",
+    "confidence": [
+      [
+        "Mj",
+        -0.026075589
+      ],
+      [
+        "\u00f6",
+        -0.018255768
+      ],
+      [
+        "ln",
+        0.0
+      ],
+      [
+        "ir",
+        0.0
+      ]
+    ]
+  },
+  "This object once created three valleys after one figure used a mountain as a shield, and one figure tried to distract this object's creator by changing into a fly. This item was created following a bet involving the sons of Ivali, and in one story this object's owner retrieved it by dressing up as a goddess of love. This object is used alongside a pair of iron gloves and a belt that doubles its user's": {
+    "guess": "Mj\u00f6lnir",
+    "confidence": [
+      [
+        "Mj",
+        -0.024453735
+      ],
+      [
+        "\u00f6",
+        -0.0032538848
+      ],
+      [
+        "ln",
+        0.0
+      ],
+      [
+        "ir",
+        0.0
+      ]
+    ]
+  },
+  "This object once created three valleys after one figure used a mountain as a shield, and one figure tried to distract this object's creator by changing into a fly. This item was created following a bet involving the sons of Ivali, and in one story this object's owner retrieved it by dressing up as a goddess of love. This object is used alongside a pair of iron gloves and a belt that doubles its user's strength called Meginjgord. Created by the dwarves Brokk and Eitri and having a name meaning \"crusher,\"": {
+    "guess": "Mj\u00f6lnir",
+    "confidence": [
+      [
+        "Mj",
+        -0.00017064385
+      ],
+      [
+        "\u00f6",
+        -0.04861984
+      ],
+      [
+        "ln",
+        0.0
+      ],
+      [
+        "ir",
+        0.0
+      ]
+    ]
+  },
+  "This object once created three valleys after one figure used a mountain as a shield, and one figure tried to distract this object's creator by changing into a fly. This item was created following a bet involving the sons of Ivali, and in one story this object's owner retrieved it by dressing up as a goddess of love. This object is used alongside a pair of iron gloves and a belt that doubles its user's strength called Meginjgord. Created by the dwarves Brokk and Eitri and having a name meaning \"crusher,\" for 10 points, name this weapon which never missed its mark and belonged to Thor.": {
+    "guess": "Mj\u00f6lnir",
+    "confidence": [
+      [
+        "Mj",
+        -8.3278566e-05
+      ],
+      [
+        "\u00f6",
+        -0.12697956
+      ],
+      [
+        "ln",
+        0.0
+      ],
+      [
+        "ir",
+        0.0
+      ]
+    ]
+  },
+  "This object is the prototype for the SBm (\"S B M\") class introduced by de Vaucouleurs, and the prototype": {
+    "guess": "Messier 83",
+    "confidence": [
+      [
+        "Mess",
+        -0.23918262
+      ],
+      [
+        "ier",
+        0.0
+      ],
+      [
+        " ",
+        -4.9617593e-06
+      ],
+      [
+        "83",
+        -0.22000769
+      ]
+    ]
+  },
+  "This object is the prototype for the SBm (\"S B M\") class introduced by de Vaucouleurs, and the prototype for luminous blue variables is its brightest star, S Doradus. Supernova 1987A occurred on the outskirts": {
+    "guess": "Large Magellanic Cloud",
+    "confidence": [
+      [
+        "Large",
+        -0.00045962472
+      ],
+      [
+        " Mag",
+        -1.9361265e-07
+      ],
+      [
+        "ell",
+        0.0
+      ],
+      [
+        "anic",
+        0.0
+      ],
+      [
+        " Cloud",
+        0.0
+      ]
+    ]
+  },
+  "This object is the prototype for the SBm (\"S B M\") class introduced by de Vaucouleurs, and the prototype for luminous blue variables is its brightest star, S Doradus. Supernova 1987A occurred on the outskirts of its Tarantula Nebula, the most active star formation region in the Local Group. Its partner": {
+    "guess": "Large Magellanic Cloud",
+    "confidence": [
+      [
+        "Large",
+        -0.033853844
+      ],
+      [
+        " Mag",
+        0.0
+      ],
+      [
+        "ell",
+        0.0
+      ],
+      [
+        "anic",
+        0.0
+      ],
+      [
+        " Cloud",
+        0.0
+      ]
+    ]
+  },
+  "This object is the prototype for the SBm (\"S B M\") class introduced by de Vaucouleurs, and the prototype for luminous blue variables is its brightest star, S Doradus. Supernova 1987A occurred on the outskirts of its Tarantula Nebula, the most active star formation region in the Local Group. Its partner is home to the Cepheid variables used by Henrietta Leavitt to establish the period-luminosity relation.": {
+    "guess": "Large Magellanic Cloud",
+    "confidence": [
+      [
+        "Large",
+        -0.0008515591
+      ],
+      [
+        " Mag",
+        0.0
+      ],
+      [
+        "ell",
+        0.0
+      ],
+      [
+        "anic",
+        0.0
+      ],
+      [
+        " Cloud",
+        0.0
+      ]
+    ]
+  },
+  "This object is the prototype for the SBm (\"S B M\") class introduced by de Vaucouleurs, and the prototype for luminous blue variables is its brightest star, S Doradus. Supernova 1987A occurred on the outskirts of its Tarantula Nebula, the most active star formation region in the Local Group. Its partner is home to the Cepheid variables used by Henrietta Leavitt to establish the period-luminosity relation. Currently thought to be second only to the Sagittarius Dwarf Elliptical in proximity to the Milky": {
+    "guess": "Large Magellanic Cloud",
+    "confidence": [
+      [
+        "Large",
+        -0.00015538577
+      ],
+      [
+        " Mag",
+        0.0
+      ],
+      [
+        "ell",
+        0.0
+      ],
+      [
+        "anic",
+        0.0
+      ],
+      [
+        " Cloud",
+        0.0
+      ]
+    ]
+  },
+  "This object is the prototype for the SBm (\"S B M\") class introduced by de Vaucouleurs, and the prototype for luminous blue variables is its brightest star, S Doradus. Supernova 1987A occurred on the outskirts of its Tarantula Nebula, the most active star formation region in the Local Group. Its partner is home to the Cepheid variables used by Henrietta Leavitt to establish the period-luminosity relation. Currently thought to be second only to the Sagittarius Dwarf Elliptical in proximity to the Milky Way, FTP name this galaxy visible in the southern hemisphere along with its smaller apparent neighbor.": {
+    "guess": "Large Magellanic Cloud",
+    "confidence": [
+      [
+        "Large",
+        -0.00017612721
+      ],
+      [
+        " Mag",
+        0.0
+      ],
+      [
+        "ell",
+        0.0
+      ],
+      [
+        "anic",
+        0.0
+      ],
+      [
+        " Cloud",
+        0.0
+      ]
+    ]
+  },
+  "When one of these objects' orbit is within Earth's orbit, they are classified in the Aten group, and": {
+    "guess": "Near-Earth object",
+    "confidence": [
+      [
+        "Near",
+        -0.5525723
+      ],
+      [
+        "-E",
+        -1.3856493e-06
+      ],
+      [
+        "arth",
+        0.0
+      ],
+      [
+        " object",
+        -0.076037295
+      ]
+    ]
+  },
+  "When one of these objects' orbit is within Earth's orbit, they are classified in the Aten group, and the Trojan variety of these objects are found within the Lagrangian Points of a larger object. The Alvarez": {
+    "guess": "Asteroid",
+    "confidence": [
+      [
+        "Ast",
+        -0.87554544
+      ],
+      [
+        "eroid",
+        -0.5759415
+      ]
+    ]
+  },
+  "When one of these objects' orbit is within Earth's orbit, they are classified in the Aten group, and the Trojan variety of these objects are found within the Lagrangian Points of a larger object. The Alvarez hypothesis states that one of these objects caused the K-T extinction event. The most massive": {
+    "guess": "Asteroids",
+    "confidence": [
+      [
+        "Ast",
+        -0.025880799
+      ],
+      [
+        "eroids",
+        -0.03804183
+      ]
+    ]
+  },
+  "When one of these objects' orbit is within Earth's orbit, they are classified in the Aten group, and the Trojan variety of these objects are found within the Lagrangian Points of a larger object. The Alvarez hypothesis states that one of these objects caused the K-T extinction event. The most massive of these objects is Vesta, and the largest was recently classified as a (*) dwarf planet, Ceres. Mame": {
+    "guess": "Asteroids",
+    "confidence": [
+      [
+        "Ast",
+        -0.0032038542
+      ],
+      [
+        "eroids",
+        -0.061967913
+      ]
+    ]
+  },
+  "When one of these objects' orbit is within Earth's orbit, they are classified in the Aten group, and the Trojan variety of these objects are found within the Lagrangian Points of a larger object. The Alvarez hypothesis states that one of these objects caused the K-T extinction event. The most massive of these objects is Vesta, and the largest was recently classified as a (*) dwarf planet, Ceres. Mame these rocky objects that orbit the sun, most commonly found in the namesake belt between Mars and": {
+    "guess": "Asteroids",
+    "confidence": [
+      [
+        "Ast",
+        -0.008961989
+      ],
+      [
+        "eroids",
+        -0.20141372
+      ]
+    ]
+  },
+  "When one of these objects' orbit is within Earth's orbit, they are classified in the Aten group, and the Trojan variety of these objects are found within the Lagrangian Points of a larger object. The Alvarez hypothesis states that one of these objects caused the K-T extinction event. The most massive of these objects is Vesta, and the largest was recently classified as a (*) dwarf planet, Ceres. Mame these rocky objects that orbit the sun, most commonly found in the namesake belt between Mars and Jupiter.": {
+    "guess": "Asteroids",
+    "confidence": [
+      [
+        "Ast",
+        -0.0031913817
+      ],
+      [
+        "eroids",
+        -0.31326213
+      ]
+    ]
+  },
+  "One object named for this man was fixed in 1993 with the COSTAR instrument. That object named for this": {
+    "guess": "Hubble Space Telescope",
+    "confidence": [
+      [
+        "H",
+        -0.23318
+      ],
+      [
+        "ubble",
+        -1.2664457e-06
+      ],
+      [
+        " Space",
+        -6.46828e-05
+      ],
+      [
+        " Telescope",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One object named for this man was fixed in 1993 with the COSTAR instrument. That object named for this man will be succeeded by one named for James Webb in approximately five years. This man discovered": {
+    "guess": "Edwin Hubble",
+    "confidence": [
+      [
+        "Ed",
+        -0.25554746
+      ],
+      [
+        "win",
+        0.0
+      ],
+      [
+        " H",
+        -2.6968896e-06
+      ],
+      [
+        "ubble",
+        0.0
+      ]
+    ]
+  },
+  "One object named for this man was fixed in 1993 with the COSTAR instrument. That object named for this man will be succeeded by one named for James Webb in approximately five years. This man discovered a Cepheid variable in the Andromeda Nebula in the early 1920s and is also the namesake of a tuning-fork": {
+    "guess": "Edwin Hubble",
+    "confidence": [
+      [
+        "Ed",
+        -0.34962445
+      ],
+      [
+        "win",
+        0.0
+      ],
+      [
+        " H",
+        -1.9361265e-07
+      ],
+      [
+        "ubble",
+        0.0
+      ]
+    ]
+  },
+  "One object named for this man was fixed in 1993 with the COSTAR instrument. That object named for this man will be succeeded by one named for James Webb in approximately five years. This man discovered a Cepheid variable in the Andromeda Nebula in the early 1920s and is also the namesake of a tuning-fork diagram used to classify galaxies. His namesake law, which includes a constant that is approximately": {
+    "guess": "Hubble's law",
+    "confidence": [
+      [
+        "H",
+        -0.1372745
+      ],
+      [
+        "ubble",
+        -1.6240566e-06
+      ],
+      [
+        "'s",
+        -0.00018006093
+      ],
+      [
+        " law",
+        -0.010105236
+      ]
+    ]
+  },
+  "One object named for this man was fixed in 1993 with the COSTAR instrument. That object named for this man will be succeeded by one named for James Webb in approximately five years. This man discovered a Cepheid variable in the Andromeda Nebula in the early 1920s and is also the namesake of a tuning-fork diagram used to classify galaxies. His namesake law, which includes a constant that is approximately seventy kilometers per second per megaparsec, gives the relationship between redshift and distance.": {
+    "guess": "Hubble Space Telescope",
+    "confidence": [
+      [
+        "H",
+        -0.2859368
+      ],
+      [
+        "ubble",
+        -3.1281633e-07
+      ],
+      [
+        " Space",
+        -1.5451682e-05
+      ],
+      [
+        " Telescope",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "One object named for this man was fixed in 1993 with the COSTAR instrument. That object named for this man will be succeeded by one named for James Webb in approximately five years. This man discovered a Cepheid variable in the Andromeda Nebula in the early 1920s and is also the namesake of a tuning-fork diagram used to classify galaxies. His namesake law, which includes a constant that is approximately seventy kilometers per second per megaparsec, gives the relationship between redshift and distance. That law named for this man shows that the universe is expanding. For 10 points, name this astronomer": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6415983
+      ]
+    ]
+  },
+  "One object named for this man was fixed in 1993 with the COSTAR instrument. That object named for this man will be succeeded by one named for James Webb in approximately five years. This man discovered a Cepheid variable in the Andromeda Nebula in the early 1920s and is also the namesake of a tuning-fork diagram used to classify galaxies. His namesake law, which includes a constant that is approximately seventy kilometers per second per megaparsec, gives the relationship between redshift and distance. That law named for this man shows that the universe is expanding. For 10 points, name this astronomer who also names a space telescope.": {
+    "guess": "Hubble Space Telescope",
+    "confidence": [
+      [
+        "H",
+        -0.8273692
+      ],
+      [
+        "ubble",
+        -3.1281633e-07
+      ],
+      [
+        " Space",
+        -0.00015669702
+      ],
+      [
+        " Telescope",
+        0.0
+      ]
+    ]
+  },
+  "The objects central to this statement are eigenfunctions of the family of operators from a space to the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.33983523
+      ]
+    ]
+  },
+  "The objects central to this statement are eigenfunctions of the family of operators from a space to the space of its modular forms: formally, this lemma guarantees the existence and analyticity of weight-two": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.52610886
+      ]
+    ]
+  },
+  "The objects central to this statement are eigenfunctions of the family of operators from a space to the space of its modular forms: formally, this lemma guarantees the existence and analyticity of weight-two eigenforms of the aforementioned Hecke operators for non-singular third-order one-forms over": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0893809
+      ]
+    ]
+  },
+  "The objects central to this statement are eigenfunctions of the family of operators from a space to the space of its modular forms: formally, this lemma guarantees the existence and analyticity of weight-two eigenforms of the aforementioned Hecke operators for non-singular third-order one-forms over the rationals whose solutions are confined to a torus. The discovery of a metric for the space of Galois": {
+    "guess": "Modularity theorem",
+    "confidence": [
+      [
+        "Mod",
+        -0.8278505
+      ],
+      [
+        "ularity",
+        -0.04858885
+      ],
+      [
+        " theorem",
+        -0.0011760591
+      ]
+    ]
+  },
+  "The objects central to this statement are eigenfunctions of the family of operators from a space to the space of its modular forms: formally, this lemma guarantees the existence and analyticity of weight-two eigenforms of the aforementioned Hecke operators for non-singular third-order one-forms over the rationals whose solutions are confined to a torus. The discovery of a metric for the space of Galois representations revealed that this theorem posits an isomorphism between L-series of modular forms": {
+    "guess": "Modularity theorem",
+    "confidence": [
+      [
+        "Mod",
+        -0.1906021
+      ],
+      [
+        "ularity",
+        -0.0009114635
+      ],
+      [
+        " theorem",
+        -0.0024858844
+      ]
+    ]
+  },
+  "The objects central to this statement are eigenfunctions of the family of operators from a space to the space of its modular forms: formally, this lemma guarantees the existence and analyticity of weight-two eigenforms of the aforementioned Hecke operators for non-singular third-order one-forms over the rationals whose solutions are confined to a torus. The discovery of a metric for the space of Galois representations revealed that this theorem posits an isomorphism between L-series of modular forms and the aforementioned curves; that idea arose from the object of the epsilon conjecture, Frey's": {
+    "guess": "Modularity theorem",
+    "confidence": [
+      [
+        "Mod",
+        -0.3646255
+      ],
+      [
+        "ularity",
+        -0.0024756587
+      ],
+      [
+        " theorem",
+        -0.0031818748
+      ]
+    ]
+  },
+  "The objects central to this statement are eigenfunctions of the family of operators from a space to the space of its modular forms: formally, this lemma guarantees the existence and analyticity of weight-two eigenforms of the aforementioned Hecke operators for non-singular third-order one-forms over the rationals whose solutions are confined to a torus. The discovery of a metric for the space of Galois representations revealed that this theorem posits an isomorphism between L-series of modular forms and the aforementioned curves; that idea arose from the object of the epsilon conjecture, Frey's curve, which was eventually shown to be modular. This theorem thus implies that every elliptic curve": {
+    "guess": "Modularity theorem",
+    "confidence": [
+      [
+        "Mod",
+        -0.10495398
+      ],
+      [
+        "ularity",
+        -0.006715371
+      ],
+      [
+        " theorem",
+        -0.0024760163
+      ]
+    ]
+  },
+  "The objects central to this statement are eigenfunctions of the family of operators from a space to the space of its modular forms: formally, this lemma guarantees the existence and analyticity of weight-two eigenforms of the aforementioned Hecke operators for non-singular third-order one-forms over the rationals whose solutions are confined to a torus. The discovery of a metric for the space of Galois representations revealed that this theorem posits an isomorphism between L-series of modular forms and the aforementioned curves; that idea arose from the object of the epsilon conjecture, Frey's curve, which was eventually shown to be modular. This theorem thus implies that every elliptic curve is a modular form. For ten points, identify this theorem cum conjecture that is concomitant with Fermat's": {
+    "guess": "Modularity theorem",
+    "confidence": [
+      [
+        "Mod",
+        -0.08665441
+      ],
+      [
+        "ularity",
+        -0.008614569
+      ],
+      [
+        " theorem",
+        -0.0024763737
+      ]
+    ]
+  },
+  "The objects central to this statement are eigenfunctions of the family of operators from a space to the space of its modular forms: formally, this lemma guarantees the existence and analyticity of weight-two eigenforms of the aforementioned Hecke operators for non-singular third-order one-forms over the rationals whose solutions are confined to a torus. The discovery of a metric for the space of Galois representations revealed that this theorem posits an isomorphism between L-series of modular forms and the aforementioned curves; that idea arose from the object of the epsilon conjecture, Frey's curve, which was eventually shown to be modular. This theorem thus implies that every elliptic curve is a modular form. For ten points, identify this theorem cum conjecture that is concomitant with Fermat's Last Theorem and that is usually named for two Japanese mathematicians.": {
+    "guess": "Modularity theorem",
+    "confidence": [
+      [
+        "Mod",
+        -0.6405609
+      ],
+      [
+        "ularity",
+        -0.0019286326
+      ],
+      [
+        " theorem",
+        -0.0024773201
+      ]
+    ]
+  },
+  "These objects possess an ergosphere within which occurs the Lense-Thirring effect. The Reissner-Nordstrom": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.66996837
+      ]
+    ]
+  },
+  "These objects possess an ergosphere within which occurs the Lense-Thirring effect. The Reissner-Nordstrom metric is used to describe non-rotating ones that possess electrical charge. Mass, electric charge,": {
+    "guess": "Kerr-Newman black hole",
+    "confidence": [
+      [
+        "K",
+        -0.68294084
+      ],
+      [
+        "err",
+        -1.6240566e-06
+      ],
+      [
+        "-New",
+        -0.20241292
+      ],
+      [
+        "man",
+        -1.9361265e-07
+      ],
+      [
+        " black",
+        -0.6936656
+      ],
+      [
+        " hole",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "These objects possess an ergosphere within which occurs the Lense-Thirring effect. The Reissner-Nordstrom metric is used to describe non-rotating ones that possess electrical charge. Mass, electric charge, and angular momentum are the only properties of these objects according to the No Hair Theorem,": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -0.17875701
+      ],
+      [
+        " hole",
+        -9.674858e-05
+      ]
+    ]
+  },
+  "These objects possess an ergosphere within which occurs the Lense-Thirring effect. The Reissner-Nordstrom metric is used to describe non-rotating ones that possess electrical charge. Mass, electric charge, and angular momentum are the only properties of these objects according to the No Hair Theorem, and energy may be extracted from these via the Penrose Process. Pair production in one of these may": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -0.022559337
+      ],
+      [
+        " hole",
+        -8.776276e-06
+      ]
+    ]
+  },
+  "These objects possess an ergosphere within which occurs the Lense-Thirring effect. The Reissner-Nordstrom metric is used to describe non-rotating ones that possess electrical charge. Mass, electric charge, and angular momentum are the only properties of these objects according to the No Hair Theorem, and energy may be extracted from these via the Penrose Process. Pair production in one of these may result in Hawking Radiation if it occurs near the event horizon. Formed when a supernova remnant exceeds": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -0.0041285036
+      ],
+      [
+        " hole",
+        -2.3795938e-05
+      ]
+    ]
+  },
+  "These objects possess an ergosphere within which occurs the Lense-Thirring effect. The Reissner-Nordstrom metric is used to describe non-rotating ones that possess electrical charge. Mass, electric charge, and angular momentum are the only properties of these objects according to the No Hair Theorem, and energy may be extracted from these via the Penrose Process. Pair production in one of these may result in Hawking Radiation if it occurs near the event horizon. Formed when a supernova remnant exceeds the Oppenheimer-Volkoff limit, this is, for 10 points, what type of collapsed star that is named": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -0.00071969966
+      ],
+      [
+        " hole",
+        -4.0961266e-05
+      ]
+    ]
+  },
+  "These objects possess an ergosphere within which occurs the Lense-Thirring effect. The Reissner-Nordstrom metric is used to describe non-rotating ones that possess electrical charge. Mass, electric charge, and angular momentum are the only properties of these objects according to the No Hair Theorem, and energy may be extracted from these via the Penrose Process. Pair production in one of these may result in Hawking Radiation if it occurs near the event horizon. Formed when a supernova remnant exceeds the Oppenheimer-Volkoff limit, this is, for 10 points, what type of collapsed star that is named for its ability to trap light?": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -0.089829974
+      ],
+      [
+        " hole",
+        -7.5411124e-05
+      ]
+    ]
+  },
+  "One object in this story has the name Dillingham written out in full on a letterbox, which its owners": {
+    "guess": "The Gift of the Magi",
+    "confidence": [
+      [
+        "The",
+        -0.008722471
+      ],
+      [
+        " Gift",
+        -0.00073684665
+      ],
+      [
+        " of",
+        -1.7432603e-06
+      ],
+      [
+        " the",
+        -1.2664457e-06
+      ],
+      [
+        " Mag",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ]
+    ]
+  },
+  "One object in this story has the name Dillingham written out in full on a letterbox, which its owners wish to change to the more modest \"D.\" The author of this work claimed that if the protagonists had": {
+    "guess": "The Gift of the Magi",
+    "confidence": [
+      [
+        "The",
+        -0.47609827
+      ],
+      [
+        " Gift",
+        -9.0883464e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Mag",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ]
+    ]
+  },
+  "One object in this story has the name Dillingham written out in full on a letterbox, which its owners wish to change to the more modest \"D.\" The author of this work claimed that if the protagonists had lived next to King Solomon and the Queen of Sheba, the latter would have been put to shame. One character": {
+    "guess": "The Gift of the Magi",
+    "confidence": [
+      [
+        "The",
+        -0.3944248
+      ],
+      [
+        " Gift",
+        -1.4140442e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Mag",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ]
+    ]
+  },
+  "One object in this story has the name Dillingham written out in full on a letterbox, which its owners wish to change to the more modest \"D.\" The author of this work claimed that if the protagonists had lived next to King Solomon and the Queen of Sheba, the latter would have been put to shame. One character in this story goes to Madame Sofronie's, requiring her to curl her hair afterwards. At the end": {
+    "guess": "The Gift of the Magi",
+    "confidence": [
+      [
+        "The",
+        -0.08067818
+      ],
+      [
+        " Gift",
+        -6.9882217e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Mag",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ]
+    ]
+  },
+  "One object in this story has the name Dillingham written out in full on a letterbox, which its owners wish to change to the more modest \"D.\" The author of this work claimed that if the protagonists had lived next to King Solomon and the Queen of Sheba, the latter would have been put to shame. One character in this story goes to Madame Sofronie's, requiring her to curl her hair afterwards. At the end of this story, the narrator explains the origin of the Christmas present. For 10 points, name this": {
+    "guess": "The Gift of the Magi",
+    "confidence": [
+      [
+        "The",
+        -0.12742263
+      ],
+      [
+        " Gift",
+        -2.5941605e-05
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Mag",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ]
+    ]
+  },
+  "One object in this story has the name Dillingham written out in full on a letterbox, which its owners wish to change to the more modest \"D.\" The author of this work claimed that if the protagonists had lived next to King Solomon and the Queen of Sheba, the latter would have been put to shame. One character in this story goes to Madame Sofronie's, requiring her to curl her hair afterwards. At the end of this story, the narrator explains the origin of the Christmas present. For 10 points, name this short story in which Jim and Della sell their watch and hair to buy each other a watch chain and a": {
+    "guess": "The Gift of the Magi",
+    "confidence": [
+      [
+        "The",
+        -0.00012666137
+      ],
+      [
+        " Gift",
+        -1.8624639e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Mag",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ]
+    ]
+  },
+  "One object in this story has the name Dillingham written out in full on a letterbox, which its owners wish to change to the more modest \"D.\" The author of this work claimed that if the protagonists had lived next to King Solomon and the Queen of Sheba, the latter would have been put to shame. One character in this story goes to Madame Sofronie's, requiring her to curl her hair afterwards. At the end of this story, the narrator explains the origin of the Christmas present. For 10 points, name this short story in which Jim and Della sell their watch and hair to buy each other a watch chain and a comb, written by O. Henry.": {
+    "guess": "The Gift of the Magi",
+    "confidence": [
+      [
+        "The",
+        -0.0023656592
+      ],
+      [
+        " Gift",
+        -9.0883464e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Mag",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ]
+    ]
+  },
+  "These objects are often underlain by R\u00f6thlisberger or Nye channels. In one form, their movement is almost": {
+    "guess": "Glaciers",
+    "confidence": [
+      [
+        "Gl",
+        -0.013081765
+      ],
+      [
+        "ac",
+        -0.5266665
+      ],
+      [
+        "iers",
+        0.0
+      ]
+    ]
+  },
+  "These objects are often underlain by R\u00f6thlisberger or Nye channels. In one form, their movement is almost entirely controlled by Glen's Flow Law. Warm ones can also move by enhanced creep, ploughing, and": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.021237355
+      ],
+      [
+        "acier",
+        -0.00059104036
+      ]
+    ]
+  },
+  "These objects are often underlain by R\u00f6thlisberger or Nye channels. In one form, their movement is almost entirely controlled by Glen's Flow Law. Warm ones can also move by enhanced creep, ploughing, and regelation, and both types can experience hydraulic jacking. Many of these objects experience quasi-regular": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.002947036
+      ],
+      [
+        "acier",
+        -0.0017163509
+      ]
+    ]
+  },
+  "These objects are often underlain by R\u00f6thlisberger or Nye channels. In one form, their movement is almost entirely controlled by Glen's Flow Law. Warm ones can also move by enhanced creep, ploughing, and regelation, and both types can experience hydraulic jacking. Many of these objects experience quasi-regular surge cycles, where their movement speed can increase a thousand-fold. These objects create": {
+    "guess": "Glaciers",
+    "confidence": [
+      [
+        "Gl",
+        -0.0001243965
+      ],
+      [
+        "ac",
+        -0.0005545824
+      ],
+      [
+        "iers",
+        0.0
+      ]
+    ]
+  },
+  "These objects are often underlain by R\u00f6thlisberger or Nye channels. In one form, their movement is almost entirely controlled by Glen's Flow Law. Warm ones can also move by enhanced creep, ploughing, and regelation, and both types can experience hydraulic jacking. Many of these objects experience quasi-regular surge cycles, where their movement speed can increase a thousand-fold. These objects create a range of characteristic landforms, including kames, eskers and drumlins. For 10 points, name this": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.00056208856
+      ],
+      [
+        "acier",
+        -0.34850323
+      ]
+    ]
+  },
+  "These objects are often underlain by R\u00f6thlisberger or Nye channels. In one form, their movement is almost entirely controlled by Glen's Flow Law. Warm ones can also move by enhanced creep, ploughing, and regelation, and both types can experience hydraulic jacking. Many of these objects experience quasi-regular surge cycles, where their movement speed can increase a thousand-fold. These objects create a range of characteristic landforms, including kames, eskers and drumlins. For 10 points, name this class of objects found in mountainous and polar regions around the world, made entirely of ice.": {
+    "guess": "Glaciers",
+    "confidence": [
+      [
+        "Gl",
+        -0.016055249
+      ],
+      [
+        "ac",
+        -0.63274
+      ],
+      [
+        "iers",
+        0.0
+      ]
+    ]
+  },
+  "If one of these objects has an ergosphere, energy may be extracted from it until it loses its angular": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -0.0005724519
+      ],
+      [
+        " hole",
+        -1.9385403e-05
+      ]
+    ]
+  },
+  "If one of these objects has an ergosphere, energy may be extracted from it until it loses its angular momentum. If it does not possess electric charge, it will become the Schwarzchild type once it stops": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -0.03668478
+      ],
+      [
+        " hole",
+        -1.569009e-05
+      ]
+    ]
+  },
+  "If one of these objects has an ergosphere, energy may be extracted from it until it loses its angular momentum. If it does not possess electric charge, it will become the Schwarzchild type once it stops rotating. The (*) no-hair theorem states that mass, charge, and angular momentum are their only observable": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -0.00028410007
+      ],
+      [
+        " hole",
+        -2.4630364e-05
+      ]
+    ]
+  },
+  "If one of these objects has an ergosphere, energy may be extracted from it until it loses its angular momentum. If it does not possess electric charge, it will become the Schwarzchild type once it stops rotating. The (*) no-hair theorem states that mass, charge, and angular momentum are their only observable qualities outside the event horizon. For 10 points, name these astronomical objects from which": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -1.4974867e-05
+      ],
+      [
+        " hole",
+        -1.962381e-05
+      ]
+    ]
+  },
+  "If one of these objects has an ergosphere, energy may be extracted from it until it loses its angular momentum. If it does not possess electric charge, it will become the Schwarzchild type once it stops rotating. The (*) no-hair theorem states that mass, charge, and angular momentum are their only observable qualities outside the event horizon. For 10 points, name these astronomical objects from which not even light can escape.": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -5.6769813e-06
+      ],
+      [
+        " hole",
+        -6.730528e-05
+      ]
+    ]
+  },
+  "These objects are picked up near jamarat during a Muslim ritual. They're not lights, but Joseph Smith": {
+    "guess": "Stoning of the Devil",
+    "confidence": [
+      [
+        "St",
+        -0.70034623
+      ],
+      [
+        "oning",
+        -0.011050998
+      ],
+      [
+        " of",
+        -0.00010688089
+      ],
+      [
+        " the",
+        -1.1041146e-05
+      ],
+      [
+        " Devil",
+        -0.00029768562
+      ]
+    ]
+  },
+  "These objects are picked up near jamarat during a Muslim ritual. They're not lights, but Joseph Smith used two of them named Urim and Thummim to become a seer and translate the Book of Mormon. Jacob blessed": {
+    "guess": "Stoning of the Devil",
+    "confidence": [
+      [
+        "St",
+        -0.21711972
+      ],
+      [
+        "oning",
+        -0.0019336353
+      ],
+      [
+        " of",
+        -0.00014036978
+      ],
+      [
+        " the",
+        -1.6762922e-05
+      ],
+      [
+        " Devil",
+        -0.00029816243
+      ]
+    ]
+  },
+  "These objects are picked up near jamarat during a Muslim ritual. They're not lights, but Joseph Smith used two of them named Urim and Thummim to become a seer and translate the Book of Mormon. Jacob blessed one with the name \"Beth-El\", meaning House of God. Muslims make these objects collide with walls": {
+    "guess": "Stones",
+    "confidence": [
+      [
+        "St",
+        -0.087909296
+      ],
+      [
+        "ones",
+        -0.0056109116
+      ]
+    ]
+  },
+  "These objects are picked up near jamarat during a Muslim ritual. They're not lights, but Joseph Smith used two of them named Urim and Thummim to become a seer and translate the Book of Mormon. Jacob blessed one with the name \"Beth-El\", meaning House of God. Muslims make these objects collide with walls representing the Devil during the hajj, and a black one from heaven is at the most sacred corner": {
+    "guess": "Stone",
+    "confidence": [
+      [
+        "Stone",
+        -0.18385448
+      ]
+    ]
+  },
+  "These objects are picked up near jamarat during a Muslim ritual. They're not lights, but Joseph Smith used two of them named Urim and Thummim to become a seer and translate the Book of Mormon. Jacob blessed one with the name \"Beth-El\", meaning House of God. Muslims make these objects collide with walls representing the Devil during the hajj, and a black one from heaven is at the most sacred corner of the Ka'aba. Jesus asked \"he who is without sin\" to cast the first one. For 10 points, name these": {
+    "guess": "Stones",
+    "confidence": [
+      [
+        "St",
+        -0.52796715
+      ],
+      [
+        "ones",
+        -8.9953974e-05
+      ]
+    ]
+  },
+  "These objects are picked up near jamarat during a Muslim ritual. They're not lights, but Joseph Smith used two of them named Urim and Thummim to become a seer and translate the Book of Mormon. Jacob blessed one with the name \"Beth-El\", meaning House of God. Muslims make these objects collide with walls representing the Devil during the hajj, and a black one from heaven is at the most sacred corner of the Ka'aba. Jesus asked \"he who is without sin\" to cast the first one. For 10 points, name these objects whose larger examples were arranged by Neolithic British pagans into a namesake circular \"henge.\"": {
+    "guess": "Stone",
+    "confidence": [
+      [
+        "Stone",
+        -0.20236151
+      ]
+    ]
+  },
+  "This object was created to win the favor of a virgin \"from whose forehead shines the rainbow,\" although": {
+    "guess": "The Golden Fleece",
+    "confidence": [
+      [
+        "The",
+        -0.9840653
+      ],
+      [
+        " Golden",
+        -0.16087845
+      ],
+      [
+        " F",
+        -0.010132847
+      ],
+      [
+        "leece",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This object was created to win the favor of a virgin \"from whose forehead shines the rainbow,\" although in the end, she did not marry its creator. Prior to its creation, a series of objects that were judged": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.6650469
+      ]
+    ]
+  },
+  "This object was created to win the favor of a virgin \"from whose forehead shines the rainbow,\" although in the end, she did not marry its creator. Prior to its creation, a series of objects that were judged to be \"ill-mannered\" were accidentally created and then discarded, including a plough, a crossbow,": {
+    "guess": "Mj\u00f6lnir",
+    "confidence": [
+      [
+        "Mj",
+        -0.15255488
+      ],
+      [
+        "\u00f6",
+        -0.28532732
+      ],
+      [
+        "ln",
+        0.0
+      ],
+      [
+        "ir",
+        0.0
+      ]
+    ]
+  },
+  "This object was created to win the favor of a virgin \"from whose forehead shines the rainbow,\" although in the end, she did not marry its creator. Prior to its creation, a series of objects that were judged to be \"ill-mannered\" were accidentally created and then discarded, including a plough, a crossbow, a boat and a cow. An alternative interpretation views this item as a world pillar, as it grew roots": {
+    "guess": "Sampo",
+    "confidence": [
+      [
+        "S",
+        -0.024393117
+      ],
+      [
+        "ampo",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "This object was created to win the favor of a virgin \"from whose forehead shines the rainbow,\" although in the end, she did not marry its creator. Prior to its creation, a series of objects that were judged to be \"ill-mannered\" were accidentally created and then discarded, including a plough, a crossbow, a boat and a cow. An alternative interpretation views this item as a world pillar, as it grew roots into the earth after being buried beneath the hills of (*) Sariola. It provides an explanation": {
+    "guess": "Sampo",
+    "confidence": [
+      [
+        "S",
+        -0.0022766965
+      ],
+      [
+        "ampo",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "This object was created to win the favor of a virgin \"from whose forehead shines the rainbow,\" although in the end, she did not marry its creator. Prior to its creation, a series of objects that were judged to be \"ill-mannered\" were accidentally created and then discarded, including a plough, a crossbow, a boat and a cow. An alternative interpretation views this item as a world pillar, as it grew roots into the earth after being buried beneath the hills of (*) Sariola. It provides an explanation for why the sea is salty, as it was lost at sea when Louhi defeated Ilmarinen. For 10 points, name this": {
+    "guess": "Sampo",
+    "confidence": [
+      [
+        "S",
+        -0.0010014898
+      ],
+      [
+        "ampo",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This object was created to win the favor of a virgin \"from whose forehead shines the rainbow,\" although in the end, she did not marry its creator. Prior to its creation, a series of objects that were judged to be \"ill-mannered\" were accidentally created and then discarded, including a plough, a crossbow, a boat and a cow. An alternative interpretation views this item as a world pillar, as it grew roots into the earth after being buried beneath the hills of (*) Sariola. It provides an explanation for why the sea is salty, as it was lost at sea when Louhi defeated Ilmarinen. For 10 points, name this magical mill that could endlessly produce flour, salt, and money and whose creation is described": {
+    "guess": "Sampo",
+    "confidence": [
+      [
+        "S",
+        -0.00089216715
+      ],
+      [
+        "ampo",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This object was created to win the favor of a virgin \"from whose forehead shines the rainbow,\" although in the end, she did not marry its creator. Prior to its creation, a series of objects that were judged to be \"ill-mannered\" were accidentally created and then discarded, including a plough, a crossbow, a boat and a cow. An alternative interpretation views this item as a world pillar, as it grew roots into the earth after being buried beneath the hills of (*) Sariola. It provides an explanation for why the sea is salty, as it was lost at sea when Louhi defeated Ilmarinen. For 10 points, name this magical mill that could endlessly produce flour, salt, and money and whose creation is described in the Kalevala.": {
+    "guess": "Sampo",
+    "confidence": [
+      [
+        "S",
+        -0.0017196849
+      ],
+      [
+        "ampo",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This object titles a Hemingway short story about Mr. Frazer along with \"the gambler\" and \"the nun.\" It's": {
+    "guess": "The Gambler, the Nun, and the Radio",
+    "confidence": [
+      [
+        "The",
+        -0.39877132
+      ],
+      [
+        " Gamb",
+        -0.14969224
+      ],
+      [
+        "ler",
+        0.0
+      ],
+      [
+        ",",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -0.00013989297
+      ],
+      [
+        " Nun",
+        -1.9361265e-07
+      ],
+      [
+        ",",
+        -0.00029637438
+      ],
+      [
+        " and",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Radio",
+        -5.7961847e-06
+      ]
+    ]
+  },
+  "This object titles a Hemingway short story about Mr. Frazer along with \"the gambler\" and \"the nun.\" It's not a room, but an \"enormous\" ruins Irene's marriage in a story by John Cheever. Mrs. Organ Morgan": {
+    "guess": "The Enormous Radio",
+    "confidence": [
+      [
+        "The",
+        -0.09676952
+      ],
+      [
+        " En",
+        -0.40539965
+      ],
+      [
+        "orm",
+        -6.704273e-07
+      ],
+      [
+        "ous",
+        0.0
+      ],
+      [
+        " Radio",
+        -0.00010986099
+      ]
+    ]
+  },
+  "This object titles a Hemingway short story about Mr. Frazer along with \"the gambler\" and \"the nun.\" It's not a room, but an \"enormous\" ruins Irene's marriage in a story by John Cheever. Mrs. Organ Morgan and Captain Cat appear in a play which won the 1954 Prix Italia for its use of this device; that": {
+    "guess": "Radio",
+    "confidence": [
+      [
+        "Radio",
+        -0.5976129
+      ]
+    ]
+  },
+  "This object titles a Hemingway short story about Mr. Frazer along with \"the gambler\" and \"the nun.\" It's not a room, but an \"enormous\" ruins Irene's marriage in a story by John Cheever. Mrs. Organ Morgan and Captain Cat appear in a play which won the 1954 Prix Italia for its use of this device; that play is Dylan Thomas' (*) Under Milk Wood. This device is also used to distribute Panamericana's novelas,": {
+    "guess": "The Enormous Radio",
+    "confidence": [
+      [
+        "The",
+        -0.060327258
+      ],
+      [
+        " En",
+        -0.77128303
+      ],
+      [
+        "orm",
+        -4.3202e-07
+      ],
+      [
+        "ous",
+        0.0
+      ],
+      [
+        " Radio",
+        -2.2246291e-05
+      ]
+    ]
+  },
+  "This object titles a Hemingway short story about Mr. Frazer along with \"the gambler\" and \"the nun.\" It's not a room, but an \"enormous\" ruins Irene's marriage in a story by John Cheever. Mrs. Organ Morgan and Captain Cat appear in a play which won the 1954 Prix Italia for its use of this device; that play is Dylan Thomas' (*) Under Milk Wood. This device is also used to distribute Panamericana's novelas, which are written by Pedro Comacho. Aunt Julia has a relationship with that scriptwriter for this": {
+    "guess": "Radio",
+    "confidence": [
+      [
+        "Radio",
+        -0.33593097
+      ]
+    ]
+  },
+  "This object titles a Hemingway short story about Mr. Frazer along with \"the gambler\" and \"the nun.\" It's not a room, but an \"enormous\" ruins Irene's marriage in a story by John Cheever. Mrs. Organ Morgan and Captain Cat appear in a play which won the 1954 Prix Italia for its use of this device; that play is Dylan Thomas' (*) Under Milk Wood. This device is also used to distribute Panamericana's novelas, which are written by Pedro Comacho. Aunt Julia has a relationship with that scriptwriter for this medium. For 10 points, identify this medium which frightened audiences with an alien invasion when": {
+    "guess": "Radio",
+    "confidence": [
+      [
+        "Radio",
+        -0.010789945
+      ]
+    ]
+  },
+  "This object titles a Hemingway short story about Mr. Frazer along with \"the gambler\" and \"the nun.\" It's not a room, but an \"enormous\" ruins Irene's marriage in a story by John Cheever. Mrs. Organ Morgan and Captain Cat appear in a play which won the 1954 Prix Italia for its use of this device; that play is Dylan Thomas' (*) Under Milk Wood. This device is also used to distribute Panamericana's novelas, which are written by Pedro Comacho. Aunt Julia has a relationship with that scriptwriter for this medium. For 10 points, identify this medium which frightened audiences with an alien invasion when it broadcast Orson Welles' dramatization of The War of the Worlds.": {
+    "guess": "Radio",
+    "confidence": [
+      [
+        "Radio",
+        -0.00031043674
+      ]
+    ]
+  },
+  "Before these object are used, a prayer beginning \"vyazor vyagein\" is chanted. Gabbais direct their use,": {
+    "guess": "Tallit",
+    "confidence": [
+      [
+        "T",
+        -0.9338147
+      ],
+      [
+        "allit",
+        -0.38798463
+      ]
+    ]
+  },
+  "Before these object are used, a prayer beginning \"vyazor vyagein\" is chanted. Gabbais direct their use, and people prepare for using them with a tikkun. They are held up and then covered in hagba and gelilah.": {
+    "guess": "Torah scrolls",
+    "confidence": [
+      [
+        "Tor",
+        -0.04207896
+      ],
+      [
+        "ah",
+        0.0
+      ],
+      [
+        " scroll",
+        -0.12774782
+      ],
+      [
+        "s",
+        -0.006858278
+      ]
+    ]
+  },
+  "Before these object are used, a prayer beginning \"vyazor vyagein\" is chanted. Gabbais direct their use, and people prepare for using them with a tikkun. They are held up and then covered in hagba and gelilah. The last component of their use is called maftir, and their use is bookended by prayers beginning": {
+    "guess": "Torah reading",
+    "confidence": [
+      [
+        "Tor",
+        -0.04818939
+      ],
+      [
+        "ah",
+        0.0
+      ],
+      [
+        " reading",
+        -0.7974261
+      ]
+    ]
+  },
+  "Before these object are used, a prayer beginning \"vyazor vyagein\" is chanted. Gabbais direct their use, and people prepare for using them with a tikkun. They are held up and then covered in hagba and gelilah. The last component of their use is called maftir, and their use is bookended by prayers beginning (*) \"barchu et adonai hamvorach.\" These objects are danced around the synagogue the day after": {
+    "guess": "Torah scrolls",
+    "confidence": [
+      [
+        "Tor",
+        -0.025806447
+      ],
+      [
+        "ah",
+        -1.0206721e-05
+      ],
+      [
+        " scroll",
+        -0.3139367
+      ],
+      [
+        "s",
+        -0.0007167232
+      ]
+    ]
+  },
+  "Before these object are used, a prayer beginning \"vyazor vyagein\" is chanted. Gabbais direct their use, and people prepare for using them with a tikkun. They are held up and then covered in hagba and gelilah. The last component of their use is called maftir, and their use is bookended by prayers beginning (*) \"barchu et adonai hamvorach.\" These objects are danced around the synagogue the day after Sukkot. These objects are crowned and stored in the aron, or Ark. They are read from using a yad during": {
+    "guess": "Torah scrolls",
+    "confidence": [
+      [
+        "Tor",
+        -0.07650374
+      ],
+      [
+        "ah",
+        -3.1281633e-07
+      ],
+      [
+        " scroll",
+        -0.22153355
+      ],
+      [
+        "s",
+        -0.018241137
+      ]
+    ]
+  },
+  "Before these object are used, a prayer beginning \"vyazor vyagein\" is chanted. Gabbais direct their use, and people prepare for using them with a tikkun. They are held up and then covered in hagba and gelilah. The last component of their use is called maftir, and their use is bookended by prayers beginning (*) \"barchu et adonai hamvorach.\" These objects are danced around the synagogue the day after Sukkot. These objects are crowned and stored in the aron, or Ark. They are read from using a yad during aliyot. For 10 points, name these scrolls that contain the first five books of the Bible in Hebrew.": {
+    "guess": "Torah scrolls",
+    "confidence": [
+      [
+        "Tor",
+        -0.03240227
+      ],
+      [
+        "ah",
+        -1.9361265e-07
+      ],
+      [
+        " scroll",
+        -0.68782556
+      ],
+      [
+        "s",
+        -0.001196421
+      ]
+    ]
+  }
+}

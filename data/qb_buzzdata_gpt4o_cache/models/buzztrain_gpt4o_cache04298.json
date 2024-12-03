@@ -1,0 +1,137 @@
+{
+  "LepA can reverse this process, and in some organisms, this process sees protein EF-3 utilize ATP to reduce": {
+    "guess": "Translation",
+    "confidence": [
+      [
+        "Translation",
+        -8.6735476e-05
+      ]
+    ]
+  },
+  "LepA can reverse this process, and in some organisms, this process sees protein EF-3 utilize ATP to reduce affinity for the substrate at L1. The characteristic ratcheting mechanism of this process involves": {
+    "guess": "Translation (biology)",
+    "confidence": [
+      [
+        "Translation",
+        -0.002429048
+      ],
+      [
+        " (",
+        -0.007730488
+      ],
+      [
+        "biology",
+        -0.0012896401
+      ],
+      [
+        ")",
+        -1.2829201e-05
+      ]
+    ]
+  },
+  "LepA can reverse this process, and in some organisms, this process sees protein EF-3 utilize ATP to reduce affinity for the substrate at L1. The characteristic ratcheting mechanism of this process involves GTP hydrolysis by EF-G, while EF-Tu, which works as a proofreader, also employs GTP to bind the": {
+    "guess": "Translation",
+    "confidence": [
+      [
+        "Translation",
+        -0.0008177273
+      ]
+    ]
+  },
+  "LepA can reverse this process, and in some organisms, this process sees protein EF-3 utilize ATP to reduce affinity for the substrate at L1. The characteristic ratcheting mechanism of this process involves GTP hydrolysis by EF-G, while EF-Tu, which works as a proofreader, also employs GTP to bind the substrate. Beginning with binding to the Shine-Dalgarno sequence in prokaryotes, it sees movement of": {
+    "guess": "Translation",
+    "confidence": [
+      [
+        "Translation",
+        -0.00029470553
+      ]
+    ]
+  },
+  "LepA can reverse this process, and in some organisms, this process sees protein EF-3 utilize ATP to reduce affinity for the substrate at L1. The characteristic ratcheting mechanism of this process involves GTP hydrolysis by EF-G, while EF-Tu, which works as a proofreader, also employs GTP to bind the substrate. Beginning with binding to the Shine-Dalgarno sequence in prokaryotes, it sees movement of the substrates through aminoacyl, peptidyl, and exit sites. This process ends when the nascent peptide": {
+    "guess": "Translation",
+    "confidence": [
+      [
+        "Translation",
+        -2.2007884e-05
+      ]
+    ]
+  },
+  "LepA can reverse this process, and in some organisms, this process sees protein EF-3 utilize ATP to reduce affinity for the substrate at L1. The characteristic ratcheting mechanism of this process involves GTP hydrolysis by EF-G, while EF-Tu, which works as a proofreader, also employs GTP to bind the substrate. Beginning with binding to the Shine-Dalgarno sequence in prokaryotes, it sees movement of the substrates through aminoacyl, peptidyl, and exit sites. This process ends when the nascent peptide is complete and the two subunits dissociate. For 10 points, name this second step of protein synthesis": {
+    "guess": "Translation",
+    "confidence": [
+      [
+        "Translation",
+        -1.1637165e-05
+      ]
+    ]
+  },
+  "LepA can reverse this process, and in some organisms, this process sees protein EF-3 utilize ATP to reduce affinity for the substrate at L1. The characteristic ratcheting mechanism of this process involves GTP hydrolysis by EF-G, while EF-Tu, which works as a proofreader, also employs GTP to bind the substrate. Beginning with binding to the Shine-Dalgarno sequence in prokaryotes, it sees movement of the substrates through aminoacyl, peptidyl, and exit sites. This process ends when the nascent peptide is complete and the two subunits dissociate. For 10 points, name this second step of protein synthesis in which a ribosome reads messenger RNA following transcription.": {
+    "guess": "Translation",
+    "confidence": [
+      [
+        "Translation",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "One of these in Lepus became the prototype for the T spectral class. They can be distinguished from low-mass": {
+    "guess": "Brown dwarfs",
+    "confidence": [
+      [
+        "Brown",
+        -0.002253626
+      ],
+      [
+        " dwar",
+        -0.22796305
+      ],
+      [
+        "fs",
+        0.0
+      ]
+    ]
+  },
+  "One of these in Lepus became the prototype for the T spectral class. They can be distinguished from low-mass stars because of their lithium content and from high-mass (*) planets by their density and x-ray": {
+    "guess": "Brown dwarf",
+    "confidence": [
+      [
+        "Brown",
+        -0.0019644396
+      ],
+      [
+        " dwarf",
+        -0.01982187
+      ]
+    ]
+  },
+  "One of these in Lepus became the prototype for the T spectral class. They can be distinguished from low-mass stars because of their lithium content and from high-mass (*) planets by their density and x-ray spectra. Lying in spectral classes M, L, and T, for 10 points\u2014 identify these astronomical objects": {
+    "guess": "Brown dwarfs",
+    "confidence": [
+      [
+        "Brown",
+        -0.0031096227
+      ],
+      [
+        " dwar",
+        -0.5764374
+      ],
+      [
+        "fs",
+        0.0
+      ]
+    ]
+  },
+  "One of these in Lepus became the prototype for the T spectral class. They can be distinguished from low-mass stars because of their lithium content and from high-mass (*) planets by their density and x-ray spectra. Lying in spectral classes M, L, and T, for 10 points\u2014 identify these astronomical objects which are failed stars that lack the mass to initiate thermonuclear fusion.": {
+    "guess": "Brown dwarf",
+    "confidence": [
+      [
+        "Brown",
+        -0.4969459
+      ],
+      [
+        " dwarf",
+        -0.0016420961
+      ]
+    ]
+  }
+}

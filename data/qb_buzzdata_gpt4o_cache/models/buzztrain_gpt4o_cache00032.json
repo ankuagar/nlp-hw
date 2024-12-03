@@ -1,0 +1,87 @@
+{
+  "Acetanilide is often added to this substance to stabilize it. This compound can be a byproduct of the": {
+    "guess": "Hydrogen peroxide",
+    "confidence": [
+      [
+        "Hyd",
+        -0.0073994533
+      ],
+      [
+        "rogen",
+        -9.253091e-06
+      ],
+      [
+        " peroxide",
+        -0.16055037
+      ]
+    ]
+  },
+  "Acetanilide is often added to this substance to stabilize it. This compound can be a byproduct of the hydrolysis in ozonolysis. Along with an iron catalyst, it is present in Fenton's reagent. This inorganic": {
+    "guess": "Hydrogen peroxide",
+    "confidence": [
+      [
+        "Hyd",
+        -0.0019021016
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " peroxide",
+        -3.1782583e-05
+      ]
+    ]
+  },
+  "Acetanilide is often added to this substance to stabilize it. This compound can be a byproduct of the hydrolysis in ozonolysis. Along with an iron catalyst, it is present in Fenton's reagent. This inorganic compound can be used in the Baeyer-Villiger reaction. It can be used as a rocket fuel, and it": {
+    "guess": "Hydrogen peroxide",
+    "confidence": [
+      [
+        "Hyd",
+        -0.00043102686
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " peroxide",
+        -0.00013154872
+      ]
+    ]
+  },
+  "Acetanilide is often added to this substance to stabilize it. This compound can be a byproduct of the hydrolysis in ozonolysis. Along with an iron catalyst, it is present in Fenton's reagent. This inorganic compound can be used in the Baeyer-Villiger reaction. It can be used as a rocket fuel, and it the liver it is decomposed by catalase. This compound is a strong oxidizing agent and is useful in bleaching": {
+    "guess": "Hydrogen peroxide",
+    "confidence": [
+      [
+        "Hyd",
+        -0.00032271104
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " peroxide",
+        -0.00016194198
+      ]
+    ]
+  },
+  "Acetanilide is often added to this substance to stabilize it. This compound can be a byproduct of the hydrolysis in ozonolysis. Along with an iron catalyst, it is present in Fenton's reagent. This inorganic compound can be used in the Baeyer-Villiger reaction. It can be used as a rocket fuel, and it the liver it is decomposed by catalase. This compound is a strong oxidizing agent and is useful in bleaching and killing microbes. For 10 points, name this compound with chemical formula H2O2.": {
+    "guess": "Hydrogen peroxide",
+    "confidence": [
+      [
+        "Hyd",
+        -0.0006142667
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " peroxide",
+        -3.392825e-05
+      ]
+    ]
+  }
+}

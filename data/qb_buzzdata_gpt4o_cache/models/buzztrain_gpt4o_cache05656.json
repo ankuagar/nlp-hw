@@ -1,0 +1,113 @@
+{
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve": {
+    "guess": "Charge conservation",
+    "confidence": [
+      [
+        "Charge",
+        -0.5323694
+      ],
+      [
+        " conservation",
+        -0.06761009
+      ]
+    ]
+  },
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve total probability, and a \"sea\" named for this physicist refers to a description of the vacuum.": {
+    "guess": "Dirac sea",
+    "confidence": [
+      [
+        "Dir",
+        -0.5395116
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " sea",
+        -0.016221467
+      ]
+    ]
+  },
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve total probability, and a \"sea\" named for this physicist refers to a description of the vacuum. He took the square root of the wave operator by giving each spatial derivative, as well as the time": {
+    "guess": "Paul Dirac",
+    "confidence": [
+      [
+        "Paul",
+        -0.2503141
+      ],
+      [
+        " Dir",
+        0.0
+      ],
+      [
+        "ac",
+        0.0
+      ]
+    ]
+  },
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve total probability, and a \"sea\" named for this physicist refers to a description of the vacuum. He took the square root of the wave operator by giving each spatial derivative, as well as the time derivative, coefficients that he found to be (*) four-by-four matrices; those matrices define his": {
+    "guess": "Dirac equation",
+    "confidence": [
+      [
+        "Dir",
+        -0.027273681
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " equation",
+        -0.25239348
+      ]
+    ]
+  },
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve total probability, and a \"sea\" named for this physicist refers to a description of the vacuum. He took the square root of the wave operator by giving each spatial derivative, as well as the time derivative, coefficients that he found to be (*) four-by-four matrices; those matrices define his namesake algebra and underlie one of his most prominent contributions, a wave equation consistent with": {
+    "guess": "Dirac equation",
+    "confidence": [
+      [
+        "Dir",
+        -0.024565995
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " equation",
+        -0.012204221
+      ]
+    ]
+  },
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve total probability, and a \"sea\" named for this physicist refers to a description of the vacuum. He took the square root of the wave operator by giving each spatial derivative, as well as the time derivative, coefficients that he found to be (*) four-by-four matrices; those matrices define his namesake algebra and underlie one of his most prominent contributions, a wave equation consistent with special relativity that describes the behavior of fermions. For 10 points, name this pyhsicist who": {
+    "guess": "Dirac",
+    "confidence": [
+      [
+        "Dir",
+        -0.16584836
+      ],
+      [
+        "ac",
+        0.0
+      ]
+    ]
+  },
+  "Oskar Klein discovered that applying his equation to scattering with an electric potential did not conserve total probability, and a \"sea\" named for this physicist refers to a description of the vacuum. He took the square root of the wave operator by giving each spatial derivative, as well as the time derivative, coefficients that he found to be (*) four-by-four matrices; those matrices define his namesake algebra and underlie one of his most prominent contributions, a wave equation consistent with special relativity that describes the behavior of fermions. For 10 points, name this pyhsicist who predicted the existence of antimatter.": {
+    "guess": "Dirac equation",
+    "confidence": [
+      [
+        "Dir",
+        -0.1179855
+      ],
+      [
+        "ac",
+        -1.9361265e-07
+      ],
+      [
+        " equation",
+        -0.02780635
+      ]
+    ]
+  }
+}

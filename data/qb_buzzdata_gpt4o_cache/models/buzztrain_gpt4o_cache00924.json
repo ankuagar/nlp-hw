@@ -1,0 +1,85 @@
+{
+  "The CKM matrix explains several reactions mediated by this interaction, which Cronin and Fitch showed": {
+    "guess": "Weak interaction",
+    "confidence": [
+      [
+        "Weak",
+        -0.18125746
+      ],
+      [
+        " interaction",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "The CKM matrix explains several reactions mediated by this interaction, which Cronin and Fitch showed violates CP symmetry and which Glashow, Salam, and Weinberg showed emerged from the breaking of an": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5158752
+      ]
+    ]
+  },
+  "The CKM matrix explains several reactions mediated by this interaction, which Cronin and Fitch showed violates CP symmetry and which Glashow, Salam, and Weinberg showed emerged from the breaking of an SU(2) x U(1) gauge symmetry. Madame Wu's experiment that demonstrated parity violation relied on a (*)": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.68382263
+      ]
+    ]
+  },
+  "The CKM matrix explains several reactions mediated by this interaction, which Cronin and Fitch showed violates CP symmetry and which Glashow, Salam, and Weinberg showed emerged from the breaking of an SU(2) x U(1) gauge symmetry. Madame Wu's experiment that demonstrated parity violation relied on a (*) pion decay mediated by this force, and this force governs the conversion of an up quark into a superposition": {
+    "guess": "Weak interaction",
+    "confidence": [
+      [
+        "Weak",
+        -0.006745805
+      ],
+      [
+        " interaction",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "The CKM matrix explains several reactions mediated by this interaction, which Cronin and Fitch showed violates CP symmetry and which Glashow, Salam, and Weinberg showed emerged from the breaking of an SU(2) x U(1) gauge symmetry. Madame Wu's experiment that demonstrated parity violation relied on a (*) pion decay mediated by this force, and this force governs the conversion of an up quark into a superposition of down quarks. For 10 points, name this force essential to nuclear decays, mediated by": {
+    "guess": "Weak interaction",
+    "confidence": [
+      [
+        "Weak",
+        -0.0024868345
+      ],
+      [
+        " interaction",
+        -4.723352e-06
+      ]
+    ]
+  },
+  "The CKM matrix explains several reactions mediated by this interaction, which Cronin and Fitch showed violates CP symmetry and which Glashow, Salam, and Weinberg showed emerged from the breaking of an SU(2) x U(1) gauge symmetry. Madame Wu's experiment that demonstrated parity violation relied on a (*) pion decay mediated by this force, and this force governs the conversion of an up quark into a superposition of down quarks. For 10 points, name this force essential to nuclear decays, mediated by the W and Z bosons, which has much less influence over subatomic particles than the one mediated by": {
+    "guess": "Weak interaction",
+    "confidence": [
+      [
+        "Weak",
+        -0.049567547
+      ],
+      [
+        " interaction",
+        -8.418666e-06
+      ]
+    ]
+  },
+  "The CKM matrix explains several reactions mediated by this interaction, which Cronin and Fitch showed violates CP symmetry and which Glashow, Salam, and Weinberg showed emerged from the breaking of an SU(2) x U(1) gauge symmetry. Madame Wu's experiment that demonstrated parity violation relied on a (*) pion decay mediated by this force, and this force governs the conversion of an up quark into a superposition of down quarks. For 10 points, name this force essential to nuclear decays, mediated by the W and Z bosons, which has much less influence over subatomic particles than the one mediated by gluons, the strong force.": {
+    "guess": "Weak interaction",
+    "confidence": [
+      [
+        "Weak",
+        -0.00082737545
+      ],
+      [
+        " interaction",
+        -8.657073e-06
+      ]
+    ]
+  }
+}

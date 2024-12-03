@@ -1,0 +1,504 @@
+{
+  "It was co-discovered by its namesake and Robert Ochsenfeld in 1933. When tin crystlals were cooled below": {
+    "guess": "Meissner effect",
+    "confidence": [
+      [
+        "Me",
+        -0.0036291697
+      ],
+      [
+        "iss",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ],
+      [
+        " effect",
+        -0.0018591532
+      ]
+    ]
+  },
+  "It was co-discovered by its namesake and Robert Ochsenfeld in 1933. When tin crystlals were cooled below 3.72 Kelvin, the earth's magnetic field was expelled. A partial effect can be seen in some materials": {
+    "guess": "Meissner effect",
+    "confidence": [
+      [
+        "Me",
+        -0.004025565
+      ],
+      [
+        "iss",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ],
+      [
+        " effect",
+        -0.0001440651
+      ]
+    ]
+  },
+  "It was co-discovered by its namesake and Robert Ochsenfeld in 1933. When tin crystlals were cooled below 3.72 Kelvin, the earth's magnetic field was expelled. A partial effect can be seen in some materials like vanadium and niobium, called type II superconductors, while an external magnetic field can": {
+    "guess": "Meissner effect",
+    "confidence": [
+      [
+        "Me",
+        -0.014735481
+      ],
+      [
+        "iss",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ],
+      [
+        " effect",
+        -1.1517961e-05
+      ]
+    ]
+  },
+  "It was co-discovered by its namesake and Robert Ochsenfeld in 1933. When tin crystlals were cooled below 3.72 Kelvin, the earth's magnetic field was expelled. A partial effect can be seen in some materials like vanadium and niobium, called type II superconductors, while an external magnetic field can be made so strong that the effect does not occur. FTP, name this effect, the falling off of the magnetic": {
+    "guess": "Meissner effect",
+    "confidence": [
+      [
+        "Me",
+        -0.00089526287
+      ],
+      [
+        "iss",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ],
+      [
+        " effect",
+        -0.012869123
+      ]
+    ]
+  },
+  "It was co-discovered by its namesake and Robert Ochsenfeld in 1933. When tin crystlals were cooled below 3.72 Kelvin, the earth's magnetic field was expelled. A partial effect can be seen in some materials like vanadium and niobium, called type II superconductors, while an external magnetic field can be made so strong that the effect does not occur. FTP, name this effect, the falling off of the magnetic flux within a superconductor when it is cooled below a critical temperature in a magnetic field.": {
+    "guess": "Meissner effect",
+    "confidence": [
+      [
+        "Me",
+        -0.026456352
+      ],
+      [
+        "iss",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ],
+      [
+        " effect",
+        -9.968313e-06
+      ]
+    ]
+  },
+  "The coelomic (SEE-loh-mihk) sac, found in the coxal glands of crustaceans, is analogous to this microscopic": {
+    "guess": "Nephron",
+    "confidence": [
+      [
+        "Ne",
+        -0.48129758
+      ],
+      [
+        "ph",
+        -0.3132623
+      ],
+      [
+        "ron",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The coelomic (SEE-loh-mihk) sac, found in the coxal glands of crustaceans, is analogous to this microscopic structure in mammals. It has both vascular and urinary poles, and Bright's disease causes this": {
+    "guess": "Glomerulus",
+    "confidence": [
+      [
+        "Gl",
+        -0.0028764382
+      ],
+      [
+        "omer",
+        0.0
+      ],
+      [
+        "ulus",
+        0.0
+      ]
+    ]
+  },
+  "The coelomic (SEE-loh-mihk) sac, found in the coxal glands of crustaceans, is analogous to this microscopic structure in mammals. It has both vascular and urinary poles, and Bright's disease causes this structure to become blocked with crystals and epithelial cells. Ultrafiltering podocytes in this structure": {
+    "guess": "Glomerulus",
+    "confidence": [
+      [
+        "Gl",
+        -0.0024102542
+      ],
+      [
+        "omer",
+        0.0
+      ],
+      [
+        "ulus",
+        0.0
+      ]
+    ]
+  },
+  "The coelomic (SEE-loh-mihk) sac, found in the coxal glands of crustaceans, is analogous to this microscopic structure in mammals. It has both vascular and urinary poles, and Bright's disease causes this structure to become blocked with crystals and epithelial cells. Ultrafiltering podocytes in this structure can collect solutes smaller than eight nanometers, explaining the high concentration of salt": {
+    "guess": "Glomerulus",
+    "confidence": [
+      [
+        "Gl",
+        -0.00070099934
+      ],
+      [
+        "omer",
+        0.0
+      ],
+      [
+        "ulus",
+        0.0
+      ]
+    ]
+  },
+  "The coelomic (SEE-loh-mihk) sac, found in the coxal glands of crustaceans, is analogous to this microscopic structure in mammals. It has both vascular and urinary poles, and Bright's disease causes this structure to become blocked with crystals and epithelial cells. Ultrafiltering podocytes in this structure can collect solutes smaller than eight nanometers, explaining the high concentration of salt and sugar in its lumen. The proximal tubule links this structure to the loop of Henle and it forms": {
+    "guess": "Glomerulus",
+    "confidence": [
+      [
+        "Gl",
+        -0.009555148
+      ],
+      [
+        "omer",
+        0.0
+      ],
+      [
+        "ulus",
+        0.0
+      ]
+    ]
+  },
+  "The coelomic (SEE-loh-mihk) sac, found in the coxal glands of crustaceans, is analogous to this microscopic structure in mammals. It has both vascular and urinary poles, and Bright's disease causes this structure to become blocked with crystals and epithelial cells. Ultrafiltering podocytes in this structure can collect solutes smaller than eight nanometers, explaining the high concentration of salt and sugar in its lumen. The proximal tubule links this structure to the loop of Henle and it forms the renal corpuscle together with the structure it surrounds, the glomeru- lus. Named for a nineteenth-century": {
+    "guess": "Bowman's capsule",
+    "confidence": [
+      [
+        "Bow",
+        -0.003371154
+      ],
+      [
+        "man's",
+        -2.1531068e-05
+      ],
+      [
+        " capsule",
+        -5.5577775e-06
+      ]
+    ]
+  },
+  "The coelomic (SEE-loh-mihk) sac, found in the coxal glands of crustaceans, is analogous to this microscopic structure in mammals. It has both vascular and urinary poles, and Bright's disease causes this structure to become blocked with crystals and epithelial cells. Ultrafiltering podocytes in this structure can collect solutes smaller than eight nanometers, explaining the high concentration of salt and sugar in its lumen. The proximal tubule links this structure to the loop of Henle and it forms the renal corpuscle together with the structure it surrounds, the glomeru- lus. Named for a nineteenth-century anatomist, identify this cup-like component of the nephron that first collects the blood": {
+    "guess": "Bowman's capsule",
+    "confidence": [
+      [
+        "Bow",
+        -0.0008290443
+      ],
+      [
+        "man's",
+        -7.9418505e-06
+      ],
+      [
+        " capsule",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "The coelomic (SEE-loh-mihk) sac, found in the coxal glands of crustaceans, is analogous to this microscopic structure in mammals. It has both vascular and urinary poles, and Bright's disease causes this structure to become blocked with crystals and epithelial cells. Ultrafiltering podocytes in this structure can collect solutes smaller than eight nanometers, explaining the high concentration of salt and sugar in its lumen. The proximal tubule links this structure to the loop of Henle and it forms the renal corpuscle together with the structure it surrounds, the glomeru- lus. Named for a nineteenth-century anatomist, identify this cup-like component of the nephron that first collects the blood filtrate during urine production.": {
+    "guess": "Bowman's capsule",
+    "confidence": [
+      [
+        "Bow",
+        -0.00044389718
+      ],
+      [
+        "man's",
+        -1.0206721e-05
+      ],
+      [
+        " capsule",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "Coelenterazine is oxidized to coelenteramide and a quantum of blue light is released when the three ": {
+    "guess": "Aequorin",
+    "confidence": [
+      [
+        "A",
+        -0.22572105
+      ],
+      [
+        "equ",
+        -4.465658e-05
+      ],
+      [
+        "orin",
+        -1.92662e-05
+      ]
+    ]
+  },
+  "Coelenterazine is oxidized to coelenteramide and a quantum of blue light is released when the three  sites of this motif are bound in aequorin. Proteins like sorcin, ALG-2, and peflin are notable for having": {
+    "guess": "EF-hand motif",
+    "confidence": [
+      [
+        "EF",
+        -0.008533489
+      ],
+      [
+        "-hand",
+        -0.0144113535
+      ],
+      [
+        " motif",
+        -0.0036528143
+      ]
+    ]
+  },
+  "Coelenterazine is oxidized to coelenteramide and a quantum of blue light is released when the three  sites of this motif are bound in aequorin. Proteins like sorcin, ALG-2, and peflin are notable for having five of these motifs. Two of these motifs characterize a family of proteins named for their solubility": {
+    "guess": "EF-hand motif",
+    "confidence": [
+      [
+        "EF",
+        -0.0061411383
+      ],
+      [
+        "-hand",
+        -0.01861119
+      ],
+      [
+        " motif",
+        -0.02159499
+      ]
+    ]
+  },
+  "Coelenterazine is oxidized to coelenteramide and a quantum of blue light is released when the three  sites of this motif are bound in aequorin. Proteins like sorcin, ALG-2, and peflin are notable for having five of these motifs. Two of these motifs characterize a family of proteins named for their solubility in a 100%  saturated solution of ammonium sulfate, the S100 subfamily. The amino acid at position": {
+    "guess": "EF-hand motif",
+    "confidence": [
+      [
+        "EF",
+        -0.04422164
+      ],
+      [
+        "-hand",
+        -0.100570895
+      ],
+      [
+        " motif",
+        -0.012251212
+      ]
+    ]
+  },
+  "Coelenterazine is oxidized to coelenteramide and a quantum of blue light is released when the three  sites of this motif are bound in aequorin. Proteins like sorcin, ALG-2, and peflin are notable for having five of these motifs. Two of these motifs characterize a family of proteins named for their solubility in a 100%  saturated solution of ammonium sulfate, the S100 subfamily. The amino acid at position 12 in this motif,  denoted with a hyphen Z, must provide two oxygens for a bidentate ligand,": {
+    "guess": "EF-hand motif",
+    "confidence": [
+      [
+        "EF",
+        -0.0015216453
+      ],
+      [
+        "-hand",
+        -0.0072059594
+      ],
+      [
+        " motif",
+        -0.00504281
+      ]
+    ]
+  },
+  "Coelenterazine is oxidized to coelenteramide and a quantum of blue light is released when the three  sites of this motif are bound in aequorin. Proteins like sorcin, ALG-2, and peflin are notable for having five of these motifs. Two of these motifs characterize a family of proteins named for their solubility in a 100%  saturated solution of ammonium sulfate, the S100 subfamily. The amino acid at position 12 in this motif,  denoted with a hyphen Z, must provide two oxygens for a bidentate ligand, so that residue is almost  always glutamate, although it can be aspartate in parvalbumin. This motif": {
+    "guess": "EF-hand motif",
+    "confidence": [
+      [
+        "EF",
+        -0.0013103596
+      ],
+      [
+        "-hand",
+        -0.0056685256
+      ],
+      [
+        " motif",
+        -0.028366761
+      ]
+    ]
+  },
+  "Coelenterazine is oxidized to coelenteramide and a quantum of blue light is released when the three  sites of this motif are bound in aequorin. Proteins like sorcin, ALG-2, and peflin are notable for having five of these motifs. Two of these motifs characterize a family of proteins named for their solubility in a 100%  saturated solution of ammonium sulfate, the S100 subfamily. The amino acid at position 12 in this motif,  denoted with a hyphen Z, must provide two oxygens for a bidentate ligand, so that residue is almost  always glutamate, although it can be aspartate in parvalbumin. This motif has a high affinity for  strontium since strontium is chemical y similar to the ion it binds, and it": {
+    "guess": "EF-hand motif",
+    "confidence": [
+      [
+        "EF",
+        -0.0048183766
+      ],
+      [
+        "-hand",
+        -0.023337603
+      ],
+      [
+        " motif",
+        -0.017875154
+      ]
+    ]
+  },
+  "Coelenterazine is oxidized to coelenteramide and a quantum of blue light is released when the three  sites of this motif are bound in aequorin. Proteins like sorcin, ALG-2, and peflin are notable for having five of these motifs. Two of these motifs characterize a family of proteins named for their solubility in a 100%  saturated solution of ammonium sulfate, the S100 subfamily. The amino acid at position 12 in this motif,  denoted with a hyphen Z, must provide two oxygens for a bidentate ligand, so that residue is almost  always glutamate, although it can be aspartate in parvalbumin. This motif has a high affinity for  strontium since strontium is chemical y similar to the ion it binds, and it is found in such prominent  proteins as troponin C and calmodulin. For 10 points, identify this most": {
+    "guess": "EF-hand motif",
+    "confidence": [
+      [
+        "EF",
+        -0.0005207432
+      ],
+      [
+        "-hand",
+        -0.0070165717
+      ],
+      [
+        " motif",
+        -0.00967216
+      ]
+    ]
+  },
+  "Coelenterazine is oxidized to coelenteramide and a quantum of blue light is released when the three  sites of this motif are bound in aequorin. Proteins like sorcin, ALG-2, and peflin are notable for having five of these motifs. Two of these motifs characterize a family of proteins named for their solubility in a 100%  saturated solution of ammonium sulfate, the S100 subfamily. The amino acid at position 12 in this motif,  denoted with a hyphen Z, must provide two oxygens for a bidentate ligand, so that residue is almost  always glutamate, although it can be aspartate in parvalbumin. This motif has a high affinity for  strontium since strontium is chemical y similar to the ion it binds, and it is found in such prominent  proteins as troponin C and calmodulin. For 10 points, identify this most common calcium-binding motif  in proteins that is named for being the third helix-loop-helix domain": {
+    "guess": "EF hand",
+    "confidence": [
+      [
+        "EF",
+        -0.0001008015
+      ],
+      [
+        " hand",
+        -0.024476191
+      ]
+    ]
+  },
+  "Coelenterazine is oxidized to coelenteramide and a quantum of blue light is released when the three  sites of this motif are bound in aequorin. Proteins like sorcin, ALG-2, and peflin are notable for having five of these motifs. Two of these motifs characterize a family of proteins named for their solubility in a 100%  saturated solution of ammonium sulfate, the S100 subfamily. The amino acid at position 12 in this motif,  denoted with a hyphen Z, must provide two oxygens for a bidentate ligand, so that residue is almost  always glutamate, although it can be aspartate in parvalbumin. This motif has a high affinity for  strontium since strontium is chemical y similar to the ion it binds, and it is found in such prominent  proteins as troponin C and calmodulin. For 10 points, identify this most common calcium-binding motif  in proteins that is named for being the third helix-loop-helix domain in parvalbumin after the AB and CD  domains.": {
+    "guess": "EF-hand motif",
+    "confidence": [
+      [
+        "EF",
+        -0.0003706126
+      ],
+      [
+        "-hand",
+        -0.004288404
+      ],
+      [
+        " motif",
+        -0.039063368
+      ]
+    ]
+  },
+  "A coefficient associated with this force is equal to one when stagnation pressure builds up over an entire": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8926574
+      ]
+    ]
+  },
+  "A coefficient associated with this force is equal to one when stagnation pressure builds up over an entire surface. Potential flow solutions to the Euler equation indicate that this force should be zero": {
+    "guess": "Dr\u00e1g",
+    "confidence": [
+      [
+        "Dr",
+        -0.74080735
+      ],
+      [
+        "\u00e1g",
+        -1.4140442e-05
+      ]
+    ]
+  },
+  "A coefficient associated with this force is equal to one when stagnation pressure builds up over an entire surface. Potential flow solutions to the Euler equation indicate that this force should be zero in direct opposition to observation in a paradox named after Jean d'Alembert. The power needed to": {
+    "guess": "Drag",
+    "confidence": [
+      [
+        "Drag",
+        -0.6203498
+      ]
+    ]
+  },
+  "A coefficient associated with this force is equal to one when stagnation pressure builds up over an entire surface. Potential flow solutions to the Euler equation indicate that this force should be zero in direct opposition to observation in a paradox named after Jean d'Alembert. The power needed to overcome this force is proportional to the third power of velocity and at very low Reynolds numbers,": {
+    "guess": "Drag",
+    "confidence": [
+      [
+        "Drag",
+        -0.37867063
+      ]
+    ]
+  },
+  "A coefficient associated with this force is equal to one when stagnation pressure builds up over an entire surface. Potential flow solutions to the Euler equation indicate that this force should be zero in direct opposition to observation in a paradox named after Jean d'Alembert. The power needed to overcome this force is proportional to the third power of velocity and at very low Reynolds numbers, this force for spherical objects is proportional to the fluid velocity, according to Stokes' Law. This": {
+    "guess": "Drag coefficient",
+    "confidence": [
+      [
+        "Drag",
+        -0.27866888
+      ],
+      [
+        " coefficient",
+        -0.3532889
+      ]
+    ]
+  },
+  "A coefficient associated with this force is equal to one when stagnation pressure builds up over an entire surface. Potential flow solutions to the Euler equation indicate that this force should be zero in direct opposition to observation in a paradox named after Jean d'Alembert. The power needed to overcome this force is proportional to the third power of velocity and at very low Reynolds numbers, this force for spherical objects is proportional to the fluid velocity, according to Stokes' Law. This force leads to an object reaching terminal velocity and counteracts thrust. For 10 points, name": {
+    "guess": "Drag (physics)",
+    "confidence": [
+      [
+        "Drag",
+        -0.0004176834
+      ],
+      [
+        " (",
+        -0.000121542944
+      ],
+      [
+        "physics",
+        -6.849731e-05
+      ],
+      [
+        ")",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "A coefficient associated with this force is equal to one when stagnation pressure builds up over an entire surface. Potential flow solutions to the Euler equation indicate that this force should be zero in direct opposition to observation in a paradox named after Jean d'Alembert. The power needed to overcome this force is proportional to the third power of velocity and at very low Reynolds numbers, this force for spherical objects is proportional to the fluid velocity, according to Stokes' Law. This force leads to an object reaching terminal velocity and counteracts thrust. For 10 points, name this force which opposes an object's motion through fluid, including air.": {
+    "guess": "Drag (physics)",
+    "confidence": [
+      [
+        "Drag",
+        -0.0005052541
+      ],
+      [
+        " (",
+        -0.0005811501
+      ],
+      [
+        "physics",
+        -6.7901296e-05
+      ],
+      [
+        ")",
+        -1.7432603e-06
+      ]
+    ]
+  }
+}

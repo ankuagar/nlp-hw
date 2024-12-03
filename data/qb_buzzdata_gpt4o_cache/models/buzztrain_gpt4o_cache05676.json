@@ -1,0 +1,141 @@
+{
+  "Otto Stern proposed a slipping plane in these systems, at which ions with non-negligible volume adsorb": {
+    "guess": "Electrical double layer",
+    "confidence": [
+      [
+        "Electrical",
+        -0.33011088
+      ],
+      [
+        " double",
+        -5.8484206e-05
+      ],
+      [
+        " layer",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "Otto Stern proposed a slipping plane in these systems, at which ions with non-negligible volume adsorb to a surface, modifying the Helmholtz and Gouy-Chapman models. These systems are stabilized through": {
+    "guess": "Electric double layer",
+    "confidence": [
+      [
+        "Electric",
+        -0.38904184
+      ],
+      [
+        " double",
+        -0.0017035098
+      ],
+      [
+        " layer",
+        -3.392825e-05
+      ]
+    ]
+  },
+  "Otto Stern proposed a slipping plane in these systems, at which ions with non-negligible volume adsorb to a surface, modifying the Helmholtz and Gouy-Chapman models. These systems are stabilized through the addition of a salt, called peptization. Because these materials effectively scatter light with": {
+    "guess": "Colloid",
+    "confidence": [
+      [
+        "Col",
+        -0.20793861
+      ],
+      [
+        "loid",
+        -0.00055303273
+      ]
+    ]
+  },
+  "Otto Stern proposed a slipping plane in these systems, at which ions with non-negligible volume adsorb to a surface, modifying the Helmholtz and Gouy-Chapman models. These systems are stabilized through the addition of a salt, called peptization. Because these materials effectively scatter light with low wavelengths, they often appear blue when light is shined through them in the Tyndall effect. Flocculation": {
+    "guess": "Colloid",
+    "confidence": [
+      [
+        "Col",
+        -0.45967507
+      ],
+      [
+        "loid",
+        -0.00020354039
+      ]
+    ]
+  },
+  "Otto Stern proposed a slipping plane in these systems, at which ions with non-negligible volume adsorb to a surface, modifying the Helmholtz and Gouy-Chapman models. These systems are stabilized through the addition of a salt, called peptization. Because these materials effectively scatter light with low wavelengths, they often appear blue when light is shined through them in the Tyndall effect. Flocculation disrupts these systems, which are defined to be dispersions with particle diameter between": {
+    "guess": "Colloid",
+    "confidence": [
+      [
+        "Col",
+        -0.008733469
+      ],
+      [
+        "loid",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "Otto Stern proposed a slipping plane in these systems, at which ions with non-negligible volume adsorb to a surface, modifying the Helmholtz and Gouy-Chapman models. These systems are stabilized through the addition of a salt, called peptization. Because these materials effectively scatter light with low wavelengths, they often appear blue when light is shined through them in the Tyndall effect. Flocculation disrupts these systems, which are defined to be dispersions with particle diameter between a nanometer and a micrometer. For 10 points, name these systems of in which one substance is dispersed": {
+    "guess": "Colloid",
+    "confidence": [
+      [
+        "Col",
+        -0.0036196702
+      ],
+      [
+        "loid",
+        -9.615256e-05
+      ]
+    ]
+  },
+  "Otto Stern proposed a slipping plane in these systems, at which ions with non-negligible volume adsorb to a surface, modifying the Helmholtz and Gouy-Chapman models. These systems are stabilized through the addition of a salt, called peptization. Because these materials effectively scatter light with low wavelengths, they often appear blue when light is shined through them in the Tyndall effect. Flocculation disrupts these systems, which are defined to be dispersions with particle diameter between a nanometer and a micrometer. For 10 points, name these systems of in which one substance is dispersed throughout another, exemplified by foams, emulsions, and aerosols.": {
+    "guess": "Colloid",
+    "confidence": [
+      [
+        "Col",
+        -0.0003387999
+      ],
+      [
+        "loid",
+        -0.00012344286
+      ]
+    ]
+  },
+  "Otus and Ephialtes were immune from any weapons thrown at them by the gods, and were finally killed when": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.6276329
+      ],
+      [
+        ".",
+        -0.5759507
+      ]
+    ]
+  },
+  "Otus and Ephialtes were immune from any weapons thrown at them by the gods, and were finally killed when this god caused a stag to run between them and they shot each other aiming for it. For a final five": {
+    "guess": "Apollo",
+    "confidence": [
+      [
+        "Apollo",
+        -0.23549567
+      ]
+    ]
+  },
+  "Otus and Ephialtes were immune from any weapons thrown at them by the gods, and were finally killed when this god caused a stag to run between them and they shot each other aiming for it. For a final five points name this god, who devised the stratagem in retaliation for the attempted rape of his sister": {
+    "guess": "Apollo",
+    "confidence": [
+      [
+        "Apollo",
+        -0.0638504
+      ]
+    ]
+  },
+  "Otus and Ephialtes were immune from any weapons thrown at them by the gods, and were finally killed when this god caused a stag to run between them and they shot each other aiming for it. For a final five points name this god, who devised the stratagem in retaliation for the attempted rape of his sister Artemis.": {
+    "guess": "Apollo",
+    "confidence": [
+      [
+        "Apollo",
+        -0.00021331508
+      ]
+    ]
+  }
+}

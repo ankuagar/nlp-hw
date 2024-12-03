@@ -1,0 +1,114 @@
+{
+  "The vibrational bands of pyrene fluorescence in different environments is a common tool for studying": {
+    "guess": "Lipid bilayer",
+    "confidence": [
+      [
+        "L",
+        -0.3474554
+      ],
+      [
+        "ipid",
+        -0.0002515648
+      ],
+      [
+        " bil",
+        -0.001370119
+      ],
+      [
+        "ayer",
+        -0.008614569
+      ]
+    ]
+  },
+  "The vibrational bands of pyrene fluorescence in different environments is a common tool for studying these structures. The log of the critical concentration of these structures is related to the number": {
+    "guess": "Micelles",
+    "confidence": [
+      [
+        "Mic",
+        -0.00030495704
+      ],
+      [
+        "elles",
+        -0.029752687
+      ]
+    ]
+  },
+  "The vibrational bands of pyrene fluorescence in different environments is a common tool for studying these structures. The log of the critical concentration of these structures is related to the number of methylene monomers in an equation named for Stauff and Klevens; that point occurs when the surface": {
+    "guess": "Micelle",
+    "confidence": [
+      [
+        "Mic",
+        -0.0017276569
+      ],
+      [
+        "elle",
+        -0.001038168
+      ]
+    ]
+  },
+  "The vibrational bands of pyrene fluorescence in different environments is a common tool for studying these structures. The log of the critical concentration of these structures is related to the number of methylene monomers in an equation named for Stauff and Klevens; that point occurs when the surface of a fluid is completely covered so that any additional chemical must form these structures. These": {
+    "guess": "Micelles",
+    "confidence": [
+      [
+        "Mic",
+        -9.0907604e-05
+      ],
+      [
+        "elles",
+        -0.10020753
+      ]
+    ]
+  },
+  "The vibrational bands of pyrene fluorescence in different environments is a common tool for studying these structures. The log of the critical concentration of these structures is related to the number of methylene monomers in an equation named for Stauff and Klevens; that point occurs when the surface of a fluid is completely covered so that any additional chemical must form these structures. These structures cannot form below the Krafft temperature. Cholic acid promotes the formation of these structures": {
+    "guess": "Micelles",
+    "confidence": [
+      [
+        "Mic",
+        -5.8722613e-05
+      ],
+      [
+        "elles",
+        -0.07889199
+      ]
+    ]
+  },
+  "The vibrational bands of pyrene fluorescence in different environments is a common tool for studying these structures. The log of the critical concentration of these structures is related to the number of methylene monomers in an equation named for Stauff and Klevens; that point occurs when the surface of a fluid is completely covered so that any additional chemical must form these structures. These structures cannot form below the Krafft temperature. Cholic acid promotes the formation of these structures necessary for emulsifying lipids, while inorganic examples of these structures commonly consist": {
+    "guess": "Micelles",
+    "confidence": [
+      [
+        "Mic",
+        -4.9424725e-05
+      ],
+      [
+        "elles",
+        -0.06196892
+      ]
+    ]
+  },
+  "The vibrational bands of pyrene fluorescence in different environments is a common tool for studying these structures. The log of the critical concentration of these structures is related to the number of methylene monomers in an equation named for Stauff and Klevens; that point occurs when the surface of a fluid is completely covered so that any additional chemical must form these structures. These structures cannot form below the Krafft temperature. Cholic acid promotes the formation of these structures necessary for emulsifying lipids, while inorganic examples of these structures commonly consist of sulfobetaines and zwitterions. FTP, name these structures whose formation is driven by hydrophobicity,": {
+    "guess": "Micelles",
+    "confidence": [
+      [
+        "Mic",
+        -9.472212e-05
+      ],
+      [
+        "elles",
+        -0.011047815
+      ]
+    ]
+  },
+  "The vibrational bands of pyrene fluorescence in different environments is a common tool for studying these structures. The log of the critical concentration of these structures is related to the number of methylene monomers in an equation named for Stauff and Klevens; that point occurs when the surface of a fluid is completely covered so that any additional chemical must form these structures. These structures cannot form below the Krafft temperature. Cholic acid promotes the formation of these structures necessary for emulsifying lipids, while inorganic examples of these structures commonly consist of sulfobetaines and zwitterions. FTP, name these structures whose formation is driven by hydrophobicity, collections of surfactants with a hydrophilic exterior and hydrophobic interior.": {
+    "guess": "Micelles",
+    "confidence": [
+      [
+        "Mic",
+        -2.1650272e-05
+      ],
+      [
+        "elles",
+        -0.038041495
+      ]
+    ]
+  }
+}

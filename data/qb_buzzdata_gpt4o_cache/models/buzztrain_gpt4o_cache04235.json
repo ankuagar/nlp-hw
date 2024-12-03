@@ -1,0 +1,89 @@
+{
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0425658
+      ]
+    ]
+  },
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley Type lead-zinc and Stratiform copper deposits, and another economically important variety hosts": {
+    "guess": "Sandstone",
+    "confidence": [
+      [
+        "Sand",
+        -0.031433888
+      ],
+      [
+        "stone",
+        -0.00043078844
+      ]
+    ]
+  },
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley Type lead-zinc and Stratiform copper deposits, and another economically important variety hosts roll-front uranium-vanadium deposits. Rapid deposition in turbidity currents produces its graywacke": {
+    "guess": "Sandstone",
+    "confidence": [
+      [
+        "Sand",
+        -0.011030257
+      ],
+      [
+        "stone",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley Type lead-zinc and Stratiform copper deposits, and another economically important variety hosts roll-front uranium-vanadium deposits. Rapid deposition in turbidity currents produces its graywacke (GRAY- wacky) variety, while disintegration of granite without appreciable chemical weathering produces": {
+    "guess": "Sandstone",
+    "confidence": [
+      [
+        "Sand",
+        -0.0015441418
+      ],
+      [
+        "stone",
+        -7.9418505e-06
+      ]
+    ]
+  },
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley Type lead-zinc and Stratiform copper deposits, and another economically important variety hosts roll-front uranium-vanadium deposits. Rapid deposition in turbidity currents produces its graywacke (GRAY- wacky) variety, while disintegration of granite without appreciable chemical weathering produces the feldspar-rich type, arkose. Cross-bedding and rippling are two common formations in this rock": {
+    "guess": "Sandstone",
+    "confidence": [
+      [
+        "Sand",
+        -9.6867785e-05
+      ],
+      [
+        "stone",
+        0.0
+      ]
+    ]
+  },
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley Type lead-zinc and Stratiform copper deposits, and another economically important variety hosts roll-front uranium-vanadium deposits. Rapid deposition in turbidity currents produces its graywacke (GRAY- wacky) variety, while disintegration of granite without appreciable chemical weathering produces the feldspar-rich type, arkose. Cross-bedding and rippling are two common formations in this rock type whose textural groups are the wackes (WACK-eez) and arenites. For ten points, name this sedimentary": {
+    "guess": "Sandstone",
+    "confidence": [
+      [
+        "Sand",
+        -0.00055660884
+      ],
+      [
+        "stone",
+        0.0
+      ]
+    ]
+  },
+  "Laisvall type deposits hosted by this lithology serve as an evolutionary link between Mississippi Valley Type lead-zinc and Stratiform copper deposits, and another economically important variety hosts roll-front uranium-vanadium deposits. Rapid deposition in turbidity currents produces its graywacke (GRAY- wacky) variety, while disintegration of granite without appreciable chemical weathering produces the feldspar-rich type, arkose. Cross-bedding and rippling are two common formations in this rock type whose textural groups are the wackes (WACK-eez) and arenites. For ten points, name this sedimentary rock second in abundance to shale, which can form by lithification of dunes.": {
+    "guess": "Sandstone",
+    "confidence": [
+      [
+        "Sand",
+        -8.3993786e-05
+      ],
+      [
+        "stone",
+        0.0
+      ]
+    ]
+  }
+}

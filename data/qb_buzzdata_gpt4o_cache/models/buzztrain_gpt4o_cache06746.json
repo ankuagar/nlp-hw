@@ -1,0 +1,1244 @@
+{
+  "Rodriguez-Rivera et al created one algorithm for doing this for Geodesic's Great Circle which is both": {
+    "guess": "Shortest path problem",
+    "confidence": [
+      [
+        "Shortest",
+        -1.1311647
+      ],
+      [
+        " path",
+        -0.0017044598
+      ],
+      [
+        " problem",
+        -0.00016480287
+      ]
+    ]
+  },
+  "Rodriguez-Rivera et al created one algorithm for doing this for Geodesic's Great Circle which is both non-moving and reduces fragmentation. Another method for doing this portions off half of the target": {
+    "guess": "Garbage collection",
+    "confidence": [
+      [
+        "Gar",
+        -0.010080695
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -7.600714e-05
+      ]
+    ]
+  },
+  "Rodriguez-Rivera et al created one algorithm for doing this for Geodesic's Great Circle which is both non-moving and reduces fragmentation. Another method for doing this portions off half of the target at any one time and is known as Cheney's Algorithm. The generational type of this process relies on": {
+    "guess": "Garbage collection (computer science)",
+    "confidence": [
+      [
+        "Gar",
+        -0.013977201
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -0.02976044
+      ],
+      [
+        " (",
+        -0.005296958
+      ],
+      [
+        "computer",
+        -0.000101874335
+      ],
+      [
+        " science",
+        -1.9862217e-05
+      ],
+      [
+        ")",
+        -0.00014168103
+      ]
+    ]
+  },
+  "Rodriguez-Rivera et al created one algorithm for doing this for Geodesic's Great Circle which is both non-moving and reduces fragmentation. Another method for doing this portions off half of the target at any one time and is known as Cheney's Algorithm. The generational type of this process relies on the infant mortality principle to focus on recently created objects. Incremental forms of this process have": {
+    "guess": "Garbage collection (computer science)",
+    "confidence": [
+      [
+        "Gar",
+        -0.0033445405
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -0.004082078
+      ],
+      [
+        " (",
+        -0.00095302897
+      ],
+      [
+        "computer",
+        -0.00010664248
+      ],
+      [
+        " science",
+        -6.0345924e-06
+      ],
+      [
+        ")",
+        -2.9875326e-05
+      ]
+    ]
+  },
+  "Rodriguez-Rivera et al created one algorithm for doing this for Geodesic's Great Circle which is both non-moving and reduces fragmentation. Another method for doing this portions off half of the target at any one time and is known as Cheney's Algorithm. The generational type of this process relies on the infant mortality principle to focus on recently created objects. Incremental forms of this process have fewer performance repercussions than stop-the-world techniques, and several implementations": {
+    "guess": "Garbage collection (computer science)",
+    "confidence": [
+      [
+        "Gar",
+        -0.02394989
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -0.0067161983
+      ],
+      [
+        " (",
+        -1.4259645e-05
+      ],
+      [
+        "computer",
+        -0.00010151673
+      ],
+      [
+        " science",
+        -1.8789384e-05
+      ],
+      [
+        ")",
+        -1.2113979e-05
+      ]
+    ]
+  },
+  "Rodriguez-Rivera et al created one algorithm for doing this for Geodesic's Great Circle which is both non-moving and reduces fragmentation. Another method for doing this portions off half of the target at any one time and is known as Cheney's Algorithm. The generational type of this process relies on the infant mortality principle to focus on recently created objects. Incremental forms of this process have fewer performance repercussions than stop-the-world techniques, and several implementations use reference counting. A feature of managed languages, they help prevent bugs related to dangling": {
+    "guess": "Garbage collection (computer science)",
+    "confidence": [
+      [
+        "Gar",
+        -0.01459956
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -4.048445e-05
+      ],
+      [
+        " (",
+        0.0
+      ],
+      [
+        "computer",
+        -1.9361265e-07
+      ],
+      [
+        " science",
+        -2.9352968e-06
+      ],
+      [
+        ")",
+        -3.0545007e-06
+      ]
+    ]
+  },
+  "Rodriguez-Rivera et al created one algorithm for doing this for Geodesic's Great Circle which is both non-moving and reduces fragmentation. Another method for doing this portions off half of the target at any one time and is known as Cheney's Algorithm. The generational type of this process relies on the infant mortality principle to focus on recently created objects. Incremental forms of this process have fewer performance repercussions than stop-the-world techniques, and several implementations use reference counting. A feature of managed languages, they help prevent bugs related to dangling pointers and can be implemented with a mark-and-sweep algorithm. For 10 points, name this process in": {
+    "guess": "Garbage collection (computer science)",
+    "confidence": [
+      [
+        "Gar",
+        -0.02342634
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -1.4855664e-05
+      ],
+      [
+        " (",
+        0.0
+      ],
+      [
+        "computer",
+        0.0
+      ],
+      [
+        " science",
+        0.0
+      ],
+      [
+        ")",
+        -1.831257e-05
+      ]
+    ]
+  },
+  "Rodriguez-Rivera et al created one algorithm for doing this for Geodesic's Great Circle which is both non-moving and reduces fragmentation. Another method for doing this portions off half of the target at any one time and is known as Cheney's Algorithm. The generational type of this process relies on the infant mortality principle to focus on recently created objects. Incremental forms of this process have fewer performance repercussions than stop-the-world techniques, and several implementations use reference counting. A feature of managed languages, they help prevent bugs related to dangling pointers and can be implemented with a mark-and-sweep algorithm. For 10 points, name this process in computer science in which data no longer being used is reclaimed in memory.": {
+    "guess": "Garbage collection (computer science)",
+    "confidence": [
+      [
+        "Gar",
+        -0.0035164487
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -0.00014001218
+      ],
+      [
+        " (",
+        0.0
+      ],
+      [
+        "computer",
+        -1.9361265e-07
+      ],
+      [
+        " science",
+        0.0
+      ],
+      [
+        ")",
+        -1.1398757e-05
+      ]
+    ]
+  },
+  "Roderick Chisolm wrote about \"The Problem of\" this theory. A \"constructive\" form of it was developed": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.29931566
+      ]
+    ]
+  },
+  "Roderick Chisolm wrote about \"The Problem of\" this theory. A \"constructive\" form of it was developed by Bas van Fraassen. This theory is the first title concept of a work that describes a genius named": {
+    "guess": "The answer is: Knowledge and Its Limits",
+    "confidence": [
+      [
+        "The",
+        -1.1669738
+      ],
+      [
+        " answer",
+        -0.1833481
+      ],
+      [
+        " is",
+        -0.00037585758
+      ],
+      [
+        ":",
+        -0.131869
+      ],
+      [
+        " Knowledge",
+        -0.9110561
+      ],
+      [
+        " and",
+        -0.3080749
+      ],
+      [
+        " Its",
+        -0.19322675
+      ],
+      [
+        " Limits",
+        -0.00018935515
+      ]
+    ]
+  },
+  "Roderick Chisolm wrote about \"The Problem of\" this theory. A \"constructive\" form of it was developed by Bas van Fraassen. This theory is the first title concept of a work that describes a genius named Jones in a Neo-Rylean society and also discusses \"the myth of the given;\" that work pairs it with \"The": {
+    "guess": "The answer is: Empiricism",
+    "confidence": [
+      [
+        "The",
+        -1.0731243
+      ],
+      [
+        " answer",
+        -0.16726951
+      ],
+      [
+        " is",
+        -0.00034762095
+      ],
+      [
+        ":",
+        -0.0997423
+      ],
+      [
+        " Emp",
+        -0.60271156
+      ],
+      [
+        "ir",
+        -1.6762922e-05
+      ],
+      [
+        "icism",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Roderick Chisolm wrote about \"The Problem of\" this theory. A \"constructive\" form of it was developed by Bas van Fraassen. This theory is the first title concept of a work that describes a genius named Jones in a Neo-Rylean society and also discusses \"the myth of the given;\" that work pairs it with \"The Philosophy of Mind\" and was written by Wilfrid Sellars. The \"radical\" form of this theory is associated": {
+    "guess": "Empiricism",
+    "confidence": [
+      [
+        "Emp",
+        -0.9574864
+      ],
+      [
+        "ir",
+        0.0
+      ],
+      [
+        "icism",
+        0.0
+      ]
+    ]
+  },
+  "Roderick Chisolm wrote about \"The Problem of\" this theory. A \"constructive\" form of it was developed by Bas van Fraassen. This theory is the first title concept of a work that describes a genius named Jones in a Neo-Rylean society and also discusses \"the myth of the given;\" that work pairs it with \"The Philosophy of Mind\" and was written by Wilfrid Sellars. The \"radical\" form of this theory is associated with neutral monism, and appears in the late essays of William James. This philosophical school": {
+    "guess": "Scientific Realism",
+    "confidence": [
+      [
+        "Scientific",
+        -0.3491181
+      ],
+      [
+        " Real",
+        -0.12904945
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Roderick Chisolm wrote about \"The Problem of\" this theory. A \"constructive\" form of it was developed by Bas van Fraassen. This theory is the first title concept of a work that describes a genius named Jones in a Neo-Rylean society and also discusses \"the myth of the given;\" that work pairs it with \"The Philosophy of Mind\" and was written by Wilfrid Sellars. The \"radical\" form of this theory is associated with neutral monism, and appears in the late essays of William James. This philosophical school is associated with a work that discusses primary and secondary qualities and refutes Descartes' argument": {
+    "guess": "Scientific Realism",
+    "confidence": [
+      [
+        "Scientific",
+        -0.6032096
+      ],
+      [
+        " Real",
+        -0.055936813
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Roderick Chisolm wrote about \"The Problem of\" this theory. A \"constructive\" form of it was developed by Bas van Fraassen. This theory is the first title concept of a work that describes a genius named Jones in a Neo-Rylean society and also discusses \"the myth of the given;\" that work pairs it with \"The Philosophy of Mind\" and was written by Wilfrid Sellars. The \"radical\" form of this theory is associated with neutral monism, and appears in the late essays of William James. This philosophical school is associated with a work that discusses primary and secondary qualities and refutes Descartes' argument for innate ideas. For 10 points, name this epistemological position, which is supported by the": {
+    "guess": "Empiricism",
+    "confidence": [
+      [
+        "Emp",
+        -0.37091613
+      ],
+      [
+        "ir",
+        -1.9361265e-07
+      ],
+      [
+        "icism",
+        0.0
+      ]
+    ]
+  },
+  "Roderick Chisolm wrote about \"The Problem of\" this theory. A \"constructive\" form of it was developed by Bas van Fraassen. This theory is the first title concept of a work that describes a genius named Jones in a Neo-Rylean society and also discusses \"the myth of the given;\" that work pairs it with \"The Philosophy of Mind\" and was written by Wilfrid Sellars. The \"radical\" form of this theory is associated with neutral monism, and appears in the late essays of William James. This philosophical school is associated with a work that discusses primary and secondary qualities and refutes Descartes' argument for innate ideas. For 10 points, name this epistemological position, which is supported by the tabula rasa of John Locke, and which argues that all knowledge originates from experience.": {
+    "guess": "Empiricism",
+    "confidence": [
+      [
+        "Emp",
+        -0.013479718
+      ],
+      [
+        "ir",
+        0.0
+      ],
+      [
+        "icism",
+        0.0
+      ]
+    ]
+  },
+  "The Rodrigues formula and Hermite polynomials figure into the analytic method for finding the wavefunctions": {
+    "guess": "Quantum harmonic oscillator",
+    "confidence": [
+      [
+        "Quantum",
+        -0.42699775
+      ],
+      [
+        " harmonic",
+        -2.5107178e-05
+      ],
+      [
+        " oscillator",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Rodrigues formula and Hermite polynomials figure into the analytic method for finding the wavefunctions of these systems. The allowed energies for these systems can be calculated using the ladder operators.": {
+    "guess": "Harmonic oscillator",
+    "confidence": [
+      [
+        "H",
+        -0.0012697551
+      ],
+      [
+        "arm",
+        0.0
+      ],
+      [
+        "onic",
+        0.0
+      ],
+      [
+        " oscillator",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The Rodrigues formula and Hermite polynomials figure into the analytic method for finding the wavefunctions of these systems. The allowed energies for these systems can be calculated using the ladder operators. A quantity determining peakedness for energy graphs of these systems is the dimensionless": {
+    "guess": "Harmonic oscillator",
+    "confidence": [
+      [
+        "H",
+        -0.07244641
+      ],
+      [
+        "arm",
+        -5.5122365e-07
+      ],
+      [
+        "onic",
+        0.0
+      ],
+      [
+        " oscillator",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "The Rodrigues formula and Hermite polynomials figure into the analytic method for finding the wavefunctions of these systems. The allowed energies for these systems can be calculated using the ladder operators. A quantity determining peakedness for energy graphs of these systems is the dimensionless quality factor. Their behavior can be split into transient and steady-state motions when they are subjected": {
+    "guess": "Harmonic oscillator",
+    "confidence": [
+      [
+        "H",
+        -0.016872432
+      ],
+      [
+        "arm",
+        0.0
+      ],
+      [
+        "onic",
+        0.0
+      ],
+      [
+        " oscillator",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The Rodrigues formula and Hermite polynomials figure into the analytic method for finding the wavefunctions of these systems. The allowed energies for these systems can be calculated using the ladder operators. A quantity determining peakedness for energy graphs of these systems is the dimensionless quality factor. Their behavior can be split into transient and steady-state motions when they are subjected to a sinusoidal driving force and a simple damping force, and they exhibit resonance at certain": {
+    "guess": "Quantum harmonic oscillator",
+    "confidence": [
+      [
+        "Quantum",
+        -0.4743156
+      ],
+      [
+        " harmonic",
+        -0.00010914576
+      ],
+      [
+        " oscillator",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "The Rodrigues formula and Hermite polynomials figure into the analytic method for finding the wavefunctions of these systems. The allowed energies for these systems can be calculated using the ladder operators. A quantity determining peakedness for energy graphs of these systems is the dimensionless quality factor. Their behavior can be split into transient and steady-state motions when they are subjected to a sinusoidal driving force and a simple damping force, and they exhibit resonance at certain frequencies. For 10 points, name this kind of system whose periodic, sinusoidal motion is described": {
+    "guess": "Harmonic oscillator",
+    "confidence": [
+      [
+        "H",
+        -0.03174885
+      ],
+      [
+        "arm",
+        -1.9361265e-07
+      ],
+      [
+        "onic",
+        0.0
+      ],
+      [
+        " oscillator",
+        -4.2272506e-05
+      ]
+    ]
+  },
+  "The Rodrigues formula and Hermite polynomials figure into the analytic method for finding the wavefunctions of these systems. The allowed energies for these systems can be calculated using the ladder operators. A quantity determining peakedness for energy graphs of these systems is the dimensionless quality factor. Their behavior can be split into transient and steady-state motions when they are subjected to a sinusoidal driving force and a simple damping force, and they exhibit resonance at certain frequencies. For 10 points, name this kind of system whose periodic, sinusoidal motion is described by Hooke's law, examples of which include a mass on a spring and a simple pendulum.": {
+    "guess": "Harmonic oscillator",
+    "confidence": [
+      [
+        "H",
+        -0.040204443
+      ],
+      [
+        "arm",
+        0.0
+      ],
+      [
+        "onic",
+        0.0
+      ],
+      [
+        " oscillator",
+        -1.5570886e-05
+      ]
+    ]
+  },
+  "Rocks of this period from Bohemia were divided into eight stages by Joachim Barrande, and at the end": {
+    "guess": "Ordovician",
+    "confidence": [
+      [
+        "Ord",
+        -0.39356247
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        "ician",
+        0.0
+      ]
+    ]
+  },
+  "Rocks of this period from Bohemia were divided into eight stages by Joachim Barrande, and at the end of this period, populations of conodonts decreased during the Lau event. The sea level dropped worldwide": {
+    "guess": "Silurian",
+    "confidence": [
+      [
+        "Sil",
+        -5.574252e-05
+      ],
+      [
+        "ur",
+        -1.9361265e-07
+      ],
+      [
+        "ian",
+        0.0
+      ]
+    ]
+  },
+  "Rocks of this period from Bohemia were divided into eight stages by Joachim Barrande, and at the end of this period, populations of conodonts decreased during the Lau event. The sea level dropped worldwide during another minor extinction of this period, the Mulde event. Brachiopods and bryozoa were particularly": {
+    "guess": "Silurian",
+    "confidence": [
+      [
+        "Sil",
+        -5.705376e-05
+      ],
+      [
+        "ur",
+        -1.9361265e-07
+      ],
+      [
+        "ian",
+        0.0
+      ]
+    ]
+  },
+  "Rocks of this period from Bohemia were divided into eight stages by Joachim Barrande, and at the end of this period, populations of conodonts decreased during the Lau event. The sea level dropped worldwide during another minor extinction of this period, the Mulde event. Brachiopods and bryozoa were particularly devastated by the extinction event that closed the preceding period, the third largest ever.": {
+    "guess": "Silurian",
+    "confidence": [
+      [
+        "Sil",
+        -0.00061295554
+      ],
+      [
+        "ur",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ]
+    ]
+  },
+  "Rocks of this period from Bohemia were divided into eight stages by Joachim Barrande, and at the end of this period, populations of conodonts decreased during the Lau event. The sea level dropped worldwide during another minor extinction of this period, the Mulde event. Brachiopods and bryozoa were particularly devastated by the extinction event that closed the preceding period, the third largest ever. During this period, the first vascular land plants developed. It was marked by the appearance of": {
+    "guess": "Silurian",
+    "confidence": [
+      [
+        "Sil",
+        -0.0010834213
+      ],
+      [
+        "ur",
+        -1.9361265e-07
+      ],
+      [
+        "ian",
+        0.0
+      ]
+    ]
+  },
+  "Rocks of this period from Bohemia were divided into eight stages by Joachim Barrande, and at the end of this period, populations of conodonts decreased during the Lau event. The sea level dropped worldwide during another minor extinction of this period, the Mulde event. Brachiopods and bryozoa were particularly devastated by the extinction event that closed the preceding period, the third largest ever. During this period, the first vascular land plants developed. It was marked by the appearance of coral reefs, leeches, and the first land animals. For 10 points, name this geological time period": {
+    "guess": "Silurian",
+    "confidence": [
+      [
+        "Sil",
+        -5.6457742e-05
+      ],
+      [
+        "ur",
+        -1.9361265e-07
+      ],
+      [
+        "ian",
+        0.0
+      ]
+    ]
+  },
+  "Rocks of this period from Bohemia were divided into eight stages by Joachim Barrande, and at the end of this period, populations of conodonts decreased during the Lau event. The sea level dropped worldwide during another minor extinction of this period, the Mulde event. Brachiopods and bryozoa were particularly devastated by the extinction event that closed the preceding period, the third largest ever. During this period, the first vascular land plants developed. It was marked by the appearance of coral reefs, leeches, and the first land animals. For 10 points, name this geological time period bracketed by the Ordovician and the Devonian.": {
+    "guess": "Silurian",
+    "confidence": [
+      [
+        "Sil",
+        -0.00014120422
+      ],
+      [
+        "ur",
+        -3.1281633e-07
+      ],
+      [
+        "ian",
+        0.0
+      ]
+    ]
+  },
+  "This man rode around in a helicopter dubbed the \"Windmill\" in a senate campaign that he won by 87 votes,": {
+    "guess": "Lyndon B. Johnson Senate campaign, 1948",
+    "confidence": [
+      [
+        "L",
+        -0.17670326
+      ],
+      [
+        "ynd",
+        -0.0005174092
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        -1.2664457e-06
+      ],
+      [
+        ".",
+        -1.2664457e-06
+      ],
+      [
+        " Johnson",
+        0.0
+      ],
+      [
+        " Senate",
+        -0.718265
+      ],
+      [
+        " campaign",
+        -0.6961142
+      ],
+      [
+        ",",
+        -0.0045497464
+      ],
+      [
+        " ",
+        -4.3202e-07
+      ],
+      [
+        "194",
+        -1.9361265e-07
+      ],
+      [
+        "8",
+        -9.729906e-06
+      ]
+    ]
+  },
+  "This man rode around in a helicopter dubbed the \"Windmill\" in a senate campaign that he won by 87 votes, thus defeating Coke Stevenson and earning the ironic nickname \"Landslide.\" In the Senate, he perfected": {
+    "guess": "Lyndon B. Johnson",
+    "confidence": [
+      [
+        "L",
+        -0.21890968
+      ],
+      [
+        "ynd",
+        -0.023260504
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        -1.9361265e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "This man rode around in a helicopter dubbed the \"Windmill\" in a senate campaign that he won by 87 votes, thus defeating Coke Stevenson and earning the ironic nickname \"Landslide.\" In the Senate, he perfected a strategy of intimidation that involved standing uncomfortably close known as \"The Treatment.\"": {
+    "guess": "Lyndon B. Johnson",
+    "confidence": [
+      [
+        "L",
+        -0.111623764
+      ],
+      [
+        "ynd",
+        -9.014684e-06
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        -1.9361265e-07
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Johnson",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "This man rode around in a helicopter dubbed the \"Windmill\" in a senate campaign that he won by 87 votes, thus defeating Coke Stevenson and earning the ironic nickname \"Landslide.\" In the Senate, he perfected a strategy of intimidation that involved standing uncomfortably close known as \"The Treatment.\" As president, he signed a sweeping Civil Rights Act and pushed through Medicare and Medicaid as part": {
+    "guess": "Lyndon B. Johnson",
+    "confidence": [
+      [
+        "L",
+        -0.05479449
+      ],
+      [
+        "ynd",
+        -6.2729996e-06
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        -1.9361265e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "This man rode around in a helicopter dubbed the \"Windmill\" in a senate campaign that he won by 87 votes, thus defeating Coke Stevenson and earning the ironic nickname \"Landslide.\" In the Senate, he perfected a strategy of intimidation that involved standing uncomfortably close known as \"The Treatment.\" As president, he signed a sweeping Civil Rights Act and pushed through Medicare and Medicaid as part of his Great Society program. For 10 points, name this president who defeated Barry Goldwater in": {
+    "guess": "Lyndon B. Johnson",
+    "confidence": [
+      [
+        "L",
+        -0.13018268
+      ],
+      [
+        "ynd",
+        -0.00020354039
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        -4.3202e-07
+      ],
+      [
+        ".",
+        -1.147242e-06
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "This man rode around in a helicopter dubbed the \"Windmill\" in a senate campaign that he won by 87 votes, thus defeating Coke Stevenson and earning the ironic nickname \"Landslide.\" In the Senate, he perfected a strategy of intimidation that involved standing uncomfortably close known as \"The Treatment.\" As president, he signed a sweeping Civil Rights Act and pushed through Medicare and Medicaid as part of his Great Society program. For 10 points, name this president who defeated Barry Goldwater in the 1964 election and succeeded John F. Kennedy.": {
+    "guess": "Lyndon B. Johnson",
+    "confidence": [
+      [
+        "L",
+        -0.030207105
+      ],
+      [
+        "ynd",
+        -3.1281633e-07
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        -3.1281633e-07
+      ],
+      [
+        ".",
+        -4.3202e-07
+      ],
+      [
+        " Johnson",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A rock called dunite is composed almost entirely of it. The Norwegian variety is used both as foundry": {
+    "guess": "Olivine",
+    "confidence": [
+      [
+        "O",
+        -0.007856692
+      ],
+      [
+        "liv",
+        -7.89631e-07
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "A rock called dunite is composed almost entirely of it. The Norwegian variety is used both as foundry sand and as a flux for making steel, while it is found principally in ferromanganese igneous rocks,": {
+    "guess": "Olivine",
+    "confidence": [
+      [
+        "O",
+        -0.00035548472
+      ],
+      [
+        "liv",
+        -2.1008714e-06
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "A rock called dunite is composed almost entirely of it. The Norwegian variety is used both as foundry sand and as a flux for making steel, while it is found principally in ferromanganese igneous rocks, such as basalt, occurring in the lavas of Mount Vesuvius. For ten points, identify the magnesium and": {
+    "guess": "Olivine",
+    "confidence": [
+      [
+        "O",
+        -0.0053153434
+      ],
+      [
+        "liv",
+        -3.1281633e-07
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "A rock called dunite is composed almost entirely of it. The Norwegian variety is used both as foundry sand and as a flux for making steel, while it is found principally in ferromanganese igneous rocks, such as basalt, occurring in the lavas of Mount Vesuvius. For ten points, identify the magnesium and iron silicate mineral, the first in the Bowen reaction series, which, at gem quality, is called peridot.": {
+    "guess": "Olivine",
+    "confidence": [
+      [
+        "O",
+        -0.00014823723
+      ],
+      [
+        "liv",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "The rock of Pysttaleia forced the eventual losers to split their forces, with disastrous results. The": {
+    "guess": "Battle of Salamis",
+    "confidence": [
+      [
+        "Battle",
+        -0.0002843385
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sal",
+        0.0
+      ],
+      [
+        "amis",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The rock of Pysttaleia forced the eventual losers to split their forces, with disastrous results. The day saw the Saronic filled too the brim, preventing the eventual losers from maneuvering to safety,": {
+    "guess": "Battle of Salamis",
+    "confidence": [
+      [
+        "Battle",
+        -0.000538378
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sal",
+        0.0
+      ],
+      [
+        "amis",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "The rock of Pysttaleia forced the eventual losers to split their forces, with disastrous results. The day saw the Saronic filled too the brim, preventing the eventual losers from maneuvering to safety, and they would see 300 of their vessels destroyed to only 40 for the winners. Despite Eurybiades unwillingness": {
+    "guess": "Battle of Salamis",
+    "confidence": [
+      [
+        "Battle",
+        -0.0017418164
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sal",
+        0.0
+      ],
+      [
+        "amis",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The rock of Pysttaleia forced the eventual losers to split their forces, with disastrous results. The day saw the Saronic filled too the brim, preventing the eventual losers from maneuvering to safety, and they would see 300 of their vessels destroyed to only 40 for the winners. Despite Eurybiades unwillingness to engage the enemy, a fake note forced action as Xerxes attacked. FTP, name this victory": {
+    "guess": "Battle of Salamis",
+    "confidence": [
+      [
+        "Battle",
+        -0.0025030093
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sal",
+        0.0
+      ],
+      [
+        "amis",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The rock of Pysttaleia forced the eventual losers to split their forces, with disastrous results. The day saw the Saronic filled too the brim, preventing the eventual losers from maneuvering to safety, and they would see 300 of their vessels destroyed to only 40 for the winners. Despite Eurybiades unwillingness to engage the enemy, a fake note forced action as Xerxes attacked. FTP, name this victory that delayed a land invasion for a year, and was led by Themistocles over the Persian navy in 480": {
+    "guess": "Battle of Salamis",
+    "confidence": [
+      [
+        "Battle",
+        -4.596782e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sal",
+        0.0
+      ],
+      [
+        "amis",
+        0.0
+      ]
+    ]
+  },
+  "The rock of Pysttaleia forced the eventual losers to split their forces, with disastrous results. The day saw the Saronic filled too the brim, preventing the eventual losers from maneuvering to safety, and they would see 300 of their vessels destroyed to only 40 for the winners. Despite Eurybiades unwillingness to engage the enemy, a fake note forced action as Xerxes attacked. FTP, name this victory that delayed a land invasion for a year, and was led by Themistocles over the Persian navy in 480 BC.": {
+    "guess": "Battle of Salamis",
+    "confidence": [
+      [
+        "Battle",
+        -5.0616763e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sal",
+        0.0
+      ],
+      [
+        "amis",
+        0.0
+      ]
+    ]
+  },
+  "Rod Bond and Peter Smith have made a meta-analysis of studies of this concept, which sometimes make use": {
+    "guess": "Conformity",
+    "confidence": [
+      [
+        "Con",
+        -0.04683551
+      ],
+      [
+        "form",
+        0.0
+      ],
+      [
+        "ity",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Rod Bond and Peter Smith have made a meta-analysis of studies of this concept, which sometimes make use of a Crutchfield apparatus. Eagly and Carli have studied gender-differences in this phenomenon. An": {
+    "guess": "Conformity",
+    "confidence": [
+      [
+        "Con",
+        -0.0023641132
+      ],
+      [
+        "form",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "Rod Bond and Peter Smith have made a meta-analysis of studies of this concept, which sometimes make use of a Crutchfield apparatus. Eagly and Carli have studied gender-differences in this phenomenon. An early experiment on this concept involved an optical illusion where a static dot of light in a dark": {
+    "guess": "Conformity",
+    "confidence": [
+      [
+        "Con",
+        -0.13885823
+      ],
+      [
+        "form",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "Rod Bond and Peter Smith have made a meta-analysis of studies of this concept, which sometimes make use of a Crutchfield apparatus. Eagly and Carli have studied gender-differences in this phenomenon. An early experiment on this concept involved an optical illusion where a static dot of light in a dark room appears to move, called the autokinetic effect, and was performed by Muzafer Sherif.  In a famous": {
+    "guess": "Conformity",
+    "confidence": [
+      [
+        "Con",
+        -0.00028672256
+      ],
+      [
+        "form",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "Rod Bond and Peter Smith have made a meta-analysis of studies of this concept, which sometimes make use of a Crutchfield apparatus. Eagly and Carli have studied gender-differences in this phenomenon. An early experiment on this concept involved an optical illusion where a static dot of light in a dark room appears to move, called the autokinetic effect, and was performed by Muzafer Sherif.  In a famous experiment on this concept, participants were put in a group with confederates, and then were shown": {
+    "guess": "Conformity",
+    "confidence": [
+      [
+        "Con",
+        -0.0058632554
+      ],
+      [
+        "form",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "Rod Bond and Peter Smith have made a meta-analysis of studies of this concept, which sometimes make use of a Crutchfield apparatus. Eagly and Carli have studied gender-differences in this phenomenon. An early experiment on this concept involved an optical illusion where a static dot of light in a dark room appears to move, called the autokinetic effect, and was performed by Muzafer Sherif.  In a famous experiment on this concept, participants were put in a group with confederates, and then were shown a card with three vertical lines on it. For ten points, which psychological concept explains the": {
+    "guess": "Conformity",
+    "confidence": [
+      [
+        "Con",
+        -2.0219828e-05
+      ],
+      [
+        "form",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "Rod Bond and Peter Smith have made a meta-analysis of studies of this concept, which sometimes make use of a Crutchfield apparatus. Eagly and Carli have studied gender-differences in this phenomenon. An early experiment on this concept involved an optical illusion where a static dot of light in a dark room appears to move, called the autokinetic effect, and was performed by Muzafer Sherif.  In a famous experiment on this concept, participants were put in a group with confederates, and then were shown a card with three vertical lines on it. For ten points, which psychological concept explains the result of the Asch experiment, where participants would give wrong answers to join the majority opinion?": {
+    "guess": "Conformity",
+    "confidence": [
+      [
+        "Con",
+        -9.253091e-06
+      ],
+      [
+        "form",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "This rock was quarried on the Scottish island of Ailsa Craig for use in curling stones. Sodium content": {
+    "guess": "Ailsa Craig granite",
+    "confidence": [
+      [
+        "A",
+        -0.04270911
+      ],
+      [
+        "il",
+        -3.1281633e-07
+      ],
+      [
+        "sa",
+        -0.0003093639
+      ],
+      [
+        " Craig",
+        -3.059055e-05
+      ],
+      [
+        " granite",
+        -0.70317674
+      ]
+    ]
+  },
+  "This rock was quarried on the Scottish island of Ailsa Craig for use in curling stones. Sodium content distinguishes the S and I types of this rock, which forms batholiths like Half-Dome. Unlike the similar": {
+    "guess": "Granite",
+    "confidence": [
+      [
+        "Gran",
+        -0.031458493
+      ],
+      [
+        "ite",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "This rock was quarried on the Scottish island of Ailsa Craig for use in curling stones. Sodium content distinguishes the S and I types of this rock, which forms batholiths like Half-Dome. Unlike the similar (*) rhyolite, this rock is found under the Earth's surface, making up most of the Earth's continental": {
+    "guess": "Granite",
+    "confidence": [
+      [
+        "Gran",
+        -0.0027855039
+      ],
+      [
+        "ite",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This rock was quarried on the Scottish island of Ailsa Craig for use in curling stones. Sodium content distinguishes the S and I types of this rock, which forms batholiths like Half-Dome. Unlike the similar (*) rhyolite, this rock is found under the Earth's surface, making up most of the Earth's continental plates. For 10 points, name this light-colored igneous rock, whose large quartz crystals make": {
+    "guess": "Granite",
+    "confidence": [
+      [
+        "Gran",
+        -0.0004009985
+      ],
+      [
+        "ite",
+        0.0
+      ]
+    ]
+  },
+  "This rock was quarried on the Scottish island of Ailsa Craig for use in curling stones. Sodium content distinguishes the S and I types of this rock, which forms batholiths like Half-Dome. Unlike the similar (*) rhyolite, this rock is found under the Earth's surface, making up most of the Earth's continental plates. For 10 points, name this light-colored igneous rock, whose large quartz crystals make it a durable building alternative to marble.": {
+    "guess": "Granite",
+    "confidence": [
+      [
+        "Gran",
+        -4.8471098e-05
+      ],
+      [
+        "ite",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "HDA is a low temperature alternative to this process that fails for high BP count, and speed can be increased": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.032647252
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        "ase",
+        -1.9361265e-07
+      ],
+      [
+        " chain",
+        -0.009756085
+      ],
+      [
+        " reaction",
+        0.0
+      ]
+    ]
+  },
+  "HDA is a low temperature alternative to this process that fails for high BP count, and speed can be increased in hot-start variants. The Klenow fragment was the original enzyme used in this process, though": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.018547183
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        "ase",
+        0.0
+      ],
+      [
+        " chain",
+        -0.02328997
+      ],
+      [
+        " reaction",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "HDA is a low temperature alternative to this process that fails for high BP count, and speed can be increased in hot-start variants. The Klenow fragment was the original enzyme used in this process, though its instability at high temperatures led it to be replaced by the homologous protein from Thermus": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.085428804
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        "ase",
+        0.0
+      ],
+      [
+        " chain",
+        -2.1531068e-05
+      ],
+      [
+        " reaction",
+        0.0
+      ]
+    ]
+  },
+  "HDA is a low temperature alternative to this process that fails for high BP count, and speed can be increased in hot-start variants. The Klenow fragment was the original enzyme used in this process, though its instability at high temperatures led it to be replaced by the homologous protein from Thermus aquaticus. This process occurs via repeated steps of thermal cycling through denaturing, annealing,": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.7064795
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        "ase",
+        0.0
+      ],
+      [
+        " chain",
+        -3.5313153e-06
+      ],
+      [
+        " reaction",
+        0.0
+      ]
+    ]
+  },
+  "HDA is a low temperature alternative to this process that fails for high BP count, and speed can be increased in hot-start variants. The Klenow fragment was the original enzyme used in this process, though its instability at high temperatures led it to be replaced by the homologous protein from Thermus aquaticus. This process occurs via repeated steps of thermal cycling through denaturing, annealing, and elongating phases. That enzyme adds nucleotide bases to match a template strand, forming a copy.": {
+    "guess": "PCR",
+    "confidence": [
+      [
+        "PCR",
+        -0.39355677
+      ]
+    ]
+  },
+  "HDA is a low temperature alternative to this process that fails for high BP count, and speed can be increased in hot-start variants. The Klenow fragment was the original enzyme used in this process, though its instability at high temperatures led it to be replaced by the homologous protein from Thermus aquaticus. This process occurs via repeated steps of thermal cycling through denaturing, annealing, and elongating phases. That enzyme adds nucleotide bases to match a template strand, forming a copy. For 10 points, name this technique to create many copies of a single piece of DNA.": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.47584364
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        "ase",
+        0.0
+      ],
+      [
+        " chain",
+        -1.6240566e-06
+      ],
+      [
+        " reaction",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.0037182462
+      ],
+      [
+        "urb",
+        0.0
+      ],
+      [
+        "ulence",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model is a one-equation model of it. In modeling this process, one often averages the stress tensor over": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.0011716522
+      ],
+      [
+        "urb",
+        0.0
+      ],
+      [
+        "ulence",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model is a one-equation model of it. In modeling this process, one often averages the stress tensor over time, a strategy known as the Boussinesq approximation. During this process, the smallest scales are": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.012520483
+      ],
+      [
+        "urb",
+        0.0
+      ],
+      [
+        "ulence",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model is a one-equation model of it. In modeling this process, one often averages the stress tensor over time, a strategy known as the Boussinesq approximation. During this process, the smallest scales are known as the Kolmogorov scales, and objects immersed in an environment undergoing this process experience": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.007841671
+      ],
+      [
+        "urb",
+        0.0
+      ],
+      [
+        "ulence",
+        -0.00012344286
+      ]
+    ]
+  },
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model is a one-equation model of it. In modeling this process, one often averages the stress tensor over time, a strategy known as the Boussinesq approximation. During this process, the smallest scales are known as the Kolmogorov scales, and objects immersed in an environment undergoing this process experience vortex shedding. The Richardson number provides a measure of the strength of this process,": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.00044508922
+      ],
+      [
+        "urb",
+        0.0
+      ],
+      [
+        "ulence",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model is a one-equation model of it. In modeling this process, one often averages the stress tensor over time, a strategy known as the Boussinesq approximation. During this process, the smallest scales are known as the Kolmogorov scales, and objects immersed in an environment undergoing this process experience vortex shedding. The Richardson number provides a measure of the strength of this process, and its onset is governed by the ratio of inertial to viscous forces. FTP, identify this type of chaotic": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.00045379106
+      ],
+      [
+        "urb",
+        0.0
+      ],
+      [
+        "ulence",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "The Baldwin-Lomax and Cebeci-Smith models are algebraic models of this process, while the Prandtl model is a one-equation model of it. In modeling this process, one often averages the stress tensor over time, a strategy known as the Boussinesq approximation. During this process, the smallest scales are known as the Kolmogorov scales, and objects immersed in an environment undergoing this process experience vortex shedding. The Richardson number provides a measure of the strength of this process, and its onset is governed by the ratio of inertial to viscous forces. FTP, identify this type of chaotic flow which occurs at high Reynolds numbers and which is contrasted with laminar flow.": {
+    "guess": "Turbulence",
+    "confidence": [
+      [
+        "T",
+        -0.0017295642
+      ],
+      [
+        "urb",
+        0.0
+      ],
+      [
+        "ulence",
+        -2.577686e-06
+      ]
+    ]
+  }
+}

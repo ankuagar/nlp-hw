@@ -1,0 +1,1765 @@
+{
+  "This law is often used in astronomy to determine the temperature of stars.  Its namesake constant, usually": {
+    "guess": "Stefan\u2013Boltzmann law",
+    "confidence": [
+      [
+        "Ste",
+        -0.47979173
+      ],
+      [
+        "fan",
+        -1.6240566e-06
+      ],
+      [
+        "\u2013",
+        -0.4740779
+      ],
+      [
+        "Bol",
+        0.0
+      ],
+      [
+        "tz",
+        -1.9361265e-07
+      ],
+      [
+        "mann",
+        0.0
+      ],
+      [
+        " law",
+        -0.0015193841
+      ]
+    ]
+  },
+  "This law is often used in astronomy to determine the temperature of stars.  Its namesake constant, usually signified by a lower-case beta or sigma, is equal to 0.0029 Kelvin meters.  Derived directly from": {
+    "guess": "Wien's displacement law",
+    "confidence": [
+      [
+        "W",
+        -0.0042815153
+      ],
+      [
+        "ien",
+        -3.1281633e-07
+      ],
+      [
+        "'s",
+        -6.2729996e-06
+      ],
+      [
+        " displacement",
+        -0.009294399
+      ],
+      [
+        " law",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "This law is often used in astronomy to determine the temperature of stars.  Its namesake constant, usually signified by a lower-case beta or sigma, is equal to 0.0029 Kelvin meters.  Derived directly from the inverse of the Planck equation, this law can be stated as the result of changing the Planck": {
+    "guess": "Wien's displacement law",
+    "confidence": [
+      [
+        "W",
+        -0.0033724615
+      ],
+      [
+        "ien",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -5.4385737e-06
+      ],
+      [
+        " displacement",
+        -0.067560844
+      ],
+      [
+        " law",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "This law is often used in astronomy to determine the temperature of stars.  Its namesake constant, usually signified by a lower-case beta or sigma, is equal to 0.0029 Kelvin meters.  Derived directly from the inverse of the Planck equation, this law can be stated as the result of changing the Planck curve with respect to temperature.  Also related to the Stefan-Boltzmann equation, FTP, identify this": {
+    "guess": "Wien's Displacement Law",
+    "confidence": [
+      [
+        "W",
+        -0.008753785
+      ],
+      [
+        "ien",
+        -3.1281633e-07
+      ],
+      [
+        "'s",
+        -6.2729996e-06
+      ],
+      [
+        " Dis",
+        -0.045938846
+      ],
+      [
+        "placement",
+        0.0
+      ],
+      [
+        " Law",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This law is often used in astronomy to determine the temperature of stars.  Its namesake constant, usually signified by a lower-case beta or sigma, is equal to 0.0029 Kelvin meters.  Derived directly from the inverse of the Planck equation, this law can be stated as the result of changing the Planck curve with respect to temperature.  Also related to the Stefan-Boltzmann equation, FTP, identify this law of physics that states that the temperature of a blackbody is inversely proportional to the wavelength": {
+    "guess": "Wien's displacement law",
+    "confidence": [
+      [
+        "W",
+        -6.539802e-05
+      ],
+      [
+        "ien",
+        -6.704273e-07
+      ],
+      [
+        "'s",
+        -1.0206721e-05
+      ],
+      [
+        " displacement",
+        -0.19496267
+      ],
+      [
+        " law",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "This law is often used in astronomy to determine the temperature of stars.  Its namesake constant, usually signified by a lower-case beta or sigma, is equal to 0.0029 Kelvin meters.  Derived directly from the inverse of the Planck equation, this law can be stated as the result of changing the Planck curve with respect to temperature.  Also related to the Stefan-Boltzmann equation, FTP, identify this law of physics that states that the temperature of a blackbody is inversely proportional to the wavelength of the emitted energy and is not the Rayleigh-Jeans law.": {
+    "guess": "Wien's displacement law",
+    "confidence": [
+      [
+        "W",
+        -0.00013822412
+      ],
+      [
+        "ien",
+        -5.5122365e-07
+      ],
+      [
+        "'s",
+        -1.1517961e-05
+      ],
+      [
+        " displacement",
+        -0.4821301
+      ],
+      [
+        " law",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "This law, insisted upon by the McClellan committee, instituted federal penalties for labor officials": {
+    "guess": "Landrum-Griffin Act",
+    "confidence": [
+      [
+        "Land",
+        -0.106693484
+      ],
+      [
+        "rum",
+        0.0
+      ],
+      [
+        "-Gr",
+        -0.20141734
+      ],
+      [
+        "iff",
+        -1.2664457e-06
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        " Act",
+        0.0
+      ]
+    ]
+  },
+  "This law, insisted upon by the McClellan committee, instituted federal penalties for labor officials who misused union funds, those who had been found guilty of certain crimes, and those who violently": {
+    "guess": "Landrum-Griffin Act",
+    "confidence": [
+      [
+        "Land",
+        -0.16341339
+      ],
+      [
+        "rum",
+        0.0
+      ],
+      [
+        "-Gr",
+        -0.12693146
+      ],
+      [
+        "iff",
+        -1.2664457e-06
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        " Act",
+        0.0
+      ]
+    ]
+  },
+  "This law, insisted upon by the McClellan committee, instituted federal penalties for labor officials who misused union funds, those who had been found guilty of certain crimes, and those who violently kept union members from exercising their legal rights.  Union members were given a bill of rights, and": {
+    "guess": "Labor Management Reporting and Disclosure Act",
+    "confidence": [
+      [
+        "Labor",
+        -0.11238186
+      ],
+      [
+        " Management",
+        -0.0026604354
+      ],
+      [
+        " Reporting",
+        -4.3202e-07
+      ],
+      [
+        " and",
+        -1.7432603e-06
+      ],
+      [
+        " Disclosure",
+        -1.9361265e-07
+      ],
+      [
+        " Act",
+        0.0
+      ]
+    ]
+  },
+  "This law, insisted upon by the McClellan committee, instituted federal penalties for labor officials who misused union funds, those who had been found guilty of certain crimes, and those who violently kept union members from exercising their legal rights.  Union members were given a bill of rights, and an anti-communist provision kept former communist party members from holding an union office for": {
+    "guess": "Labor Management Reporting and Disclosure Act",
+    "confidence": [
+      [
+        "Labor",
+        -0.103559814
+      ],
+      [
+        " Management",
+        -0.001201897
+      ],
+      [
+        " Reporting",
+        -6.704273e-07
+      ],
+      [
+        " and",
+        -2.4584822e-06
+      ],
+      [
+        " Disclosure",
+        -1.9361265e-07
+      ],
+      [
+        " Act",
+        0.0
+      ]
+    ]
+  },
+  "This law, insisted upon by the McClellan committee, instituted federal penalties for labor officials who misused union funds, those who had been found guilty of certain crimes, and those who violently kept union members from exercising their legal rights.  Union members were given a bill of rights, and an anti-communist provision kept former communist party members from holding an union office for five years.  Supported by Eisenhower, provisions such as a strict ban on secondary boycotts strengthened": {
+    "guess": "Labor Management Reporting and Disclosure Act",
+    "confidence": [
+      [
+        "Labor",
+        -0.4792358
+      ],
+      [
+        " Management",
+        -0.00012260844
+      ],
+      [
+        " Reporting",
+        -2.4584822e-06
+      ],
+      [
+        " and",
+        -4.246537e-06
+      ],
+      [
+        " Disclosure",
+        -3.1281633e-07
+      ],
+      [
+        " Act",
+        0.0
+      ]
+    ]
+  },
+  "This law, insisted upon by the McClellan committee, instituted federal penalties for labor officials who misused union funds, those who had been found guilty of certain crimes, and those who violently kept union members from exercising their legal rights.  Union members were given a bill of rights, and an anti-communist provision kept former communist party members from holding an union office for five years.  Supported by Eisenhower, provisions such as a strict ban on secondary boycotts strengthened parts of 1947's Taft-Hartley Act.  FTP, identify this anti- corruption act passed in 1959.": {
+    "guess": "Landrum-Griffin Act",
+    "confidence": [
+      [
+        "Land",
+        -0.6945014
+      ],
+      [
+        "rum",
+        0.0
+      ],
+      [
+        "-Gr",
+        -0.575941
+      ],
+      [
+        "iff",
+        -4.3202e-07
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        " Act",
+        0.0
+      ]
+    ]
+  },
+  "Lawrence Que (CHAY) employs a two-state model of this phenomenon in his work on non-heme oxo complexes.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.47645515
+      ]
+    ]
+  },
+  "Lawrence Que (CHAY) employs a two-state model of this phenomenon in his work on non-heme oxo complexes. Circumstances under which this phenomenon might remain constant despite free energy increases are": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.85401845
+      ]
+    ]
+  },
+  "Lawrence Que (CHAY) employs a two-state model of this phenomenon in his work on non-heme oxo complexes. Circumstances under which this phenomenon might remain constant despite free energy increases are given by the Westheimer-Melander hypothesis. Schalley and Felder described a steric form of this phenomenon": {
+    "guess": "Kinetic Isotope Effect",
+    "confidence": [
+      [
+        "K",
+        -0.07185648
+      ],
+      [
+        "inetic",
+        -5.080963e-06
+      ],
+      [
+        " Is",
+        -0.47411788
+      ],
+      [
+        "otope",
+        0.0
+      ],
+      [
+        " Effect",
+        -3.190179e-05
+      ]
+    ]
+  },
+  "Lawrence Que (CHAY) employs a two-state model of this phenomenon in his work on non-heme oxo complexes. Circumstances under which this phenomenon might remain constant despite free energy increases are given by the Westheimer-Melander hypothesis. Schalley and Felder described a steric form of this phenomenon that arises in rotaxane deslipping. Unusually high and temperature-dependent values of this": {
+    "guess": "Kinetic isotope effect",
+    "confidence": [
+      [
+        "K",
+        -0.19174786
+      ],
+      [
+        "inetic",
+        -3.9054008e-05
+      ],
+      [
+        " isotope",
+        -0.0017138548
+      ],
+      [
+        " effect",
+        -2.4391957e-05
+      ]
+    ]
+  },
+  "Lawrence Que (CHAY) employs a two-state model of this phenomenon in his work on non-heme oxo complexes. Circumstances under which this phenomenon might remain constant despite free energy increases are given by the Westheimer-Melander hypothesis. Schalley and Felder described a steric form of this phenomenon that arises in rotaxane deslipping. Unusually high and temperature-dependent values of this phenomenon are attributed to a tunneling mechanism. Two different types of this phenomenon are related": {
+    "guess": "Kinetic isotope effect",
+    "confidence": [
+      [
+        "K",
+        -0.028286913
+      ],
+      [
+        "inetic",
+        -5.6769813e-06
+      ],
+      [
+        " isotope",
+        -0.0005003704
+      ],
+      [
+        " effect",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "Lawrence Que (CHAY) employs a two-state model of this phenomenon in his work on non-heme oxo complexes. Circumstances under which this phenomenon might remain constant despite free energy increases are given by the Westheimer-Melander hypothesis. Schalley and Felder described a steric form of this phenomenon that arises in rotaxane deslipping. Unusually high and temperature-dependent values of this phenomenon are attributed to a tunneling mechanism. Two different types of this phenomenon are related by a power law with exponent one point four four two in the Swain equation. A secondary form of": {
+    "guess": "Kinetic isotope effect",
+    "confidence": [
+      [
+        "K",
+        -0.38325778
+      ],
+      [
+        "inetic",
+        -5.3193703e-06
+      ],
+      [
+        " isotope",
+        -0.00064178446
+      ],
+      [
+        " effect",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "Lawrence Que (CHAY) employs a two-state model of this phenomenon in his work on non-heme oxo complexes. Circumstances under which this phenomenon might remain constant despite free energy increases are given by the Westheimer-Melander hypothesis. Schalley and Felder described a steric form of this phenomenon that arises in rotaxane deslipping. Unusually high and temperature-dependent values of this phenomenon are attributed to a tunneling mechanism. Two different types of this phenomenon are related by a power law with exponent one point four four two in the Swain equation. A secondary form of this phenomenon occurs with values around one wherein orbital hybridization changes affect the zero-point": {
+    "guess": "Kinetic isotope effect",
+    "confidence": [
+      [
+        "K",
+        -0.4355975
+      ],
+      [
+        "inetic",
+        -3.888926e-06
+      ],
+      [
+        " isotope",
+        -0.0015216453
+      ],
+      [
+        " effect",
+        -1.4855664e-05
+      ]
+    ]
+  },
+  "Lawrence Que (CHAY) employs a two-state model of this phenomenon in his work on non-heme oxo complexes. Circumstances under which this phenomenon might remain constant despite free energy increases are given by the Westheimer-Melander hypothesis. Schalley and Felder described a steric form of this phenomenon that arises in rotaxane deslipping. Unusually high and temperature-dependent values of this phenomenon are attributed to a tunneling mechanism. Two different types of this phenomenon are related by a power law with exponent one point four four two in the Swain equation. A secondary form of this phenomenon occurs with values around one wherein orbital hybridization changes affect the zero-point energy. An inverse type of this phenomenon occurs in many reductive elimination mechanisms due": {
+    "guess": "Kinetic isotope effect",
+    "confidence": [
+      [
+        "K",
+        -0.3765674
+      ],
+      [
+        "inetic",
+        -4.246537e-06
+      ],
+      [
+        " isotope",
+        -0.0017301602
+      ],
+      [
+        " effect",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "Lawrence Que (CHAY) employs a two-state model of this phenomenon in his work on non-heme oxo complexes. Circumstances under which this phenomenon might remain constant despite free energy increases are given by the Westheimer-Melander hypothesis. Schalley and Felder described a steric form of this phenomenon that arises in rotaxane deslipping. Unusually high and temperature-dependent values of this phenomenon are attributed to a tunneling mechanism. Two different types of this phenomenon are related by a power law with exponent one point four four two in the Swain equation. A secondary form of this phenomenon occurs with values around one wherein orbital hybridization changes affect the zero-point energy. An inverse type of this phenomenon occurs in many reductive elimination mechanisms due to a stabilizing agostic interaction. For 10 points, name this phenomenon wherein substitution of an": {
+    "guess": "Kinetic isotope effect",
+    "confidence": [
+      [
+        "K",
+        -0.38414153
+      ],
+      [
+        "inetic",
+        -1.9816675e-06
+      ],
+      [
+        " isotope",
+        -0.0005124026
+      ],
+      [
+        " effect",
+        -2.577686e-06
+      ]
+    ]
+  },
+  "Lawrence Que (CHAY) employs a two-state model of this phenomenon in his work on non-heme oxo complexes. Circumstances under which this phenomenon might remain constant despite free energy increases are given by the Westheimer-Melander hypothesis. Schalley and Felder described a steric form of this phenomenon that arises in rotaxane deslipping. Unusually high and temperature-dependent values of this phenomenon are attributed to a tunneling mechanism. Two different types of this phenomenon are related by a power law with exponent one point four four two in the Swain equation. A secondary form of this phenomenon occurs with values around one wherein orbital hybridization changes affect the zero-point energy. An inverse type of this phenomenon occurs in many reductive elimination mechanisms due to a stabilizing agostic interaction. For 10 points, name this phenomenon wherein substitution of an atom with a different mass number leads to a change in a reaction rate, often exploited to learn more": {
+    "guess": "Kinetic isotope effect",
+    "confidence": [
+      [
+        "K",
+        -0.11187547
+      ],
+      [
+        "inetic",
+        -1.0280384e-06
+      ],
+      [
+        " isotope",
+        -0.00041136926
+      ],
+      [
+        " effect",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Lawrence Que (CHAY) employs a two-state model of this phenomenon in his work on non-heme oxo complexes. Circumstances under which this phenomenon might remain constant despite free energy increases are given by the Westheimer-Melander hypothesis. Schalley and Felder described a steric form of this phenomenon that arises in rotaxane deslipping. Unusually high and temperature-dependent values of this phenomenon are attributed to a tunneling mechanism. Two different types of this phenomenon are related by a power law with exponent one point four four two in the Swain equation. A secondary form of this phenomenon occurs with values around one wherein orbital hybridization changes affect the zero-point energy. An inverse type of this phenomenon occurs in many reductive elimination mechanisms due to a stabilizing agostic interaction. For 10 points, name this phenomenon wherein substitution of an atom with a different mass number leads to a change in a reaction rate, often exploited to learn more about reaction mechanism.": {
+    "guess": "Kinetic isotope effect",
+    "confidence": [
+      [
+        "K",
+        -0.04660297
+      ],
+      [
+        "inetic",
+        -1.0280384e-06
+      ],
+      [
+        " isotope",
+        -0.00020103711
+      ],
+      [
+        " effect",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One law governing this process sets the flux proportional to a certain spatial derivative and is named": {
+    "guess": "Fick's laws of diffusion",
+    "confidence": [
+      [
+        "F",
+        -0.6096003
+      ],
+      [
+        "ick",
+        -7.89631e-07
+      ],
+      [
+        "'s",
+        -1.7716551e-05
+      ],
+      [
+        " laws",
+        -0.11273605
+      ],
+      [
+        " of",
+        -3.5313153e-06
+      ],
+      [
+        " diffusion",
+        -4.1273333e-06
+      ]
+    ]
+  },
+  "One law governing this process sets the flux proportional to a certain spatial derivative and is named after Adolph Fick. For a gas, the rate of this process is proportional to the square root of molar": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.49883294
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "One law governing this process sets the flux proportional to a certain spatial derivative and is named after Adolph Fick. For a gas, the rate of this process is proportional to the square root of molar mass by Graham's Law. When water undergoes this process by moving across a semipermeable (SEM-\"eye\"-PER-mee-uh-bull)": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.43513584
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "One law governing this process sets the flux proportional to a certain spatial derivative and is named after Adolph Fick. For a gas, the rate of this process is proportional to the square root of molar mass by Graham's Law. When water undergoes this process by moving across a semipermeable (SEM-\"eye\"-PER-mee-uh-bull) membrane, it is called osmosis. For 10 points, name this process in which a compound": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.002896167
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "One law governing this process sets the flux proportional to a certain spatial derivative and is named after Adolph Fick. For a gas, the rate of this process is proportional to the square root of molar mass by Graham's Law. When water undergoes this process by moving across a semipermeable (SEM-\"eye\"-PER-mee-uh-bull) membrane, it is called osmosis. For 10 points, name this process in which a compound moves from an area of high concentration to an area of low concentration.": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.0005038236
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "One lawyer in this novel has a \"sacred rage,\" while another character responds to all nonsensical things": {
+    "guess": "Bleak House",
+    "confidence": [
+      [
+        "Ble",
+        -0.44821855
+      ],
+      [
+        "ak",
+        -1.0206721e-05
+      ],
+      [
+        " House",
+        0.0
+      ]
+    ]
+  },
+  "One lawyer in this novel has a \"sacred rage,\" while another character responds to all nonsensical things with \"Oh, oh, oh!\"  In the ninth book, the protagonist imagines himself in a sunken boat, and he": {
+    "guess": "Les Mis\u00e9rables",
+    "confidence": [
+      [
+        "Les",
+        -1.2001594
+      ],
+      [
+        " Mis",
+        -0.00029601678
+      ],
+      [
+        "\u00e9r",
+        -4.3202e-07
+      ],
+      [
+        "ables",
+        0.0
+      ]
+    ]
+  },
+  "One lawyer in this novel has a \"sacred rage,\" while another character responds to all nonsensical things with \"Oh, oh, oh!\"  In the ninth book, the protagonist imagines himself in a sunken boat, and he had failed [?] Gloriani's test to see if he blends into society. The protagonist confides in Bilham": {
+    "guess": "The Ambassadors",
+    "confidence": [
+      [
+        "The",
+        -0.0011231913
+      ],
+      [
+        " Amb",
+        -0.0011181885
+      ],
+      [
+        "assadors",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One lawyer in this novel has a \"sacred rage,\" while another character responds to all nonsensical things with \"Oh, oh, oh!\"  In the ninth book, the protagonist imagines himself in a sunken boat, and he had failed [?] Gloriani's test to see if he blends into society. The protagonist confides in Bilham and meets an associate of Mamie at the Notre Dame Cathedral, which gives him the resolve to ignore": {
+    "guess": "The Ambassadors",
+    "confidence": [
+      [
+        "The",
+        -0.0025662645
+      ],
+      [
+        " Amb",
+        -0.0023512647
+      ],
+      [
+        "assadors",
+        0.0
+      ]
+    ]
+  },
+  "One lawyer in this novel has a \"sacred rage,\" while another character responds to all nonsensical things with \"Oh, oh, oh!\"  In the ninth book, the protagonist imagines himself in a sunken boat, and he had failed [?] Gloriani's test to see if he blends into society. The protagonist confides in Bilham and meets an associate of Mamie at the Notre Dame Cathedral, which gives him the resolve to ignore a telegram telling him to return home, prompting Sarah Pocock to come to Europe. The protagonist travels": {
+    "guess": "The Ambassadors",
+    "confidence": [
+      [
+        "The",
+        -0.0011334282
+      ],
+      [
+        " Amb",
+        -0.000686937
+      ],
+      [
+        "assadors",
+        0.0
+      ]
+    ]
+  },
+  "One lawyer in this novel has a \"sacred rage,\" while another character responds to all nonsensical things with \"Oh, oh, oh!\"  In the ninth book, the protagonist imagines himself in a sunken boat, and he had failed [?] Gloriani's test to see if he blends into society. The protagonist confides in Bilham and meets an associate of Mamie at the Notre Dame Cathedral, which gives him the resolve to ignore a telegram telling him to return home, prompting Sarah Pocock to come to Europe. The protagonist travels with Mr. Waymarsh to serve in the title occupation for his beloved. For ten points, name this Henry": {
+    "guess": "The Ambassadors",
+    "confidence": [
+      [
+        "The",
+        -0.00016921341
+      ],
+      [
+        " Amb",
+        -0.00013440961
+      ],
+      [
+        "assadors",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "One lawyer in this novel has a \"sacred rage,\" while another character responds to all nonsensical things with \"Oh, oh, oh!\"  In the ninth book, the protagonist imagines himself in a sunken boat, and he had failed [?] Gloriani's test to see if he blends into society. The protagonist confides in Bilham and meets an associate of Mamie at the Notre Dame Cathedral, which gives him the resolve to ignore a telegram telling him to return home, prompting Sarah Pocock to come to Europe. The protagonist travels with Mr. Waymarsh to serve in the title occupation for his beloved. For ten points, name this Henry James novel which sees Madame de Vionnet supposedly poisoning the culture of Chad Newsome, which": {
+    "guess": "The Ambassadors",
+    "confidence": [
+      [
+        "The",
+        -4.608702e-05
+      ],
+      [
+        " Amb",
+        -2.7133641e-05
+      ],
+      [
+        "assadors",
+        0.0
+      ]
+    ]
+  },
+  "One lawyer in this novel has a \"sacred rage,\" while another character responds to all nonsensical things with \"Oh, oh, oh!\"  In the ninth book, the protagonist imagines himself in a sunken boat, and he had failed [?] Gloriani's test to see if he blends into society. The protagonist confides in Bilham and meets an associate of Mamie at the Notre Dame Cathedral, which gives him the resolve to ignore a telegram telling him to return home, prompting Sarah Pocock to come to Europe. The protagonist travels with Mr. Waymarsh to serve in the title occupation for his beloved. For ten points, name this Henry James novel which sees Madame de Vionnet supposedly poisoning the culture of Chad Newsome, which prompts a rescue by Lewis Lambert Strether.": {
+    "guess": "The Ambassadors",
+    "confidence": [
+      [
+        "The",
+        -0.0005547016
+      ],
+      [
+        " Amb",
+        -9.0883464e-07
+      ],
+      [
+        "assadors",
+        0.0
+      ]
+    ]
+  },
+  "A 1921 law in this nation allowed disputed territory to be colonized by Mennonites, who founded the city": {
+    "guess": "Paraguay",
+    "confidence": [
+      [
+        "Par",
+        -0.00025526012
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "ay",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "A 1921 law in this nation allowed disputed territory to be colonized by Mennonites, who founded the city of Filadelfia. This nation lost a naval battle at Riachuelo, but a year later, won despite heavy": {
+    "guess": "Paraguay",
+    "confidence": [
+      [
+        "Par",
+        -0.03412843
+      ],
+      [
+        "agu",
+        -1.504853e-06
+      ],
+      [
+        "ay",
+        -0.2519339
+      ]
+    ]
+  },
+  "A 1921 law in this nation allowed disputed territory to be colonized by Mennonites, who founded the city of Filadelfia. This nation lost a naval battle at Riachuelo, but a year later, won despite heavy losses at Curupayty. In another war, forces from this nation routed an army in the Campo V\u00eda pocket": {
+    "guess": "Paraguay",
+    "confidence": [
+      [
+        "Par",
+        -0.00016778296
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "ay",
+        -0.0011702254
+      ]
+    ]
+  },
+  "A 1921 law in this nation allowed disputed territory to be colonized by Mennonites, who founded the city of Filadelfia. This nation lost a naval battle at Riachuelo, but a year later, won despite heavy losses at Curupayty. In another war, forces from this nation routed an army in the Campo V\u00eda pocket led by German World War I veteran Hans von Kundt. One general from this nation, Jos\u00e9 Estigarribia,": {
+    "guess": "Paraguay",
+    "confidence": [
+      [
+        "Par",
+        -7.0285365e-05
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "ay",
+        0.0
+      ]
+    ]
+  },
+  "A 1921 law in this nation allowed disputed territory to be colonized by Mennonites, who founded the city of Filadelfia. This nation lost a naval battle at Riachuelo, but a year later, won despite heavy losses at Curupayty. In another war, forces from this nation routed an army in the Campo V\u00eda pocket led by German World War I veteran Hans von Kundt. One general from this nation, Jos\u00e9 Estigarribia, successfully besieged Fort\u00edn Boquer\u00f3n and, later, Ballivi\u00e1n. Earlier, its army was decimated by the": {
+    "guess": "Paraguay",
+    "confidence": [
+      [
+        "Par",
+        -7.672237e-05
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "ay",
+        -0.00033546583
+      ]
+    ]
+  },
+  "A 1921 law in this nation allowed disputed territory to be colonized by Mennonites, who founded the city of Filadelfia. This nation lost a naval battle at Riachuelo, but a year later, won despite heavy losses at Curupayty. In another war, forces from this nation routed an army in the Campo V\u00eda pocket led by German World War I veteran Hans von Kundt. One general from this nation, Jos\u00e9 Estigarribia, successfully besieged Fort\u00edn Boquer\u00f3n and, later, Ballivi\u00e1n. Earlier, its army was decimated by the Campaign of Lomas Valentinas. This nation defeated Bolivia in the Chaco War but lost to forces led first": {
+    "guess": "Paraguay",
+    "confidence": [
+      [
+        "Par",
+        -9.233804e-05
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "ay",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "A 1921 law in this nation allowed disputed territory to be colonized by Mennonites, who founded the city of Filadelfia. This nation lost a naval battle at Riachuelo, but a year later, won despite heavy losses at Curupayty. In another war, forces from this nation routed an army in the Campo V\u00eda pocket led by German World War I veteran Hans von Kundt. One general from this nation, Jos\u00e9 Estigarribia, successfully besieged Fort\u00edn Boquer\u00f3n and, later, Ballivi\u00e1n. Earlier, its army was decimated by the Campaign of Lomas Valentinas. This nation defeated Bolivia in the Chaco War but lost to forces led first by Bartolom\u00e9 Mitre and later by the Duke of Caxias. In that war, this nation's opponents were Argentina,": {
+    "guess": "Paraguay",
+    "confidence": [
+      [
+        "Par",
+        -4.3226137e-05
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "ay",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "A 1921 law in this nation allowed disputed territory to be colonized by Mennonites, who founded the city of Filadelfia. This nation lost a naval battle at Riachuelo, but a year later, won despite heavy losses at Curupayty. In another war, forces from this nation routed an army in the Campo V\u00eda pocket led by German World War I veteran Hans von Kundt. One general from this nation, Jos\u00e9 Estigarribia, successfully besieged Fort\u00edn Boquer\u00f3n and, later, Ballivi\u00e1n. Earlier, its army was decimated by the Campaign of Lomas Valentinas. This nation defeated Bolivia in the Chaco War but lost to forces led first by Bartolom\u00e9 Mitre and later by the Duke of Caxias. In that war, this nation's opponents were Argentina, Brazil, and Uruguay. For 10 points, name this nation which dictator Francisco Solano L\u00f3pez": {
+    "guess": "Paraguay",
+    "confidence": [
+      [
+        "Par",
+        -6.1537958e-06
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "ay",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "A 1921 law in this nation allowed disputed territory to be colonized by Mennonites, who founded the city of Filadelfia. This nation lost a naval battle at Riachuelo, but a year later, won despite heavy losses at Curupayty. In another war, forces from this nation routed an army in the Campo V\u00eda pocket led by German World War I veteran Hans von Kundt. One general from this nation, Jos\u00e9 Estigarribia, successfully besieged Fort\u00edn Boquer\u00f3n and, later, Ballivi\u00e1n. Earlier, its army was decimated by the Campaign of Lomas Valentinas. This nation defeated Bolivia in the Chaco War but lost to forces led first by Bartolom\u00e9 Mitre and later by the Duke of Caxias. In that war, this nation's opponents were Argentina, Brazil, and Uruguay. For 10 points, name this nation which dictator Francisco Solano L\u00f3pez drove to disastrous defeat in the War of the Triple Alliance.": {
+    "guess": "Paraguay",
+    "confidence": [
+      [
+        "Par",
+        -5.5122365e-07
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "ay",
+        0.0
+      ]
+    ]
+  },
+  "The law in question involved a thirty-day window for one class of persons and a prohibition on night": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.23204333
+      ]
+    ]
+  },
+  "The law in question involved a thirty-day window for one class of persons and a prohibition on night (*) hours for another, and Holmes wrote in his dissent that \"indirect effects\" could not make a law": {
+    "guess": "Adkins v. Children's Hospital",
+    "confidence": [
+      [
+        "Ad",
+        -0.007814817
+      ],
+      [
+        "kins",
+        -0.00033558503
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Children's",
+        -0.00026753443
+      ],
+      [
+        " Hospital",
+        0.0
+      ]
+    ]
+  },
+  "The law in question involved a thirty-day window for one class of persons and a prohibition on night (*) hours for another, and Holmes wrote in his dissent that \"indirect effects\" could not make a law unconstitutional. Arising out of a North Carolina cotton mill, for 10 points\u2014 name this Supreme Court": {
+    "guess": "Adkins v. Children's Hospital",
+    "confidence": [
+      [
+        "Ad",
+        -0.8668182
+      ],
+      [
+        "kins",
+        -2.2007884e-05
+      ],
+      [
+        " v",
+        -6.704273e-07
+      ],
+      [
+        ".",
+        -3.1281633e-07
+      ],
+      [
+        " Children's",
+        -0.00016396845
+      ],
+      [
+        " Hospital",
+        0.0
+      ]
+    ]
+  },
+  "The law in question involved a thirty-day window for one class of persons and a prohibition on night (*) hours for another, and Holmes wrote in his dissent that \"indirect effects\" could not make a law unconstitutional. Arising out of a North Carolina cotton mill, for 10 points\u2014 name this Supreme Court case which declined, in 1918, to uphold a law against child labor.": {
+    "guess": "Hammer v. Dagenhart",
+    "confidence": [
+      [
+        "Hammer",
+        -0.00379485
+      ],
+      [
+        " v",
+        -1.9361265e-07
+      ],
+      [
+        ".",
+        -4.3202e-07
+      ],
+      [
+        " D",
+        -4.3202e-07
+      ],
+      [
+        "agen",
+        -1.9361265e-07
+      ],
+      [
+        "hart",
+        0.0
+      ]
+    ]
+  },
+  "This law is only truly accurate in a stationary system because, under motion, magnetic fields alter the": {
+    "guess": "Faraday's law of induction",
+    "confidence": [
+      [
+        "Far",
+        -0.40667576
+      ],
+      [
+        "aday",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -1.735894e-05
+      ],
+      [
+        " law",
+        -0.0006272526
+      ],
+      [
+        " of",
+        -1.0280384e-06
+      ],
+      [
+        " induction",
+        -0.00055422477
+      ]
+    ]
+  },
+  "This law is only truly accurate in a stationary system because, under motion, magnetic fields alter the interactions between particles. This law uses the constant k which is approximately equal to 9 billion": {
+    "guess": "Coulomb's law",
+    "confidence": [
+      [
+        "C",
+        -1.7120534e-05
+      ],
+      [
+        "oul",
+        0.0
+      ],
+      [
+        "omb",
+        0.0
+      ],
+      [
+        "'s",
+        -2.577686e-06
+      ],
+      [
+        " law",
+        -0.0010332842
+      ]
+    ]
+  },
+  "This law is only truly accurate in a stationary system because, under motion, magnetic fields alter the interactions between particles. This law uses the constant k which is approximately equal to 9 billion newtons (*) times meters squared over its namesake's SI unit squared. It is analogous to Newtons'": {
+    "guess": "Coulomb's Law",
+    "confidence": [
+      [
+        "C",
+        -9.138441e-05
+      ],
+      [
+        "oul",
+        0.0
+      ],
+      [
+        "omb",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -4.8425554e-06
+      ],
+      [
+        " Law",
+        -0.2254126
+      ]
+    ]
+  },
+  "This law is only truly accurate in a stationary system because, under motion, magnetic fields alter the interactions between particles. This law uses the constant k which is approximately equal to 9 billion newtons (*) times meters squared over its namesake's SI unit squared. It is analogous to Newtons' law of gravitation in that it relates the force on each particle to the inverse square of the distance": {
+    "guess": "Coulomb's law",
+    "confidence": [
+      [
+        "C",
+        -4.365741e-06
+      ],
+      [
+        "oul",
+        0.0
+      ],
+      [
+        "omb",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -4.8425554e-06
+      ],
+      [
+        " law",
+        -0.14267525
+      ]
+    ]
+  },
+  "This law is only truly accurate in a stationary system because, under motion, magnetic fields alter the interactions between particles. This law uses the constant k which is approximately equal to 9 billion newtons (*) times meters squared over its namesake's SI unit squared. It is analogous to Newtons' law of gravitation in that it relates the force on each particle to the inverse square of the distance between them. FTP, name this law for electrostatic force dependant on charge named after a French": {
+    "guess": "Coulomb's law",
+    "confidence": [
+      [
+        "C",
+        -0.0001407274
+      ],
+      [
+        "oul",
+        0.0
+      ],
+      [
+        "omb",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -2.9352968e-06
+      ],
+      [
+        " law",
+        -0.07888979
+      ]
+    ]
+  },
+  "This law is only truly accurate in a stationary system because, under motion, magnetic fields alter the interactions between particles. This law uses the constant k which is approximately equal to 9 billion newtons (*) times meters squared over its namesake's SI unit squared. It is analogous to Newtons' law of gravitation in that it relates the force on each particle to the inverse square of the distance between them. FTP, name this law for electrostatic force dependant on charge named after a French physicist.": {
+    "guess": "Coulomb's law",
+    "confidence": [
+      [
+        "C",
+        -7.529192e-05
+      ],
+      [
+        "oul",
+        0.0
+      ],
+      [
+        "omb",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -2.577686e-06
+      ],
+      [
+        " law",
+        -0.2254126
+      ]
+    ]
+  },
+  "As a lawyer in Cincinnati, he became known as a defender of fugitive slaves, and was one of the founders": {
+    "guess": "Salmon P. Chase",
+    "confidence": [
+      [
+        "Sal",
+        -0.0038333328
+      ],
+      [
+        "mon",
+        -1.2664457e-06
+      ],
+      [
+        " P",
+        -0.00037549992
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Chase",
+        0.0
+      ]
+    ]
+  },
+  "As a lawyer in Cincinnati, he became known as a defender of fugitive slaves, and was one of the founders of both the Liberty and Free-Soil parties. After serving one term in the Senate, he returned to": {
+    "guess": "Salmon P. Chase",
+    "confidence": [
+      [
+        "Sal",
+        -0.00026753443
+      ],
+      [
+        "mon",
+        0.0
+      ],
+      [
+        " P",
+        -8.75699e-05
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Chase",
+        0.0
+      ]
+    ]
+  },
+  "As a lawyer in Cincinnati, he became known as a defender of fugitive slaves, and was one of the founders of both the Liberty and Free-Soil parties. After serving one term in the Senate, he returned to Ohio in 1855 as governor, but accepted a post in Lincoln's cabinet from which he worked for passage": {
+    "guess": "Salmon P. Chase",
+    "confidence": [
+      [
+        "Sal",
+        -0.0015093893
+      ],
+      [
+        "mon",
+        0.0
+      ],
+      [
+        " P",
+        -6.8616515e-05
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Chase",
+        0.0
+      ]
+    ]
+  },
+  "As a lawyer in Cincinnati, he became known as a defender of fugitive slaves, and was one of the founders of both the Liberty and Free-Soil parties. After serving one term in the Senate, he returned to Ohio in 1855 as governor, but accepted a post in Lincoln's cabinet from which he worked for passage of the National Banking Act. FTP, identify this politician, who presided over the trial of Jefferson": {
+    "guess": "Salmon P. Chase",
+    "confidence": [
+      [
+        "Sal",
+        -0.001546526
+      ],
+      [
+        "mon",
+        0.0
+      ],
+      [
+        " P",
+        -0.00015288251
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Chase",
+        0.0
+      ]
+    ]
+  },
+  "As a lawyer in Cincinnati, he became known as a defender of fugitive slaves, and was one of the founders of both the Liberty and Free-Soil parties. After serving one term in the Senate, he returned to Ohio in 1855 as governor, but accepted a post in Lincoln's cabinet from which he worked for passage of the National Banking Act. FTP, identify this politician, who presided over the trial of Jefferson Davis and the impeachment of Andrew Johnson as Chief Justice of the Supreme Court.": {
+    "guess": "Salmon P. Chase",
+    "confidence": [
+      [
+        "Sal",
+        -1.4140442e-05
+      ],
+      [
+        "mon",
+        -1.9361265e-07
+      ],
+      [
+        " P",
+        -5.3000836e-05
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Chase",
+        0.0
+      ]
+    ]
+  },
+  "Lawrence Alloway probably coined the term in 1955, using it to refer to the work of Magda Cordell, Richard": {
+    "guess": "Pop art",
+    "confidence": [
+      [
+        "Pop",
+        -0.0022895448
+      ],
+      [
+        " art",
+        -0.4740777
+      ]
+    ]
+  },
+  "Lawrence Alloway probably coined the term in 1955, using it to refer to the work of Magda Cordell, Richard Hamilton, and Paolozzi. The second wave came later, including Peter Blake and Roger Coleman, and": {
+    "guess": "Pop Art",
+    "confidence": [
+      [
+        "Pop",
+        -0.042691287
+      ],
+      [
+        " Art",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "Lawrence Alloway probably coined the term in 1955, using it to refer to the work of Magda Cordell, Richard Hamilton, and Paolozzi. The second wave came later, including Peter Blake and Roger Coleman, and the final group included Peter Phillips and Da  vid Hockney. FTP, name this artistic movement, which": {
+    "guess": "Pop Art",
+    "confidence": [
+      [
+        "Pop",
+        -0.01276826
+      ],
+      [
+        " Art",
+        -0.0052337637
+      ]
+    ]
+  },
+  "Lawrence Alloway probably coined the term in 1955, using it to refer to the work of Magda Cordell, Richard Hamilton, and Paolozzi. The second wave came later, including Peter Blake and Roger Coleman, and the final group included Peter Phillips and Da  vid Hockney. FTP, name this artistic movement, which uses advertising, media, and products of contemporary life, and whose American members include Claes": {
+    "guess": "Pop Art",
+    "confidence": [
+      [
+        "Pop",
+        -0.0011968977
+      ],
+      [
+        " Art",
+        -0.16022454
+      ]
+    ]
+  },
+  "Lawrence Alloway probably coined the term in 1955, using it to refer to the work of Magda Cordell, Richard Hamilton, and Paolozzi. The second wave came later, including Peter Blake and Roger Coleman, and the final group included Peter Phillips and Da  vid Hockney. FTP, name this artistic movement, which uses advertising, media, and products of contemporary life, and whose American members include Claes Oldenburg, Robert Rauschenberg, Jasper Johns, Roy Lichtenstein, and Andy Warhol.": {
+    "guess": "Pop Art",
+    "confidence": [
+      [
+        "Pop",
+        -7.588794e-05
+      ],
+      [
+        " Art",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "This law can be written in the Voigt notation as a six by six compliance matrix. One form of this law": {
+    "guess": "Hooke's law",
+    "confidence": [
+      [
+        "Hook",
+        -0.008882469
+      ],
+      [
+        "e",
+        -7.89631e-07
+      ],
+      [
+        "'s",
+        -5.4385737e-06
+      ],
+      [
+        " law",
+        -0.00015848507
+      ]
+    ]
+  },
+  "This law can be written in the Voigt notation as a six by six compliance matrix. One form of this law is the expression for the free energy of a deformed isotropic body, and includes the Lam\u00e9 coefficients.": {
+    "guess": "Hooke's law",
+    "confidence": [
+      [
+        "Hook",
+        -0.0008825228
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        "'s",
+        -2.577686e-06
+      ],
+      [
+        " law",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "This law can be written in the Voigt notation as a six by six compliance matrix. One form of this law is the expression for the free energy of a deformed isotropic body, and includes the Lam\u00e9 coefficients. A generalization of it includes Young's modulus, and simple harmonic motion occurs when it is obeyed.": {
+    "guess": "Hooke's law",
+    "confidence": [
+      [
+        "Hook",
+        -0.002273843
+      ],
+      [
+        "e",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -6.9882217e-06
+      ],
+      [
+        " law",
+        -0.0009115827
+      ]
+    ]
+  },
+  "This law can be written in the Voigt notation as a six by six compliance matrix. One form of this law is the expression for the free energy of a deformed isotropic body, and includes the Lam\u00e9 coefficients. A generalization of it includes Young's modulus, and simple harmonic motion occurs when it is obeyed. This law includes a negative sign because the force exerted is always directed opposite to the": {
+    "guess": "Hooke's law",
+    "confidence": [
+      [
+        "Hook",
+        -0.00092348846
+      ],
+      [
+        "e",
+        -6.704273e-07
+      ],
+      [
+        "'s",
+        -1.6240566e-06
+      ],
+      [
+        " law",
+        -0.00029601678
+      ]
+    ]
+  },
+  "This law can be written in the Voigt notation as a six by six compliance matrix. One form of this law is the expression for the free energy of a deformed isotropic body, and includes the Lam\u00e9 coefficients. A generalization of it includes Young's modulus, and simple harmonic motion occurs when it is obeyed. This law includes a negative sign because the force exerted is always directed opposite to the displacement of the object. FTP name this law that governs springs and is stated as F equals negative": {
+    "guess": "Hooke's law",
+    "confidence": [
+      [
+        "Hook",
+        -0.0026681654
+      ],
+      [
+        "e",
+        -6.2729996e-06
+      ],
+      [
+        "'s",
+        -4.246537e-06
+      ],
+      [
+        " law",
+        -0.0024757776
+      ]
+    ]
+  },
+  "This law can be written in the Voigt notation as a six by six compliance matrix. One form of this law is the expression for the free energy of a deformed isotropic body, and includes the Lam\u00e9 coefficients. A generalization of it includes Young's modulus, and simple harmonic motion occurs when it is obeyed. This law includes a negative sign because the force exerted is always directed opposite to the displacement of the object. FTP name this law that governs springs and is stated as F equals negative k times x.": {
+    "guess": "Hooke's law",
+    "confidence": [
+      [
+        "Hook",
+        -0.00015490896
+      ],
+      [
+        "e",
+        -6.9882217e-06
+      ],
+      [
+        "'s",
+        -2.9352968e-06
+      ],
+      [
+        " law",
+        -0.0021851186
+      ]
+    ]
+  },
+  "His law of phosphorescence states if a solid is capable of absorbing light it may re-emit light. His": {
+    "guess": "Stokes' Law",
+    "confidence": [
+      [
+        "St",
+        -0.25308725
+      ],
+      [
+        "okes",
+        -0.0009121788
+      ],
+      [
+        "'",
+        -0.1987261
+      ],
+      [
+        " Law",
+        -0.4741051
+      ]
+    ]
+  },
+  "His law of phosphorescence states if a solid is capable of absorbing light it may re-emit light. His law of terminal speed states that the viscous drag force experienced by a sphere moving through a fluid": {
+    "guess": "Sir George Stokes, 1st Baronet",
+    "confidence": [
+      [
+        "Sir",
+        -0.8314666
+      ],
+      [
+        " George",
+        -3.1186566e-05
+      ],
+      [
+        " St",
+        -0.00022511258
+      ],
+      [
+        "okes",
+        -1.9361265e-07
+      ],
+      [
+        ",",
+        -0.00055589364
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "1",
+        0.0
+      ],
+      [
+        "st",
+        0.0
+      ],
+      [
+        " Bar",
+        0.0
+      ],
+      [
+        "onet",
+        0.0
+      ]
+    ]
+  },
+  "His law of phosphorescence states if a solid is capable of absorbing light it may re-emit light. His law of terminal speed states that the viscous drag force experienced by a sphere moving through a fluid is 6 pi times the product of the radius of the sphere, the speed of the sphere and the fluid's viscocity.": {
+    "guess": "Stokes' law",
+    "confidence": [
+      [
+        "St",
+        -0.006833183
+      ],
+      [
+        "okes",
+        -0.0011712946
+      ],
+      [
+        "'",
+        -0.023657704
+      ],
+      [
+        " law",
+        -0.16037695
+      ]
+    ]
+  },
+  "His law of phosphorescence states if a solid is capable of absorbing light it may re-emit light. His law of terminal speed states that the viscous drag force experienced by a sphere moving through a fluid is 6 pi times the product of the radius of the sphere, the speed of the sphere and the fluid's viscocity. For 10 points\u2014name this Scottish physicist better known to calculus students for his theorem": {
+    "guess": "Stokes' theorem",
+    "confidence": [
+      [
+        "St",
+        -0.018428283
+      ],
+      [
+        "okes",
+        -0.0019295862
+      ],
+      [
+        "'",
+        -0.0057724807
+      ],
+      [
+        " theorem",
+        -0.10072827
+      ]
+    ]
+  },
+  "His law of phosphorescence states if a solid is capable of absorbing light it may re-emit light. His law of terminal speed states that the viscous drag force experienced by a sphere moving through a fluid is 6 pi times the product of the radius of the sphere, the speed of the sphere and the fluid's viscocity. For 10 points\u2014name this Scottish physicist better known to calculus students for his theorem that relates line integrals of vector fields to surface integrals of vector fields.": {
+    "guess": "Stokes' theorem",
+    "confidence": [
+      [
+        "St",
+        -0.12145739
+      ],
+      [
+        "okes",
+        -0.003178902
+      ],
+      [
+        "'",
+        -0.0048400955
+      ],
+      [
+        " theorem",
+        -0.16025998
+      ]
+    ]
+  },
+  "One law named for Isaac Newton describes the rate of transfer of this quantity, which does not change": {
+    "guess": "Momentum",
+    "confidence": [
+      [
+        "Momentum",
+        -0.5345068
+      ]
+    ]
+  },
+  "One law named for Isaac Newton describes the rate of transfer of this quantity, which does not change in adiabatic [ay-dee-uh-BAA-tik] processes. Without additional work it can only flow in one direction": {
+    "guess": "Heat",
+    "confidence": [
+      [
+        "Heat",
+        -0.30408514
+      ]
+    ]
+  },
+  "One law named for Isaac Newton describes the rate of transfer of this quantity, which does not change in adiabatic [ay-dee-uh-BAA-tik] processes. Without additional work it can only flow in one direction according to the (*) second law of thermodynamics. Because it is a type of energy, it is often measured": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0077233
+      ]
+    ]
+  },
+  "One law named for Isaac Newton describes the rate of transfer of this quantity, which does not change in adiabatic [ay-dee-uh-BAA-tik] processes. Without additional work it can only flow in one direction according to the (*) second law of thermodynamics. Because it is a type of energy, it is often measured in joules, and can also be measured in calories. For 10 points, name this quantity that can be": {
+    "guess": "Heat",
+    "confidence": [
+      [
+        "Heat",
+        -0.14249673
+      ]
+    ]
+  },
+  "One law named for Isaac Newton describes the rate of transfer of this quantity, which does not change in adiabatic [ay-dee-uh-BAA-tik] processes. Without additional work it can only flow in one direction according to the (*) second law of thermodynamics. Because it is a type of energy, it is often measured in joules, and can also be measured in calories. For 10 points, name this quantity that can be transferred by convection, radiation, or conduction.": {
+    "guess": "Heat",
+    "confidence": [
+      [
+        "Heat",
+        -0.03820627
+      ]
+    ]
+  },
+  "Laws named for this man were modified by Mordechai Milgrom to describe systems of galaxies. One law named": {
+    "guess": "Isaac Newton",
+    "confidence": [
+      [
+        "Isa",
+        -0.52797955
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " Newton",
+        0.0
+      ]
+    ]
+  },
+  "Laws named for this man were modified by Mordechai Milgrom to describe systems of galaxies. One law named for this man includes the convective heat transfer coefficient, and another contains a constant": {
+    "guess": "Newton's laws of motion",
+    "confidence": [
+      [
+        "Newton",
+        -0.0035643082
+      ],
+      [
+        "'s",
+        -0.00023774817
+      ],
+      [
+        " laws",
+        -0.090242766
+      ],
+      [
+        " of",
+        -0.0067559825
+      ],
+      [
+        " motion",
+        -4.608702e-05
+      ]
+    ]
+  },
+  "Laws named for this man were modified by Mordechai Milgrom to describe systems of galaxies. One law named for this man includes the convective heat transfer coefficient, and another contains a constant whose value was first measured by Henry Cavendish in an experiment that used a torsion balance. One": {
+    "guess": "Newton",
+    "confidence": [
+      [
+        "Newton",
+        -0.07757718
+      ]
+    ]
+  },
+  "Laws named for this man were modified by Mordechai Milgrom to describe systems of galaxies. One law named for this man includes the convective heat transfer coefficient, and another contains a constant whose value was first measured by Henry Cavendish in an experiment that used a torsion balance. One law named for this man is sometimes called the action-reaction law, and another is alternatively known": {
+    "guess": "Isaac Newton",
+    "confidence": [
+      [
+        "Isa",
+        -0.23381625
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " Newton",
+        0.0
+      ]
+    ]
+  },
+  "Laws named for this man were modified by Mordechai Milgrom to describe systems of galaxies. One law named for this man includes the convective heat transfer coefficient, and another contains a constant whose value was first measured by Henry Cavendish in an experiment that used a torsion balance. One law named for this man is sometimes called the action-reaction law, and another is alternatively known as the law of inertia. For 10 points, name this English scientist who names three laws of motion,": {
+    "guess": "Isaac Newton",
+    "confidence": [
+      [
+        "Isa",
+        -0.45218122
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " Newton",
+        0.0
+      ]
+    ]
+  },
+  "Laws named for this man were modified by Mordechai Milgrom to describe systems of galaxies. One law named for this man includes the convective heat transfer coefficient, and another contains a constant whose value was first measured by Henry Cavendish in an experiment that used a torsion balance. One law named for this man is sometimes called the action-reaction law, and another is alternatively known as the law of inertia. For 10 points, name this English scientist who names three laws of motion, including one that states force equals mass times acceleration.": {
+    "guess": "Isaac Newton",
+    "confidence": [
+      [
+        "Isa",
+        -0.37329468
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " Newton",
+        0.0
+      ]
+    ]
+  }
+}

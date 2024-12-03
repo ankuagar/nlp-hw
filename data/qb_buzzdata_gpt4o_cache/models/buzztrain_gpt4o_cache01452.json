@@ -1,0 +1,926 @@
+{
+  "Due to unknown circumstances of an imperious nature, the protagonist of this story is unable to take": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.69641733
+      ],
+      [
+        ".",
+        -0.47409514
+      ]
+    ]
+  },
+  "Due to unknown circumstances of an imperious nature, the protagonist of this story is unable to take service in the gallant army which fought the disastrous campaigns ending with the fall of Corinth. ": {
+    "guess": "A Passage to India",
+    "confidence": [
+      [
+        "A",
+        -1.2750391
+      ],
+      [
+        " Passage",
+        -1.3090943
+      ],
+      [
+        " to",
+        -0.021226155
+      ],
+      [
+        " India",
+        -0.023122592
+      ]
+    ]
+  },
+  "Due to unknown circumstances of an imperious nature, the protagonist of this story is unable to take service in the gallant army which fought the disastrous campaigns ending with the fall of Corinth.  He is about 35 years old, has grey eyes, and is a planter from an old Alabama family, but at the end": {
+    "guess": "An Occurrence at Owl Creek Bridge",
+    "confidence": [
+      [
+        "An",
+        -0.11165959
+      ],
+      [
+        " Occ",
+        -2.6968896e-06
+      ],
+      [
+        "urrence",
+        -1.9361265e-07
+      ],
+      [
+        " at",
+        -1.9361265e-07
+      ],
+      [
+        " Owl",
+        -1.9361265e-07
+      ],
+      [
+        " Creek",
+        0.0
+      ],
+      [
+        " Bridge",
+        0.0
+      ]
+    ]
+  },
+  "Due to unknown circumstances of an imperious nature, the protagonist of this story is unable to take service in the gallant army which fought the disastrous campaigns ending with the fall of Corinth.  He is about 35 years old, has grey eyes, and is a planter from an old Alabama family, but at the end of the story his body swings beneath the timbers of the titular structure.  FTP, identify this 1891": {
+    "guess": "\"An Occurrence at Owl Creek Bridge\"",
+    "confidence": [
+      [
+        "\"",
+        -0.31920314
+      ],
+      [
+        "An",
+        -3.7027545e-05
+      ],
+      [
+        " Occ",
+        -1.9361265e-07
+      ],
+      [
+        "urrence",
+        -1.9361265e-07
+      ],
+      [
+        " at",
+        -1.2664457e-06
+      ],
+      [
+        " Owl",
+        0.0
+      ],
+      [
+        " Creek",
+        0.0
+      ],
+      [
+        " Bridge",
+        0.0
+      ],
+      [
+        "\"",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "Due to unknown circumstances of an imperious nature, the protagonist of this story is unable to take service in the gallant army which fought the disastrous campaigns ending with the fall of Corinth.  He is about 35 years old, has grey eyes, and is a planter from an old Alabama family, but at the end of the story his body swings beneath the timbers of the titular structure.  FTP, identify this 1891 story, which features the death by hanging of Peyton Farquhar, a work of Ambrose Bierce.": {
+    "guess": "An Occurrence at Owl Creek Bridge",
+    "confidence": [
+      [
+        "An",
+        -2.6299214e-05
+      ],
+      [
+        " Occ",
+        0.0
+      ],
+      [
+        "urrence",
+        0.0
+      ],
+      [
+        " at",
+        0.0
+      ],
+      [
+        " Owl",
+        0.0
+      ],
+      [
+        " Creek",
+        0.0
+      ],
+      [
+        " Bridge",
+        0.0
+      ]
+    ]
+  },
+  "The duet \"Voglio dire, lo stupendo\" is sung in this opera after one character asks another about whether": {
+    "guess": "Cos\u00ec fan tutte",
+    "confidence": [
+      [
+        "Cos",
+        -0.38651904
+      ],
+      [
+        "\u00ec",
+        -1.504853e-06
+      ],
+      [
+        " fan",
+        -0.00017958412
+      ],
+      [
+        " tutte",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The duet \"Voglio dire, lo stupendo\" is sung in this opera after one character asks another about whether he has a certain item in his possession. After the duet \"Venti scudi!\" is sung, one character signs": {
+    "guess": "The Barber of Seville",
+    "confidence": [
+      [
+        "The",
+        -0.052933265
+      ],
+      [
+        " Barber",
+        -0.1680396
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Se",
+        -3.1281633e-07
+      ],
+      [
+        "ville",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The duet \"Voglio dire, lo stupendo\" is sung in this opera after one character asks another about whether he has a certain item in his possession. After the duet \"Venti scudi!\" is sung, one character signs a contract for an individual whose feast is sung about in \"Fra lieti concenti\". When one character": {
+    "guess": "Il barbiere di Siviglia",
+    "confidence": [
+      [
+        "Il",
+        -0.19012138
+      ],
+      [
+        " bar",
+        -0.46327016
+      ],
+      [
+        "bi",
+        -1.9361265e-07
+      ],
+      [
+        "ere",
+        0.0
+      ],
+      [
+        " di",
+        0.0
+      ],
+      [
+        " Siv",
+        -3.1281633e-07
+      ],
+      [
+        "iglia",
+        0.0
+      ]
+    ]
+  },
+  "The duet \"Voglio dire, lo stupendo\" is sung in this opera after one character asks another about whether he has a certain item in his possession. After the duet \"Venti scudi!\" is sung, one character signs a contract for an individual whose feast is sung about in \"Fra lieti concenti\". When one character in this opera begs another to reconsider her decision to marry a character who earlier sang \"Come": {
+    "guess": "The Elixir of Love",
+    "confidence": [
+      [
+        "The",
+        -0.9048088
+      ],
+      [
+        " El",
+        -0.04567561
+      ],
+      [
+        "ixir",
+        -2.4584822e-06
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " Love",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The duet \"Voglio dire, lo stupendo\" is sung in this opera after one character asks another about whether he has a certain item in his possession. After the duet \"Venti scudi!\" is sung, one character signs a contract for an individual whose feast is sung about in \"Fra lieti concenti\". When one character in this opera begs another to reconsider her decision to marry a character who earlier sang \"Come Paride vezzoso\", (*) Giannetta and her friends lament on it. This opera includes Sergeant Belcore as": {
+    "guess": "L'elisir d'amore",
+    "confidence": [
+      [
+        "L",
+        -0.038071904
+      ],
+      [
+        "'",
+        -9.968313e-06
+      ],
+      [
+        "elis",
+        -0.0002036596
+      ],
+      [
+        "ir",
+        0.0
+      ],
+      [
+        " d",
+        0.0
+      ],
+      [
+        "'am",
+        -4.00813e-06
+      ],
+      [
+        "ore",
+        0.0
+      ]
+    ]
+  },
+  "The duet \"Voglio dire, lo stupendo\" is sung in this opera after one character asks another about whether he has a certain item in his possession. After the duet \"Venti scudi!\" is sung, one character signs a contract for an individual whose feast is sung about in \"Fra lieti concenti\". When one character in this opera begs another to reconsider her decision to marry a character who earlier sang \"Come Paride vezzoso\", (*) Giannetta and her friends lament on it. This opera includes Sergeant Belcore as well as Dulcamara, who creates the titular concoction. Featuring Nemorino, who sings \"Una furtiva": {
+    "guess": "L'elisir d'amore",
+    "confidence": [
+      [
+        "L",
+        -0.018160593
+      ],
+      [
+        "'",
+        -1.4498052e-05
+      ],
+      [
+        "elis",
+        -0.00043078844
+      ],
+      [
+        "ir",
+        0.0
+      ],
+      [
+        " d",
+        0.0
+      ],
+      [
+        "'am",
+        -8.180258e-06
+      ],
+      [
+        "ore",
+        0.0
+      ]
+    ]
+  },
+  "The duet \"Voglio dire, lo stupendo\" is sung in this opera after one character asks another about whether he has a certain item in his possession. After the duet \"Venti scudi!\" is sung, one character signs a contract for an individual whose feast is sung about in \"Fra lieti concenti\". When one character in this opera begs another to reconsider her decision to marry a character who earlier sang \"Come Paride vezzoso\", (*) Giannetta and her friends lament on it. This opera includes Sergeant Belcore as well as Dulcamara, who creates the titular concoction. Featuring Nemorino, who sings \"Una furtiva lagrima\", for 10 points, identify this opera by Donizetti about a potion.": {
+    "guess": "L'elisir d'amore",
+    "confidence": [
+      [
+        "L",
+        -0.023250021
+      ],
+      [
+        "'",
+        -4.036525e-05
+      ],
+      [
+        "elis",
+        -0.0011703447
+      ],
+      [
+        "ir",
+        0.0
+      ],
+      [
+        " d",
+        0.0
+      ],
+      [
+        "'am",
+        -6.2729996e-06
+      ],
+      [
+        "ore",
+        0.0
+      ]
+    ]
+  },
+  "Due to its poor acceptance, one of this artist's paintings was cut into two separate works: The Bullfight": {
+    "guess": "\u00c9douard Manet",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.88421917
+      ],
+      [
+        "dou",
+        -1.6240566e-06
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " Man",
+        -1.9361265e-07
+      ],
+      [
+        "et",
+        0.0
+      ]
+    ]
+  },
+  "Due to its poor acceptance, one of this artist's paintings was cut into two separate works: The Bullfight and The Dead Toreador. Two women in blue bonnets sit in the foreground of a painting dominated": {
+    "guess": "\u00c9douard Manet",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.04472903
+      ],
+      [
+        "dou",
+        -1.7432603e-06
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " Man",
+        0.0
+      ],
+      [
+        "et",
+        0.0
+      ]
+    ]
+  },
+  "Due to its poor acceptance, one of this artist's paintings was cut into two separate works: The Bullfight and The Dead Toreador. Two women in blue bonnets sit in the foreground of a painting dominated by men in top hats in his Music in the Tuileries. A cat stands at the feet of a reclining woman in a": {
+    "guess": "\u00c9douard Manet",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.04482204
+      ],
+      [
+        "dou",
+        -4.365741e-06
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " Man",
+        -6.2729996e-06
+      ],
+      [
+        "et",
+        0.0
+      ]
+    ]
+  },
+  "Due to its poor acceptance, one of this artist's paintings was cut into two separate works: The Bullfight and The Dead Toreador. Two women in blue bonnets sit in the foreground of a painting dominated by men in top hats in his Music in the Tuileries. A cat stands at the feet of a reclining woman in a work of his that was inspired by the Venus of Urbino. The model for that painting, Victorine Meurent,": {
+    "guess": "\u00c9douard Manet",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.034454998
+      ],
+      [
+        "dou",
+        -1.9361265e-07
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " Man",
+        -1.9361265e-07
+      ],
+      [
+        "et",
+        0.0
+      ]
+    ]
+  },
+  "Due to its poor acceptance, one of this artist's paintings was cut into two separate works: The Bullfight and The Dead Toreador. Two women in blue bonnets sit in the foreground of a painting dominated by men in top hats in his Music in the Tuileries. A cat stands at the feet of a reclining woman in a work of his that was inspired by the Venus of Urbino. The model for that painting, Victorine Meurent, appears in another of this man's paintings, which caused a scandal at the Salon des Refus\u00e9s of 1863": {
+    "guess": "\u00c9douard Manet",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.0037795282
+      ],
+      [
+        "dou",
+        -3.1281633e-07
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " Man",
+        0.0
+      ],
+      [
+        "et",
+        0.0
+      ]
+    ]
+  },
+  "Due to its poor acceptance, one of this artist's paintings was cut into two separate works: The Bullfight and The Dead Toreador. Two women in blue bonnets sit in the foreground of a painting dominated by men in top hats in his Music in the Tuileries. A cat stands at the feet of a reclining woman in a work of his that was inspired by the Venus of Urbino. The model for that painting, Victorine Meurent, appears in another of this man's paintings, which caused a scandal at the Salon des Refus\u00e9s of 1863 due to its depiction of a nude woman casually sitting among some trees next to two fully-dressed": {
+    "guess": "\u00c9douard Manet",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.002057358
+      ],
+      [
+        "dou",
+        -1.9361265e-07
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " Man",
+        0.0
+      ],
+      [
+        "et",
+        0.0
+      ]
+    ]
+  },
+  "Due to its poor acceptance, one of this artist's paintings was cut into two separate works: The Bullfight and The Dead Toreador. Two women in blue bonnets sit in the foreground of a painting dominated by men in top hats in his Music in the Tuileries. A cat stands at the feet of a reclining woman in a work of his that was inspired by the Venus of Urbino. The model for that painting, Victorine Meurent, appears in another of this man's paintings, which caused a scandal at the Salon des Refus\u00e9s of 1863 due to its depiction of a nude woman casually sitting among some trees next to two fully-dressed men. For 10 points, name this French painter of Olympia and The Luncheon on the Grass.": {
+    "guess": "\u00c9douard Manet",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.101530835
+      ],
+      [
+        "dou",
+        0.0
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " Man",
+        0.0
+      ],
+      [
+        "et",
+        0.0
+      ]
+    ]
+  },
+  "\"The Duel with the Grand Master\" and \"The Field of the Dead\" are excerpts from the score of this film,": {
+    "guess": "Alexander Nevsky",
+    "confidence": [
+      [
+        "Alexander",
+        -0.025509931
+      ],
+      [
+        " Nev",
+        -1.9361265e-07
+      ],
+      [
+        "sky",
+        0.0
+      ]
+    ]
+  },
+  "\"The Duel with the Grand Master\" and \"The Field of the Dead\" are excerpts from the score of this film, in which the tale of a fox who got stuck between two trees while chasing a rabbit is told by the blacksmith": {
+    "guess": "Alexander Nevsky",
+    "confidence": [
+      [
+        "Alexander",
+        -0.054350305
+      ],
+      [
+        " Nev",
+        -6.749814e-06
+      ],
+      [
+        "sky",
+        0.0
+      ]
+    ]
+  },
+  "\"The Duel with the Grand Master\" and \"The Field of the Dead\" are excerpts from the score of this film, in which the tale of a fox who got stuck between two trees while chasing a rabbit is told by the blacksmith Igant and foreshadows its climatic event, which was inspired by a waterfall scene in the film": {
+    "guess": "The Revenant",
+    "confidence": [
+      [
+        "The",
+        -0.45037958
+      ],
+      [
+        " Reven",
+        -0.22837628
+      ],
+      [
+        "ant",
+        0.0
+      ]
+    ]
+  },
+  "\"The Duel with the Grand Master\" and \"The Field of the Dead\" are excerpts from the score of this film, in which the tale of a fox who got stuck between two trees while chasing a rabbit is told by the blacksmith Igant and foreshadows its climatic event, which was inspired by a waterfall scene in the film Way Down East. Though now-outdated production methods have undermined the dramatic effect of scenes": {
+    "guess": "Alexander Nevsky",
+    "confidence": [
+      [
+        "Alexander",
+        -0.031900354
+      ],
+      [
+        " Nev",
+        -1.3067608e-05
+      ],
+      [
+        "sky",
+        0.0
+      ]
+    ]
+  },
+  "\"The Duel with the Grand Master\" and \"The Field of the Dead\" are excerpts from the score of this film, in which the tale of a fox who got stuck between two trees while chasing a rabbit is told by the blacksmith Igant and foreshadows its climatic event, which was inspired by a waterfall scene in the film Way Down East. Though now-outdated production methods have undermined the dramatic effect of scenes like that of babies being thrown into a bonfire after the sack of Pskov, this propaganda piece marked": {
+    "guess": "Alexander Nevsky",
+    "confidence": [
+      [
+        "Alexander",
+        -0.023471178
+      ],
+      [
+        " Nev",
+        -4.3202e-07
+      ],
+      [
+        "sky",
+        0.0
+      ]
+    ]
+  },
+  "\"The Duel with the Grand Master\" and \"The Field of the Dead\" are excerpts from the score of this film, in which the tale of a fox who got stuck between two trees while chasing a rabbit is told by the blacksmith Igant and foreshadows its climatic event, which was inspired by a waterfall scene in the film Way Down East. Though now-outdated production methods have undermined the dramatic effect of scenes like that of babies being thrown into a bonfire after the sack of Pskov, this propaganda piece marked its director's first use of vertical montage and featured an epic battle scene on the ice of Lake": {
+    "guess": "Alexander Nevsky",
+    "confidence": [
+      [
+        "Alexander",
+        -0.0044714203
+      ],
+      [
+        " Nev",
+        -4.3202e-07
+      ],
+      [
+        "sky",
+        0.0
+      ]
+    ]
+  },
+  "\"The Duel with the Grand Master\" and \"The Field of the Dead\" are excerpts from the score of this film, in which the tale of a fox who got stuck between two trees while chasing a rabbit is told by the blacksmith Igant and foreshadows its climatic event, which was inspired by a waterfall scene in the film Way Down East. Though now-outdated production methods have undermined the dramatic effect of scenes like that of babies being thrown into a bonfire after the sack of Pskov, this propaganda piece marked its director's first use of vertical montage and featured an epic battle scene on the ice of Lake Peipus. FTP, identify this Sergei Eisenstein film following the titular 13th Century hero's victory": {
+    "guess": "Alexander Nevsky",
+    "confidence": [
+      [
+        "Alexander",
+        -0.00012332367
+      ],
+      [
+        " Nev",
+        0.0
+      ],
+      [
+        "sky",
+        0.0
+      ]
+    ]
+  },
+  "\"The Duel with the Grand Master\" and \"The Field of the Dead\" are excerpts from the score of this film, in which the tale of a fox who got stuck between two trees while chasing a rabbit is told by the blacksmith Igant and foreshadows its climatic event, which was inspired by a waterfall scene in the film Way Down East. Though now-outdated production methods have undermined the dramatic effect of scenes like that of babies being thrown into a bonfire after the sack of Pskov, this propaganda piece marked its director's first use of vertical montage and featured an epic battle scene on the ice of Lake Peipus. FTP, identify this Sergei Eisenstein film following the titular 13th Century hero's victory over the Teutonic Knights.": {
+    "guess": "Alexander Nevsky",
+    "confidence": [
+      [
+        "Alexander",
+        -0.00022356294
+      ],
+      [
+        " Nev",
+        -3.1281633e-07
+      ],
+      [
+        "sky",
+        0.0
+      ]
+    ]
+  },
+  "Due to his his patronage of flocks and shepherds, this deity is considered the protective god of colonists.": {
+    "guess": "Apollo",
+    "confidence": [
+      [
+        "Apollo",
+        -0.31393626
+      ]
+    ]
+  },
+  "Due to his his patronage of flocks and shepherds, this deity is considered the protective god of colonists. The Romans spread his cult to the Celts, who called him \"Atepomarus\", the great horseman. The": {
+    "guess": "Apollo",
+    "confidence": [
+      [
+        "Apollo",
+        -0.2053041
+      ]
+    ]
+  },
+  "Due to his his patronage of flocks and shepherds, this deity is considered the protective god of colonists. The Romans spread his cult to the Celts, who called him \"Atepomarus\", the great horseman. The epithet \"Lycegenes\" refers to his mother, patron goddess of Lycia. Depending on the myth, either he": {
+    "guess": "Apollo",
+    "confidence": [
+      [
+        "Apollo",
+        -0.263987
+      ]
+    ]
+  },
+  "Due to his his patronage of flocks and shepherds, this deity is considered the protective god of colonists. The Romans spread his cult to the Celts, who called him \"Atepomarus\", the great horseman. The epithet \"Lycegenes\" refers to his mother, patron goddess of Lycia. Depending on the myth, either he or Oeagrus is Orpheus' father. After stealing this deity's cattle, Hermes made for him the first lyre.": {
+    "guess": "Apollo",
+    "confidence": [
+      [
+        "Apollo",
+        -0.01490086
+      ]
+    ]
+  },
+  "Due to his his patronage of flocks and shepherds, this deity is considered the protective god of colonists. The Romans spread his cult to the Celts, who called him \"Atepomarus\", the great horseman. The epithet \"Lycegenes\" refers to his mother, patron goddess of Lycia. Depending on the myth, either he or Oeagrus is Orpheus' father. After stealing this deity's cattle, Hermes made for him the first lyre. The brother of Artemis, FTP, who is this Greek god of music and light?": {
+    "guess": "Apollo",
+    "confidence": [
+      [
+        "Apollo",
+        -0.006752667
+      ]
+    ]
+  },
+  "Due to an Inspector General report on the \"gross misuse of taxpayer dollars\" at this event, Martha Johnson": {
+    "guess": "General Services Administration scandal (2010)",
+    "confidence": [
+      [
+        "General",
+        -0.33674547
+      ],
+      [
+        " Services",
+        -4.3202e-07
+      ],
+      [
+        " Administration",
+        -1.9361265e-07
+      ],
+      [
+        " scandal",
+        -0.100715764
+      ],
+      [
+        " (",
+        -0.8419805
+      ],
+      [
+        "201",
+        -0.0014855816
+      ],
+      [
+        "0",
+        -0.06198371
+      ],
+      [
+        ")",
+        -0.0029788874
+      ]
+    ]
+  },
+  "Due to an Inspector General report on the \"gross misuse of taxpayer dollars\" at this event, Martha Johnson resigned as head of the agency in question. The over $800,000 in expenses at this Las Vegas-hosted": {
+    "guess": "GSA scandal",
+    "confidence": [
+      [
+        "G",
+        -0.061321087
+      ],
+      [
+        "SA",
+        -9.0883464e-07
+      ],
+      [
+        " scandal",
+        -0.046132155
+      ]
+    ]
+  },
+  "Due to an Inspector General report on the \"gross misuse of taxpayer dollars\" at this event, Martha Johnson resigned as head of the agency in question. The over $800,000 in expenses at this Las Vegas-hosted event included fees for a clown and mindreader and over $6,300 on commemorative coins. Bill O'Reilly": {
+    "guess": "GSA scandal",
+    "confidence": [
+      [
+        "G",
+        -0.40381846
+      ],
+      [
+        "SA",
+        -1.2664457e-06
+      ],
+      [
+        " scandal",
+        -0.10259258
+      ]
+    ]
+  },
+  "Due to an Inspector General report on the \"gross misuse of taxpayer dollars\" at this event, Martha Johnson resigned as head of the agency in question. The over $800,000 in expenses at this Las Vegas-hosted event included fees for a clown and mindreader and over $6,300 on commemorative coins. Bill O'Reilly especially protested the $4 per shrimp price tag at this training conference. For 10 points, name": {
+    "guess": "GSA scandal",
+    "confidence": [
+      [
+        "G",
+        -1.2796597
+      ],
+      [
+        "SA",
+        -7.89631e-07
+      ],
+      [
+        " scandal",
+        -0.066294506
+      ]
+    ]
+  },
+  "Due to an Inspector General report on the \"gross misuse of taxpayer dollars\" at this event, Martha Johnson resigned as head of the agency in question. The over $800,000 in expenses at this Las Vegas-hosted event included fees for a clown and mindreader and over $6,300 on commemorative coins. Bill O'Reilly especially protested the $4 per shrimp price tag at this training conference. For 10 points, name this controversy involving the exorbitant spending on a 2010 training conference of a government": {
+    "guess": "GSA scandal",
+    "confidence": [
+      [
+        "G",
+        -0.1794678
+      ],
+      [
+        "SA",
+        -6.704273e-07
+      ],
+      [
+        " scandal",
+        -0.097687304
+      ]
+    ]
+  },
+  "Due to an Inspector General report on the \"gross misuse of taxpayer dollars\" at this event, Martha Johnson resigned as head of the agency in question. The over $800,000 in expenses at this Las Vegas-hosted event included fees for a clown and mindreader and over $6,300 on commemorative coins. Bill O'Reilly especially protested the $4 per shrimp price tag at this training conference. For 10 points, name this controversy involving the exorbitant spending on a 2010 training conference of a government agency charged with developing cost-cutting policies.": {
+    "guess": "GSA scandal",
+    "confidence": [
+      [
+        "G",
+        -0.10619417
+      ],
+      [
+        "SA",
+        -1.147242e-06
+      ],
+      [
+        " scandal",
+        -0.08558716
+      ]
+    ]
+  },
+  "One of the duets in this opera is Amore o grillo, which means Love or Fancy. Some of the most famous": {
+    "guess": "Madama Butterfly",
+    "confidence": [
+      [
+        "Mad",
+        -0.0019353043
+      ],
+      [
+        "ama",
+        -1.9361265e-07
+      ],
+      [
+        " Butterfly",
+        0.0
+      ]
+    ]
+  },
+  "One of the duets in this opera is Amore o grillo, which means Love or Fancy. Some of the most famous lyrics translate as, \"Ah, love me a little, oh, just a very little, As you would love a baby, 'Tis all": {
+    "guess": "Madama Butterfly",
+    "confidence": [
+      [
+        "Mad",
+        -0.006274186
+      ],
+      [
+        "ama",
+        -0.00026145502
+      ],
+      [
+        " Butterfly",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "One of the duets in this opera is Amore o grillo, which means Love or Fancy. Some of the most famous lyrics translate as, \"Ah, love me a little, oh, just a very little, As you would love a baby, 'Tis all that I ask for.\" One of the characters, Sharpless, tries unsuccessfully to talk Pinkerton out of": {
+    "guess": "Madama Butterfly",
+    "confidence": [
+      [
+        "Mad",
+        -0.0055255583
+      ],
+      [
+        "ama",
+        -0.00043078844
+      ],
+      [
+        " Butterfly",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "One of the duets in this opera is Amore o grillo, which means Love or Fancy. Some of the most famous lyrics translate as, \"Ah, love me a little, oh, just a very little, As you would love a baby, 'Tis all that I ask for.\" One of the characters, Sharpless, tries unsuccessfully to talk Pinkerton out of signing a wedding contract that is valid for nine hundred ninety-nine years but can be annulled at the": {
+    "guess": "Madama Butterfly",
+    "confidence": [
+      [
+        "Mad",
+        -0.0011013991
+      ],
+      [
+        "ama",
+        -0.004079351
+      ],
+      [
+        " Butterfly",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "One of the duets in this opera is Amore o grillo, which means Love or Fancy. Some of the most famous lyrics translate as, \"Ah, love me a little, oh, just a very little, As you would love a baby, 'Tis all that I ask for.\" One of the characters, Sharpless, tries unsuccessfully to talk Pinkerton out of signing a wedding contract that is valid for nine hundred ninety-nine years but can be annulled at the end of each month. Three years later, Lieutenant Pinkerton finds out that Sharpless was right. Name": {
+    "guess": "Madama Butterfly",
+    "confidence": [
+      [
+        "Mad",
+        -0.00012713818
+      ],
+      [
+        "ama",
+        0.0
+      ],
+      [
+        " Butterfly",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One of the duets in this opera is Amore o grillo, which means Love or Fancy. Some of the most famous lyrics translate as, \"Ah, love me a little, oh, just a very little, As you would love a baby, 'Tis all that I ask for.\" One of the characters, Sharpless, tries unsuccessfully to talk Pinkerton out of signing a wedding contract that is valid for nine hundred ninety-nine years but can be annulled at the end of each month. Three years later, Lieutenant Pinkerton finds out that Sharpless was right. Name this Puccini opera set in Nagasaki.": {
+    "guess": "Madama Butterfly",
+    "confidence": [
+      [
+        "Mad",
+        -7.3458323e-06
+      ],
+      [
+        "ama",
+        0.0
+      ],
+      [
+        " Butterfly",
+        0.0
+      ]
+    ]
+  }
+}

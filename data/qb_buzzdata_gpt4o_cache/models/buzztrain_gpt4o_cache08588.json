@@ -1,0 +1,82 @@
+{
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of": {
+    "guess": "Force",
+    "confidence": [
+      [
+        "Force",
+        -0.5523982
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this": {
+    "guess": "Lorentz force",
+    "confidence": [
+      [
+        "Lor",
+        -0.05700869
+      ],
+      [
+        "entz",
+        -2.7610455e-05
+      ],
+      [
+        " force",
+        -0.0015039096
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this quantity is the product of the charge and the field strength. This quantity is generally equal to": {
+    "guess": "Force",
+    "confidence": [
+      [
+        "Force",
+        -0.018217957
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this quantity is the product of the charge and the field strength. This quantity is generally equal to the derivative of momentum with respect to time. This quantity is proportional to (*) displacement": {
+    "guess": "Force",
+    "confidence": [
+      [
+        "Force",
+        -0.0002738522
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this quantity is the product of the charge and the field strength. This quantity is generally equal to the derivative of momentum with respect to time. This quantity is proportional to (*) displacement in a spring by Hooke's Law and, in the case of its electromagnetism, varies inversely with distance": {
+    "guess": "Force",
+    "confidence": [
+      [
+        "Force",
+        -0.00016158436
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this quantity is the product of the charge and the field strength. This quantity is generally equal to the derivative of momentum with respect to time. This quantity is proportional to (*) displacement in a spring by Hooke's Law and, in the case of its electromagnetism, varies inversely with distance squared. The \"normal\" type of this always acts perpendicularly to an inclined plane an object rests": {
+    "guess": "Force",
+    "confidence": [
+      [
+        "Force",
+        -0.0039056384
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this quantity is the product of the charge and the field strength. This quantity is generally equal to the derivative of momentum with respect to time. This quantity is proportional to (*) displacement in a spring by Hooke's Law and, in the case of its electromagnetism, varies inversely with distance squared. The \"normal\" type of this always acts perpendicularly to an inclined plane an object rests on. For ten points, what is this vector quantity from physics, which is equal to mass times acceleration": {
+    "guess": "Force",
+    "confidence": [
+      [
+        "Force",
+        -0.0031841253
+      ]
+    ]
+  },
+  "For a wire suspended in a magnetic field, the magnitude of this quantity is equal to the magnitude of the current times the length times the field strength, and when a charge is in an electric field, this quantity is the product of the charge and the field strength. This quantity is generally equal to the derivative of momentum with respect to time. This quantity is proportional to (*) displacement in a spring by Hooke's Law and, in the case of its electromagnetism, varies inversely with distance squared. The \"normal\" type of this always acts perpendicularly to an inclined plane an object rests on. For ten points, what is this vector quantity from physics, which is equal to mass times acceleration and is often measured in Newtons?": {
+    "guess": "Force",
+    "confidence": [
+      [
+        "Force",
+        -0.0011798699
+      ]
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5649048
+      ]
+    ]
+  },
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna. In another painting, a semi-circular slab above a window behind him appears to give him a halo as": {
+    "guess": "Lamentation of Christ",
+    "confidence": [
+      [
+        "L",
+        -0.7949813
+      ],
+      [
+        "ament",
+        -0.00036763248
+      ],
+      [
+        "ation",
+        -2.577686e-06
+      ],
+      [
+        " of",
+        -0.16128434
+      ],
+      [
+        " Christ",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna. In another painting, a semi-circular slab above a window behind him appears to give him a halo as he sits next to a blue-sleeved man with index finger pointed upwards. This figure's death is shown": {
+    "guess": "Lamentation of Christ",
+    "confidence": [
+      [
+        "L",
+        -0.2855479
+      ],
+      [
+        "ament",
+        -1.7432603e-06
+      ],
+      [
+        "ation",
+        -6.9882217e-06
+      ],
+      [
+        " of",
+        -0.25473964
+      ],
+      [
+        " Christ",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna. In another painting, a semi-circular slab above a window behind him appears to give him a halo as he sits next to a blue-sleeved man with index finger pointed upwards. This figure's death is shown in 4 dimensions in Dali's Corpus Hypercubus, and in a Rubens painting, incredibly (*) muscular men attempt": {
+    "guess": "Christ in art",
+    "confidence": [
+      [
+        "Christ",
+        -1.1274141
+      ],
+      [
+        " in",
+        -0.4156026
+      ],
+      [
+        " art",
+        -0.05557084
+      ]
+    ]
+  },
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna. In another painting, a semi-circular slab above a window behind him appears to give him a halo as he sits next to a blue-sleeved man with index finger pointed upwards. This figure's death is shown in 4 dimensions in Dali's Corpus Hypercubus, and in a Rubens painting, incredibly (*) muscular men attempt to lift this man while he is attached to another object. For ten points, identify this long-haired": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6475076
+      ]
+    ]
+  },
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna. In another painting, a semi-circular slab above a window behind him appears to give him a halo as he sits next to a blue-sleeved man with index finger pointed upwards. This figure's death is shown in 4 dimensions in Dali's Corpus Hypercubus, and in a Rubens painting, incredibly (*) muscular men attempt to lift this man while he is attached to another object. For ten points, identify this long-haired man who appears often in artwork like the Pieta, where his body is held by his mother, the Virgin": {
+    "guess": "Jesus",
+    "confidence": [
+      [
+        "Jesus",
+        -0.09178411
+      ]
+    ]
+  },
+  "This man's feet are smaller than they should be in a foreshortened depiction of him by Andrea Mantegna. In another painting, a semi-circular slab above a window behind him appears to give him a halo as he sits next to a blue-sleeved man with index finger pointed upwards. This figure's death is shown in 4 dimensions in Dali's Corpus Hypercubus, and in a Rubens painting, incredibly (*) muscular men attempt to lift this man while he is attached to another object. For ten points, identify this long-haired man who appears often in artwork like the Pieta, where his body is held by his mother, the Virgin Mary.": {
+    "guess": "Jesus",
+    "confidence": [
+      [
+        "Jesus",
+        -0.14744343
+      ]
+    ]
+  },
+  "At 18 feet by 12 feet, it is currently located at the Stanford University Museum of Art in a sculpture": {
+    "guess": "The Thinker",
+    "confidence": [
+      [
+        "The",
+        -0.52327424
+      ],
+      [
+        " Think",
+        -0.13079534
+      ],
+      [
+        "er",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "At 18 feet by 12 feet, it is currently located at the Stanford University Museum of Art in a sculpture garden dedicated entirely to the artist's work. The use of identical, disembodied hands and torsos": {
+    "guess": "The Gates of Hell",
+    "confidence": [
+      [
+        "The",
+        -0.13180725
+      ],
+      [
+        " Gates",
+        -0.15378943
+      ],
+      [
+        " of",
+        -0.00011319869
+      ],
+      [
+        " Hell",
+        -2.8206474e-05
+      ]
+    ]
+  },
+  "At 18 feet by 12 feet, it is currently located at the Stanford University Museum of Art in a sculpture garden dedicated entirely to the artist's work. The use of identical, disembodied hands and torsos deprives this bronze piece of any real culmination or change. Based on a vision found in Dante's Inferno,": {
+    "guess": "The Gates of Hell",
+    "confidence": [
+      [
+        "The",
+        -0.016465051
+      ],
+      [
+        " Gates",
+        -0.001628406
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hell",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "At 18 feet by 12 feet, it is currently located at the Stanford University Museum of Art in a sculpture garden dedicated entirely to the artist's work. The use of identical, disembodied hands and torsos deprives this bronze piece of any real culmination or change. Based on a vision found in Dante's Inferno, this sculpture contains miniatures of the sculptor's other works, including Fugit Amor in the": {
+    "guess": "The Gates of Hell",
+    "confidence": [
+      [
+        "The",
+        -0.04361928
+      ],
+      [
+        " Gates",
+        -1.60477e-05
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Hell",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "At 18 feet by 12 feet, it is currently located at the Stanford University Museum of Art in a sculpture garden dedicated entirely to the artist's work. The use of identical, disembodied hands and torsos deprives this bronze piece of any real culmination or change. Based on a vision found in Dante's Inferno, this sculpture contains miniatures of the sculptor's other works, including Fugit Amor in the center, and The Thinker near the top. FTP, identify this work by Rodin that depicts the portal to eternal": {
+    "guess": "The Gates of Hell",
+    "confidence": [
+      [
+        "The",
+        -0.0002226093
+      ],
+      [
+        " Gates",
+        -2.9994528e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hell",
+        0.0
+      ]
+    ]
+  },
+  "At 18 feet by 12 feet, it is currently located at the Stanford University Museum of Art in a sculpture garden dedicated entirely to the artist's work. The use of identical, disembodied hands and torsos deprives this bronze piece of any real culmination or change. Based on a vision found in Dante's Inferno, this sculpture contains miniatures of the sculptor's other works, including Fugit Amor in the center, and The Thinker near the top. FTP, identify this work by Rodin that depicts the portal to eternal damnation.": {
+    "guess": "The Gates of Hell",
+    "confidence": [
+      [
+        "The",
+        -9.1622824e-05
+      ],
+      [
+        " Gates",
+        -0.00012047011
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hell",
+        0.0
+      ]
+    ]
+  },
+  "It is 290 feet high, 42 feet thick, and 33 feet wide. Declared a national monument in 1910, it can only": {
+    "guess": "Devils Tower",
+    "confidence": [
+      [
+        "Dev",
+        -0.0037342836
+      ],
+      [
+        "ils",
+        -0.00043066923
+      ],
+      [
+        " Tower",
+        -2.188868e-05
+      ]
+    ]
+  },
+  "It is 290 feet high, 42 feet thick, and 33 feet wide. Declared a national monument in 1910, it can only be hiked to with permission of the Navajo Nation, on whose land it stands, and famous visitors include": {
+    "guess": "Shiprock",
+    "confidence": [
+      [
+        "Ship",
+        -0.14300244
+      ],
+      [
+        "rock",
+        -9.651017e-05
+      ]
+    ]
+  },
+  "It is 290 feet high, 42 feet thick, and 33 feet wide. Declared a national monument in 1910, it can only be hiked to with permission of the Navajo Nation, on whose land it stands, and famous visitors include Zane Grey and Theodore Roosevelt. Otherwise, it is accessibly by boat from Lake Powell near Glen": {
+    "guess": "Rainbow Bridge National Monument",
+    "confidence": [
+      [
+        "Rainbow",
+        -0.0069274274
+      ],
+      [
+        " Bridge",
+        -1.504853e-06
+      ],
+      [
+        " National",
+        -0.011703007
+      ],
+      [
+        " Monument",
+        0.0
+      ]
+    ]
+  },
+  "It is 290 feet high, 42 feet thick, and 33 feet wide. Declared a national monument in 1910, it can only be hiked to with permission of the Navajo Nation, on whose land it stands, and famous visitors include Zane Grey and Theodore Roosevelt. Otherwise, it is accessibly by boat from Lake Powell near Glen Canyon. It is made of salmon-pink sandstone that spans 275 feet in an arc over Bridge Canyon. FTP,": {
+    "guess": "Rainbow Bridge National Monument",
+    "confidence": [
+      [
+        "Rainbow",
+        -1.1398757e-05
+      ],
+      [
+        " Bridge",
+        -1.9361265e-07
+      ],
+      [
+        " National",
+        -0.07144925
+      ],
+      [
+        " Monument",
+        0.0
+      ]
+    ]
+  },
+  "It is 290 feet high, 42 feet thick, and 33 feet wide. Declared a national monument in 1910, it can only be hiked to with permission of the Navajo Nation, on whose land it stands, and famous visitors include Zane Grey and Theodore Roosevelt. Otherwise, it is accessibly by boat from Lake Powell near Glen Canyon. It is made of salmon-pink sandstone that spans 275 feet in an arc over Bridge Canyon. FTP, identify this landform, the world's largest natural bridge located in southern Utah.": {
+    "guess": "Rainbow Bridge National Monument",
+    "confidence": [
+      [
+        "Rainbow",
+        -0.00013846254
+      ],
+      [
+        " Bridge",
+        0.0
+      ],
+      [
+        " National",
+        -0.48744553
+      ],
+      [
+        " Monument",
+        0.0
+      ]
+    ]
+  }
+}

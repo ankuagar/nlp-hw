@@ -1,0 +1,196 @@
+{
+  "GNU Guile is one language derived from it. It has a 1300 page draft standard, prompting the development": {
+    "guess": "Scheme (programming language)",
+    "confidence": [
+      [
+        "Scheme",
+        -0.00492407
+      ],
+      [
+        " (",
+        -0.07962665
+      ],
+      [
+        "program",
+        -0.00017779607
+      ],
+      [
+        "ming",
+        0.0
+      ],
+      [
+        " language",
+        -0.00012391969
+      ],
+      [
+        ")",
+        -2.577686e-06
+      ]
+    ]
+  },
+  "GNU Guile is one language derived from it. It has a 1300 page draft standard, prompting the development of the Scheme dialect, a version stressing simplicity which is often taught in introductory CS classes": {
+    "guess": "Lisp (programming language)",
+    "confidence": [
+      [
+        "L",
+        -0.0033227922
+      ],
+      [
+        "isp",
+        -0.0031777136
+      ],
+      [
+        " (",
+        -0.0014961724
+      ],
+      [
+        "program",
+        -0.0021986675
+      ],
+      [
+        "ming",
+        0.0
+      ],
+      [
+        " language",
+        -3.3451433e-05
+      ],
+      [
+        ")",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "GNU Guile is one language derived from it. It has a 1300 page draft standard, prompting the development of the Scheme dialect, a version stressing simplicity which is often taught in introductory CS classes and is specified in only fifty pages.  Invented by John McCarthy at MIT, it is known for its ability": {
+    "guess": "Lisp (programming language)",
+    "confidence": [
+      [
+        "L",
+        -0.00050585007
+      ],
+      [
+        "isp",
+        -0.0024756587
+      ],
+      [
+        " (",
+        -0.00017720005
+      ],
+      [
+        "program",
+        -0.000386463
+      ],
+      [
+        "ming",
+        0.0
+      ],
+      [
+        " language",
+        -3.6073914e-05
+      ],
+      [
+        ")",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "GNU Guile is one language derived from it. It has a 1300 page draft standard, prompting the development of the Scheme dialect, a version stressing simplicity which is often taught in introductory CS classes and is specified in only fifty pages.  Invented by John McCarthy at MIT, it is known for its ability to manipulate information contained in parentheses, including other programs, leading to its": {
+    "guess": "Lisp (programming language)",
+    "confidence": [
+      [
+        "L",
+        -0.00086393795
+      ],
+      [
+        "isp",
+        -0.0021851186
+      ],
+      [
+        " (",
+        -0.0006593001
+      ],
+      [
+        "program",
+        -0.00063332834
+      ],
+      [
+        "ming",
+        0.0
+      ],
+      [
+        " language",
+        -5.9080223e-05
+      ],
+      [
+        ")",
+        -5.2001665e-06
+      ]
+    ]
+  },
+  "GNU Guile is one language derived from it. It has a 1300 page draft standard, prompting the development of the Scheme dialect, a version stressing simplicity which is often taught in introductory CS classes and is specified in only fifty pages.  Invented by John McCarthy at MIT, it is known for its ability to manipulate information contained in parentheses, including other programs, leading to its extensive use in the field of artificial intelligence. FTP, what is this programming language whose": {
+    "guess": "Lisp (programming language)",
+    "confidence": [
+      [
+        "L",
+        -0.00038503256
+      ],
+      [
+        "isp",
+        -2.9352968e-06
+      ],
+      [
+        " (",
+        -5.5122365e-07
+      ],
+      [
+        "program",
+        0.0
+      ],
+      [
+        "ming",
+        0.0
+      ],
+      [
+        " language",
+        0.0
+      ],
+      [
+        ")",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "GNU Guile is one language derived from it. It has a 1300 page draft standard, prompting the development of the Scheme dialect, a version stressing simplicity which is often taught in introductory CS classes and is specified in only fifty pages.  Invented by John McCarthy at MIT, it is known for its ability to manipulate information contained in parentheses, including other programs, leading to its extensive use in the field of artificial intelligence. FTP, what is this programming language whose name is short for \"list processing\"?": {
+    "guess": "Lisp (programming language)",
+    "confidence": [
+      [
+        "L",
+        -0.0015084356
+      ],
+      [
+        "isp",
+        -2.577686e-06
+      ],
+      [
+        " (",
+        -1.9361265e-07
+      ],
+      [
+        "program",
+        -4.3202e-07
+      ],
+      [
+        "ming",
+        0.0
+      ],
+      [
+        " language",
+        -3.1281633e-07
+      ],
+      [
+        ")",
+        -2.220075e-06
+      ]
+    ]
+  }
+}

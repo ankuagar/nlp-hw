@@ -1,0 +1,363 @@
+{
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a": {
+    "guess": "Erd\u0151s\u2013Faber\u2013Lov\u00e1sz conjecture",
+    "confidence": [
+      [
+        "E",
+        -0.708684
+      ],
+      [
+        "rd",
+        -1.9361265e-07
+      ],
+      [
+        "\u0151s",
+        -0.014392898
+      ],
+      [
+        "\u2013",
+        -0.24175982
+      ],
+      [
+        "F",
+        -1.4617256e-05
+      ],
+      [
+        "aber",
+        -1.504853e-06
+      ],
+      [
+        "\u2013",
+        -6.704273e-07
+      ],
+      [
+        "Lov",
+        -6.6306106e-06
+      ],
+      [
+        "\u00e1sz",
+        -7.89631e-07
+      ],
+      [
+        " conject",
+        -0.0008286867
+      ],
+      [
+        "ure",
+        0.0
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming": {
+    "guess": "Erd\u0151s\u2013Ko\u2013Rado theorem",
+    "confidence": [
+      [
+        "E",
+        -0.5828392
+      ],
+      [
+        "rd",
+        -6.704273e-07
+      ],
+      [
+        "\u0151s",
+        -0.0053101312
+      ],
+      [
+        "\u2013",
+        -0.07930987
+      ],
+      [
+        "Ko",
+        -0.7072015
+      ],
+      [
+        "\u2013",
+        -0.0010747304
+      ],
+      [
+        "R",
+        -9.253091e-06
+      ],
+      [
+        "ado",
+        -1.7432603e-06
+      ],
+      [
+        " theorem",
+        -0.0068386295
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming a non-convex polygon into a convex one with a series of flips. He names the constant equal to the": {
+    "guess": "Graham's number",
+    "confidence": [
+      [
+        "G",
+        -0.92874396
+      ],
+      [
+        "raham",
+        -0.015405378
+      ],
+      [
+        "'s",
+        -0.00436366
+      ],
+      [
+        " number",
+        -0.0028265081
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming a non-convex polygon into a convex one with a series of flips. He names the constant equal to the sum of the reciprocals of the Mersenne primes along with Borwein, and an inequality named for him": {
+    "guess": "Paul Erd\u0151s",
+    "confidence": [
+      [
+        "Paul",
+        -0.04528993
+      ],
+      [
+        " Erd",
+        -4.3202e-07
+      ],
+      [
+        "\u0151s",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming a non-convex polygon into a convex one with a series of flips. He names the constant equal to the sum of the reciprocals of the Mersenne primes along with Borwein, and an inequality named for him relates the distances from a point to the vertices and edges of a triangle - that result is also named": {
+    "guess": "Ronald Graham",
+    "confidence": [
+      [
+        "Ron",
+        -1.3018274
+      ],
+      [
+        "ald",
+        -0.048614047
+      ],
+      [
+        " Graham",
+        -0.00025561772
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming a non-convex polygon into a convex one with a series of flips. He names the constant equal to the sum of the reciprocals of the Mersenne primes along with Borwein, and an inequality named for him relates the distances from a point to the vertices and edges of a triangle - that result is also named for Mordell. He helped develop Ramsey theory and discovered an elementary proof of the prime number": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.73552334
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming a non-convex polygon into a convex one with a series of flips. He names the constant equal to the sum of the reciprocals of the Mersenne primes along with Borwein, and an inequality named for him relates the distances from a point to the vertices and edges of a triangle - that result is also named for Mordell. He helped develop Ramsey theory and discovered an elementary proof of the prime number theorem, and believed that all beautiful proofs came from THE BOOK. FTP, name this prolific Hungarian": {
+    "guess": "Paul Erd\u0151s",
+    "confidence": [
+      [
+        "Paul",
+        -0.098291926
+      ],
+      [
+        " Erd",
+        -1.9361265e-07
+      ],
+      [
+        "\u0151s",
+        0.0
+      ]
+    ]
+  },
+  "With Faber and Lovasz, this mathematician names an unproved conjecture about a union of k copies of a k-clique intersecting at one vertex, and another result partly named for this man regards transforming a non-convex polygon into a convex one with a series of flips. He names the constant equal to the sum of the reciprocals of the Mersenne primes along with Borwein, and an inequality named for him relates the distances from a point to the vertices and edges of a triangle - that result is also named for Mordell. He helped develop Ramsey theory and discovered an elementary proof of the prime number theorem, and believed that all beautiful proofs came from THE BOOK. FTP, name this prolific Hungarian mathematician, whose namesake number gives the publishing distance between him and a given mathematician.": {
+    "guess": "Erd\u0151s number",
+    "confidence": [
+      [
+        "E",
+        -0.12050148
+      ],
+      [
+        "rd",
+        0.0
+      ],
+      [
+        "\u0151s",
+        -2.577686e-06
+      ],
+      [
+        " number",
+        -0.006267667
+      ]
+    ]
+  },
+  "It is fabled to have been used to count the size of armies in ancient times. In modern computer applications,": {
+    "guess": "Abacus",
+    "confidence": [
+      [
+        "Ab",
+        -0.008849266
+      ],
+      [
+        "acus",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "It is fabled to have been used to count the size of armies in ancient times. In modern computer applications, it is used to solve simultaneous systems of equations using exact arithmetic and is also applied": {
+    "guess": "Chinese remainder theorem",
+    "confidence": [
+      [
+        "Chinese",
+        -0.017244402
+      ],
+      [
+        " remainder",
+        -3.190179e-05
+      ],
+      [
+        " theorem",
+        0.0
+      ]
+    ]
+  },
+  "It is fabled to have been used to count the size of armies in ancient times. In modern computer applications, it is used to solve simultaneous systems of equations using exact arithmetic and is also applied to random number generation. The theorem has been extended to general rings and in modern parlance": {
+    "guess": "Chinese remainder theorem",
+    "confidence": [
+      [
+        "Chinese",
+        -0.005307166
+      ],
+      [
+        " remainder",
+        -0.00033546583
+      ],
+      [
+        " theorem",
+        0.0
+      ]
+    ]
+  },
+  "It is fabled to have been used to count the size of armies in ancient times. In modern computer applications, it is used to solve simultaneous systems of equations using exact arithmetic and is also applied to random number generation. The theorem has been extended to general rings and in modern parlance it can be stated that given N congruence relations of the form x equals a mod p, where the p's": {
+    "guess": "Chinese remainder theorem",
+    "confidence": [
+      [
+        "Chinese",
+        -0.0009183663
+      ],
+      [
+        " remainder",
+        -0.00020354039
+      ],
+      [
+        " theorem",
+        0.0
+      ]
+    ]
+  },
+  "It is fabled to have been used to count the size of armies in ancient times. In modern computer applications, it is used to solve simultaneous systems of equations using exact arithmetic and is also applied to random number generation. The theorem has been extended to general rings and in modern parlance it can be stated that given N congruence relations of the form x equals a mod p, where the p's are relatively prime, there exists an integer solution. For 10 points, name this ancient theorem regarding": {
+    "guess": "Chinese remainder theorem",
+    "confidence": [
+      [
+        "Chinese",
+        -0.00020771251
+      ],
+      [
+        " remainder",
+        -5.8365e-05
+      ],
+      [
+        " theorem",
+        0.0
+      ]
+    ]
+  },
+  "It is fabled to have been used to count the size of armies in ancient times. In modern computer applications, it is used to solve simultaneous systems of equations using exact arithmetic and is also applied to random number generation. The theorem has been extended to general rings and in modern parlance it can be stated that given N congruence relations of the form x equals a mod p, where the p's are relatively prime, there exists an integer solution. For 10 points, name this ancient theorem regarding simultaneous congruences, generally attributed to Sun Zi and Qin Jiushao.": {
+    "guess": "Chinese remainder theorem",
+    "confidence": [
+      [
+        "Chinese",
+        -1.3663626e-05
+      ],
+      [
+        " remainder",
+        -3.5477897e-05
+      ],
+      [
+        " theorem",
+        0.0
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.43991268
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume Soseki about the Meiji period is narrated by one of these animals. In a short story by Edgar Allen": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.030601762
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume Soseki about the Meiji period is narrated by one of these animals. In a short story by Edgar Allen Poe, the drunken narrator gouges out the eye of one of these animals named Pluto. One of these animals": {
+    "guess": "The Black Cat",
+    "confidence": [
+      [
+        "The",
+        -0.3318808
+      ],
+      [
+        " Black",
+        -0.00075221295
+      ],
+      [
+        " Cat",
+        0.0
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume Soseki about the Meiji period is narrated by one of these animals. In a short story by Edgar Allen Poe, the drunken narrator gouges out the eye of one of these animals named Pluto. One of these animals burns down Griboyedov House with Koroviev in The Master and Margarita and is named Behemoth.": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.36831886
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume Soseki about the Meiji period is narrated by one of these animals. In a short story by Edgar Allen Poe, the drunken narrator gouges out the eye of one of these animals named Pluto. One of these animals burns down Griboyedov House with Koroviev in The Master and Margarita and is named Behemoth. A Tennessee Williams play about the terminal cancer of Big Daddy is titled for one of these animals": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.010003028
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume Soseki about the Meiji period is narrated by one of these animals. In a short story by Edgar Allen Poe, the drunken narrator gouges out the eye of one of these animals named Pluto. One of these animals burns down Griboyedov House with Koroviev in The Master and Margarita and is named Behemoth. A Tennessee Williams play about the terminal cancer of Big Daddy is titled for one of these animals \"on a Hot Tin Roof.\" For ten points, name these animals, one of which appears \"in a Hat\" in a story": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.08967763
+      ]
+    ]
+  },
+  "In a fable by Aesop, a man implores Venus to turn one of these creatures into a woman. A novel by Natsume Soseki about the Meiji period is narrated by one of these animals. In a short story by Edgar Allen Poe, the drunken narrator gouges out the eye of one of these animals named Pluto. One of these animals burns down Griboyedov House with Koroviev in The Master and Margarita and is named Behemoth. A Tennessee Williams play about the terminal cancer of Big Daddy is titled for one of these animals \"on a Hot Tin Roof.\" For ten points, name these animals, one of which appears \"in a Hat\" in a story by Dr. Seuss.": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.04388172
+      ]
+    ]
+  }
+}

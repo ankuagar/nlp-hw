@@ -1,0 +1,86 @@
+{
+  "Kay Redfield Jameson linked this mental disorder to the \"artistic temperament.\" It has periods of excitability,": {
+    "guess": "Bipolar disorder",
+    "confidence": [
+      [
+        "B",
+        -0.00039932964
+      ],
+      [
+        "ip",
+        0.0
+      ],
+      [
+        "olar",
+        0.0
+      ],
+      [
+        " disorder",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "Kay Redfield Jameson linked this mental disorder to the \"artistic temperament.\" It has periods of excitability, insomnia, and increased mental capacity, separated by episodes of depression. In some cases,": {
+    "guess": "Bipolar disorder",
+    "confidence": [
+      [
+        "B",
+        -0.0001563394
+      ],
+      [
+        "ip",
+        0.0
+      ],
+      [
+        "olar",
+        0.0
+      ],
+      [
+        " disorder",
+        -6.9882217e-06
+      ]
+    ]
+  },
+  "Kay Redfield Jameson linked this mental disorder to the \"artistic temperament.\" It has periods of excitability, insomnia, and increased mental capacity, separated by episodes of depression. In some cases, excitable periods degenerate into psychosis. For 10 points\u2014name this disorder once called manic": {
+    "guess": "Bipolar disorder",
+    "confidence": [
+      [
+        "B",
+        -0.0021677478
+      ],
+      [
+        "ip",
+        0.0
+      ],
+      [
+        "olar",
+        0.0
+      ],
+      [
+        " disorder",
+        -0.011047815
+      ]
+    ]
+  },
+  "Kay Redfield Jameson linked this mental disorder to the \"artistic temperament.\" It has periods of excitability, insomnia, and increased mental capacity, separated by episodes of depression. In some cases, excitable periods degenerate into psychosis. For 10 points\u2014name this disorder once called manic depression.": {
+    "guess": "Bipolar disorder",
+    "confidence": [
+      [
+        "B",
+        -0.00066251855
+      ],
+      [
+        "ip",
+        0.0
+      ],
+      [
+        "olar",
+        0.0
+      ],
+      [
+        " disorder",
+        -0.0011702254
+      ]
+    ]
+  }
+}

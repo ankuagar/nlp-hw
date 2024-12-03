@@ -1,0 +1,420 @@
+{
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation": {
+    "guess": "Chebyshev polynomials",
+    "confidence": [
+      [
+        "Che",
+        -0.0035226217
+      ],
+      [
+        "bys",
+        -6.704273e-07
+      ],
+      [
+        "hev",
+        -1.9361265e-07
+      ],
+      [
+        " pol",
+        -0.7584235
+      ],
+      [
+        "ynomials",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis": {
+    "guess": "Chebyshev polynomials",
+    "confidence": [
+      [
+        "Che",
+        -0.026910188
+      ],
+      [
+        "bys",
+        -1.2664457e-06
+      ],
+      [
+        "hev",
+        0.0
+      ],
+      [
+        " pol",
+        -0.3352854
+      ],
+      [
+        "ynomials",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis quadrature for numerical integration. The observation that there are more 3 modulo 4": {
+    "guess": "Chebyshev polynomials",
+    "confidence": [
+      [
+        "Che",
+        -0.20662948
+      ],
+      [
+        "bys",
+        -5.5122365e-07
+      ],
+      [
+        "hev",
+        -1.9361265e-07
+      ],
+      [
+        " pol",
+        -0.11435981
+      ],
+      [
+        "ynomials",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis quadrature for numerical integration. The observation that there are more 3 modulo 4 prime numbers than 1 modulo 4 is a \"bias\" named for this man. This man names a type of filter with a": {
+    "guess": "Chebyshev polynomials",
+    "confidence": [
+      [
+        "Che",
+        -0.029300496
+      ],
+      [
+        "bys",
+        -3.1281633e-07
+      ],
+      [
+        "hev",
+        -1.9361265e-07
+      ],
+      [
+        " pol",
+        -0.80611354
+      ],
+      [
+        "ynomials",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis quadrature for numerical integration. The observation that there are more 3 modulo 4 prime numbers than 1 modulo 4 is a \"bias\" named for this man. This man names a type of filter with a steeper roll-off rate than a Butterworth filter. The probability of data being within k times sigma": {
+    "guess": "Chebyshev polynomials",
+    "confidence": [
+      [
+        "Che",
+        -0.057139985
+      ],
+      [
+        "bys",
+        -1.9361265e-07
+      ],
+      [
+        "hev",
+        0.0
+      ],
+      [
+        " pol",
+        -0.5486526
+      ],
+      [
+        "ynomials",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis quadrature for numerical integration. The observation that there are more 3 modulo 4 prime numbers than 1 modulo 4 is a \"bias\" named for this man. This man names a type of filter with a steeper roll-off rate than a Butterworth filter. The probability of data being within k times sigma of the mean is less than one over k squared according to this man. That statement can be proven by": {
+    "guess": "Pafnuty Chebyshev",
+    "confidence": [
+      [
+        "P",
+        -0.5839988
+      ],
+      [
+        "af",
+        -1.504853e-06
+      ],
+      [
+        "nut",
+        -0.0009256341
+      ],
+      [
+        "y",
+        -1.6762922e-05
+      ],
+      [
+        " Che",
+        -5.4669687e-05
+      ],
+      [
+        "bys",
+        0.0
+      ],
+      [
+        "hev",
+        0.0
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis quadrature for numerical integration. The observation that there are more 3 modulo 4 prime numbers than 1 modulo 4 is a \"bias\" named for this man. This man names a type of filter with a steeper roll-off rate than a Butterworth filter. The probability of data being within k times sigma of the mean is less than one over k squared according to this man. That statement can be proven by using Markov's inequality. For 10 points, name this Russian mathematician whose namesake inequality": {
+    "guess": "Pafnuty Chebyshev",
+    "confidence": [
+      [
+        "P",
+        -0.3916058
+      ],
+      [
+        "af",
+        -1.9361265e-07
+      ],
+      [
+        "nut",
+        -1.147242e-06
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        " Che",
+        -5.5122365e-07
+      ],
+      [
+        "bys",
+        0.0
+      ],
+      [
+        "hev",
+        0.0
+      ]
+    ]
+  },
+  "The roots of this man's namesake polynomial are useful for interpolation as they minimize the oscillation around the interval edges known as Runge's phenomenon. Those polynomials are also used in the Clenshaw-Curtis quadrature for numerical integration. The observation that there are more 3 modulo 4 prime numbers than 1 modulo 4 is a \"bias\" named for this man. This man names a type of filter with a steeper roll-off rate than a Butterworth filter. The probability of data being within k times sigma of the mean is less than one over k squared according to this man. That statement can be proven by using Markov's inequality. For 10 points, name this Russian mathematician whose namesake inequality gives an upper bound on the number of data points at some distance from the mean.": {
+    "guess": "Chebyshev",
+    "confidence": [
+      [
+        "Che",
+        -0.0003093639
+      ],
+      [
+        "bys",
+        -1.9361265e-07
+      ],
+      [
+        "hev",
+        0.0
+      ]
+    ]
+  },
+  "What are the roots of the polynomial f of x equals x cubed minus three x squared plus x minus three?": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.3082224
+      ]
+    ]
+  },
+  "What are the roots of the polynomial f of x equals x cubed minus three x squared plus x minus three? The rational root theorem can simplify this problem by showing that 1 is a root. Synthetic division": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.92054653
+      ]
+    ]
+  },
+  "What are the roots of the polynomial f of x equals x cubed minus three x squared plus x minus three? The rational root theorem can simplify this problem by showing that 1 is a root. Synthetic division will then yield a quadratic that can be easily factored. FTP, what are the roots of the expression quantity": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.28462592
+      ]
+    ]
+  },
+  "What are the roots of the polynomial f of x equals x cubed minus three x squared plus x minus three? The rational root theorem can simplify this problem by showing that 1 is a root. Synthetic division will then yield a quadratic that can be easily factored. FTP, what are the roots of the expression quantity x minus one, close quantity, times quantity x squared minus two x minus three?": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0737048
+      ]
+    ]
+  },
+  "Rooted in Arthur Miller's 'The Price,' it deals with a family's struggle over an old heirloom that evokes": {
+    "guess": "The Price",
+    "confidence": [
+      [
+        "The",
+        -0.12791891
+      ],
+      [
+        " Price",
+        -0.00081951526
+      ]
+    ]
+  },
+  "Rooted in Arthur Miller's 'The Price,' it deals with a family's struggle over an old heirloom that evokes unpleasant historical memories of slavery. Boy Willie and Bernice argue over how one should appropriately": {
+    "guess": "The Piano Lesson",
+    "confidence": [
+      [
+        "The",
+        -0.0024580567
+      ],
+      [
+        " Piano",
+        -2.8802491e-05
+      ],
+      [
+        " Lesson",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Rooted in Arthur Miller's 'The Price,' it deals with a family's struggle over an old heirloom that evokes unpleasant historical memories of slavery. Boy Willie and Bernice argue over how one should appropriately honor ancestors from a past best forgotten. The climatic scene can be described thusly :": {
+    "guess": "The Piano Lesson",
+    "confidence": [
+      [
+        "The",
+        -0.0023314091
+      ],
+      [
+        " Piano",
+        -0.00041994822
+      ],
+      [
+        " Lesson",
+        0.0
+      ]
+    ]
+  },
+  "Rooted in Arthur Miller's 'The Price,' it deals with a family's struggle over an old heirloom that evokes unpleasant historical memories of slavery. Boy Willie and Bernice argue over how one should appropriately honor ancestors from a past best forgotten. The climatic scene can be described thusly : After an exorcism of a plantation owner's ghost fails, Bernice sings the names carved onto a piano and": {
+    "guess": "The Piano Lesson",
+    "confidence": [
+      [
+        "The",
+        -0.0018880648
+      ],
+      [
+        " Piano",
+        -0.0014239257
+      ],
+      [
+        " Lesson",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "Rooted in Arthur Miller's 'The Price,' it deals with a family's struggle over an old heirloom that evokes unpleasant historical memories of slavery. Boy Willie and Bernice argue over how one should appropriately honor ancestors from a past best forgotten. The climatic scene can be described thusly : After an exorcism of a plantation owner's ghost fails, Bernice sings the names carved onto a piano and brings peace to the room. FTP name this Pulitzer Prize winning play by August Wilson.": {
+    "guess": "The Piano Lesson",
+    "confidence": [
+      [
+        "The",
+        -0.001367381
+      ],
+      [
+        " Piano",
+        -1.8074163e-05
+      ],
+      [
+        " Lesson",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "With roots in a 1920's cultural organization, when it was renewed in 1974 as the National Cultural Liberation": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.12230248
+      ]
+    ]
+  },
+  "With roots in a 1920's cultural organization, when it was renewed in 1974 as the National Cultural Liberation Movement, many thought its purpose was to undermine Goodwill Zwelithini. Its current election": {
+    "guess": "Inkatha Freedom Party",
+    "confidence": [
+      [
+        "Ink",
+        -0.10598093
+      ],
+      [
+        "atha",
+        -9.0883464e-07
+      ],
+      [
+        " Freedom",
+        -0.00011152984
+      ],
+      [
+        " Party",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "With roots in a 1920's cultural organization, when it was renewed in 1974 as the National Cultural Liberation Movement, many thought its purpose was to undermine Goodwill Zwelithini. Its current election campaign symbol features three elephants and the slogans: \"Caring, Capable, and Clean\" and \"Real": {
+    "guess": "Inkatha Freedom Party",
+    "confidence": [
+      [
+        "Ink",
+        -0.013846125
+      ],
+      [
+        "atha",
+        -1.9361265e-07
+      ],
+      [
+        " Freedom",
+        -2.577686e-06
+      ],
+      [
+        " Party",
+        0.0
+      ]
+    ]
+  },
+  "With roots in a 1920's cultural organization, when it was renewed in 1974 as the National Cultural Liberation Movement, many thought its purpose was to undermine Goodwill Zwelithini. Its current election campaign symbol features three elephants and the slogans: \"Caring, Capable, and Clean\" and \"Real Development Now\" criticizing the ANC inaction on certain issues. It won nine percent of the vote in": {
+    "guess": "Inkatha Freedom Party",
+    "confidence": [
+      [
+        "Ink",
+        -0.043657284
+      ],
+      [
+        "atha",
+        -6.704273e-07
+      ],
+      [
+        " Freedom",
+        -6.704273e-07
+      ],
+      [
+        " Party",
+        0.0
+      ]
+    ]
+  },
+  "With roots in a 1920's cultural organization, when it was renewed in 1974 as the National Cultural Liberation Movement, many thought its purpose was to undermine Goodwill Zwelithini. Its current election campaign symbol features three elephants and the slogans: \"Caring, Capable, and Clean\" and \"Real Development Now\" criticizing the ANC inaction on certain issues. It won nine percent of the vote in the December 2000 elections. For 10 points--name this party led by Mangosuthu Buthelezi.": {
+    "guess": "Inkatha Freedom Party",
+    "confidence": [
+      [
+        "Ink",
+        -0.00010735771
+      ],
+      [
+        "atha",
+        0.0
+      ],
+      [
+        " Freedom",
+        -1.9361265e-07
+      ],
+      [
+        " Party",
+        0.0
+      ]
+    ]
+  }
+}

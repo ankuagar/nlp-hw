@@ -1,0 +1,594 @@
+{
+  "The levels of this hormone in the body are controlled by the release of CSH from the hypothalamus.  Because": {
+    "guess": "Cortisol",
+    "confidence": [
+      [
+        "C",
+        -0.37335908
+      ],
+      [
+        "ort",
+        -0.20143682
+      ],
+      [
+        "isol",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "The levels of this hormone in the body are controlled by the release of CSH from the hypothalamus.  Because it is synthesized in the anterior pituitary gland as part of a precursor protein that also contains": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.34622505
+      ]
+    ]
+  },
+  "The levels of this hormone in the body are controlled by the release of CSH from the hypothalamus.  Because it is synthesized in the anterior pituitary gland as part of a precursor protein that also contains melanocyte-stimulating hormone, pigmentation of the skin accompanies its overproduction in disorders": {
+    "guess": "Adrenocorticotropic hormone",
+    "confidence": [
+      [
+        "Ad",
+        -0.020998897
+      ],
+      [
+        "ren",
+        -1.8624639e-06
+      ],
+      [
+        "oc",
+        0.0
+      ],
+      [
+        "ortic",
+        0.0
+      ],
+      [
+        "otropic",
+        -1.504853e-06
+      ],
+      [
+        " hormone",
+        -8.6497064e-05
+      ]
+    ]
+  },
+  "The levels of this hormone in the body are controlled by the release of CSH from the hypothalamus.  Because it is synthesized in the anterior pituitary gland as part of a precursor protein that also contains melanocyte-stimulating hormone, pigmentation of the skin accompanies its overproduction in disorders such as Cushing's disease.  It stimulates the production of aldosterone and corisol by the adrenal": {
+    "guess": "Adrenocorticotropic hormone",
+    "confidence": [
+      [
+        "Ad",
+        -0.0101857195
+      ],
+      [
+        "ren",
+        -1.9361265e-07
+      ],
+      [
+        "oc",
+        0.0
+      ],
+      [
+        "ortic",
+        0.0
+      ],
+      [
+        "otropic",
+        -1.2664457e-06
+      ],
+      [
+        " hormone",
+        -0.00011200665
+      ]
+    ]
+  },
+  "The levels of this hormone in the body are controlled by the release of CSH from the hypothalamus.  Because it is synthesized in the anterior pituitary gland as part of a precursor protein that also contains melanocyte-stimulating hormone, pigmentation of the skin accompanies its overproduction in disorders such as Cushing's disease.  It stimulates the production of aldosterone and corisol by the adrenal glands.  FTP, identify this hormone, a deficiency of which results in Addison's disease.": {
+    "guess": "Adrenocorticotropic hormone",
+    "confidence": [
+      [
+        "Ad",
+        -0.063869976
+      ],
+      [
+        "ren",
+        0.0
+      ],
+      [
+        "oc",
+        0.0
+      ],
+      [
+        "ortic",
+        0.0
+      ],
+      [
+        "otropic",
+        -1.8624639e-06
+      ],
+      [
+        " hormone",
+        -0.0010736575
+      ]
+    ]
+  },
+  "Levels of this substance are decreased by Exenatide, which is marketed as Byetta and is similar to GLP": {
+    "guess": "Glucose",
+    "confidence": [
+      [
+        "Gl",
+        -0.82524055
+      ],
+      [
+        "ucose",
+        -0.038042985
+      ]
+    ]
+  },
+  "Levels of this substance are decreased by Exenatide, which is marketed as Byetta and is similar to GLP One. There are two peptides produced by L Cells whose names state that they are similar to this hormone.": {
+    "guess": "Glucagon",
+    "confidence": [
+      [
+        "Gl",
+        -0.054570902
+      ],
+      [
+        "uc",
+        -1.3067608e-05
+      ],
+      [
+        "agon",
+        0.0
+      ]
+    ]
+  },
+  "Levels of this substance are decreased by Exenatide, which is marketed as Byetta and is similar to GLP One. There are two peptides produced by L Cells whose names state that they are similar to this hormone. Though its levels are unchanged by normal meals, they go up for meals high in proteins and low": {
+    "guess": "Glucagon",
+    "confidence": [
+      [
+        "Gl",
+        -0.021696718
+      ],
+      [
+        "uc",
+        -1.504853e-06
+      ],
+      [
+        "agon",
+        0.0
+      ]
+    ]
+  },
+  "Levels of this substance are decreased by Exenatide, which is marketed as Byetta and is similar to GLP One. There are two peptides produced by L Cells whose names state that they are similar to this hormone. Though its levels are unchanged by normal meals, they go up for meals high in proteins and low in carbohydrates. Produced by the alpha cells in the Islets of Langerhans, it works primarily on the": {
+    "guess": "Glucagon",
+    "confidence": [
+      [
+        "Gl",
+        -0.0029444173
+      ],
+      [
+        "uc",
+        0.0
+      ],
+      [
+        "agon",
+        0.0
+      ]
+    ]
+  },
+  "Levels of this substance are decreased by Exenatide, which is marketed as Byetta and is similar to GLP One. There are two peptides produced by L Cells whose names state that they are similar to this hormone. Though its levels are unchanged by normal meals, they go up for meals high in proteins and low in carbohydrates. Produced by the alpha cells in the Islets of Langerhans, it works primarily on the liver, causing it to release sugar in reaction to lower blood levels. Name this hormone which often": {
+    "guess": "Glucagon",
+    "confidence": [
+      [
+        "Gl",
+        -0.0006434533
+      ],
+      [
+        "uc",
+        0.0
+      ],
+      [
+        "agon",
+        0.0
+      ]
+    ]
+  },
+  "Levels of this substance are decreased by Exenatide, which is marketed as Byetta and is similar to GLP One. There are two peptides produced by L Cells whose names state that they are similar to this hormone. Though its levels are unchanged by normal meals, they go up for meals high in proteins and low in carbohydrates. Produced by the alpha cells in the Islets of Langerhans, it works primarily on the liver, causing it to release sugar in reaction to lower blood levels. Name this hormone which often acts in opposition to insulin.": {
+    "guess": "Glucagon",
+    "confidence": [
+      [
+        "Gl",
+        -0.000503466
+      ],
+      [
+        "uc",
+        0.0
+      ],
+      [
+        "agon",
+        0.0
+      ]
+    ]
+  },
+  "Levi invents his blue jeans, the Navy stops flogging sailors, Pinkerton opens a detective agency, Dickens": {
+    "guess": "1850s",
+    "confidence": [
+      [
+        "185",
+        -0.0046767113
+      ],
+      [
+        "0",
+        -0.08927063
+      ],
+      [
+        "s",
+        -0.05145101
+      ]
+    ]
+  },
+  "Levi invents his blue jeans, the Navy stops flogging sailors, Pinkerton opens a detective agency, Dickens publishes \"David Copperfield,\" Bunsen dreams up his burner, Folger offers coffee ready-roasted": {
+    "guess": "1850s",
+    "confidence": [
+      [
+        "185",
+        -0.14412165
+      ],
+      [
+        "0",
+        -0.0024768433
+      ],
+      [
+        "s",
+        -0.8700817
+      ]
+    ]
+  },
+  "Levi invents his blue jeans, the Navy stops flogging sailors, Pinkerton opens a detective agency, Dickens publishes \"David Copperfield,\" Bunsen dreams up his burner, Folger offers coffee ready-roasted and ground, Tennyson writes \"'Tis better to have loved and lost...\". FTP these events all occured in": {
+    "guess": "1850s",
+    "confidence": [
+      [
+        "185",
+        -0.054196972
+      ],
+      [
+        "0",
+        -0.00020711649
+      ],
+      [
+        "s",
+        -0.006915942
+      ]
+    ]
+  },
+  "Levi invents his blue jeans, the Navy stops flogging sailors, Pinkerton opens a detective agency, Dickens publishes \"David Copperfield,\" Bunsen dreams up his burner, Folger offers coffee ready-roasted and ground, Tennyson writes \"'Tis better to have loved and lost...\". FTP these events all occured in what year, when California and Maine formally entered the union.": {
+    "guess": "1850",
+    "confidence": [
+      [
+        "185",
+        -0.0022726546
+      ],
+      [
+        "0",
+        -1.0683535e-05
+      ]
+    ]
+  },
+  "On one level, this novel was written to counter Chernyshevskys _Chto elat?_, ridiculing Chernyshevskys": {
+    "guess": "Fathers and Sons",
+    "confidence": [
+      [
+        "F",
+        -0.6180972
+      ],
+      [
+        "athers",
+        -1.9361265e-07
+      ],
+      [
+        " and",
+        -1.9361265e-07
+      ],
+      [
+        " Sons",
+        -5.5577775e-06
+      ]
+    ]
+  },
+  "On one level, this novel was written to counter Chernyshevskys _Chto elat?_, ridiculing Chernyshevskys assumptions through irrational behavior and reasoning. The authors first successful longer work, the": {
+    "guess": "Notes from Underground",
+    "confidence": [
+      [
+        "Notes",
+        -0.48191944
+      ],
+      [
+        " from",
+        -4.8425554e-06
+      ],
+      [
+        " Underground",
+        -2.1769476e-05
+      ]
+    ]
+  },
+  "On one level, this novel was written to counter Chernyshevskys _Chto elat?_, ridiculing Chernyshevskys assumptions through irrational behavior and reasoning. The authors first successful longer work, the main character is a keenly conscious misogynist who masks excessive pride with pathological submissiveness.": {
+    "guess": "Notes from Underground",
+    "confidence": [
+      [
+        "Notes",
+        -0.00039266158
+      ],
+      [
+        " from",
+        -6.704273e-07
+      ],
+      [
+        " Underground",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "On one level, this novel was written to counter Chernyshevskys _Chto elat?_, ridiculing Chernyshevskys assumptions through irrational behavior and reasoning. The authors first successful longer work, the main character is a keenly conscious misogynist who masks excessive pride with pathological submissiveness. For 10 points, name this Dostoevski novel, which begins with the forty-year-old protagonist": {
+    "guess": "Notes from Underground",
+    "confidence": [
+      [
+        "Notes",
+        -7.231183e-05
+      ],
+      [
+        " from",
+        -1.0280384e-06
+      ],
+      [
+        " Underground",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "On one level, this novel was written to counter Chernyshevskys _Chto elat?_, ridiculing Chernyshevskys assumptions through irrational behavior and reasoning. The authors first successful longer work, the main character is a keenly conscious misogynist who masks excessive pride with pathological submissiveness. For 10 points, name this Dostoevski novel, which begins with the forty-year-old protagonist already withdrawn from society, spewing hatred, bitter philosophy, and ridicule at the imaginary": {
+    "guess": "Notes from Underground",
+    "confidence": [
+      [
+        "Notes",
+        -8.923875e-05
+      ],
+      [
+        " from",
+        -1.0280384e-06
+      ],
+      [
+        " Underground",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "On one level, this novel was written to counter Chernyshevskys _Chto elat?_, ridiculing Chernyshevskys assumptions through irrational behavior and reasoning. The authors first successful longer work, the main character is a keenly conscious misogynist who masks excessive pride with pathological submissiveness. For 10 points, name this Dostoevski novel, which begins with the forty-year-old protagonist already withdrawn from society, spewing hatred, bitter philosophy, and ridicule at the imaginary reader of his journals.": {
+    "guess": "Notes from Underground",
+    "confidence": [
+      [
+        "Notes",
+        -7.4695905e-05
+      ],
+      [
+        " from",
+        -1.147242e-06
+      ],
+      [
+        " Underground",
+        -4.00813e-06
+      ]
+    ]
+  },
+  "Le Vicomte de Bragelonne [luh vee-COMT duh brah-\"gell\"-OWN] is a sequel to this man's most famous novel,": {
+    "guess": "Alexandre Dumas",
+    "confidence": [
+      [
+        "Alex",
+        -0.14722687
+      ],
+      [
+        "andre",
+        0.0
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "umas",
+        0.0
+      ]
+    ]
+  },
+  "Le Vicomte de Bragelonne [luh vee-COMT duh brah-\"gell\"-OWN] is a sequel to this man's most famous novel, which includes the story of Philippe, Louis XIV's identical twin. One of this man's protagonists": {
+    "guess": "Alexandre Dumas",
+    "confidence": [
+      [
+        "Alex",
+        -0.0172799
+      ],
+      [
+        "andre",
+        0.0
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "umas",
+        0.0
+      ]
+    ]
+  },
+  "Le Vicomte de Bragelonne [luh vee-COMT duh brah-\"gell\"-OWN] is a sequel to this man's most famous novel, which includes the story of Philippe, Louis XIV's identical twin. One of this man's protagonists meets Abb\u00e9 Faria [ah-BAY fah-ree-AH]at the Chateau d'If [shah-TOW deef], and loves Mercedes. In another": {
+    "guess": "Alexandre Dumas",
+    "confidence": [
+      [
+        "Alex",
+        -0.012870771
+      ],
+      [
+        "andre",
+        0.0
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "umas",
+        0.0
+      ]
+    ]
+  },
+  "Le Vicomte de Bragelonne [luh vee-COMT duh brah-\"gell\"-OWN] is a sequel to this man's most famous novel, which includes the story of Philippe, Louis XIV's identical twin. One of this man's protagonists meets Abb\u00e9 Faria [ah-BAY fah-ree-AH]at the Chateau d'If [shah-TOW deef], and loves Mercedes. In another novel, this man describes the friendship of (*) Athos, Porthos, Aramis, and D'Artagnan. For 10": {
+    "guess": "Alexandre Dumas",
+    "confidence": [
+      [
+        "Alex",
+        -0.010066645
+      ],
+      [
+        "andre",
+        0.0
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "umas",
+        0.0
+      ]
+    ]
+  },
+  "Le Vicomte de Bragelonne [luh vee-COMT duh brah-\"gell\"-OWN] is a sequel to this man's most famous novel, which includes the story of Philippe, Louis XIV's identical twin. One of this man's protagonists meets Abb\u00e9 Faria [ah-BAY fah-ree-AH]at the Chateau d'If [shah-TOW deef], and loves Mercedes. In another novel, this man describes the friendship of (*) Athos, Porthos, Aramis, and D'Artagnan. For 10 points, name this French author of The Man in the Iron Mask, The Count of Monte Cristo, and The Three": {
+    "guess": "Alexandre Dumas",
+    "confidence": [
+      [
+        "Alex",
+        -0.0029144771
+      ],
+      [
+        "andre",
+        0.0
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "umas",
+        0.0
+      ]
+    ]
+  },
+  "Le Vicomte de Bragelonne [luh vee-COMT duh brah-\"gell\"-OWN] is a sequel to this man's most famous novel, which includes the story of Philippe, Louis XIV's identical twin. One of this man's protagonists meets Abb\u00e9 Faria [ah-BAY fah-ree-AH]at the Chateau d'If [shah-TOW deef], and loves Mercedes. In another novel, this man describes the friendship of (*) Athos, Porthos, Aramis, and D'Artagnan. For 10 points, name this French author of The Man in the Iron Mask, The Count of Monte Cristo, and The Three Musketeers.": {
+    "guess": "Alexandre Dumas",
+    "confidence": [
+      [
+        "Alex",
+        -0.043401636
+      ],
+      [
+        "andre",
+        0.0
+      ],
+      [
+        " D",
+        -3.1281633e-07
+      ],
+      [
+        "umas",
+        0.0
+      ]
+    ]
+  },
+  "Levels of this molecule in the liver are reduced by HMG CoA [koh-ay] reductase inhibitors, better known": {
+    "guess": "Cholesterol",
+    "confidence": [
+      [
+        "Ch",
+        -0.6120406
+      ],
+      [
+        "ol",
+        0.0
+      ],
+      [
+        "esterol",
+        0.0
+      ]
+    ]
+  },
+  "Levels of this molecule in the liver are reduced by HMG CoA [koh-ay] reductase inhibitors, better known as statins. This molecule, which is transported through the circulatory system by lipoproteins, is": {
+    "guess": "Cholesterol",
+    "confidence": [
+      [
+        "Ch",
+        -0.014031633
+      ],
+      [
+        "ol",
+        0.0
+      ],
+      [
+        "esterol",
+        0.0
+      ]
+    ]
+  },
+  "Levels of this molecule in the liver are reduced by HMG CoA [koh-ay] reductase inhibitors, better known as statins. This molecule, which is transported through the circulatory system by lipoproteins, is a precursor of vitamin D and estrogen. A build-up of this waxy substance can cause (*) atherosclerosis,": {
+    "guess": "Cholesterol",
+    "confidence": [
+      [
+        "Ch",
+        -0.0017935856
+      ],
+      [
+        "ol",
+        0.0
+      ],
+      [
+        "esterol",
+        0.0
+      ]
+    ]
+  },
+  "Levels of this molecule in the liver are reduced by HMG CoA [koh-ay] reductase inhibitors, better known as statins. This molecule, which is transported through the circulatory system by lipoproteins, is a precursor of vitamin D and estrogen. A build-up of this waxy substance can cause (*) atherosclerosis, the hardening of arteries. For 10 points, name this modified steroid molecule whose LDL, or low-density,": {
+    "guess": "Cholesterol",
+    "confidence": [
+      [
+        "Ch",
+        -0.001753238
+      ],
+      [
+        "ol",
+        0.0
+      ],
+      [
+        "esterol",
+        0.0
+      ]
+    ]
+  },
+  "Levels of this molecule in the liver are reduced by HMG CoA [koh-ay] reductase inhibitors, better known as statins. This molecule, which is transported through the circulatory system by lipoproteins, is a precursor of vitamin D and estrogen. A build-up of this waxy substance can cause (*) atherosclerosis, the hardening of arteries. For 10 points, name this modified steroid molecule whose LDL, or low-density, form is known as its \"bad\" type for its role in heart disease.": {
+    "guess": "Cholesterol",
+    "confidence": [
+      [
+        "Ch",
+        -0.0002105734
+      ],
+      [
+        "ol",
+        0.0
+      ],
+      [
+        "esterol",
+        0.0
+      ]
+    ]
+  }
+}

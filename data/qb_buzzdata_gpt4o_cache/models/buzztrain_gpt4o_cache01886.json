@@ -1,0 +1,154 @@
+{
+  "The exons of these proteins attach via non-homologous end joining to perform class-switching. The \"12/23\"": {
+    "guess": "Immunoglobulin",
+    "confidence": [
+      [
+        "Im",
+        -0.16190526
+      ],
+      [
+        "mun",
+        0.0
+      ],
+      [
+        "oglob",
+        -1.6762922e-05
+      ],
+      [
+        "ulin",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "The exons of these proteins attach via non-homologous end joining to perform class-switching. The \"12/23\" rule achieves efficient V(D)J recombination of these proteins. The two heavy and two light (*)": {
+    "guess": "Antibody",
+    "confidence": [
+      [
+        "Ant",
+        -0.58417106
+      ],
+      [
+        "ibody",
+        -0.12692904
+      ]
+    ]
+  },
+  "The exons of these proteins attach via non-homologous end joining to perform class-switching. The \"12/23\" rule achieves efficient V(D)J recombination of these proteins. The two heavy and two light (*) chains that comprise them vary among the five isotypes of them that exist for mammals. Their epitopes": {
+    "guess": "Antibody",
+    "confidence": [
+      [
+        "Ant",
+        -0.08015778
+      ],
+      [
+        "ibody",
+        -0.3132692
+      ]
+    ]
+  },
+  "The exons of these proteins attach via non-homologous end joining to perform class-switching. The \"12/23\" rule achieves efficient V(D)J recombination of these proteins. The two heavy and two light (*) chains that comprise them vary among the five isotypes of them that exist for mammals. Their epitopes are uniquely recognized by the molecules they form an induced fit with. These are secreted by B cells.": {
+    "guess": "Antibody",
+    "confidence": [
+      [
+        "Ant",
+        -0.20411964
+      ],
+      [
+        "ibody",
+        -0.048589867
+      ]
+    ]
+  },
+  "The exons of these proteins attach via non-homologous end joining to perform class-switching. The \"12/23\" rule achieves efficient V(D)J recombination of these proteins. The two heavy and two light (*) chains that comprise them vary among the five isotypes of them that exist for mammals. Their epitopes are uniquely recognized by the molecules they form an induced fit with. These are secreted by B cells. For 10 points, identify these proteins used by the immune system against foreign antigens.": {
+    "guess": "Antibody",
+    "confidence": [
+      [
+        "Ant",
+        -0.107848816
+      ],
+      [
+        "ibody",
+        -0.07889034
+      ]
+    ]
+  },
+  "The 2, 3, 10, and 11 exons in the pre-mRNA for tropomyosin are spliced out for its expression in this": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.48299545
+      ]
+    ]
+  },
+  "The 2, 3, 10, and 11 exons in the pre-mRNA for tropomyosin are spliced out for its expression in this organ. It gives its name to a hormone in Rhodnius secreted by the corpora cardiaca that stimulates": {
+    "guess": "Prothoracic gland",
+    "confidence": [
+      [
+        "Pro",
+        -0.6984836
+      ],
+      [
+        "thor",
+        -4.3202e-07
+      ],
+      [
+        "acic",
+        -1.50940705e-05
+      ],
+      [
+        " gland",
+        -0.008215485
+      ]
+    ]
+  },
+  "The 2, 3, 10, and 11 exons in the pre-mRNA for tropomyosin are spliced out for its expression in this organ. It gives its name to a hormone in Rhodnius secreted by the corpora cardiaca that stimulates ecdysone release, causing molting. Its ingestion by the Fore causes kuru, and when starved, it consumes": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.3296938
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "The 2, 3, 10, and 11 exons in the pre-mRNA for tropomyosin are spliced out for its expression in this organ. It gives its name to a hormone in Rhodnius secreted by the corpora cardiaca that stimulates ecdysone release, causing molting. Its ingestion by the Fore causes kuru, and when starved, it consumes beta-hydroxybutyrate and acetoacetate. Losing function in the paresis phase of syphilis and in beri-beri,": {
+    "guess": "Brain",
+    "confidence": [
+      [
+        "Brain",
+        -0.021329192
+      ]
+    ]
+  },
+  "The 2, 3, 10, and 11 exons in the pre-mRNA for tropomyosin are spliced out for its expression in this organ. It gives its name to a hormone in Rhodnius secreted by the corpora cardiaca that stimulates ecdysone release, causing molting. Its ingestion by the Fore causes kuru, and when starved, it consumes beta-hydroxybutyrate and acetoacetate. Losing function in the paresis phase of syphilis and in beri-beri, it was mapped by Korbinian Brodmann, and developed from the ectoderm of the gastrula. Its": {
+    "guess": "Brain",
+    "confidence": [
+      [
+        "Brain",
+        -0.04960238
+      ]
+    ]
+  },
+  "The 2, 3, 10, and 11 exons in the pre-mRNA for tropomyosin are spliced out for its expression in this organ. It gives its name to a hormone in Rhodnius secreted by the corpora cardiaca that stimulates ecdysone release, causing molting. Its ingestion by the Fore causes kuru, and when starved, it consumes beta-hydroxybutyrate and acetoacetate. Losing function in the paresis phase of syphilis and in beri-beri, it was mapped by Korbinian Brodmann, and developed from the ectoderm of the gastrula. Its stem includes medulla and pons. For 10 points, name this organ divided into telencephalon and diencephalon,": {
+    "guess": "Brain",
+    "confidence": [
+      [
+        "Brain",
+        -0.0023166537
+      ]
+    ]
+  },
+  "The 2, 3, 10, and 11 exons in the pre-mRNA for tropomyosin are spliced out for its expression in this organ. It gives its name to a hormone in Rhodnius secreted by the corpora cardiaca that stimulates ecdysone release, causing molting. Its ingestion by the Fore causes kuru, and when starved, it consumes beta-hydroxybutyrate and acetoacetate. Losing function in the paresis phase of syphilis and in beri-beri, it was mapped by Korbinian Brodmann, and developed from the ectoderm of the gastrula. Its stem includes medulla and pons. For 10 points, name this organ divided into telencephalon and diencephalon, quite large in humans, who frequently use it to think.": {
+    "guess": "Brain",
+    "confidence": [
+      [
+        "Brain",
+        -0.000754001
+      ]
+    ]
+  }
+}

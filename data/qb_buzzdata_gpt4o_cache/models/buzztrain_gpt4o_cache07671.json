@@ -1,0 +1,123 @@
+{
+  "The tyrosine kinase Lck can become complexed to these molecules and triggers the phosphorylation of the": {
+    "guess": "T-cell receptor",
+    "confidence": [
+      [
+        "T",
+        -0.5552565
+      ],
+      [
+        "-cell",
+        -0.1013864
+      ],
+      [
+        " receptor",
+        -5.7888185e-05
+      ]
+    ]
+  },
+  "The tyrosine kinase Lck can become complexed to these molecules and triggers the phosphorylation of the serine specific protein kinase Raf-1. One class of these molecules functions as a mannose-6-phosphate": {
+    "guess": "Adaptor protein",
+    "confidence": [
+      [
+        "Adaptor",
+        -0.36819774
+      ],
+      [
+        " protein",
+        -0.11755669
+      ]
+    ]
+  },
+  "The tyrosine kinase Lck can become complexed to these molecules and triggers the phosphorylation of the serine specific protein kinase Raf-1. One class of these molecules functions as a mannose-6-phosphate receptor, and another is a polio virus receptor. Binding class 14 of these molecules may promote": {
+    "guess": "CD molecules",
+    "confidence": [
+      [
+        "CD",
+        -0.373115
+      ],
+      [
+        " molecules",
+        -0.20397393
+      ]
+    ]
+  },
+  "The tyrosine kinase Lck can become complexed to these molecules and triggers the phosphorylation of the serine specific protein kinase Raf-1. One class of these molecules functions as a mannose-6-phosphate receptor, and another is a polio virus receptor. Binding class 14 of these molecules may promote neural survival in Alzheimer's disease by reducing microglial activation. TCR signaling can be used": {
+    "guess": "CD molecules",
+    "confidence": [
+      [
+        "CD",
+        -0.13298368
+      ],
+      [
+        " molecules",
+        -0.08777554
+      ]
+    ]
+  },
+  "The tyrosine kinase Lck can become complexed to these molecules and triggers the phosphorylation of the serine specific protein kinase Raf-1. One class of these molecules functions as a mannose-6-phosphate receptor, and another is a polio virus receptor. Binding class 14 of these molecules may promote neural survival in Alzheimer's disease by reducing microglial activation. TCR signaling can be used to regulate the synthesis of these molecules, which are classified based on their recognition by and": {
+    "guess": "CD molecules",
+    "confidence": [
+      [
+        "CD",
+        -0.7606646
+      ],
+      [
+        " molecules",
+        -0.11963488
+      ]
+    ]
+  },
+  "The tyrosine kinase Lck can become complexed to these molecules and triggers the phosphorylation of the serine specific protein kinase Raf-1. One class of these molecules functions as a mannose-6-phosphate receptor, and another is a polio virus receptor. Binding class 14 of these molecules may promote neural survival in Alzheimer's disease by reducing microglial activation. TCR signaling can be used to regulate the synthesis of these molecules, which are classified based on their recognition by and reactivity with specific monoclonal antibodies. A ratio of class 4 of these molecules to class 8": {
+    "guess": "CD molecules",
+    "confidence": [
+      [
+        "CD",
+        -0.034540456
+      ],
+      [
+        " molecules",
+        -0.19911908
+      ]
+    ]
+  },
+  "The tyrosine kinase Lck can become complexed to these molecules and triggers the phosphorylation of the serine specific protein kinase Raf-1. One class of these molecules functions as a mannose-6-phosphate receptor, and another is a polio virus receptor. Binding class 14 of these molecules may promote neural survival in Alzheimer's disease by reducing microglial activation. TCR signaling can be used to regulate the synthesis of these molecules, which are classified based on their recognition by and reactivity with specific monoclonal antibodies. A ratio of class 4 of these molecules to class 8 of these molecules helps track the progression of infection by HIV, as HIV's gp120 interacts with class": {
+    "guess": "CD molecules",
+    "confidence": [
+      [
+        "CD",
+        -0.04453853
+      ],
+      [
+        " molecules",
+        -0.28236243
+      ]
+    ]
+  },
+  "The tyrosine kinase Lck can become complexed to these molecules and triggers the phosphorylation of the serine specific protein kinase Raf-1. One class of these molecules functions as a mannose-6-phosphate receptor, and another is a polio virus receptor. Binding class 14 of these molecules may promote neural survival in Alzheimer's disease by reducing microglial activation. TCR signaling can be used to regulate the synthesis of these molecules, which are classified based on their recognition by and reactivity with specific monoclonal antibodies. A ratio of class 4 of these molecules to class 8 of these molecules helps track the progression of infection by HIV, as HIV's gp120 interacts with class 4 of these molecules to enter helper T cells. For 10 points, name these membrane bound glycoproteins,": {
+    "guess": "CD molecules",
+    "confidence": [
+      [
+        "CD",
+        -0.0016917271
+      ],
+      [
+        " molecules",
+        -0.1617933
+      ]
+    ]
+  },
+  "The tyrosine kinase Lck can become complexed to these molecules and triggers the phosphorylation of the serine specific protein kinase Raf-1. One class of these molecules functions as a mannose-6-phosphate receptor, and another is a polio virus receptor. Binding class 14 of these molecules may promote neural survival in Alzheimer's disease by reducing microglial activation. TCR signaling can be used to regulate the synthesis of these molecules, which are classified based on their recognition by and reactivity with specific monoclonal antibodies. A ratio of class 4 of these molecules to class 8 of these molecules helps track the progression of infection by HIV, as HIV's gp120 interacts with class 4 of these molecules to enter helper T cells. For 10 points, name these membrane bound glycoproteins, whose class 4 and class 8 recognize MHC antigens presented to helper and cytoxic T-cells, respectively.": {
+    "guess": "CD molecules",
+    "confidence": [
+      [
+        "CD",
+        -0.006996089
+      ],
+      [
+        " molecules",
+        -0.3420508
+      ]
+    ]
+  }
+}

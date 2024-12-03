@@ -1,0 +1,88 @@
+{
+  "With Kolmogorov, this mathematician is considered the discoverer of the theory of stationary time series.": {
+    "guess": "Norbert Wiener",
+    "confidence": [
+      [
+        "Nor",
+        -0.51000273
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " Wiener",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "With Kolmogorov, this mathematician is considered the discoverer of the theory of stationary time series. Early in his career, he did fundamental work on the theory of stochastic processes and Brownian": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.71015763
+      ]
+    ]
+  },
+  "With Kolmogorov, this mathematician is considered the discoverer of the theory of stationary time series. Early in his career, he did fundamental work on the theory of stochastic processes and Brownian motion, publishing such seminal papers as \"Differential Space\", \"Generalized Harmonic Analysis\", and": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.587883
+      ]
+    ]
+  },
+  "With Kolmogorov, this mathematician is considered the discoverer of the theory of stationary time series. Early in his career, he did fundamental work on the theory of stochastic processes and Brownian motion, publishing such seminal papers as \"Differential Space\", \"Generalized Harmonic Analysis\", and \"Tauberian Theorems\". His most important work stemmed from his WWII research on gunfire control, which": {
+    "guess": "Norbert Wiener",
+    "confidence": [
+      [
+        "Nor",
+        -0.60845476
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " Wiener",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "With Kolmogorov, this mathematician is considered the discoverer of the theory of stationary time series. Early in his career, he did fundamental work on the theory of stochastic processes and Brownian motion, publishing such seminal papers as \"Differential Space\", \"Generalized Harmonic Analysis\", and \"Tauberian Theorems\". His most important work stemmed from his WWII research on gunfire control, which led to a work subtitled Control and Communication in the Animal and the Machine. FTP, who is this": {
+    "guess": "Norbert Wiener",
+    "confidence": [
+      [
+        "Nor",
+        -0.0038587435
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " Wiener",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "With Kolmogorov, this mathematician is considered the discoverer of the theory of stationary time series. Early in his career, he did fundamental work on the theory of stochastic processes and Brownian motion, publishing such seminal papers as \"Differential Space\", \"Generalized Harmonic Analysis\", and \"Tauberian Theorems\". His most important work stemmed from his WWII research on gunfire control, which led to a work subtitled Control and Communication in the Animal and the Machine. FTP, who is this man who founded a new field with his 1948 book Cybernetics?": {
+    "guess": "Norbert Wiener",
+    "confidence": [
+      [
+        "Nor",
+        -0.07389849
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " Wiener",
+        -1.9361265e-07
+      ]
+    ]
+  }
+}

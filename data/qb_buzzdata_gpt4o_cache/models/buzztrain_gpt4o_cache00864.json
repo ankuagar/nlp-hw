@@ -1,0 +1,138 @@
+{
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.43873277
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7286001
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as a mild replacement for this compound. In its typical use, it must be activated by Lewis base, typically": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5354807
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as a mild replacement for this compound. In its typical use, it must be activated by Lewis base, typically pyridine, to form a Schrock carbene, which then reacts in a two plus two cycloaddition. As an alternative": {
+    "guess": "Tebbe's reagent",
+    "confidence": [
+      [
+        "T",
+        -0.2382394
+      ],
+      [
+        "eb",
+        -2.220075e-06
+      ],
+      [
+        "be",
+        0.0
+      ],
+      [
+        "'s",
+        -2.4749568e-05
+      ],
+      [
+        " reagent",
+        -0.0011702254
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as a mild replacement for this compound. In its typical use, it must be activated by Lewis base, typically pyridine, to form a Schrock carbene, which then reacts in a two plus two cycloaddition. As an alternative to the Wittig reaction it eschews beta-elimination products, and compared to similar reagents": {
+    "guess": "Tebbe's reagent",
+    "confidence": [
+      [
+        "T",
+        -0.0882408
+      ],
+      [
+        "eb",
+        -9.0883464e-07
+      ],
+      [
+        "be",
+        0.0
+      ],
+      [
+        "'s",
+        -2.188868e-05
+      ],
+      [
+        " reagent",
+        -0.0021853535
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as a mild replacement for this compound. In its typical use, it must be activated by Lewis base, typically pyridine, to form a Schrock carbene, which then reacts in a two plus two cycloaddition. As an alternative to the Wittig reaction it eschews beta-elimination products, and compared to similar reagents it reacts at low temperature. This chemical consists of two five membered aromatic rings bound": {
+    "guess": "Tebbe's reagent",
+    "confidence": [
+      [
+        "T",
+        -0.4920635
+      ],
+      [
+        "eb",
+        -5.7961847e-06
+      ],
+      [
+        "be",
+        0.0
+      ],
+      [
+        "'s",
+        -0.000203898
+      ],
+      [
+        " reagent",
+        -0.00048811073
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as a mild replacement for this compound. In its typical use, it must be activated by Lewis base, typically pyridine, to form a Schrock carbene, which then reacts in a two plus two cycloaddition. As an alternative to the Wittig reaction it eschews beta-elimination products, and compared to similar reagents it reacts at low temperature. This chemical consists of two five membered aromatic rings bound to a square planar bridge consisting of a chloride ion, aluminum ion with two alkyl groups attached,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.43308946
+      ]
+    ]
+  },
+  "C-glycosides can be prepared by reacting this compound with glycal esters and general methods for using this compound with esters was devised by Pine and Grubbs. A chemical named for Petasis can act as a mild replacement for this compound. In its typical use, it must be activated by Lewis base, typically pyridine, to form a Schrock carbene, which then reacts in a two plus two cycloaddition. As an alternative to the Wittig reaction it eschews beta-elimination products, and compared to similar reagents it reacts at low temperature. This chemical consists of two five membered aromatic rings bound to a square planar bridge consisting of a chloride ion, aluminum ion with two alkyl groups attached, and a titanium ion. For 10 points, name this organometallic compound used to methylenate carbonyls.": {
+    "guess": "Tebbe's reagent",
+    "confidence": [
+      [
+        "T",
+        -0.005582468
+      ],
+      [
+        "eb",
+        -3.4121115e-06
+      ],
+      [
+        "be",
+        -8.351697e-05
+      ],
+      [
+        "'s",
+        -0.00016837897
+      ],
+      [
+        " reagent",
+        -0.023245826
+      ]
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "Walborn et. al demonstrated in a 2002 paper that this phenomenon appears independent of when the observer": {
+    "guess": "Quantum eraser experiment",
+    "confidence": [
+      [
+        "Quantum",
+        -0.055180598
+      ],
+      [
+        " er",
+        -0.41844568
+      ],
+      [
+        "aser",
+        -0.005234952
+      ],
+      [
+        " experiment",
+        -0.017749272
+      ]
+    ]
+  },
+  "Walborn et. al demonstrated in a 2002 paper that this phenomenon appears independent of when the observer detects it, and Popescu and Rohrlich wrote about the \"Joy\" of this phenomenon. Another scientist": {
+    "guess": "Quantum entanglement",
+    "confidence": [
+      [
+        "Quantum",
+        -0.17298543
+      ],
+      [
+        " ent",
+        -0.25283
+      ],
+      [
+        "ang",
+        0.0
+      ],
+      [
+        "lement",
+        0.0
+      ]
+    ]
+  },
+  "Walborn et. al demonstrated in a 2002 paper that this phenomenon appears independent of when the observer detects it, and Popescu and Rohrlich wrote about the \"Joy\" of this phenomenon. Another scientist who described it as \"spooky\" introduced hidden variables to account for it, although Bell's theorem": {
+    "guess": "Quantum entanglement",
+    "confidence": [
+      [
+        "Quantum",
+        -0.0025349983
+      ],
+      [
+        " ent",
+        -0.00033629662
+      ],
+      [
+        "ang",
+        0.0
+      ],
+      [
+        "lement",
+        0.0
+      ]
+    ]
+  },
+  "Walborn et. al demonstrated in a 2002 paper that this phenomenon appears independent of when the observer detects it, and Popescu and Rohrlich wrote about the \"Joy\" of this phenomenon. Another scientist who described it as \"spooky\" introduced hidden variables to account for it, although Bell's theorem proves that hidden variables cannot adequately explain it. It leads to the Einstein-Podolsky-Rosen": {
+    "guess": "Quantum entanglement",
+    "confidence": [
+      [
+        "Quantum",
+        -0.015012893
+      ],
+      [
+        " ent",
+        -0.00011617878
+      ],
+      [
+        "ang",
+        0.0
+      ],
+      [
+        "lement",
+        0.0
+      ]
+    ]
+  },
+  "Walborn et. al demonstrated in a 2002 paper that this phenomenon appears independent of when the observer detects it, and Popescu and Rohrlich wrote about the \"Joy\" of this phenomenon. Another scientist who described it as \"spooky\" introduced hidden variables to account for it, although Bell's theorem proves that hidden variables cannot adequately explain it. It leads to the Einstein-Podolsky-Rosen Paradox because it violates locality, allowing for information to travel faster than the speed of light.": {
+    "guess": "Quantum entanglement",
+    "confidence": [
+      [
+        "Quantum",
+        -0.00089180964
+      ],
+      [
+        " ent",
+        -2.939851e-05
+      ],
+      [
+        "ang",
+        0.0
+      ],
+      [
+        "lement",
+        0.0
+      ]
+    ]
+  },
+  "Walborn et. al demonstrated in a 2002 paper that this phenomenon appears independent of when the observer detects it, and Popescu and Rohrlich wrote about the \"Joy\" of this phenomenon. Another scientist who described it as \"spooky\" introduced hidden variables to account for it, although Bell's theorem proves that hidden variables cannot adequately explain it. It leads to the Einstein-Podolsky-Rosen Paradox because it violates locality, allowing for information to travel faster than the speed of light. This idea is behind qubits, the basic unit of information in quantum computers. For 10 points,": {
+    "guess": "Quantum entanglement",
+    "confidence": [
+      [
+        "Quantum",
+        -0.00013321757
+      ],
+      [
+        " ent",
+        -0.020543175
+      ],
+      [
+        "ang",
+        0.0
+      ],
+      [
+        "lement",
+        0.0
+      ]
+    ]
+  },
+  "Walborn et. al demonstrated in a 2002 paper that this phenomenon appears independent of when the observer detects it, and Popescu and Rohrlich wrote about the \"Joy\" of this phenomenon. Another scientist who described it as \"spooky\" introduced hidden variables to account for it, although Bell's theorem proves that hidden variables cannot adequately explain it. It leads to the Einstein-Podolsky-Rosen Paradox because it violates locality, allowing for information to travel faster than the speed of light. This idea is behind qubits, the basic unit of information in quantum computers. For 10 points, what phenomenon describes multiple particles which share linked quantum states?": {
+    "guess": "Quantum entanglement",
+    "confidence": [
+      [
+        "Quantum",
+        -6.7901296e-05
+      ],
+      [
+        " ent",
+        -0.009757033
+      ],
+      [
+        "ang",
+        0.0
+      ],
+      [
+        "lement",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "A heterozygous individual who exhibits no signs of this disease still scores substantially higher than": {
+    "guess": "Huntington's disease",
+    "confidence": [
+      [
+        "H",
+        -0.8636353
+      ],
+      [
+        "unting",
+        -6.869018e-06
+      ],
+      [
+        "ton",
+        -1.6882126e-05
+      ],
+      [
+        "'s",
+        -2.8564085e-05
+      ],
+      [
+        " disease",
+        -0.0019295862
+      ]
+    ]
+  },
+  "A heterozygous individual who exhibits no signs of this disease still scores substantially higher than a normal person on a plasma tolerance test.  Mothers who are heterozygous carriers of the disease": {
+    "guess": "Diabetes mellitus type 2",
+    "confidence": [
+      [
+        "Di",
+        -0.10022371
+      ],
+      [
+        "abetes",
+        -4.3202e-07
+      ],
+      [
+        " mellitus",
+        -0.39907688
+      ],
+      [
+        " type",
+        -0.12779763
+      ],
+      [
+        " ",
+        -3.0545007e-06
+      ],
+      [
+        "2",
+        -0.52312857
+      ]
+    ]
+  },
+  "A heterozygous individual who exhibits no signs of this disease still scores substantially higher than a normal person on a plasma tolerance test.  Mothers who are heterozygous carriers of the disease are at risk for serious pregnancy complications. Clinical signs include eczema and decreased pigment": {
+    "guess": "Phenylketonuria",
+    "confidence": [
+      [
+        "Phen",
+        -0.086319745
+      ],
+      [
+        "yl",
+        -1.9361265e-07
+      ],
+      [
+        "ket",
+        -3.1281633e-07
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        "uria",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A heterozygous individual who exhibits no signs of this disease still scores substantially higher than a normal person on a plasma tolerance test.  Mothers who are heterozygous carriers of the disease are at risk for serious pregnancy complications. Clinical signs include eczema and decreased pigment in skin and hair.  Its classical form is an autosomal recessive disorder of a locus on chromosome 12.": {
+    "guess": "Phenylketonuria",
+    "confidence": [
+      [
+        "Phen",
+        -5.9199425e-05
+      ],
+      [
+        "yl",
+        0.0
+      ],
+      [
+        "ket",
+        -3.1281633e-07
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        "uria",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "A heterozygous individual who exhibits no signs of this disease still scores substantially higher than a normal person on a plasma tolerance test.  Mothers who are heterozygous carriers of the disease are at risk for serious pregnancy complications. Clinical signs include eczema and decreased pigment in skin and hair.  Its classical form is an autosomal recessive disorder of a locus on chromosome 12.  Normally the body would produce the amino acid tyrosine, but due to a deficiency of a hydroxylase,": {
+    "guess": "Phenylketonuria",
+    "confidence": [
+      [
+        "Phen",
+        -0.009186914
+      ],
+      [
+        "yl",
+        0.0
+      ],
+      [
+        "ket",
+        -1.9361265e-07
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        "uria",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A heterozygous individual who exhibits no signs of this disease still scores substantially higher than a normal person on a plasma tolerance test.  Mothers who are heterozygous carriers of the disease are at risk for serious pregnancy complications. Clinical signs include eczema and decreased pigment in skin and hair.  Its classical form is an autosomal recessive disorder of a locus on chromosome 12.  Normally the body would produce the amino acid tyrosine, but due to a deficiency of a hydroxylase, another amino acid can build up to toxic levels.  FTP, name this disease that can cause mental retardation": {
+    "guess": "Phenylketonuria",
+    "confidence": [
+      [
+        "Phen",
+        -0.007494578
+      ],
+      [
+        "yl",
+        0.0
+      ],
+      [
+        "ket",
+        -1.9361265e-07
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        "uria",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A heterozygous individual who exhibits no signs of this disease still scores substantially higher than a normal person on a plasma tolerance test.  Mothers who are heterozygous carriers of the disease are at risk for serious pregnancy complications. Clinical signs include eczema and decreased pigment in skin and hair.  Its classical form is an autosomal recessive disorder of a locus on chromosome 12.  Normally the body would produce the amino acid tyrosine, but due to a deficiency of a hydroxylase, another amino acid can build up to toxic levels.  FTP, name this disease that can cause mental retardation following consumption of a certain amino acid, and whose name derives from the musty odor": {
+    "guess": "Phenylketonuria",
+    "confidence": [
+      [
+        "Phen",
+        -0.0051471815
+      ],
+      [
+        "yl",
+        0.0
+      ],
+      [
+        "ket",
+        0.0
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        "uria",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A heterozygous individual who exhibits no signs of this disease still scores substantially higher than a normal person on a plasma tolerance test.  Mothers who are heterozygous carriers of the disease are at risk for serious pregnancy complications. Clinical signs include eczema and decreased pigment in skin and hair.  Its classical form is an autosomal recessive disorder of a locus on chromosome 12.  Normally the body would produce the amino acid tyrosine, but due to a deficiency of a hydroxylase, another amino acid can build up to toxic levels.  FTP, name this disease that can cause mental retardation following consumption of a certain amino acid, and whose name derives from the musty odor of the patient's urine.": {
+    "guess": "Phenylketonuria",
+    "confidence": [
+      [
+        "Phen",
+        -0.00048584584
+      ],
+      [
+        "yl",
+        0.0
+      ],
+      [
+        "ket",
+        0.0
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        "uria",
+        0.0
+      ]
+    ]
+  },
+  "As heterocyclic chemical compounds, rings containing multiples of this functional group are useful as": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0573585
+      ]
+    ]
+  },
+  "As heterocyclic chemical compounds, rings containing multiples of this functional group are useful as phase transfer catalysts. A special, especially reactive class of these can be formed by the reaction": {
+    "guess": "Crown ether",
+    "confidence": [
+      [
+        "C",
+        -0.13403033
+      ],
+      [
+        "rown",
+        -5.7961847e-06
+      ],
+      [
+        " ether",
+        -0.010398804
+      ]
+    ]
+  },
+  "As heterocyclic chemical compounds, rings containing multiples of this functional group are useful as phase transfer catalysts. A special, especially reactive class of these can be formed by the reaction of trifluoroperacetic acid with an alkene. Other classes of this functional group include ketals": {
+    "guess": "Epoxide",
+    "confidence": [
+      [
+        "Ep",
+        -0.138744
+      ],
+      [
+        "oxide",
+        -0.00021105022
+      ]
+    ]
+  },
+  "As heterocyclic chemical compounds, rings containing multiples of this functional group are useful as phase transfer catalysts. A special, especially reactive class of these can be formed by the reaction of trifluoroperacetic acid with an alkene. Other classes of this functional group include ketals and acetals. Its 120 degree bond angle results in a dipole. A common synthesis technique features the": {
+    "guess": "Epoxide",
+    "confidence": [
+      [
+        "Ep",
+        -0.028894996
+      ],
+      [
+        "oxide",
+        -0.0005710252
+      ]
+    ]
+  },
+  "As heterocyclic chemical compounds, rings containing multiples of this functional group are useful as phase transfer catalysts. A special, especially reactive class of these can be formed by the reaction of trifluoroperacetic acid with an alkene. Other classes of this functional group include ketals and acetals. Its 120 degree bond angle results in a dipole. A common synthesis technique features the deprotonation of an alcohol, which subsequently reacts with an alkyl-halide. Other means of synthesis": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.072672136
+      ]
+    ]
+  },
+  "As heterocyclic chemical compounds, rings containing multiples of this functional group are useful as phase transfer catalysts. A special, especially reactive class of these can be formed by the reaction of trifluoroperacetic acid with an alkene. Other classes of this functional group include ketals and acetals. Its 120 degree bond angle results in a dipole. A common synthesis technique features the deprotonation of an alcohol, which subsequently reacts with an alkyl-halide. Other means of synthesis include Ullman condensation and the dehydration of alcohols. Used to link the monomers of carbohydrates,": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.004172303
+      ]
+    ]
+  },
+  "As heterocyclic chemical compounds, rings containing multiples of this functional group are useful as phase transfer catalysts. A special, especially reactive class of these can be formed by the reaction of trifluoroperacetic acid with an alkene. Other classes of this functional group include ketals and acetals. Its 120 degree bond angle results in a dipole. A common synthesis technique features the deprotonation of an alcohol, which subsequently reacts with an alkyl-halide. Other means of synthesis include Ullman condensation and the dehydration of alcohols. Used to link the monomers of carbohydrates, this functional group also serves as a both a Lewis and an Bronstead base. For 10 points, identify": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.005200317
+      ]
+    ]
+  },
+  "As heterocyclic chemical compounds, rings containing multiples of this functional group are useful as phase transfer catalysts. A special, especially reactive class of these can be formed by the reaction of trifluoroperacetic acid with an alkene. Other classes of this functional group include ketals and acetals. Its 120 degree bond angle results in a dipole. A common synthesis technique features the deprotonation of an alcohol, which subsequently reacts with an alkyl-halide. Other means of synthesis include Ullman condensation and the dehydration of alcohols. Used to link the monomers of carbohydrates, this functional group also serves as a both a Lewis and an Bronstead base. For 10 points, identify this functional group which is an alkoxy-substitued alkyl, alkene, or alkyne: an oxygen atom": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.015935827
+      ]
+    ]
+  },
+  "As heterocyclic chemical compounds, rings containing multiples of this functional group are useful as phase transfer catalysts. A special, especially reactive class of these can be formed by the reaction of trifluoroperacetic acid with an alkene. Other classes of this functional group include ketals and acetals. Its 120 degree bond angle results in a dipole. A common synthesis technique features the deprotonation of an alcohol, which subsequently reacts with an alkyl-halide. Other means of synthesis include Ullman condensation and the dehydration of alcohols. Used to link the monomers of carbohydrates, this functional group also serves as a both a Lewis and an Bronstead base. For 10 points, identify this functional group which is an alkoxy-substitued alkyl, alkene, or alkyne: an oxygen atom linking the carbons of two hydrocarbons.": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.03069356
+      ]
+    ]
+  }
+}

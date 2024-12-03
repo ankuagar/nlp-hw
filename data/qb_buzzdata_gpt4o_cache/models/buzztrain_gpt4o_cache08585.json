@@ -1,0 +1,4240 @@
+{
+  "The Williams-Stove thesis attempts to justify the reasonableness of this concept. William Reichenbach": {
+    "guess": "Induction (philosophy)",
+    "confidence": [
+      [
+        "Ind",
+        -1.2181101
+      ],
+      [
+        "uction",
+        -0.6934669
+      ],
+      [
+        " (",
+        -0.39767173
+      ],
+      [
+        "ph",
+        -0.011310591
+      ],
+      [
+        "ilos",
+        0.0
+      ],
+      [
+        "ophy",
+        -4.3202e-07
+      ],
+      [
+        ")",
+        -0.000147522
+      ]
+    ]
+  },
+  "The Williams-Stove thesis attempts to justify the reasonableness of this concept. William Reichenbach developed a \"pragmatic justification\" of this concept, while Rudolf Carnap developed a Lambda-continuum": {
+    "guess": "Inductive reasoning",
+    "confidence": [
+      [
+        "Ind",
+        -0.060484815
+      ],
+      [
+        "uctive",
+        -0.31326264
+      ],
+      [
+        " reasoning",
+        -0.020174649
+      ]
+    ]
+  },
+  "The Williams-Stove thesis attempts to justify the reasonableness of this concept. William Reichenbach developed a \"pragmatic justification\" of this concept, while Rudolf Carnap developed a Lambda-continuum of it. Carl Hempel proposed the paradox of the ravens to illustrate problems with this concept.": {
+    "guess": "Inductive reasoning",
+    "confidence": [
+      [
+        "Ind",
+        -0.0771918
+      ],
+      [
+        "uctive",
+        -0.31326222
+      ],
+      [
+        " reasoning",
+        -0.00042352435
+      ]
+    ]
+  },
+  "The Williams-Stove thesis attempts to justify the reasonableness of this concept. William Reichenbach developed a \"pragmatic justification\" of this concept, while Rudolf Carnap developed a Lambda-continuum of it. Carl Hempel proposed the paradox of the ravens to illustrate problems with this concept. In Fact, Fiction, and Forecast, Nelson Goodman used the example of an emerald described as \"grue\" to": {
+    "guess": "Induction",
+    "confidence": [
+      [
+        "Ind",
+        -0.0018266693
+      ],
+      [
+        "uction",
+        -0.12693419
+      ]
+    ]
+  },
+  "The Williams-Stove thesis attempts to justify the reasonableness of this concept. William Reichenbach developed a \"pragmatic justification\" of this concept, while Rudolf Carnap developed a Lambda-continuum of it. Carl Hempel proposed the paradox of the ravens to illustrate problems with this concept. In Fact, Fiction, and Forecast, Nelson Goodman used the example of an emerald described as \"grue\" to describe \"the new riddle\" of this concept. Karl Popper argued that it should be replaced by falsifiability": {
+    "guess": "Inductive reasoning",
+    "confidence": [
+      [
+        "Ind",
+        -0.0001820874
+      ],
+      [
+        "uctive",
+        -0.061967798
+      ],
+      [
+        " reasoning",
+        -2.5226382e-05
+      ]
+    ]
+  },
+  "The Williams-Stove thesis attempts to justify the reasonableness of this concept. William Reichenbach developed a \"pragmatic justification\" of this concept, while Rudolf Carnap developed a Lambda-continuum of it. Carl Hempel proposed the paradox of the ravens to illustrate problems with this concept. In Fact, Fiction, and Forecast, Nelson Goodman used the example of an emerald described as \"grue\" to describe \"the new riddle\" of this concept. Karl Popper argued that it should be replaced by falsifiability to determine whether a theory is scientific. For 10 points, name this type of logic which makes": {
+    "guess": "Inductive reasoning",
+    "confidence": [
+      [
+        "Ind",
+        -0.00039492646
+      ],
+      [
+        "uctive",
+        -0.100207746
+      ],
+      [
+        " reasoning",
+        -0.00091812795
+      ]
+    ]
+  },
+  "The Williams-Stove thesis attempts to justify the reasonableness of this concept. William Reichenbach developed a \"pragmatic justification\" of this concept, while Rudolf Carnap developed a Lambda-continuum of it. Carl Hempel proposed the paradox of the ravens to illustrate problems with this concept. In Fact, Fiction, and Forecast, Nelson Goodman used the example of an emerald described as \"grue\" to describe \"the new riddle\" of this concept. Karl Popper argued that it should be replaced by falsifiability to determine whether a theory is scientific. For 10 points, name this type of logic which makes general claims from particular instances.": {
+    "guess": "Inductive reasoning",
+    "confidence": [
+      [
+        "Ind",
+        -0.00033832307
+      ],
+      [
+        "uctive",
+        -0.31326258
+      ],
+      [
+        " reasoning",
+        -6.837811e-05
+      ]
+    ]
+  },
+  "The Williams-Landel-Ferry model provides more accurate predictions for viscosity at higher temperatures": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8046453
+      ]
+    ]
+  },
+  "The Williams-Landel-Ferry model provides more accurate predictions for viscosity at higher temperatures than this related equation. This equation is similar in form to an equation based on transition state": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6968675
+      ]
+    ]
+  },
+  "The Williams-Landel-Ferry model provides more accurate predictions for viscosity at higher temperatures than this related equation. This equation is similar in form to an equation based on transition state theory named after Polanyi and Eyring. Derived largely from collision theory, it includes one term": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.78090817
+      ]
+    ]
+  },
+  "The Williams-Landel-Ferry model provides more accurate predictions for viscosity at higher temperatures than this related equation. This equation is similar in form to an equation based on transition state theory named after Polanyi and Eyring. Derived largely from collision theory, it includes one term based partially on the number of collisions in the system, as well as a term equal to e to the negative": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.22304015
+      ]
+    ]
+  },
+  "The Williams-Landel-Ferry model provides more accurate predictions for viscosity at higher temperatures than this related equation. This equation is similar in form to an equation based on transition state theory named after Polanyi and Eyring. Derived largely from collision theory, it includes one term based partially on the number of collisions in the system, as well as a term equal to e to the negative capital E-sub-a over RT. Preceded by a pre-exponential or steric factor typically symbolized": {
+    "guess": "Arrhenius equation",
+    "confidence": [
+      [
+        "Arr",
+        -0.0054944954
+      ],
+      [
+        "hen",
+        0.0
+      ],
+      [
+        "ius",
+        0.0
+      ],
+      [
+        " equation",
+        -0.0024756587
+      ]
+    ]
+  },
+  "The Williams-Landel-Ferry model provides more accurate predictions for viscosity at higher temperatures than this related equation. This equation is similar in form to an equation based on transition state theory named after Polanyi and Eyring. Derived largely from collision theory, it includes one term based partially on the number of collisions in the system, as well as a term equal to e to the negative capital E-sub-a over RT. Preceded by a pre-exponential or steric factor typically symbolized A and used to compute the rate constant in terms of activation energy, for 10 points, name this equation": {
+    "guess": "Arrhenius equation",
+    "confidence": [
+      [
+        "Arr",
+        -0.002397175
+      ],
+      [
+        "hen",
+        0.0
+      ],
+      [
+        "ius",
+        0.0
+      ],
+      [
+        " equation",
+        -0.006715371
+      ]
+    ]
+  },
+  "The Williams-Landel-Ferry model provides more accurate predictions for viscosity at higher temperatures than this related equation. This equation is similar in form to an equation based on transition state theory named after Polanyi and Eyring. Derived largely from collision theory, it includes one term based partially on the number of collisions in the system, as well as a term equal to e to the negative capital E-sub-a over RT. Preceded by a pre-exponential or steric factor typically symbolized A and used to compute the rate constant in terms of activation energy, for 10 points, name this equation of chemical kinetics, named after a Swedish chemist.": {
+    "guess": "Arrhenius equation",
+    "confidence": [
+      [
+        "Arr",
+        -0.0005787697
+      ],
+      [
+        "hen",
+        0.0
+      ],
+      [
+        "ius",
+        0.0
+      ],
+      [
+        " equation",
+        -0.0024756587
+      ]
+    ]
+  },
+  "William Priestly aided this man in his plans for the Resor house, and this architect also created what": {
+    "guess": "Frank Lloyd Wright",
+    "confidence": [
+      [
+        "Frank",
+        -0.0037903388
+      ],
+      [
+        " Lloyd",
+        0.0
+      ],
+      [
+        " Wright",
+        0.0
+      ]
+    ]
+  },
+  "William Priestly aided this man in his plans for the Resor house, and this architect also created what was then Canada's tallest building, the Toronto-Dominion Centre. His plans to build a home for a Chicago": {
+    "guess": "Ludwig Mies van der Rohe",
+    "confidence": [
+      [
+        "L",
+        -0.0066436143
+      ],
+      [
+        "ud",
+        0.0
+      ],
+      [
+        "wig",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        " van",
+        0.0
+      ],
+      [
+        " der",
+        0.0
+      ],
+      [
+        " Ro",
+        0.0
+      ],
+      [
+        "he",
+        0.0
+      ]
+    ]
+  },
+  "William Priestly aided this man in his plans for the Resor house, and this architect also created what was then Canada's tallest building, the Toronto-Dominion Centre. His plans to build a home for a Chicago kidney specialist were preceded by the construction of a pavilion consisting of a raised terrace": {
+    "guess": "Ludwig Mies van der Rohe",
+    "confidence": [
+      [
+        "L",
+        -0.037823647
+      ],
+      [
+        "ud",
+        -7.89631e-07
+      ],
+      [
+        "wig",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        " van",
+        0.0
+      ],
+      [
+        " der",
+        0.0
+      ],
+      [
+        " Ro",
+        0.0
+      ],
+      [
+        "he",
+        0.0
+      ]
+    ]
+  },
+  "William Priestly aided this man in his plans for the Resor house, and this architect also created what was then Canada's tallest building, the Toronto-Dominion Centre. His plans to build a home for a Chicago kidney specialist were preceded by the construction of a pavilion consisting of a raised terrace and eight cruciform columns for the Barcelona Exhibition. In addition to the Farnsworth House in": {
+    "guess": "Ludwig Mies van der Rohe",
+    "confidence": [
+      [
+        "L",
+        -0.004206971
+      ],
+      [
+        "ud",
+        -4.3202e-07
+      ],
+      [
+        "wig",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        " van",
+        0.0
+      ],
+      [
+        " der",
+        0.0
+      ],
+      [
+        " Ro",
+        0.0
+      ],
+      [
+        "he",
+        0.0
+      ]
+    ]
+  },
+  "William Priestly aided this man in his plans for the Resor house, and this architect also created what was then Canada's tallest building, the Toronto-Dominion Centre. His plans to build a home for a Chicago kidney specialist were preceded by the construction of a pavilion consisting of a raised terrace and eight cruciform columns for the Barcelona Exhibition. In addition to the Farnsworth House in Plano, he co-produced a skyscraper on Park Avenue for a distilling company and was the last director": {
+    "guess": "Ludwig Mies van der Rohe",
+    "confidence": [
+      [
+        "L",
+        -0.012073493
+      ],
+      [
+        "ud",
+        -1.9361265e-07
+      ],
+      [
+        "wig",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        " van",
+        0.0
+      ],
+      [
+        " der",
+        0.0
+      ],
+      [
+        " Ro",
+        0.0
+      ],
+      [
+        "he",
+        0.0
+      ]
+    ]
+  },
+  "William Priestly aided this man in his plans for the Resor house, and this architect also created what was then Canada's tallest building, the Toronto-Dominion Centre. His plans to build a home for a Chicago kidney specialist were preceded by the construction of a pavilion consisting of a raised terrace and eight cruciform columns for the Barcelona Exhibition. In addition to the Farnsworth House in Plano, he co-produced a skyscraper on Park Avenue for a distilling company and was the last director of the Bauhaus. For 10 points, name this German architect whose collaboration with Philip Johnson": {
+    "guess": "Ludwig Mies van der Rohe",
+    "confidence": [
+      [
+        "L",
+        -0.0054545472
+      ],
+      [
+        "ud",
+        0.0
+      ],
+      [
+        "wig",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        " van",
+        0.0
+      ],
+      [
+        " der",
+        0.0
+      ],
+      [
+        " Ro",
+        0.0
+      ],
+      [
+        "he",
+        0.0
+      ]
+    ]
+  },
+  "William Priestly aided this man in his plans for the Resor house, and this architect also created what was then Canada's tallest building, the Toronto-Dominion Centre. His plans to build a home for a Chicago kidney specialist were preceded by the construction of a pavilion consisting of a raised terrace and eight cruciform columns for the Barcelona Exhibition. In addition to the Farnsworth House in Plano, he co-produced a skyscraper on Park Avenue for a distilling company and was the last director of the Bauhaus. For 10 points, name this German architect whose collaboration with Philip Johnson produced the Seagram building, known for the adage that \"less is more.\"": {
+    "guess": "Ludwig Mies van der Rohe",
+    "confidence": [
+      [
+        "L",
+        -0.0011189036
+      ],
+      [
+        "ud",
+        0.0
+      ],
+      [
+        "wig",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        " van",
+        0.0
+      ],
+      [
+        " der",
+        0.0
+      ],
+      [
+        " Ro",
+        0.0
+      ],
+      [
+        "he",
+        0.0
+      ]
+    ]
+  },
+  "William Cushing and Alfred Moore did not hear the oral arguments or factor in this case's decision. The": {
+    "guess": "Marbury v. Madison",
+    "confidence": [
+      [
+        "Mar",
+        -0.3859526
+      ],
+      [
+        "bury",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Madison",
+        0.0
+      ]
+    ]
+  },
+  "William Cushing and Alfred Moore did not hear the oral arguments or factor in this case's decision. The majority opinion hinged on the court's lack of legitimate original jurisdiction over writs of mandamus,": {
+    "guess": "Marbury v. Madison",
+    "confidence": [
+      [
+        "Mar",
+        -3.488188e-05
+      ],
+      [
+        "bury",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Madison",
+        0.0
+      ]
+    ]
+  },
+  "William Cushing and Alfred Moore did not hear the oral arguments or factor in this case's decision. The majority opinion hinged on the court's lack of legitimate original jurisdiction over writs of mandamus, and the unanimous majority opinion invalidated Section 13 of the Judiciary Act of 1789. The conflict": {
+    "guess": "Marbury v. Madison",
+    "confidence": [
+      [
+        "Mar",
+        -2.9160103e-05
+      ],
+      [
+        "bury",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Madison",
+        0.0
+      ]
+    ]
+  },
+  "William Cushing and Alfred Moore did not hear the oral arguments or factor in this case's decision. The majority opinion hinged on the court's lack of legitimate original jurisdiction over writs of mandamus, and the unanimous majority opinion invalidated Section 13 of the Judiciary Act of 1789. The conflict in this case arose from the defendant's failure to deliver the appointment of one of the \"Midnight": {
+    "guess": "Marbury v. Madison",
+    "confidence": [
+      [
+        "Mar",
+        -8.041768e-05
+      ],
+      [
+        "bury",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Madison",
+        0.0
+      ]
+    ]
+  },
+  "William Cushing and Alfred Moore did not hear the oral arguments or factor in this case's decision. The majority opinion hinged on the court's lack of legitimate original jurisdiction over writs of mandamus, and the unanimous majority opinion invalidated Section 13 of the Judiciary Act of 1789. The conflict in this case arose from the defendant's failure to deliver the appointment of one of the \"Midnight Judges.\" FTP, name this case in which John Marshall denied the plaintiff's right to become a": {
+    "guess": "Marbury v. Madison",
+    "confidence": [
+      [
+        "Mar",
+        -8.299462e-06
+      ],
+      [
+        "bury",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Madison",
+        0.0
+      ]
+    ]
+  },
+  "William Cushing and Alfred Moore did not hear the oral arguments or factor in this case's decision. The majority opinion hinged on the court's lack of legitimate original jurisdiction over writs of mandamus, and the unanimous majority opinion invalidated Section 13 of the Judiciary Act of 1789. The conflict in this case arose from the defendant's failure to deliver the appointment of one of the \"Midnight Judges.\" FTP, name this case in which John Marshall denied the plaintiff's right to become a Justice of the Peace, establishing Judicial Review in the process.": {
+    "guess": "Marbury v. Madison",
+    "confidence": [
+      [
+        "Mar",
+        -8.537869e-06
+      ],
+      [
+        "bury",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Madison",
+        0.0
+      ]
+    ]
+  },
+  "While William Baker and August Jaeger are represented in this work, the composer dedicated the last one": {
+    "guess": "Enigma Variations",
+    "confidence": [
+      [
+        "En",
+        -0.01913397
+      ],
+      [
+        "igma",
+        -7.89631e-07
+      ],
+      [
+        " Vari",
+        0.0
+      ],
+      [
+        "ations",
+        0.0
+      ]
+    ]
+  },
+  "While William Baker and August Jaeger are represented in this work, the composer dedicated the last one to himself, writing \"E.D.U.\" next to the name of the piece. The one preceding this lacks initials,": {
+    "guess": "Enigma Variations",
+    "confidence": [
+      [
+        "En",
+        -0.03920953
+      ],
+      [
+        "igma",
+        -4.3202e-07
+      ],
+      [
+        " Vari",
+        0.0
+      ],
+      [
+        "ations",
+        0.0
+      ]
+    ]
+  },
+  "While William Baker and August Jaeger are represented in this work, the composer dedicated the last one to himself, writing \"E.D.U.\" next to the name of the piece. The one preceding this lacks initials, but evidence indicates that it is perhaps written to Lady Mary Lygon or Helen Weaver, who was the": {
+    "guess": "Enigma Variations",
+    "confidence": [
+      [
+        "En",
+        -0.03917961
+      ],
+      [
+        "igma",
+        -4.3202e-07
+      ],
+      [
+        " Vari",
+        -1.9361265e-07
+      ],
+      [
+        "ations",
+        0.0
+      ]
+    ]
+  },
+  "While William Baker and August Jaeger are represented in this work, the composer dedicated the last one to himself, writing \"E.D.U.\" next to the name of the piece. The one preceding this lacks initials, but evidence indicates that it is perhaps written to Lady Mary Lygon or Helen Weaver, who was the composer's fianc? before she moved to New Zealand. The fifth is dedicated to Richard Arnold, the son": {
+    "guess": "Enigma Variations",
+    "confidence": [
+      [
+        "En",
+        -0.025298992
+      ],
+      [
+        "igma",
+        -5.5122365e-07
+      ],
+      [
+        " Vari",
+        0.0
+      ],
+      [
+        "ations",
+        0.0
+      ]
+    ]
+  },
+  "While William Baker and August Jaeger are represented in this work, the composer dedicated the last one to himself, writing \"E.D.U.\" next to the name of the piece. The one preceding this lacks initials, but evidence indicates that it is perhaps written to Lady Mary Lygon or Helen Weaver, who was the composer's fianc? before she moved to New Zealand. The fifth is dedicated to Richard Arnold, the son of Matthew Arnold, while the first is dedicated to the composer's wife. For ten points, identify this": {
+    "guess": "Enigma Variations",
+    "confidence": [
+      [
+        "En",
+        -0.040653467
+      ],
+      [
+        "igma",
+        -1.504853e-06
+      ],
+      [
+        " Vari",
+        0.0
+      ],
+      [
+        "ations",
+        0.0
+      ]
+    ]
+  },
+  "While William Baker and August Jaeger are represented in this work, the composer dedicated the last one to himself, writing \"E.D.U.\" next to the name of the piece. The one preceding this lacks initials, but evidence indicates that it is perhaps written to Lady Mary Lygon or Helen Weaver, who was the composer's fianc? before she moved to New Zealand. The fifth is dedicated to Richard Arnold, the son of Matthew Arnold, while the first is dedicated to the composer's wife. For ten points, identify this set of compositions which are modifications to some well known tune, composed by Edward Elgar.": {
+    "guess": "Enigma Variations",
+    "confidence": [
+      [
+        "En",
+        -0.0066074915
+      ],
+      [
+        "igma",
+        -1.6240566e-06
+      ],
+      [
+        " Vari",
+        0.0
+      ],
+      [
+        "ations",
+        0.0
+      ]
+    ]
+  },
+  "William Backhouse continued his family's practice of investing in New York real estate but was so stung": {
+    "guess": "William Backhouse Astor Jr.",
+    "confidence": [
+      [
+        "William",
+        -0.5487959
+      ],
+      [
+        " Back",
+        -0.18857658
+      ],
+      [
+        "house",
+        -3.1281633e-07
+      ],
+      [
+        " Ast",
+        -3.9650025e-05
+      ],
+      [
+        "or",
+        0.0
+      ],
+      [
+        " Jr",
+        -0.08222131
+      ],
+      [
+        ".",
+        -5.4385737e-06
+      ]
+    ]
+  },
+  "William Backhouse continued his family's practice of investing in New York real estate but was so stung but accusations that he was a \"slum lord\" that he attempted to renovate some of the older tenements.": {
+    "guess": "William Backhouse Astor Jr.",
+    "confidence": [
+      [
+        "William",
+        -0.6019026
+      ],
+      [
+        " Back",
+        -0.018353507
+      ],
+      [
+        "house",
+        -1.8624639e-06
+      ],
+      [
+        " Ast",
+        -0.0014881967
+      ],
+      [
+        "or",
+        0.0
+      ],
+      [
+        " Jr",
+        -0.048643462
+      ],
+      [
+        ".",
+        -2.0935051e-05
+      ]
+    ]
+  },
+  "William Backhouse continued his family's practice of investing in New York real estate but was so stung but accusations that he was a \"slum lord\" that he attempted to renovate some of the older tenements.  William Waldorf served for a time as U.S. ambassador to Italy, but later became a British subject": {
+    "guess": "Astor family",
+    "confidence": [
+      [
+        "Ast",
+        -0.09979118
+      ],
+      [
+        "or",
+        -6.704273e-07
+      ],
+      [
+        " family",
+        -0.02349144
+      ]
+    ]
+  },
+  "William Backhouse continued his family's practice of investing in New York real estate but was so stung but accusations that he was a \"slum lord\" that he attempted to renovate some of the older tenements.  William Waldorf served for a time as U.S. ambassador to Italy, but later became a British subject and viscount.  His cousin, who shared his name with the family patriarch, built several notable hotels": {
+    "guess": "Astor family",
+    "confidence": [
+      [
+        "Ast",
+        -0.014791625
+      ],
+      [
+        "or",
+        -1.0280384e-06
+      ],
+      [
+        " family",
+        -0.005766084
+      ]
+    ]
+  },
+  "William Backhouse continued his family's practice of investing in New York real estate but was so stung but accusations that he was a \"slum lord\" that he attempted to renovate some of the older tenements.  William Waldorf served for a time as U.S. ambassador to Italy, but later became a British subject and viscount.  His cousin, who shared his name with the family patriarch, built several notable hotels but is best remembered for his gallantry in perishing with the \"Titanic.\"  His great-grandfather,": {
+    "guess": "Astor family",
+    "confidence": [
+      [
+        "Ast",
+        -0.0017584794
+      ],
+      [
+        "or",
+        0.0
+      ],
+      [
+        " family",
+        -0.049100842
+      ]
+    ]
+  },
+  "William Backhouse continued his family's practice of investing in New York real estate but was so stung but accusations that he was a \"slum lord\" that he attempted to renovate some of the older tenements.  William Waldorf served for a time as U.S. ambassador to Italy, but later became a British subject and viscount.  His cousin, who shared his name with the family patriarch, built several notable hotels but is best remembered for his gallantry in perishing with the \"Titanic.\"  His great-grandfather, John Jacob, established this family dynasty by making a fortune in the fur trade.  FTP, name this": {
+    "guess": "Astor family",
+    "confidence": [
+      [
+        "Ast",
+        -0.00028028555
+      ],
+      [
+        "or",
+        -7.493431e-05
+      ],
+      [
+        " family",
+        -0.03727264
+      ]
+    ]
+  },
+  "William Backhouse continued his family's practice of investing in New York real estate but was so stung but accusations that he was a \"slum lord\" that he attempted to renovate some of the older tenements.  William Waldorf served for a time as U.S. ambassador to Italy, but later became a British subject and viscount.  His cousin, who shared his name with the family patriarch, built several notable hotels but is best remembered for his gallantry in perishing with the \"Titanic.\"  His great-grandfather, John Jacob, established this family dynasty by making a fortune in the fur trade.  FTP, name this notable family.": {
+    "guess": "Astor family",
+    "confidence": [
+      [
+        "Ast",
+        -2.546479e-05
+      ],
+      [
+        "or",
+        -5.5122365e-07
+      ],
+      [
+        " family",
+        -0.28481796
+      ]
+    ]
+  },
+  "William Winder was assigned to protect this city as Robert Ross led forty-five hundred troops up the": {
+    "guess": "Washington, D.C.",
+    "confidence": [
+      [
+        "Washington",
+        -0.0001820874
+      ],
+      [
+        ",",
+        -0.0007104054
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        ".C",
+        0.0
+      ],
+      [
+        ".",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "William Winder was assigned to protect this city as Robert Ross led forty-five hundred troops up the Patuxent river. Mayor James Blake issued an evacuation notice, and the citizens fled. On August 24,": {
+    "guess": "Washington, D.C.",
+    "confidence": [
+      [
+        "Washington",
+        -0.0034484917
+      ],
+      [
+        ",",
+        -0.00043078844
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        ".C",
+        0.0
+      ],
+      [
+        ".",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "William Winder was assigned to protect this city as Robert Ross led forty-five hundred troops up the Patuxent river. Mayor James Blake issued an evacuation notice, and the citizens fled. On August 24, the battle of Bladensburg began, with the British winning easily with a new weapon called the Congreve": {
+    "guess": "Burning of Washington",
+    "confidence": [
+      [
+        "Burn",
+        -0.20771945
+      ],
+      [
+        "ing",
+        0.0
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Washington",
+        0.0
+      ]
+    ]
+  },
+  "William Winder was assigned to protect this city as Robert Ross led forty-five hundred troops up the Patuxent river. Mayor James Blake issued an evacuation notice, and the citizens fled. On August 24, the battle of Bladensburg began, with the British winning easily with a new weapon called the Congreve rocket despite Commodore Joshua Barney's valiant defense. FTP, name the American town George Cockburn": {
+    "guess": "Washington, D.C.",
+    "confidence": [
+      [
+        "Washington",
+        -0.10503276
+      ],
+      [
+        ",",
+        -0.0006270142
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        ".C",
+        0.0
+      ],
+      [
+        ".",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "William Winder was assigned to protect this city as Robert Ross led forty-five hundred troops up the Patuxent river. Mayor James Blake issued an evacuation notice, and the citizens fled. On August 24, the battle of Bladensburg began, with the British winning easily with a new weapon called the Congreve rocket despite Commodore Joshua Barney's valiant defense. FTP, name the American town George Cockburn (CO-burn) occupied and burned in 1814.": {
+    "guess": "Washington, D.C.",
+    "confidence": [
+      [
+        "Washington",
+        -0.0003189002
+      ],
+      [
+        ",",
+        -0.00026133584
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        ".C",
+        0.0
+      ],
+      [
+        ".",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "William Heffelfinger is considered to be the first person to play this sport professionally, while the": {
+    "guess": "American football",
+    "confidence": [
+      [
+        "American",
+        -0.0016851745
+      ],
+      [
+        " football",
+        -0.0040786397
+      ]
+    ]
+  },
+  "William Heffelfinger is considered to be the first person to play this sport professionally, while the first intercollegiate game in this sport is considered to be an 1869 match between Rutgers and Princeton.": {
+    "guess": "American football",
+    "confidence": [
+      [
+        "American",
+        -0.010205772
+      ],
+      [
+        " football",
+        -0.00026133584
+      ]
+    ]
+  },
+  "William Heffelfinger is considered to be the first person to play this sport professionally, while the first intercollegiate game in this sport is considered to be an 1869 match between Rutgers and Princeton. This sport's rules were standardized by Walter Camp, who coached this sport at Yale from 1888": {
+    "guess": "American football",
+    "confidence": [
+      [
+        "American",
+        -0.0016570901
+      ],
+      [
+        " football",
+        -0.00055303273
+      ]
+    ]
+  },
+  "William Heffelfinger is considered to be the first person to play this sport professionally, while the first intercollegiate game in this sport is considered to be an 1869 match between Rutgers and Princeton. This sport's rules were standardized by Walter Camp, who coached this sport at Yale from 1888 to 1892, shortly after Yale's rivalry with Harvard began. In 1874, McGill introduced a set of (*)": {
+    "guess": "American football",
+    "confidence": [
+      [
+        "American",
+        -0.0006190312
+      ],
+      [
+        " football",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "William Heffelfinger is considered to be the first person to play this sport professionally, while the first intercollegiate game in this sport is considered to be an 1869 match between Rutgers and Princeton. This sport's rules were standardized by Walter Camp, who coached this sport at Yale from 1888 to 1892, shortly after Yale's rivalry with Harvard began. In 1874, McGill introduced a set of (*) rugby-like rules to this sport in a game against Harvard. For 10 points, name this American sport whose": {
+    "guess": "American football",
+    "confidence": [
+      [
+        "American",
+        -0.0013391702
+      ],
+      [
+        " football",
+        -3.5477897e-05
+      ]
+    ]
+  },
+  "William Heffelfinger is considered to be the first person to play this sport professionally, while the first intercollegiate game in this sport is considered to be an 1869 match between Rutgers and Princeton. This sport's rules were standardized by Walter Camp, who coached this sport at Yale from 1888 to 1892, shortly after Yale's rivalry with Harvard began. In 1874, McGill introduced a set of (*) rugby-like rules to this sport in a game against Harvard. For 10 points, name this American sport whose early players included John Heisman.": {
+    "guess": "American football",
+    "confidence": [
+      [
+        "American",
+        -0.004645146
+      ],
+      [
+        " football",
+        -0.00015848507
+      ]
+    ]
+  },
+  "William Porcelet was spared during this event due to his reputation, but he used his influence to help": {
+    "guess": "Massacre at B\u00e9ziers",
+    "confidence": [
+      [
+        "Mass",
+        -0.7063622
+      ],
+      [
+        "acre",
+        -9.615256e-05
+      ],
+      [
+        " at",
+        -0.20142221
+      ],
+      [
+        " B\u00e9",
+        -0.00038741663
+      ],
+      [
+        "zi",
+        -5.5122365e-07
+      ],
+      [
+        "ers",
+        0.0
+      ]
+    ]
+  },
+  "William Porcelet was spared during this event due to his reputation, but he used his influence to help many of its targets escape death. One of its leaders was Bartholomaeus [bar-toh-loh-MAY-us] of Neocastro.": {
+    "guess": "Sicilian Vespers",
+    "confidence": [
+      [
+        "S",
+        -0.003298317
+      ],
+      [
+        "ic",
+        -5.5122365e-07
+      ],
+      [
+        "ilian",
+        0.0
+      ],
+      [
+        " V",
+        -1.9361265e-07
+      ],
+      [
+        "esp",
+        -0.00033546583
+      ],
+      [
+        "ers",
+        0.0
+      ]
+    ]
+  },
+  "William Porcelet was spared during this event due to his reputation, but he used his influence to help many of its targets escape death. One of its leaders was Bartholomaeus [bar-toh-loh-MAY-us] of Neocastro. Similar actions had been planned by John of Procida, who acted as an advisor to Constance, the": {
+    "guess": "Sicilian Vespers",
+    "confidence": [
+      [
+        "S",
+        -0.09513523
+      ],
+      [
+        "ic",
+        -1.9361265e-07
+      ],
+      [
+        "ilian",
+        -1.9361265e-07
+      ],
+      [
+        " V",
+        -1.9816675e-06
+      ],
+      [
+        "esp",
+        -7.505351e-05
+      ],
+      [
+        "ers",
+        0.0
+      ]
+    ]
+  },
+  "William Porcelet was spared during this event due to his reputation, but he used his influence to help many of its targets escape death. One of its leaders was Bartholomaeus [bar-toh-loh-MAY-us] of Neocastro. Similar actions had been planned by John of Procida, who acted as an advisor to Constance, the wife of Peter of Aragon who eventually inherited the territory in which it occurred. The belligerents": {
+    "guess": "Sicilian Vespers",
+    "confidence": [
+      [
+        "S",
+        -0.007069128
+      ],
+      [
+        "ic",
+        -1.9361265e-07
+      ],
+      [
+        "ilian",
+        0.0
+      ],
+      [
+        " V",
+        0.0
+      ],
+      [
+        "esp",
+        -9.253091e-06
+      ],
+      [
+        "ers",
+        0.0
+      ]
+    ]
+  },
+  "William Porcelet was spared during this event due to his reputation, but he used his influence to help many of its targets escape death. One of its leaders was Bartholomaeus [bar-toh-loh-MAY-us] of Neocastro. Similar actions had been planned by John of Procida, who acted as an advisor to Constance, the wife of Peter of Aragon who eventually inherited the territory in which it occurred. The belligerents were unhappy with the rule of Charles of Anjou, an Angevin monarch, and they rose up on Easter": {
+    "guess": "Sicilian Vespers",
+    "confidence": [
+      [
+        "S",
+        -0.008690099
+      ],
+      [
+        "ic",
+        -1.9361265e-07
+      ],
+      [
+        "ilian",
+        -9.0883464e-07
+      ],
+      [
+        " V",
+        -3.1281633e-07
+      ],
+      [
+        "esp",
+        -8.506662e-05
+      ],
+      [
+        "ers",
+        0.0
+      ]
+    ]
+  },
+  "William Porcelet was spared during this event due to his reputation, but he used his influence to help many of its targets escape death. One of its leaders was Bartholomaeus [bar-toh-loh-MAY-us] of Neocastro. Similar actions had been planned by John of Procida, who acted as an advisor to Constance, the wife of Peter of Aragon who eventually inherited the territory in which it occurred. The belligerents were unhappy with the rule of Charles of Anjou, an Angevin monarch, and they rose up on Easter Monday following a scuffle with a French officer. For 10 points, name this 1282 rebellion on a Mediterranean": {
+    "guess": "Sicilian Vespers",
+    "confidence": [
+      [
+        "S",
+        -0.031500652
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "ilian",
+        -4.5491004e-05
+      ],
+      [
+        " V",
+        -3.1281633e-07
+      ],
+      [
+        "esp",
+        -1.0206721e-05
+      ],
+      [
+        "ers",
+        0.0
+      ]
+    ]
+  },
+  "William Porcelet was spared during this event due to his reputation, but he used his influence to help many of its targets escape death. One of its leaders was Bartholomaeus [bar-toh-loh-MAY-us] of Neocastro. Similar actions had been planned by John of Procida, who acted as an advisor to Constance, the wife of Peter of Aragon who eventually inherited the territory in which it occurred. The belligerents were unhappy with the rule of Charles of Anjou, an Angevin monarch, and they rose up on Easter Monday following a scuffle with a French officer. For 10 points, name this 1282 rebellion on a Mediterranean island.": {
+    "guess": "Sicilian Vespers",
+    "confidence": [
+      [
+        "S",
+        -0.026933976
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "ilian",
+        -9.0883464e-07
+      ],
+      [
+        " V",
+        -6.704273e-07
+      ],
+      [
+        "esp",
+        -7.9418505e-06
+      ],
+      [
+        "ers",
+        0.0
+      ]
+    ]
+  },
+  "Wilfrid Sellars cites this philosopher as his most important influence and titled a book after this man's": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9163113
+      ]
+    ]
+  },
+  "Wilfrid Sellars cites this philosopher as his most important influence and titled a book after this man's \"Variations.\" In one essay, he asserted that representative republics provided the path to international": {
+    "guess": "Immanuel Kant",
+    "confidence": [
+      [
+        "Im",
+        -0.14266315
+      ],
+      [
+        "manuel",
+        0.0
+      ],
+      [
+        " Kant",
+        0.0
+      ]
+    ]
+  },
+  "Wilfrid Sellars cites this philosopher as his most important influence and titled a book after this man's \"Variations.\" In one essay, he asserted that representative republics provided the path to international pacifism, while in another essay, which praised Frederick II as an ideal ruler, he defined": {
+    "guess": "Immanuel Kant",
+    "confidence": [
+      [
+        "Im",
+        -0.23003392
+      ],
+      [
+        "manuel",
+        -1.9361265e-07
+      ],
+      [
+        " Kant",
+        0.0
+      ]
+    ]
+  },
+  "Wilfrid Sellars cites this philosopher as his most important influence and titled a book after this man's \"Variations.\" In one essay, he asserted that representative republics provided the path to international pacifism, while in another essay, which praised Frederick II as an ideal ruler, he defined the title concept as \"Man's emergence from his self-incurred immaturity,\" This author of \"Perpetual": {
+    "guess": "Immanuel Kant",
+    "confidence": [
+      [
+        "Im",
+        -0.033999387
+      ],
+      [
+        "manuel",
+        0.0
+      ],
+      [
+        " Kant",
+        0.0
+      ]
+    ]
+  },
+  "Wilfrid Sellars cites this philosopher as his most important influence and titled a book after this man's \"Variations.\" In one essay, he asserted that representative republics provided the path to international pacifism, while in another essay, which praised Frederick II as an ideal ruler, he defined the title concept as \"Man's emergence from his self-incurred immaturity,\" This author of \"Perpetual Peace\" and \"What is Enlightenment?\" described a concept which requires people to formulate rules that": {
+    "guess": "Categorical imperative",
+    "confidence": [
+      [
+        "Categor",
+        -0.5413496
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " imperative",
+        -0.011061147
+      ]
+    ]
+  },
+  "Wilfrid Sellars cites this philosopher as his most important influence and titled a book after this man's \"Variations.\" In one essay, he asserted that representative republics provided the path to international pacifism, while in another essay, which praised Frederick II as an ideal ruler, he defined the title concept as \"Man's emergence from his self-incurred immaturity,\" This author of \"Perpetual Peace\" and \"What is Enlightenment?\" described a concept which requires people to formulate rules that should be followed in all circumstances.  That concept, which was found in his Groundwork for the": {
+    "guess": "Categorical imperative",
+    "confidence": [
+      [
+        "Categor",
+        -0.08971523
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " imperative",
+        -0.47409698
+      ]
+    ]
+  },
+  "Wilfrid Sellars cites this philosopher as his most important influence and titled a book after this man's \"Variations.\" In one essay, he asserted that representative republics provided the path to international pacifism, while in another essay, which praised Frederick II as an ideal ruler, he defined the title concept as \"Man's emergence from his self-incurred immaturity,\" This author of \"Perpetual Peace\" and \"What is Enlightenment?\" described a concept which requires people to formulate rules that should be followed in all circumstances.  That concept, which was found in his Groundwork for the Metaphysics of Morals, is the \"categorical imperative.\" For 10 points, name the philosopher who wrote": {
+    "guess": "Immanuel Kant",
+    "confidence": [
+      [
+        "Im",
+        -0.010466755
+      ],
+      [
+        "manuel",
+        0.0
+      ],
+      [
+        " Kant",
+        0.0
+      ]
+    ]
+  },
+  "Wilfrid Sellars cites this philosopher as his most important influence and titled a book after this man's \"Variations.\" In one essay, he asserted that representative republics provided the path to international pacifism, while in another essay, which praised Frederick II as an ideal ruler, he defined the title concept as \"Man's emergence from his self-incurred immaturity,\" This author of \"Perpetual Peace\" and \"What is Enlightenment?\" described a concept which requires people to formulate rules that should be followed in all circumstances.  That concept, which was found in his Groundwork for the Metaphysics of Morals, is the \"categorical imperative.\" For 10 points, name the philosopher who wrote Critiques of Practical and Pure Reason.": {
+    "guess": "Immanuel Kant",
+    "confidence": [
+      [
+        "Im",
+        -7.338466e-05
+      ],
+      [
+        "manuel",
+        0.0
+      ],
+      [
+        " Kant",
+        0.0
+      ]
+    ]
+  },
+  "William Duer was conceived as a contributor to these works, and Samuel Bryan wrote letters in opposition": {
+    "guess": "Federalist Papers",
+    "confidence": [
+      [
+        "Federal",
+        -0.2916966
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        " Papers",
+        -1.867018e-05
+      ]
+    ]
+  },
+  "William Duer was conceived as a contributor to these works, and Samuel Bryan wrote letters in opposition to them. The tenth of these works describes how the union serves as a \"safeguard against domestic": {
+    "guess": "The Federalist Papers",
+    "confidence": [
+      [
+        "The",
+        -0.10195399
+      ],
+      [
+        " Federal",
+        -3.1424974e-05
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        " Papers",
+        0.0
+      ]
+    ]
+  },
+  "William Duer was conceived as a contributor to these works, and Samuel Bryan wrote letters in opposition to them. The tenth of these works describes how the union serves as a \"safeguard against domestic faction,\" and the fifty-first states government is \"the greatest of all reflections on human nature,\"": {
+    "guess": "The Federalist Papers",
+    "confidence": [
+      [
+        "The",
+        -0.0031915011
+      ],
+      [
+        " Federal",
+        -2.6968896e-06
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        " Papers",
+        0.0
+      ]
+    ]
+  },
+  "William Duer was conceived as a contributor to these works, and Samuel Bryan wrote letters in opposition to them. The tenth of these works describes how the union serves as a \"safeguard against domestic faction,\" and the fifty-first states government is \"the greatest of all reflections on human nature,\" and advocates for checks and balances. Written under the pseudonym Publius, they number 85 in total,": {
+    "guess": "The Federalist Papers",
+    "confidence": [
+      [
+        "The",
+        -0.07895919
+      ],
+      [
+        " Federal",
+        -1.9027791e-05
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        " Papers",
+        0.0
+      ]
+    ]
+  },
+  "William Duer was conceived as a contributor to these works, and Samuel Bryan wrote letters in opposition to them. The tenth of these works describes how the union serves as a \"safeguard against domestic faction,\" and the fifty-first states government is \"the greatest of all reflections on human nature,\" and advocates for checks and balances. Written under the pseudonym Publius, they number 85 in total, and were first published in 1787. For 10 points, name these articles by Jay, Madison, and Hamilton": {
+    "guess": "The Federalist Papers",
+    "confidence": [
+      [
+        "The",
+        -0.000101039914
+      ],
+      [
+        " Federal",
+        -2.9352968e-06
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        " Papers",
+        0.0
+      ]
+    ]
+  },
+  "William Duer was conceived as a contributor to these works, and Samuel Bryan wrote letters in opposition to them. The tenth of these works describes how the union serves as a \"safeguard against domestic faction,\" and the fifty-first states government is \"the greatest of all reflections on human nature,\" and advocates for checks and balances. Written under the pseudonym Publius, they number 85 in total, and were first published in 1787. For 10 points, name these articles by Jay, Madison, and Hamilton that advocate for the ratification of the Constitution.": {
+    "guess": "The Federalist Papers",
+    "confidence": [
+      [
+        "The",
+        -2.5583993e-05
+      ],
+      [
+        " Federal",
+        -1.147242e-06
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        " Papers",
+        0.0
+      ]
+    ]
+  },
+  "William Hulton sent the orders to George L'Estrange that eventually led to this, and his choice of his": {
+    "guess": "Peterloo Massacre",
+    "confidence": [
+      [
+        "Peter",
+        -0.0036390342
+      ],
+      [
+        "loo",
+        0.0
+      ],
+      [
+        " Mass",
+        -2.4987974e-05
+      ],
+      [
+        "acre",
+        0.0
+      ]
+    ]
+  },
+  "William Hulton sent the orders to George L'Estrange that eventually led to this, and his choice of his second-in-command to carry this out may have made matters worse. John Knight was arrested for his": {
+    "guess": "Peterloo Massacre",
+    "confidence": [
+      [
+        "Peter",
+        -0.0068575735
+      ],
+      [
+        "loo",
+        0.0
+      ],
+      [
+        " Mass",
+        -6.754368e-05
+      ],
+      [
+        "acre",
+        0.0
+      ]
+    ]
+  },
+  "William Hulton sent the orders to George L'Estrange that eventually led to this, and his choice of his second-in-command to carry this out may have made matters worse. John Knight was arrested for his presence here, even though he did not actually fulfill his purpose for attending before he was arrested": {
+    "guess": "Peterloo Massacre",
+    "confidence": [
+      [
+        "Peter",
+        -0.0021347946
+      ],
+      [
+        "loo",
+        0.0
+      ],
+      [
+        " Mass",
+        -2.2961513e-05
+      ],
+      [
+        "acre",
+        0.0
+      ]
+    ]
+  },
+  "William Hulton sent the orders to George L'Estrange that eventually led to this, and his choice of his second-in-command to carry this out may have made matters worse. John Knight was arrested for his presence here, even though he did not actually fulfill his purpose for attending before he was arrested by troops led by Hugh Birley, who might have been drunk. This incident also led to the founding": {
+    "guess": "Peterloo Massacre",
+    "confidence": [
+      [
+        "Peter",
+        -0.0016025791
+      ],
+      [
+        "loo",
+        0.0
+      ],
+      [
+        " Mass",
+        -7.226629e-06
+      ],
+      [
+        "acre",
+        0.0
+      ]
+    ]
+  },
+  "William Hulton sent the orders to George L'Estrange that eventually led to this, and his choice of his second-in-command to carry this out may have made matters worse. John Knight was arrested for his presence here, even though he did not actually fulfill his purpose for attending before he was arrested by troops led by Hugh Birley, who might have been drunk. This incident also led to the founding of what is now The Guardian newspaper, as well as inspired a poem that imputes Castlereagh with Murder": {
+    "guess": "Peterloo Massacre",
+    "confidence": [
+      [
+        "Peter",
+        -0.0010908046
+      ],
+      [
+        "loo",
+        0.0
+      ],
+      [
+        " Mass",
+        -4.036525e-05
+      ],
+      [
+        "acre",
+        0.0
+      ]
+    ]
+  },
+  "William Hulton sent the orders to George L'Estrange that eventually led to this, and his choice of his second-in-command to carry this out may have made matters worse. John Knight was arrested for his presence here, even though he did not actually fulfill his purpose for attending before he was arrested by troops led by Hugh Birley, who might have been drunk. This incident also led to the founding of what is now The Guardian newspaper, as well as inspired a poem that imputes Castlereagh with Murder and Lord Eldon with Fraud, Percy Shelley's The Masque of Anarchy. What was this event in which fifteen": {
+    "guess": "Peterloo Massacre",
+    "confidence": [
+      [
+        "Peter",
+        -5.080963e-06
+      ],
+      [
+        "loo",
+        0.0
+      ],
+      [
+        " Mass",
+        -2.4584822e-06
+      ],
+      [
+        "acre",
+        0.0
+      ]
+    ]
+  },
+  "William Hulton sent the orders to George L'Estrange that eventually led to this, and his choice of his second-in-command to carry this out may have made matters worse. John Knight was arrested for his presence here, even though he did not actually fulfill his purpose for attending before he was arrested by troops led by Hugh Birley, who might have been drunk. This incident also led to the founding of what is now The Guardian newspaper, as well as inspired a poem that imputes Castlereagh with Murder and Lord Eldon with Fraud, Percy Shelley's The Masque of Anarchy. What was this event in which fifteen people were killed after cavalry charged into a rally led, for 10 points, by Henry Hunt for parliamentary": {
+    "guess": "Peterloo Massacre",
+    "confidence": [
+      [
+        "Peter",
+        -1.9816675e-06
+      ],
+      [
+        "loo",
+        0.0
+      ],
+      [
+        " Mass",
+        -1.7432603e-06
+      ],
+      [
+        "acre",
+        0.0
+      ]
+    ]
+  },
+  "William Hulton sent the orders to George L'Estrange that eventually led to this, and his choice of his second-in-command to carry this out may have made matters worse. John Knight was arrested for his presence here, even though he did not actually fulfill his purpose for attending before he was arrested by troops led by Hugh Birley, who might have been drunk. This incident also led to the founding of what is now The Guardian newspaper, as well as inspired a poem that imputes Castlereagh with Murder and Lord Eldon with Fraud, Percy Shelley's The Masque of Anarchy. What was this event in which fifteen people were killed after cavalry charged into a rally led, for 10 points, by Henry Hunt for parliamentary reform, held in Manchester in 1819?": {
+    "guess": "Peterloo Massacre",
+    "confidence": [
+      [
+        "Peter",
+        -1.700133e-05
+      ],
+      [
+        "loo",
+        0.0
+      ],
+      [
+        " Mass",
+        0.0
+      ],
+      [
+        "acre",
+        0.0
+      ]
+    ]
+  },
+  "William Lane Craig is the foremost living proponent of a doctrine that modifies this one, support for": {
+    "guess": "Atonement",
+    "confidence": [
+      [
+        "A",
+        -0.95266205
+      ],
+      [
+        "ton",
+        -0.051012147
+      ],
+      [
+        "ement",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "William Lane Craig is the foremost living proponent of a doctrine that modifies this one, support for which involves Matthew 11:23, which situates Capernaum as a citizen in Sodom. The view of infralapsarianism": {
+    "guess": "Molinism",
+    "confidence": [
+      [
+        "Mol",
+        -0.7982695
+      ],
+      [
+        "in",
+        -0.207166
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "William Lane Craig is the foremost living proponent of a doctrine that modifies this one, support for which involves Matthew 11:23, which situates Capernaum as a citizen in Sodom. The view of infralapsarianism holds that this doctrine is logically compatible with Original Sin. This doctrine is the central": {
+    "guess": "Molinism",
+    "confidence": [
+      [
+        "M",
+        -0.14889248
+      ],
+      [
+        "olin",
+        -1.0280384e-06
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "William Lane Craig is the foremost living proponent of a doctrine that modifies this one, support for which involves Matthew 11:23, which situates Capernaum as a citizen in Sodom. The view of infralapsarianism holds that this doctrine is logically compatible with Original Sin. This doctrine is the central concern of Molinism, a philosophy adopted by Arminius, who imagined the \"conditional\" form of": {
+    "guess": "Predestination",
+    "confidence": [
+      [
+        "Pred",
+        -0.02784646
+      ],
+      [
+        "estination",
+        0.0
+      ]
+    ]
+  },
+  "William Lane Craig is the foremost living proponent of a doctrine that modifies this one, support for which involves Matthew 11:23, which situates Capernaum as a citizen in Sodom. The view of infralapsarianism holds that this doctrine is logically compatible with Original Sin. This doctrine is the central concern of Molinism, a philosophy adopted by Arminius, who imagined the \"conditional\" form of this doctrine as opposed to the \"double\" form. A confrontation between Augustine and (*) Pelagius over": {
+    "guess": "Predestination",
+    "confidence": [
+      [
+        "Pred",
+        -0.015787167
+      ],
+      [
+        "estination",
+        0.0
+      ]
+    ]
+  },
+  "William Lane Craig is the foremost living proponent of a doctrine that modifies this one, support for which involves Matthew 11:23, which situates Capernaum as a citizen in Sodom. The view of infralapsarianism holds that this doctrine is logically compatible with Original Sin. This doctrine is the central concern of Molinism, a philosophy adopted by Arminius, who imagined the \"conditional\" form of this doctrine as opposed to the \"double\" form. A confrontation between Augustine and (*) Pelagius over this issue presaged by a millennium the debate about what accepting this doctrine means for free": {
+    "guess": "Predestination",
+    "confidence": [
+      [
+        "Pred",
+        -0.033649385
+      ],
+      [
+        "estination",
+        0.0
+      ]
+    ]
+  },
+  "William Lane Craig is the foremost living proponent of a doctrine that modifies this one, support for which involves Matthew 11:23, which situates Capernaum as a citizen in Sodom. The view of infralapsarianism holds that this doctrine is logically compatible with Original Sin. This doctrine is the central concern of Molinism, a philosophy adopted by Arminius, who imagined the \"conditional\" form of this doctrine as opposed to the \"double\" form. A confrontation between Augustine and (*) Pelagius over this issue presaged by a millennium the debate about what accepting this doctrine means for free will. Max Weber posited that belief in this doctrine increased productivity even among the non-elect.": {
+    "guess": "Predestination",
+    "confidence": [
+      [
+        "Pred",
+        -0.0015258101
+      ],
+      [
+        "estination",
+        0.0
+      ]
+    ]
+  },
+  "William Lane Craig is the foremost living proponent of a doctrine that modifies this one, support for which involves Matthew 11:23, which situates Capernaum as a citizen in Sodom. The view of infralapsarianism holds that this doctrine is logically compatible with Original Sin. This doctrine is the central concern of Molinism, a philosophy adopted by Arminius, who imagined the \"conditional\" form of this doctrine as opposed to the \"double\" form. A confrontation between Augustine and (*) Pelagius over this issue presaged by a millennium the debate about what accepting this doctrine means for free will. Max Weber posited that belief in this doctrine increased productivity even among the non-elect. For 10 points, identify this Calvinist doctrine which asserts that God has already determined who": {
+    "guess": "Predestination",
+    "confidence": [
+      [
+        "Pred",
+        -0.1394816
+      ],
+      [
+        "estination",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "William Lane Craig is the foremost living proponent of a doctrine that modifies this one, support for which involves Matthew 11:23, which situates Capernaum as a citizen in Sodom. The view of infralapsarianism holds that this doctrine is logically compatible with Original Sin. This doctrine is the central concern of Molinism, a philosophy adopted by Arminius, who imagined the \"conditional\" form of this doctrine as opposed to the \"double\" form. A confrontation between Augustine and (*) Pelagius over this issue presaged by a millennium the debate about what accepting this doctrine means for free will. Max Weber posited that belief in this doctrine increased productivity even among the non-elect. For 10 points, identify this Calvinist doctrine which asserts that God has already determined who will go to Heaven.": {
+    "guess": "Predestination",
+    "confidence": [
+      [
+        "Pred",
+        -0.011735296
+      ],
+      [
+        "estination",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "William Henry Harrison appointed Lancaster, Ohio native Thomas Ewing Jr. to this position, which was": {
+    "guess": "United States Secretary of the Treasury",
+    "confidence": [
+      [
+        "United",
+        -0.20368758
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " Secretary",
+        -6.704273e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -2.220075e-06
+      ],
+      [
+        " Treasury",
+        0.0
+      ]
+    ]
+  },
+  "William Henry Harrison appointed Lancaster, Ohio native Thomas Ewing Jr. to this position, which was held by Roger B. Taney prior to becoming Supreme Court Chief Justice. The most famous man to hold this": {
+    "guess": "Alexander Hamilton",
+    "confidence": [
+      [
+        "Alexander",
+        -0.30540794
+      ],
+      [
+        " Hamilton",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "William Henry Harrison appointed Lancaster, Ohio native Thomas Ewing Jr. to this position, which was held by Roger B. Taney prior to becoming Supreme Court Chief Justice. The most famous man to hold this position was succeeded by Oliver Wolcott Jr., and it has been held by men such as Albert Gallatin,": {
+    "guess": "United States Secretary of the Treasury",
+    "confidence": [
+      [
+        "United",
+        -0.023518456
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " Secretary",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -3.1281633e-07
+      ],
+      [
+        " Treasury",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "William Henry Harrison appointed Lancaster, Ohio native Thomas Ewing Jr. to this position, which was held by Roger B. Taney prior to becoming Supreme Court Chief Justice. The most famous man to hold this position was succeeded by Oliver Wolcott Jr., and it has been held by men such as Albert Gallatin, Levi Woodbury, and Andrew Mellon. The first man to hold it wrote the majority of the Federalist Papers": {
+    "guess": "United States Secretary of the Treasury",
+    "confidence": [
+      [
+        "United",
+        -0.18578249
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " Secretary",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -4.3202e-07
+      ],
+      [
+        " Treasury",
+        0.0
+      ]
+    ]
+  },
+  "William Henry Harrison appointed Lancaster, Ohio native Thomas Ewing Jr. to this position, which was held by Roger B. Taney prior to becoming Supreme Court Chief Justice. The most famous man to hold this position was succeeded by Oliver Wolcott Jr., and it has been held by men such as Albert Gallatin, Levi Woodbury, and Andrew Mellon. The first man to hold it wrote the majority of the Federalist Papers and died following a duel with Aaron Burr. For 10 points, identify this Cabinet position first": {
+    "guess": "United States Secretary of the Treasury",
+    "confidence": [
+      [
+        "United",
+        -0.027184365
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " Secretary",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -5.5122365e-07
+      ],
+      [
+        " Treasury",
+        0.0
+      ]
+    ]
+  },
+  "William Henry Harrison appointed Lancaster, Ohio native Thomas Ewing Jr. to this position, which was held by Roger B. Taney prior to becoming Supreme Court Chief Justice. The most famous man to hold this position was succeeded by Oliver Wolcott Jr., and it has been held by men such as Albert Gallatin, Levi Woodbury, and Andrew Mellon. The first man to hold it wrote the majority of the Federalist Papers and died following a duel with Aaron Burr. For 10 points, identify this Cabinet position first held by Alexander Hamilton.": {
+    "guess": "United States Secretary of the Treasury",
+    "confidence": [
+      [
+        "United",
+        -0.038382497
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " Secretary",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Treasury",
+        0.0
+      ]
+    ]
+  },
+  "With Willie Totten, he was part of a college tandem nicknamed \"The Satellite Express\" at Mississippi": {
+    "guess": "Jerry Rice",
+    "confidence": [
+      [
+        "Jerry",
+        -0.000793782
+      ],
+      [
+        " Rice",
+        0.0
+      ]
+    ]
+  },
+  "With Willie Totten, he was part of a college tandem nicknamed \"The Satellite Express\" at Mississippi Valley State. Traded in the middle of the 2004-05 season from Oakland to Seattle, this man appeared": {
+    "guess": "Jerry Rice",
+    "confidence": [
+      [
+        "Jerry",
+        -0.0027846696
+      ],
+      [
+        " Rice",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "With Willie Totten, he was part of a college tandem nicknamed \"The Satellite Express\" at Mississippi Valley State. Traded in the middle of the 2004-05 season from Oakland to Seattle, this man appeared on Dancing with the Stars, losing to Drew Lachey. He was the MVP of the 1996 Pro Bowl, for which he": {
+    "guess": "Jerry Rice",
+    "confidence": [
+      [
+        "Jerry",
+        -0.00029625517
+      ],
+      [
+        " Rice",
+        0.0
+      ]
+    ]
+  },
+  "With Willie Totten, he was part of a college tandem nicknamed \"The Satellite Express\" at Mississippi Valley State. Traded in the middle of the 2004-05 season from Oakland to Seattle, this man appeared on Dancing with the Stars, losing to Drew Lachey. He was the MVP of the 1996 Pro Bowl, for which he was selected for thirteen times. Also the MVP of Super Bowl XXIII, he played alongside Roger Craig and": {
+    "guess": "Jerry Rice",
+    "confidence": [
+      [
+        "Jerry",
+        -2.6968896e-06
+      ],
+      [
+        " Rice",
+        0.0
+      ]
+    ]
+  },
+  "With Willie Totten, he was part of a college tandem nicknamed \"The Satellite Express\" at Mississippi Valley State. Traded in the middle of the 2004-05 season from Oakland to Seattle, this man appeared on Dancing with the Stars, losing to Drew Lachey. He was the MVP of the 1996 Pro Bowl, for which he was selected for thirteen times. Also the MVP of Super Bowl XXIII, he played alongside Roger Craig and John Taylor for many years. While playing for the team he was most associated with, he caught passes": {
+    "guess": "Jerry Rice",
+    "confidence": [
+      [
+        "Jerry",
+        -1.504853e-06
+      ],
+      [
+        " Rice",
+        0.0
+      ]
+    ]
+  },
+  "With Willie Totten, he was part of a college tandem nicknamed \"The Satellite Express\" at Mississippi Valley State. Traded in the middle of the 2004-05 season from Oakland to Seattle, this man appeared on Dancing with the Stars, losing to Drew Lachey. He was the MVP of the 1996 Pro Bowl, for which he was selected for thirteen times. Also the MVP of Super Bowl XXIII, he played alongside Roger Craig and John Taylor for many years. While playing for the team he was most associated with, he caught passes from Jeff Garcia, Steve Young, and Joe Montana. For 10 points, name this legendary 49ers receiver.": {
+    "guess": "Jerry Rice",
+    "confidence": [
+      [
+        "Jerry",
+        -1.9361265e-07
+      ],
+      [
+        " Rice",
+        0.0
+      ]
+    ]
+  },
+  "William Adams, known as the \"pilot of Miura\", served as advisor to this man, who first saw battle against": {
+    "guess": "Tokugawa Ieyasu",
+    "confidence": [
+      [
+        "Tok",
+        -0.0014616657
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "awa",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ],
+      [
+        "ey",
+        0.0
+      ],
+      [
+        "asu",
+        0.0
+      ]
+    ]
+  },
+  "William Adams, known as the \"pilot of Miura\", served as advisor to this man, who first saw battle against Suzuki Shigeteru. Captured en route to Sumpu, this man was held hostage in the Manshoji Temple": {
+    "guess": "Tokugawa Ieyasu",
+    "confidence": [
+      [
+        "Tok",
+        -0.00723921
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "awa",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ],
+      [
+        "ey",
+        0.0
+      ],
+      [
+        "asu",
+        0.0
+      ]
+    ]
+  },
+  "William Adams, known as the \"pilot of Miura\", served as advisor to this man, who first saw battle against Suzuki Shigeteru. Captured en route to Sumpu, this man was held hostage in the Manshoji Temple for three years after which he was traded to Imagawa Sessai. He was victorious at the battles of Komaki": {
+    "guess": "Tokugawa Ieyasu",
+    "confidence": [
+      [
+        "Tok",
+        -0.08759024
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "awa",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ],
+      [
+        "ey",
+        0.0
+      ],
+      [
+        "asu",
+        0.0
+      ]
+    ]
+  },
+  "William Adams, known as the \"pilot of Miura\", served as advisor to this man, who first saw battle against Suzuki Shigeteru. Captured en route to Sumpu, this man was held hostage in the Manshoji Temple for three years after which he was traded to Imagawa Sessai. He was victorious at the battles of Komaki and Nagakute, as well as at Temmokuzan, Anegawa, and Nagashino with his mentor Oda Nobunaga. For": {
+    "guess": "Tokugawa Ieyasu",
+    "confidence": [
+      [
+        "Tok",
+        -0.010325654
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "awa",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ],
+      [
+        "ey",
+        0.0
+      ],
+      [
+        "asu",
+        0.0
+      ]
+    ]
+  },
+  "William Adams, known as the \"pilot of Miura\", served as advisor to this man, who first saw battle against Suzuki Shigeteru. Captured en route to Sumpu, this man was held hostage in the Manshoji Temple for three years after which he was traded to Imagawa Sessai. He was victorious at the battles of Komaki and Nagakute, as well as at Temmokuzan, Anegawa, and Nagashino with his mentor Oda Nobunaga. For 10 points, name this victor of the Battle of Sekigahara over supporters of Hideyoshi, the unifier of": {
+    "guess": "Tokugawa Ieyasu",
+    "confidence": [
+      [
+        "Tok",
+        -0.009903527
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "awa",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ],
+      [
+        "ey",
+        0.0
+      ],
+      [
+        "asu",
+        0.0
+      ]
+    ]
+  },
+  "William Adams, known as the \"pilot of Miura\", served as advisor to this man, who first saw battle against Suzuki Shigeteru. Captured en route to Sumpu, this man was held hostage in the Manshoji Temple for three years after which he was traded to Imagawa Sessai. He was victorious at the battles of Komaki and Nagakute, as well as at Temmokuzan, Anegawa, and Nagashino with his mentor Oda Nobunaga. For 10 points, name this victor of the Battle of Sekigahara over supporters of Hideyoshi, the unifier of Japan and namesake of a Shogunate.": {
+    "guess": "Tokugawa Ieyasu",
+    "confidence": [
+      [
+        "Tok",
+        -0.00012380048
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "awa",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ],
+      [
+        "ey",
+        0.0
+      ],
+      [
+        "asu",
+        0.0
+      ]
+    ]
+  },
+  "William Holman Hunt used Elizabeth Siddal to model this person's hair for the painting The Light of the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5414012
+      ]
+    ]
+  },
+  "William Holman Hunt used Elizabeth Siddal to model this person's hair for the painting The Light of the World. Bellini painted three men asleep behind this person in Agony in the Garden. Three women kneel": {
+    "guess": "Jesus Christ",
+    "confidence": [
+      [
+        "Jesus",
+        -0.122418195
+      ],
+      [
+        " Christ",
+        -0.57960165
+      ]
+    ]
+  },
+  "William Holman Hunt used Elizabeth Siddal to model this person's hair for the painting The Light of the World. Bellini painted three men asleep behind this person in Agony in the Garden. Three women kneel around the central figure in a Yellow version of this person painted by Paul Gaugain. Rogier van": {
+    "guess": "Jesus Christ",
+    "confidence": [
+      [
+        "Jesus",
+        -0.57048845
+      ],
+      [
+        " Christ",
+        -0.14100513
+      ]
+    ]
+  },
+  "William Holman Hunt used Elizabeth Siddal to model this person's hair for the painting The Light of the World. Bellini painted three men asleep behind this person in Agony in the Garden. Three women kneel around the central figure in a Yellow version of this person painted by Paul Gaugain. Rogier van der Weyden painted this man's Deposition, and he appears in the center of da Vinci's The Last Supper.": {
+    "guess": "Jesus",
+    "confidence": [
+      [
+        "Jesus",
+        -0.012545088
+      ]
+    ]
+  },
+  "William Holman Hunt used Elizabeth Siddal to model this person's hair for the painting The Light of the World. Bellini painted three men asleep behind this person in Agony in the Garden. Three women kneel around the central figure in a Yellow version of this person painted by Paul Gaugain. Rogier van der Weyden painted this man's Deposition, and he appears in the center of da Vinci's The Last Supper. For 10 points, name this religious figure, who appears in two Rubens paintings of his \"elevation": {
+    "guess": "Jesus Christ",
+    "confidence": [
+      [
+        "Jesus",
+        -0.10906502
+      ],
+      [
+        " Christ",
+        -0.038170822
+      ]
+    ]
+  },
+  "William Holman Hunt used Elizabeth Siddal to model this person's hair for the painting The Light of the World. Bellini painted three men asleep behind this person in Agony in the Garden. Three women kneel around the central figure in a Yellow version of this person painted by Paul Gaugain. Rogier van der Weyden painted this man's Deposition, and he appears in the center of da Vinci's The Last Supper. For 10 points, name this religious figure, who appears in two Rubens paintings of his \"elevation to\" and \"descent from\" the cross.": {
+    "guess": "Jesus Christ",
+    "confidence": [
+      [
+        "Jesus",
+        -0.016316343
+      ],
+      [
+        " Christ",
+        -0.03856133
+      ]
+    ]
+  },
+  "William Prynne's Histriomastix claimed that a performance of this play literally drove some audience": {
+    "guess": "The answer is: The Duchess of Malfi",
+    "confidence": [
+      [
+        "The",
+        -0.66466457
+      ],
+      [
+        " answer",
+        -1.5004879
+      ],
+      [
+        " is",
+        -0.0017300409
+      ],
+      [
+        ":",
+        -0.00171159
+      ],
+      [
+        " The",
+        -0.15921128
+      ],
+      [
+        " Duchess",
+        -1.5715746
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Mal",
+        -9.0883464e-07
+      ],
+      [
+        "fi",
+        0.0
+      ]
+    ]
+  },
+  "William Prynne's Histriomastix claimed that a performance of this play literally drove some audience members insane. In one scene, its protagonist steals the Pope's dishes and throws fireworks at some": {
+    "guess": "Doctor Faustus (play)",
+    "confidence": [
+      [
+        "Doctor",
+        -0.03038231
+      ],
+      [
+        " Fa",
+        0.0
+      ],
+      [
+        "ustus",
+        0.0
+      ],
+      [
+        " (",
+        -0.00012868783
+      ],
+      [
+        "play",
+        -1.9361265e-07
+      ],
+      [
+        ")",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "William Prynne's Histriomastix claimed that a performance of this play literally drove some audience members insane. In one scene, its protagonist steals the Pope's dishes and throws fireworks at some friars, while in another scene, the words \"Homo, fuge!\" appear on the protagonist's arm. This play's": {
+    "guess": "Doctor Faustus (play)",
+    "confidence": [
+      [
+        "Doctor",
+        -0.003839856
+      ],
+      [
+        " Fa",
+        0.0
+      ],
+      [
+        "ustus",
+        0.0
+      ],
+      [
+        " (",
+        -4.3202e-07
+      ],
+      [
+        "play",
+        0.0
+      ],
+      [
+        ")",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "William Prynne's Histriomastix claimed that a performance of this play literally drove some audience members insane. In one scene, its protagonist steals the Pope's dishes and throws fireworks at some friars, while in another scene, the words \"Homo, fuge!\" appear on the protagonist's arm. This play's main character dismisses the doctrine of divinity as \"que sera, sera\", before ordering his servant": {
+    "guess": "Doctor Faustus",
+    "confidence": [
+      [
+        "Doctor",
+        -0.0008481022
+      ],
+      [
+        " Fa",
+        -1.9361265e-07
+      ],
+      [
+        "ustus",
+        0.0
+      ]
+    ]
+  },
+  "William Prynne's Histriomastix claimed that a performance of this play literally drove some audience members insane. In one scene, its protagonist steals the Pope's dishes and throws fireworks at some friars, while in another scene, the words \"Homo, fuge!\" appear on the protagonist's arm. This play's main character dismisses the doctrine of divinity as \"que sera, sera\", before ordering his servant (*) Wagner to bring him the magicians Valdes and Cornelius, who encourage his study of necromancy. Its": {
+    "guess": "Doctor Faustus",
+    "confidence": [
+      [
+        "Doctor",
+        -0.0043749367
+      ],
+      [
+        " Fa",
+        -3.1281633e-07
+      ],
+      [
+        "ustus",
+        0.0
+      ]
+    ]
+  },
+  "William Prynne's Histriomastix claimed that a performance of this play literally drove some audience members insane. In one scene, its protagonist steals the Pope's dishes and throws fireworks at some friars, while in another scene, the words \"Homo, fuge!\" appear on the protagonist's arm. This play's main character dismisses the doctrine of divinity as \"que sera, sera\", before ordering his servant (*) Wagner to bring him the magicians Valdes and Cornelius, who encourage his study of necromancy. Its protagonist poses the request \"Make me immortal with a kiss\" to Helen of Troy, who is said to have": {
+    "guess": "Doctor Faustus (play)",
+    "confidence": [
+      [
+        "Doctor",
+        -0.0025170387
+      ],
+      [
+        " Fa",
+        0.0
+      ],
+      [
+        "ustus",
+        0.0
+      ],
+      [
+        " (",
+        -0.001954087
+      ],
+      [
+        "play",
+        -6.704273e-07
+      ],
+      [
+        ")",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "William Prynne's Histriomastix claimed that a performance of this play literally drove some audience members insane. In one scene, its protagonist steals the Pope's dishes and throws fireworks at some friars, while in another scene, the words \"Homo, fuge!\" appear on the protagonist's arm. This play's main character dismisses the doctrine of divinity as \"que sera, sera\", before ordering his servant (*) Wagner to bring him the magicians Valdes and Cornelius, who encourage his study of necromancy. Its protagonist poses the request \"Make me immortal with a kiss\" to Helen of Troy, who is said to have \"the face that launched a thousand ships\". For 10 points, name this Christopher Marlowe play whose": {
+    "guess": "Doctor Faustus",
+    "confidence": [
+      [
+        "Doctor",
+        -0.0028013177
+      ],
+      [
+        " Fa",
+        -1.9361265e-07
+      ],
+      [
+        "ustus",
+        0.0
+      ]
+    ]
+  },
+  "William Prynne's Histriomastix claimed that a performance of this play literally drove some audience members insane. In one scene, its protagonist steals the Pope's dishes and throws fireworks at some friars, while in another scene, the words \"Homo, fuge!\" appear on the protagonist's arm. This play's main character dismisses the doctrine of divinity as \"que sera, sera\", before ordering his servant (*) Wagner to bring him the magicians Valdes and Cornelius, who encourage his study of necromancy. Its protagonist poses the request \"Make me immortal with a kiss\" to Helen of Troy, who is said to have \"the face that launched a thousand ships\". For 10 points, name this Christopher Marlowe play whose protagonist gains Mephistophilis as a servant by making a deal with the Devil.": {
+    "guess": "Doctor Faustus",
+    "confidence": [
+      [
+        "Doctor",
+        -5.5980927e-05
+      ],
+      [
+        " Fa",
+        -3.1281633e-07
+      ],
+      [
+        "ustus",
+        0.0
+      ]
+    ]
+  },
+  "Wilson's disease is a hereditary illness in which an excess of copper creates this condition. The pigmentary": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6982418
+      ]
+    ]
+  },
+  "Wilson's disease is a hereditary illness in which an excess of copper creates this condition. The pigmentary version is caused by excess iron in the affected organ, while the postnecrotic kind results": {
+    "guess": "Cirrhosis",
+    "confidence": [
+      [
+        "C",
+        -0.0045782267
+      ],
+      [
+        "irr",
+        0.0
+      ],
+      [
+        "hos",
+        0.0
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Wilson's disease is a hereditary illness in which an excess of copper creates this condition. The pigmentary version is caused by excess iron in the affected organ, while the postnecrotic kind results from viral infections or toxins and can set in over the course of weeks. The most common form is La\u00ebnnec's": {
+    "guess": "Cirrhosis",
+    "confidence": [
+      [
+        "C",
+        -0.0012576146
+      ],
+      [
+        "irr",
+        0.0
+      ],
+      [
+        "hos",
+        0.0
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Wilson's disease is a hereditary illness in which an excess of copper creates this condition. The pigmentary version is caused by excess iron in the affected organ, while the postnecrotic kind results from viral infections or toxins and can set in over the course of weeks. The most common form is La\u00ebnnec's disease, which is caused by malnutrition and chronic excessive alcohol consumption. FTP, what": {
+    "guess": "Cirrhosis",
+    "confidence": [
+      [
+        "C",
+        -0.0037695551
+      ],
+      [
+        "irr",
+        0.0
+      ],
+      [
+        "hos",
+        0.0
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Wilson's disease is a hereditary illness in which an excess of copper creates this condition. The pigmentary version is caused by excess iron in the affected organ, while the postnecrotic kind results from viral infections or toxins and can set in over the course of weeks. The most common form is La\u00ebnnec's disease, which is caused by malnutrition and chronic excessive alcohol consumption. FTP, what is this cell structure change in which scar tissue forms in the liver?": {
+    "guess": "Cirrhosis",
+    "confidence": [
+      [
+        "C",
+        -0.0007216069
+      ],
+      [
+        "irr",
+        0.0
+      ],
+      [
+        "hos",
+        -1.9361265e-07
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "William Peers wrote the final report on this event, while the story was broken by reporter Seymour Hersh": {
+    "guess": "My Lai Massacre",
+    "confidence": [
+      [
+        "My",
+        -0.002489807
+      ],
+      [
+        " Lai",
+        0.0
+      ],
+      [
+        " Mass",
+        -1.147242e-06
+      ],
+      [
+        "acre",
+        0.0
+      ]
+    ]
+  },
+  "William Peers wrote the final report on this event, while the story was broken by reporter Seymour Hersh over a year after the fact. Captain Ernest Medina escaped punishment for ordering the raid against": {
+    "guess": "M\u1ef9 Lai massacre",
+    "confidence": [
+      [
+        "M",
+        -7.3458323e-06
+      ],
+      [
+        "\u1ef9",
+        0.0
+      ],
+      [
+        " Lai",
+        0.0
+      ],
+      [
+        " massacre",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "William Peers wrote the final report on this event, while the story was broken by reporter Seymour Hersh over a year after the fact. Captain Ernest Medina escaped punishment for ordering the raid against NLF guerillas believed to live in the hamlet codenamed \"Pinkville\", but a sentence was imposed on": {
+    "guess": "M\u1ef9 Lai massacre",
+    "confidence": [
+      [
+        "M",
+        -1.569009e-05
+      ],
+      [
+        "\u1ef9",
+        -3.1281633e-07
+      ],
+      [
+        " Lai",
+        0.0
+      ],
+      [
+        " massacre",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "William Peers wrote the final report on this event, while the story was broken by reporter Seymour Hersh over a year after the fact. Captain Ernest Medina escaped punishment for ordering the raid against NLF guerillas believed to live in the hamlet codenamed \"Pinkville\", but a sentence was imposed on Lieutenant William Calley, leader of the 1st Platoon of Charlie Company. For ten points, what was this": {
+    "guess": "M\u1ef9 Lai massacre",
+    "confidence": [
+      [
+        "M",
+        -4.00813e-06
+      ],
+      [
+        "\u1ef9",
+        -4.3202e-07
+      ],
+      [
+        " Lai",
+        0.0
+      ],
+      [
+        " massacre",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "William Peers wrote the final report on this event, while the story was broken by reporter Seymour Hersh over a year after the fact. Captain Ernest Medina escaped punishment for ordering the raid against NLF guerillas believed to live in the hamlet codenamed \"Pinkville\", but a sentence was imposed on Lieutenant William Calley, leader of the 1st Platoon of Charlie Company. For ten points, what was this 1968 atrocity in which over 300 Vietnamese civilians were killed by the U. S. Army?": {
+    "guess": "M\u1ef9 Lai massacre",
+    "confidence": [
+      [
+        "M",
+        -8.657073e-06
+      ],
+      [
+        "\u1ef9",
+        -4.3202e-07
+      ],
+      [
+        " Lai",
+        0.0
+      ],
+      [
+        " massacre",
+        -6.6232446e-05
+      ]
+    ]
+  },
+  "When William Pitt the Elder became severely ill in 1766, it was this man who assumed effective control": {
+    "guess": "Charles Townshend",
+    "confidence": [
+      [
+        "Charles",
+        -0.12462691
+      ],
+      [
+        " Town",
+        -0.0023441347
+      ],
+      [
+        "sh",
+        0.0
+      ],
+      [
+        "end",
+        0.0
+      ]
+    ]
+  },
+  "When William Pitt the Elder became severely ill in 1766, it was this man who assumed effective control of the administration. He died himself in 1767 amidst criticism of his last official act, which he": {
+    "guess": "Charles Townshend",
+    "confidence": [
+      [
+        "Charles",
+        -0.092815995
+      ],
+      [
+        " Town",
+        -0.0010407903
+      ],
+      [
+        "sh",
+        0.0
+      ],
+      [
+        "end",
+        0.0
+      ]
+    ]
+  },
+  "When William Pitt the Elder became severely ill in 1766, it was this man who assumed effective control of the administration. He died himself in 1767 amidst criticism of his last official act, which he estimated would produce an insignificant forty thousand pounds for the British treasury, but which": {
+    "guess": "Charles Townshend",
+    "confidence": [
+      [
+        "Charles",
+        -0.07947306
+      ],
+      [
+        " Town",
+        -0.0005545824
+      ],
+      [
+        "sh",
+        0.0
+      ],
+      [
+        "end",
+        0.0
+      ]
+    ]
+  },
+  "When William Pitt the Elder became severely ill in 1766, it was this man who assumed effective control of the administration. He died himself in 1767 amidst criticism of his last official act, which he estimated would produce an insignificant forty thousand pounds for the British treasury, but which shrewder observers prophesied would lead to the loss of the American Colonies. For ten points name this": {
+    "guess": "Townshend Acts",
+    "confidence": [
+      [
+        "Town",
+        -0.6827083
+      ],
+      [
+        "sh",
+        -0.0009114635
+      ],
+      [
+        "end",
+        0.0
+      ],
+      [
+        " Acts",
+        -0.02077778
+      ]
+    ]
+  },
+  "When William Pitt the Elder became severely ill in 1766, it was this man who assumed effective control of the administration. He died himself in 1767 amidst criticism of his last official act, which he estimated would produce an insignificant forty thousand pounds for the British treasury, but which shrewder observers prophesied would lead to the loss of the American Colonies. For ten points name this Chancellor of the Exchequer who put forth a series of four acts in 1767 which imposed revenue duties": {
+    "guess": "Townshend Acts",
+    "confidence": [
+      [
+        "Town",
+        -0.48556292
+      ],
+      [
+        "sh",
+        -0.00023059595
+      ],
+      [
+        "end",
+        0.0
+      ],
+      [
+        " Acts",
+        -0.00029410952
+      ]
+    ]
+  },
+  "When William Pitt the Elder became severely ill in 1766, it was this man who assumed effective control of the administration. He died himself in 1767 amidst criticism of his last official act, which he estimated would produce an insignificant forty thousand pounds for the British treasury, but which shrewder observers prophesied would lead to the loss of the American Colonies. For ten points name this Chancellor of the Exchequer who put forth a series of four acts in 1767 which imposed revenue duties on items necessary to the colonists, including tea.": {
+    "guess": "Townshend Acts",
+    "confidence": [
+      [
+        "Town",
+        -0.1857045
+      ],
+      [
+        "sh",
+        -6.6113236e-05
+      ],
+      [
+        "end",
+        0.0
+      ],
+      [
+        " Acts",
+        -0.0019659854
+      ]
+    ]
+  },
+  "Willy Wonka wants to know how many Oompa Loompas he needs to help him mix chocolate for his new Awesome": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.16899143
+      ]
+    ]
+  },
+  "Willy Wonka wants to know how many Oompa Loompas he needs to help him mix chocolate for his new Awesome Bar. He wants enough chocolate for one bar mixed in three minutes, but he takes twelve minutes to": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.06509202
+      ]
+    ]
+  },
+  "Willy Wonka wants to know how many Oompa Loompas he needs to help him mix chocolate for his new Awesome Bar. He wants enough chocolate for one bar mixed in three minutes, but he takes twelve minutes to mix enough. Each Oompa Loompa takes forty minutes to mix the amount of chocolate needed for one candy": {
+    "guess": "Work (physics)",
+    "confidence": [
+      [
+        "Work",
+        -0.057528555
+      ],
+      [
+        " (",
+        -0.013536169
+      ],
+      [
+        "physics",
+        -0.007139675
+      ],
+      [
+        ")",
+        -6.0510665e-05
+      ]
+    ]
+  },
+  "Willy Wonka wants to know how many Oompa Loompas he needs to help him mix chocolate for his new Awesome Bar. He wants enough chocolate for one bar mixed in three minutes, but he takes twelve minutes to mix enough. Each Oompa Loompa takes forty minutes to mix the amount of chocolate needed for one candy bar. For ten points, how many Oompa Loompas does Willy need working with him mixing chocolate? You": {
+    "guess": "Work (physics)",
+    "confidence": [
+      [
+        "Work",
+        -0.80838686
+      ],
+      [
+        " (",
+        -0.03476603
+      ],
+      [
+        "physics",
+        -0.16833211
+      ],
+      [
+        ")",
+        -0.00032235344
+      ]
+    ]
+  },
+  "Willy Wonka wants to know how many Oompa Loompas he needs to help him mix chocolate for his new Awesome Bar. He wants enough chocolate for one bar mixed in three minutes, but he takes twelve minutes to mix enough. Each Oompa Loompa takes forty minutes to mix the amount of chocolate needed for one candy bar. For ten points, how many Oompa Loompas does Willy need working with him mixing chocolate? You have fifteen seconds.": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.022659581
+      ],
+      [
+        ".",
+        -0.5759483
+      ]
+    ]
+  },
+  "William Cochran analyzed some unusual spectral emissions from it which were more fully explained by Diane": {
+    "guess": "Sun",
+    "confidence": [
+      [
+        "Sun",
+        -0.9921391
+      ]
+    ]
+  },
+  "William Cochran analyzed some unusual spectral emissions from it which were more fully explained by Diane Paulson, who suggested that the event was unusual for objects of its age. Its rotation period proves": {
+    "guess": "Saturn",
+    "confidence": [
+      [
+        "Sat",
+        -1.2718989
+      ],
+      [
+        "urn",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "William Cochran analyzed some unusual spectral emissions from it which were more fully explained by Diane Paulson, who suggested that the event was unusual for objects of its age. Its rotation period proves that it was born before other objects of its class increased the amount of stellar metal, and": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.4114052
+      ]
+    ]
+  },
+  "William Cochran analyzed some unusual spectral emissions from it which were more fully explained by Diane Paulson, who suggested that the event was unusual for objects of its age. Its rotation period proves that it was born before other objects of its class increased the amount of stellar metal, and as a consequence it has a very low metallicity. In 1973, the British Interplanatary Society launched": {
+    "guess": "Barnard's Star",
+    "confidence": [
+      [
+        "Barn",
+        -0.94376075
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        "'s",
+        -3.888926e-06
+      ],
+      [
+        " Star",
+        -8.4947416e-05
+      ]
+    ]
+  },
+  "William Cochran analyzed some unusual spectral emissions from it which were more fully explained by Diane Paulson, who suggested that the event was unusual for objects of its age. Its rotation period proves that it was born before other objects of its class increased the amount of stellar metal, and as a consequence it has a very low metallicity. In 1973, the British Interplanatary Society launched Project Daedalus to send an unmanned spacecraft to study its astrometry. Van Kemp famously speculated": {
+    "guess": "Barnard's Star",
+    "confidence": [
+      [
+        "Barn",
+        -0.00017493518
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        "'s",
+        -2.1008714e-06
+      ],
+      [
+        " Star",
+        -6.670925e-05
+      ]
+    ]
+  },
+  "William Cochran analyzed some unusual spectral emissions from it which were more fully explained by Diane Paulson, who suggested that the event was unusual for objects of its age. Its rotation period proves that it was born before other objects of its class increased the amount of stellar metal, and as a consequence it has a very low metallicity. In 1973, the British Interplanatary Society launched Project Daedalus to send an unmanned spacecraft to study its astrometry. Van Kemp famously speculated the existence of planets revolving around it, a claim later proven to be false. Located in the constellation": {
+    "guess": "Barnard's Star",
+    "confidence": [
+      [
+        "Barn",
+        -0.0001409658
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        "'s",
+        -1.7432603e-06
+      ],
+      [
+        " Star",
+        -5.1689596e-05
+      ]
+    ]
+  },
+  "William Cochran analyzed some unusual spectral emissions from it which were more fully explained by Diane Paulson, who suggested that the event was unusual for objects of its age. Its rotation period proves that it was born before other objects of its class increased the amount of stellar metal, and as a consequence it has a very low metallicity. In 1973, the British Interplanatary Society launched Project Daedalus to send an unmanned spacecraft to study its astrometry. Van Kemp famously speculated the existence of planets revolving around it, a claim later proven to be false. Located in the constellation Ophiuchus, for ten points, this is what red dwarf with the largest proper motion of any": {
+    "guess": "Barnard's Star",
+    "confidence": [
+      [
+        "Barn",
+        -5.252402e-05
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        "'s",
+        -2.1008714e-06
+      ],
+      [
+        " Star",
+        -0.00012344286
+      ]
+    ]
+  },
+  "William Cochran analyzed some unusual spectral emissions from it which were more fully explained by Diane Paulson, who suggested that the event was unusual for objects of its age. Its rotation period proves that it was born before other objects of its class increased the amount of stellar metal, and as a consequence it has a very low metallicity. In 1973, the British Interplanatary Society launched Project Daedalus to send an unmanned spacecraft to study its astrometry. Van Kemp famously speculated the existence of planets revolving around it, a claim later proven to be false. Located in the constellation Ophiuchus, for ten points, this is what red dwarf with the largest proper motion of any star, named after its American discoverer?": {
+    "guess": "Barnard's Star",
+    "confidence": [
+      [
+        "Barn",
+        -0.00010306638
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        "'s",
+        -2.1008714e-06
+      ],
+      [
+        " Star",
+        -0.00026133584
+      ]
+    ]
+  },
+  "William Godwin blamed him for converting hundreds of liberals into reactionaries. He reluctantly advocated": {
+    "guess": "Edmund Burke",
+    "confidence": [
+      [
+        "Ed",
+        -0.6862577
+      ],
+      [
+        "mund",
+        -1.9361265e-07
+      ],
+      [
+        " Burke",
+        0.0
+      ]
+    ]
+  },
+  "William Godwin blamed him for converting hundreds of liberals into reactionaries. He reluctantly advocated slavery, infanticide, and even smallpox, and condemned soup-kitchens and unemployment-relief,": {
+    "guess": "Thomas Malthus",
+    "confidence": [
+      [
+        "Thomas",
+        -0.016162584
+      ],
+      [
+        " M",
+        -0.16023672
+      ],
+      [
+        "alth",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "William Godwin blamed him for converting hundreds of liberals into reactionaries. He reluctantly advocated slavery, infanticide, and even smallpox, and condemned soup-kitchens and unemployment-relief, a philosophy that led Thomas Carlyle to dub economics 'the dismal science.' FTP, name this English clergyman,": {
+    "guess": "Thomas Robert Malthus",
+    "confidence": [
+      [
+        "Thomas",
+        -0.00297283
+      ],
+      [
+        " Robert",
+        -6.9882217e-06
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "alth",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "William Godwin blamed him for converting hundreds of liberals into reactionaries. He reluctantly advocated slavery, infanticide, and even smallpox, and condemned soup-kitchens and unemployment-relief, a philosophy that led Thomas Carlyle to dub economics 'the dismal science.' FTP, name this English clergyman, author of a 1798 _Essay on the Principle of Population_.": {
+    "guess": "Thomas Robert Malthus",
+    "confidence": [
+      [
+        "Thomas",
+        -0.0022555296
+      ],
+      [
+        " Robert",
+        -6.6113236e-05
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "alth",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "William James used this phrase in 1890's Principles of Psychology to describe the perceptions, thoughts,": {
+    "guess": "Stream of consciousness",
+    "confidence": [
+      [
+        "Stream",
+        -0.20756613
+      ],
+      [
+        " of",
+        -4.3202e-07
+      ],
+      [
+        " consciousness",
+        -0.0059318785
+      ]
+    ]
+  },
+  "William James used this phrase in 1890's Principles of Psychology to describe the perceptions, thoughts, and feelings of the waking mind. In a literary sense, it can be used to describe chapter 42 of his": {
+    "guess": "Stream of consciousness",
+    "confidence": [
+      [
+        "Stream",
+        -0.3208451
+      ],
+      [
+        " of",
+        -1.0280384e-06
+      ],
+      [
+        " consciousness",
+        -0.043013807
+      ]
+    ]
+  },
+  "William James used this phrase in 1890's Principles of Psychology to describe the perceptions, thoughts, and feelings of the waking mind. In a literary sense, it can be used to describe chapter 42 of his brother Henry's Portrait of a Lady. For 10 points\u2014name this device, which introspectively relates": {
+    "guess": "Stream of consciousness",
+    "confidence": [
+      [
+        "Stream",
+        -0.007600466
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " consciousness",
+        -0.016041173
+      ]
+    ]
+  },
+  "William James used this phrase in 1890's Principles of Psychology to describe the perceptions, thoughts, and feelings of the waking mind. In a literary sense, it can be used to describe chapter 42 of his brother Henry's Portrait of a Lady. For 10 points\u2014name this device, which introspectively relates the narrator's continuous mental processes, used by William Faulkner in The Sound and the Fury.": {
+    "guess": "Stream of consciousness",
+    "confidence": [
+      [
+        "Stream",
+        -0.00051645556
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " consciousness",
+        -3.1424974e-05
+      ]
+    ]
+  },
+  "William Douglas headed this organization before joining the Supreme Court. A decade before heading  \uf0d9": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6826652
+      ]
+    ]
+  },
+  "William Douglas headed this organization before joining the Supreme Court. A decade before heading  \uf0d9 the CIA, William Casey headed this organization, during which time it investigated Nixon donor  Robert": {
+    "guess": "Securities and Exchange Commission",
+    "confidence": [
+      [
+        "S",
+        -0.5419341
+      ],
+      [
+        "ecurities",
+        0.0
+      ],
+      [
+        " and",
+        -0.00014025059
+      ],
+      [
+        " Exchange",
+        0.0
+      ],
+      [
+        " Commission",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "William Douglas headed this organization before joining the Supreme Court. A decade before heading  \uf0d9 the CIA, William Casey headed this organization, during which time it investigated Nixon donor  Robert Vesco for fraud. Created in part to give a national basis for blue-sky laws, its first leader was": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5756824
+      ]
+    ]
+  },
+  "William Douglas headed this organization before joining the Supreme Court. A decade before heading  \uf0d9 the CIA, William Casey headed this organization, during which time it investigated Nixon donor  Robert Vesco for fraud. Created in part to give a national basis for blue-sky laws, its first leader was  \uf0da Joseph Kennedy. An attempt to strengthen this agency was made in 2002 with the Sarbanes-Oxley ": {
+    "guess": "Securities and Exchange Commission",
+    "confidence": [
+      [
+        "S",
+        -0.58978987
+      ],
+      [
+        "ecurities",
+        0.0
+      ],
+      [
+        " and",
+        -1.0921943e-05
+      ],
+      [
+        " Exchange",
+        0.0
+      ],
+      [
+        " Commission",
+        0.0
+      ]
+    ]
+  },
+  "William Douglas headed this organization before joining the Supreme Court. A decade before heading  \uf0d9 the CIA, William Casey headed this organization, during which time it investigated Nixon donor  Robert Vesco for fraud. Created in part to give a national basis for blue-sky laws, its first leader was  \uf0da Joseph Kennedy. An attempt to strengthen this agency was made in 2002 with the Sarbanes-Oxley  Act, which was passed soon after the Enron bankruptcy scandal, and this was strengthened more  recently": {
+    "guess": "Securities and Exchange Commission",
+    "confidence": [
+      [
+        "S",
+        -0.8507765
+      ],
+      [
+        "ecurities",
+        0.0
+      ],
+      [
+        " and",
+        -5.5577775e-06
+      ],
+      [
+        " Exchange",
+        0.0
+      ],
+      [
+        " Commission",
+        0.0
+      ]
+    ]
+  },
+  "William Douglas headed this organization before joining the Supreme Court. A decade before heading  \uf0d9 the CIA, William Casey headed this organization, during which time it investigated Nixon donor  Robert Vesco for fraud. Created in part to give a national basis for blue-sky laws, its first leader was  \uf0da Joseph Kennedy. An attempt to strengthen this agency was made in 2002 with the Sarbanes-Oxley  Act, which was passed soon after the Enron bankruptcy scandal, and this was strengthened more  recently by the Dodd-Frank Act. Name this organization created during the Great Depression to  regulate assets": {
+    "guess": "SEC",
+    "confidence": [
+      [
+        "SEC",
+        -0.005222256
+      ]
+    ]
+  },
+  "William Douglas headed this organization before joining the Supreme Court. A decade before heading  \uf0d9 the CIA, William Casey headed this organization, during which time it investigated Nixon donor  Robert Vesco for fraud. Created in part to give a national basis for blue-sky laws, its first leader was  \uf0da Joseph Kennedy. An attempt to strengthen this agency was made in 2002 with the Sarbanes-Oxley  Act, which was passed soon after the Enron bankruptcy scandal, and this was strengthened more  recently by the Dodd-Frank Act. Name this organization created during the Great Depression to  regulate assets such as stocks.": {
+    "guess": "SEC",
+    "confidence": [
+      [
+        "SEC",
+        -0.008415048
+      ]
+    ]
+  },
+  "After the Willow Song, Desdemona sings an Italian setting of this text before being killed by her husband": {
+    "guess": "Ave Maria",
+    "confidence": [
+      [
+        "Ave",
+        -0.13908055
+      ],
+      [
+        " Maria",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "After the Willow Song, Desdemona sings an Italian setting of this text before being killed by her husband in Verdi's Otello. The popular setting of this text attributed to Giulio Caccini is widely understood": {
+    "guess": "Ave Maria",
+    "confidence": [
+      [
+        "Ave",
+        -0.0693578
+      ],
+      [
+        " Maria",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "After the Willow Song, Desdemona sings an Italian setting of this text before being killed by her husband in Verdi's Otello. The popular setting of this text attributed to Giulio Caccini is widely understood to be a hoax by the Russian composer Vavilov. Gounod's version of this text superimposed it with": {
+    "guess": "Ave Maria",
+    "confidence": [
+      [
+        "Ave",
+        -0.33296463
+      ],
+      [
+        " Maria",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "After the Willow Song, Desdemona sings an Italian setting of this text before being killed by her husband in Verdi's Otello. The popular setting of this text attributed to Giulio Caccini is widely understood to be a hoax by the Russian composer Vavilov. Gounod's version of this text superimposed it with an additional melody over a prelude from Bach's Well Tempered Clavier. One famous version substitutes": {
+    "guess": "Ave Maria",
+    "confidence": [
+      [
+        "Ave",
+        -0.27056843
+      ],
+      [
+        " Maria",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "After the Willow Song, Desdemona sings an Italian setting of this text before being killed by her husband in Verdi's Otello. The popular setting of this text attributed to Giulio Caccini is widely understood to be a hoax by the Russian composer Vavilov. Gounod's version of this text superimposed it with an additional melody over a prelude from Bach's Well Tempered Clavier. One famous version substitutes this Latin text in full for the original setting ofWalter Scott's \"Lady of the Lake\": that version": {
+    "guess": "Ave Maria",
+    "confidence": [
+      [
+        "Ave",
+        -0.0033282645
+      ],
+      [
+        " Maria",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "After the Willow Song, Desdemona sings an Italian setting of this text before being killed by her husband in Verdi's Otello. The popular setting of this text attributed to Giulio Caccini is widely understood to be a hoax by the Russian composer Vavilov. Gounod's version of this text superimposed it with an additional melody over a prelude from Bach's Well Tempered Clavier. One famous version substitutes this Latin text in full for the original setting ofWalter Scott's \"Lady of the Lake\": that version is properly named \"Ellen's Dritter Gesang\" and is by Franz Schubert. For 10 points, name this Latin": {
+    "guess": "Ave Maria",
+    "confidence": [
+      [
+        "Ave",
+        -0.0017909706
+      ],
+      [
+        " Maria",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "After the Willow Song, Desdemona sings an Italian setting of this text before being killed by her husband in Verdi's Otello. The popular setting of this text attributed to Giulio Caccini is widely understood to be a hoax by the Russian composer Vavilov. Gounod's version of this text superimposed it with an additional melody over a prelude from Bach's Well Tempered Clavier. One famous version substitutes this Latin text in full for the original setting ofWalter Scott's \"Lady of the Lake\": that version is properly named \"Ellen's Dritter Gesang\" and is by Franz Schubert. For 10 points, name this Latin hymn that blesses the Virgin and exhorts her to pray for us sinners.": {
+    "guess": "Ave Maria",
+    "confidence": [
+      [
+        "Ave",
+        -0.0050925105
+      ],
+      [
+        " Maria",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "William Cowper [\"cooper\"] wrote a poem about a \"retired\" one of these whose moral is \"Beware of too sublime": {
+    "guess": "The Retired Cat",
+    "confidence": [
+      [
+        "The",
+        -0.038791046
+      ],
+      [
+        " Ret",
+        -0.43388072
+      ],
+      [
+        "ired",
+        -9.014684e-06
+      ],
+      [
+        " Cat",
+        -0.020661823
+      ]
+    ]
+  },
+  "William Cowper [\"cooper\"] wrote a poem about a \"retired\" one of these whose moral is \"Beware of too sublime a sense / Of your own worth and consequence.\" One of these is described as a \"timid pensioner": {
+    "guess": "The Retired Cat",
+    "confidence": [
+      [
+        "The",
+        -0.32619867
+      ],
+      [
+        " Ret",
+        -0.2869043
+      ],
+      [
+        "ired",
+        -4.9617593e-06
+      ],
+      [
+        " Cat",
+        -0.0004487845
+      ]
+    ]
+  },
+  "William Cowper [\"cooper\"] wrote a poem about a \"retired\" one of these whose moral is \"Beware of too sublime a sense / Of your own worth and consequence.\" One of these is described as a \"timid pensioner of us Powers\" in a poem which concludes that in the autumn shade it moulders where it played, Thomas": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.3197014
+      ]
+    ]
+  },
+  "William Cowper [\"cooper\"] wrote a poem about a \"retired\" one of these whose moral is \"Beware of too sublime a sense / Of your own worth and consequence.\" One of these is described as a \"timid pensioner of us Powers\" in a poem which concludes that in the autumn shade it moulders where it played, Thomas Hardy's \"Last Words to a Dumb Friend.\" Another of these is said to be \"a mixture of gravity and waggery\"": {
+    "guess": "Dog",
+    "confidence": [
+      [
+        "Dog",
+        -0.5053372
+      ]
+    ]
+  },
+  "William Cowper [\"cooper\"] wrote a poem about a \"retired\" one of these whose moral is \"Beware of too sublime a sense / Of your own worth and consequence.\" One of these is described as a \"timid pensioner of us Powers\" in a poem which concludes that in the autumn shade it moulders where it played, Thomas Hardy's \"Last Words to a Dumb Friend.\" Another of these is said to be \"a mixture of gravity and waggery\" and to worship God by \"wreathing his body seven times round with elegant quickness\" in some lines": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.363247
+      ]
+    ]
+  },
+  "William Cowper [\"cooper\"] wrote a poem about a \"retired\" one of these whose moral is \"Beware of too sublime a sense / Of your own worth and consequence.\" One of these is described as a \"timid pensioner of us Powers\" in a poem which concludes that in the autumn shade it moulders where it played, Thomas Hardy's \"Last Words to a Dumb Friend.\" Another of these is said to be \"a mixture of gravity and waggery\" and to worship God by \"wreathing his body seven times round with elegant quickness\" in some lines about Jeoffrey, which appear in Jubilate Agno by Christopher Smart. One named Selima learns that": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.062497396
+      ]
+    ]
+  },
+  "William Cowper [\"cooper\"] wrote a poem about a \"retired\" one of these whose moral is \"Beware of too sublime a sense / Of your own worth and consequence.\" One of these is described as a \"timid pensioner of us Powers\" in a poem which concludes that in the autumn shade it moulders where it played, Thomas Hardy's \"Last Words to a Dumb Friend.\" Another of these is said to be \"a mixture of gravity and waggery\" and to worship God by \"wreathing his body seven times round with elegant quickness\" in some lines about Jeoffrey, which appear in Jubilate Agno by Christopher Smart. One named Selima learns that all that glisters is not gold in a poem in which it drowns in a tub of goldfishes. FTP, name the kind": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.0015405694
+      ]
+    ]
+  },
+  "William Cowper [\"cooper\"] wrote a poem about a \"retired\" one of these whose moral is \"Beware of too sublime a sense / Of your own worth and consequence.\" One of these is described as a \"timid pensioner of us Powers\" in a poem which concludes that in the autumn shade it moulders where it played, Thomas Hardy's \"Last Words to a Dumb Friend.\" Another of these is said to be \"a mixture of gravity and waggery\" and to worship God by \"wreathing his body seven times round with elegant quickness\" in some lines about Jeoffrey, which appear in Jubilate Agno by Christopher Smart. One named Selima learns that all that glisters is not gold in a poem in which it drowns in a tub of goldfishes. FTP, name the kind of animal which figures in that poem by Thomas Grey, other poetic examples of which include Bustopher": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.008587268
+      ]
+    ]
+  },
+  "William Cowper [\"cooper\"] wrote a poem about a \"retired\" one of these whose moral is \"Beware of too sublime a sense / Of your own worth and consequence.\" One of these is described as a \"timid pensioner of us Powers\" in a poem which concludes that in the autumn shade it moulders where it played, Thomas Hardy's \"Last Words to a Dumb Friend.\" Another of these is said to be \"a mixture of gravity and waggery\" and to worship God by \"wreathing his body seven times round with elegant quickness\" in some lines about Jeoffrey, which appear in Jubilate Agno by Christopher Smart. One named Selima learns that all that glisters is not gold in a poem in which it drowns in a tub of goldfishes. FTP, name the kind of animal which figures in that poem by Thomas Grey, other poetic examples of which include Bustopher Jones, Rum Tum Tugger, and Macavity.": {
+    "guess": "Cat",
+    "confidence": [
+      [
+        "Cat",
+        -0.014463517
+      ]
+    ]
+  },
+  "William Hazlitt contradicted the first published version of this poem by following a manuscript owned": {
+    "guess": "The Rime of the Ancient Mariner",
+    "confidence": [
+      [
+        "The",
+        -0.4796219
+      ],
+      [
+        " R",
+        -0.37415147
+      ],
+      [
+        "ime",
+        -0.00011200665
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -2.3392786e-06
+      ],
+      [
+        " Ancient",
+        -0.00023083435
+      ],
+      [
+        " Mar",
+        -1.9361265e-07
+      ],
+      [
+        "iner",
+        0.0
+      ]
+    ]
+  },
+  "William Hazlitt contradicted the first published version of this poem by following a manuscript owned by Philip Bliss, which replaced the word \"Gods\" with \"birds\" in the first stanza. This poem describes": {
+    "guess": "Ode to a Nightingale",
+    "confidence": [
+      [
+        "O",
+        -0.5548405
+      ],
+      [
+        "de",
+        -0.0028055832
+      ],
+      [
+        " to",
+        -0.020547375
+      ],
+      [
+        " a",
+        -0.0027861001
+      ],
+      [
+        " Night",
+        -0.0001409658
+      ],
+      [
+        "ingale",
+        0.0
+      ]
+    ]
+  },
+  "William Hazlitt contradicted the first published version of this poem by following a manuscript owned by Philip Bliss, which replaced the word \"Gods\" with \"birds\" in the first stanza. This poem describes \"hearts with loyal flames; / When thirsty grief in wine we steep\" after telling how \"flowing cups": {
+    "guess": "To Althea, from Prison",
+    "confidence": [
+      [
+        "To",
+        -0.13129391
+      ],
+      [
+        " Al",
+        -0.00014501873
+      ],
+      [
+        "the",
+        -5.6769813e-06
+      ],
+      [
+        "a",
+        0.0
+      ],
+      [
+        ",",
+        -5.5122365e-07
+      ],
+      [
+        " from",
+        -0.00026133584
+      ],
+      [
+        " Prison",
+        0.0
+      ]
+    ]
+  },
+  "William Hazlitt contradicted the first published version of this poem by following a manuscript owned by Philip Bliss, which replaced the word \"Gods\" with \"birds\" in the first stanza. This poem describes \"hearts with loyal flames; / When thirsty grief in wine we steep\" after telling how \"flowing cups run swiftly round / With no allaying Thames.\" The edited version of this poem creates a stronger parallel": {
+    "guess": "To Althea, from Prison",
+    "confidence": [
+      [
+        "To",
+        -0.01437833
+      ],
+      [
+        " Al",
+        -1.147242e-06
+      ],
+      [
+        "the",
+        0.0
+      ],
+      [
+        "a",
+        0.0
+      ],
+      [
+        ",",
+        0.0
+      ],
+      [
+        " from",
+        -0.00012344286
+      ],
+      [
+        " Prison",
+        0.0
+      ]
+    ]
+  },
+  "William Hazlitt contradicted the first published version of this poem by following a manuscript owned by Philip Bliss, which replaced the word \"Gods\" with \"birds\" in the first stanza. This poem describes \"hearts with loyal flames; / When thirsty grief in wine we steep\" after telling how \"flowing cups run swiftly round / With no allaying Thames.\" The edited version of this poem creates a stronger parallel between (*) \"Enlarged winds, that curl the flood,\" \"Fishes that tipple in the deep,\" and \"birds": {
+    "guess": "To Althea, from Prison",
+    "confidence": [
+      [
+        "To",
+        -0.0012873788
+      ],
+      [
+        " Al",
+        -5.5122365e-07
+      ],
+      [
+        "the",
+        -4.3202e-07
+      ],
+      [
+        "a",
+        0.0
+      ],
+      [
+        ",",
+        -1.9361265e-07
+      ],
+      [
+        " from",
+        -0.00015848507
+      ],
+      [
+        " Prison",
+        0.0
+      ]
+    ]
+  },
+  "William Hazlitt contradicted the first published version of this poem by following a manuscript owned by Philip Bliss, which replaced the word \"Gods\" with \"birds\" in the first stanza. This poem describes \"hearts with loyal flames; / When thirsty grief in wine we steep\" after telling how \"flowing cups run swiftly round / With no allaying Thames.\" The edited version of this poem creates a stronger parallel between (*) \"Enlarged winds, that curl the flood,\" \"Fishes that tipple in the deep,\" and \"birds that wanton in the air,\" before contrasting them with \"Angels alone, that soar above\" who can \"Enjoy": {
+    "guess": "To Althea, from Prison",
+    "confidence": [
+      [
+        "To",
+        -0.108911306
+      ],
+      [
+        " Al",
+        -1.147242e-06
+      ],
+      [
+        "the",
+        -1.9361265e-07
+      ],
+      [
+        "a",
+        0.0
+      ],
+      [
+        ",",
+        -1.9361265e-07
+      ],
+      [
+        " from",
+        -9.615256e-05
+      ],
+      [
+        " Prison",
+        0.0
+      ]
+    ]
+  },
+  "William Hazlitt contradicted the first published version of this poem by following a manuscript owned by Philip Bliss, which replaced the word \"Gods\" with \"birds\" in the first stanza. This poem describes \"hearts with loyal flames; / When thirsty grief in wine we steep\" after telling how \"flowing cups run swiftly round / With no allaying Thames.\" The edited version of this poem creates a stronger parallel between (*) \"Enlarged winds, that curl the flood,\" \"Fishes that tipple in the deep,\" and \"birds that wanton in the air,\" before contrasting them with \"Angels alone, that soar above\" who can \"Enjoy such liberty.\" This poem begins by describing how \"Love with unconfined wings / Hovers within my": {
+    "guess": "To Althea, from Prison",
+    "confidence": [
+      [
+        "To",
+        -0.0049346318
+      ],
+      [
+        " Al",
+        -5.5122365e-07
+      ],
+      [
+        "the",
+        0.0
+      ],
+      [
+        "a",
+        0.0
+      ],
+      [
+        ",",
+        0.0
+      ],
+      [
+        " from",
+        -5.8365e-05
+      ],
+      [
+        " Prison",
+        0.0
+      ]
+    ]
+  },
+  "William Hazlitt contradicted the first published version of this poem by following a manuscript owned by Philip Bliss, which replaced the word \"Gods\" with \"birds\" in the first stanza. This poem describes \"hearts with loyal flames; / When thirsty grief in wine we steep\" after telling how \"flowing cups run swiftly round / With no allaying Thames.\" The edited version of this poem creates a stronger parallel between (*) \"Enlarged winds, that curl the flood,\" \"Fishes that tipple in the deep,\" and \"birds that wanton in the air,\" before contrasting them with \"Angels alone, that soar above\" who can \"Enjoy such liberty.\" This poem begins by describing how \"Love with unconfined wings / Hovers within my gates.\" For 10 points, name this poem which tells how \"Stone walls do not a prison make, Nor iron bars": {
+    "guess": "To Althea, from Prison",
+    "confidence": [
+      [
+        "To",
+        -0.0010204249
+      ],
+      [
+        " Al",
+        0.0
+      ],
+      [
+        "the",
+        0.0
+      ],
+      [
+        "a",
+        0.0
+      ],
+      [
+        ",",
+        0.0
+      ],
+      [
+        " from",
+        -0.00017958412
+      ],
+      [
+        " Prison",
+        0.0
+      ]
+    ]
+  },
+  "William Hazlitt contradicted the first published version of this poem by following a manuscript owned by Philip Bliss, which replaced the word \"Gods\" with \"birds\" in the first stanza. This poem describes \"hearts with loyal flames; / When thirsty grief in wine we steep\" after telling how \"flowing cups run swiftly round / With no allaying Thames.\" The edited version of this poem creates a stronger parallel between (*) \"Enlarged winds, that curl the flood,\" \"Fishes that tipple in the deep,\" and \"birds that wanton in the air,\" before contrasting them with \"Angels alone, that soar above\" who can \"Enjoy such liberty.\" This poem begins by describing how \"Love with unconfined wings / Hovers within my gates.\" For 10 points, name this poem which tells how \"Stone walls do not a prison make, Nor iron bars a cage,\" written by Richard Lovelace.": {
+    "guess": "To Althea, from Prison",
+    "confidence": [
+      [
+        "To",
+        -0.023439616
+      ],
+      [
+        " Al",
+        -4.3202e-07
+      ],
+      [
+        "the",
+        -1.9361265e-07
+      ],
+      [
+        "a",
+        0.0
+      ],
+      [
+        ",",
+        -1.9361265e-07
+      ],
+      [
+        " from",
+        -0.00017958412
+      ],
+      [
+        " Prison",
+        0.0
+      ]
+    ]
+  },
+  "Willard Van Dyke and Edward Weston were co-founders of a group of artists in this medium called f/64": {
+    "guess": "Group f/64",
+    "confidence": [
+      [
+        "Group",
+        -0.25340438
+      ],
+      [
+        " f",
+        -1.6240566e-06
+      ],
+      [
+        "/",
+        -2.7014437e-05
+      ],
+      [
+        "64",
+        0.0
+      ]
+    ]
+  },
+  "Willard Van Dyke and Edward Weston were co-founders of a group of artists in this medium called f/64 [\"f\"-stop-\"64\"]. Poor passengers in the lower deck of a ship are depicted using this medium in The Steerage": {
+    "guess": "Group f/64",
+    "confidence": [
+      [
+        "Group",
+        -0.3327503
+      ],
+      [
+        " f",
+        -1.0280384e-06
+      ],
+      [
+        "/",
+        -5.5265704e-05
+      ],
+      [
+        "64",
+        0.0
+      ]
+    ]
+  },
+  "Willard Van Dyke and Edward Weston were co-founders of a group of artists in this medium called f/64 [\"f\"-stop-\"64\"]. Poor passengers in the lower deck of a ship are depicted using this medium in The Steerage by Alfred (*) Stieglitz. Moon and Half Dome and Migrant Mother are images in this medium created": {
+    "guess": "Photography",
+    "confidence": [
+      [
+        "Photography",
+        -0.22665623
+      ]
+    ]
+  },
+  "Willard Van Dyke and Edward Weston were co-founders of a group of artists in this medium called f/64 [\"f\"-stop-\"64\"]. Poor passengers in the lower deck of a ship are depicted using this medium in The Steerage by Alfred (*) Stieglitz. Moon and Half Dome and Migrant Mother are images in this medium created by Ansel Adams and Dorothea Lange. For 10 points, name this artistic technique used to capture": {
+    "guess": "Photography",
+    "confidence": [
+      [
+        "Photography",
+        -0.049689952
+      ]
+    ]
+  },
+  "Willard Van Dyke and Edward Weston were co-founders of a group of artists in this medium called f/64 [\"f\"-stop-\"64\"]. Poor passengers in the lower deck of a ship are depicted using this medium in The Steerage by Alfred (*) Stieglitz. Moon and Half Dome and Migrant Mother are images in this medium created by Ansel Adams and Dorothea Lange. For 10 points, name this artistic technique used to capture a post-war kiss in Times Square.": {
+    "guess": "Photography",
+    "confidence": [
+      [
+        "Photography",
+        -0.023657823
+      ]
+    ]
+  },
+  "William Paley popularized a theological version of this philosophy, which was based on the earlier works": {
+    "guess": "Natural theology",
+    "confidence": [
+      [
+        "Natural",
+        -0.14895278
+      ],
+      [
+        " theology",
+        -0.47407818
+      ]
+    ]
+  },
+  "William Paley popularized a theological version of this philosophy, which was based on the earlier works of John Gay. Henry Sidgwick promoted this philosophy in The Methods of Ethics and The Elements of": {
+    "guess": "Utilitarianism",
+    "confidence": [
+      [
+        "Util",
+        -0.005385776
+      ],
+      [
+        "itarian",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "William Paley popularized a theological version of this philosophy, which was based on the earlier works of John Gay. Henry Sidgwick promoted this philosophy in The Methods of Ethics and The Elements of Politics. One early proponent of this philosophy created the hedonic calculus, which measures pleasure": {
+    "guess": "Utilitarianism",
+    "confidence": [
+      [
+        "Util",
+        -0.0004446124
+      ],
+      [
+        "itarian",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "William Paley popularized a theological version of this philosophy, which was based on the earlier works of John Gay. Henry Sidgwick promoted this philosophy in The Methods of Ethics and The Elements of Politics. One early proponent of this philosophy created the hedonic calculus, which measures pleasure and pain based on variables such as intensity, duration, and extent, while that man's successor": {
+    "guess": "Utilitarianism",
+    "confidence": [
+      [
+        "Util",
+        -0.0010675819
+      ],
+      [
+        "itarian",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "William Paley popularized a theological version of this philosophy, which was based on the earlier works of John Gay. Henry Sidgwick promoted this philosophy in The Methods of Ethics and The Elements of Politics. One early proponent of this philosophy created the hedonic calculus, which measures pleasure and pain based on variables such as intensity, duration, and extent, while that man's successor in this movement used it to argue for equality of the sexes in The Subjection of Women. For 10 points,": {
+    "guess": "Utilitarianism",
+    "confidence": [
+      [
+        "Util",
+        -0.0007386347
+      ],
+      [
+        "itarian",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "William Paley popularized a theological version of this philosophy, which was based on the earlier works of John Gay. Henry Sidgwick promoted this philosophy in The Methods of Ethics and The Elements of Politics. One early proponent of this philosophy created the hedonic calculus, which measures pleasure and pain based on variables such as intensity, duration, and extent, while that man's successor in this movement used it to argue for equality of the sexes in The Subjection of Women. For 10 points, name this philosophy pioneered by Jeremy Bentham and John Stuart Mill, which supports the greatest": {
+    "guess": "Utilitarianism",
+    "confidence": [
+      [
+        "Util",
+        -0.0023377086
+      ],
+      [
+        "itarian",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "William Paley popularized a theological version of this philosophy, which was based on the earlier works of John Gay. Henry Sidgwick promoted this philosophy in The Methods of Ethics and The Elements of Politics. One early proponent of this philosophy created the hedonic calculus, which measures pleasure and pain based on variables such as intensity, duration, and extent, while that man's successor in this movement used it to argue for equality of the sexes in The Subjection of Women. For 10 points, name this philosophy pioneered by Jeremy Bentham and John Stuart Mill, which supports the greatest good for the greatest number of people.": {
+    "guess": "Utilitarianism",
+    "confidence": [
+      [
+        "Util",
+        -1.0206721e-05
+      ],
+      [
+        "itarian",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "William Safire wrote the \"Fate has ordained...\" speech for Richard Nixon in case this event ended in": {
+    "guess": "Moon landing",
+    "confidence": [
+      [
+        "Moon",
+        -0.3869489
+      ],
+      [
+        " landing",
+        -0.0024946835
+      ]
+    ]
+  },
+  "William Safire wrote the \"Fate has ordained...\" speech for Richard Nixon in case this event ended in tragedy. Parkes Radio Telescope received video signal of this event, during which the Command Module": {
+    "guess": "Apollo 11",
+    "confidence": [
+      [
+        "Apollo",
+        -0.023065284
+      ],
+      [
+        " ",
+        -1.0280384e-06
+      ],
+      [
+        "11",
+        0.0
+      ]
+    ]
+  },
+  "William Safire wrote the \"Fate has ordained...\" speech for Richard Nixon in case this event ended in tragedy. Parkes Radio Telescope received video signal of this event, during which the Command Module was manned by Michael Collins. After the (*) Eagle landed in the Sea of Tranquility, the quote \"One": {
+    "guess": "Apollo 11",
+    "confidence": [
+      [
+        "Apollo",
+        -0.007043329
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "11",
+        0.0
+      ]
+    ]
+  },
+  "William Safire wrote the \"Fate has ordained...\" speech for Richard Nixon in case this event ended in tragedy. Parkes Radio Telescope received video signal of this event, during which the Command Module was manned by Michael Collins. After the (*) Eagle landed in the Sea of Tranquility, the quote \"One small step for a man, one giant leap for mankind\" was spoken by Neil Armstrong. For 10 points, name": {
+    "guess": "Apollo 11",
+    "confidence": [
+      [
+        "Apollo",
+        -2.1650272e-05
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "11",
+        0.0
+      ]
+    ]
+  },
+  "William Safire wrote the \"Fate has ordained...\" speech for Richard Nixon in case this event ended in tragedy. Parkes Radio Telescope received video signal of this event, during which the Command Module was manned by Michael Collins. After the (*) Eagle landed in the Sea of Tranquility, the quote \"One small step for a man, one giant leap for mankind\" was spoken by Neil Armstrong. For 10 points, name this 1969 event that \"won\" the Space Race.": {
+    "guess": "Apollo 11",
+    "confidence": [
+      [
+        "Apollo",
+        -0.0004618896
+      ],
+      [
+        " ",
+        -1.0280384e-06
+      ],
+      [
+        "11",
+        0.0
+      ]
+    ]
+  },
+  "William Morrison's review of the \"Mongrel\" one of these acts was resisted by Republicans and industries": {
+    "guess": "Dingley Act",
+    "confidence": [
+      [
+        "D",
+        -1.1349262
+      ],
+      [
+        "ingle",
+        -0.2051104
+      ],
+      [
+        "y",
+        -1.9816675e-06
+      ],
+      [
+        " Act",
+        -0.061980013
+      ]
+    ]
+  },
+  "William Morrison's review of the \"Mongrel\" one of these acts was resisted by Republicans and industries alike. President Polk passed one of these acts standardizing ad valorem rates on specific goods,": {
+    "guess": "Tariff of 1846",
+    "confidence": [
+      [
+        "Tar",
+        -0.16657797
+      ],
+      [
+        "iff",
+        -0.00033546583
+      ],
+      [
+        " of",
+        -0.7268359
+      ],
+      [
+        " ",
+        -2.220075e-06
+      ],
+      [
+        "184",
+        -0.00026217024
+      ],
+      [
+        "6",
+        -0.00862734
+      ]
+    ]
+  },
+  "William Morrison's review of the \"Mongrel\" one of these acts was resisted by Republicans and industries alike. President Polk passed one of these acts standardizing ad valorem rates on specific goods, and that was the \"Walker\" one. One of these acts set zero rates on wool and iron ore, and that was the": {
+    "guess": "Tariff Acts",
+    "confidence": [
+      [
+        "Tar",
+        -0.03255021
+      ],
+      [
+        "iff",
+        -3.5477897e-05
+      ],
+      [
+        " Acts",
+        -0.26173213
+      ]
+    ]
+  },
+  "William Morrison's review of the \"Mongrel\" one of these acts was resisted by Republicans and industries alike. President Polk passed one of these acts standardizing ad valorem rates on specific goods, and that was the \"Walker\" one. One of these acts set zero rates on wool and iron ore, and that was the Underwood-Simmons Act. In 1828, Southern Democrats labeled one of these acts an \"Abomination\", claiming": {
+    "guess": "Tariff Acts",
+    "confidence": [
+      [
+        "Tar",
+        -0.0041852486
+      ],
+      [
+        "iff",
+        -0.0009114635
+      ],
+      [
+        " Acts",
+        -0.43304446
+      ]
+    ]
+  },
+  "William Morrison's review of the \"Mongrel\" one of these acts was resisted by Republicans and industries alike. President Polk passed one of these acts standardizing ad valorem rates on specific goods, and that was the \"Walker\" one. One of these acts set zero rates on wool and iron ore, and that was the Underwood-Simmons Act. In 1828, Southern Democrats labeled one of these acts an \"Abomination\", claiming it injured their economic interests. These acts were the main source of federal revenue until": {
+    "guess": "Tariff Acts",
+    "confidence": [
+      [
+        "Tar",
+        -0.016340505
+      ],
+      [
+        "iff",
+        -0.07888979
+      ],
+      [
+        " Acts",
+        -0.054958
+      ]
+    ]
+  },
+  "William Morrison's review of the \"Mongrel\" one of these acts was resisted by Republicans and industries alike. President Polk passed one of these acts standardizing ad valorem rates on specific goods, and that was the \"Walker\" one. One of these acts set zero rates on wool and iron ore, and that was the Underwood-Simmons Act. In 1828, Southern Democrats labeled one of these acts an \"Abomination\", claiming it injured their economic interests. These acts were the main source of federal revenue until the 16th Amendment, which created a graduated income tax. For 10 points, name these legislative acts": {
+    "guess": "Tariff Acts",
+    "confidence": [
+      [
+        "Tar",
+        -0.0009190816
+      ],
+      [
+        "iff",
+        -0.3868713
+      ],
+      [
+        " Acts",
+        -0.079009205
+      ]
+    ]
+  },
+  "William Morrison's review of the \"Mongrel\" one of these acts was resisted by Republicans and industries alike. President Polk passed one of these acts standardizing ad valorem rates on specific goods, and that was the \"Walker\" one. One of these acts set zero rates on wool and iron ore, and that was the Underwood-Simmons Act. In 1828, Southern Democrats labeled one of these acts an \"Abomination\", claiming it injured their economic interests. These acts were the main source of federal revenue until the 16th Amendment, which created a graduated income tax. For 10 points, name these legislative acts which levy taxes on imported or exported goods.": {
+    "guess": "Tariff Acts",
+    "confidence": [
+      [
+        "Tar",
+        -0.0002663424
+      ],
+      [
+        "iff",
+        -0.25192907
+      ],
+      [
+        " Acts",
+        -0.05203082
+      ]
+    ]
+  }
+}

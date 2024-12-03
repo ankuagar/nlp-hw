@@ -1,0 +1,603 @@
+{
+  "It binds close to M2 alpha helices with aspartate residues that repel negative charges, at alpha-gamma": {
+    "guess": "Acetylcholine receptor",
+    "confidence": [
+      [
+        "Ac",
+        -0.2844232
+      ],
+      [
+        "et",
+        0.0
+      ],
+      [
+        "ylch",
+        -9.0883464e-07
+      ],
+      [
+        "oline",
+        -1.8624639e-06
+      ],
+      [
+        " receptor",
+        -4.6563837e-05
+      ]
+    ]
+  },
+  "It binds close to M2 alpha helices with aspartate residues that repel negative charges, at alpha-gamma and alpha-delta junctions of an alpha-2-beta-gamma-delta pentamer. Botulin acts by blocking its release,": {
+    "guess": "Acetylcholine",
+    "confidence": [
+      [
+        "Ac",
+        -0.0019526604
+      ],
+      [
+        "et",
+        0.0
+      ],
+      [
+        "ylch",
+        0.0
+      ],
+      [
+        "oline",
+        0.0
+      ]
+    ]
+  },
+  "It binds close to M2 alpha helices with aspartate residues that repel negative charges, at alpha-gamma and alpha-delta junctions of an alpha-2-beta-gamma-delta pentamer. Botulin acts by blocking its release, while atropine does so by blocking its receptors, and the disease known as myasthenia gravis": {
+    "guess": "Acetylcholine",
+    "confidence": [
+      [
+        "Ac",
+        -0.0015127198
+      ],
+      [
+        "et",
+        -1.9361265e-07
+      ],
+      [
+        "ylch",
+        0.0
+      ],
+      [
+        "oline",
+        0.0
+      ]
+    ]
+  },
+  "It binds close to M2 alpha helices with aspartate residues that repel negative charges, at alpha-gamma and alpha-delta junctions of an alpha-2-beta-gamma-delta pentamer. Botulin acts by blocking its release, while atropine does so by blocking its receptors, and the disease known as myasthenia gravis occurs when the body produces antibodies against its receptors. The first neurotransmitter to be identified,": {
+    "guess": "Acetylcholine",
+    "confidence": [
+      [
+        "Ac",
+        -6.420598e-05
+      ],
+      [
+        "et",
+        0.0
+      ],
+      [
+        "ylch",
+        0.0
+      ],
+      [
+        "oline",
+        0.0
+      ]
+    ]
+  },
+  "It binds close to M2 alpha helices with aspartate residues that repel negative charges, at alpha-gamma and alpha-delta junctions of an alpha-2-beta-gamma-delta pentamer. Botulin acts by blocking its release, while atropine does so by blocking its receptors, and the disease known as myasthenia gravis occurs when the body produces antibodies against its receptors. The first neurotransmitter to be identified, it is also the only one broken down by its namesake esterase. FTP, name this compound that": {
+    "guess": "Acetylcholine",
+    "confidence": [
+      [
+        "Ac",
+        -0.00033629662
+      ],
+      [
+        "et",
+        0.0
+      ],
+      [
+        "ylch",
+        0.0
+      ],
+      [
+        "oline",
+        0.0
+      ]
+    ]
+  },
+  "It binds close to M2 alpha helices with aspartate residues that repel negative charges, at alpha-gamma and alpha-delta junctions of an alpha-2-beta-gamma-delta pentamer. Botulin acts by blocking its release, while atropine does so by blocking its receptors, and the disease known as myasthenia gravis occurs when the body produces antibodies against its receptors. The first neurotransmitter to be identified, it is also the only one broken down by its namesake esterase. FTP, name this compound that binds to both nicotinic and muscarinic receptors, crucial for acting in neuromuscular junctions to generate": {
+    "guess": "Acetylcholine",
+    "confidence": [
+      [
+        "Ac",
+        -0.00031639694
+      ],
+      [
+        "et",
+        0.0
+      ],
+      [
+        "ylch",
+        0.0
+      ],
+      [
+        "oline",
+        0.0
+      ]
+    ]
+  },
+  "It binds close to M2 alpha helices with aspartate residues that repel negative charges, at alpha-gamma and alpha-delta junctions of an alpha-2-beta-gamma-delta pentamer. Botulin acts by blocking its release, while atropine does so by blocking its receptors, and the disease known as myasthenia gravis occurs when the body produces antibodies against its receptors. The first neurotransmitter to be identified, it is also the only one broken down by its namesake esterase. FTP, name this compound that binds to both nicotinic and muscarinic receptors, crucial for acting in neuromuscular junctions to generate muscle contractions.": {
+    "guess": "Acetylcholine",
+    "confidence": [
+      [
+        "Ac",
+        -0.00014954848
+      ],
+      [
+        "et",
+        0.0
+      ],
+      [
+        "ylch",
+        0.0
+      ],
+      [
+        "oline",
+        0.0
+      ]
+    ]
+  },
+  "Binary coding based on these values depends on Zeckendorf's theorem, which states that any integer can": {
+    "guess": "Zeckendorf's theorem",
+    "confidence": [
+      [
+        "Ze",
+        -0.11971061
+      ],
+      [
+        "ck",
+        -3.1281633e-07
+      ],
+      [
+        "endorf",
+        -4.3202e-07
+      ],
+      [
+        "'s",
+        -0.0027429354
+      ],
+      [
+        " theorem",
+        -0.0013654737
+      ]
+    ]
+  },
+  "Binary coding based on these values depends on Zeckendorf's theorem, which states that any integer can be written as the sum of any one or more of them. Euclid's algorithm for finding a greatest common": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -0.023549777
+      ],
+      [
+        "ibonacci",
+        -1.9361265e-07
+      ],
+      [
+        " number",
+        -0.578622
+      ]
+    ]
+  },
+  "Binary coding based on these values depends on Zeckendorf's theorem, which states that any integer can be written as the sum of any one or more of them. Euclid's algorithm for finding a greatest common divisor has a worst-case runtime when consecutive values of this type are inputted. A namesake type": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -0.0007448296
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -5.8245798e-05
+      ]
+    ]
+  },
+  "Binary coding based on these values depends on Zeckendorf's theorem, which states that any integer can be written as the sum of any one or more of them. Euclid's algorithm for finding a greatest common divisor has a worst-case runtime when consecutive values of this type are inputted. A namesake type of heap uses these numbers in its runtime analysis. The ratio of consecutive numbers of this type approaches": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -0.0020699678
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -6.9882217e-06
+      ]
+    ]
+  },
+  "Binary coding based on these values depends on Zeckendorf's theorem, which states that any integer can be written as the sum of any one or more of them. Euclid's algorithm for finding a greatest common divisor has a worst-case runtime when consecutive values of this type are inputted. A namesake type of heap uses these numbers in its runtime analysis. The ratio of consecutive numbers of this type approaches the golden ratio. For 10 points, name these numbers, which comprise a sequence that begins": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -0.0002972088
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -9.388769e-05
+      ]
+    ]
+  },
+  "Binary coding based on these values depends on Zeckendorf's theorem, which states that any integer can be written as the sum of any one or more of them. Euclid's algorithm for finding a greatest common divisor has a worst-case runtime when consecutive values of this type are inputted. A namesake type of heap uses these numbers in its runtime analysis. The ratio of consecutive numbers of this type approaches the golden ratio. For 10 points, name these numbers, which comprise a sequence that begins 1, 1, 2, 3, 5, and are named for an Italian mathematician.": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -0.0001406082
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -0.000305311
+      ]
+    ]
+  },
+  "The Binet-Cauchy multiplication theorem applies to these functions, and the Sylvester theorem about this": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.4474286
+      ],
+      [
+        "ermin",
+        0.0
+      ],
+      [
+        "ant",
+        -0.00074530643
+      ]
+    ]
+  },
+  "The Binet-Cauchy multiplication theorem applies to these functions, and the Sylvester theorem about this function was published without a proof. Successive differentiation is used to determine linear independence": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.31925175
+      ],
+      [
+        "ermin",
+        -5.5122365e-07
+      ],
+      [
+        "ant",
+        -0.0017981117
+      ]
+    ]
+  },
+  "The Binet-Cauchy multiplication theorem applies to these functions, and the Sylvester theorem about this function was published without a proof. Successive differentiation is used to determine linear independence in the Wronskian type of this function. It can also be broken down to smaller cases by finding": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.07633256
+      ],
+      [
+        "ermin",
+        0.0
+      ],
+      [
+        "ant",
+        -0.00034332962
+      ]
+    ]
+  },
+  "The Binet-Cauchy multiplication theorem applies to these functions, and the Sylvester theorem about this function was published without a proof. Successive differentiation is used to determine linear independence in the Wronskian type of this function. It can also be broken down to smaller cases by finding the cofactors and related minors. Cramer's rule uses ratios of these functions to solve linear": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.0016660157
+      ],
+      [
+        "ermin",
+        0.0
+      ],
+      [
+        "ant",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "The Binet-Cauchy multiplication theorem applies to these functions, and the Sylvester theorem about this function was published without a proof. Successive differentiation is used to determine linear independence in the Wronskian type of this function. It can also be broken down to smaller cases by finding the cofactors and related minors. Cramer's rule uses ratios of these functions to solve linear equations, and if it is equal to zero, a matrix is called \"singular.\" For 10 points, identify this": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.00016539889
+      ],
+      [
+        "ermin",
+        0.0
+      ],
+      [
+        "ant",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Binet-Cauchy multiplication theorem applies to these functions, and the Sylvester theorem about this function was published without a proof. Successive differentiation is used to determine linear independence in the Wronskian type of this function. It can also be broken down to smaller cases by finding the cofactors and related minors. Cramer's rule uses ratios of these functions to solve linear equations, and if it is equal to zero, a matrix is called \"singular.\" For 10 points, identify this quantity, which for a 2 by 2 matrix is given by ad minus bc.": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.0006629954
+      ],
+      [
+        "ermin",
+        0.0
+      ],
+      [
+        "ant",
+        0.0
+      ]
+    ]
+  },
+  "Binnig, Quate, and Gerber invented one type of these devices that measures piezoelectric forces on a": {
+    "guess": "Atomic force microscope",
+    "confidence": [
+      [
+        "Atomic",
+        -0.0008606039
+      ],
+      [
+        " force",
+        -0.25227836
+      ],
+      [
+        " microscope",
+        -0.0024762547
+      ]
+    ]
+  },
+  "Binnig, Quate, and Gerber invented one type of these devices that measures piezoelectric forces on a cantilever, called the atomic force one, while a dichroic filter can be used as a beam splitter in the": {
+    "guess": "Fluorescence microscope",
+    "confidence": [
+      [
+        "Fl",
+        -0.46024984
+      ],
+      [
+        "u",
+        -1.9361265e-07
+      ],
+      [
+        "ores",
+        -2.3392786e-06
+      ],
+      [
+        "cence",
+        -4.012684e-05
+      ],
+      [
+        " microscope",
+        -0.5105127
+      ]
+    ]
+  },
+  "Binnig, Quate, and Gerber invented one type of these devices that measures piezoelectric forces on a cantilever, called the atomic force one, while a dichroic filter can be used as a beam splitter in the fluorescence type of them. Ernst Ruska built one type of these instruments that can analyze surface": {
+    "guess": "Microscope",
+    "confidence": [
+      [
+        "Mic",
+        -0.004195456
+      ],
+      [
+        "roscope",
+        -0.0025991995
+      ]
+    ]
+  },
+  "Binnig, Quate, and Gerber invented one type of these devices that measures piezoelectric forces on a cantilever, called the atomic force one, while a dichroic filter can be used as a beam splitter in the fluorescence type of them. Ernst Ruska built one type of these instruments that can analyze surface topology through raster scanning of (*) electrons, and Anton van Leeuwenhoek used the optical variety": {
+    "guess": "Microscope",
+    "confidence": [
+      [
+        "Mic",
+        -0.0050007016
+      ],
+      [
+        "roscope",
+        -0.0007682944
+      ]
+    ]
+  },
+  "Binnig, Quate, and Gerber invented one type of these devices that measures piezoelectric forces on a cantilever, called the atomic force one, while a dichroic filter can be used as a beam splitter in the fluorescence type of them. Ernst Ruska built one type of these instruments that can analyze surface topology through raster scanning of (*) electrons, and Anton van Leeuwenhoek used the optical variety of these devices to obtain the first observations of blood cells and bacteria. For ten points,": {
+    "guess": "Microscope",
+    "confidence": [
+      [
+        "Mic",
+        -0.013019631
+      ],
+      [
+        "roscope",
+        -0.00050561165
+      ]
+    ]
+  },
+  "Binnig, Quate, and Gerber invented one type of these devices that measures piezoelectric forces on a cantilever, called the atomic force one, while a dichroic filter can be used as a beam splitter in the fluorescence type of them. Ernst Ruska built one type of these instruments that can analyze surface topology through raster scanning of (*) electrons, and Anton van Leeuwenhoek used the optical variety of these devices to obtain the first observations of blood cells and bacteria. For ten points, identify these instruments used to view objects that are too small for the naked eye.": {
+    "guess": "Microscope",
+    "confidence": [
+      [
+        "Mic",
+        -0.009831412
+      ],
+      [
+        "roscope",
+        -0.00071529276
+      ]
+    ]
+  },
+  "The binding domain of one type of this molecule in the virus that causes hepatitis C has a highly conserved": {
+    "guess": "Internal ribosome entry site",
+    "confidence": [
+      [
+        "Internal",
+        -0.8045958
+      ],
+      [
+        " rib",
+        -0.009756205
+      ],
+      [
+        "osome",
+        -9.615256e-05
+      ],
+      [
+        " entry",
+        -1.9361265e-07
+      ],
+      [
+        " site",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The binding domain of one type of this molecule in the virus that causes hepatitis C has a highly conserved TATPP sequence. A mutation in the RecQ family of these is the culprit in Werner's syndrome. One": {
+    "guess": "RNA helicase",
+    "confidence": [
+      [
+        "RNA",
+        -0.32576507
+      ],
+      [
+        " helic",
+        -0.2746189
+      ],
+      [
+        "ase",
+        -0.38687527
+      ]
+    ]
+  },
+  "The binding domain of one type of this molecule in the virus that causes hepatitis C has a highly conserved TATPP sequence. A mutation in the RecQ family of these is the culprit in Werner's syndrome. One family of these in Staphylococcus aureus can be both magnesium- and manganese-dependent. In Drosophila,": {
+    "guess": "Helicase",
+    "confidence": [
+      [
+        "Hel",
+        -0.18933348
+      ],
+      [
+        "ic",
+        -1.9361265e-07
+      ],
+      [
+        "ase",
+        -0.38687104
+      ]
+    ]
+  },
+  "The binding domain of one type of this molecule in the virus that causes hepatitis C has a highly conserved TATPP sequence. A mutation in the RecQ family of these is the culprit in Werner's syndrome. One family of these in Staphylococcus aureus can be both magnesium- and manganese-dependent. In Drosophila, an analog of the human DDX type of these called Abstrakt is crucial for central nervous system": {
+    "guess": "Helicase",
+    "confidence": [
+      [
+        "Hel",
+        -0.030614022
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "ase",
+        -0.6931472
+      ]
+    ]
+  },
+  "The binding domain of one type of this molecule in the virus that causes hepatitis C has a highly conserved TATPP sequence. A mutation in the RecQ family of these is the culprit in Werner's syndrome. One family of these in Staphylococcus aureus can be both magnesium- and manganese-dependent. In Drosophila, an analog of the human DDX type of these called Abstrakt is crucial for central nervous system development. The hexameric B type in E. coli uses covalent interactions with a beta (*) clamp-loading": {
+    "guess": "Helicase",
+    "confidence": [
+      [
+        "Hel",
+        -0.0012603527
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "ase",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The binding domain of one type of this molecule in the virus that causes hepatitis C has a highly conserved TATPP sequence. A mutation in the RecQ family of these is the culprit in Werner's syndrome. One family of these in Staphylococcus aureus can be both magnesium- and manganese-dependent. In Drosophila, an analog of the human DDX type of these called Abstrakt is crucial for central nervous system development. The hexameric B type in E. coli uses covalent interactions with a beta (*) clamp-loading complex to coordinate its activities on the lagging and leading strands of the molecule it affects.": {
+    "guess": "Helicase",
+    "confidence": [
+      [
+        "Hel",
+        -0.014824745
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "ase",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "The binding domain of one type of this molecule in the virus that causes hepatitis C has a highly conserved TATPP sequence. A mutation in the RecQ family of these is the culprit in Werner's syndrome. One family of these in Staphylococcus aureus can be both magnesium- and manganese-dependent. In Drosophila, an analog of the human DDX type of these called Abstrakt is crucial for central nervous system development. The hexameric B type in E. coli uses covalent interactions with a beta (*) clamp-loading complex to coordinate its activities on the lagging and leading strands of the molecule it affects. These enzymes bind to AT-rich sites in order to break hydrogen bonds in those affected molecules": {
+    "guess": "Helicase",
+    "confidence": [
+      [
+        "Hel",
+        -0.009247743
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "ase",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "The binding domain of one type of this molecule in the virus that causes hepatitis C has a highly conserved TATPP sequence. A mutation in the RecQ family of these is the culprit in Werner's syndrome. One family of these in Staphylococcus aureus can be both magnesium- and manganese-dependent. In Drosophila, an analog of the human DDX type of these called Abstrakt is crucial for central nervous system development. The hexameric B type in E. coli uses covalent interactions with a beta (*) clamp-loading complex to coordinate its activities on the lagging and leading strands of the molecule it affects. These enzymes bind to AT-rich sites in order to break hydrogen bonds in those affected molecules to begin replication. For 10 points, name these enzymes that \"unzip\" strands of DNA or RNA.": {
+    "guess": "Helicase",
+    "confidence": [
+      [
+        "Hel",
+        -0.0026396299
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "ase",
+        -2.7610455e-05
+      ]
+    ]
+  }
+}

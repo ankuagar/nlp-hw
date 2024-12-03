@@ -1,0 +1,1892 @@
+{
+  "This river divides into two channels in its upper course to form a large island known as Majuli. It rises": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -0.00016098835
+      ],
+      [
+        "rah",
+        -1.0280384e-06
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -0.004106304
+      ]
+    ]
+  },
+  "This river divides into two channels in its upper course to form a large island known as Majuli. It rises in the Kailas Range near Mapam Lake and is soon joined by the Lohit River. It passes through Xigaze": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -0.000104496816
+      ],
+      [
+        "rah",
+        -6.704273e-07
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -6.241792e-05
+      ]
+    ]
+  },
+  "This river divides into two channels in its upper course to form a large island known as Majuli. It rises in the Kailas Range near Mapam Lake and is soon joined by the Lohit River. It passes through Xigaze early and becomes navigable near Dibrugarh, then passes through Gauhati. One of the few rivers": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -0.00016671013
+      ],
+      [
+        "rah",
+        -9.0883464e-07
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This river divides into two channels in its upper course to form a large island known as Majuli. It rises in the Kailas Range near Mapam Lake and is soon joined by the Lohit River. It passes through Xigaze early and becomes navigable near Dibrugarh, then passes through Gauhati. One of the few rivers to exhibit an eagre or tidal bore, it is known as the Dihang River in the lowland plains and splits": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -0.00043150366
+      ],
+      [
+        "rah",
+        -1.8624639e-06
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This river divides into two channels in its upper course to form a large island known as Majuli. It rises in the Kailas Range near Mapam Lake and is soon joined by the Lohit River. It passes through Xigaze early and becomes navigable near Dibrugarh, then passes through Gauhati. One of the few rivers to exhibit an eagre or tidal bore, it is known as the Dihang River in the lowland plains and splits into the Meghna and the Jamuna rivers when it turns south. FTP, name this river which starts in Tibet,": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -6.6113236e-05
+      ],
+      [
+        "rah",
+        -1.147242e-06
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -0.00151117
+      ]
+    ]
+  },
+  "This river divides into two channels in its upper course to form a large island known as Majuli. It rises in the Kailas Range near Mapam Lake and is soon joined by the Lohit River. It passes through Xigaze early and becomes navigable near Dibrugarh, then passes through Gauhati. One of the few rivers to exhibit an eagre or tidal bore, it is known as the Dihang River in the lowland plains and splits into the Meghna and the Jamuna rivers when it turns south. FTP, name this river which starts in Tibet, flows through southern China, and then turns into Bangladesh where it empties into the Bay of Bengal": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -0.00016778296
+      ],
+      [
+        "rah",
+        -1.147242e-06
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -2.3676734e-05
+      ]
+    ]
+  },
+  "This river divides into two channels in its upper course to form a large island known as Majuli. It rises in the Kailas Range near Mapam Lake and is soon joined by the Lohit River. It passes through Xigaze early and becomes navigable near Dibrugarh, then passes through Gauhati. One of the few rivers to exhibit an eagre or tidal bore, it is known as the Dihang River in the lowland plains and splits into the Meghna and the Jamuna rivers when it turns south. FTP, name this river which starts in Tibet, flows through southern China, and then turns into Bangladesh where it empties into the Bay of Bengal forming a massive delta with the Ganges.": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -8.864273e-05
+      ],
+      [
+        "rah",
+        -1.6240566e-06
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -3.059055e-05
+      ]
+    ]
+  },
+  "This river's tributaries include the Shashe and Mzingwane, but its main tributary is the Olifants River.": {
+    "guess": "Limpopo River",
+    "confidence": [
+      [
+        "L",
+        -0.34851336
+      ],
+      [
+        "imp",
+        0.0
+      ],
+      [
+        "opo",
+        0.0
+      ],
+      [
+        " River",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "This river's tributaries include the Shashe and Mzingwane, but its main tributary is the Olifants River. It cuts through the Hartbeespoort Gap, the site of an irrigation dam. Floods of this river in 2000": {
+    "guess": "Limpopo River floods",
+    "confidence": [
+      [
+        "L",
+        -0.034105618
+      ],
+      [
+        "imp",
+        0.0
+      ],
+      [
+        "opo",
+        0.0
+      ],
+      [
+        " River",
+        -0.00081725046
+      ],
+      [
+        " floods",
+        -0.331855
+      ]
+    ]
+  },
+  "This river's tributaries include the Shashe and Mzingwane, but its main tributary is the Olifants River. It cuts through the Hartbeespoort Gap, the site of an irrigation dam. Floods of this river in 2000 damaged the port city of Xai-xai on this river's mouth. This river is formed where the Marico and": {
+    "guess": "Limpopo River",
+    "confidence": [
+      [
+        "L",
+        -0.034711216
+      ],
+      [
+        "imp",
+        -1.9361265e-07
+      ],
+      [
+        "opo",
+        0.0
+      ],
+      [
+        " River",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This river's tributaries include the Shashe and Mzingwane, but its main tributary is the Olifants River. It cuts through the Hartbeespoort Gap, the site of an irrigation dam. Floods of this river in 2000 damaged the port city of Xai-xai on this river's mouth. This river is formed where the Marico and Crocodile Rivers join together. Its native name may be Sotho for \"river of the waterfall,\" while Espiritu": {
+    "guess": "Limpopo River",
+    "confidence": [
+      [
+        "L",
+        -0.0015309321
+      ],
+      [
+        "imp",
+        -3.1281633e-07
+      ],
+      [
+        "opo",
+        0.0
+      ],
+      [
+        " River",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This river's tributaries include the Shashe and Mzingwane, but its main tributary is the Olifants River. It cuts through the Hartbeespoort Gap, the site of an irrigation dam. Floods of this river in 2000 damaged the port city of Xai-xai on this river's mouth. This river is formed where the Marico and Crocodile Rivers join together. Its native name may be Sotho for \"river of the waterfall,\" while Espiritu Santo River was the name given to this river by the first European to sight it, (*) Vasco de": {
+    "guess": "Limpopo River",
+    "confidence": [
+      [
+        "L",
+        -0.00302406
+      ],
+      [
+        "imp",
+        -5.5122365e-07
+      ],
+      [
+        "opo",
+        0.0
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river's tributaries include the Shashe and Mzingwane, but its main tributary is the Olifants River. It cuts through the Hartbeespoort Gap, the site of an irrigation dam. Floods of this river in 2000 damaged the port city of Xai-xai on this river's mouth. This river is formed where the Marico and Crocodile Rivers join together. Its native name may be Sotho for \"river of the waterfall,\" while Espiritu Santo River was the name given to this river by the first European to sight it, (*) Vasco de Gama. This river is the namesake of a province once known as Northern ? Transvaal, which it divides": {
+    "guess": "Limpopo River",
+    "confidence": [
+      [
+        "L",
+        -0.003215261
+      ],
+      [
+        "imp",
+        -2.577686e-06
+      ],
+      [
+        "opo",
+        0.0
+      ],
+      [
+        " River",
+        -5.4385737e-06
+      ]
+    ]
+  },
+  "This river's tributaries include the Shashe and Mzingwane, but its main tributary is the Olifants River. It cuts through the Hartbeespoort Gap, the site of an irrigation dam. Floods of this river in 2000 damaged the port city of Xai-xai on this river's mouth. This river is formed where the Marico and Crocodile Rivers join together. Its native name may be Sotho for \"river of the waterfall,\" while Espiritu Santo River was the name given to this river by the first European to sight it, (*) Vasco de Gama. This river is the namesake of a province once known as Northern ? Transvaal, which it divides from a northern neighbor home to this river's drainage basin in the Kalahari Desert. For 10 points,": {
+    "guess": "Limpopo River",
+    "confidence": [
+      [
+        "L",
+        -0.011939926
+      ],
+      [
+        "imp",
+        -5.5122365e-07
+      ],
+      [
+        "opo",
+        0.0
+      ],
+      [
+        " River",
+        -1.7954959e-05
+      ]
+    ]
+  },
+  "This river's tributaries include the Shashe and Mzingwane, but its main tributary is the Olifants River. It cuts through the Hartbeespoort Gap, the site of an irrigation dam. Floods of this river in 2000 damaged the port city of Xai-xai on this river's mouth. This river is formed where the Marico and Crocodile Rivers join together. Its native name may be Sotho for \"river of the waterfall,\" while Espiritu Santo River was the name given to this river by the first European to sight it, (*) Vasco de Gama. This river is the namesake of a province once known as Northern ? Transvaal, which it divides from a northern neighbor home to this river's drainage basin in the Kalahari Desert. For 10 points, name this African river that forms the border between Zimbabwe and South Africa before emptying into": {
+    "guess": "Limpopo River",
+    "confidence": [
+      [
+        "L",
+        -0.003949456
+      ],
+      [
+        "imp",
+        0.0
+      ],
+      [
+        "opo",
+        0.0
+      ],
+      [
+        " River",
+        -7.703444e-06
+      ]
+    ]
+  },
+  "This river's tributaries include the Shashe and Mzingwane, but its main tributary is the Olifants River. It cuts through the Hartbeespoort Gap, the site of an irrigation dam. Floods of this river in 2000 damaged the port city of Xai-xai on this river's mouth. This river is formed where the Marico and Crocodile Rivers join together. Its native name may be Sotho for \"river of the waterfall,\" while Espiritu Santo River was the name given to this river by the first European to sight it, (*) Vasco de Gama. This river is the namesake of a province once known as Northern ? Transvaal, which it divides from a northern neighbor home to this river's drainage basin in the Kalahari Desert. For 10 points, name this African river that forms the border between Zimbabwe and South Africa before emptying into the Indian Ocean.": {
+    "guess": "Limpopo River",
+    "confidence": [
+      [
+        "L",
+        -0.004393679
+      ],
+      [
+        "imp",
+        -1.9361265e-07
+      ],
+      [
+        "opo",
+        0.0
+      ],
+      [
+        " River",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "This river rises on the Two Oceans Plateau and receives the Pacific Branch of Two Oceans Creek near Moran": {
+    "guess": "Two Ocean Pass",
+    "confidence": [
+      [
+        "Two",
+        -0.89686316
+      ],
+      [
+        " Ocean",
+        -0.00016527968
+      ],
+      [
+        " Pass",
+        -0.35045305
+      ]
+    ]
+  },
+  "This river rises on the Two Oceans Plateau and receives the Pacific Branch of Two Oceans Creek near Moran Junction. Much of this river's course is located on an arid but fertile plain containing many basalt": {
+    "guess": "Snake River",
+    "confidence": [
+      [
+        "Snake",
+        -0.026795065
+      ],
+      [
+        " River",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This river rises on the Two Oceans Plateau and receives the Pacific Branch of Two Oceans Creek near Moran Junction. Much of this river's course is located on an arid but fertile plain containing many basalt flows as well as the sinks of the Lost River and was also the route of the catastrophic draining": {
+    "guess": "Snake River",
+    "confidence": [
+      [
+        "Snake",
+        -0.13010962
+      ],
+      [
+        " River",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This river rises on the Two Oceans Plateau and receives the Pacific Branch of Two Oceans Creek near Moran Junction. Much of this river's course is located on an arid but fertile plain containing many basalt flows as well as the sinks of the Lost River and was also the route of the catastrophic draining of Lake Bonneville. This river's tributaries include the Palouse and Henrys Fork and the Shoshone": {
+    "guess": "Snake River",
+    "confidence": [
+      [
+        "Snake",
+        -0.004821819
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river rises on the Two Oceans Plateau and receives the Pacific Branch of Two Oceans Creek near Moran Junction. Much of this river's course is located on an arid but fertile plain containing many basalt flows as well as the sinks of the Lost River and was also the route of the catastrophic draining of Lake Bonneville. This river's tributaries include the Palouse and Henrys Fork and the Shoshone Falls is located on this river which passes next to Fort Hall and the Craters of the Moon National": {
+    "guess": "Snake River",
+    "confidence": [
+      [
+        "Snake",
+        -0.0009885076
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river rises on the Two Oceans Plateau and receives the Pacific Branch of Two Oceans Creek near Moran Junction. Much of this river's course is located on an arid but fertile plain containing many basalt flows as well as the sinks of the Lost River and was also the route of the catastrophic draining of Lake Bonneville. This river's tributaries include the Palouse and Henrys Fork and the Shoshone Falls is located on this river which passes next to Fort Hall and the Craters of the Moon National Monument. Its largest tributary is the Salmon, which it meets near the Seven Devils Mountains in Hells": {
+    "guess": "Snake River",
+    "confidence": [
+      [
+        "Snake",
+        -0.01981744
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river rises on the Two Oceans Plateau and receives the Pacific Branch of Two Oceans Creek near Moran Junction. Much of this river's course is located on an arid but fertile plain containing many basalt flows as well as the sinks of the Lost River and was also the route of the catastrophic draining of Lake Bonneville. This river's tributaries include the Palouse and Henrys Fork and the Shoshone Falls is located on this river which passes next to Fort Hall and the Craters of the Moon National Monument. Its largest tributary is the Salmon, which it meets near the Seven Devils Mountains in Hells Canyon Gorge, before it forms part of the Oregon-Idaho border. For 10 points, identify this river": {
+    "guess": "Snake River",
+    "confidence": [
+      [
+        "Snake",
+        -0.009035824
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river rises on the Two Oceans Plateau and receives the Pacific Branch of Two Oceans Creek near Moran Junction. Much of this river's course is located on an arid but fertile plain containing many basalt flows as well as the sinks of the Lost River and was also the route of the catastrophic draining of Lake Bonneville. This river's tributaries include the Palouse and Henrys Fork and the Shoshone Falls is located on this river which passes next to Fort Hall and the Craters of the Moon National Monument. Its largest tributary is the Salmon, which it meets near the Seven Devils Mountains in Hells Canyon Gorge, before it forms part of the Oregon-Idaho border. For 10 points, identify this river that flows through Grand Teton National Park and is the largest tributary of the Columbia River.": {
+    "guess": "Snake River",
+    "confidence": [
+      [
+        "Snake",
+        -0.0008486982
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river's headwaters are located on Delgado Chalbaud mountain, and it receives its first significant": {
+    "guess": "Orinoco River",
+    "confidence": [
+      [
+        "Or",
+        -0.0014076132
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "oco",
+        -1.9361265e-07
+      ],
+      [
+        " River",
+        -0.0003584648
+      ]
+    ]
+  },
+  "This river's headwaters are located on Delgado Chalbaud mountain, and it receives its first significant tributary, the Ugueto River, before passing over the Guaharibos Rapids. After receiving such additional": {
+    "guess": "Orinoco River",
+    "confidence": [
+      [
+        "Or",
+        -0.06884305
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "oco",
+        -1.9361265e-07
+      ],
+      [
+        " River",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "This river's headwaters are located on Delgado Chalbaud mountain, and it receives its first significant tributary, the Ugueto River, before passing over the Guaharibos Rapids. After receiving such additional tributaries as the Atabapo and Ventuari Rivers, it widens to almost 5000 feet, though it is not": {
+    "guess": "Orinoco River",
+    "confidence": [
+      [
+        "Or",
+        -0.0034695175
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "oco",
+        0.0
+      ],
+      [
+        " River",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "This river's headwaters are located on Delgado Chalbaud mountain, and it receives its first significant tributary, the Ugueto River, before passing over the Guaharibos Rapids. After receiving such additional tributaries as the Atabapo and Ventuari Rivers, it widens to almost 5000 feet, though it is not navigable near the rapids at Maipures. The Guri and Macagua dams, found on its tributary the (*)": {
+    "guess": "Orinoco River",
+    "confidence": [
+      [
+        "Or",
+        -0.00330367
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "oco",
+        -1.9361265e-07
+      ],
+      [
+        " River",
+        -0.00016718694
+      ]
+    ]
+  },
+  "This river's headwaters are located on Delgado Chalbaud mountain, and it receives its first significant tributary, the Ugueto River, before passing over the Guaharibos Rapids. After receiving such additional tributaries as the Atabapo and Ventuari Rivers, it widens to almost 5000 feet, though it is not navigable near the rapids at Maipures. The Guri and Macagua dams, found on its tributary the (*) Caroni River, provide power to the region encompassing Ciudad Bolivar and Ciudad Guayana, which are": {
+    "guess": "Orinoco River",
+    "confidence": [
+      [
+        "Or",
+        -0.00038217165
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "oco",
+        0.0
+      ],
+      [
+        " River",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "This river's headwaters are located on Delgado Chalbaud mountain, and it receives its first significant tributary, the Ugueto River, before passing over the Guaharibos Rapids. After receiving such additional tributaries as the Atabapo and Ventuari Rivers, it widens to almost 5000 feet, though it is not navigable near the rapids at Maipures. The Guri and Macagua dams, found on its tributary the (*) Caroni River, provide power to the region encompassing Ciudad Bolivar and Ciudad Guayana, which are located near its banks. Its delta is found in the Gulf of Paria, while it is connected via the Casiquiare": {
+    "guess": "Orinoco",
+    "confidence": [
+      [
+        "Or",
+        -0.0017754998
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "oco",
+        0.0
+      ]
+    ]
+  },
+  "This river's headwaters are located on Delgado Chalbaud mountain, and it receives its first significant tributary, the Ugueto River, before passing over the Guaharibos Rapids. After receiving such additional tributaries as the Atabapo and Ventuari Rivers, it widens to almost 5000 feet, though it is not navigable near the rapids at Maipures. The Guri and Macagua dams, found on its tributary the (*) Caroni River, provide power to the region encompassing Ciudad Bolivar and Ciudad Guayana, which are located near its banks. Its delta is found in the Gulf of Paria, while it is connected via the Casiquiare Canal to the Rio Negro, which eventually flows into the Amazon. Flowing through the Llanos, its": {
+    "guess": "Orinoco",
+    "confidence": [
+      [
+        "Or",
+        -0.00019853383
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "oco",
+        0.0
+      ]
+    ]
+  },
+  "This river's headwaters are located on Delgado Chalbaud mountain, and it receives its first significant tributary, the Ugueto River, before passing over the Guaharibos Rapids. After receiving such additional tributaries as the Atabapo and Ventuari Rivers, it widens to almost 5000 feet, though it is not navigable near the rapids at Maipures. The Guri and Macagua dams, found on its tributary the (*) Caroni River, provide power to the region encompassing Ciudad Bolivar and Ciudad Guayana, which are located near its banks. Its delta is found in the Gulf of Paria, while it is connected via the Casiquiare Canal to the Rio Negro, which eventually flows into the Amazon. Flowing through the Llanos, its drainage basin encompasses parts of Colombia and most of Venezuela. For 10 points, name this South": {
+    "guess": "Orinoco",
+    "confidence": [
+      [
+        "Or",
+        -5.0616763e-05
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "oco",
+        0.0
+      ]
+    ]
+  },
+  "This river's headwaters are located on Delgado Chalbaud mountain, and it receives its first significant tributary, the Ugueto River, before passing over the Guaharibos Rapids. After receiving such additional tributaries as the Atabapo and Ventuari Rivers, it widens to almost 5000 feet, though it is not navigable near the rapids at Maipures. The Guri and Macagua dams, found on its tributary the (*) Caroni River, provide power to the region encompassing Ciudad Bolivar and Ciudad Guayana, which are located near its banks. Its delta is found in the Gulf of Paria, while it is connected via the Casiquiare Canal to the Rio Negro, which eventually flows into the Amazon. Flowing through the Llanos, its drainage basin encompasses parts of Colombia and most of Venezuela. For 10 points, name this South American river.": {
+    "guess": "Orinoco River",
+    "confidence": [
+      [
+        "Or",
+        -5.9795446e-05
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "oco",
+        0.0
+      ],
+      [
+        " River",
+        -0.47410193
+      ]
+    ]
+  },
+  "This river drops into the Hula Valley after the Hasbaya, Baniyas, and Hasbani Rivers rise and converge": {
+    "guess": "Jordan River",
+    "confidence": [
+      [
+        "Jordan",
+        -6.146429e-05
+      ],
+      [
+        " River",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This river drops into the Hula Valley after the Hasbaya, Baniyas, and Hasbani Rivers rise and converge from Mount Hermon. Its two largest tributaries are the Zarqa and Yarmouk rivers. Degania, the oldest": {
+    "guess": "Jordan River",
+    "confidence": [
+      [
+        "Jordan",
+        -1.8193366e-05
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river drops into the Hula Valley after the Hasbaya, Baniyas, and Hasbani Rivers rise and converge from Mount Hermon. Its two largest tributaries are the Zarqa and Yarmouk rivers. Degania, the oldest kibbutz in the world, is located on the shores of this river, which flows into the Sea of Galilee": {
+    "guess": "Jordan River",
+    "confidence": [
+      [
+        "Jordan",
+        -1.5928495e-05
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river drops into the Hula Valley after the Hasbaya, Baniyas, and Hasbani Rivers rise and converge from Mount Hermon. Its two largest tributaries are the Zarqa and Yarmouk rivers. Degania, the oldest kibbutz in the world, is located on the shores of this river, which flows into the Sea of Galilee and ends at the Dead Sea. Saint John the Baptist baptized Jesus at the site of this river. This river": {
+    "guess": "Jordan River",
+    "confidence": [
+      [
+        "Jordan",
+        -0.0014063056
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river drops into the Hula Valley after the Hasbaya, Baniyas, and Hasbani Rivers rise and converge from Mount Hermon. Its two largest tributaries are the Zarqa and Yarmouk rivers. Degania, the oldest kibbutz in the world, is located on the shores of this river, which flows into the Sea of Galilee and ends at the Dead Sea. Saint John the Baptist baptized Jesus at the site of this river. This river rises from the Syria-Lebanon border to form a border between a namesake country and Israel, for 10": {
+    "guess": "Jordan River",
+    "confidence": [
+      [
+        "Jordan",
+        -0.0001468068
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river drops into the Hula Valley after the Hasbaya, Baniyas, and Hasbani Rivers rise and converge from Mount Hermon. Its two largest tributaries are the Zarqa and Yarmouk rivers. Degania, the oldest kibbutz in the world, is located on the shores of this river, which flows into the Sea of Galilee and ends at the Dead Sea. Saint John the Baptist baptized Jesus at the site of this river. This river rises from the Syria-Lebanon border to form a border between a namesake country and Israel, for 10 points, name this Middle Eastern river which shares a name with both a country whose capital is located": {
+    "guess": "Jordan River",
+    "confidence": [
+      [
+        "Jordan",
+        -0.0026290426
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river drops into the Hula Valley after the Hasbaya, Baniyas, and Hasbani Rivers rise and converge from Mount Hermon. Its two largest tributaries are the Zarqa and Yarmouk rivers. Degania, the oldest kibbutz in the world, is located on the shores of this river, which flows into the Sea of Galilee and ends at the Dead Sea. Saint John the Baptist baptized Jesus at the site of this river. This river rises from the Syria-Lebanon border to form a border between a namesake country and Israel, for 10 points, name this Middle Eastern river which shares a name with both a country whose capital is located at Amman and a former Chicago Bulls basketball player.": {
+    "guess": "Jordan River",
+    "confidence": [
+      [
+        "Jordan",
+        -0.00048620347
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river originates near Mount Kailash as the Yarlung Tsangpo River, before flowing east towards Mount": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -0.0051338966
+      ],
+      [
+        "rah",
+        -2.3392786e-06
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "This river originates near Mount Kailash as the Yarlung Tsangpo River, before flowing east towards Mount Namcha Barwa. This river is called the Siang when it enters Arunachal Pradesh before being joined": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -0.0006620417
+      ],
+      [
+        "rah",
+        -3.0545007e-06
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -0.0024971832
+      ]
+    ]
+  },
+  "This river originates near Mount Kailash as the Yarlung Tsangpo River, before flowing east towards Mount Namcha Barwa. This river is called the Siang when it enters Arunachal Pradesh before being joined by the Lohit and Dibang rivers. This river flows past notable locales, such as the Kaziranga National": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -0.00014716439
+      ],
+      [
+        "rah",
+        -2.1008714e-06
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -0.001181062
+      ]
+    ]
+  },
+  "This river originates near Mount Kailash as the Yarlung Tsangpo River, before flowing east towards Mount Namcha Barwa. This river is called the Siang when it enters Arunachal Pradesh before being joined by the Lohit and Dibang rivers. This river flows past notable locales, such as the Kaziranga National Park in the state of Assam, before entering its final leg, where this river splits into a lower": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -0.0003602529
+      ],
+      [
+        "rah",
+        -2.3392786e-06
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -0.00010127832
+      ]
+    ]
+  },
+  "This river originates near Mount Kailash as the Yarlung Tsangpo River, before flowing east towards Mount Namcha Barwa. This river is called the Siang when it enters Arunachal Pradesh before being joined by the Lohit and Dibang rivers. This river flows past notable locales, such as the Kaziranga National Park in the state of Assam, before entering its final leg, where this river splits into a lower branch and the Jamuna branch which flows into the Padma. Beginning in southeastern China before flowing": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -0.00061915047
+      ],
+      [
+        "rah",
+        -1.504853e-06
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -0.00055994286
+      ]
+    ]
+  },
+  "This river originates near Mount Kailash as the Yarlung Tsangpo River, before flowing east towards Mount Namcha Barwa. This river is called the Siang when it enters Arunachal Pradesh before being joined by the Lohit and Dibang rivers. This river flows past notable locales, such as the Kaziranga National Park in the state of Assam, before entering its final leg, where this river splits into a lower branch and the Jamuna branch which flows into the Padma. Beginning in southeastern China before flowing past India into Bangladesh, for 10 points, name this Asian river that empties into the Bay of Bengal": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -0.00040922358
+      ],
+      [
+        "rah",
+        -1.504853e-06
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -5.3193703e-06
+      ]
+    ]
+  },
+  "This river originates near Mount Kailash as the Yarlung Tsangpo River, before flowing east towards Mount Namcha Barwa. This river is called the Siang when it enters Arunachal Pradesh before being joined by the Lohit and Dibang rivers. This river flows past notable locales, such as the Kaziranga National Park in the state of Assam, before entering its final leg, where this river splits into a lower branch and the Jamuna branch which flows into the Padma. Beginning in southeastern China before flowing past India into Bangladesh, for 10 points, name this Asian river that empties into the Bay of Bengal after merging with the Ganges.": {
+    "guess": "Brahmaputra River",
+    "confidence": [
+      [
+        "B",
+        -0.00032998246
+      ],
+      [
+        "rah",
+        -2.1008714e-06
+      ],
+      [
+        "map",
+        0.0
+      ],
+      [
+        "utra",
+        0.0
+      ],
+      [
+        " River",
+        -9.610702e-06
+      ]
+    ]
+  },
+  "One river in this province, Albany River, flows into James Bay and is used as a boundary between the": {
+    "guess": "Ontario",
+    "confidence": [
+      [
+        "Ontario",
+        -0.0030341593
+      ]
+    ]
+  },
+  "One river in this province, Albany River, flows into James Bay and is used as a boundary between the Kenora District and the Cochrane District. This province also contains the town of Tobermory, in which": {
+    "guess": "Ontario",
+    "confidence": [
+      [
+        "Ontario",
+        -0.0066761854
+      ]
+    ]
+  },
+  "One river in this province, Albany River, flows into James Bay and is used as a boundary between the Kenora District and the Cochrane District. This province also contains the town of Tobermory, in which one can take a ferry from Bruce Peninsula to Manitoulin Island on Lake Huron. Another lake in this": {
+    "guess": "Ontario",
+    "confidence": [
+      [
+        "Ontario",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "One river in this province, Albany River, flows into James Bay and is used as a boundary between the Kenora District and the Cochrane District. This province also contains the town of Tobermory, in which one can take a ferry from Bruce Peninsula to Manitoulin Island on Lake Huron. Another lake in this province, which is shared with Minnesota and Manitoba, is the Lake of the Woods. Bordered to the northeast": {
+    "guess": "Ontario",
+    "confidence": [
+      [
+        "Ontario",
+        -4.1273333e-06
+      ]
+    ]
+  },
+  "One river in this province, Albany River, flows into James Bay and is used as a boundary between the Kenora District and the Cochrane District. This province also contains the town of Tobermory, in which one can take a ferry from Bruce Peninsula to Manitoulin Island on Lake Huron. Another lake in this province, which is shared with Minnesota and Manitoba, is the Lake of the Woods. Bordered to the northeast by Quebec, this province contains both its nation's largest city and capital. For 10 points,": {
+    "guess": "Ontario",
+    "confidence": [
+      [
+        "Ontario",
+        -0.00057352474
+      ]
+    ]
+  },
+  "One river in this province, Albany River, flows into James Bay and is used as a boundary between the Kenora District and the Cochrane District. This province also contains the town of Tobermory, in which one can take a ferry from Bruce Peninsula to Manitoulin Island on Lake Huron. Another lake in this province, which is shared with Minnesota and Manitoba, is the Lake of the Woods. Bordered to the northeast by Quebec, this province contains both its nation's largest city and capital. For 10 points, name this most populous province of Canada that contains the national capital Ottawa, with largest": {
+    "guess": "Ontario",
+    "confidence": [
+      [
+        "Ontario",
+        -0.012515423
+      ]
+    ]
+  },
+  "One river in this province, Albany River, flows into James Bay and is used as a boundary between the Kenora District and the Cochrane District. This province also contains the town of Tobermory, in which one can take a ferry from Bruce Peninsula to Manitoulin Island on Lake Huron. Another lake in this province, which is shared with Minnesota and Manitoba, is the Lake of the Woods. Bordered to the northeast by Quebec, this province contains both its nation's largest city and capital. For 10 points, name this most populous province of Canada that contains the national capital Ottawa, with largest city Toronto.": {
+    "guess": "Ontario",
+    "confidence": [
+      [
+        "Ontario",
+        -0.008668107
+      ]
+    ]
+  },
+  "This river's tributaries include the Iller and Abens Rivers. Previously, this river contained the Ada": {
+    "guess": "Danube",
+    "confidence": [
+      [
+        "Dan",
+        -0.00023047674
+      ],
+      [
+        "ube",
+        0.0
+      ]
+    ]
+  },
+  "This river's tributaries include the Iller and Abens Rivers. Previously, this river contained the Ada Kaleh, now submerged following the construction of the two dams at the Iron Gates. The confluence of": {
+    "guess": "Danube",
+    "confidence": [
+      [
+        "Dan",
+        -1.2829201e-05
+      ],
+      [
+        "ube",
+        0.0
+      ]
+    ]
+  },
+  "This river's tributaries include the Iller and Abens Rivers. Previously, this river contained the Ada Kaleh, now submerged following the construction of the two dams at the Iron Gates. The confluence of this river and the Siret is at the port city of Galati, while this river joins a large tributary called": {
+    "guess": "Danube River",
+    "confidence": [
+      [
+        "Dan",
+        -8.1490514e-05
+      ],
+      [
+        "ube",
+        0.0
+      ],
+      [
+        " River",
+        -1.700133e-05
+      ]
+    ]
+  },
+  "This river's tributaries include the Iller and Abens Rivers. Previously, this river contained the Ada Kaleh, now submerged following the construction of the two dams at the Iron Gates. The confluence of this river and the Siret is at the port city of Galati, while this river joins a large tributary called the Sava in a Balkan capital. Receiving the Tisza in Serbia, this river begins in the Black Forest": {
+    "guess": "Danube River",
+    "confidence": [
+      [
+        "Dan",
+        -3.650519e-06
+      ],
+      [
+        "ube",
+        0.0
+      ],
+      [
+        " River",
+        -7.226629e-06
+      ]
+    ]
+  },
+  "This river's tributaries include the Iller and Abens Rivers. Previously, this river contained the Ada Kaleh, now submerged following the construction of the two dams at the Iron Gates. The confluence of this river and the Siret is at the port city of Galati, while this river joins a large tributary called the Sava in a Balkan capital. Receiving the Tisza in Serbia, this river begins in the Black Forest of Germany and is the second longest river in Europe. For 10 points, name this river that passes": {
+    "guess": "Danube River",
+    "confidence": [
+      [
+        "Dan",
+        -1.3902034e-05
+      ],
+      [
+        "ube",
+        0.0
+      ],
+      [
+        " River",
+        -0.0015052209
+      ]
+    ]
+  },
+  "This river's tributaries include the Iller and Abens Rivers. Previously, this river contained the Ada Kaleh, now submerged following the construction of the two dams at the Iron Gates. The confluence of this river and the Siret is at the port city of Galati, while this river joins a large tributary called the Sava in a Balkan capital. Receiving the Tisza in Serbia, this river begins in the Black Forest of Germany and is the second longest river in Europe. For 10 points, name this river that passes through Belgrade, Budapest, and Vienna, and flows into the Black Sea.": {
+    "guess": "Danube River",
+    "confidence": [
+      [
+        "Dan",
+        -9.865584e-05
+      ],
+      [
+        "ube",
+        0.0
+      ],
+      [
+        " River",
+        -0.00071350473
+      ]
+    ]
+  },
+  "One of this river's headstreams flows through Lakes Bangweulu and Mweru. This river forms the Malebo": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.16484621
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "One of this river's headstreams flows through Lakes Bangweulu and Mweru. This river forms the Malebo Pool, and its source is the Chambeshi River. Boyoma Falls lies on this river, and after it reaches Kisangani,": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -5.538491e-05
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "One of this river's headstreams flows through Lakes Bangweulu and Mweru. This river forms the Malebo Pool, and its source is the Chambeshi River. Boyoma Falls lies on this river, and after it reaches Kisangani, it is no longer called the Lualaba. This river's mouth lies downstream of Boma, which is located": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.00016694854
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One of this river's headstreams flows through Lakes Bangweulu and Mweru. This river forms the Malebo Pool, and its source is the Chambeshi River. Boyoma Falls lies on this river, and after it reaches Kisangani, it is no longer called the Lualaba. This river's mouth lies downstream of Boma, which is located south of Cabinda. Livingstone Falls is located on this river, which receives the Kasai and Ubangi": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -2.1650272e-05
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "One of this river's headstreams flows through Lakes Bangweulu and Mweru. This river forms the Malebo Pool, and its source is the Chambeshi River. Boyoma Falls lies on this river, and after it reaches Kisangani, it is no longer called the Lualaba. This river's mouth lies downstream of Boma, which is located south of Cabinda. Livingstone Falls is located on this river, which receives the Kasai and Ubangi Rivers. This river, which flows through (*) Katanga and receives water from Lake Tanganyika, separates": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.00093420944
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "One of this river's headstreams flows through Lakes Bangweulu and Mweru. This river forms the Malebo Pool, and its source is the Chambeshi River. Boyoma Falls lies on this river, and after it reaches Kisangani, it is no longer called the Lualaba. This river's mouth lies downstream of Boma, which is located south of Cabinda. Livingstone Falls is located on this river, which receives the Kasai and Ubangi Rivers. This river, which flows through (*) Katanga and receives water from Lake Tanganyika, separates the cities of Brazzaville and Kinshasa. For ten points, name this African river which flows": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -8.6616266e-05
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One of this river's headstreams flows through Lakes Bangweulu and Mweru. This river forms the Malebo Pool, and its source is the Chambeshi River. Boyoma Falls lies on this river, and after it reaches Kisangani, it is no longer called the Lualaba. This river's mouth lies downstream of Boma, which is located south of Cabinda. Livingstone Falls is located on this river, which receives the Kasai and Ubangi Rivers. This river, which flows through (*) Katanga and receives water from Lake Tanganyika, separates the cities of Brazzaville and Kinshasa. For ten points, name this African river which flows through a namesake Democratic Republic.": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.00014656837
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man's rivals included Cratinus and Eupolis. In Plato's Symposium, he delivers a speech in which": {
+    "guess": "Aristophanes",
+    "confidence": [
+      [
+        "Ar",
+        -0.00011021859
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "anes",
+        0.0
+      ]
+    ]
+  },
+  "This man's rivals included Cratinus and Eupolis. In Plato's Symposium, he delivers a speech in which he argues that men were originally quadrupeds before being bisected by Zeus, and concludes that love": {
+    "guess": "Aristophanes",
+    "confidence": [
+      [
+        "Ar",
+        -0.0002483463
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "anes",
+        0.0
+      ]
+    ]
+  },
+  "This man's rivals included Cratinus and Eupolis. In Plato's Symposium, he delivers a speech in which he argues that men were originally quadrupeds before being bisected by Zeus, and concludes that love is the pursuit of the other half. His earliest play was the now lost Banqueters, while his second,": {
+    "guess": "Aristophanes",
+    "confidence": [
+      [
+        "Ar",
+        -0.00018852073
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "anes",
+        0.0
+      ]
+    ]
+  },
+  "This man's rivals included Cratinus and Eupolis. In Plato's Symposium, he delivers a speech in which he argues that men were originally quadrupeds before being bisected by Zeus, and concludes that love is the pursuit of the other half. His earliest play was the now lost Banqueters, while his second, Babylonians, criticized the demagogue Cleon, which he continued to do in The Acharnians and The Knights.": {
+    "guess": "Aristophanes",
+    "confidence": [
+      [
+        "Ar",
+        -0.000857743
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "anes",
+        0.0
+      ]
+    ]
+  },
+  "This man's rivals included Cratinus and Eupolis. In Plato's Symposium, he delivers a speech in which he argues that men were originally quadrupeds before being bisected by Zeus, and concludes that love is the pursuit of the other half. His earliest play was the now lost Banqueters, while his second, Babylonians, criticized the demagogue Cleon, which he continued to do in The Acharnians and The Knights. Other plays of his concern the building of Cloudcukooland, a sex-strike by women to end a war,": {
+    "guess": "Aristophanes",
+    "confidence": [
+      [
+        "Ar",
+        -0.0002485847
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "anes",
+        0.0
+      ]
+    ]
+  },
+  "This man's rivals included Cratinus and Eupolis. In Plato's Symposium, he delivers a speech in which he argues that men were originally quadrupeds before being bisected by Zeus, and concludes that love is the pursuit of the other half. His earliest play was the now lost Banqueters, while his second, Babylonians, criticized the demagogue Cleon, which he continued to do in The Acharnians and The Knights. Other plays of his concern the building of Cloudcukooland, a sex-strike by women to end a war, and a literary contest in hell. For ten points, identify this Greek comedian, author of The Birds, Lysistrata,": {
+    "guess": "Aristophanes",
+    "confidence": [
+      [
+        "Ar",
+        -0.014471509
+      ],
+      [
+        "ist",
+        -3.1281633e-07
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "anes",
+        0.0
+      ]
+    ]
+  },
+  "This man's rivals included Cratinus and Eupolis. In Plato's Symposium, he delivers a speech in which he argues that men were originally quadrupeds before being bisected by Zeus, and concludes that love is the pursuit of the other half. His earliest play was the now lost Banqueters, while his second, Babylonians, criticized the demagogue Cleon, which he continued to do in The Acharnians and The Knights. Other plays of his concern the building of Cloudcukooland, a sex-strike by women to end a war, and a literary contest in hell. For ten points, identify this Greek comedian, author of The Birds, Lysistrata, and The Frogs.": {
+    "guess": "Aristophanes",
+    "confidence": [
+      [
+        "Ar",
+        -0.016088922
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "anes",
+        0.0
+      ]
+    ]
+  },
+  "When this man's rival captured his father, he allegedly responded that they had been sworn brothers in": {
+    "guess": "Genghis Khan",
+    "confidence": [
+      [
+        "G",
+        -1.6394271
+      ],
+      [
+        "eng",
+        -0.062445562
+      ],
+      [
+        "his",
+        0.0
+      ],
+      [
+        " Khan",
+        0.0
+      ]
+    ]
+  },
+  "When this man's rival captured his father, he allegedly responded that they had been sworn brothers in the service of the late king, so \"my father is your father \u2013 if you decide to boil him, let me have": {
+    "guess": "Cao Cao",
+    "confidence": [
+      [
+        "C",
+        -1.1609124
+      ],
+      [
+        "ao",
+        -0.00028243123
+      ],
+      [
+        " Cao",
+        -6.46828e-05
+      ]
+    ]
+  },
+  "When this man's rival captured his father, he allegedly responded that they had been sworn brothers in the service of the late king, so \"my father is your father \u2013 if you decide to boil him, let me have a basin of the broth.\" He forced his favorite male lover, Chi Ju, to wear makeup and was foiled in": {
+    "guess": "Cao Cao",
+    "confidence": [
+      [
+        "C",
+        -1.3877201
+      ],
+      [
+        "ao",
+        -0.0005761472
+      ],
+      [
+        " Cao",
+        -0.0061804755
+      ]
+    ]
+  },
+  "When this man's rival captured his father, he allegedly responded that they had been sworn brothers in the service of the late king, so \"my father is your father \u2013 if you decide to boil him, let me have a basin of the broth.\" He forced his favorite male lover, Chi Ju, to wear makeup and was foiled in an attempt to name him successor. Given the title \"Duke of Pe'i\" early in life upon returning to his": {
+    "guess": "Liu Bang",
+    "confidence": [
+      [
+        "L",
+        -0.07274119
+      ],
+      [
+        "iu",
+        -5.157039e-05
+      ],
+      [
+        " Bang",
+        -4.012684e-05
+      ]
+    ]
+  },
+  "When this man's rival captured his father, he allegedly responded that they had been sworn brothers in the service of the late king, so \"my father is your father \u2013 if you decide to boil him, let me have a basin of the broth.\" He forced his favorite male lover, Chi Ju, to wear makeup and was foiled in an attempt to name him successor. Given the title \"Duke of Pe'i\" early in life upon returning to his hometown, he was relegated to a distant province by his earlier mentioned rival, Hsiang Yu, whose": {
+    "guess": "Liu Bang",
+    "confidence": [
+      [
+        "L",
+        -0.0019037703
+      ],
+      [
+        "iu",
+        -1.8624639e-06
+      ],
+      [
+        " Bang",
+        -7.107425e-06
+      ]
+    ]
+  },
+  "When this man's rival captured his father, he allegedly responded that they had been sworn brothers in the service of the late king, so \"my father is your father \u2013 if you decide to boil him, let me have a basin of the broth.\" He forced his favorite male lover, Chi Ju, to wear makeup and was foiled in an attempt to name him successor. Given the title \"Duke of Pe'i\" early in life upon returning to his hometown, he was relegated to a distant province by his earlier mentioned rival, Hsiang Yu, whose suicide allowed this man to take the throne. During his reign, he attempted to give a wife to Modu Chanyu,": {
+    "guess": "Liu Bang",
+    "confidence": [
+      [
+        "L",
+        -0.03402059
+      ],
+      [
+        "iu",
+        -5.4385737e-06
+      ],
+      [
+        " Bang",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "When this man's rival captured his father, he allegedly responded that they had been sworn brothers in the service of the late king, so \"my father is your father \u2013 if you decide to boil him, let me have a basin of the broth.\" He forced his favorite male lover, Chi Ju, to wear makeup and was foiled in an attempt to name him successor. Given the title \"Duke of Pe'i\" early in life upon returning to his hometown, he was relegated to a distant province by his earlier mentioned rival, Hsiang Yu, whose suicide allowed this man to take the throne. During his reign, he attempted to give a wife to Modu Chanyu, the leader of the Hsiung-nu, but was deceived by his despotic wife, the Empress Lu, who ruled": {
+    "guess": "Liu Bang",
+    "confidence": [
+      [
+        "L",
+        -0.40370265
+      ],
+      [
+        "iu",
+        -2.3392786e-06
+      ],
+      [
+        " Bang",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "When this man's rival captured his father, he allegedly responded that they had been sworn brothers in the service of the late king, so \"my father is your father \u2013 if you decide to boil him, let me have a basin of the broth.\" He forced his favorite male lover, Chi Ju, to wear makeup and was foiled in an attempt to name him successor. Given the title \"Duke of Pe'i\" early in life upon returning to his hometown, he was relegated to a distant province by his earlier mentioned rival, Hsiang Yu, whose suicide allowed this man to take the throne. During his reign, he attempted to give a wife to Modu Chanyu, the leader of the Hsiung-nu, but was deceived by his despotic wife, the Empress Lu, who ruled after his death as the power behind the throne. Known for growing up as a prison official of the peasant": {
+    "guess": "Liu Bang",
+    "confidence": [
+      [
+        "L",
+        -0.020885773
+      ],
+      [
+        "iu",
+        -3.1281633e-07
+      ],
+      [
+        " Bang",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "When this man's rival captured his father, he allegedly responded that they had been sworn brothers in the service of the late king, so \"my father is your father \u2013 if you decide to boil him, let me have a basin of the broth.\" He forced his favorite male lover, Chi Ju, to wear makeup and was foiled in an attempt to name him successor. Given the title \"Duke of Pe'i\" early in life upon returning to his hometown, he was relegated to a distant province by his earlier mentioned rival, Hsiang Yu, whose suicide allowed this man to take the throne. During his reign, he attempted to give a wife to Modu Chanyu, the leader of the Hsiung-nu, but was deceived by his despotic wife, the Empress Lu, who ruled after his death as the power behind the throne. Known for growing up as a prison official of the peasant class, FTP, name this man who opposed Shih Huang Ti and took power in 202 B.C. to begin the Han": {
+    "guess": "Liu Bang",
+    "confidence": [
+      [
+        "L",
+        -0.0050600106
+      ],
+      [
+        "iu",
+        -1.9361265e-07
+      ],
+      [
+        " Bang",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "When this man's rival captured his father, he allegedly responded that they had been sworn brothers in the service of the late king, so \"my father is your father \u2013 if you decide to boil him, let me have a basin of the broth.\" He forced his favorite male lover, Chi Ju, to wear makeup and was foiled in an attempt to name him successor. Given the title \"Duke of Pe'i\" early in life upon returning to his hometown, he was relegated to a distant province by his earlier mentioned rival, Hsiang Yu, whose suicide allowed this man to take the throne. During his reign, he attempted to give a wife to Modu Chanyu, the leader of the Hsiung-nu, but was deceived by his despotic wife, the Empress Lu, who ruled after his death as the power behind the throne. Known for growing up as a prison official of the peasant class, FTP, name this man who opposed Shih Huang Ti and took power in 202 B.C. to begin the Han Dynasty.": {
+    "guess": "Liu Bang",
+    "confidence": [
+      [
+        "L",
+        -0.0008211842
+      ],
+      [
+        "iu",
+        0.0
+      ],
+      [
+        " Bang",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A river separates civilians from a tree in this artist's depiction of rubble waiting to be used to build": {
+    "guess": "George Bellows",
+    "confidence": [
+      [
+        "George",
+        -1.4162903
+      ],
+      [
+        " Bell",
+        -0.0605399
+      ],
+      [
+        "ows",
+        0.0
+      ]
+    ]
+  },
+  "A river separates civilians from a tree in this artist's depiction of rubble waiting to be used to build a town. In another of his paintings, soldiers continue to fight even as a giant snowstorm engulfs": {
+    "guess": "Bruegel",
+    "confidence": [
+      [
+        "Br",
+        -0.79139894
+      ],
+      [
+        "ue",
+        -1.504853e-06
+      ],
+      [
+        "gel",
+        -0.00043114604
+      ]
+    ]
+  },
+  "A river separates civilians from a tree in this artist's depiction of rubble waiting to be used to build a town. In another of his paintings, soldiers continue to fight even as a giant snowstorm engulfs an orange sun. This painter of (*) Dido Building Carthage and Hannibal Crossing the Alps showed a": {
+    "guess": "J. M. W. Turner",
+    "confidence": [
+      [
+        "J",
+        -0.08825663
+      ],
+      [
+        ".",
+        -5.5122365e-07
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " W",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Turner",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "A river separates civilians from a tree in this artist's depiction of rubble waiting to be used to build a town. In another of his paintings, soldiers continue to fight even as a giant snowstorm engulfs an orange sun. This painter of (*) Dido Building Carthage and Hannibal Crossing the Alps showed a splash of red and orange as sailors navigate treacherous waters. Another work by this artist of The": {
+    "guess": "J. M. W. Turner",
+    "confidence": [
+      [
+        "J",
+        -0.28293076
+      ],
+      [
+        ".",
+        -6.2729996e-06
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        ".",
+        -4.3202e-07
+      ],
+      [
+        " W",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Turner",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A river separates civilians from a tree in this artist's depiction of rubble waiting to be used to build a town. In another of his paintings, soldiers continue to fight even as a giant snowstorm engulfs an orange sun. This painter of (*) Dido Building Carthage and Hannibal Crossing the Alps showed a splash of red and orange as sailors navigate treacherous waters. Another work by this artist of The Slave Ship is subtitled The Great Western Railway and shows a train crossing a river. A sun sets as": {
+    "guess": "J. M. W. Turner",
+    "confidence": [
+      [
+        "J",
+        -0.020359103
+      ],
+      [
+        ".",
+        -5.5577775e-06
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " W",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Turner",
+        0.0
+      ]
+    ]
+  },
+  "A river separates civilians from a tree in this artist's depiction of rubble waiting to be used to build a town. In another of his paintings, soldiers continue to fight even as a giant snowstorm engulfs an orange sun. This painter of (*) Dido Building Carthage and Hannibal Crossing the Alps showed a splash of red and orange as sailors navigate treacherous waters. Another work by this artist of The Slave Ship is subtitled The Great Western Railway and shows a train crossing a river. A sun sets as a ship is \"tugged to her last berth\" in his most famous work. For 10 points, name this English painter": {
+    "guess": "J. M. W. Turner",
+    "confidence": [
+      [
+        "J",
+        -0.22107187
+      ],
+      [
+        ".",
+        -2.3392786e-06
+      ],
+      [
+        " M",
+        -1.9361265e-07
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " W",
+        0.0
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Turner",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "A river separates civilians from a tree in this artist's depiction of rubble waiting to be used to build a town. In another of his paintings, soldiers continue to fight even as a giant snowstorm engulfs an orange sun. This painter of (*) Dido Building Carthage and Hannibal Crossing the Alps showed a splash of red and orange as sailors navigate treacherous waters. Another work by this artist of The Slave Ship is subtitled The Great Western Railway and shows a train crossing a river. A sun sets as a ship is \"tugged to her last berth\" in his most famous work. For 10 points, name this English painter of Rain, Steam, and Speed and The Fighting Temaraire.": {
+    "guess": "J. M. W. Turner",
+    "confidence": [
+      [
+        "J",
+        -0.01830212
+      ],
+      [
+        ".",
+        -2.6968896e-06
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " W",
+        0.0
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Turner",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "This river's tributaries include the Ghaghra and the Jumna, which joins it near  Allahabad. Other cities": {
+    "guess": "Ganges",
+    "confidence": [
+      [
+        "G",
+        -0.0052826153
+      ],
+      [
+        "anges",
+        -7.9418505e-06
+      ]
+    ]
+  },
+  "This river's tributaries include the Ghaghra and the Jumna, which joins it near  Allahabad. Other cities on it include Kanpur, Patna, and Benares. Its namesake plain  lies to the north of the Vindhya Range": {
+    "guess": "Ganges",
+    "confidence": [
+      [
+        "G",
+        -2.8444882e-05
+      ],
+      [
+        "anges",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "This river's tributaries include the Ghaghra and the Jumna, which joins it near  Allahabad. Other cities on it include Kanpur, Patna, and Benares. Its namesake plain  lies to the north of the Vindhya Range and the Deccan Plateau. The Brahmaputra  River joins its delta, which empties into the Bay of Bengal": {
+    "guess": "Ganges",
+    "confidence": [
+      [
+        "G",
+        -1.0445127e-05
+      ],
+      [
+        "anges",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "This river's tributaries include the Ghaghra and the Jumna, which joins it near  Allahabad. Other cities on it include Kanpur, Patna, and Benares. Its namesake plain  lies to the north of the Vindhya Range and the Deccan Plateau. The Brahmaputra  River joins its delta, which empties into the Bay of Bengal south of Calcutta. FTP  identify this Indian river.": {
+    "guess": "Ganges",
+    "confidence": [
+      [
+        "G",
+        -4.2272506e-05
+      ],
+      [
+        "anges",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "This river flows past the only walled city in the Americas north of Mexico. Another city on this river": {
+    "guess": "St. Lawrence River",
+    "confidence": [
+      [
+        "St",
+        -0.5185831
+      ],
+      [
+        ".",
+        -1.2664457e-06
+      ],
+      [
+        " Lawrence",
+        -9.610702e-06
+      ],
+      [
+        " River",
+        -1.735894e-05
+      ]
+    ]
+  },
+  "This river flows past the only walled city in the Americas north of Mexico. Another city on this river is home to a \"Biodome\" with replicas of four ecosystems, as well as an Olympic stadium nicknamed the": {
+    "guess": "Saint Lawrence River",
+    "confidence": [
+      [
+        "Saint",
+        -0.41484538
+      ],
+      [
+        " Lawrence",
+        -4.3202e-07
+      ],
+      [
+        " River",
+        -1.1756368e-05
+      ]
+    ]
+  },
+  "This river flows past the only walled city in the Americas north of Mexico. Another city on this river is home to a \"Biodome\" with replicas of four ecosystems, as well as an Olympic stadium nicknamed the \"Big O.\" This river empties into a massive estuary that contains the Magdalen Islands and Anticosti": {
+    "guess": "Saint Lawrence River",
+    "confidence": [
+      [
+        "Saint",
+        -0.38889933
+      ],
+      [
+        " Lawrence",
+        0.0
+      ],
+      [
+        " River",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This river flows past the only walled city in the Americas north of Mexico. Another city on this river is home to a \"Biodome\" with replicas of four ecosystems, as well as an Olympic stadium nicknamed the \"Big O.\" This river empties into a massive estuary that contains the Magdalen Islands and Anticosti Island after flowing past to the Gasp\u00e9 Peninsula. This river flows through the Thousand Islands.": {
+    "guess": "Saint Lawrence River",
+    "confidence": [
+      [
+        "Saint",
+        -0.20368895
+      ],
+      [
+        " Lawrence",
+        0.0
+      ],
+      [
+        " River",
+        0.0
+      ]
+    ]
+  },
+  "This river flows past the only walled city in the Americas north of Mexico. Another city on this river is home to a \"Biodome\" with replicas of four ecosystems, as well as an Olympic stadium nicknamed the \"Big O.\" This river empties into a massive estuary that contains the Magdalen Islands and Anticosti Island after flowing past to the Gasp\u00e9 Peninsula. This river flows through the Thousand Islands. The Ottawa River drains into this river. The opening of this river's eponymous Seaway made the Erie": {
+    "guess": "Saint Lawrence River",
+    "confidence": [
+      [
+        "Saint",
+        -0.06294211
+      ],
+      [
+        " Lawrence",
+        0.0
+      ],
+      [
+        " River",
+        -2.9875326e-05
+      ]
+    ]
+  },
+  "This river flows past the only walled city in the Americas north of Mexico. Another city on this river is home to a \"Biodome\" with replicas of four ecosystems, as well as an Olympic stadium nicknamed the \"Big O.\" This river empties into a massive estuary that contains the Magdalen Islands and Anticosti Island after flowing past to the Gasp\u00e9 Peninsula. This river flows through the Thousand Islands. The Ottawa River drains into this river. The opening of this river's eponymous Seaway made the Erie Canal completely obsolete. For 10 points, name this river that flows northeast from Lake Ontario through": {
+    "guess": "Saint Lawrence River",
+    "confidence": [
+      [
+        "Saint",
+        -0.080341615
+      ],
+      [
+        " Lawrence",
+        0.0
+      ],
+      [
+        " River",
+        -2.1411865e-05
+      ]
+    ]
+  },
+  "This river flows past the only walled city in the Americas north of Mexico. Another city on this river is home to a \"Biodome\" with replicas of four ecosystems, as well as an Olympic stadium nicknamed the \"Big O.\" This river empties into a massive estuary that contains the Magdalen Islands and Anticosti Island after flowing past to the Gasp\u00e9 Peninsula. This river flows through the Thousand Islands. The Ottawa River drains into this river. The opening of this river's eponymous Seaway made the Erie Canal completely obsolete. For 10 points, name this river that flows northeast from Lake Ontario through Montr\u00e9al and Qu\u00e9bec City before emptying into its namesake Gulf.": {
+    "guess": "Saint Lawrence River",
+    "confidence": [
+      [
+        "Saint",
+        -0.06256269
+      ],
+      [
+        " Lawrence",
+        0.0
+      ],
+      [
+        " River",
+        -8.299462e-06
+      ]
+    ]
+  }
+}

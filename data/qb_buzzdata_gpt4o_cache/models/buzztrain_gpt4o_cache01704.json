@@ -1,0 +1,305 @@
+{
+  "Elgar's in B minor is unusual for having four movements instead of three, whereas Shostakovich's first": {
+    "guess": "Cello Concerto No. 1 (Shostakovich)",
+    "confidence": [
+      [
+        "Cell",
+        -0.15784635
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " Conc",
+        -0.0029567815
+      ],
+      [
+        "erto",
+        0.0
+      ],
+      [
+        " No",
+        -0.0017080175
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " ",
+        -3.7697225e-06
+      ],
+      [
+        "1",
+        -0.0017035098
+      ],
+      [
+        " (",
+        -0.0031487236
+      ],
+      [
+        "Sh",
+        -0.00015872349
+      ],
+      [
+        "ost",
+        0.0
+      ],
+      [
+        "akov",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ],
+      [
+        ")",
+        -4.739826e-05
+      ]
+    ]
+  },
+  "Elgar's in B minor is unusual for having four movements instead of three, whereas Shostakovich's first one has a lengthy cadenza linking the third and fourth movements, a Passacaglia and Burlesque. Berg's": {
+    "guess": "Violin Concerto",
+    "confidence": [
+      [
+        "Vi",
+        -0.0023001318
+      ],
+      [
+        "olin",
+        -3.1281633e-07
+      ],
+      [
+        " Conc",
+        -0.0021910642
+      ],
+      [
+        "erto",
+        0.0
+      ]
+    ]
+  },
+  "Elgar's in B minor is unusual for having four movements instead of three, whereas Shostakovich's first one has a lengthy cadenza linking the third and fourth movements, a Passacaglia and Burlesque. Berg's was dedicated \"to the memory of an angel\"\u2014the daughter of Alma Mahler and Walter Gropius\u2014while Tchaikovsky's": {
+    "guess": "Violin Concerto",
+    "confidence": [
+      [
+        "Vi",
+        -0.0009469495
+      ],
+      [
+        "olin",
+        0.0
+      ],
+      [
+        " Conc",
+        -0.06311023
+      ],
+      [
+        "erto",
+        0.0
+      ]
+    ]
+  },
+  "Elgar's in B minor is unusual for having four movements instead of three, whereas Shostakovich's first one has a lengthy cadenza linking the third and fourth movements, a Passacaglia and Burlesque. Berg's was dedicated \"to the memory of an angel\"\u2014the daughter of Alma Mahler and Walter Gropius\u2014while Tchaikovsky's in D major was inspired by the complex polyrhythms of Lalo's Symphonie Espagnole. Mozart's": {
+    "guess": "Violin Concertos",
+    "confidence": [
+      [
+        "Vi",
+        -0.00081570446
+      ],
+      [
+        "olin",
+        0.0
+      ],
+      [
+        " Concert",
+        -0.0027710015
+      ],
+      [
+        "os",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Elgar's in B minor is unusual for having four movements instead of three, whereas Shostakovich's first one has a lengthy cadenza linking the third and fourth movements, a Passacaglia and Burlesque. Berg's was dedicated \"to the memory of an angel\"\u2014the daughter of Alma Mahler and Walter Gropius\u2014while Tchaikovsky's in D major was inspired by the complex polyrhythms of Lalo's Symphonie Espagnole. Mozart's fifth one is nicknamed \"Turkish,\" and Brahms' in D major was written in consultation with the virtuoso": {
+    "guess": "Violin Concerto",
+    "confidence": [
+      [
+        "Vi",
+        -0.0012191668
+      ],
+      [
+        "olin",
+        0.0
+      ],
+      [
+        " Conc",
+        -0.39011133
+      ],
+      [
+        "erto",
+        0.0
+      ]
+    ]
+  },
+  "Elgar's in B minor is unusual for having four movements instead of three, whereas Shostakovich's first one has a lengthy cadenza linking the third and fourth movements, a Passacaglia and Burlesque. Berg's was dedicated \"to the memory of an angel\"\u2014the daughter of Alma Mahler and Walter Gropius\u2014while Tchaikovsky's in D major was inspired by the complex polyrhythms of Lalo's Symphonie Espagnole. Mozart's fifth one is nicknamed \"Turkish,\" and Brahms' in D major was written in consultation with the virtuoso Joseph Joachim. FTP, name this type of composition for a specific instrument, famous examples": {
+    "guess": "Violin concerto",
+    "confidence": [
+      [
+        "Vi",
+        -0.0042139743
+      ],
+      [
+        "olin",
+        0.0
+      ],
+      [
+        " concerto",
+        -0.17118171
+      ]
+    ]
+  },
+  "Elgar's in B minor is unusual for having four movements instead of three, whereas Shostakovich's first one has a lengthy cadenza linking the third and fourth movements, a Passacaglia and Burlesque. Berg's was dedicated \"to the memory of an angel\"\u2014the daughter of Alma Mahler and Walter Gropius\u2014while Tchaikovsky's in D major was inspired by the complex polyrhythms of Lalo's Symphonie Espagnole. Mozart's fifth one is nicknamed \"Turkish,\" and Brahms' in D major was written in consultation with the virtuoso Joseph Joachim. FTP, name this type of composition for a specific instrument, famous examples of which include Mendelssohn's in E minor and Beethoven's in D major.": {
+    "guess": "Violin concerto",
+    "confidence": [
+      [
+        "Vi",
+        -0.0008258258
+      ],
+      [
+        "olin",
+        0.0
+      ],
+      [
+        " concerto",
+        -0.09803647
+      ]
+    ]
+  },
+  "In El Greco's version of this event, a collonade extends deep into the painting and puti swirl above": {
+    "guess": "The Opening of the Fifth Seal",
+    "confidence": [
+      [
+        "The",
+        -0.4805419
+      ],
+      [
+        " Opening",
+        -0.8714643
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -3.1281633e-07
+      ],
+      [
+        " Fifth",
+        -1.9361265e-07
+      ],
+      [
+        " Seal",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In El Greco's version of this event, a collonade extends deep into the painting and puti swirl above on of the participants who leans on a lectern on the left. It is also depicted on the central panel": {
+    "guess": "The Annunciation",
+    "confidence": [
+      [
+        "The",
+        -0.28500947
+      ],
+      [
+        " Ann",
+        -0.99870926
+      ],
+      [
+        "unciation",
+        -5.2001665e-06
+      ]
+    ]
+  },
+  "In El Greco's version of this event, a collonade extends deep into the painting and puti swirl above on of the participants who leans on a lectern on the left. It is also depicted on the central panel of Robert Campin's Merode Altarpiece, while Renaissance depictions include that Fra Angelico for San": {
+    "guess": "Annunciation",
+    "confidence": [
+      [
+        "Ann",
+        -0.0042062593
+      ],
+      [
+        "unciation",
+        0.0
+      ]
+    ]
+  },
+  "In El Greco's version of this event, a collonade extends deep into the painting and puti swirl above on of the participants who leans on a lectern on the left. It is also depicted on the central panel of Robert Campin's Merode Altarpiece, while Renaissance depictions include that Fra Angelico for San Marco, in which a black line connects the collonades under which the event take place. Dante Gabriel": {
+    "guess": "Annunciation",
+    "confidence": [
+      [
+        "Ann",
+        -0.0024499693
+      ],
+      [
+        "unciation",
+        0.0
+      ]
+    ]
+  },
+  "In El Greco's version of this event, a collonade extends deep into the painting and puti swirl above on of the participants who leans on a lectern on the left. It is also depicted on the central panel of Robert Campin's Merode Altarpiece, while Renaissance depictions include that Fra Angelico for San Marco, in which a black line connects the collonades under which the event take place. Dante Gabriel Rosetti painted a depiction of this event entitled Ecce Ancilla Domine, in which one of the participants,": {
+    "guess": "Annunciation",
+    "confidence": [
+      [
+        "Ann",
+        -0.0001345288
+      ],
+      [
+        "unciation",
+        0.0
+      ]
+    ]
+  },
+  "In El Greco's version of this event, a collonade extends deep into the painting and puti swirl above on of the participants who leans on a lectern on the left. It is also depicted on the central panel of Robert Campin's Merode Altarpiece, while Renaissance depictions include that Fra Angelico for San Marco, in which a black line connects the collonades under which the event take place. Dante Gabriel Rosetti painted a depiction of this event entitled Ecce Ancilla Domine, in which one of the participants, with flaming feet, hands a flower to the other, who sits on her bed, and this event is also": {
+    "guess": "Annunciation",
+    "confidence": [
+      [
+        "Ann",
+        -0.00016361084
+      ],
+      [
+        "unciation",
+        0.0
+      ]
+    ]
+  },
+  "In El Greco's version of this event, a collonade extends deep into the painting and puti swirl above on of the participants who leans on a lectern on the left. It is also depicted on the central panel of Robert Campin's Merode Altarpiece, while Renaissance depictions include that Fra Angelico for San Marco, in which a black line connects the collonades under which the event take place. Dante Gabriel Rosetti painted a depiction of this event entitled Ecce Ancilla Domine, in which one of the participants, with flaming feet, hands a flower to the other, who sits on her bed, and this event is also depicted, together with the Visitation, on the west portal of Reims cathedral. For ten points, identify": {
+    "guess": "Annunciation",
+    "confidence": [
+      [
+        "Ann",
+        -4.334534e-05
+      ],
+      [
+        "unciation",
+        0.0
+      ]
+    ]
+  },
+  "In El Greco's version of this event, a collonade extends deep into the painting and puti swirl above on of the participants who leans on a lectern on the left. It is also depicted on the central panel of Robert Campin's Merode Altarpiece, while Renaissance depictions include that Fra Angelico for San Marco, in which a black line connects the collonades under which the event take place. Dante Gabriel Rosetti painted a depiction of this event entitled Ecce Ancilla Domine, in which one of the participants, with flaming feet, hands a flower to the other, who sits on her bed, and this event is also depicted, together with the Visitation, on the west portal of Reims cathedral. For ten points, identify this event in which Mary is informed by Gabriel that she will bear the son of God.": {
+    "guess": "Annunciation",
+    "confidence": [
+      [
+        "Ann",
+        -2.3915141e-05
+      ],
+      [
+        "unciation",
+        0.0
+      ]
+    ]
+  }
+}

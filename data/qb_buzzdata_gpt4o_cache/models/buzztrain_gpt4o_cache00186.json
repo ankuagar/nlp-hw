@@ -1,0 +1,323 @@
+{
+  "The amplitude of this effect scales with the square root of the clumping factor because it is dependent": {
+    "guess": "Sunyaev\u2013Zeldovich effect",
+    "confidence": [
+      [
+        "Sun",
+        -0.46864545
+      ],
+      [
+        "ya",
+        -6.2729996e-06
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.20141508
+      ],
+      [
+        "Z",
+        0.0
+      ],
+      [
+        "eld",
+        -0.011047935
+      ],
+      [
+        "ovich",
+        0.0
+      ],
+      [
+        " effect",
+        -2.5345586e-05
+      ]
+    ]
+  },
+  "The amplitude of this effect scales with the square root of the clumping factor because it is dependent on the concentration of electrons. This effect can be derived from a non-relativistic approximation": {
+    "guess": "Sunyaev\u2013Zeldovich effect",
+    "confidence": [
+      [
+        "Sun",
+        -0.12688757
+      ],
+      [
+        "ya",
+        -1.9361265e-07
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.31326312
+      ],
+      [
+        "Z",
+        0.0
+      ],
+      [
+        "eld",
+        -0.023245944
+      ],
+      [
+        "ovich",
+        0.0
+      ],
+      [
+        " effect",
+        -9.849109e-06
+      ]
+    ]
+  },
+  "The amplitude of this effect scales with the square root of the clumping factor because it is dependent on the concentration of electrons. This effect can be derived from a non-relativistic approximation of the Fokker-Planck equation by assuming a single scattering event, and it has a cot-h-dependence": {
+    "guess": "Sunyaev-Zeldovich effect",
+    "confidence": [
+      [
+        "Sun",
+        -0.423382
+      ],
+      [
+        "ya",
+        -3.2929079e-06
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        "-Z",
+        -0.5759433
+      ],
+      [
+        "eld",
+        -0.3868717
+      ],
+      [
+        "ovich",
+        0.0
+      ],
+      [
+        " effect",
+        -0.00013214473
+      ]
+    ]
+  },
+  "The amplitude of this effect scales with the square root of the clumping factor because it is dependent on the concentration of electrons. This effect can be derived from a non-relativistic approximation of the Fokker-Planck equation by assuming a single scattering event, and it has a cot-h-dependence on frequency. The spectral distortion vanishes at the crossover frequency of 218 GHz, though the distortion": {
+    "guess": "Sunyaev-Zeldovich effect",
+    "confidence": [
+      [
+        "Sun",
+        -0.016257113
+      ],
+      [
+        "ya",
+        -3.1281633e-07
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        "-Z",
+        -0.38687655
+      ],
+      [
+        "eld",
+        -0.25192946
+      ],
+      [
+        "ovich",
+        0.0
+      ],
+      [
+        " effect",
+        -0.002244462
+      ]
+    ]
+  },
+  "The amplitude of this effect scales with the square root of the clumping factor because it is dependent on the concentration of electrons. This effect can be derived from a non-relativistic approximation of the Fokker-Planck equation by assuming a single scattering event, and it has a cot-h-dependence on frequency. The spectral distortion vanishes at the crossover frequency of 218 GHz, though the distortion due to this effect becomes prominent for higher frequencies. For (*) clusters in motion, one": {
+    "guess": "Sunyaev-Zel'dovich effect",
+    "confidence": [
+      [
+        "Sun",
+        -0.0026380839
+      ],
+      [
+        "ya",
+        -1.9361265e-07
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        "-Z",
+        -0.12692958
+      ],
+      [
+        "el",
+        -0.6931474
+      ],
+      [
+        "'d",
+        -0.00047678637
+      ],
+      [
+        "ovich",
+        0.0
+      ],
+      [
+        " effect",
+        -0.00012237004
+      ]
+    ]
+  },
+  "The amplitude of this effect scales with the square root of the clumping factor because it is dependent on the concentration of electrons. This effect can be derived from a non-relativistic approximation of the Fokker-Planck equation by assuming a single scattering event, and it has a cot-h-dependence on frequency. The spectral distortion vanishes at the crossover frequency of 218 GHz, though the distortion due to this effect becomes prominent for higher frequencies. For (*) clusters in motion, one can use the kinematic and thermal form of this effect to analyze velocity, and this effect occurs": {
+    "guess": "Sunyaev-Zel'dovich effect",
+    "confidence": [
+      [
+        "Sun",
+        -0.0040065725
+      ],
+      [
+        "ya",
+        -1.9361265e-07
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        "-Z",
+        -0.10020925
+      ],
+      [
+        "el",
+        -0.4740777
+      ],
+      [
+        "'d",
+        -0.0006645414
+      ],
+      [
+        "ovich",
+        -1.9361265e-07
+      ],
+      [
+        " effect",
+        -0.0012133295
+      ]
+    ]
+  },
+  "The amplitude of this effect scales with the square root of the clumping factor because it is dependent on the concentration of electrons. This effect can be derived from a non-relativistic approximation of the Fokker-Planck equation by assuming a single scattering event, and it has a cot-h-dependence on frequency. The spectral distortion vanishes at the crossover frequency of 218 GHz, though the distortion due to this effect becomes prominent for higher frequencies. For (*) clusters in motion, one can use the kinematic and thermal form of this effect to analyze velocity, and this effect occurs due the presence of hot electrons in intracluster plasmas. For 10 points, identify this effect in which": {
+    "guess": "Sunyaev-Zel'dovich effect",
+    "confidence": [
+      [
+        "Sun",
+        -0.004440801
+      ],
+      [
+        "ya",
+        -1.9361265e-07
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        "-Z",
+        -0.04858896
+      ],
+      [
+        "el",
+        -0.38687122
+      ],
+      [
+        "'d",
+        -0.000756143
+      ],
+      [
+        "ovich",
+        -1.9361265e-07
+      ],
+      [
+        " effect",
+        -0.00080712914
+      ]
+    ]
+  },
+  "The amplitude of this effect scales with the square root of the clumping factor because it is dependent on the concentration of electrons. This effect can be derived from a non-relativistic approximation of the Fokker-Planck equation by assuming a single scattering event, and it has a cot-h-dependence on frequency. The spectral distortion vanishes at the crossover frequency of 218 GHz, though the distortion due to this effect becomes prominent for higher frequencies. For (*) clusters in motion, one can use the kinematic and thermal form of this effect to analyze velocity, and this effect occurs due the presence of hot electrons in intracluster plasmas. For 10 points, identify this effect in which high energy electrons perturb the cosmic microwave background radiation via inverse Compton scattering,": {
+    "guess": "Sunyaev-Zel'dovich effect",
+    "confidence": [
+      [
+        "Sun",
+        -0.0013048798
+      ],
+      [
+        "ya",
+        -1.9361265e-07
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        "-Z",
+        -0.3132629
+      ],
+      [
+        "el",
+        -0.061967798
+      ],
+      [
+        "'d",
+        -0.0012370144
+      ],
+      [
+        "ovich",
+        0.0
+      ],
+      [
+        " effect",
+        -0.00018101456
+      ]
+    ]
+  },
+  "The amplitude of this effect scales with the square root of the clumping factor because it is dependent on the concentration of electrons. This effect can be derived from a non-relativistic approximation of the Fokker-Planck equation by assuming a single scattering event, and it has a cot-h-dependence on frequency. The spectral distortion vanishes at the crossover frequency of 218 GHz, though the distortion due to this effect becomes prominent for higher frequencies. For (*) clusters in motion, one can use the kinematic and thermal form of this effect to analyze velocity, and this effect occurs due the presence of hot electrons in intracluster plasmas. For 10 points, identify this effect in which high energy electrons perturb the cosmic microwave background radiation via inverse Compton scattering, named for two Soviet scientists.": {
+    "guess": "Sunyaev-Zeldovich effect",
+    "confidence": [
+      [
+        "Sun",
+        -0.00026884564
+      ],
+      [
+        "ya",
+        -1.9361265e-07
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        "-Z",
+        -0.20141548
+      ],
+      [
+        "eld",
+        -0.57593954
+      ],
+      [
+        "ovich",
+        0.0
+      ],
+      [
+        " effect",
+        -0.00016003472
+      ]
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "For a Fock state, this quantity is well defined. This expected value of this quantity is given by the": {
+    "guess": "Photon number operator",
+    "confidence": [
+      [
+        "Photon",
+        -1.1087911
+      ],
+      [
+        " number",
+        -0.02355536
+      ],
+      [
+        " operator",
+        -0.048670597
+      ]
+    ]
+  },
+  "For a Fock state, this quantity is well defined. This expected value of this quantity is given by the degeneracy of the corresponding energy level over the exponential function applied to the difference": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5658957
+      ]
+    ]
+  },
+  "For a Fock state, this quantity is well defined. This expected value of this quantity is given by the degeneracy of the corresponding energy level over the exponential function applied to the difference of energy and chemical potential over Boltzmann's constant times temperature, according to the Maxwell-Boltzmann": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8575948
+      ]
+    ]
+  },
+  "For a Fock state, this quantity is well defined. This expected value of this quantity is given by the degeneracy of the corresponding energy level over the exponential function applied to the difference of energy and chemical potential over Boltzmann's constant times temperature, according to the Maxwell-Boltzmann statistics. In the canonical ensemble, temperature, volume and this quantity are held": {
+    "guess": "Particle number",
+    "confidence": [
+      [
+        "Particle",
+        -0.03252494
+      ],
+      [
+        " number",
+        -2.8160932e-06
+      ]
+    ]
+  },
+  "For a Fock state, this quantity is well defined. This expected value of this quantity is given by the degeneracy of the corresponding energy level over the exponential function applied to the difference of energy and chemical potential over Boltzmann's constant times temperature, according to the Maxwell-Boltzmann statistics. In the canonical ensemble, temperature, volume and this quantity are held constant. A slight change in Gibbs free energy over a slight change in this quantity yields the (*)": {
+    "guess": "Particle number",
+    "confidence": [
+      [
+        "Particle",
+        -0.09106945
+      ],
+      [
+        " number",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "For a Fock state, this quantity is well defined. This expected value of this quantity is given by the degeneracy of the corresponding energy level over the exponential function applied to the difference of energy and chemical potential over Boltzmann's constant times temperature, according to the Maxwell-Boltzmann statistics. In the canonical ensemble, temperature, volume and this quantity are held constant. A slight change in Gibbs free energy over a slight change in this quantity yields the (*) chemical potential. It can be calculated by multiplying the number of moles by Avogadro's number. For": {
+    "guess": "Particle number",
+    "confidence": [
+      [
+        "Particle",
+        -0.03117972
+      ],
+      [
+        " number",
+        -5.5577775e-06
+      ]
+    ]
+  },
+  "For a Fock state, this quantity is well defined. This expected value of this quantity is given by the degeneracy of the corresponding energy level over the exponential function applied to the difference of energy and chemical potential over Boltzmann's constant times temperature, according to the Maxwell-Boltzmann statistics. In the canonical ensemble, temperature, volume and this quantity are held constant. A slight change in Gibbs free energy over a slight change in this quantity yields the (*) chemical potential. It can be calculated by multiplying the number of moles by Avogadro's number. For 10 points, name this thermodynamic quantity, a dimensionless extensive quantity usually symbolized": {
+    "guess": "Particle number",
+    "confidence": [
+      [
+        "Particle",
+        -0.056649093
+      ],
+      [
+        " number",
+        -1.342522e-05
+      ]
+    ]
+  },
+  "For a Fock state, this quantity is well defined. This expected value of this quantity is given by the degeneracy of the corresponding energy level over the exponential function applied to the difference of energy and chemical potential over Boltzmann's constant times temperature, according to the Maxwell-Boltzmann statistics. In the canonical ensemble, temperature, volume and this quantity are held constant. A slight change in Gibbs free energy over a slight change in this quantity yields the (*) chemical potential. It can be calculated by multiplying the number of moles by Avogadro's number. For 10 points, name this thermodynamic quantity, a dimensionless extensive quantity usually symbolized big N.": {
+    "guess": "Particle number",
+    "confidence": [
+      [
+        "Particle",
+        -0.010336511
+      ],
+      [
+        " number",
+        -1.867018e-05
+      ]
+    ]
+  }
+}

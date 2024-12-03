@@ -1,0 +1,506 @@
+{
+  "The astronomer James Keeler names a needle of this mountain, which was almost named Fisherman's Peak": {
+    "guess": "Mount Whitney",
+    "confidence": [
+      [
+        "Mount",
+        -0.04580578
+      ],
+      [
+        " Whitney",
+        -0.0030271483
+      ]
+    ]
+  },
+  "The astronomer James Keeler names a needle of this mountain, which was almost named Fisherman's Peak after the profession of its first climbers. The town of Lone Pine can be found to its east in the Owens": {
+    "guess": "Mount Whitney",
+    "confidence": [
+      [
+        "Mount",
+        -0.00027266017
+      ],
+      [
+        " Whitney",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The astronomer James Keeler names a needle of this mountain, which was almost named Fisherman's Peak after the profession of its first climbers. The town of Lone Pine can be found to its east in the Owens Valley. This southern terminus of the John Muir Trail is located in both the Inyo National Forest": {
+    "guess": "Mount Whitney",
+    "confidence": [
+      [
+        "Mount",
+        -0.00027682865
+      ],
+      [
+        " Whitney",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The astronomer James Keeler names a needle of this mountain, which was almost named Fisherman's Peak after the profession of its first climbers. The town of Lone Pine can be found to its east in the Owens Valley. This southern terminus of the John Muir Trail is located in both the Inyo National Forest and the Sequoia National Park. The Badwater Basin, the lowest point in North America, is located a": {
+    "guess": "Mount Whitney",
+    "confidence": [
+      [
+        "Mount",
+        -0.0019808565
+      ],
+      [
+        " Whitney",
+        0.0
+      ]
+    ]
+  },
+  "The astronomer James Keeler names a needle of this mountain, which was almost named Fisherman's Peak after the profession of its first climbers. The town of Lone Pine can be found to its east in the Owens Valley. This southern terminus of the John Muir Trail is located in both the Inyo National Forest and the Sequoia National Park. The Badwater Basin, the lowest point in North America, is located a mere eighty-five miles from, for 10 points, what mountain in California, the highest in the contiguous": {
+    "guess": "Mount Whitney",
+    "confidence": [
+      [
+        "Mount",
+        -7.9940866e-05
+      ],
+      [
+        " Whitney",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The astronomer James Keeler names a needle of this mountain, which was almost named Fisherman's Peak after the profession of its first climbers. The town of Lone Pine can be found to its east in the Owens Valley. This southern terminus of the John Muir Trail is located in both the Inyo National Forest and the Sequoia National Park. The Badwater Basin, the lowest point in North America, is located a mere eighty-five miles from, for 10 points, what mountain in California, the highest in the contiguous United States?": {
+    "guess": "Mount Whitney",
+    "confidence": [
+      [
+        "Mount",
+        -0.0019668164
+      ],
+      [
+        " Whitney",
+        0.0
+      ]
+    ]
+  },
+  "This astronomical body was visited and orbited by the Clementine spacecraft. This object features a large": {
+    "guess": "Moon",
+    "confidence": [
+      [
+        "Moon",
+        -0.0018915071
+      ]
+    ]
+  },
+  "This astronomical body was visited and orbited by the Clementine spacecraft. This object features a large crater called the South Pole - Aitken basin. One hypothesis of its creation is the Giant Impact": {
+    "guess": "Moon",
+    "confidence": [
+      [
+        "Moon",
+        -0.007838594
+      ]
+    ]
+  },
+  "This astronomical body was visited and orbited by the Clementine spacecraft. This object features a large crater called the South Pole - Aitken basin. One hypothesis of its creation is the Giant Impact Hypothesis. It has basaltic plains called maria such as the Sea of Tranquility. The gravitational interaction": {
+    "guess": "Moon",
+    "confidence": [
+      [
+        "Moon",
+        -0.012858408
+      ]
+    ]
+  },
+  "This astronomical body was visited and orbited by the Clementine spacecraft. This object features a large crater called the South Pole - Aitken basin. One hypothesis of its creation is the Giant Impact Hypothesis. It has basaltic plains called maria such as the Sea of Tranquility. The gravitational interaction between this and the Earth is responsible for tides. For 10 points, name this object that": {
+    "guess": "Moon",
+    "confidence": [
+      [
+        "Moon",
+        -0.04869024
+      ]
+    ]
+  },
+  "This astronomical body was visited and orbited by the Clementine spacecraft. This object features a large crater called the South Pole - Aitken basin. One hypothesis of its creation is the Giant Impact Hypothesis. It has basaltic plains called maria such as the Sea of Tranquility. The gravitational interaction between this and the Earth is responsible for tides. For 10 points, name this object that orbits the Earth.": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.576222
+      ],
+      [
+        ".",
+        -0.47408682
+      ]
+    ]
+  },
+  "In astronomy, this phenomenon is complemented by, and thus often used in conjunction with, the Hanle": {
+    "guess": "Zeeman effect",
+    "confidence": [
+      [
+        "Ze",
+        -0.0043494175
+      ],
+      [
+        "eman",
+        0.0
+      ],
+      [
+        " effect",
+        -0.009806975
+      ]
+    ]
+  },
+  "In astronomy, this phenomenon is complemented by, and thus often used in conjunction with, the Hanle effect. This phenomenon can be used to compensate for the Doppler shift of resonance frequency when": {
+    "guess": "Zeeman effect",
+    "confidence": [
+      [
+        "Ze",
+        -0.0066761854
+      ],
+      [
+        "eman",
+        0.0
+      ],
+      [
+        " effect",
+        -0.00026169344
+      ]
+    ]
+  },
+  "In astronomy, this phenomenon is complemented by, and thus often used in conjunction with, the Hanle effect. This phenomenon can be used to compensate for the Doppler shift of resonance frequency when decelerating an atomic beam in a namesake type of \"slower.\" The energy of one type of this phenomenon": {
+    "guess": "Zeeman effect",
+    "confidence": [
+      [
+        "Ze",
+        -0.0026549667
+      ],
+      [
+        "eman",
+        0.0
+      ],
+      [
+        " effect",
+        -0.0031785443
+      ]
+    ]
+  },
+  "In astronomy, this phenomenon is complemented by, and thus often used in conjunction with, the Hanle effect. This phenomenon can be used to compensate for the Doppler shift of resonance frequency when decelerating an atomic beam in a namesake type of \"slower.\" The energy of one type of this phenomenon is proportional to the Lande g-factor, the Bohr magneton, and the quantum number m-sub-l. At high": {
+    "guess": "Magnetic resonance",
+    "confidence": [
+      [
+        "Mag",
+        -0.33072355
+      ],
+      [
+        "netic",
+        -0.018149942
+      ],
+      [
+        " resonance",
+        -1.2313144
+      ]
+    ]
+  },
+  "In astronomy, this phenomenon is complemented by, and thus often used in conjunction with, the Hanle effect. This phenomenon can be used to compensate for the Doppler shift of resonance frequency when decelerating an atomic beam in a namesake type of \"slower.\" The energy of one type of this phenomenon is proportional to the Lande g-factor, the Bohr magneton, and the quantum number m-sub-l. At high field strengths, its two types merge to give the Paschen-Back effect. Electron spin explained its anomalous": {
+    "guess": "Zeeman effect",
+    "confidence": [
+      [
+        "Ze",
+        -8.299462e-06
+      ],
+      [
+        "eman",
+        0.0
+      ],
+      [
+        " effect",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "In astronomy, this phenomenon is complemented by, and thus often used in conjunction with, the Hanle effect. This phenomenon can be used to compensate for the Doppler shift of resonance frequency when decelerating an atomic beam in a namesake type of \"slower.\" The energy of one type of this phenomenon is proportional to the Lande g-factor, the Bohr magneton, and the quantum number m-sub-l. At high field strengths, its two types merge to give the Paschen-Back effect. Electron spin explained its anomalous type. This phenomenon can be interpreted as the precession of the orbital angular momentum vector": {
+    "guess": "Zeeman effect",
+    "confidence": [
+      [
+        "Ze",
+        -0.00024263552
+      ],
+      [
+        "eman",
+        0.0
+      ],
+      [
+        " effect",
+        -0.00010914576
+      ]
+    ]
+  },
+  "In astronomy, this phenomenon is complemented by, and thus often used in conjunction with, the Hanle effect. This phenomenon can be used to compensate for the Doppler shift of resonance frequency when decelerating an atomic beam in a namesake type of \"slower.\" The energy of one type of this phenomenon is proportional to the Lande g-factor, the Bohr magneton, and the quantum number m-sub-l. At high field strengths, its two types merge to give the Paschen-Back effect. Electron spin explained its anomalous type. This phenomenon can be interpreted as the precession of the orbital angular momentum vector in a certain field, and it results in the creation of a Lorentz triplet of spectral lines. For": {
+    "guess": "Zeeman effect",
+    "confidence": [
+      [
+        "Ze",
+        -0.0017537148
+      ],
+      [
+        "eman",
+        0.0
+      ],
+      [
+        " effect",
+        -0.00012356207
+      ]
+    ]
+  },
+  "In astronomy, this phenomenon is complemented by, and thus often used in conjunction with, the Hanle effect. This phenomenon can be used to compensate for the Doppler shift of resonance frequency when decelerating an atomic beam in a namesake type of \"slower.\" The energy of one type of this phenomenon is proportional to the Lande g-factor, the Bohr magneton, and the quantum number m-sub-l. At high field strengths, its two types merge to give the Paschen-Back effect. Electron spin explained its anomalous type. This phenomenon can be interpreted as the precession of the orbital angular momentum vector in a certain field, and it results in the creation of a Lorentz triplet of spectral lines. For 10 points, name this effect in which the spectral lines of an atom are split in a strong magnetic field,": {
+    "guess": "Zeeman effect",
+    "confidence": [
+      [
+        "Ze",
+        -6.46828e-05
+      ],
+      [
+        "eman",
+        0.0
+      ],
+      [
+        " effect",
+        -0.0010330495
+      ]
+    ]
+  },
+  "In astronomy, this phenomenon is complemented by, and thus often used in conjunction with, the Hanle effect. This phenomenon can be used to compensate for the Doppler shift of resonance frequency when decelerating an atomic beam in a namesake type of \"slower.\" The energy of one type of this phenomenon is proportional to the Lande g-factor, the Bohr magneton, and the quantum number m-sub-l. At high field strengths, its two types merge to give the Paschen-Back effect. Electron spin explained its anomalous type. This phenomenon can be interpreted as the precession of the orbital angular momentum vector in a certain field, and it results in the creation of a Lorentz triplet of spectral lines. For 10 points, name this effect in which the spectral lines of an atom are split in a strong magnetic field, which is analogous to the Stark effect.": {
+    "guess": "Zeeman effect",
+    "confidence": [
+      [
+        "Ze",
+        -4.4849444e-06
+      ],
+      [
+        "eman",
+        0.0
+      ],
+      [
+        " effect",
+        -0.00080450665
+      ]
+    ]
+  },
+  "This astronomer's constants are two parameters to describe the major features of our Galaxy's differential": {
+    "guess": "Oort constants",
+    "confidence": [
+      [
+        "O",
+        -0.015312988
+      ],
+      [
+        "ort",
+        -3.1737043e-06
+      ],
+      [
+        " constants",
+        -0.045042
+      ]
+    ]
+  },
+  "This astronomer's constants are two parameters to describe the major features of our Galaxy's differential rotation in the Sun's neighborhood, and he proposed that the Galaxy had missing mass. His establishment": {
+    "guess": "Oort constants",
+    "confidence": [
+      [
+        "O",
+        -0.040723626
+      ],
+      [
+        "ort",
+        -1.247159e-05
+      ],
+      [
+        " constants",
+        -0.22009511
+      ]
+    ]
+  },
+  "This astronomer's constants are two parameters to describe the major features of our Galaxy's differential rotation in the Sun's neighborhood, and he proposed that the Galaxy had missing mass. His establishment of the radio observatories at Dwingeloo and Westerbork put the Netherlands at the forefront": {
+    "guess": "Jan Oort",
+    "confidence": [
+      [
+        "Jan",
+        -0.051562656
+      ],
+      [
+        " O",
+        -3.5313153e-06
+      ],
+      [
+        "ort",
+        0.0
+      ]
+    ]
+  },
+  "This astronomer's constants are two parameters to describe the major features of our Galaxy's differential rotation in the Sun's neighborhood, and he proposed that the Galaxy had missing mass. His establishment of the radio observatories at Dwingeloo and Westerbork put the Netherlands at the forefront of radioastronomy, in 1927 he calculated the mass and size of the Milky Way and the Sun's distance": {
+    "guess": "Jan Oort",
+    "confidence": [
+      [
+        "Jan",
+        -0.15474287
+      ],
+      [
+        " O",
+        -9.133887e-06
+      ],
+      [
+        "ort",
+        0.0
+      ]
+    ]
+  },
+  "This astronomer's constants are two parameters to describe the major features of our Galaxy's differential rotation in the Sun's neighborhood, and he proposed that the Galaxy had missing mass. His establishment of the radio observatories at Dwingeloo and Westerbork put the Netherlands at the forefront of radioastronomy, in 1927 he calculated the mass and size of the Milky Way and the Sun's distance from its center, and in the 1950s led the team that mapped the spiral structure of the Milky Way, but": {
+    "guess": "Jan Oort",
+    "confidence": [
+      [
+        "Jan",
+        -0.33854032
+      ],
+      [
+        " O",
+        -0.0002966128
+      ],
+      [
+        "ort",
+        0.0
+      ]
+    ]
+  },
+  "This astronomer's constants are two parameters to describe the major features of our Galaxy's differential rotation in the Sun's neighborhood, and he proposed that the Galaxy had missing mass. His establishment of the radio observatories at Dwingeloo and Westerbork put the Netherlands at the forefront of radioastronomy, in 1927 he calculated the mass and size of the Milky Way and the Sun's distance from its center, and in the 1950s led the team that mapped the spiral structure of the Milky Way, but is best-known for a proposal based on the observation of the highly elliptical orbits of comets.": {
+    "guess": "Oort cloud",
+    "confidence": [
+      [
+        "O",
+        -0.233364
+      ],
+      [
+        "ort",
+        -1.9361265e-07
+      ],
+      [
+        " cloud",
+        -0.47409764
+      ]
+    ]
+  },
+  "This astronomer's constants are two parameters to describe the major features of our Galaxy's differential rotation in the Sun's neighborhood, and he proposed that the Galaxy had missing mass. His establishment of the radio observatories at Dwingeloo and Westerbork put the Netherlands at the forefront of radioastronomy, in 1927 he calculated the mass and size of the Milky Way and the Sun's distance from its center, and in the 1950s led the team that mapped the spiral structure of the Milky Way, but is best-known for a proposal based on the observation of the highly elliptical orbits of comets. FTP, who was this Dutct astronomer for whom a hypothetical Cloud of comets is named?": {
+    "guess": "Oort Cloud",
+    "confidence": [
+      [
+        "O",
+        -0.029942563
+      ],
+      [
+        "ort",
+        -1.9361265e-07
+      ],
+      [
+        " Cloud",
+        -0.31340766
+      ]
+    ]
+  },
+  "These astronomical objects emit a radiation partially named for Beckenstein, and Penrose theorized a": {
+    "guess": "Black holes",
+    "confidence": [
+      [
+        "Black",
+        -0.05147853
+      ],
+      [
+        " holes",
+        -0.0143946605
+      ]
+    ]
+  },
+  "These astronomical objects emit a radiation partially named for Beckenstein, and Penrose theorized a process for extracting energy from rotating ones. These entities are smaller than their Schwarzchild": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -0.001983591
+      ],
+      [
+        " hole",
+        -0.00019936825
+      ]
+    ]
+  },
+  "These astronomical objects emit a radiation partially named for Beckenstein, and Penrose theorized a process for extracting energy from rotating ones. These entities are smaller than their Schwarzchild radius, which therefore becomes the event horizon for non-rotating ones. Containing (*) singularities": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -0.0024839845
+      ],
+      [
+        " hole",
+        -0.000520624
+      ]
+    ]
+  },
+  "These astronomical objects emit a radiation partially named for Beckenstein, and Penrose theorized a process for extracting energy from rotating ones. These entities are smaller than their Schwarzchild radius, which therefore becomes the event horizon for non-rotating ones. Containing (*) singularities at their center, name these astronomical bodies, for which Stephen Hawking developed four laws of": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -0.0067222337
+      ],
+      [
+        " hole",
+        -0.00030769507
+      ]
+    ]
+  },
+  "These astronomical objects emit a radiation partially named for Beckenstein, and Penrose theorized a process for extracting energy from rotating ones. These entities are smaller than their Schwarzchild radius, which therefore becomes the event horizon for non-rotating ones. Containing (*) singularities at their center, name these astronomical bodies, for which Stephen Hawking developed four laws of mechanics, that are so massive that not even light can escape their pull.": {
+    "guess": "Black hole",
+    "confidence": [
+      [
+        "Black",
+        -0.0018227393
+      ],
+      [
+        " hole",
+        -7.9702455e-05
+      ]
+    ]
+  },
+  "In astronomy, this term is used to describe a time selected as a point of reference. This term can also": {
+    "guess": "Epoch",
+    "confidence": [
+      [
+        "Epoch",
+        -0.00026801124
+      ]
+    ]
+  },
+  "In astronomy, this term is used to describe a time selected as a point of reference. This term can also be used to describe phases the universe went through after The Big Bang. On the geologic time scale,": {
+    "guess": "EPOCH",
+    "confidence": [
+      [
+        "E",
+        -0.22428313
+      ],
+      [
+        "POCH",
+        -0.0005697139
+      ]
+    ]
+  },
+  "In astronomy, this term is used to describe a time selected as a point of reference. This term can also be used to describe phases the universe went through after The Big Bang. On the geologic time scale, this term is less specific than stage but more specific than period. Name this category that includes": {
+    "guess": "Epoch",
+    "confidence": [
+      [
+        "Epoch",
+        -0.008286067
+      ]
+    ]
+  },
+  "In astronomy, this term is used to describe a time selected as a point of reference. This term can also be used to describe phases the universe went through after The Big Bang. On the geologic time scale, this term is less specific than stage but more specific than period. Name this category that includes the Middle Jurassic.": {
+    "guess": "Epoch",
+    "confidence": [
+      [
+        "Epoch",
+        -0.0047076805
+      ]
+    ]
+  }
+}

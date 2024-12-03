@@ -1,0 +1,485 @@
+{
+  "In a hypothetical universe where quark masses are made very large but the QCD scale unchanged, this would": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.10962766
+      ]
+    ]
+  },
+  "In a hypothetical universe where quark masses are made very large but the QCD scale unchanged, this would become the lightest meson, because the masses of the mesons we know would scale like quark masses.": {
+    "guess": "Pion",
+    "confidence": [
+      [
+        "P",
+        -0.08457934
+      ],
+      [
+        "ion",
+        -0.00034678652
+      ]
+    ]
+  },
+  "In a hypothetical universe where quark masses are made very large but the QCD scale unchanged, this would become the lightest meson, because the masses of the mesons we know would scale like quark masses.  Attempts to calculate its properties have made use of the AdS/CFT duality, or of lattice QCD. ": {
+    "guess": "Pion",
+    "confidence": [
+      [
+        "P",
+        -0.84269184
+      ],
+      [
+        "ion",
+        -0.0005436193
+      ]
+    ]
+  },
+  "In a hypothetical universe where quark masses are made very large but the QCD scale unchanged, this would become the lightest meson, because the masses of the mesons we know would scale like quark masses.  Attempts to calculate its properties have made use of the AdS/CFT duality, or of lattice QCD.  Experimentally it has remained elusive, perhaps because it is a broad resonance and mixed with other": {
+    "guess": "Glueball",
+    "confidence": [
+      [
+        "Glue",
+        -0.5413193
+      ],
+      [
+        "ball",
+        -9.4914985e-06
+      ]
+    ]
+  },
+  "In a hypothetical universe where quark masses are made very large but the QCD scale unchanged, this would become the lightest meson, because the masses of the mesons we know would scale like quark masses.  Attempts to calculate its properties have made use of the AdS/CFT duality, or of lattice QCD.  Experimentally it has remained elusive, perhaps because it is a broad resonance and mixed with other mesonic states.  A theoretical proof of its existence in Yang-Mills would demonstrate a mass gap and": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6370917
+      ]
+    ]
+  },
+  "In a hypothetical universe where quark masses are made very large but the QCD scale unchanged, this would become the lightest meson, because the masses of the mesons we know would scale like quark masses.  Attempts to calculate its properties have made use of the AdS/CFT duality, or of lattice QCD.  Experimentally it has remained elusive, perhaps because it is a broad resonance and mixed with other mesonic states.  A theoretical proof of its existence in Yang-Mills would demonstrate a mass gap and win a million-dollar Clay Institute prize.  FTP, what is this theoretical color-singlet state made": {
+    "guess": "Glueball",
+    "confidence": [
+      [
+        "Glue",
+        -0.5843707
+      ],
+      [
+        "ball",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "In a hypothetical universe where quark masses are made very large but the QCD scale unchanged, this would become the lightest meson, because the masses of the mesons we know would scale like quark masses.  Attempts to calculate its properties have made use of the AdS/CFT duality, or of lattice QCD.  Experimentally it has remained elusive, perhaps because it is a broad resonance and mixed with other mesonic states.  A theoretical proof of its existence in Yang-Mills would demonstrate a mass gap and win a million-dollar Clay Institute prize.  FTP, what is this theoretical color-singlet state made up of the force carriers of QCD, a bound state of gluons?": {
+    "guess": "Glueball",
+    "confidence": [
+      [
+        "Glue",
+        -0.004035895
+      ],
+      [
+        "ball",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "In a hypothesis, the progenote is the predecessor of all components of this level formulated in 1990.": {
+    "guess": "Domain (biology)",
+    "confidence": [
+      [
+        "Domain",
+        -0.25863847
+      ],
+      [
+        " (",
+        -0.1356638
+      ],
+      [
+        "biology",
+        -0.045043822
+      ],
+      [
+        ")",
+        -3.6431527e-05
+      ]
+    ]
+  },
+  "In a hypothesis, the progenote is the predecessor of all components of this level formulated in 1990. Its central definition is based on the differences by genome, therefore 2 of constituents of this level": {
+    "guess": "Domain (biology)",
+    "confidence": [
+      [
+        "Domain",
+        -0.0066334247
+      ],
+      [
+        " (",
+        -0.3441934
+      ],
+      [
+        "biology",
+        -0.1547491
+      ],
+      [
+        ")",
+        -4.143808e-05
+      ]
+    ]
+  },
+  "In a hypothesis, the progenote is the predecessor of all components of this level formulated in 1990. Its central definition is based on the differences by genome, therefore 2 of constituents of this level are filled with microscopic, primitive, prokaryotic organisms, and the third includes amoeba, slime": {
+    "guess": "Domain (biology)",
+    "confidence": [
+      [
+        "Domain",
+        -0.003482351
+      ],
+      [
+        " (",
+        -0.04899972
+      ],
+      [
+        "biology",
+        -0.060103577
+      ],
+      [
+        ")",
+        -3.3213026e-05
+      ]
+    ]
+  },
+  "In a hypothesis, the progenote is the predecessor of all components of this level formulated in 1990. Its central definition is based on the differences by genome, therefore 2 of constituents of this level are filled with microscopic, primitive, prokaryotic organisms, and the third includes amoeba, slime molds, paramecia and all other macroscopic forms of life. Eukarya is the most populous member of": {
+    "guess": "Three-domain system",
+    "confidence": [
+      [
+        "Three",
+        -0.3039086
+      ],
+      [
+        "-domain",
+        -1.247159e-05
+      ],
+      [
+        " system",
+        -0.00013941615
+      ]
+    ]
+  },
+  "In a hypothesis, the progenote is the predecessor of all components of this level formulated in 1990. Its central definition is based on the differences by genome, therefore 2 of constituents of this level are filled with microscopic, primitive, prokaryotic organisms, and the third includes amoeba, slime molds, paramecia and all other macroscopic forms of life. Eukarya is the most populous member of for ten points, what level below empire, but above kingdom that also includes Eubacteria and Archaea.": {
+    "guess": "Domain",
+    "confidence": [
+      [
+        "Domain",
+        -7.815281e-05
+      ]
+    ]
+  },
+  "It is hypothesized that they require freezing to flower because the cold damages the branch and stimulates": {
+    "guess": "Vernalization",
+    "confidence": [
+      [
+        "V",
+        -0.042733897
+      ],
+      [
+        "ernal",
+        -0.00012356207
+      ],
+      [
+        "ization",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "It is hypothesized that they require freezing to flower because the cold damages the branch and stimulates growth. The plant may reproduce from rhizomes or seeds and its flowers require pollination from": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.2017976
+      ]
+    ]
+  },
+  "It is hypothesized that they require freezing to flower because the cold damages the branch and stimulates growth. The plant may reproduce from rhizomes or seeds and its flowers require pollination from the yucca moth.* Unlike most trees, this one does not have annual growth rings and, in fact, its trunk": {
+    "guess": "Joshua tree",
+    "confidence": [
+      [
+        "Joshua",
+        -0.016825894
+      ],
+      [
+        " tree",
+        -0.0067159673
+      ]
+    ]
+  },
+  "It is hypothesized that they require freezing to flower because the cold damages the branch and stimulates growth. The plant may reproduce from rhizomes or seeds and its flowers require pollination from the yucca moth.* Unlike most trees, this one does not have annual growth rings and, in fact, its trunk consists of thousands of small fibers. They were supposedly named by Mormon settlers, who believed": {
+    "guess": "Joshua tree",
+    "confidence": [
+      [
+        "Joshua",
+        -0.0016354282
+      ],
+      [
+        " tree",
+        -0.0028053485
+      ]
+    ]
+  },
+  "It is hypothesized that they require freezing to flower because the cold damages the branch and stimulates growth. The plant may reproduce from rhizomes or seeds and its flowers require pollination from the yucca moth.* Unlike most trees, this one does not have annual growth rings and, in fact, its trunk consists of thousands of small fibers. They were supposedly named by Mormon settlers, who believed that the tree's upraised branches resembled that of a biblical patriarch. FTP, name this tree found": {
+    "guess": "Joshua tree",
+    "confidence": [
+      [
+        "Joshua",
+        -0.00061783916
+      ],
+      [
+        " tree",
+        -0.004620353
+      ]
+    ]
+  },
+  "It is hypothesized that they require freezing to flower because the cold damages the branch and stimulates growth. The plant may reproduce from rhizomes or seeds and its flowers require pollination from the yucca moth.* Unlike most trees, this one does not have annual growth rings and, in fact, its trunk consists of thousands of small fibers. They were supposedly named by Mormon settlers, who believed that the tree's upraised branches resembled that of a biblical patriarch. FTP, name this tree found primarily in the Mojave desert, the namesake of a national park in California.": {
+    "guess": "Joshua tree",
+    "confidence": [
+      [
+        "Joshua",
+        -6.384837e-05
+      ],
+      [
+        " tree",
+        -0.018150061
+      ]
+    ]
+  },
+  "Hyperplasia in this organ is associated with myasthenia gravis, while aplasia of it results from failure": {
+    "guess": "Thymus",
+    "confidence": [
+      [
+        "Th",
+        -0.0036332079
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Hyperplasia in this organ is associated with myasthenia gravis, while aplasia of it results from failure of the third and fourth pharyngeal pouches to develop and is known as DiGeorge syndrome. Keratinized": {
+    "guess": "Thymus",
+    "confidence": [
+      [
+        "Th",
+        -0.00010902656
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Hyperplasia in this organ is associated with myasthenia gravis, while aplasia of it results from failure of the third and fourth pharyngeal pouches to develop and is known as DiGeorge syndrome. Keratinized cells called Hassall's corpuscles are found in its medulla, and dendritic cells at its corticomedullary": {
+    "guess": "Thymus",
+    "confidence": [
+      [
+        "Th",
+        -4.954393e-05
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Hyperplasia in this organ is associated with myasthenia gravis, while aplasia of it results from failure of the third and fourth pharyngeal pouches to develop and is known as DiGeorge syndrome. Keratinized cells called Hassall's corpuscles are found in its medulla, and dendritic cells at its corticomedullary junction recognize self-reactive cells. Epithelial cells in its cortex express MHC molecules": {
+    "guess": "Thymus",
+    "confidence": [
+      [
+        "Th",
+        -0.00015514737
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Hyperplasia in this organ is associated with myasthenia gravis, while aplasia of it results from failure of the third and fourth pharyngeal pouches to develop and is known as DiGeorge syndrome. Keratinized cells called Hassall's corpuscles are found in its medulla, and dendritic cells at its corticomedullary junction recognize self-reactive cells. Epithelial cells in its cortex express MHC molecules that allow for positive selection. Found posterior to the manubrium of the sternum, this pyramid-shaped": {
+    "guess": "Thymus",
+    "confidence": [
+      [
+        "Th",
+        -0.00015657782
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Hyperplasia in this organ is associated with myasthenia gravis, while aplasia of it results from failure of the third and fourth pharyngeal pouches to develop and is known as DiGeorge syndrome. Keratinized cells called Hassall's corpuscles are found in its medulla, and dendritic cells at its corticomedullary junction recognize self-reactive cells. Epithelial cells in its cortex express MHC molecules that allow for positive selection. Found posterior to the manubrium of the sternum, this pyramid-shaped organ reaches its maximum size at puberty. For 10 points, identify this lymphoid organ, the site": {
+    "guess": "Thymus",
+    "confidence": [
+      [
+        "Th",
+        -4.6206227e-05
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Hyperplasia in this organ is associated with myasthenia gravis, while aplasia of it results from failure of the third and fourth pharyngeal pouches to develop and is known as DiGeorge syndrome. Keratinized cells called Hassall's corpuscles are found in its medulla, and dendritic cells at its corticomedullary junction recognize self-reactive cells. Epithelial cells in its cortex express MHC molecules that allow for positive selection. Found posterior to the manubrium of the sternum, this pyramid-shaped organ reaches its maximum size at puberty. For 10 points, identify this lymphoid organ, the site of T cell development.": {
+    "guess": "Thymus",
+    "confidence": [
+      [
+        "Th",
+        -0.0010413828
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Hypabyssal types of these rocks form discordant dikes, while plutonic types form cordant laccoliths.": {
+    "guess": "Intrusive rock",
+    "confidence": [
+      [
+        "Intr",
+        -0.09203629
+      ],
+      [
+        "usive",
+        -0.004647642
+      ],
+      [
+        " rock",
+        -0.00094231166
+      ]
+    ]
+  },
+  "Hypabyssal types of these rocks form discordant dikes, while plutonic types form cordant laccoliths. Mafic types of these rocks, which contain relatively heavier elements and are exemplified by peridotite,": {
+    "guess": "Intrusive rock",
+    "confidence": [
+      [
+        "Intr",
+        -0.034106996
+      ],
+      [
+        "usive",
+        -4.0722858e-05
+      ],
+      [
+        " rock",
+        -0.00030090412
+      ]
+    ]
+  },
+  "Hypabyssal types of these rocks form discordant dikes, while plutonic types form cordant laccoliths. Mafic types of these rocks, which contain relatively heavier elements and are exemplified by peridotite, are contrasted with their felsic types including rhyolite. One of these rocks that cools without": {
+    "guess": "Intrusive rock",
+    "confidence": [
+      [
+        "Intr",
+        -0.09907282
+      ],
+      [
+        "usive",
+        -1.6882126e-05
+      ],
+      [
+        " rock",
+        -0.00038956228
+      ]
+    ]
+  },
+  "Hypabyssal types of these rocks form discordant dikes, while plutonic types form cordant laccoliths. Mafic types of these rocks, which contain relatively heavier elements and are exemplified by peridotite, are contrasted with their felsic types including rhyolite. One of these rocks that cools without forming crystals, obsidian, is an extrusive type of these rocks as is basalt, while granite is an": {
+    "guess": "Igneous rock",
+    "confidence": [
+      [
+        "Ig",
+        -0.037739966
+      ],
+      [
+        "ne",
+        -3.1281633e-07
+      ],
+      [
+        "ous",
+        0.0
+      ],
+      [
+        " rock",
+        -1.3306016e-05
+      ]
+    ]
+  },
+  "Hypabyssal types of these rocks form discordant dikes, while plutonic types form cordant laccoliths. Mafic types of these rocks, which contain relatively heavier elements and are exemplified by peridotite, are contrasted with their felsic types including rhyolite. One of these rocks that cools without forming crystals, obsidian, is an extrusive type of these rocks as is basalt, while granite is an extrusive one of these. For 10 points, name this type of rocks formed from magma, contrasted with sedimentary": {
+    "guess": "Igneous rock",
+    "confidence": [
+      [
+        "Ig",
+        -0.0010361451
+      ],
+      [
+        "ne",
+        0.0
+      ],
+      [
+        "ous",
+        0.0
+      ],
+      [
+        " rock",
+        -5.5577775e-06
+      ]
+    ]
+  },
+  "Hypabyssal types of these rocks form discordant dikes, while plutonic types form cordant laccoliths. Mafic types of these rocks, which contain relatively heavier elements and are exemplified by peridotite, are contrasted with their felsic types including rhyolite. One of these rocks that cools without forming crystals, obsidian, is an extrusive type of these rocks as is basalt, while granite is an extrusive one of these. For 10 points, name this type of rocks formed from magma, contrasted with sedimentary and metamorphic rocks.": {
+    "guess": "Igneous rock",
+    "confidence": [
+      [
+        "Ig",
+        -0.0040894435
+      ],
+      [
+        "ne",
+        -1.9361265e-07
+      ],
+      [
+        "ous",
+        0.0
+      ],
+      [
+        " rock",
+        -5.5577775e-06
+      ]
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "The dot product of two vectors over the product of their lengths gives this function of the angle between": {
+    "guess": "Cosine",
+    "confidence": [
+      [
+        "Cos",
+        -0.0029229221
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "The dot product of two vectors over the product of their lengths gives this function of the angle between them. A law named for this function generalizes the Pythagorean theorem to non-right triangles;": {
+    "guess": "Cosine",
+    "confidence": [
+      [
+        "Cos",
+        -0.010135448
+      ],
+      [
+        "ine",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The dot product of two vectors over the product of their lengths gives this function of the angle between them. A law named for this function generalizes the Pythagorean theorem to non-right triangles; it uses two sides of a triangle and the included angle to find the length of the third side. (*) For": {
+    "guess": "Cosine law",
+    "confidence": [
+      [
+        "Cos",
+        -0.038421843
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " law",
+        -0.99395967
+      ]
+    ]
+  },
+  "The dot product of two vectors over the product of their lengths gives this function of the angle between them. A law named for this function generalizes the Pythagorean theorem to non-right triangles; it uses two sides of a triangle and the included angle to find the length of the third side. (*) For 10 points, name this trigonometric ratio commonly calculated as \"adjacent over hypotenuse\" in right": {
+    "guess": "Cosine",
+    "confidence": [
+      [
+        "Cos",
+        -0.00072029565
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "The dot product of two vectors over the product of their lengths gives this function of the angle between them. A law named for this function generalizes the Pythagorean theorem to non-right triangles; it uses two sides of a triangle and the included angle to find the length of the third side. (*) For 10 points, name this trigonometric ratio commonly calculated as \"adjacent over hypotenuse\" in right triangles.": {
+    "guess": "Cosine",
+    "confidence": [
+      [
+        "Cos",
+        -0.0004624856
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "Dostoyevsky's The Brothers Karamazov, features, shockingly, the four brothers of the title family. Given": {
+    "guess": "The Brothers Karamazov",
+    "confidence": [
+      [
+        "The",
+        -0.7068821
+      ],
+      [
+        " Brothers",
+        -0.02382418
+      ],
+      [
+        " K",
+        -3.1281633e-07
+      ],
+      [
+        "aram",
+        0.0
+      ],
+      [
+        "az",
+        -5.5122365e-07
+      ],
+      [
+        "ov",
+        0.0
+      ]
+    ]
+  },
+  "Dostoyevsky's The Brothers Karamazov, features, shockingly, the four brothers of the title family. Given a description, identify the brother, 5 for one, 10 for two, 20 for three, and 30 for all four. ": {
+    "guess": "The Brothers Karamazov (characters)",
+    "confidence": [
+      [
+        "The",
+        -0.30323988
+      ],
+      [
+        " Brothers",
+        -0.004209463
+      ],
+      [
+        " K",
+        -9.0883464e-07
+      ],
+      [
+        "aram",
+        0.0
+      ],
+      [
+        "az",
+        -1.3856493e-06
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        " (",
+        -0.74986553
+      ],
+      [
+        "characters",
+        -0.45267403
+      ],
+      [
+        ")",
+        -0.0010431708
+      ]
+    ]
+  },
+  "Dostoyevsky's The Brothers Karamazov, features, shockingly, the four brothers of the title family. Given a description, identify the brother, 5 for one, 10 for two, 20 for three, and 30 for all four.  [1] The eldest brother, he is haunted by sin throughout the book, though his act of ditching his fianc\u00e9e": {
+    "guess": "Dmitri Karamazov",
+    "confidence": [
+      [
+        "D",
+        -0.051198926
+      ],
+      [
+        "mit",
+        -0.0019286326
+      ],
+      [
+        "ri",
+        -0.004087424
+      ],
+      [
+        " K",
+        -0.0005580356
+      ],
+      [
+        "aram",
+        0.0
+      ],
+      [
+        "az",
+        0.0
+      ],
+      [
+        "ov",
+        0.0
+      ]
+    ]
+  },
+  "Dostoyevsky's The Brothers Karamazov, features, shockingly, the four brothers of the title family. Given a description, identify the brother, 5 for one, 10 for two, 20 for three, and 30 for all four.  [1] The eldest brother, he is haunted by sin throughout the book, though his act of ditching his fianc\u00e9e probably didn't help his standing with God. He didn't commit the murder he's accused of, though,": {
+    "guess": "Dmitri Karamazov",
+    "confidence": [
+      [
+        "D",
+        -0.0397778
+      ],
+      [
+        "mit",
+        -0.0040785205
+      ],
+      [
+        "ri",
+        -0.011060908
+      ],
+      [
+        " K",
+        -0.00060236105
+      ],
+      [
+        "aram",
+        0.0
+      ],
+      [
+        "az",
+        -1.9361265e-07
+      ],
+      [
+        "ov",
+        0.0
+      ]
+    ]
+  },
+  "Dostoyevsky's The Brothers Karamazov, features, shockingly, the four brothers of the title family. Given a description, identify the brother, 5 for one, 10 for two, 20 for three, and 30 for all four.  [1] The eldest brother, he is haunted by sin throughout the book, though his act of ditching his fianc\u00e9e probably didn't help his standing with God. He didn't commit the murder he's accused of, though, so that's good.": {
+    "guess": "Dmitri Karamazov",
+    "confidence": [
+      [
+        "D",
+        -0.017532356
+      ],
+      [
+        "mit",
+        -0.003177833
+      ],
+      [
+        "ri",
+        -0.005240037
+      ],
+      [
+        " K",
+        -0.00079188205
+      ],
+      [
+        "aram",
+        0.0
+      ],
+      [
+        "az",
+        -1.9361265e-07
+      ],
+      [
+        "ov",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "The DC Josephson effect occurs because of this effect. This effect is used in STMs, which are a type": {
+    "guess": "Quantum tunnelling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.022977324
+      ],
+      [
+        " tunn",
+        -1.8624639e-06
+      ],
+      [
+        "elling",
+        -0.04858737
+      ]
+    ]
+  },
+  "The DC Josephson effect occurs because of this effect. This effect is used in STMs, which are a type of microscopes. Calculating the probability of this happening for a Heaviside step function requires": {
+    "guess": "Quantum tunnelling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.15140358
+      ],
+      [
+        " tunn",
+        -1.569009e-05
+      ],
+      [
+        "elling",
+        -0.07888979
+      ]
+    ]
+  },
+  "The DC Josephson effect occurs because of this effect. This effect is used in STMs, which are a type of microscopes. Calculating the probability of this happening for a Heaviside step function requires using the boundary conditions that the wavefunction and its derivative have to be continuous everywhere.": {
+    "guess": "Quantum tunnelling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.0024182263
+      ],
+      [
+        " tunn",
+        -2.3392786e-06
+      ],
+      [
+        "elling",
+        -0.07888979
+      ]
+    ]
+  },
+  "The DC Josephson effect occurs because of this effect. This effect is used in STMs, which are a type of microscopes. Calculating the probability of this happening for a Heaviside step function requires using the boundary conditions that the wavefunction and its derivative have to be continuous everywhere. The probability of this happening has a hyperbolic sine squared in its denominator and this was": {
+    "guess": "Quantum tunnelling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.005423243
+      ],
+      [
+        " tunn",
+        -3.655073e-05
+      ],
+      [
+        "elling",
+        -0.10020667
+      ]
+    ]
+  },
+  "The DC Josephson effect occurs because of this effect. This effect is used in STMs, which are a type of microscopes. Calculating the probability of this happening for a Heaviside step function requires using the boundary conditions that the wavefunction and its derivative have to be continuous everywhere. The probability of this happening has a hyperbolic sine squared in its denominator and this was used to explain (*) alpha decay as protons would need a large amount of energy to leave the nucleus.": {
+    "guess": "Quantum tunnelling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.0010314998
+      ],
+      [
+        " tunn",
+        -1.9146995e-05
+      ],
+      [
+        "elling",
+        -0.20141333
+      ]
+    ]
+  },
+  "The DC Josephson effect occurs because of this effect. This effect is used in STMs, which are a type of microscopes. Calculating the probability of this happening for a Heaviside step function requires using the boundary conditions that the wavefunction and its derivative have to be continuous everywhere. The probability of this happening has a hyperbolic sine squared in its denominator and this was used to explain (*) alpha decay as protons would need a large amount of energy to leave the nucleus. This effect happens when a potential barrier is greater than the energy of a moving particle and": {
+    "guess": "Quantum tunneling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.008903142
+      ],
+      [
+        " tunn",
+        -0.0002632431
+      ],
+      [
+        "eling",
+        -0.00150236
+      ]
+    ]
+  },
+  "The DC Josephson effect occurs because of this effect. This effect is used in STMs, which are a type of microscopes. Calculating the probability of this happening for a Heaviside step function requires using the boundary conditions that the wavefunction and its derivative have to be continuous everywhere. The probability of this happening has a hyperbolic sine squared in its denominator and this was used to explain (*) alpha decay as protons would need a large amount of energy to leave the nucleus. This effect happens when a potential barrier is greater than the energy of a moving particle and the particle moves through the barrier. For 10 points, name this quantum mechanical effect.": {
+    "guess": "Quantum tunnelling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.0002844577
+      ],
+      [
+        " tunn",
+        -8.709308e-05
+      ],
+      [
+        "elling",
+        -0.07888979
+      ]
+    ]
+  }
+}

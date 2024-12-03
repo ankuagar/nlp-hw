@@ -1,0 +1,142 @@
+{
+  "The Kakutani fixed point theorem applies to functions operating on subsets of this. The standard\n formulation": {
+    "guess": "Topological vector space",
+    "confidence": [
+      [
+        "Top",
+        -0.9581629
+      ],
+      [
+        "ological",
+        -1.0280384e-06
+      ],
+      [
+        " vector",
+        -0.01156456
+      ],
+      [
+        " space",
+        -0.00150236
+      ]
+    ]
+  },
+  "The Kakutani fixed point theorem applies to functions operating on subsets of this. The standard\n formulation of the Vitali covering lemma has a collection in this as its subject. Transformations in these": {
+    "guess": "Euclidean space",
+    "confidence": [
+      [
+        "Eu",
+        -0.05023484
+      ],
+      [
+        "clidean",
+        -2.577686e-06
+      ],
+      [
+        " space",
+        -0.5761652
+      ]
+    ]
+  },
+  "The Kakutani fixed point theorem applies to functions operating on subsets of this. The standard\n formulation of the Vitali covering lemma has a collection in this as its subject. Transformations in these are\n called rigid motions. One way to generalize length to subsets of this is the Lebesgue measure.": {
+    "guess": "Euclidean space",
+    "confidence": [
+      [
+        "Eu",
+        -0.02310198
+      ],
+      [
+        "clidean",
+        -2.577686e-06
+      ],
+      [
+        " space",
+        -0.0002390594
+      ]
+    ]
+  },
+  "The Kakutani fixed point theorem applies to functions operating on subsets of this. The standard\n formulation of the Vitali covering lemma has a collection in this as its subject. Transformations in these are\n called rigid motions. One way to generalize length to subsets of this is the Lebesgue measure. Each point in\n a manifold has a neighborhood that is homeomorphic to a set in one of these. The": {
+    "guess": "Euclidean space",
+    "confidence": [
+      [
+        "Eu",
+        -0.0042652506
+      ],
+      [
+        "clidean",
+        -1.8624639e-06
+      ],
+      [
+        " space",
+        -0.0001752928
+      ]
+    ]
+  },
+  "The Kakutani fixed point theorem applies to functions operating on subsets of this. The standard\n formulation of the Vitali covering lemma has a collection in this as its subject. Transformations in these are\n called rigid motions. One way to generalize length to subsets of this is the Lebesgue measure. Each point in\n a manifold has a neighborhood that is homeomorphic to a set in one of these. The linear combinations of\n either the rows or columns of a real valued matrix make a closed, zero containing": {
+    "guess": "Euclidean space",
+    "confidence": [
+      [
+        "Eu",
+        -0.008440348
+      ],
+      [
+        "clidean",
+        -2.9352968e-06
+      ],
+      [
+        " space",
+        -0.00020735491
+      ]
+    ]
+  },
+  "The Kakutani fixed point theorem applies to functions operating on subsets of this. The standard\n formulation of the Vitali covering lemma has a collection in this as its subject. Transformations in these are\n called rigid motions. One way to generalize length to subsets of this is the Lebesgue measure. Each point in\n a manifold has a neighborhood that is homeomorphic to a set in one of these. The linear combinations of\n either the rows or columns of a real valued matrix make a closed, zero containing subset of this. It is a\n metric space whose metric function is the Pythagorean theorem for its": {
+    "guess": "Euclidean space",
+    "confidence": [
+      [
+        "Eu",
+        -0.0013885662
+      ],
+      [
+        "clidean",
+        -1.2664457e-06
+      ],
+      [
+        " space",
+        -0.0486035
+      ]
+    ]
+  },
+  "The Kakutani fixed point theorem applies to functions operating on subsets of this. The standard\n formulation of the Vitali covering lemma has a collection in this as its subject. Transformations in these are\n called rigid motions. One way to generalize length to subsets of this is the Lebesgue measure. Each point in\n a manifold has a neighborhood that is homeomorphic to a set in one of these. The linear combinations of\n either the rows or columns of a real valued matrix make a closed, zero containing subset of this. It is a\n metric space whose metric function is the Pythagorean theorem for its dimension and its inner product is\n the dot product. For 10 points, name these spaces symbolized by": {
+    "guess": "Euclidean space",
+    "confidence": [
+      [
+        "Eu",
+        -0.043195922
+      ],
+      [
+        "clidean",
+        -1.3186812e-05
+      ],
+      [
+        " space",
+        -0.19529375
+      ]
+    ]
+  },
+  "The Kakutani fixed point theorem applies to functions operating on subsets of this. The standard\n formulation of the Vitali covering lemma has a collection in this as its subject. Transformations in these are\n called rigid motions. One way to generalize length to subsets of this is the Lebesgue measure. Each point in\n a manifold has a neighborhood that is homeomorphic to a set in one of these. The linear combinations of\n either the rows or columns of a real valued matrix make a closed, zero containing subset of this. It is a\n metric space whose metric function is the Pythagorean theorem for its dimension and its inner product is\n the dot product. For 10 points, name these spaces symbolized by a blackboard capital R to the n, which are\n named for the Greek author of the Elements.": {
+    "guess": "Euclidean space",
+    "confidence": [
+      [
+        "Eu",
+        -0.009139192
+      ],
+      [
+        "clidean",
+        -2.9040899e-05
+      ],
+      [
+        " space",
+        -0.4494655
+      ]
+    ]
+  }
+}

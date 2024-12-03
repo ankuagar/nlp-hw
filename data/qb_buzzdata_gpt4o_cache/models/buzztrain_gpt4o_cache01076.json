@@ -1,0 +1,156 @@
+{
+  "It cuts out Goring Gap and receives the Medway and Churn. Fry's Island and Canvey Island are found within": {
+    "guess": "Thames",
+    "confidence": [
+      [
+        "Th",
+        -0.0014395195
+      ],
+      [
+        "ames",
+        0.0
+      ]
+    ]
+  },
+  "It cuts out Goring Gap and receives the Medway and Churn. Fry's Island and Canvey Island are found within it, and it ends after Teddington Lock near the lighthouse at Nore. Its freshwater to estuary transition": {
+    "guess": "River Thames",
+    "confidence": [
+      [
+        "River",
+        -0.03089543
+      ],
+      [
+        " Thames",
+        0.0
+      ]
+    ]
+  },
+  "It cuts out Goring Gap and receives the Medway and Churn. Fry's Island and Canvey Island are found within it, and it ends after Teddington Lock near the lighthouse at Nore. Its freshwater to estuary transition occurs at Battersea. The Jubilee River was built during the 1990s to divert floodwater from": {
+    "guess": "River Thames",
+    "confidence": [
+      [
+        "River",
+        -0.006976553
+      ],
+      [
+        " Thames",
+        0.0
+      ]
+    ]
+  },
+  "It cuts out Goring Gap and receives the Medway and Churn. Fry's Island and Canvey Island are found within it, and it ends after Teddington Lock near the lighthouse at Nore. Its freshwater to estuary transition occurs at Battersea. The Jubilee River was built during the 1990s to divert floodwater from this river, which originates near Kemble village in the Cotswold Hills of Gloucestershire County. It": {
+    "guess": "River Thames",
+    "confidence": [
+      [
+        "River",
+        -0.025001273
+      ],
+      [
+        " Thames",
+        0.0
+      ]
+    ]
+  },
+  "It cuts out Goring Gap and receives the Medway and Churn. Fry's Island and Canvey Island are found within it, and it ends after Teddington Lock near the lighthouse at Nore. Its freshwater to estuary transition occurs at Battersea. The Jubilee River was built during the 1990s to divert floodwater from this river, which originates near Kemble village in the Cotswold Hills of Gloucestershire County. It is called the Isis when it flows through Oxford. FTP, connects London to the sea.": {
+    "guess": "River Thames",
+    "confidence": [
+      [
+        "River",
+        -0.0019537294
+      ],
+      [
+        " Thames",
+        0.0
+      ]
+    ]
+  },
+  "The cut-off portions of this painting depict two new characters and complete the image of the step and": {
+    "guess": "The Last Supper",
+    "confidence": [
+      [
+        "The",
+        -0.20503795
+      ],
+      [
+        " Last",
+        -0.21111245
+      ],
+      [
+        " Sup",
+        -9.74638e-05
+      ],
+      [
+        "per",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The cut-off portions of this painting depict two new characters and complete the image of the step and balustrade. The interplay of light and shadow in this painting obscures the flag but instead emphasizes": {
+    "guess": "Nighthawks",
+    "confidence": [
+      [
+        "N",
+        -0.41622487
+      ],
+      [
+        "ighth",
+        -0.0001791073
+      ],
+      [
+        "awks",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The cut-off portions of this painting depict two new characters and complete the image of the step and balustrade. The interplay of light and shadow in this painting obscures the flag but instead emphasizes a girl who holds a goblet while her belt holds a pistol and a dead chicken. The yellow-clad girl": {
+    "guess": "The Night Watch",
+    "confidence": [
+      [
+        "The",
+        -0.002494922
+      ],
+      [
+        " Night",
+        -1.0280384e-06
+      ],
+      [
+        " Watch",
+        0.0
+      ]
+    ]
+  },
+  "The cut-off portions of this painting depict two new characters and complete the image of the step and balustrade. The interplay of light and shadow in this painting obscures the flag but instead emphasizes a girl who holds a goblet while her belt holds a pistol and a dead chicken. The yellow-clad girl symbolizes the Arquebusiers, and the two men to her right are the officers of the company. FTP, name": {
+    "guess": "The Night Watch",
+    "confidence": [
+      [
+        "The",
+        -0.00091408606
+      ],
+      [
+        " Night",
+        -1.9361265e-07
+      ],
+      [
+        " Watch",
+        0.0
+      ]
+    ]
+  },
+  "The cut-off portions of this painting depict two new characters and complete the image of the step and balustrade. The interplay of light and shadow in this painting obscures the flag but instead emphasizes a girl who holds a goblet while her belt holds a pistol and a dead chicken. The yellow-clad girl symbolizes the Arquebusiers, and the two men to her right are the officers of the company. FTP, name this Rembrandt painting that actually depicts a daytime scene.          |": {
+    "guess": "The Night Watch",
+    "confidence": [
+      [
+        "The",
+        -0.0024768433
+      ],
+      [
+        " Night",
+        0.0
+      ],
+      [
+        " Watch",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,2657 @@
+{
+  "Silicon-substituted cyclic compounds have been used as \"pumps\" to generate this class of chemicals in": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.27151185
+      ]
+    ]
+  },
+  "Silicon-substituted cyclic compounds have been used as \"pumps\" to generate this class of chemicals in the formation of block copolymers.  Laser flash photolysis of ketoprofenate produces an example of": {
+    "guess": "Carbenes",
+    "confidence": [
+      [
+        "Car",
+        -0.52252555
+      ],
+      [
+        "ben",
+        -0.1759168
+      ],
+      [
+        "es",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Silicon-substituted cyclic compounds have been used as \"pumps\" to generate this class of chemicals in the formation of block copolymers.  Laser flash photolysis of ketoprofenate produces an example of this class of compounds that is unusually unreactive with water.  In unimolecular elimination via the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7109716
+      ]
+    ]
+  },
+  "Silicon-substituted cyclic compounds have been used as \"pumps\" to generate this class of chemicals in the formation of block copolymers.  Laser flash photolysis of ketoprofenate produces an example of this class of compounds that is unusually unreactive with water.  In unimolecular elimination via the conjugate base, the intermediate is one of these compounds.  Wittig-Horner and Horner-Emmons reactions": {
+    "guess": "Ylide",
+    "confidence": [
+      [
+        "Y",
+        -0.043614943
+      ],
+      [
+        "lide",
+        -0.0007687712
+      ]
+    ]
+  },
+  "Silicon-substituted cyclic compounds have been used as \"pumps\" to generate this class of chemicals in the formation of block copolymers.  Laser flash photolysis of ketoprofenate produces an example of this class of compounds that is unusually unreactive with water.  In unimolecular elimination via the conjugate base, the intermediate is one of these compounds.  Wittig-Horner and Horner-Emmons reactions use resonance-stabilized phosphonate examples of these in place of the phosphonium ylide, and in": {
+    "guess": "Ylide",
+    "confidence": [
+      [
+        "Y",
+        -0.13266636
+      ],
+      [
+        "lide",
+        -0.0016907735
+      ]
+    ]
+  },
+  "Silicon-substituted cyclic compounds have been used as \"pumps\" to generate this class of chemicals in the formation of block copolymers.  Laser flash photolysis of ketoprofenate produces an example of this class of compounds that is unusually unreactive with water.  In unimolecular elimination via the conjugate base, the intermediate is one of these compounds.  Wittig-Horner and Horner-Emmons reactions use resonance-stabilized phosphonate examples of these in place of the phosphonium ylide, and in the first step of the malonic ester synthesis, diethyl malonate is treated with sodium to generate": {
+    "guess": "Enolate",
+    "confidence": [
+      [
+        "En",
+        -0.9924879
+      ],
+      [
+        "olate",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "Silicon-substituted cyclic compounds have been used as \"pumps\" to generate this class of chemicals in the formation of block copolymers.  Laser flash photolysis of ketoprofenate produces an example of this class of compounds that is unusually unreactive with water.  In unimolecular elimination via the conjugate base, the intermediate is one of these compounds.  Wittig-Horner and Horner-Emmons reactions use resonance-stabilized phosphonate examples of these in place of the phosphonium ylide, and in the first step of the malonic ester synthesis, diethyl malonate is treated with sodium to generate this type of reactive species.  Less substituted examples of these are more stable, and they have the": {
+    "guess": "Enolate",
+    "confidence": [
+      [
+        "En",
+        -0.6172266
+      ],
+      [
+        "olate",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "Silicon-substituted cyclic compounds have been used as \"pumps\" to generate this class of chemicals in the formation of block copolymers.  Laser flash photolysis of ketoprofenate produces an example of this class of compounds that is unusually unreactive with water.  In unimolecular elimination via the conjugate base, the intermediate is one of these compounds.  Wittig-Horner and Horner-Emmons reactions use resonance-stabilized phosphonate examples of these in place of the phosphonium ylide, and in the first step of the malonic ester synthesis, diethyl malonate is treated with sodium to generate this type of reactive species.  Less substituted examples of these are more stable, and they have the same electron structures as analogous amines, though they are stronger nucleophiles.  For 10 points,": {
+    "guess": "Enolate",
+    "confidence": [
+      [
+        "En",
+        -0.29247975
+      ],
+      [
+        "olate",
+        -1.1517961e-05
+      ]
+    ]
+  },
+  "Silicon-substituted cyclic compounds have been used as \"pumps\" to generate this class of chemicals in the formation of block copolymers.  Laser flash photolysis of ketoprofenate produces an example of this class of compounds that is unusually unreactive with water.  In unimolecular elimination via the conjugate base, the intermediate is one of these compounds.  Wittig-Horner and Horner-Emmons reactions use resonance-stabilized phosphonate examples of these in place of the phosphonium ylide, and in the first step of the malonic ester synthesis, diethyl malonate is treated with sodium to generate this type of reactive species.  Less substituted examples of these are more stable, and they have the same electron structures as analogous amines, though they are stronger nucleophiles.  For 10 points, name these compounds that contain a trivalent carbon atom with a negative charge.": {
+    "guess": "Carbanion",
+    "confidence": [
+      [
+        "Car",
+        -0.024971971
+      ],
+      [
+        "ban",
+        -3.2929079e-06
+      ],
+      [
+        "ion",
+        -0.00033546583
+      ]
+    ]
+  },
+  "A similar reaction to this uses a tetrafluoroborate salt to substitute fluorine onto an aryl amine; this": {
+    "guess": "Balz\u2013Schiemann reaction",
+    "confidence": [
+      [
+        "Bal",
+        -0.30202973
+      ],
+      [
+        "z",
+        -6.704273e-07
+      ],
+      [
+        "\u2013",
+        -0.22541568
+      ],
+      [
+        "S",
+        -6.704273e-07
+      ],
+      [
+        "chi",
+        -1.9361265e-07
+      ],
+      [
+        "emann",
+        -0.0011718906
+      ],
+      [
+        " reaction",
+        -8.4947416e-05
+      ]
+    ]
+  },
+  "A similar reaction to this uses a tetrafluoroborate salt to substitute fluorine onto an aryl amine; this is known as the Schiemann reaction.  Other variations of this reaction include the use of cuprous": {
+    "guess": "Sandmeyer reaction",
+    "confidence": [
+      [
+        "Sand",
+        -0.0069963275
+      ],
+      [
+        "mey",
+        0.0
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " reaction",
+        -1.0802739e-05
+      ]
+    ]
+  },
+  "A similar reaction to this uses a tetrafluoroborate salt to substitute fluorine onto an aryl amine; this is known as the Schiemann reaction.  Other variations of this reaction include the use of cuprous cyanide to form benzonitriles, a thiol to create thioethers, or water to generate phenols.  Often": {
+    "guess": "Sandmeyer reaction",
+    "confidence": [
+      [
+        "Sand",
+        -0.0004730911
+      ],
+      [
+        "mey",
+        0.0
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " reaction",
+        -1.7239736e-05
+      ]
+    ]
+  },
+  "A similar reaction to this uses a tetrafluoroborate salt to substitute fluorine onto an aryl amine; this is known as the Schiemann reaction.  Other variations of this reaction include the use of cuprous cyanide to form benzonitriles, a thiol to create thioethers, or water to generate phenols.  Often requiring heat to be driven to completion, it involves treating with nitrous acid to produce a diazonium": {
+    "guess": "Diazotization",
+    "confidence": [
+      [
+        "Dia",
+        -0.39348736
+      ],
+      [
+        "z",
+        -0.16122134
+      ],
+      [
+        "ot",
+        -0.00019316968
+      ],
+      [
+        "ization",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "A similar reaction to this uses a tetrafluoroborate salt to substitute fluorine onto an aryl amine; this is known as the Schiemann reaction.  Other variations of this reaction include the use of cuprous cyanide to form benzonitriles, a thiol to create thioethers, or water to generate phenols.  Often requiring heat to be driven to completion, it involves treating with nitrous acid to produce a diazonium ion, and allows the replacement of amine groups of an aromatic amine with substituents of choice.": {
+    "guess": "Sandmeyer reaction",
+    "confidence": [
+      [
+        "Sand",
+        -0.35014427
+      ],
+      [
+        "mey",
+        0.0
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " reaction",
+        -9.4914985e-06
+      ]
+    ]
+  },
+  "A similar reaction to this uses a tetrafluoroborate salt to substitute fluorine onto an aryl amine; this is known as the Schiemann reaction.  Other variations of this reaction include the use of cuprous cyanide to form benzonitriles, a thiol to create thioethers, or water to generate phenols.  Often requiring heat to be driven to completion, it involves treating with nitrous acid to produce a diazonium ion, and allows the replacement of amine groups of an aromatic amine with substituents of choice.   FTP, name this reaction which is most commonly used to synthesize aryl halides from aryl amines": {
+    "guess": "Sandmeyer reaction",
+    "confidence": [
+      [
+        "Sand",
+        -0.020677354
+      ],
+      [
+        "mey",
+        0.0
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " reaction",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "A similar reaction to this uses a tetrafluoroborate salt to substitute fluorine onto an aryl amine; this is known as the Schiemann reaction.  Other variations of this reaction include the use of cuprous cyanide to form benzonitriles, a thiol to create thioethers, or water to generate phenols.  Often requiring heat to be driven to completion, it involves treating with nitrous acid to produce a diazonium ion, and allows the replacement of amine groups of an aromatic amine with substituents of choice.   FTP, name this reaction which is most commonly used to synthesize aryl halides from aryl amines by proceeding through a diazonium salt.": {
+    "guess": "Sandmeyer reaction",
+    "confidence": [
+      [
+        "Sand",
+        -0.039658763
+      ],
+      [
+        "mey",
+        0.0
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " reaction",
+        -4.9617593e-06
+      ]
+    ]
+  },
+  "One of them simply depicts a plain coastal landscape on which two men are fighting with sticks. Ethereal": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0768096
+      ]
+    ]
+  },
+  "One of them simply depicts a plain coastal landscape on which two men are fighting with sticks. Ethereal figures sit behind several real women and a laurel-wreathed horned animal standing on its hind legs": {
+    "guess": "Blue",
+    "confidence": [
+      [
+        "Blue",
+        -1.2407492
+      ]
+    ]
+  },
+  "One of them simply depicts a plain coastal landscape on which two men are fighting with sticks. Ethereal figures sit behind several real women and a laurel-wreathed horned animal standing on its hind legs in The Witches' Sabbath, and other subjects include a drowning dog, old people eating, and Judith": {
+    "guess": "Black Paintings",
+    "confidence": [
+      [
+        "Black",
+        -0.050244022
+      ],
+      [
+        " Paint",
+        -0.0008111747
+      ],
+      [
+        "ings",
+        0.0
+      ]
+    ]
+  },
+  "One of them simply depicts a plain coastal landscape on which two men are fighting with sticks. Ethereal figures sit behind several real women and a laurel-wreathed horned animal standing on its hind legs in The Witches' Sabbath, and other subjects include a drowning dog, old people eating, and Judith and Holofernes. Created in the \"Quinta del sordo\" or \"Country-house of the Deaf-Man,\" this series": {
+    "guess": "Black Paintings",
+    "confidence": [
+      [
+        "Black",
+        -0.0014263062
+      ],
+      [
+        " Paint",
+        -1.9361265e-07
+      ],
+      [
+        "ings",
+        0.0
+      ]
+    ]
+  },
+  "One of them simply depicts a plain coastal landscape on which two men are fighting with sticks. Ethereal figures sit behind several real women and a laurel-wreathed horned animal standing on its hind legs in The Witches' Sabbath, and other subjects include a drowning dog, old people eating, and Judith and Holofernes. Created in the \"Quinta del sordo\" or \"Country-house of the Deaf-Man,\" this series that also depicts Saturn Devouring His Children reflects similar themes to the earlier Caprichios and": {
+    "guess": "Black Paintings",
+    "confidence": [
+      [
+        "Black",
+        -0.005630709
+      ],
+      [
+        " Paint",
+        -4.00813e-06
+      ],
+      [
+        "ings",
+        0.0
+      ]
+    ]
+  },
+  "One of them simply depicts a plain coastal landscape on which two men are fighting with sticks. Ethereal figures sit behind several real women and a laurel-wreathed horned animal standing on its hind legs in The Witches' Sabbath, and other subjects include a drowning dog, old people eating, and Judith and Holofernes. Created in the \"Quinta del sordo\" or \"Country-house of the Deaf-Man,\" this series that also depicts Saturn Devouring His Children reflects similar themes to the earlier Caprichios and Disasters of War. FTP, name this series of somber Goya paintings named for a traditionally depressing": {
+    "guess": "Black Paintings",
+    "confidence": [
+      [
+        "Black",
+        -0.0052811885
+      ],
+      [
+        " Paint",
+        -1.147242e-06
+      ],
+      [
+        "ings",
+        0.0
+      ]
+    ]
+  },
+  "One of them simply depicts a plain coastal landscape on which two men are fighting with sticks. Ethereal figures sit behind several real women and a laurel-wreathed horned animal standing on its hind legs in The Witches' Sabbath, and other subjects include a drowning dog, old people eating, and Judith and Holofernes. Created in the \"Quinta del sordo\" or \"Country-house of the Deaf-Man,\" this series that also depicts Saturn Devouring His Children reflects similar themes to the earlier Caprichios and Disasters of War. FTP, name this series of somber Goya paintings named for a traditionally depressing color.": {
+    "guess": "Black Paintings",
+    "confidence": [
+      [
+        "Black",
+        -0.006136753
+      ],
+      [
+        " Paint",
+        -2.5226382e-05
+      ],
+      [
+        "ings",
+        0.0
+      ]
+    ]
+  },
+  "Similar to hemoglobins, in these compounds a carbon-hydrogen phytol chain is attached to a porphyrin": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.00076293026
+      ],
+      [
+        "lor",
+        -1.9361265e-07
+      ],
+      [
+        "ophyll",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Similar to hemoglobins, in these compounds a carbon-hydrogen phytol chain is attached to a porphyrin ring surrounding a central magnesium atom.  The rare type e is found in golden algae while types a and": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.00063416274
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Similar to hemoglobins, in these compounds a carbon-hydrogen phytol chain is attached to a porphyrin ring surrounding a central magnesium atom.  The rare type e is found in golden algae while types a and b are the major forms in higher plants where it is found in chloroplasts. For ten points, name this": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.00049548666
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        0.0
+      ]
+    ]
+  },
+  "Similar to hemoglobins, in these compounds a carbon-hydrogen phytol chain is attached to a porphyrin ring surrounding a central magnesium atom.  The rare type e is found in golden algae while types a and b are the major forms in higher plants where it is found in chloroplasts. For ten points, name this class of pigments vitally important to photosynthesis.": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.00026217024
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        0.0
+      ]
+    ]
+  },
+  "Simon Foucher was one of the first who criticized this philosophical position in Critique of the Search": {
+    "guess": "Skepticism",
+    "confidence": [
+      [
+        "S",
+        -0.44167575
+      ],
+      [
+        "ke",
+        -5.8484206e-05
+      ],
+      [
+        "ptic",
+        -4.3202e-07
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Simon Foucher was one of the first who criticized this philosophical position in Critique of the Search for Truth, and its central concept may have originated with Louis de la Forge. It was advanced by": {
+    "guess": "Occasionalism",
+    "confidence": [
+      [
+        "Occ",
+        -0.0055563864
+      ],
+      [
+        "asional",
+        -2.4584822e-06
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Simon Foucher was one of the first who criticized this philosophical position in Critique of the Search for Truth, and its central concept may have originated with Louis de la Forge. It was advanced by Johann Clauberg in his treatise, \"On the Joining of the Body and the Soul in Man,\" and a version of": {
+    "guess": "Occasionalism",
+    "confidence": [
+      [
+        "Occ",
+        -0.0015992487
+      ],
+      [
+        "asional",
+        -3.4121115e-06
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Simon Foucher was one of the first who criticized this philosophical position in Critique of the Search for Truth, and its central concept may have originated with Louis de la Forge. It was advanced by Johann Clauberg in his treatise, \"On the Joining of the Body and the Soul in Man,\" and a version of this philosophy was advanced in a work entitled True Metaphysics by Arnold Geulincx, who also built": {
+    "guess": "Occasionalism",
+    "confidence": [
+      [
+        "Occ",
+        -0.0003277176
+      ],
+      [
+        "asional",
+        -1.27099975e-05
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Simon Foucher was one of the first who criticized this philosophical position in Critique of the Search for Truth, and its central concept may have originated with Louis de la Forge. It was advanced by Johann Clauberg in his treatise, \"On the Joining of the Body and the Soul in Man,\" and a version of this philosophy was advanced in a work entitled True Metaphysics by Arnold Geulincx, who also built an ethical theory from it. Descartes explicitly rejected this philosophy in his Meditations quipping,": {
+    "guess": "Occasionalism",
+    "confidence": [
+      [
+        "Occ",
+        -0.0009177703
+      ],
+      [
+        "asional",
+        -4.8425554e-06
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Simon Foucher was one of the first who criticized this philosophical position in Critique of the Search for Truth, and its central concept may have originated with Louis de la Forge. It was advanced by Johann Clauberg in his treatise, \"On the Joining of the Body and the Soul in Man,\" and a version of this philosophy was advanced in a work entitled True Metaphysics by Arnold Geulincx, who also built an ethical theory from it. Descartes explicitly rejected this philosophy in his Meditations quipping, \"I am not only lodged in my body as a pilot in a vessel,\" and its most famous advocate advanced it": {
+    "guess": "Occasionalism",
+    "confidence": [
+      [
+        "Occ",
+        -0.00022105966
+      ],
+      [
+        "asional",
+        -1.4021238e-05
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Simon Foucher was one of the first who criticized this philosophical position in Critique of the Search for Truth, and its central concept may have originated with Louis de la Forge. It was advanced by Johann Clauberg in his treatise, \"On the Joining of the Body and the Soul in Man,\" and a version of this philosophy was advanced in a work entitled True Metaphysics by Arnold Geulincx, who also built an ethical theory from it. Descartes explicitly rejected this philosophy in his Meditations quipping, \"I am not only lodged in my body as a pilot in a vessel,\" and its most famous advocate advanced it in works like 14 Dialogues on Metaphysics and On Religion and Search After Truth. For 10 points, identify": {
+    "guess": "Occasionalism",
+    "confidence": [
+      [
+        "Occ",
+        -0.00026109742
+      ],
+      [
+        "asional",
+        -1.4140442e-05
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Simon Foucher was one of the first who criticized this philosophical position in Critique of the Search for Truth, and its central concept may have originated with Louis de la Forge. It was advanced by Johann Clauberg in his treatise, \"On the Joining of the Body and the Soul in Man,\" and a version of this philosophy was advanced in a work entitled True Metaphysics by Arnold Geulincx, who also built an ethical theory from it. Descartes explicitly rejected this philosophy in his Meditations quipping, \"I am not only lodged in my body as a pilot in a vessel,\" and its most famous advocate advanced it in works like 14 Dialogues on Metaphysics and On Religion and Search After Truth. For 10 points, identify this philosophy which claims God is the only efficient cause for all events, most famously expounded": {
+    "guess": "Occasionalism",
+    "confidence": [
+      [
+        "Occ",
+        -2.7848862e-05
+      ],
+      [
+        "asional",
+        -4.8425554e-06
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Simon Foucher was one of the first who criticized this philosophical position in Critique of the Search for Truth, and its central concept may have originated with Louis de la Forge. It was advanced by Johann Clauberg in his treatise, \"On the Joining of the Body and the Soul in Man,\" and a version of this philosophy was advanced in a work entitled True Metaphysics by Arnold Geulincx, who also built an ethical theory from it. Descartes explicitly rejected this philosophy in his Meditations quipping, \"I am not only lodged in my body as a pilot in a vessel,\" and its most famous advocate advanced it in works like 14 Dialogues on Metaphysics and On Religion and Search After Truth. For 10 points, identify this philosophy which claims God is the only efficient cause for all events, most famously expounded by Nicholas Malebranche.": {
+    "guess": "Occasionalism",
+    "confidence": [
+      [
+        "Occ",
+        -0.0001071193
+      ],
+      [
+        "asional",
+        -4.1273333e-06
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "In a similar mechanism to that used by some nematodes, this organ secretes neurokinin B, which allows": {
+    "guess": "Hypothalamus",
+    "confidence": [
+      [
+        "Hyp",
+        -0.038483214
+      ],
+      [
+        "oth",
+        0.0
+      ],
+      [
+        "alam",
+        -3.1281633e-07
+      ],
+      [
+        "us",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "In a similar mechanism to that used by some nematodes, this organ secretes neurokinin B, which allows suppression of the immune system. In Metatheria, the nutrients it supplies are derived mainly from": {
+    "guess": "Placenta",
+    "confidence": [
+      [
+        "Plac",
+        -0.0072849
+      ],
+      [
+        "enta",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "In a similar mechanism to that used by some nematodes, this organ secretes neurokinin B, which allows suppression of the immune system. In Metatheria, the nutrients it supplies are derived mainly from the egg sac. Administration of Rhogam prevents erythroblastosis fetalis, which can be caused by IgG": {
+    "guess": "Placenta",
+    "confidence": [
+      [
+        "Plac",
+        -0.001316547
+      ],
+      [
+        "enta",
+        0.0
+      ]
+    ]
+  },
+  "In a similar mechanism to that used by some nematodes, this organ secretes neurokinin B, which allows suppression of the immune system. In Metatheria, the nutrients it supplies are derived mainly from the egg sac. Administration of Rhogam prevents erythroblastosis fetalis, which can be caused by IgG antibodies crossing it. Abruption of it can be triggered by infection or trauma, but is most often caused": {
+    "guess": "Placenta",
+    "confidence": [
+      [
+        "Plac",
+        -0.00025049195
+      ],
+      [
+        "enta",
+        0.0
+      ]
+    ]
+  },
+  "In a similar mechanism to that used by some nematodes, this organ secretes neurokinin B, which allows suppression of the immune system. In Metatheria, the nutrients it supplies are derived mainly from the egg sac. Administration of Rhogam prevents erythroblastosis fetalis, which can be caused by IgG antibodies crossing it. Abruption of it can be triggered by infection or trauma, but is most often caused by high blood pressure. It develops from the trophoblast and produces progesterone, estrogen,": {
+    "guess": "Placenta",
+    "confidence": [
+      [
+        "Plac",
+        -0.0002998313
+      ],
+      [
+        "enta",
+        0.0
+      ]
+    ]
+  },
+  "In a similar mechanism to that used by some nematodes, this organ secretes neurokinin B, which allows suppression of the immune system. In Metatheria, the nutrients it supplies are derived mainly from the egg sac. Administration of Rhogam prevents erythroblastosis fetalis, which can be caused by IgG antibodies crossing it. Abruption of it can be triggered by infection or trauma, but is most often caused by high blood pressure. It develops from the trophoblast and produces progesterone, estrogen, and hCG, and failure to remove it after birth can cause hemorrhaging. For 10 points, name this organ": {
+    "guess": "Placenta",
+    "confidence": [
+      [
+        "Plac",
+        -0.0010322151
+      ],
+      [
+        "enta",
+        0.0
+      ]
+    ]
+  },
+  "In a similar mechanism to that used by some nematodes, this organ secretes neurokinin B, which allows suppression of the immune system. In Metatheria, the nutrients it supplies are derived mainly from the egg sac. Administration of Rhogam prevents erythroblastosis fetalis, which can be caused by IgG antibodies crossing it. Abruption of it can be triggered by infection or trauma, but is most often caused by high blood pressure. It develops from the trophoblast and produces progesterone, estrogen, and hCG, and failure to remove it after birth can cause hemorrhaging. For 10 points, name this organ that provides nutrients to developing fetuses through the umbilical cord.": {
+    "guess": "Placenta",
+    "confidence": [
+      [
+        "Plac",
+        -0.0021343178
+      ],
+      [
+        "enta",
+        0.0
+      ]
+    ]
+  },
+  "With a similarly named Danish mathematician, this physicist names an equation relating refractive index": {
+    "guess": "Ludvig Lorenz",
+    "confidence": [
+      [
+        "L",
+        -0.23082438
+      ],
+      [
+        "ud",
+        -0.0037618326
+      ],
+      [
+        "vig",
+        -0.2014684
+      ],
+      [
+        " Lor",
+        -0.0008015266
+      ],
+      [
+        "enz",
+        -0.00017982253
+      ]
+    ]
+  },
+  "With a similarly named Danish mathematician, this physicist names an equation relating refractive index to polarizability, which in the context of dielectric is named for Clausius and Mossotti. He developed": {
+    "guess": "Lorentz-Lorenz equation",
+    "confidence": [
+      [
+        "Lor",
+        -0.09870243
+      ],
+      [
+        "entz",
+        -0.008614808
+      ],
+      [
+        "-L",
+        -0.41967437
+      ],
+      [
+        "or",
+        0.0
+      ],
+      [
+        "enz",
+        -0.0005550592
+      ],
+      [
+        " equation",
+        -0.014035507
+      ]
+    ]
+  },
+  "With a similarly named Danish mathematician, this physicist names an equation relating refractive index to polarizability, which in the context of dielectric is named for Clausius and Mossotti. He developed a mathematical description of boosts in Minkowski space, and he is the namesake of the sum of": {
+    "guess": "Lorentz",
+    "confidence": [
+      [
+        "Lor",
+        -0.11200156
+      ],
+      [
+        "entz",
+        -0.0007100478
+      ]
+    ]
+  },
+  "With a similarly named Danish mathematician, this physicist names an equation relating refractive index to polarizability, which in the context of dielectric is named for Clausius and Mossotti. He developed a mathematical description of boosts in Minkowski space, and he is the namesake of the sum of the force on a particle due to electric and magnetic fields. His attempts with FitzGerald to explain": {
+    "guess": "Hendrik Lorentz",
+    "confidence": [
+      [
+        "H",
+        -0.6424924
+      ],
+      [
+        "end",
+        -1.9361265e-07
+      ],
+      [
+        "rik",
+        0.0
+      ],
+      [
+        " Lor",
+        -7.226629e-06
+      ],
+      [
+        "entz",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "With a similarly named Danish mathematician, this physicist names an equation relating refractive index to polarizability, which in the context of dielectric is named for Clausius and Mossotti. He developed a mathematical description of boosts in Minkowski space, and he is the namesake of the sum of the force on a particle due to electric and magnetic fields. His attempts with FitzGerald to explain the Michelson-Morley experiment led to a namesake length contraction. For 10 points, name this Dutch": {
+    "guess": "Hendrik Lorentz",
+    "confidence": [
+      [
+        "H",
+        -0.06357559
+      ],
+      [
+        "end",
+        -5.5122365e-07
+      ],
+      [
+        "rik",
+        0.0
+      ],
+      [
+        " Lor",
+        -3.4121115e-06
+      ],
+      [
+        "entz",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "With a similarly named Danish mathematician, this physicist names an equation relating refractive index to polarizability, which in the context of dielectric is named for Clausius and Mossotti. He developed a mathematical description of boosts in Minkowski space, and he is the namesake of the sum of the force on a particle due to electric and magnetic fields. His attempts with FitzGerald to explain the Michelson-Morley experiment led to a namesake length contraction. For 10 points, name this Dutch physicist whose \"transformations\" describe spacetime in special relativity": {
+    "guess": "Hendrik Lorentz",
+    "confidence": [
+      [
+        "H",
+        -0.32639608
+      ],
+      [
+        "end",
+        -3.1281633e-07
+      ],
+      [
+        "rik",
+        0.0
+      ],
+      [
+        " Lor",
+        -1.8624639e-06
+      ],
+      [
+        "entz",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "A simple formula to calculate the rate of occurrence of this process can be derived by using a two-point": {
+    "guess": "Parallax",
+    "confidence": [
+      [
+        "Par",
+        -1.2164711
+      ],
+      [
+        "allax",
+        -0.00185082
+      ]
+    ]
+  },
+  "A simple formula to calculate the rate of occurrence of this process can be derived by using a two-point correlation function and combining it with the rate of decay due to a dynamical orbit. Larson and": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.13941224
+      ]
+    ]
+  },
+  "A simple formula to calculate the rate of occurrence of this process can be derived by using a two-point correlation function and combining it with the rate of decay due to a dynamical orbit. Larson and Tinsley showed that after this kind of process, remnants are created with anomalous blue colors, leading": {
+    "guess": "Star Formation",
+    "confidence": [
+      [
+        "Star",
+        -0.08917774
+      ],
+      [
+        " Formation",
+        -0.00434526
+      ]
+    ]
+  },
+  "A simple formula to calculate the rate of occurrence of this process can be derived by using a two-point correlation function and combining it with the rate of decay due to a dynamical orbit. Larson and Tinsley showed that after this kind of process, remnants are created with anomalous blue colors, leading researchers to suspect that starbursting occurs during this process. This process can produce": {
+    "guess": "Galaxy Merger",
+    "confidence": [
+      [
+        "Galaxy",
+        -0.046380278
+      ],
+      [
+        " Mer",
+        -0.08570239
+      ],
+      [
+        "ger",
+        0.0
+      ]
+    ]
+  },
+  "A simple formula to calculate the rate of occurrence of this process can be derived by using a two-point correlation function and combining it with the rate of decay due to a dynamical orbit. Larson and Tinsley showed that after this kind of process, remnants are created with anomalous blue colors, leading researchers to suspect that starbursting occurs during this process. This process can produce the visually spectacular polar rings, as well as kinematically decoupled cores in the final product.": {
+    "guess": "Galaxy Merger",
+    "confidence": [
+      [
+        "Galaxy",
+        -0.0051191924
+      ],
+      [
+        " Mer",
+        -0.2528398
+      ],
+      [
+        "ger",
+        0.0
+      ]
+    ]
+  },
+  "A simple formula to calculate the rate of occurrence of this process can be derived by using a two-point correlation function and combining it with the rate of decay due to a dynamical orbit. Larson and Tinsley showed that after this kind of process, remnants are created with anomalous blue colors, leading researchers to suspect that starbursting occurs during this process. This process can produce the visually spectacular polar rings, as well as kinematically decoupled cores in the final product. A landmark paper by Toomre and Toomre showed that the tidal tails of the \u00e2\u0080\u009cMice\u00e2\u0080\u009d were formed by": {
+    "guess": "Galaxy merger",
+    "confidence": [
+      [
+        "Galaxy",
+        -0.01153652
+      ],
+      [
+        " merger",
+        -0.16124254
+      ]
+    ]
+  },
+  "A simple formula to calculate the rate of occurrence of this process can be derived by using a two-point correlation function and combining it with the rate of decay due to a dynamical orbit. Larson and Tinsley showed that after this kind of process, remnants are created with anomalous blue colors, leading researchers to suspect that starbursting occurs during this process. This process can produce the visually spectacular polar rings, as well as kinematically decoupled cores in the final product. A landmark paper by Toomre and Toomre showed that the tidal tails of the \u00e2\u0080\u009cMice\u00e2\u0080\u009d were formed by this process. This process is currently happening in NGC 4038 and 4039, which are colloquially called": {
+    "guess": "Galaxy Merger",
+    "confidence": [
+      [
+        "Galaxy",
+        -0.03768222
+      ],
+      [
+        " Mer",
+        -0.22950935
+      ],
+      [
+        "ger",
+        0.0
+      ]
+    ]
+  },
+  "A simple formula to calculate the rate of occurrence of this process can be derived by using a two-point correlation function and combining it with the rate of decay due to a dynamical orbit. Larson and Tinsley showed that after this kind of process, remnants are created with anomalous blue colors, leading researchers to suspect that starbursting occurs during this process. This process can produce the visually spectacular polar rings, as well as kinematically decoupled cores in the final product. A landmark paper by Toomre and Toomre showed that the tidal tails of the \u00e2\u0080\u009cMice\u00e2\u0080\u009d were formed by this process. This process is currently happening in NGC 4038 and 4039, which are colloquially called \u00e2\u0080\u009cthe antennae,\u00e2\u0080\u009d and the rings of the Cartwheel galaxy indicate that this process occurred with": {
+    "guess": "Galaxy merger",
+    "confidence": [
+      [
+        "Galaxy",
+        -0.027282855
+      ],
+      [
+        " merger",
+        -0.19666626
+      ]
+    ]
+  },
+  "A simple formula to calculate the rate of occurrence of this process can be derived by using a two-point correlation function and combining it with the rate of decay due to a dynamical orbit. Larson and Tinsley showed that after this kind of process, remnants are created with anomalous blue colors, leading researchers to suspect that starbursting occurs during this process. This process can produce the visually spectacular polar rings, as well as kinematically decoupled cores in the final product. A landmark paper by Toomre and Toomre showed that the tidal tails of the \u00e2\u0080\u009cMice\u00e2\u0080\u009d were formed by this process. This process is currently happening in NGC 4038 and 4039, which are colloquially called \u00e2\u0080\u009cthe antennae,\u00e2\u0080\u009d and the rings of the Cartwheel galaxy indicate that this process occurred with a zero value for the impact parameter. For 10 points, name this process in which two large structures,": {
+    "guess": "Galaxy merger",
+    "confidence": [
+      [
+        "Galaxy",
+        -0.0116293775
+      ],
+      [
+        " merger",
+        -0.279885
+      ]
+    ]
+  },
+  "A simple formula to calculate the rate of occurrence of this process can be derived by using a two-point correlation function and combining it with the rate of decay due to a dynamical orbit. Larson and Tinsley showed that after this kind of process, remnants are created with anomalous blue colors, leading researchers to suspect that starbursting occurs during this process. This process can produce the visually spectacular polar rings, as well as kinematically decoupled cores in the final product. A landmark paper by Toomre and Toomre showed that the tidal tails of the \u00e2\u0080\u009cMice\u00e2\u0080\u009d were formed by this process. This process is currently happening in NGC 4038 and 4039, which are colloquially called \u00e2\u0080\u009cthe antennae,\u00e2\u0080\u009d and the rings of the Cartwheel galaxy indicate that this process occurred with a zero value for the impact parameter. For 10 points, name this process in which two large structures, such as the Andromeda and the Milky Way, collide.": {
+    "guess": "Galaxy merger",
+    "confidence": [
+      [
+        "Galaxy",
+        -0.0032693336
+      ],
+      [
+        " merger",
+        -0.4005948
+      ]
+    ]
+  },
+  "This is the simplest compound exhibiting a \"skew chain\" dihedral angle of about 120 degrees as a compromise": {
+    "guess": "Ethane",
+    "confidence": [
+      [
+        "Eth",
+        -0.12135202
+      ],
+      [
+        "ane",
+        -0.0021776236
+      ]
+    ]
+  },
+  "This is the simplest compound exhibiting a \"skew chain\" dihedral angle of about 120 degrees as a compromise between steric and hyperconjugative effects. mCPBA is synthesized from meta-chlorobenzoyl chloride": {
+    "guess": "Ethane",
+    "confidence": [
+      [
+        "Eth",
+        -0.47708392
+      ],
+      [
+        "ane",
+        -0.01718557
+      ]
+    ]
+  },
+  "This is the simplest compound exhibiting a \"skew chain\" dihedral angle of about 120 degrees as a compromise between steric and hyperconjugative effects. mCPBA is synthesized from meta-chlorobenzoyl chloride and this compound. Potassium iodide catalyzes the disproportionation of this compound, releasing": {
+    "guess": "Acetone",
+    "confidence": [
+      [
+        "Ac",
+        -0.24393658
+      ],
+      [
+        "et",
+        -0.00043078844
+      ],
+      [
+        "one",
+        -0.10390407
+      ]
+    ]
+  },
+  "This is the simplest compound exhibiting a \"skew chain\" dihedral angle of about 120 degrees as a compromise between steric and hyperconjugative effects. mCPBA is synthesized from meta-chlorobenzoyl chloride and this compound. Potassium iodide catalyzes the disproportionation of this compound, releasing lots of foam. The anthraquinone process makes this compound. Though this compound is not linear,": {
+    "guess": "Hydrogen peroxide",
+    "confidence": [
+      [
+        "Hyd",
+        -0.005271942
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " peroxide",
+        -0.20604691
+      ]
+    ]
+  },
+  "This is the simplest compound exhibiting a \"skew chain\" dihedral angle of about 120 degrees as a compromise between steric and hyperconjugative effects. mCPBA is synthesized from meta-chlorobenzoyl chloride and this compound. Potassium iodide catalyzes the disproportionation of this compound, releasing lots of foam. The anthraquinone process makes this compound. Though this compound is not linear, it readily homolyzes into (*) radicals because it has four electrons in pi star orbitals. This very": {
+    "guess": "Hydrogen peroxide",
+    "confidence": [
+      [
+        "Hyd",
+        -0.007224419
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " peroxide",
+        -0.12872332
+      ]
+    ]
+  },
+  "This is the simplest compound exhibiting a \"skew chain\" dihedral angle of about 120 degrees as a compromise between steric and hyperconjugative effects. mCPBA is synthesized from meta-chlorobenzoyl chloride and this compound. Potassium iodide catalyzes the disproportionation of this compound, releasing lots of foam. The anthraquinone process makes this compound. Though this compound is not linear, it readily homolyzes into (*) radicals because it has four electrons in pi star orbitals. This very strong oxidizing agent is used to treat wastewater as Fenton's reagent, and in the body, it is broken": {
+    "guess": "Hydrogen peroxide",
+    "confidence": [
+      [
+        "Hyd",
+        -0.005579979
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " peroxide",
+        -0.12815678
+      ]
+    ]
+  },
+  "This is the simplest compound exhibiting a \"skew chain\" dihedral angle of about 120 degrees as a compromise between steric and hyperconjugative effects. mCPBA is synthesized from meta-chlorobenzoyl chloride and this compound. Potassium iodide catalyzes the disproportionation of this compound, releasing lots of foam. The anthraquinone process makes this compound. Though this compound is not linear, it readily homolyzes into (*) radicals because it has four electrons in pi star orbitals. This very strong oxidizing agent is used to treat wastewater as Fenton's reagent, and in the body, it is broken down by catalase into water and oxygen gas. For 10 points, name this compound with an oxygen-oxygen": {
+    "guess": "Hydrogen peroxide",
+    "confidence": [
+      [
+        "Hyd",
+        -0.0244599
+      ],
+      [
+        "rogen",
+        -1.9361265e-07
+      ],
+      [
+        " peroxide",
+        -0.008808615
+      ]
+    ]
+  },
+  "This is the simplest compound exhibiting a \"skew chain\" dihedral angle of about 120 degrees as a compromise between steric and hyperconjugative effects. mCPBA is synthesized from meta-chlorobenzoyl chloride and this compound. Potassium iodide catalyzes the disproportionation of this compound, releasing lots of foam. The anthraquinone process makes this compound. Though this compound is not linear, it readily homolyzes into (*) radicals because it has four electrons in pi star orbitals. This very strong oxidizing agent is used to treat wastewater as Fenton's reagent, and in the body, it is broken down by catalase into water and oxygen gas. For 10 points, name this compound with an oxygen-oxygen single bond, and formula H2O2.": {
+    "guess": "Hydrogen peroxide",
+    "confidence": [
+      [
+        "Hyd",
+        -0.1626665
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " peroxide",
+        -0.0001593195
+      ]
+    ]
+  },
+  "Simply put, humans love stories about monsters like Bigfoot and the Yeti. F10PE, can you name these other": {
+    "guess": "Cryptids",
+    "confidence": [
+      [
+        "Crypt",
+        -0.0041842987
+      ],
+      [
+        "ids",
+        -0.11881042
+      ]
+    ]
+  },
+  "Simply put, humans love stories about monsters like Bigfoot and the Yeti. F10PE, can you name these other legendary man-apes from around the world from a brief description?  A. Though resembling an orangutan,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6033782
+      ]
+    ]
+  },
+  "Simply put, humans love stories about monsters like Bigfoot and the Yeti. F10PE, can you name these other legendary man-apes from around the world from a brief description?  A. Though resembling an orangutan, this creature, mostly sighted near Big Cypress National Preserve, is said to be identifiable": {
+    "guess": "Skunk ape",
+    "confidence": [
+      [
+        "Sk",
+        -0.08099594
+      ],
+      [
+        "unk",
+        -3.1281633e-07
+      ],
+      [
+        " ape",
+        -0.3868726
+      ]
+    ]
+  },
+  "Simply put, humans love stories about monsters like Bigfoot and the Yeti. F10PE, can you name these other legendary man-apes from around the world from a brief description?  A. Though resembling an orangutan, this creature, mostly sighted near Big Cypress National Preserve, is said to be identifiable by its characteristic odor, variously described as smelling like rotten eggs or raw sewage.": {
+    "guess": "Skunk Ape",
+    "confidence": [
+      [
+        "Sk",
+        -0.01073911
+      ],
+      [
+        "unk",
+        -4.3202e-07
+      ],
+      [
+        " Ape",
+        -0.4740779
+      ]
+    ]
+  },
+  "It simplifies enzyme reactions by making the crucial assumption that the amount of enzyme-substrate complex": {
+    "guess": "Michaelis-Menten kinetics",
+    "confidence": [
+      [
+        "Michael",
+        -0.01914847
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "-M",
+        -0.018150762
+      ],
+      [
+        "enten",
+        -1.2664457e-06
+      ],
+      [
+        " kinetics",
+        -0.008661605
+      ]
+    ]
+  },
+  "It simplifies enzyme reactions by making the crucial assumption that the amount of enzyme-substrate complex at any given time is constant. It also requires the assumption that the concentration of substrate": {
+    "guess": "Michaelis-Menten kinetics",
+    "confidence": [
+      [
+        "Michael",
+        -0.0036167046
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "-M",
+        -0.029751997
+      ],
+      [
+        "enten",
+        -3.7697225e-06
+      ],
+      [
+        " kinetics",
+        -0.0025181116
+      ]
+    ]
+  },
+  "It simplifies enzyme reactions by making the crucial assumption that the amount of enzyme-substrate complex at any given time is constant. It also requires the assumption that the concentration of substrate is higher than the concentration of enzyme. A rate constant that comes out of this model, referred": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.60206133
+      ]
+    ]
+  },
+  "It simplifies enzyme reactions by making the crucial assumption that the amount of enzyme-substrate complex at any given time is constant. It also requires the assumption that the concentration of substrate is higher than the concentration of enzyme. A rate constant that comes out of this model, referred to as KM, is widely used to this day to catalog relative enzyme activities. For 10 points, name": {
+    "guess": "Michaelis-Menten kinetics",
+    "confidence": [
+      [
+        "Michael",
+        -0.002331998
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "-M",
+        -0.018150296
+      ],
+      [
+        "enten",
+        -2.9352968e-06
+      ],
+      [
+        " kinetics",
+        -0.003328853
+      ]
+    ]
+  },
+  "It simplifies enzyme reactions by making the crucial assumption that the amount of enzyme-substrate complex at any given time is constant. It also requires the assumption that the concentration of substrate is higher than the concentration of enzyme. A rate constant that comes out of this model, referred to as KM, is widely used to this day to catalog relative enzyme activities. For 10 points, name this kinetic model, derived by Briggs and Haldane but named after two other scientists who first proposed": {
+    "guess": "Michaelis-Menten kinetics",
+    "confidence": [
+      [
+        "Michael",
+        -9.448371e-05
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "-M",
+        -0.03804195
+      ],
+      [
+        "enten",
+        -1.504853e-06
+      ],
+      [
+        " kinetics",
+        -0.0017234884
+      ]
+    ]
+  },
+  "It simplifies enzyme reactions by making the crucial assumption that the amount of enzyme-substrate complex at any given time is constant. It also requires the assumption that the concentration of substrate is higher than the concentration of enzyme. A rate constant that comes out of this model, referred to as KM, is widely used to this day to catalog relative enzyme activities. For 10 points, name this kinetic model, derived by Briggs and Haldane but named after two other scientists who first proposed the link between substrate concentration and enzyme concentration.": {
+    "guess": "Michaelis\u2013Menten kinetics",
+    "confidence": [
+      [
+        "Michael",
+        -0.0027314057
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.00043114604
+      ],
+      [
+        "M",
+        0.0
+      ],
+      [
+        "enten",
+        0.0
+      ],
+      [
+        " kinetics",
+        -3.650519e-06
+      ]
+    ]
+  },
+  "The simpleton Silvano is fooled by a gipsy and never seen again, while the opening of its second section": {
+    "guess": "Orlando Furioso",
+    "confidence": [
+      [
+        "Or",
+        -0.8334031
+      ],
+      [
+        "lando",
+        -1.0802739e-05
+      ],
+      [
+        " Fur",
+        -0.038073394
+      ],
+      [
+        "ioso",
+        0.0
+      ]
+    ]
+  },
+  "The simpleton Silvano is fooled by a gipsy and never seen again, while the opening of its second section features a veiled woman hunting for herbs and singing the solo \"Ecco l'orrido campo\" in order to": {
+    "guess": "Il trovatore",
+    "confidence": [
+      [
+        "Il",
+        -0.64626944
+      ],
+      [
+        " tro",
+        -0.023763292
+      ],
+      [
+        "vatore",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "The simpleton Silvano is fooled by a gipsy and never seen again, while the opening of its second section features a veiled woman hunting for herbs and singing the solo \"Ecco l'orrido campo\" in order to forget her illicit love. The mocking chorus \"Seguitemi\" finds the conspirators, Sam and Tom, [*] enjoying": {
+    "guess": "Un ballo in maschera",
+    "confidence": [
+      [
+        "Un",
+        -0.051432893
+      ],
+      [
+        " ball",
+        -0.0016645889
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " in",
+        0.0
+      ],
+      [
+        " mas",
+        -5.6769813e-06
+      ],
+      [
+        "ch",
+        0.0
+      ],
+      [
+        "era",
+        0.0
+      ]
+    ]
+  },
+  "The simpleton Silvano is fooled by a gipsy and never seen again, while the opening of its second section features a veiled woman hunting for herbs and singing the solo \"Ecco l'orrido campo\" in order to forget her illicit love. The mocking chorus \"Seguitemi\" finds the conspirators, Sam and Tom, [*] enjoying the conformation of Ulrica's prophecy and planning to make their move at the title event. Eugene": {
+    "guess": "Un ballo in maschera",
+    "confidence": [
+      [
+        "Un",
+        -0.0018715211
+      ],
+      [
+        " ball",
+        -0.0019307781
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " in",
+        0.0
+      ],
+      [
+        " mas",
+        -4.9617593e-06
+      ],
+      [
+        "ch",
+        0.0
+      ],
+      [
+        "era",
+        0.0
+      ]
+    ]
+  },
+  "The simpleton Silvano is fooled by a gipsy and never seen again, while the opening of its second section features a veiled woman hunting for herbs and singing the solo \"Ecco l'orrido campo\" in order to forget her illicit love. The mocking chorus \"Seguitemi\" finds the conspirators, Sam and Tom, [*] enjoying the conformation of Ulrica's prophecy and planning to make their move at the title event. Eugene Scribe originally wrote the story for a work by Auber, but due to a general uneasiness with depicting": {
+    "guess": "Un ballo in maschera",
+    "confidence": [
+      [
+        "Un",
+        -0.004908416
+      ],
+      [
+        " ball",
+        -0.003178783
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " in",
+        0.0
+      ],
+      [
+        " mas",
+        -2.4584822e-06
+      ],
+      [
+        "ch",
+        0.0
+      ],
+      [
+        "era",
+        0.0
+      ]
+    ]
+  },
+  "The simpleton Silvano is fooled by a gipsy and never seen again, while the opening of its second section features a veiled woman hunting for herbs and singing the solo \"Ecco l'orrido campo\" in order to forget her illicit love. The mocking chorus \"Seguitemi\" finds the conspirators, Sam and Tom, [*] enjoying the conformation of Ulrica's prophecy and planning to make their move at the title event. Eugene Scribe originally wrote the story for a work by Auber, but due to a general uneasiness with depicting regicide, by the time Somma got a hold of the libretto he had to shift the setting from Sweden": {
+    "guess": "Un ballo in maschera",
+    "confidence": [
+      [
+        "Un",
+        -3.3809047e-05
+      ],
+      [
+        " ball",
+        -0.0024764857
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " in",
+        0.0
+      ],
+      [
+        " mas",
+        -1.9816675e-06
+      ],
+      [
+        "ch",
+        0.0
+      ],
+      [
+        "era",
+        0.0
+      ]
+    ]
+  },
+  "The simpleton Silvano is fooled by a gipsy and never seen again, while the opening of its second section features a veiled woman hunting for herbs and singing the solo \"Ecco l'orrido campo\" in order to forget her illicit love. The mocking chorus \"Seguitemi\" finds the conspirators, Sam and Tom, [*] enjoying the conformation of Ulrica's prophecy and planning to make their move at the title event. Eugene Scribe originally wrote the story for a work by Auber, but due to a general uneasiness with depicting regicide, by the time Somma got a hold of the libretto he had to shift the setting from Sweden to America. Thus Amelia's husband, the vengeful Renato, is described as a Creole and his one-time best": {
+    "guess": "Un ballo in maschera",
+    "confidence": [
+      [
+        "Un",
+        -0.0008033146
+      ],
+      [
+        " ball",
+        -0.0076068663
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " in",
+        0.0
+      ],
+      [
+        " mas",
+        -2.4584822e-06
+      ],
+      [
+        "ch",
+        0.0
+      ],
+      [
+        "era",
+        0.0
+      ]
+    ]
+  },
+  "The simpleton Silvano is fooled by a gipsy and never seen again, while the opening of its second section features a veiled woman hunting for herbs and singing the solo \"Ecco l'orrido campo\" in order to forget her illicit love. The mocking chorus \"Seguitemi\" finds the conspirators, Sam and Tom, [*] enjoying the conformation of Ulrica's prophecy and planning to make their move at the title event. Eugene Scribe originally wrote the story for a work by Auber, but due to a general uneasiness with depicting regicide, by the time Somma got a hold of the libretto he had to shift the setting from Sweden to America. Thus Amelia's husband, the vengeful Renato, is described as a Creole and his one-time best friend, the Earl of Warwick, Riccardo, is the Governor of Boston. FTP identify this work by Verdi": {
+    "guess": "Un ballo in maschera",
+    "confidence": [
+      [
+        "Un",
+        -1.5809293e-05
+      ],
+      [
+        " ball",
+        -0.0017031522
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " in",
+        0.0
+      ],
+      [
+        " mas",
+        -2.8160932e-06
+      ],
+      [
+        "ch",
+        0.0
+      ],
+      [
+        "era",
+        0.0
+      ]
+    ]
+  },
+  "The simpleton Silvano is fooled by a gipsy and never seen again, while the opening of its second section features a veiled woman hunting for herbs and singing the solo \"Ecco l'orrido campo\" in order to forget her illicit love. The mocking chorus \"Seguitemi\" finds the conspirators, Sam and Tom, [*] enjoying the conformation of Ulrica's prophecy and planning to make their move at the title event. Eugene Scribe originally wrote the story for a work by Auber, but due to a general uneasiness with depicting regicide, by the time Somma got a hold of the libretto he had to shift the setting from Sweden to America. Thus Amelia's husband, the vengeful Renato, is described as a Creole and his one-time best friend, the Earl of Warwick, Riccardo, is the Governor of Boston. FTP identify this work by Verdi that climaxes at a dance where everyone attends in disguise.": {
+    "guess": "Un ballo in maschera",
+    "confidence": [
+      [
+        "Un",
+        -2.6418418e-05
+      ],
+      [
+        " ball",
+        -0.0024764857
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " in",
+        0.0
+      ],
+      [
+        " mas",
+        -1.3856493e-06
+      ],
+      [
+        "ch",
+        0.0
+      ],
+      [
+        "era",
+        0.0
+      ]
+    ]
+  },
+  "Simians and passerine birds can no long synthesize this compound, which can be made from in glucose in": {
+    "guess": "Vitamin C",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.044909913
+      ],
+      [
+        " C",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Simians and passerine birds can no long synthesize this compound, which can be made from in glucose in a four-step process featuring the l-gulonolactone oxidase enzyme. This vitamin is needed for the synthesis": {
+    "guess": "Vitamin C",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.0021069595
+      ],
+      [
+        " C",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "Simians and passerine birds can no long synthesize this compound, which can be made from in glucose in a four-step process featuring the l-gulonolactone oxidase enzyme. This vitamin is needed for the synthesis of norepinephrine, carnitine, and the metabolism of tyrosine, and though it normally acts to": {
+    "guess": "Vitamin C",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.036650423
+      ],
+      [
+        " C",
+        0.0
+      ]
+    ]
+  },
+  "Simians and passerine birds can no long synthesize this compound, which can be made from in glucose in a four-step process featuring the l-gulonolactone oxidase enzyme. This vitamin is needed for the synthesis of norepinephrine, carnitine, and the metabolism of tyrosine, and though it normally acts to reduce oxidative stress, it can also function as a pro- oxidant. It is most important as a cofactor": {
+    "guess": "Vitamin C",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.031124374
+      ],
+      [
+        " C",
+        0.0
+      ]
+    ]
+  },
+  "Simians and passerine birds can no long synthesize this compound, which can be made from in glucose in a four-step process featuring the l-gulonolactone oxidase enzyme. This vitamin is needed for the synthesis of norepinephrine, carnitine, and the metabolism of tyrosine, and though it normally acts to reduce oxidative stress, it can also function as a pro- oxidant. It is most important as a cofactor for prolyl hydroxylase and lysyl hydroxylase, enzymes which are needed for the proper formation of": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.11608093
+      ],
+      [
+        "agen",
+        0.0
+      ]
+    ]
+  },
+  "Simians and passerine birds can no long synthesize this compound, which can be made from in glucose in a four-step process featuring the l-gulonolactone oxidase enzyme. This vitamin is needed for the synthesis of norepinephrine, carnitine, and the metabolism of tyrosine, and though it normally acts to reduce oxidative stress, it can also function as a pro- oxidant. It is most important as a cofactor for prolyl hydroxylase and lysyl hydroxylase, enzymes which are needed for the proper formation of collagen\u201fs triple helix structure. FTP, name this water soluble vitamin found in citrus fruits whose": {
+    "guess": "Vitamin C",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.049951717
+      ],
+      [
+        " C",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Simians and passerine birds can no long synthesize this compound, which can be made from in glucose in a four-step process featuring the l-gulonolactone oxidase enzyme. This vitamin is needed for the synthesis of norepinephrine, carnitine, and the metabolism of tyrosine, and though it normally acts to reduce oxidative stress, it can also function as a pro- oxidant. It is most important as a cofactor for prolyl hydroxylase and lysyl hydroxylase, enzymes which are needed for the proper formation of collagen\u201fs triple helix structure. FTP, name this water soluble vitamin found in citrus fruits whose deficiency is known as scurvy.": {
+    "guess": "Vitamin C",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.0074606193
+      ],
+      [
+        " C",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In a similarly-titled 1984 update of this work, Jane Jacobs argued for a focus on cities as the relevant": {
+    "guess": "Cities and the Wealth of Nations",
+    "confidence": [
+      [
+        "Cities",
+        -0.20317654
+      ],
+      [
+        " and",
+        -1.5213274e-05
+      ],
+      [
+        " the",
+        -8.180258e-06
+      ],
+      [
+        " Wealth",
+        -4.3202e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Nations",
+        0.0
+      ]
+    ]
+  },
+  "In a similarly-titled 1984 update of this work, Jane Jacobs argued for a focus on cities as the relevant units. This work claims that \"A person who can acquire no property, can have no other interest but": {
+    "guess": "Cities and the Wealth of Nations",
+    "confidence": [
+      [
+        "Cities",
+        -0.16200785
+      ],
+      [
+        " and",
+        -7.89631e-07
+      ],
+      [
+        " the",
+        -1.2948405e-05
+      ],
+      [
+        " Wealth",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Nations",
+        0.0
+      ]
+    ]
+  },
+  "In a similarly-titled 1984 update of this work, Jane Jacobs argued for a focus on cities as the relevant units. This work claims that \"A person who can acquire no property, can have no other interest but to eat as much, and to labour as little as possible,\" as an argument for abandoning slavery. Its": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.09840829
+      ]
+    ]
+  },
+  "In a similarly-titled 1984 update of this work, Jane Jacobs argued for a focus on cities as the relevant units. This work claims that \"A person who can acquire no property, can have no other interest but to eat as much, and to labour as little as possible,\" as an argument for abandoning slavery. Its author began writing it while serving as tutor to the son-in-law of Charles Townshend, who was impressed": {
+    "guess": "The Wealth of Nations",
+    "confidence": [
+      [
+        "The",
+        -0.106606044
+      ],
+      [
+        " Wealth",
+        -0.0033883837
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Nations",
+        0.0
+      ]
+    ]
+  },
+  "In a similarly-titled 1984 update of this work, Jane Jacobs argued for a focus on cities as the relevant units. This work claims that \"A person who can acquire no property, can have no other interest but to eat as much, and to labour as little as possible,\" as an argument for abandoning slavery. Its author began writing it while serving as tutor to the son-in-law of Charles Townshend, who was impressed by a previous work emphasizing the human capacity for sympathy with other people's circumstances,": {
+    "guess": "The Wealth of Nations",
+    "confidence": [
+      [
+        "The",
+        -0.060854245
+      ],
+      [
+        " Wealth",
+        -0.06497306
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Nations",
+        0.0
+      ]
+    ]
+  },
+  "In a similarly-titled 1984 update of this work, Jane Jacobs argued for a focus on cities as the relevant units. This work claims that \"A person who can acquire no property, can have no other interest but to eat as much, and to labour as little as possible,\" as an argument for abandoning slavery. Its author began writing it while serving as tutor to the son-in-law of Charles Townshend, who was impressed by a previous work emphasizing the human capacity for sympathy with other people's circumstances, The Theory of Moral Sentiments. Noted for arguing that self-interested individuals tend to act towards": {
+    "guess": "The Wealth of Nations",
+    "confidence": [
+      [
+        "The",
+        -0.15180884
+      ],
+      [
+        " Wealth",
+        -3.7697225e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Nations",
+        0.0
+      ]
+    ]
+  },
+  "In a similarly-titled 1984 update of this work, Jane Jacobs argued for a focus on cities as the relevant units. This work claims that \"A person who can acquire no property, can have no other interest but to eat as much, and to labour as little as possible,\" as an argument for abandoning slavery. Its author began writing it while serving as tutor to the son-in-law of Charles Townshend, who was impressed by a previous work emphasizing the human capacity for sympathy with other people's circumstances, The Theory of Moral Sentiments. Noted for arguing that self-interested individuals tend to act towards the general good of the market as though \"led by an invisible hand,\" FTP name this treatise written": {
+    "guess": "The Wealth of Nations",
+    "confidence": [
+      [
+        "The",
+        -0.010916832
+      ],
+      [
+        " Wealth",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Nations",
+        0.0
+      ]
+    ]
+  },
+  "In a similarly-titled 1984 update of this work, Jane Jacobs argued for a focus on cities as the relevant units. This work claims that \"A person who can acquire no property, can have no other interest but to eat as much, and to labour as little as possible,\" as an argument for abandoning slavery. Its author began writing it while serving as tutor to the son-in-law of Charles Townshend, who was impressed by a previous work emphasizing the human capacity for sympathy with other people's circumstances, The Theory of Moral Sentiments. Noted for arguing that self-interested individuals tend to act towards the general good of the market as though \"led by an invisible hand,\" FTP name this treatise written by Adam Smith.": {
+    "guess": "The Wealth of Nations",
+    "confidence": [
+      [
+        "The",
+        -0.0002290463
+      ],
+      [
+        " Wealth",
+        -2.9875326e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Nations",
+        0.0
+      ]
+    ]
+  },
+  "Similarly titled novels with this titular phenomenon include one about a newspaperman who leaves his": {
+    "guess": "The Lost Weekend",
+    "confidence": [
+      [
+        "The",
+        -0.47280663
+      ],
+      [
+        " Lost",
+        -0.9763965
+      ],
+      [
+        " Weekend",
+        -0.022134183
+      ]
+    ]
+  },
+  "Similarly titled novels with this titular phenomenon include one about a newspaperman who leaves his wife Bernice and assumes the name Bruce Dudley and another about a Berliner named Albinus. A work novel": {
+    "guess": "Dark Laughter",
+    "confidence": [
+      [
+        "Dark",
+        -0.76918006
+      ],
+      [
+        " L",
+        -0.6329645
+      ],
+      [
+        "aughter",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Similarly titled novels with this titular phenomenon include one about a newspaperman who leaves his wife Bernice and assumes the name Bruce Dudley and another about a Berliner named Albinus. A work novel with this as the second titular concept is a series of interlinked stories including Lost Letters,": {
+    "guess": "Dark Laughter",
+    "confidence": [
+      [
+        "Dark",
+        -0.06861968
+      ],
+      [
+        " L",
+        -0.31348243
+      ],
+      [
+        "aughter",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Similarly titled novels with this titular phenomenon include one about a newspaperman who leaves his wife Bernice and assumes the name Bruce Dudley and another about a Berliner named Albinus. A work novel with this as the second titular concept is a series of interlinked stories including Lost Letters, about Mirek's blunder of not burning diaries, and The Border, in which Jan is kicked out an orgy": {
+    "guess": "Darkness",
+    "confidence": [
+      [
+        "Dark",
+        -0.038711235
+      ],
+      [
+        "ness",
+        -0.005345821
+      ]
+    ]
+  },
+  "Similarly titled novels with this titular phenomenon include one about a newspaperman who leaves his wife Bernice and assumes the name Bruce Dudley and another about a Berliner named Albinus. A work novel with this as the second titular concept is a series of interlinked stories including Lost Letters, about Mirek's blunder of not burning diaries, and The Border, in which Jan is kicked out an orgy due to it. In addition to Sherwood Anderson's Joyce- inspired novel about the Dark kind of it, Nabokov's": {
+    "guess": "Dark Laughter",
+    "confidence": [
+      [
+        "Dark",
+        -0.995005
+      ],
+      [
+        " L",
+        -0.25218213
+      ],
+      [
+        "aughter",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Similarly titled novels with this titular phenomenon include one about a newspaperman who leaves his wife Bernice and assumes the name Bruce Dudley and another about a Berliner named Albinus. A work novel with this as the second titular concept is a series of interlinked stories including Lost Letters, about Mirek's blunder of not burning diaries, and The Border, in which Jan is kicked out an orgy due to it. In addition to Sherwood Anderson's Joyce- inspired novel about the Dark kind of it, Nabokov's novel about it in the Dark, and Kundera's book that pairs it with Forgetting, this phenomenon is": {
+    "guess": "Darkness",
+    "confidence": [
+      [
+        "Dark",
+        -0.2580226
+      ],
+      [
+        "ness",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "Similarly titled novels with this titular phenomenon include one about a newspaperman who leaves his wife Bernice and assumes the name Bruce Dudley and another about a Berliner named Albinus. A work novel with this as the second titular concept is a series of interlinked stories including Lost Letters, about Mirek's blunder of not burning diaries, and The Border, in which Jan is kicked out an orgy due to it. In addition to Sherwood Anderson's Joyce- inspired novel about the Dark kind of it, Nabokov's novel about it in the Dark, and Kundera's book that pairs it with Forgetting, this phenomenon is central to a painting that has a companion piece in Judith Leyster's The Merry Toper. For 10 points,": {
+    "guess": "Darkness",
+    "confidence": [
+      [
+        "Dark",
+        -0.6000847
+      ],
+      [
+        "ness",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Similarly titled novels with this titular phenomenon include one about a newspaperman who leaves his wife Bernice and assumes the name Bruce Dudley and another about a Berliner named Albinus. A work novel with this as the second titular concept is a series of interlinked stories including Lost Letters, about Mirek's blunder of not burning diaries, and The Border, in which Jan is kicked out an orgy due to it. In addition to Sherwood Anderson's Joyce- inspired novel about the Dark kind of it, Nabokov's novel about it in the Dark, and Kundera's book that pairs it with Forgetting, this phenomenon is central to a painting that has a companion piece in Judith Leyster's The Merry Toper. For 10 points, name this human reaction exhibited by the title character of a piece by Franz Hals, a certain Cavalier.": {
+    "guess": "Laughter",
+    "confidence": [
+      [
+        "L",
+        -0.06928117
+      ],
+      [
+        "aughter",
+        0.0
+      ]
+    ]
+  },
+  "A similar principle in economics has name as this chemical principle developed by a French chemist. Conditions": {
+    "guess": "Le Chatelier's principle",
+    "confidence": [
+      [
+        "Le",
+        -0.011928617
+      ],
+      [
+        " Chat",
+        -0.00019030878
+      ],
+      [
+        "elier",
+        0.0
+      ],
+      [
+        "'s",
+        -2.486877e-05
+      ],
+      [
+        " principle",
+        -0.005933067
+      ]
+    ]
+  },
+  "A similar principle in economics has name as this chemical principle developed by a French chemist. Conditions that are taken into consideration in this principle are concentration, temperature, and pressure.": {
+    "guess": "Le Chatelier's principle",
+    "confidence": [
+      [
+        "Le",
+        -0.00012856863
+      ],
+      [
+        " Chat",
+        -8.180258e-06
+      ],
+      [
+        "elier",
+        0.0
+      ],
+      [
+        "'s",
+        -6.9882217e-06
+      ],
+      [
+        " principle",
+        -0.0013261953
+      ]
+    ]
+  },
+  "A similar principle in economics has name as this chemical principle developed by a French chemist. Conditions that are taken into consideration in this principle are concentration, temperature, and pressure. FTP, name this principle which states that if a dynamic equilibrium is disturbed by changing": {
+    "guess": "Le Chatelier's principle",
+    "confidence": [
+      [
+        "Le",
+        -0.00023667533
+      ],
+      [
+        " Chat",
+        -1.7239736e-05
+      ],
+      [
+        "elier",
+        0.0
+      ],
+      [
+        "'s",
+        -7.9418505e-06
+      ],
+      [
+        " principle",
+        -0.0015025985
+      ]
+    ]
+  },
+  "A similar principle in economics has name as this chemical principle developed by a French chemist. Conditions that are taken into consideration in this principle are concentration, temperature, and pressure. FTP, name this principle which states that if a dynamic equilibrium is disturbed by changing the conditions, the position of equilibrium moves to counteract the change.": {
+    "guess": "Le Chatelier's principle",
+    "confidence": [
+      [
+        "Le",
+        -0.0031913817
+      ],
+      [
+        " Chat",
+        -1.1637165e-05
+      ],
+      [
+        "elier",
+        0.0
+      ],
+      [
+        "'s",
+        -3.4121115e-06
+      ],
+      [
+        " principle",
+        -0.0015025985
+      ]
+    ]
+  },
+  "In a simply ordered set having the least upper bound property under the order topology, closed intervals": {
+    "guess": "Heine\u2013Borel theorem",
+    "confidence": [
+      [
+        "He",
+        -0.38785264
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.25209048
+      ],
+      [
+        "B",
+        -1.6762922e-05
+      ],
+      [
+        "orel",
+        -3.1281633e-07
+      ],
+      [
+        " theorem",
+        -0.003196966
+      ]
+    ]
+  },
+  "In a simply ordered set having the least upper bound property under the order topology, closed intervals are this. In normed vector spaces, a set is said to be this if every sequence of elements of the": {
+    "guess": "Complete",
+    "confidence": [
+      [
+        "Complete",
+        -0.6745693
+      ]
+    ]
+  },
+  "In a simply ordered set having the least upper bound property under the order topology, closed intervals are this. In normed vector spaces, a set is said to be this if every sequence of elements of the set has a point of accumulation in the set. A general topological space is said to be this if any open": {
+    "guess": "Compact",
+    "confidence": [
+      [
+        "Compact",
+        -0.036202703
+      ]
+    ]
+  },
+  "In a simply ordered set having the least upper bound property under the order topology, closed intervals are this. In normed vector spaces, a set is said to be this if every sequence of elements of the set has a point of accumulation in the set. A general topological space is said to be this if any open covering of the space has a finite subcovering that covers the space. FTP, identify these types": {
+    "guess": "Compact",
+    "confidence": [
+      [
+        "Compact",
+        -0.00068026525
+      ]
+    ]
+  },
+  "In a simply ordered set having the least upper bound property under the order topology, closed intervals are this. In normed vector spaces, a set is said to be this if every sequence of elements of the set has a point of accumulation in the set. A general topological space is said to be this if any open covering of the space has a finite subcovering that covers the space. FTP, identify these types of sets, which in R^n are closed and bounded.": {
+    "guess": "Compact",
+    "confidence": [
+      [
+        "Compact",
+        -0.00026181265
+      ]
+    ]
+  },
+  "Similar to von Willebrand disease, its mild \"C\" variety is like Tay-Sachs disease in that it is concentrated": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8450421
+      ]
+    ]
+  },
+  "Similar to von Willebrand disease, its mild \"C\" variety is like Tay-Sachs disease in that it is concentrated in Ashkenazi Jews. The most common version, known as \"classical\" or \"A,\" involves an inversion": {
+    "guess": "Hemophilia A",
+    "confidence": [
+      [
+        "Hem",
+        -0.024505734
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "ilia",
+        0.0
+      ],
+      [
+        " A",
+        -0.39261112
+      ]
+    ]
+  },
+  "Similar to von Willebrand disease, its mild \"C\" variety is like Tay-Sachs disease in that it is concentrated in Ashkenazi Jews. The most common version, known as \"classical\" or \"A,\" involves an inversion of the F8 gene; the \"B\" form is associated with mutations in the F9 gene located further up the long": {
+    "guess": "Hemophilia",
+    "confidence": [
+      [
+        "Hem",
+        -0.0020228548
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "ilia",
+        0.0
+      ]
+    ]
+  },
+  "Similar to von Willebrand disease, its mild \"C\" variety is like Tay-Sachs disease in that it is concentrated in Ashkenazi Jews. The most common version, known as \"classical\" or \"A,\" involves an inversion of the F8 gene; the \"B\" form is associated with mutations in the F9 gene located further up the long arm of the X chromosome. As a result, the F8 and F9 proteins have significantly reduced or no activity,": {
+    "guess": "Hemophilia",
+    "confidence": [
+      [
+        "Hem",
+        -0.08108169
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "ilia",
+        0.0
+      ]
+    ]
+  },
+  "Similar to von Willebrand disease, its mild \"C\" variety is like Tay-Sachs disease in that it is concentrated in Ashkenazi Jews. The most common version, known as \"classical\" or \"A,\" involves an inversion of the F8 gene; the \"B\" form is associated with mutations in the F9 gene located further up the long arm of the X chromosome. As a result, the F8 and F9 proteins have significantly reduced or no activity, causing platelets to not be held in place at a wound site. For 10 points, name this sex-linked": {
+    "guess": "Hemophilia",
+    "confidence": [
+      [
+        "Hem",
+        -0.0012580878
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "ilia",
+        0.0
+      ]
+    ]
+  },
+  "Similar to von Willebrand disease, its mild \"C\" variety is like Tay-Sachs disease in that it is concentrated in Ashkenazi Jews. The most common version, known as \"classical\" or \"A,\" involves an inversion of the F8 gene; the \"B\" form is associated with mutations in the F9 gene located further up the long arm of the X chromosome. As a result, the F8 and F9 proteins have significantly reduced or no activity, causing platelets to not be held in place at a wound site. For 10 points, name this sex-linked inherited disease in which blood fails to clot properly.": {
+    "guess": "Hemophilia",
+    "confidence": [
+      [
+        "Hem",
+        -0.00031949623
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "ilia",
+        0.0
+      ]
+    ]
+  },
+  "Silica aerogels are frequently used in devices for measuring this phenomenon, and one such device is": {
+    "guess": "Cherenkov radiation",
+    "confidence": [
+      [
+        "Cher",
+        -0.00046212802
+      ],
+      [
+        "enk",
+        0.0
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        " radiation",
+        -0.0019800223
+      ]
+    ]
+  },
+  "Silica aerogels are frequently used in devices for measuring this phenomenon, and one such device is called the threshold detector, while another device used to measure it is called a ring imaging detector.": {
+    "guess": "Cherenkov radiation",
+    "confidence": [
+      [
+        "Cher",
+        -0.0028967634
+      ],
+      [
+        "enk",
+        0.0
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        " radiation",
+        -0.002484454
+      ]
+    ]
+  },
+  "Silica aerogels are frequently used in devices for measuring this phenomenon, and one such device is called the threshold detector, while another device used to measure it is called a ring imaging detector. The governing equation can be derived by using Poynting's theorem and applying the Fourier transform": {
+    "guess": "Cherenkov radiation",
+    "confidence": [
+      [
+        "Cher",
+        -0.0076489835
+      ],
+      [
+        "enk",
+        0.0
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        " radiation",
+        -0.0040861163
+      ]
+    ]
+  },
+  "Silica aerogels are frequently used in devices for measuring this phenomenon, and one such device is called the threshold detector, while another device used to measure it is called a ring imaging detector. The governing equation can be derived by using Poynting's theorem and applying the Fourier transform to determine the energy loss at infinite distance.  A periodic grating can give rise to a version": {
+    "guess": "Cherenkov radiation",
+    "confidence": [
+      [
+        "Cher",
+        -0.009451943
+      ],
+      [
+        "enk",
+        0.0
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        " radiation",
+        -0.004625222
+      ]
+    ]
+  },
+  "Silica aerogels are frequently used in devices for measuring this phenomenon, and one such device is called the threshold detector, while another device used to measure it is called a ring imaging detector. The governing equation can be derived by using Poynting's theorem and applying the Fourier transform to determine the energy loss at infinite distance.  A periodic grating can give rise to a version of this effect named after Smith and Purcell, while the Frank-Tamm equation governs this phenomenon,": {
+    "guess": "Cherenkov radiation",
+    "confidence": [
+      [
+        "Cher",
+        -0.0064806454
+      ],
+      [
+        "enk",
+        0.0
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        " radiation",
+        -0.0008105787
+      ]
+    ]
+  },
+  "Silica aerogels are frequently used in devices for measuring this phenomenon, and one such device is called the threshold detector, while another device used to measure it is called a ring imaging detector. The governing equation can be derived by using Poynting's theorem and applying the Fourier transform to determine the energy loss at infinite distance.  A periodic grating can give rise to a version of this effect named after Smith and Purcell, while the Frank-Tamm equation governs this phenomenon, which travels at an angle whose cosine is inversely proportional to the index of refraction and": {
+    "guess": "Cherenkov radiation",
+    "confidence": [
+      [
+        "Cher",
+        -0.0031179416
+      ],
+      [
+        "enk",
+        0.0
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        " radiation",
+        -0.0036075553
+      ]
+    ]
+  },
+  "Silica aerogels are frequently used in devices for measuring this phenomenon, and one such device is called the threshold detector, while another device used to measure it is called a ring imaging detector. The governing equation can be derived by using Poynting's theorem and applying the Fourier transform to determine the energy loss at infinite distance.  A periodic grating can give rise to a version of this effect named after Smith and Purcell, while the Frank-Tamm equation governs this phenomenon, which travels at an angle whose cosine is inversely proportional to the index of refraction and the object's speed. For 10 points, name this effect in which a charged particle moves through a medium": {
+    "guess": "Cherenkov radiation",
+    "confidence": [
+      [
+        "Cher",
+        -6.82589e-05
+      ],
+      [
+        "enk",
+        0.0
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        " radiation",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "Silica aerogels are frequently used in devices for measuring this phenomenon, and one such device is called the threshold detector, while another device used to measure it is called a ring imaging detector. The governing equation can be derived by using Poynting's theorem and applying the Fourier transform to determine the energy loss at infinite distance.  A periodic grating can give rise to a version of this effect named after Smith and Purcell, while the Frank-Tamm equation governs this phenomenon, which travels at an angle whose cosine is inversely proportional to the index of refraction and the object's speed. For 10 points, name this effect in which a charged particle moves through a medium faster than the speed of light in that medium, giving off radiation.": {
+    "guess": "Cherenkov radiation",
+    "confidence": [
+      [
+        "Cher",
+        -1.867018e-05
+      ],
+      [
+        "enk",
+        0.0
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        " radiation",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "A simplification of this law for an ion that is brought from infinity and placed within a crystal lattice": {
+    "guess": "Born\u2013Haber cycle",
+    "confidence": [
+      [
+        "Born",
+        -0.655219
+      ],
+      [
+        "\u2013",
+        -0.7169327
+      ],
+      [
+        "H",
+        -0.36356288
+      ],
+      [
+        "aber",
+        -5.5122365e-07
+      ],
+      [
+        " cycle",
+        -0.00092980627
+      ]
+    ]
+  },
+  "A simplification of this law for an ion that is brought from infinity and placed within a crystal lattice is seen in the portion of the Born-Lande equation that incorporates Madelung constants. Electron": {
+    "guess": "Coulomb's law",
+    "confidence": [
+      [
+        "C",
+        -0.025688412
+      ],
+      [
+        "oul",
+        0.0
+      ],
+      [
+        "omb",
+        -4.3202e-07
+      ],
+      [
+        "'s",
+        -1.9146995e-05
+      ],
+      [
+        " law",
+        -0.023245595
+      ]
+    ]
+  },
+  "A simplification of this law for an ion that is brought from infinity and placed within a crystal lattice is seen in the portion of the Born-Lande equation that incorporates Madelung constants. Electron pairing energy is given by the exchange energy and the repulsion between spin-paired (*) electrons": {
+    "guess": "Madelung constant",
+    "confidence": [
+      [
+        "M",
+        -0.5353677
+      ],
+      [
+        "adel",
+        -2.5345586e-05
+      ],
+      [
+        "ung",
+        0.0
+      ],
+      [
+        " constant",
+        -0.035061304
+      ]
+    ]
+  },
+  "A simplification of this law for an ion that is brought from infinity and placed within a crystal lattice is seen in the portion of the Born-Lande equation that incorporates Madelung constants. Electron pairing energy is given by the exchange energy and the repulsion between spin-paired (*) electrons that this law predicts. It contains a namesake constant that incorporates the permittivity of space,": {
+    "guess": "Coulomb's law",
+    "confidence": [
+      [
+        "C",
+        -0.42178303
+      ],
+      [
+        "oul",
+        0.0
+      ],
+      [
+        "omb",
+        0.0
+      ],
+      [
+        "'s",
+        -9.014684e-06
+      ],
+      [
+        " law",
+        -0.008614569
+      ]
+    ]
+  },
+  "A simplification of this law for an ion that is brought from infinity and placed within a crystal lattice is seen in the portion of the Born-Lande equation that incorporates Madelung constants. Electron pairing energy is given by the exchange energy and the repulsion between spin-paired (*) electrons that this law predicts. It contains a namesake constant that incorporates the permittivity of space, and it can be used to explain why like charges repel. For 10 points, name this law in which the force": {
+    "guess": "Coulomb's law",
+    "confidence": [
+      [
+        "C",
+        -0.00052122003
+      ],
+      [
+        "oul",
+        0.0
+      ],
+      [
+        "omb",
+        0.0
+      ],
+      [
+        "'s",
+        -5.4385737e-06
+      ],
+      [
+        " law",
+        -0.005233883
+      ]
+    ]
+  },
+  "A simplification of this law for an ion that is brought from infinity and placed within a crystal lattice is seen in the portion of the Born-Lande equation that incorporates Madelung constants. Electron pairing energy is given by the exchange energy and the repulsion between spin-paired (*) electrons that this law predicts. It contains a namesake constant that incorporates the permittivity of space, and it can be used to explain why like charges repel. For 10 points, name this law in which the force and distance between two point charges share an inverse square relationship.": {
+    "guess": "Coulomb's law",
+    "confidence": [
+      [
+        "C",
+        -0.0002074741
+      ],
+      [
+        "oul",
+        0.0
+      ],
+      [
+        "omb",
+        0.0
+      ],
+      [
+        "'s",
+        -4.246537e-06
+      ],
+      [
+        " law",
+        -6.6113236e-05
+      ]
+    ]
+  },
+  "During the Silurian, this mineral and halite were deposited in large beds in the Michigan Basin. The": {
+    "guess": "Gypsum",
+    "confidence": [
+      [
+        "Gy",
+        -0.0623694
+      ],
+      [
+        "psum",
+        0.0
+      ]
+    ]
+  },
+  "During the Silurian, this mineral and halite were deposited in large beds in the Michigan Basin. The discovery of this mineral by the rover Opportunity is proof that water once flowed on Mars' surface.": {
+    "guess": "Hematite",
+    "confidence": [
+      [
+        "H",
+        -0.83146054
+      ],
+      [
+        "emat",
+        -1.9361265e-07
+      ],
+      [
+        "ite",
+        0.0
+      ]
+    ]
+  },
+  "During the Silurian, this mineral and halite were deposited in large beds in the Michigan Basin. The discovery of this mineral by the rover Opportunity is proof that water once flowed on Mars' surface. The water of crystallization present in this mineral keeps its temperature fixed at 100\u00b0C until it": {
+    "guess": "Gypsum",
+    "confidence": [
+      [
+        "Gy",
+        -0.016775966
+      ],
+      [
+        "psum",
+        0.0
+      ]
+    ]
+  },
+  "During the Silurian, this mineral and halite were deposited in large beds in the Michigan Basin. The discovery of this mineral by the rover Opportunity is proof that water once flowed on Mars' surface. The water of crystallization present in this mineral keeps its temperature fixed at 100\u00b0C until it has all been evaporated. This fire protecting property has led to its widespread use in (*) construction.": {
+    "guess": "Gypsum",
+    "confidence": [
+      [
+        "Gy",
+        -0.001106875
+      ],
+      [
+        "psum",
+        0.0
+      ]
+    ]
+  },
+  "During the Silurian, this mineral and halite were deposited in large beds in the Michigan Basin. The discovery of this mineral by the rover Opportunity is proof that water once flowed on Mars' surface. The water of crystallization present in this mineral keeps its temperature fixed at 100\u00b0C until it has all been evaporated. This fire protecting property has led to its widespread use in (*) construction. One \"silky\" form of this mineral, selenite, is often nicknamed \"satin spar,\" and it also occurs": {
+    "guess": "Gypsum",
+    "confidence": [
+      [
+        "Gy",
+        -0.00050335046
+      ],
+      [
+        "psum",
+        0.0
+      ]
+    ]
+  },
+  "During the Silurian, this mineral and halite were deposited in large beds in the Michigan Basin. The discovery of this mineral by the rover Opportunity is proof that water once flowed on Mars' surface. The water of crystallization present in this mineral keeps its temperature fixed at 100\u00b0C until it has all been evaporated. This fire protecting property has led to its widespread use in (*) construction. One \"silky\" form of this mineral, selenite, is often nicknamed \"satin spar,\" and it also occurs as crystals with barite in formations known as \"desert roses.\" This mineral has many practical applications": {
+    "guess": "Gypsum",
+    "confidence": [
+      [
+        "Gy",
+        -4.7517467e-05
+      ],
+      [
+        "psum",
+        0.0
+      ]
+    ]
+  },
+  "During the Silurian, this mineral and halite were deposited in large beds in the Michigan Basin. The discovery of this mineral by the rover Opportunity is proof that water once flowed on Mars' surface. The water of crystallization present in this mineral keeps its temperature fixed at 100\u00b0C until it has all been evaporated. This fire protecting property has led to its widespread use in (*) construction. One \"silky\" form of this mineral, selenite, is often nicknamed \"satin spar,\" and it also occurs as crystals with barite in formations known as \"desert roses.\" This mineral has many practical applications such as fertilizer, plaster of Paris, and alabaster, but it may be best known for the aforementioned": {
+    "guess": "Gypsum",
+    "confidence": [
+      [
+        "Gy",
+        -7.362307e-05
+      ],
+      [
+        "psum",
+        0.0
+      ]
+    ]
+  },
+  "During the Silurian, this mineral and halite were deposited in large beds in the Michigan Basin. The discovery of this mineral by the rover Opportunity is proof that water once flowed on Mars' surface. The water of crystallization present in this mineral keeps its temperature fixed at 100\u00b0C until it has all been evaporated. This fire protecting property has led to its widespread use in (*) construction. One \"silky\" form of this mineral, selenite, is often nicknamed \"satin spar,\" and it also occurs as crystals with barite in formations known as \"desert roses.\" This mineral has many practical applications such as fertilizer, plaster of Paris, and alabaster, but it may be best known for the aforementioned construction usage in drywall. For 10 points, name this mineral made of dihydrated calcium": {
+    "guess": "Gypsum",
+    "confidence": [
+      [
+        "Gy",
+        -4.0842064e-05
+      ],
+      [
+        "psum",
+        0.0
+      ]
+    ]
+  },
+  "During the Silurian, this mineral and halite were deposited in large beds in the Michigan Basin. The discovery of this mineral by the rover Opportunity is proof that water once flowed on Mars' surface. The water of crystallization present in this mineral keeps its temperature fixed at 100\u00b0C until it has all been evaporated. This fire protecting property has led to its widespread use in (*) construction. One \"silky\" form of this mineral, selenite, is often nicknamed \"satin spar,\" and it also occurs as crystals with barite in formations known as \"desert roses.\" This mineral has many practical applications such as fertilizer, plaster of Paris, and alabaster, but it may be best known for the aforementioned construction usage in drywall. For 10 points, name this mineral made of dihydrated calcium sulfate whose Mohs' hardness is 2.": {
+    "guess": "Gypsum",
+    "confidence": [
+      [
+        "Gy",
+        -1.9816675e-06
+      ],
+      [
+        "psum",
+        0.0
+      ]
+    ]
+  }
+}

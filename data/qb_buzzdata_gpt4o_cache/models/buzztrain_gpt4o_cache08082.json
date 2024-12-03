@@ -1,0 +1,1392 @@
+{
+  "A value named for this man is proportional to the integral of Gaussian curvature over a closed surface.": {
+    "guess": "Gauss-Bonnet theorem",
+    "confidence": [
+      [
+        "Ga",
+        -0.18031447
+      ],
+      [
+        "uss",
+        -7.89631e-07
+      ],
+      [
+        "-B",
+        -0.041034088
+      ],
+      [
+        "on",
+        -7.89631e-07
+      ],
+      [
+        "net",
+        0.0
+      ],
+      [
+        " theorem",
+        -0.00026264708
+      ]
+    ]
+  },
+  "A value named for this man is proportional to the integral of Gaussian curvature over a closed surface. He is the namesake of an identity stating that \"cosine theta plus sine theta times i\" equals \"e to": {
+    "guess": "Euler's formula",
+    "confidence": [
+      [
+        "Euler",
+        -0.019692376
+      ],
+      [
+        "'s",
+        -0.22894183
+      ],
+      [
+        " formula",
+        -0.12972282
+      ]
+    ]
+  },
+  "A value named for this man is proportional to the integral of Gaussian curvature over a closed surface. He is the namesake of an identity stating that \"cosine theta plus sine theta times i\" equals \"e to the i times theta.\" His namesake \"characteristic\" equals vertices minus edges plus faces. The limit": {
+    "guess": "Leonhard Euler",
+    "confidence": [
+      [
+        "Leon",
+        -0.14896952
+      ],
+      [
+        "hard",
+        -6.9882217e-06
+      ],
+      [
+        " Euler",
+        0.0
+      ]
+    ]
+  },
+  "A value named for this man is proportional to the integral of Gaussian curvature over a closed surface. He is the namesake of an identity stating that \"cosine theta plus sine theta times i\" equals \"e to the i times theta.\" His namesake \"characteristic\" equals vertices minus edges plus faces. The limit of the difference between the harmonic series and the natural log is named for Mascheroni and this": {
+    "guess": "Leonhard Euler",
+    "confidence": [
+      [
+        "Leon",
+        -0.004231547
+      ],
+      [
+        "hard",
+        -3.1281633e-07
+      ],
+      [
+        " Euler",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "A value named for this man is proportional to the integral of Gaussian curvature over a closed surface. He is the namesake of an identity stating that \"cosine theta plus sine theta times i\" equals \"e to the i times theta.\" His namesake \"characteristic\" equals vertices minus edges plus faces. The limit of the difference between the harmonic series and the natural log is named for Mascheroni and this solver of the Bridges of Konigsberg problem. A value of about 2.718, the base of the natural log, is": {
+    "guess": "Euler's number",
+    "confidence": [
+      [
+        "Euler",
+        -0.19172461
+      ],
+      [
+        "'s",
+        -0.00076567195
+      ],
+      [
+        " number",
+        -0.22959
+      ]
+    ]
+  },
+  "A value named for this man is proportional to the integral of Gaussian curvature over a closed surface. He is the namesake of an identity stating that \"cosine theta plus sine theta times i\" equals \"e to the i times theta.\" His namesake \"characteristic\" equals vertices minus edges plus faces. The limit of the difference between the harmonic series and the natural log is named for Mascheroni and this solver of the Bridges of Konigsberg problem. A value of about 2.718, the base of the natural log, is named e in his honor. For 10 points, name this Swiss mathematician.": {
+    "guess": "Leonhard Euler",
+    "confidence": [
+      [
+        "Leon",
+        -0.26939815
+      ],
+      [
+        "hard",
+        0.0
+      ],
+      [
+        " Euler",
+        0.0
+      ]
+    ]
+  },
+  "This value can be calculated by the Evjen method, which is a direct summation of Coulombic potentials,": {
+    "guess": "Madelung constant",
+    "confidence": [
+      [
+        "M",
+        -0.0055262735
+      ],
+      [
+        "adel",
+        -1.0445127e-05
+      ],
+      [
+        "ung",
+        0.0
+      ],
+      [
+        " constant",
+        -0.1128994
+      ]
+    ]
+  },
+  "This value can be calculated by the Evjen method, which is a direct summation of Coulombic potentials, or by the Ewald method, which uses integral transforms to validly calculate the Coulomb potential": {
+    "guess": "Madelung constant",
+    "confidence": [
+      [
+        "M",
+        -0.0041950983
+      ],
+      [
+        "adel",
+        -7.89631e-07
+      ],
+      [
+        "ung",
+        0.0
+      ],
+      [
+        " constant",
+        -0.16030952
+      ]
+    ]
+  },
+  "This value can be calculated by the Evjen method, which is a direct summation of Coulombic potentials, or by the Ewald method, which uses integral transforms to validly calculate the Coulomb potential at any mathematical point. When this value cannot be obtained, one can still use the Kapustinskii Equation": {
+    "guess": "Madelung constant",
+    "confidence": [
+      [
+        "M",
+        -0.28647465
+      ],
+      [
+        "adel",
+        -3.5954712e-05
+      ],
+      [
+        "ung",
+        0.0
+      ],
+      [
+        " constant",
+        -0.009891846
+      ]
+    ]
+  },
+  "This value can be calculated by the Evjen method, which is a direct summation of Coulombic potentials, or by the Ewald method, which uses integral transforms to validly calculate the Coulomb potential at any mathematical point. When this value cannot be obtained, one can still use the Kapustinskii Equation in order to make a reasonable estimate of energy. A term must be added to this value to account": {
+    "guess": "Lattice energy",
+    "confidence": [
+      [
+        "L",
+        -0.6142845
+      ],
+      [
+        "attice",
+        -1.504853e-06
+      ],
+      [
+        " energy",
+        -0.00010926496
+      ]
+    ]
+  },
+  "This value can be calculated by the Evjen method, which is a direct summation of Coulombic potentials, or by the Ewald method, which uses integral transforms to validly calculate the Coulomb potential at any mathematical point. When this value cannot be obtained, one can still use the Kapustinskii Equation in order to make a reasonable estimate of energy. A term must be added to this value to account for the electron-electron repulsion of closed shells. Often represented by a capital or lower-case": {
+    "guess": "Madelung constant",
+    "confidence": [
+      [
+        "M",
+        -0.715709
+      ],
+      [
+        "adel",
+        -1.5928495e-05
+      ],
+      [
+        "ung",
+        0.0
+      ],
+      [
+        " constant",
+        -0.2014759
+      ]
+    ]
+  },
+  "This value can be calculated by the Evjen method, which is a direct summation of Coulombic potentials, or by the Ewald method, which uses integral transforms to validly calculate the Coulomb potential at any mathematical point. When this value cannot be obtained, one can still use the Kapustinskii Equation in order to make a reasonable estimate of energy. A term must be added to this value to account for the electron-electron repulsion of closed shells. Often represented by a capital or lower-case \"A\", for example in the Born-Mayer Equation, it is often calculated for sodium chloride to demonstrate": {
+    "guess": "Lattice energy",
+    "confidence": [
+      [
+        "L",
+        -0.6171709
+      ],
+      [
+        "attice",
+        -5.5122365e-07
+      ],
+      [
+        " energy",
+        -0.05488341
+      ]
+    ]
+  },
+  "This value can be calculated by the Evjen method, which is a direct summation of Coulombic potentials, or by the Ewald method, which uses integral transforms to validly calculate the Coulomb potential at any mathematical point. When this value cannot be obtained, one can still use the Kapustinskii Equation in order to make a reasonable estimate of energy. A term must be added to this value to account for the electron-electron repulsion of closed shells. Often represented by a capital or lower-case \"A\", for example in the Born-Mayer Equation, it is often calculated for sodium chloride to demonstrate its rapidly converging series. It depends on the relative distribution of cations and anions in": {
+    "guess": "Madelung constant",
+    "confidence": [
+      [
+        "M",
+        -0.019955447
+      ],
+      [
+        "adel",
+        -0.00012523093
+      ],
+      [
+        "ung",
+        0.0
+      ],
+      [
+        " constant",
+        -0.020572603
+      ]
+    ]
+  },
+  "This value can be calculated by the Evjen method, which is a direct summation of Coulombic potentials, or by the Ewald method, which uses integral transforms to validly calculate the Coulomb potential at any mathematical point. When this value cannot be obtained, one can still use the Kapustinskii Equation in order to make a reasonable estimate of energy. A term must be added to this value to account for the electron-electron repulsion of closed shells. Often represented by a capital or lower-case \"A\", for example in the Born-Mayer Equation, it is often calculated for sodium chloride to demonstrate its rapidly converging series. It depends on the relative distribution of cations and anions in a structure, and unlike lattice energy, it describes the energy of a single ion in a crystal. FTP,": {
+    "guess": "Madelung constant",
+    "confidence": [
+      [
+        "M",
+        -0.022560626
+      ],
+      [
+        "adel",
+        -9.436451e-05
+      ],
+      [
+        "ung",
+        0.0
+      ],
+      [
+        " constant",
+        -0.016045278
+      ]
+    ]
+  },
+  "This value can be calculated by the Evjen method, which is a direct summation of Coulombic potentials, or by the Ewald method, which uses integral transforms to validly calculate the Coulomb potential at any mathematical point. When this value cannot be obtained, one can still use the Kapustinskii Equation in order to make a reasonable estimate of energy. A term must be added to this value to account for the electron-electron repulsion of closed shells. Often represented by a capital or lower-case \"A\", for example in the Born-Mayer Equation, it is often calculated for sodium chloride to demonstrate its rapidly converging series. It depends on the relative distribution of cations and anions in a structure, and unlike lattice energy, it describes the energy of a single ion in a crystal. FTP, name this constant which depends on geometric arrangement of ions in a crystal, named for a German chemist.": {
+    "guess": "Madelung constant",
+    "confidence": [
+      [
+        "M",
+        -0.013918193
+      ],
+      [
+        "adel",
+        -6.456359e-05
+      ],
+      [
+        "ung",
+        0.0
+      ],
+      [
+        " constant",
+        -0.020543175
+      ]
+    ]
+  },
+  "The valedictorian of this man's Amherst class of 1895 was Dwight Morrow, later his Ambassador to Mexico.": {
+    "guess": "Calvin Coolidge",
+    "confidence": [
+      [
+        "Cal",
+        -0.00026073982
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        " Cool",
+        0.0
+      ],
+      [
+        "idge",
+        0.0
+      ]
+    ]
+  },
+  "The valedictorian of this man's Amherst class of 1895 was Dwight Morrow, later his Ambassador to Mexico. He appointed Harlan Stone to the Supreme Court, and he also saw the passage of the Air Commerce": {
+    "guess": "Calvin Coolidge",
+    "confidence": [
+      [
+        "Cal",
+        -6.313315e-05
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        " Cool",
+        0.0
+      ],
+      [
+        "idge",
+        0.0
+      ]
+    ]
+  },
+  "The valedictorian of this man's Amherst class of 1895 was Dwight Morrow, later his Ambassador to Mexico. He appointed Harlan Stone to the Supreme Court, and he also saw the passage of the Air Commerce Act, the Veterans Bonus Act, and the Kellogg-Briand Pact. During his nomination campaign, his first": {
+    "guess": "Calvin Coolidge",
+    "confidence": [
+      [
+        "Cal",
+        -0.0012249894
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        " Cool",
+        -1.9361265e-07
+      ],
+      [
+        "idge",
+        0.0
+      ]
+    ]
+  },
+  "The valedictorian of this man's Amherst class of 1895 was Dwight Morrow, later his Ambassador to Mexico. He appointed Harlan Stone to the Supreme Court, and he also saw the passage of the Air Commerce Act, the Veterans Bonus Act, and the Kellogg-Briand Pact. During his nomination campaign, his first two picks for the Vice-Presidency declined before Charles Dawes ran with him to a victory over John": {
+    "guess": "Calvin Coolidge",
+    "confidence": [
+      [
+        "Cal",
+        -0.0036353501
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        " Cool",
+        0.0
+      ],
+      [
+        "idge",
+        0.0
+      ]
+    ]
+  },
+  "The valedictorian of this man's Amherst class of 1895 was Dwight Morrow, later his Ambassador to Mexico. He appointed Harlan Stone to the Supreme Court, and he also saw the passage of the Air Commerce Act, the Veterans Bonus Act, and the Kellogg-Briand Pact. During his nomination campaign, his first two picks for the Vice-Presidency declined before Charles Dawes ran with him to a victory over John W. Davis and Bob LaFollette. The only President of the United States to be sworn in to office by his": {
+    "guess": "Calvin Coolidge",
+    "confidence": [
+      [
+        "Cal",
+        -0.002925638
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        " Cool",
+        0.0
+      ],
+      [
+        "idge",
+        0.0
+      ]
+    ]
+  },
+  "The valedictorian of this man's Amherst class of 1895 was Dwight Morrow, later his Ambassador to Mexico. He appointed Harlan Stone to the Supreme Court, and he also saw the passage of the Air Commerce Act, the Veterans Bonus Act, and the Kellogg-Briand Pact. During his nomination campaign, his first two picks for the Vice-Presidency declined before Charles Dawes ran with him to a victory over John W. Davis and Bob LaFollette. The only President of the United States to be sworn in to office by his father was, FTP, this famously tight-lipped Massachusian, successor to Warren Harding, who served from": {
+    "guess": "Calvin Coolidge",
+    "confidence": [
+      [
+        "Cal",
+        -0.018527756
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        " Cool",
+        0.0
+      ],
+      [
+        "idge",
+        0.0
+      ]
+    ]
+  },
+  "The valedictorian of this man's Amherst class of 1895 was Dwight Morrow, later his Ambassador to Mexico. He appointed Harlan Stone to the Supreme Court, and he also saw the passage of the Air Commerce Act, the Veterans Bonus Act, and the Kellogg-Briand Pact. During his nomination campaign, his first two picks for the Vice-Presidency declined before Charles Dawes ran with him to a victory over John W. Davis and Bob LaFollette. The only President of the United States to be sworn in to office by his father was, FTP, this famously tight-lipped Massachusian, successor to Warren Harding, who served from 1923 to 1928.": {
+    "guess": "Calvin Coolidge",
+    "confidence": [
+      [
+        "Cal",
+        -0.0013035722
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        " Cool",
+        0.0
+      ],
+      [
+        "idge",
+        0.0
+      ]
+    ]
+  },
+  "Its value can be derived by applying the Bragg-Williams approximation to a 2-dimensional Ising model,": {
+    "guess": "Critical temperature",
+    "confidence": [
+      [
+        "Critical",
+        -0.08296789
+      ],
+      [
+        " temperature",
+        -0.0013432085
+      ]
+    ]
+  },
+  "Its value can be derived by applying the Bragg-Williams approximation to a 2-dimensional Ising model, resulting in a mean-field theory. It is given by the coupling constant times the number of nearest": {
+    "guess": "Critical temperature",
+    "confidence": [
+      [
+        "Critical",
+        -0.57634157
+      ],
+      [
+        " temperature",
+        -0.00057269033
+      ]
+    ]
+  },
+  "Its value can be derived by applying the Bragg-Williams approximation to a 2-dimensional Ising model, resulting in a mean-field theory. It is given by the coupling constant times the number of nearest neighbors divided by Boltzmann's constant, and Onsager's solutions imply that near it the spontaneous": {
+    "guess": "Critical temperature",
+    "confidence": [
+      [
+        "Critical",
+        -0.18666942
+      ],
+      [
+        " temperature",
+        -0.00033200893
+      ]
+    ]
+  },
+  "Its value can be derived by applying the Bragg-Williams approximation to a 2-dimensional Ising model, resulting in a mean-field theory. It is given by the coupling constant times the number of nearest neighbors divided by Boltzmann's constant, and Onsager's solutions imply that near it the spontaneous magnetization scales as the one-eighth power of the temperature. TRM occurs when a substance is cooled": {
+    "guess": "Critical temperature",
+    "confidence": [
+      [
+        "Critical",
+        -0.6218824
+      ],
+      [
+        " temperature",
+        -0.0054843025
+      ]
+    ]
+  },
+  "Its value can be derived by applying the Bragg-Williams approximation to a 2-dimensional Ising model, resulting in a mean-field theory. It is given by the coupling constant times the number of nearest neighbors divided by Boltzmann's constant, and Onsager's solutions imply that near it the spontaneous magnetization scales as the one-eighth power of the temperature. TRM occurs when a substance is cooled in the presence of a magnetic field below this point, which has an antiferromagnetic counterpart": {
+    "guess": "Curie temperature",
+    "confidence": [
+      [
+        "Cur",
+        -0.039886396
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " temperature",
+        -0.033765685
+      ]
+    ]
+  },
+  "Its value can be derived by applying the Bragg-Williams approximation to a 2-dimensional Ising model, resulting in a mean-field theory. It is given by the coupling constant times the number of nearest neighbors divided by Boltzmann's constant, and Onsager's solutions imply that near it the spontaneous magnetization scales as the one-eighth power of the temperature. TRM occurs when a substance is cooled in the presence of a magnetic field below this point, which has an antiferromagnetic counterpart in the Neel temperature. Associated with a second-order critical transition, for ten points, identify": {
+    "guess": "Critical temperature",
+    "confidence": [
+      [
+        "Critical",
+        -0.26524577
+      ],
+      [
+        " temperature",
+        -7.588794e-05
+      ]
+    ]
+  },
+  "Its value can be derived by applying the Bragg-Williams approximation to a 2-dimensional Ising model, resulting in a mean-field theory. It is given by the coupling constant times the number of nearest neighbors divided by Boltzmann's constant, and Onsager's solutions imply that near it the spontaneous magnetization scales as the one-eighth power of the temperature. TRM occurs when a substance is cooled in the presence of a magnetic field below this point, which has an antiferromagnetic counterpart in the Neel temperature. Associated with a second-order critical transition, for ten points, identify this temperature above which a ferromagnetic substance becomes paramagnetic, discovered by the father-in-law": {
+    "guess": "Curie temperature",
+    "confidence": [
+      [
+        "Cur",
+        -0.0003831253
+      ],
+      [
+        "ie",
+        -1.9361265e-07
+      ],
+      [
+        " temperature",
+        -0.0006681175
+      ]
+    ]
+  },
+  "Its value can be derived by applying the Bragg-Williams approximation to a 2-dimensional Ising model, resulting in a mean-field theory. It is given by the coupling constant times the number of nearest neighbors divided by Boltzmann's constant, and Onsager's solutions imply that near it the spontaneous magnetization scales as the one-eighth power of the temperature. TRM occurs when a substance is cooled in the presence of a magnetic field below this point, which has an antiferromagnetic counterpart in the Neel temperature. Associated with a second-order critical transition, for ten points, identify this temperature above which a ferromagnetic substance becomes paramagnetic, discovered by the father-in-law of Fr??ic Joliot.": {
+    "guess": "Curie temperature",
+    "confidence": [
+      [
+        "Cur",
+        -2.4987974e-05
+      ],
+      [
+        "ie",
+        -1.9361265e-07
+      ],
+      [
+        " temperature",
+        -0.0004720219
+      ]
+    ]
+  },
+  "It is not valid in the presence of mutations, natural selection, or non-random mating. But, for a large": {
+    "guess": "Hardy\u2013Weinberg principle",
+    "confidence": [
+      [
+        "Hard",
+        -6.301394e-05
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "\u2013",
+        -1.4855664e-05
+      ],
+      [
+        "We",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ],
+      [
+        " principle",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "It is not valid in the presence of mutations, natural selection, or non-random mating. But, for a large population without the above factors, it states that the proportion of alleles at a given locus remains": {
+    "guess": "Hardy\u2013Weinberg principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.00012475411
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.00013989297
+      ],
+      [
+        "We",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ],
+      [
+        " principle",
+        -5.7961847e-06
+      ]
+    ]
+  },
+  "It is not valid in the presence of mutations, natural selection, or non-random mating. But, for a large population without the above factors, it states that the proportion of alleles at a given locus remains constant.  For ten points, what rule, named for a British mathematician and a German physician,": {
+    "guess": "Hardy-Weinberg Principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.0036253661
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "-We",
+        -0.00020354039
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ],
+      [
+        " Principle",
+        -0.00023965542
+      ]
+    ]
+  },
+  "It is not valid in the presence of mutations, natural selection, or non-random mating. But, for a large population without the above factors, it states that the proportion of alleles at a given locus remains constant.  For ten points, what rule, named for a British mathematician and a German physician, forms the basis of population genetics.": {
+    "guess": "Hardy-Weinberg Principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.2519831
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "-We",
+        -0.00020354039
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ],
+      [
+        " Principle",
+        -0.0011933217
+      ]
+    ]
+  },
+  "This value, the square root of the product of the relative permeability and relative permittivity, is": {
+    "guess": "Refractive index",
+    "confidence": [
+      [
+        "Re",
+        -0.57806486
+      ],
+      [
+        "fr",
+        -1.9361265e-07
+      ],
+      [
+        "active",
+        -8.657073e-06
+      ],
+      [
+        " index",
+        -2.7848862e-05
+      ]
+    ]
+  },
+  "This value, the square root of the product of the relative permeability and relative permittivity, is negative in metamaterials, and multiple values for it appear in objects exhibiting birefringence. The": {
+    "guess": "Refractive index",
+    "confidence": [
+      [
+        "Re",
+        -0.014582176
+      ],
+      [
+        "fr",
+        0.0
+      ],
+      [
+        "active",
+        0.0
+      ],
+      [
+        " index",
+        -1.6882126e-05
+      ]
+    ]
+  },
+  "This value, the square root of the product of the relative permeability and relative permittivity, is negative in metamaterials, and multiple values for it appear in objects exhibiting birefringence. The angles of incidence for two adjacent objects with different values of this are calculated by Snell's": {
+    "guess": "Snell's law",
+    "confidence": [
+      [
+        "Sn",
+        -0.106315084
+      ],
+      [
+        "ell",
+        0.0
+      ],
+      [
+        "'s",
+        -1.700133e-05
+      ],
+      [
+        " law",
+        -0.011048762
+      ]
+    ]
+  },
+  "This value, the square root of the product of the relative permeability and relative permittivity, is negative in metamaterials, and multiple values for it appear in objects exhibiting birefringence. The angles of incidence for two adjacent objects with different values of this are calculated by Snell's law. For 10 points, name this dimensionless quantity measuring the ratio of the speed of light in": {
+    "guess": "Refractive index",
+    "confidence": [
+      [
+        "Re",
+        -0.002029754
+      ],
+      [
+        "fr",
+        0.0
+      ],
+      [
+        "active",
+        0.0
+      ],
+      [
+        " index",
+        -2.451116e-05
+      ]
+    ]
+  },
+  "This value, the square root of the product of the relative permeability and relative permittivity, is negative in metamaterials, and multiple values for it appear in objects exhibiting birefringence. The angles of incidence for two adjacent objects with different values of this are calculated by Snell's law. For 10 points, name this dimensionless quantity measuring the ratio of the speed of light in a medium to that in a vacuum.": {
+    "guess": "Refractive index",
+    "confidence": [
+      [
+        "Re",
+        -0.0031977969
+      ],
+      [
+        "fr",
+        0.0
+      ],
+      [
+        "active",
+        0.0
+      ],
+      [
+        " index",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The Valves of Kirkring and Solitary Glands are found in this organ, as are the \"Central Lacteal\" portions": {
+    "guess": "Small intestine",
+    "confidence": [
+      [
+        "Small",
+        -0.5768036
+      ],
+      [
+        " intestine",
+        -0.038042527
+      ]
+    ]
+  },
+  "The Valves of Kirkring and Solitary Glands are found in this organ, as are the \"Central Lacteal\" portions of lymphatic vessels. Alpha-defensins secreted by the Paneth cells in this organ help defend the": {
+    "guess": "Small intestine",
+    "confidence": [
+      [
+        "Small",
+        -0.002065803
+      ],
+      [
+        " intestine",
+        -0.048588168
+      ]
+    ]
+  },
+  "The Valves of Kirkring and Solitary Glands are found in this organ, as are the \"Central Lacteal\" portions of lymphatic vessels. Alpha-defensins secreted by the Paneth cells in this organ help defend the stem cells found within it, and Goblet cells make up the crypts of Lieberkuhn here.  Protective alkaline": {
+    "guess": "Small intestine",
+    "confidence": [
+      [
+        "Small",
+        -0.00020437481
+      ],
+      [
+        " intestine",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "The Valves of Kirkring and Solitary Glands are found in this organ, as are the \"Central Lacteal\" portions of lymphatic vessels. Alpha-defensins secreted by the Paneth cells in this organ help defend the stem cells found within it, and Goblet cells make up the crypts of Lieberkuhn here.  Protective alkaline substances are secreted by Brunner's glands in this organ, while other tissues found in this": {
+    "guess": "Small intestine",
+    "confidence": [
+      [
+        "Small",
+        -0.0041230423
+      ],
+      [
+        " intestine",
+        -0.048588734
+      ]
+    ]
+  },
+  "The Valves of Kirkring and Solitary Glands are found in this organ, as are the \"Central Lacteal\" portions of lymphatic vessels. Alpha-defensins secreted by the Paneth cells in this organ help defend the stem cells found within it, and Goblet cells make up the crypts of Lieberkuhn here.  Protective alkaline substances are secreted by Brunner's glands in this organ, while other tissues found in this organ include Peyer's Patches. Bile and pancreatic juices from the ampulla of Vater enter this structure": {
+    "guess": "Small intestine",
+    "confidence": [
+      [
+        "Small",
+        -0.024406036
+      ],
+      [
+        " intestine",
+        -1.342522e-05
+      ]
+    ]
+  },
+  "The Valves of Kirkring and Solitary Glands are found in this organ, as are the \"Central Lacteal\" portions of lymphatic vessels. Alpha-defensins secreted by the Paneth cells in this organ help defend the stem cells found within it, and Goblet cells make up the crypts of Lieberkuhn here.  Protective alkaline substances are secreted by Brunner's glands in this organ, while other tissues found in this organ include Peyer's Patches. Bile and pancreatic juices from the ampulla of Vater enter this structure through the Sphincter of Oddi, and finger-like projections in this organ are called villi. For": {
+    "guess": "Small intestine",
+    "confidence": [
+      [
+        "Small",
+        -0.0115735205
+      ],
+      [
+        " intestine",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "The Valves of Kirkring and Solitary Glands are found in this organ, as are the \"Central Lacteal\" portions of lymphatic vessels. Alpha-defensins secreted by the Paneth cells in this organ help defend the stem cells found within it, and Goblet cells make up the crypts of Lieberkuhn here.  Protective alkaline substances are secreted by Brunner's glands in this organ, while other tissues found in this organ include Peyer's Patches. Bile and pancreatic juices from the ampulla of Vater enter this structure through the Sphincter of Oddi, and finger-like projections in this organ are called villi. For 10 points, name this organ containing the duodenum, jejunum, and ileum, found between the stomach and": {
+    "guess": "Small intestine",
+    "confidence": [
+      [
+        "Small",
+        -0.003584868
+      ],
+      [
+        " intestine",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "The Valves of Kirkring and Solitary Glands are found in this organ, as are the \"Central Lacteal\" portions of lymphatic vessels. Alpha-defensins secreted by the Paneth cells in this organ help defend the stem cells found within it, and Goblet cells make up the crypts of Lieberkuhn here.  Protective alkaline substances are secreted by Brunner's glands in this organ, while other tissues found in this organ include Peyer's Patches. Bile and pancreatic juices from the ampulla of Vater enter this structure through the Sphincter of Oddi, and finger-like projections in this organ are called villi. For 10 points, name this organ containing the duodenum, jejunum, and ileum, found between the stomach and the large intestine.": {
+    "guess": "Small intestine",
+    "confidence": [
+      [
+        "Small",
+        -0.011124809
+      ],
+      [
+        " intestine",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "This value appears in the numerator in Black's equation, which is used to calculate it for self-diffusion": {
+    "guess": "Diffusion coefficient",
+    "confidence": [
+      [
+        "Diff",
+        -0.10001804
+      ],
+      [
+        "usion",
+        -0.061967686
+      ],
+      [
+        " coefficient",
+        -0.00101328
+      ]
+    ]
+  },
+  "This value appears in the numerator in Black's equation, which is used to calculate it for self-diffusion in pure metals. It is usually determined experimentally by taking the slope of the line that appears": {
+    "guess": "Activation energy",
+    "confidence": [
+      [
+        "Activation",
+        -0.43227068
+      ],
+      [
+        " energy",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "This value appears in the numerator in Black's equation, which is used to calculate it for self-diffusion in pure metals. It is usually determined experimentally by taking the slope of the line that appears on the graph plotting the log of k against one over temperature. A negative value of this quantity": {
+    "guess": "Activation energy",
+    "confidence": [
+      [
+        "Activation",
+        -0.32898852
+      ],
+      [
+        " energy",
+        -6.511407e-06
+      ]
+    ]
+  },
+  "This value appears in the numerator in Black's equation, which is used to calculate it for self-diffusion in pure metals. It is usually determined experimentally by taking the slope of the line that appears on the graph plotting the log of k against one over temperature. A negative value of this quantity appears in the exponential divided by RT in the Arrhenius equation. For 10 points, name this value": {
+    "guess": "Activation energy",
+    "confidence": [
+      [
+        "Activation",
+        -0.05493453
+      ],
+      [
+        " energy",
+        -3.4166656e-05
+      ]
+    ]
+  },
+  "This value appears in the numerator in Black's equation, which is used to calculate it for self-diffusion in pure metals. It is usually determined experimentally by taking the slope of the line that appears on the graph plotting the log of k against one over temperature. A negative value of this quantity appears in the exponential divided by RT in the Arrhenius equation. For 10 points, name this value that is lowered by catalysts, and is equal to the minimum energy that molecules must have in order": {
+    "guess": "Activation energy",
+    "confidence": [
+      [
+        "Activation",
+        -0.043208033
+      ],
+      [
+        " energy",
+        -5.3596854e-05
+      ]
+    ]
+  },
+  "This value appears in the numerator in Black's equation, which is used to calculate it for self-diffusion in pure metals. It is usually determined experimentally by taking the slope of the line that appears on the graph plotting the log of k against one over temperature. A negative value of this quantity appears in the exponential divided by RT in the Arrhenius equation. For 10 points, name this value that is lowered by catalysts, and is equal to the minimum energy that molecules must have in order to react.": {
+    "guess": "Activation energy",
+    "confidence": [
+      [
+        "Activation",
+        -0.011079295
+      ],
+      [
+        " energy",
+        -2.1769476e-05
+      ]
+    ]
+  },
+  "This value is a linear function of defect concentration at low concentrations according to the spherical": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.46632448
+      ]
+    ]
+  },
+  "This value is a linear function of defect concentration at low concentrations according to the spherical Montroll-Berlin-Kac model. At this value, susceptibility equals infinity according to a law named": {
+    "guess": "Curie temperature",
+    "confidence": [
+      [
+        "Cur",
+        -0.007569361
+      ],
+      [
+        "ie",
+        -4.3202e-07
+      ],
+      [
+        " temperature",
+        -0.25626108
+      ]
+    ]
+  },
+  "This value is a linear function of defect concentration at low concentrations according to the spherical Montroll-Berlin-Kac model. At this value, susceptibility equals infinity according to a law named for this value and Weiss. Past this value, rotation symmetry in certain materials breaks down in a": {
+    "guess": "Curie temperature",
+    "confidence": [
+      [
+        "Cur",
+        -0.042144448
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " temperature",
+        -0.00013131031
+      ]
+    ]
+  },
+  "This value is a linear function of defect concentration at low concentrations according to the spherical Montroll-Berlin-Kac model. At this value, susceptibility equals infinity according to a law named for this value and Weiss. Past this value, rotation symmetry in certain materials breaks down in a second-order phase transition. It is analogous to the Neel point for an \"anti\" type of material. Above": {
+    "guess": "Curie temperature",
+    "confidence": [
+      [
+        "Cur",
+        -0.0036484147
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " temperature",
+        -0.0020077454
+      ]
+    ]
+  },
+  "This value is a linear function of defect concentration at low concentrations according to the spherical Montroll-Berlin-Kac model. At this value, susceptibility equals infinity according to a law named for this value and Weiss. Past this value, rotation symmetry in certain materials breaks down in a second-order phase transition. It is analogous to the Neel point for an \"anti\" type of material. Above this point, ferromagnets begin to exhibit paramagnetism. For 10 points, give this temperature that": {
+    "guess": "Curie temperature",
+    "confidence": [
+      [
+        "Cur",
+        -0.000555536
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " temperature",
+        -0.00018625586
+      ]
+    ]
+  },
+  "This value is a linear function of defect concentration at low concentrations according to the spherical Montroll-Berlin-Kac model. At this value, susceptibility equals infinity according to a law named for this value and Weiss. Past this value, rotation symmetry in certain materials breaks down in a second-order phase transition. It is analogous to the Neel point for an \"anti\" type of material. Above this point, ferromagnets begin to exhibit paramagnetism. For 10 points, give this temperature that is named for a French physicist who worked with his wife Marie on radioactivity.": {
+    "guess": "Curie temperature",
+    "confidence": [
+      [
+        "Cur",
+        -0.0004322189
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " temperature",
+        -0.00035572314
+      ]
+    ]
+  },
+  "Its validity requires several assumptions, including a large sample size, no differential [*] survival,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6025791
+      ]
+    ]
+  },
+  "Its validity requires several assumptions, including a large sample size, no differential [*] survival, no migration, no mutations, and non-random mating. Commonly applied to the case of one locus with": {
+    "guess": "Hardy\u2013Weinberg principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.060250953
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.00026145502
+      ],
+      [
+        "We",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ],
+      [
+        " principle",
+        -0.001933993
+      ]
+    ]
+  },
+  "Its validity requires several assumptions, including a large sample size, no differential [*] survival, no migration, no mutations, and non-random mating. Commonly applied to the case of one locus with two alleles, it requires that observed allele frequencies sum to one. For 10 points\u2014name this equilibrium": {
+    "guess": "Hardy-Weinberg equilibrium",
+    "confidence": [
+      [
+        "Hard",
+        -0.00026491194
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "-We",
+        -4.5491004e-05
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ],
+      [
+        " equilibrium",
+        -0.6385154
+      ]
+    ]
+  },
+  "Its validity requires several assumptions, including a large sample size, no differential [*] survival, no migration, no mutations, and non-random mating. Commonly applied to the case of one locus with two alleles, it requires that observed allele frequencies sum to one. For 10 points\u2014name this equilibrium commonly used in genetics problems.": {
+    "guess": "Hardy-Weinberg Equilibrium",
+    "confidence": [
+      [
+        "Hard",
+        -5.9437833e-05
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "-We",
+        -1.6762922e-05
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ],
+      [
+        " Equ",
+        -0.40771383
+      ],
+      [
+        "ilibrium",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This value is thought to vary at low accelerations in MOND theory.  The hierarchy problem asks why its": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.92205024
+      ]
+    ]
+  },
+  "This value is thought to vary at low accelerations in MOND theory.  The hierarchy problem asks why its value is so small, which is explained in string theory, by having the gauge boson associated with": {
+    "guess": "Gravitational constant",
+    "confidence": [
+      [
+        "Gr",
+        -0.11243642
+      ],
+      [
+        "avit",
+        -9.615256e-05
+      ],
+      [
+        "ational",
+        -0.00026169344
+      ],
+      [
+        " constant",
+        -0.030653551
+      ]
+    ]
+  },
+  "This value is thought to vary at low accelerations in MOND theory.  The hierarchy problem asks why its value is so small, which is explained in string theory, by having the gauge boson associated with this value not fixed to a brane.  Cavendish measured this constant with a (*) torsion balance.  Like": {
+    "guess": "Gravitational constant",
+    "confidence": [
+      [
+        "Gr",
+        -0.025363147
+      ],
+      [
+        "avit",
+        -4.8425554e-06
+      ],
+      [
+        "ational",
+        0.0
+      ],
+      [
+        " constant",
+        -0.0011958249
+      ]
+    ]
+  },
+  "This value is thought to vary at low accelerations in MOND theory.  The hierarchy problem asks why its value is so small, which is explained in string theory, by having the gauge boson associated with this value not fixed to a brane.  Cavendish measured this constant with a (*) torsion balance.  Like Boltzman's constant, this fundamental constant does not occur in the formula for the fine structure": {
+    "guess": "Gravitational constant",
+    "confidence": [
+      [
+        "Gr",
+        -0.02407663
+      ],
+      [
+        "avit",
+        -3.5477897e-05
+      ],
+      [
+        "ational",
+        0.0
+      ],
+      [
+        " constant",
+        -1.342522e-05
+      ]
+    ]
+  },
+  "This value is thought to vary at low accelerations in MOND theory.  The hierarchy problem asks why its value is so small, which is explained in string theory, by having the gauge boson associated with this value not fixed to a brane.  Cavendish measured this constant with a (*) torsion balance.  Like Boltzman's constant, this fundamental constant does not occur in the formula for the fine structure constant.  For 10 points, name this constant found in an inverse square law describing the mutual attraction": {
+    "guess": "Gravitational constant",
+    "confidence": [
+      [
+        "Gr",
+        -0.0059958636
+      ],
+      [
+        "avit",
+        -1.3067608e-05
+      ],
+      [
+        "ational",
+        0.0
+      ],
+      [
+        " constant",
+        -0.0041236384
+      ]
+    ]
+  },
+  "This value is thought to vary at low accelerations in MOND theory.  The hierarchy problem asks why its value is so small, which is explained in string theory, by having the gauge boson associated with this value not fixed to a brane.  Cavendish measured this constant with a (*) torsion balance.  Like Boltzman's constant, this fundamental constant does not occur in the formula for the fine structure constant.  For 10 points, name this constant found in an inverse square law describing the mutual attraction of matter.": {
+    "guess": "Gravitational constant",
+    "confidence": [
+      [
+        "Gr",
+        -0.0034511029
+      ],
+      [
+        "avit",
+        -1.3067608e-05
+      ],
+      [
+        "ational",
+        0.0
+      ],
+      [
+        " constant",
+        -0.0013571369
+      ]
+    ]
+  },
+  "This man's valet, Robert Holloway was captured at First Bull Run. This first president of the NRA and": {
+    "guess": "Ambrose Burnside",
+    "confidence": [
+      [
+        "Amb",
+        -0.17801999
+      ],
+      [
+        "rose",
+        0.0
+      ],
+      [
+        " Burn",
+        -0.00068777136
+      ],
+      [
+        "side",
+        0.0
+      ]
+    ]
+  },
+  "This man's valet, Robert Holloway was captured at First Bull Run. This first president of the NRA and onetime Rhode Island governor popularized a namesake carbine. His IX Corps led the disastrous assault": {
+    "guess": "Ambrose Burnside",
+    "confidence": [
+      [
+        "Amb",
+        -0.002162514
+      ],
+      [
+        "rose",
+        0.0
+      ],
+      [
+        " Burn",
+        -1.7239736e-05
+      ],
+      [
+        "side",
+        0.0
+      ]
+    ]
+  },
+  "This man's valet, Robert Holloway was captured at First Bull Run. This first president of the NRA and onetime Rhode Island governor popularized a namesake carbine. His IX Corps led the disastrous assault at the Battle of the Crater, and in an earlier battle failed to cross the Rappahannock. For 10 points,": {
+    "guess": "Ambrose Burnside",
+    "confidence": [
+      [
+        "Amb",
+        -0.0022408932
+      ],
+      [
+        "rose",
+        0.0
+      ],
+      [
+        " Burn",
+        0.0
+      ],
+      [
+        "side",
+        0.0
+      ]
+    ]
+  },
+  "This man's valet, Robert Holloway was captured at First Bull Run. This first president of the NRA and onetime Rhode Island governor popularized a namesake carbine. His IX Corps led the disastrous assault at the Battle of the Crater, and in an earlier battle failed to cross the Rappahannock. For 10 points, name this Union general who lost the Battle of Fredericksburg after replacing George McClellan": {
+    "guess": "Ambrose Burnside",
+    "confidence": [
+      [
+        "Amb",
+        -0.00067240145
+      ],
+      [
+        "rose",
+        0.0
+      ],
+      [
+        " Burn",
+        0.0
+      ],
+      [
+        "side",
+        0.0
+      ]
+    ]
+  },
+  "This man's valet, Robert Holloway was captured at First Bull Run. This first president of the NRA and onetime Rhode Island governor popularized a namesake carbine. His IX Corps led the disastrous assault at the Battle of the Crater, and in an earlier battle failed to cross the Rappahannock. For 10 points, name this Union general who lost the Battle of Fredericksburg after replacing George McClellan as Commander of the Army of the Potomac, who popularized a certain style of facial hair.": {
+    "guess": "Ambrose Burnside",
+    "confidence": [
+      [
+        "Amb",
+        -0.0022838379
+      ],
+      [
+        "rose",
+        0.0
+      ],
+      [
+        " Burn",
+        0.0
+      ],
+      [
+        "side",
+        0.0
+      ]
+    ]
+  }
+}

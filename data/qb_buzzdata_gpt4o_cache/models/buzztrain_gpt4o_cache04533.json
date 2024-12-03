@@ -1,0 +1,316 @@
+{
+  "The Lummer-Gehrcke type is interesting for its use of only one main component, and is useful in the study": {
+    "guess": "Interferometer",
+    "confidence": [
+      [
+        "Inter",
+        -0.019367144
+      ],
+      [
+        "fer",
+        -0.00020354039
+      ],
+      [
+        "ometer",
+        -0.03816382
+      ]
+    ]
+  },
+  "The Lummer-Gehrcke type is interesting for its use of only one main component, and is useful in the study of hyperfine structure. The Fizeau-Laurent version is used to detect imperfections in flat surfaces,": {
+    "guess": "Interferometer",
+    "confidence": [
+      [
+        "Inter",
+        -0.04253296
+      ],
+      [
+        "fer",
+        -0.0024756587
+      ],
+      [
+        "ometer",
+        -0.0031830634
+      ]
+    ]
+  },
+  "The Lummer-Gehrcke type is interesting for its use of only one main component, and is useful in the study of hyperfine structure. The Fizeau-Laurent version is used to detect imperfections in flat surfaces, while lenses and prisms are tested using the Twyman-Green type, a variation of the most famous": {
+    "guess": "Interferometer",
+    "confidence": [
+      [
+        "Inter",
+        -0.13175774
+      ],
+      [
+        "fer",
+        -4.246537e-06
+      ],
+      [
+        "ometer",
+        -5.8603408e-05
+      ]
+    ]
+  },
+  "The Lummer-Gehrcke type is interesting for its use of only one main component, and is useful in the study of hyperfine structure. The Fizeau-Laurent version is used to detect imperfections in flat surfaces, while lenses and prisms are tested using the Twyman-Green type, a variation of the most famous example. An etalon is used in the Fabry-Perot version of this device, but the most famous is the one": {
+    "guess": "Interferometer",
+    "confidence": [
+      [
+        "Inter",
+        -0.3336093
+      ],
+      [
+        "fer",
+        -1.9361265e-07
+      ],
+      [
+        "ometer",
+        -6.539802e-05
+      ]
+    ]
+  },
+  "The Lummer-Gehrcke type is interesting for its use of only one main component, and is useful in the study of hyperfine structure. The Fizeau-Laurent version is used to detect imperfections in flat surfaces, while lenses and prisms are tested using the Twyman-Green type, a variation of the most famous example. An etalon is used in the Fabry-Perot version of this device, but the most famous is the one used to disprove the existence of ether by Michelson and Morley. FTP, what is this instrument named": {
+    "guess": "Interferometer",
+    "confidence": [
+      [
+        "Inter",
+        -0.0012032082
+      ],
+      [
+        "fer",
+        0.0
+      ],
+      [
+        "ometer",
+        0.0
+      ]
+    ]
+  },
+  "The Lummer-Gehrcke type is interesting for its use of only one main component, and is useful in the study of hyperfine structure. The Fizeau-Laurent version is used to detect imperfections in flat surfaces, while lenses and prisms are tested using the Twyman-Green type, a variation of the most famous example. An etalon is used in the Fabry-Perot version of this device, but the most famous is the one used to disprove the existence of ether by Michelson and Morley. FTP, what is this instrument named for its production of optical interference fringes?": {
+    "guess": "Interferometer",
+    "confidence": [
+      [
+        "Inter",
+        -0.00058210373
+      ],
+      [
+        "fer",
+        0.0
+      ],
+      [
+        "ometer",
+        0.0
+      ]
+    ]
+  },
+  "On lunar missions, X-rays and these entities are detected by the same method: wafers of silicon. George": {
+    "guess": "Photons",
+    "confidence": [
+      [
+        "Phot",
+        -0.43096492
+      ],
+      [
+        "ons",
+        -0.000120708515
+      ]
+    ]
+  },
+  "On lunar missions, X-rays and these entities are detected by the same method: wafers of silicon. George Gamow explained their creation using quantum tunneling. These particles are used in smoke detectors,": {
+    "guess": "Alpha particles",
+    "confidence": [
+      [
+        "Alpha",
+        -0.000727921
+      ],
+      [
+        " particles",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "On lunar missions, X-rays and these entities are detected by the same method: wafers of silicon. George Gamow explained their creation using quantum tunneling. These particles are used in smoke detectors, typically being produced by Americium. They were used to first detect the existence of nuclei in": {
+    "guess": "Alpha particles",
+    "confidence": [
+      [
+        "Alpha",
+        -0.0008438145
+      ],
+      [
+        " particles",
+        -0.34854522
+      ]
+    ]
+  },
+  "On lunar missions, X-rays and these entities are detected by the same method: wafers of silicon. George Gamow explained their creation using quantum tunneling. These particles are used in smoke detectors, typically being produced by Americium. They were used to first detect the existence of nuclei in the gold foil experiment by Ernest Rutherford. Name these heavy decay particles that contain two protons": {
+    "guess": "Alpha particles",
+    "confidence": [
+      [
+        "Alpha",
+        -6.659005e-05
+      ],
+      [
+        " particles",
+        -0.07889474
+      ]
+    ]
+  },
+  "On lunar missions, X-rays and these entities are detected by the same method: wafers of silicon. George Gamow explained their creation using quantum tunneling. These particles are used in smoke detectors, typically being produced by Americium. They were used to first detect the existence of nuclei in the gold foil experiment by Ernest Rutherford. Name these heavy decay particles that contain two protons and two neutrons.": {
+    "guess": "Alpha particles",
+    "confidence": [
+      [
+        "Alpha",
+        -4.604148e-06
+      ],
+      [
+        " particles",
+        -0.100211196
+      ]
+    ]
+  },
+  "The Lundmark law is a quadratic form of this law, which was found to better fit empirical observations": {
+    "guess": "Hubble's law",
+    "confidence": [
+      [
+        "H",
+        -0.38713136
+      ],
+      [
+        "ubble",
+        0.0
+      ],
+      [
+        "'s",
+        -7.107425e-06
+      ],
+      [
+        " law",
+        -0.38687176
+      ]
+    ]
+  },
+  "The Lundmark law is a quadratic form of this law, which was found to better fit empirical observations by I. E. Segal, and the Tully-Fisher relation can be used to estimate on of the quantities in its": {
+    "guess": "Hubble's Law",
+    "confidence": [
+      [
+        "H",
+        -0.006802526
+      ],
+      [
+        "ubble",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -1.18755715e-05
+      ],
+      [
+        " Law",
+        -0.012509895
+      ]
+    ]
+  },
+  "The Lundmark law is a quadratic form of this law, which was found to better fit empirical observations by I. E. Segal, and the Tully-Fisher relation can be used to estimate on of the quantities in its mathematical expression. Friedmann's equations can yield the constant of proportionality in this law,": {
+    "guess": "Hubble's Law",
+    "confidence": [
+      [
+        "H",
+        -0.062019553
+      ],
+      [
+        "ubble",
+        0.0
+      ],
+      [
+        "'s",
+        -1.8624639e-06
+      ],
+      [
+        " Law",
+        -0.000296732
+      ]
+    ]
+  },
+  "The Lundmark law is a quadratic form of this law, which was found to better fit empirical observations by I. E. Segal, and the Tully-Fisher relation can be used to estimate on of the quantities in its mathematical expression. Friedmann's equations can yield the constant of proportionality in this law, while recent recent observations of Cepheid variables estimate that constant to be between 65 and": {
+    "guess": "Hubble's Law",
+    "confidence": [
+      [
+        "H",
+        -0.062206984
+      ],
+      [
+        "ubble",
+        0.0
+      ],
+      [
+        "'s",
+        -4.1273333e-06
+      ],
+      [
+        " Law",
+        -0.00012582695
+      ]
+    ]
+  },
+  "The Lundmark law is a quadratic form of this law, which was found to better fit empirical observations by I. E. Segal, and the Tully-Fisher relation can be used to estimate on of the quantities in its mathematical expression. Friedmann's equations can yield the constant of proportionality in this law, while recent recent observations of Cepheid variables estimate that constant to be between 65 and 80 kilometers per second-megaparsec. For 10 points, identify this law developed by a namesake American": {
+    "guess": "Hubble's Law",
+    "confidence": [
+      [
+        "H",
+        -0.00026181265
+      ],
+      [
+        "ubble",
+        0.0
+      ],
+      [
+        "'s",
+        -7.89631e-07
+      ],
+      [
+        " Law",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The Lundmark law is a quadratic form of this law, which was found to better fit empirical observations by I. E. Segal, and the Tully-Fisher relation can be used to estimate on of the quantities in its mathematical expression. Friedmann's equations can yield the constant of proportionality in this law, while recent recent observations of Cepheid variables estimate that constant to be between 65 and 80 kilometers per second-megaparsec. For 10 points, identify this law developed by a namesake American astronomer, which states that the redshift of light coming from any source is proportional to the": {
+    "guess": "Hubble's Law",
+    "confidence": [
+      [
+        "H",
+        -0.00018125297
+      ],
+      [
+        "ubble",
+        0.0
+      ],
+      [
+        "'s",
+        -5.5122365e-07
+      ],
+      [
+        " Law",
+        0.0
+      ]
+    ]
+  },
+  "The Lundmark law is a quadratic form of this law, which was found to better fit empirical observations by I. E. Segal, and the Tully-Fisher relation can be used to estimate on of the quantities in its mathematical expression. Friedmann's equations can yield the constant of proportionality in this law, while recent recent observations of Cepheid variables estimate that constant to be between 65 and 80 kilometers per second-megaparsec. For 10 points, identify this law developed by a namesake American astronomer, which states that the redshift of light coming from any source is proportional to the distance of the source.": {
+    "guess": "Hubble's Law",
+    "confidence": [
+      [
+        "H",
+        -3.5716304e-05
+      ],
+      [
+        "ubble",
+        0.0
+      ],
+      [
+        "'s",
+        -3.1281633e-07
+      ],
+      [
+        " Law",
+        -3.1281633e-07
+      ]
+    ]
+  }
+}

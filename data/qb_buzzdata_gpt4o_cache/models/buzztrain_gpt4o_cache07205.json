@@ -1,0 +1,666 @@
+{
+  "The Steiner-Lehmus theorem states that if the lengths of two of these are equal in any triangle, then": {
+    "guess": "Steiner\u2013Lehmus theorem",
+    "confidence": [
+      [
+        "Ste",
+        -0.24321756
+      ],
+      [
+        "iner",
+        -1.7478143e-05
+      ],
+      [
+        "\u2013",
+        -0.25203452
+      ],
+      [
+        "Le",
+        -5.5122365e-07
+      ],
+      [
+        "hm",
+        -4.365741e-06
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " theorem",
+        -0.0005020392
+      ]
+    ]
+  },
+  "The Steiner-Lehmus theorem states that if the lengths of two of these are equal in any triangle, then the triangle is isosceles. They can be easily constructed by connecting a vertex of the triangle to": {
+    "guess": "Angle bisector",
+    "confidence": [
+      [
+        "Angle",
+        -0.1949198
+      ],
+      [
+        " bis",
+        -3.488188e-05
+      ],
+      [
+        "ector",
+        -0.000335939
+      ]
+    ]
+  },
+  "The Steiner-Lehmus theorem states that if the lengths of two of these are equal in any triangle, then the triangle is isosceles. They can be easily constructed by connecting a vertex of the triangle to the midpoint of the minor arc connecting the other two vertices on the circumcircle. Their namesake": {
+    "guess": "Angle bisector",
+    "confidence": [
+      [
+        "Angle",
+        -0.07887359
+      ],
+      [
+        " bis",
+        -0.00055589364
+      ],
+      [
+        "ector",
+        -0.026318531
+      ]
+    ]
+  },
+  "The Steiner-Lehmus theorem states that if the lengths of two of these are equal in any triangle, then the triangle is isosceles. They can be easily constructed by connecting a vertex of the triangle to the midpoint of the minor arc connecting the other two vertices on the circumcircle. Their namesake theorem relates the ratio in which they cut the opposing side with the ratios of two sides of the triangle.": {
+    "guess": "Angle bisector",
+    "confidence": [
+      [
+        "Angle",
+        -0.057294775
+      ],
+      [
+        " bis",
+        -0.00020663968
+      ],
+      [
+        "ector",
+        -0.014171852
+      ]
+    ]
+  },
+  "The Steiner-Lehmus theorem states that if the lengths of two of these are equal in any triangle, then the triangle is isosceles. They can be easily constructed by connecting a vertex of the triangle to the midpoint of the minor arc connecting the other two vertices on the circumcircle. Their namesake theorem relates the ratio in which they cut the opposing side with the ratios of two sides of the triangle. Their external versions intersect at the excenters, while their internal versions intersect": {
+    "guess": "Angle bisector",
+    "confidence": [
+      [
+        "Angle",
+        -0.026655087
+      ],
+      [
+        " bis",
+        -0.0015045058
+      ],
+      [
+        "ector",
+        -0.0086167
+      ]
+    ]
+  },
+  "The Steiner-Lehmus theorem states that if the lengths of two of these are equal in any triangle, then the triangle is isosceles. They can be easily constructed by connecting a vertex of the triangle to the midpoint of the minor arc connecting the other two vertices on the circumcircle. Their namesake theorem relates the ratio in which they cut the opposing side with the ratios of two sides of the triangle. Their external versions intersect at the excenters, while their internal versions intersect at the incenter. FTP, name these lines that divide the corners of a triangle in half.": {
+    "guess": "Angle bisector",
+    "confidence": [
+      [
+        "Angle",
+        -0.00076626794
+      ],
+      [
+        " bis",
+        -0.00015860428
+      ],
+      [
+        "ector",
+        -0.006717148
+      ]
+    ]
+  },
+  "The Steinhart-Hart equation allows certain resistors to be used as these, while the rate of conductance": {
+    "guess": "Thermistors",
+    "confidence": [
+      [
+        "Ther",
+        -0.15930623
+      ],
+      [
+        "mist",
+        -0.10085555
+      ],
+      [
+        "ors",
+        0.0
+      ]
+    ]
+  },
+  "The Steinhart-Hart equation allows certain resistors to be used as these, while the rate of conductance is measured by one of these which rely on the Coulomb blockade. One of these named for Beckmann used": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.59925854
+      ],
+      [
+        ".",
+        -0.3868842
+      ]
+    ]
+  },
+  "The Steinhart-Hart equation allows certain resistors to be used as these, while the rate of conductance is measured by one of these which rely on the Coulomb blockade. One of these named for Beckmann used Raoult's law to analyze molar masses of compounds. One named for Galileo contains several colored": {
+    "guess": "Thermometer",
+    "confidence": [
+      [
+        "Ther",
+        -0.01148007
+      ],
+      [
+        "m",
+        -0.061992448
+      ],
+      [
+        "ometer",
+        -0.018239027
+      ]
+    ]
+  },
+  "The Steinhart-Hart equation allows certain resistors to be used as these, while the rate of conductance is measured by one of these which rely on the Coulomb blockade. One of these named for Beckmann used Raoult's law to analyze molar masses of compounds. One named for Galileo contains several colored glass balls of various densities floating in a liquid, and one named for Six displays the minimum": {
+    "guess": "Thermometer",
+    "confidence": [
+      [
+        "Ther",
+        -0.0017907321
+      ],
+      [
+        "m",
+        -0.12693
+      ],
+      [
+        "ometer",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The Steinhart-Hart equation allows certain resistors to be used as these, while the rate of conductance is measured by one of these which rely on the Coulomb blockade. One of these named for Beckmann used Raoult's law to analyze molar masses of compounds. One named for Galileo contains several colored glass balls of various densities floating in a liquid, and one named for Six displays the minimum and maximum value of the property it measures. For 10 points, identify this object, commonly used to": {
+    "guess": "Thermometer",
+    "confidence": [
+      [
+        "Ther",
+        -0.0010060159
+      ],
+      [
+        "m",
+        -0.00043066923
+      ],
+      [
+        "ometer",
+        0.0
+      ]
+    ]
+  },
+  "The Steinhart-Hart equation allows certain resistors to be used as these, while the rate of conductance is measured by one of these which rely on the Coulomb blockade. One of these named for Beckmann used Raoult's law to analyze molar masses of compounds. One named for Galileo contains several colored glass balls of various densities floating in a liquid, and one named for Six displays the minimum and maximum value of the property it measures. For 10 points, identify this object, commonly used to measure temperature.": {
+    "guess": "Thermometer",
+    "confidence": [
+      [
+        "Ther",
+        -7.886803e-05
+      ],
+      [
+        "m",
+        -0.00020354039
+      ],
+      [
+        "ometer",
+        0.0
+      ]
+    ]
+  },
+  "In Stella Gibbons's Cold Comfort Farm, Mr. Mybug vacillates between Scapegoat and Pard-spirit for the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.24821615
+      ]
+    ]
+  },
+  "In Stella Gibbons's Cold Comfort Farm, Mr. Mybug vacillates between Scapegoat and Pard-spirit for the title of a study of one author with this surname. Another author with this surname was deeply attached": {
+    "guess": "Bront\u00eb",
+    "confidence": [
+      [
+        "Br",
+        -0.34325632
+      ],
+      [
+        "ont",
+        -1.5809293e-05
+      ],
+      [
+        "\u00eb",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In Stella Gibbons's Cold Comfort Farm, Mr. Mybug vacillates between Scapegoat and Pard-spirit for the title of a study of one author with this surname. Another author with this surname was deeply attached to the married Constantin H\u00e9ger, a fact suppressed in the biography of that author by Elizabeth": {
+    "guess": "Bront\u00eb",
+    "confidence": [
+      [
+        "Br",
+        -0.20586161
+      ],
+      [
+        "ont",
+        -9.0883464e-07
+      ],
+      [
+        "\u00eb",
+        0.0
+      ]
+    ]
+  },
+  "In Stella Gibbons's Cold Comfort Farm, Mr. Mybug vacillates between Scapegoat and Pard-spirit for the title of a study of one author with this surname. Another author with this surname was deeply attached to the married Constantin H\u00e9ger, a fact suppressed in the biography of that author by Elizabeth Gaskell. A novel by an author with this surname is framed as a series of letters sent to Jack Halford": {
+    "guess": "Bront\u00eb",
+    "confidence": [
+      [
+        "Br",
+        -0.03833775
+      ],
+      [
+        "ont",
+        0.0
+      ],
+      [
+        "\u00eb",
+        0.0
+      ]
+    ]
+  },
+  "In Stella Gibbons's Cold Comfort Farm, Mr. Mybug vacillates between Scapegoat and Pard-spirit for the title of a study of one author with this surname. Another author with this surname was deeply attached to the married Constantin H\u00e9ger, a fact suppressed in the biography of that author by Elizabeth Gaskell. A novel by an author with this surname is framed as a series of letters sent to Jack Halford by the protagonist, who falls in love with Arthur Huntington's wife Helen Graham, the title character.": {
+    "guess": "Bront\u00eb",
+    "confidence": [
+      [
+        "Br",
+        -0.10161655
+      ],
+      [
+        "ont",
+        -1.9361265e-07
+      ],
+      [
+        "\u00eb",
+        0.0
+      ]
+    ]
+  },
+  "In Stella Gibbons's Cold Comfort Farm, Mr. Mybug vacillates between Scapegoat and Pard-spirit for the title of a study of one author with this surname. Another author with this surname was deeply attached to the married Constantin H\u00e9ger, a fact suppressed in the biography of that author by Elizabeth Gaskell. A novel by an author with this surname is framed as a series of letters sent to Jack Halford by the protagonist, who falls in love with Arthur Huntington's wife Helen Graham, the title character. Another author with this surname wrote a novel whose protagonist is locked in the (*) \"red room\"": {
+    "guess": "Bront\u00eb",
+    "confidence": [
+      [
+        "Br",
+        -0.32127202
+      ],
+      [
+        "ont",
+        -1.9361265e-07
+      ],
+      [
+        "\u00eb",
+        0.0
+      ]
+    ]
+  },
+  "In Stella Gibbons's Cold Comfort Farm, Mr. Mybug vacillates between Scapegoat and Pard-spirit for the title of a study of one author with this surname. Another author with this surname was deeply attached to the married Constantin H\u00e9ger, a fact suppressed in the biography of that author by Elizabeth Gaskell. A novel by an author with this surname is framed as a series of letters sent to Jack Halford by the protagonist, who falls in love with Arthur Huntington's wife Helen Graham, the title character. Another author with this surname wrote a novel whose protagonist is locked in the (*) \"red room\" before attending the Lowood School. Later in that novel, Thornfield Hall is burned down by Bertha": {
+    "guess": "Bront\u00eb",
+    "confidence": [
+      [
+        "Br",
+        -0.7770314
+      ],
+      [
+        "ont",
+        0.0
+      ],
+      [
+        "\u00eb",
+        0.0
+      ]
+    ]
+  },
+  "In Stella Gibbons's Cold Comfort Farm, Mr. Mybug vacillates between Scapegoat and Pard-spirit for the title of a study of one author with this surname. Another author with this surname was deeply attached to the married Constantin H\u00e9ger, a fact suppressed in the biography of that author by Elizabeth Gaskell. A novel by an author with this surname is framed as a series of letters sent to Jack Halford by the protagonist, who falls in love with Arthur Huntington's wife Helen Graham, the title character. Another author with this surname wrote a novel whose protagonist is locked in the (*) \"red room\" before attending the Lowood School. Later in that novel, Thornfield Hall is burned down by Bertha Mason and the protagonist marries Mr. Rochester. For 10 points, identify this surname that the authors": {
+    "guess": "Bront\u00eb",
+    "confidence": [
+      [
+        "Br",
+        -0.0047270227
+      ],
+      [
+        "ont",
+        0.0
+      ],
+      [
+        "\u00eb",
+        0.0
+      ]
+    ]
+  },
+  "In Stella Gibbons's Cold Comfort Farm, Mr. Mybug vacillates between Scapegoat and Pard-spirit for the title of a study of one author with this surname. Another author with this surname was deeply attached to the married Constantin H\u00e9ger, a fact suppressed in the biography of that author by Elizabeth Gaskell. A novel by an author with this surname is framed as a series of letters sent to Jack Halford by the protagonist, who falls in love with Arthur Huntington's wife Helen Graham, the title character. Another author with this surname wrote a novel whose protagonist is locked in the (*) \"red room\" before attending the Lowood School. Later in that novel, Thornfield Hall is burned down by Bertha Mason and the protagonist marries Mr. Rochester. For 10 points, identify this surname that the authors of The Tenant of Wildfell Hall and Jane Eyre, Anne and Charlotte, shared with their sister Emily.": {
+    "guess": "Bront\u00eb",
+    "confidence": [
+      [
+        "Br",
+        -0.0025108547
+      ],
+      [
+        "ont",
+        0.0
+      ],
+      [
+        "\u00eb",
+        0.0
+      ]
+    ]
+  },
+  "One of these stellar objects is called Trifid, and its different regions include emission, reflection,": {
+    "guess": "Nebula",
+    "confidence": [
+      [
+        "Neb",
+        -0.11686161
+      ],
+      [
+        "ula",
+        -0.00010926496
+      ]
+    ]
+  },
+  "One of these stellar objects is called Trifid, and its different regions include emission, reflection, and dark types of these. The question as to whether or not all of them are located in the Milky Way": {
+    "guess": "Nebula",
+    "confidence": [
+      [
+        "Neb",
+        -0.00043364934
+      ],
+      [
+        "ula",
+        0.0
+      ]
+    ]
+  },
+  "One of these stellar objects is called Trifid, and its different regions include emission, reflection, and dark types of these. The question as to whether or not all of them are located in the Milky Way was a main topic of the Shapley-Curtis debate. One called the Tarantula in the Large Magellanic Cloud": {
+    "guess": "Nebula",
+    "confidence": [
+      [
+        "Neb",
+        -1.3663626e-05
+      ],
+      [
+        "ula",
+        0.0
+      ]
+    ]
+  },
+  "One of these stellar objects is called Trifid, and its different regions include emission, reflection, and dark types of these. The question as to whether or not all of them are located in the Milky Way was a main topic of the Shapley-Curtis debate. One called the Tarantula in the Large Magellanic Cloud contains Supernova 1987A and is 650 light-years across. The planetary type got their name because": {
+    "guess": "Nebula",
+    "confidence": [
+      [
+        "Neb",
+        -0.036609855
+      ],
+      [
+        "ula",
+        0.0
+      ]
+    ]
+  },
+  "One of these stellar objects is called Trifid, and its different regions include emission, reflection, and dark types of these. The question as to whether or not all of them are located in the Milky Way was a main topic of the Shapley-Curtis debate. One called the Tarantula in the Large Magellanic Cloud contains Supernova 1987A and is 650 light-years across. The planetary type got their name because they appear similar to distant planets, and include the Eskimo and Dumbbell. Name these regions where": {
+    "guess": "Nebula",
+    "confidence": [
+      [
+        "Neb",
+        -0.009822317
+      ],
+      [
+        "ula",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One of these stellar objects is called Trifid, and its different regions include emission, reflection, and dark types of these. The question as to whether or not all of them are located in the Milky Way was a main topic of the Shapley-Curtis debate. One called the Tarantula in the Large Magellanic Cloud contains Supernova 1987A and is 650 light-years across. The planetary type got their name because they appear similar to distant planets, and include the Eskimo and Dumbbell. Name these regions where star and planet formation takes place, a type of interstellar cloud.": {
+    "guess": "Nebula",
+    "confidence": [
+      [
+        "Neb",
+        -0.0076473258
+      ],
+      [
+        "ula",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The steel frame for this structure was designed by Gunvald Aus and Kort Berle. That steel skeleton supports": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -0.029874755
+      ],
+      [
+        "ool",
+        0.0
+      ],
+      [
+        "worth",
+        0.0
+      ],
+      [
+        " Building",
+        0.0
+      ]
+    ]
+  },
+  "The steel frame for this structure was designed by Gunvald Aus and Kort Berle. That steel skeleton supports articulated piers that rise to the pyramidal top, which is richly decorated with ornate gothic": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -0.0017075408
+      ],
+      [
+        "ool",
+        0.0
+      ],
+      [
+        "worth",
+        0.0
+      ],
+      [
+        " Building",
+        0.0
+      ]
+    ]
+  },
+  "The steel frame for this structure was designed by Gunvald Aus and Kort Berle. That steel skeleton supports articulated piers that rise to the pyramidal top, which is richly decorated with ornate gothic detailing. This building's neo-Gothic design led Parkes Cadman to declare it a \"cathedral of commerce\",": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -0.0031872208
+      ],
+      [
+        "ool",
+        0.0
+      ],
+      [
+        "worth",
+        0.0
+      ],
+      [
+        " Building",
+        0.0
+      ]
+    ]
+  },
+  "The steel frame for this structure was designed by Gunvald Aus and Kort Berle. That steel skeleton supports articulated piers that rise to the pyramidal top, which is richly decorated with ornate gothic detailing. This building's neo-Gothic design led Parkes Cadman to declare it a \"cathedral of commerce\", and it was the world's tallest building until the construction of 40 Wall Street in 1930 in the": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -0.0011729635
+      ],
+      [
+        "ool",
+        0.0
+      ],
+      [
+        "worth",
+        0.0
+      ],
+      [
+        " Building",
+        0.0
+      ]
+    ]
+  },
+  "The steel frame for this structure was designed by Gunvald Aus and Kort Berle. That steel skeleton supports articulated piers that rise to the pyramidal top, which is richly decorated with ornate gothic detailing. This building's neo-Gothic design led Parkes Cadman to declare it a \"cathedral of commerce\", and it was the world's tallest building until the construction of 40 Wall Street in 1930 in the same city. This skyscraper across from City Hall on Broadway rises 792 feet and cost the retail magnate": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -0.00015955791
+      ],
+      [
+        "ool",
+        0.0
+      ],
+      [
+        "worth",
+        0.0
+      ],
+      [
+        " Building",
+        0.0
+      ]
+    ]
+  },
+  "The steel frame for this structure was designed by Gunvald Aus and Kort Berle. That steel skeleton supports articulated piers that rise to the pyramidal top, which is richly decorated with ornate gothic detailing. This building's neo-Gothic design led Parkes Cadman to declare it a \"cathedral of commerce\", and it was the world's tallest building until the construction of 40 Wall Street in 1930 in the same city. This skyscraper across from City Hall on Broadway rises 792 feet and cost the retail magnate who commissioned it $13 million in 1910, and the tower bears his name. For 10 points, identify": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -6.206032e-05
+      ],
+      [
+        "ool",
+        0.0
+      ],
+      [
+        "worth",
+        0.0
+      ],
+      [
+        " Building",
+        0.0
+      ]
+    ]
+  },
+  "The steel frame for this structure was designed by Gunvald Aus and Kort Berle. That steel skeleton supports articulated piers that rise to the pyramidal top, which is richly decorated with ornate gothic detailing. This building's neo-Gothic design led Parkes Cadman to declare it a \"cathedral of commerce\", and it was the world's tallest building until the construction of 40 Wall Street in 1930 in the same city. This skyscraper across from City Hall on Broadway rises 792 feet and cost the retail magnate who commissioned it $13 million in 1910, and the tower bears his name. For 10 points, identify this New York skyscraper with architect Cass Gilbert that bears the name of a defunct chain of stores.": {
+    "guess": "Woolworth Building",
+    "confidence": [
+      [
+        "W",
+        -1.5809293e-05
+      ],
+      [
+        "ool",
+        0.0
+      ],
+      [
+        "worth",
+        0.0
+      ],
+      [
+        " Building",
+        0.0
+      ]
+    ]
+  },
+  "After stealing \"mes\" from one deity, this deity was pursued by sea monsters known as Abgallu, although": {
+    "guess": "Ishtar",
+    "confidence": [
+      [
+        "Is",
+        -0.59351075
+      ],
+      [
+        "htar",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "After stealing \"mes\" from one deity, this deity was pursued by sea monsters known as Abgallu, although she successfully escaped. While in the underworld, this deity had to be revived by the water of life": {
+    "guess": "Inanna",
+    "confidence": [
+      [
+        "In",
+        -0.4224878
+      ],
+      [
+        "anna",
+        -1.6882126e-05
+      ]
+    ]
+  },
+  "After stealing \"mes\" from one deity, this deity was pursued by sea monsters known as Abgallu, although she successfully escaped. While in the underworld, this deity had to be revived by the water of life after an incident in which she was forced to shed an article of clothing at each gate she passed,": {
+    "guess": "Inanna",
+    "confidence": [
+      [
+        "In",
+        -0.5555151
+      ],
+      [
+        "anna",
+        -2.1769476e-05
+      ]
+    ]
+  },
+  "After stealing \"mes\" from one deity, this deity was pursued by sea monsters known as Abgallu, although she successfully escaped. While in the underworld, this deity had to be revived by the water of life after an incident in which she was forced to shed an article of clothing at each gate she passed, as part of this deity's failed attempt to retrieve her consort Tammuz. This deity once asked Gilgamesh": {
+    "guess": "Ishtar",
+    "confidence": [
+      [
+        "Is",
+        -0.45947096
+      ],
+      [
+        "htar",
+        0.0
+      ]
+    ]
+  },
+  "After stealing \"mes\" from one deity, this deity was pursued by sea monsters known as Abgallu, although she successfully escaped. While in the underworld, this deity had to be revived by the water of life after an incident in which she was forced to shed an article of clothing at each gate she passed, as part of this deity's failed attempt to retrieve her consort Tammuz. This deity once asked Gilgamesh to be her new lover, but he refused, reminded by the ill fate that befell each of her previous consorts.": {
+    "guess": "Ishtar",
+    "confidence": [
+      [
+        "Is",
+        -0.5127443
+      ],
+      [
+        "htar",
+        0.0
+      ]
+    ]
+  },
+  "After stealing \"mes\" from one deity, this deity was pursued by sea monsters known as Abgallu, although she successfully escaped. While in the underworld, this deity had to be revived by the water of life after an incident in which she was forced to shed an article of clothing at each gate she passed, as part of this deity's failed attempt to retrieve her consort Tammuz. This deity once asked Gilgamesh to be her new lover, but he refused, reminded by the ill fate that befell each of her previous consorts. For 10 points, name this Mesopotamian goddess of fertility, love, and sex.": {
+    "guess": "Ishtar",
+    "confidence": [
+      [
+        "Is",
+        -0.38927644
+      ],
+      [
+        "htar",
+        0.0
+      ]
+    ]
+  }
+}

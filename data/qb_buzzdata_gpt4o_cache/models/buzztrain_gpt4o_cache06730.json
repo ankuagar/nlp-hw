@@ -1,0 +1,67 @@
+{
+  "An RNA sample is denatured with formaldehyde, thus ensuring that all the RNA molecules have an unfolded,": {
+    "guess": "Northern blot",
+    "confidence": [
+      [
+        "Northern",
+        -0.89680976
+      ],
+      [
+        " blot",
+        -0.000553748
+      ]
+    ]
+  },
+  "An RNA sample is denatured with formaldehyde, thus ensuring that all the RNA molecules have an unfolded, linear conformation. The individual RNA's are then separated according to size by gel electrophoresis": {
+    "guess": "Northern blot",
+    "confidence": [
+      [
+        "Northern",
+        -0.00839436
+      ],
+      [
+        " blot",
+        -0.00023107276
+      ]
+    ]
+  },
+  "An RNA sample is denatured with formaldehyde, thus ensuring that all the RNA molecules have an unfolded, linear conformation. The individual RNA's are then separated according to size by gel electrophoresis and transferred to a nitrocellulose filter to which the extended denatured RNA's adhere. The filter": {
+    "guess": "Northern blot",
+    "confidence": [
+      [
+        "Northern",
+        -0.008138987
+      ],
+      [
+        " blot",
+        -0.00015884268
+      ]
+    ]
+  },
+  "An RNA sample is denatured with formaldehyde, thus ensuring that all the RNA molecules have an unfolded, linear conformation. The individual RNA's are then separated according to size by gel electrophoresis and transferred to a nitrocellulose filter to which the extended denatured RNA's adhere. The filter is then exposed to a labeled DNA probe and subjected to autoradiography. FTP, name this blotting": {
+    "guess": "Northern blot",
+    "confidence": [
+      [
+        "Northern",
+        -5.0974373e-05
+      ],
+      [
+        " blot",
+        -2.7729659e-05
+      ]
+    ]
+  },
+  "An RNA sample is denatured with formaldehyde, thus ensuring that all the RNA molecules have an unfolded, linear conformation. The individual RNA's are then separated according to size by gel electrophoresis and transferred to a nitrocellulose filter to which the extended denatured RNA's adhere. The filter is then exposed to a labeled DNA probe and subjected to autoradiography. FTP, name this blotting technique in which the amount of specific RNA in a sample can be estimated.": {
+    "guess": "Northern blot",
+    "confidence": [
+      [
+        "Northern",
+        -0.00049917836
+      ],
+      [
+        " blot",
+        -2.4391957e-05
+      ]
+    ]
+  }
+}

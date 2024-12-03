@@ -1,0 +1,4942 @@
+{
+  "The use of these over finite fields for a type of public-key cryptography was proposed by Koblitz and": {
+    "guess": "Elliptic Curve Cryptography",
+    "confidence": [
+      [
+        "Ell",
+        -9.8536635e-05
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Curve",
+        -0.063377686
+      ],
+      [
+        " Crypt",
+        -0.0001592003
+      ],
+      [
+        "ography",
+        0.0
+      ]
+    ]
+  },
+  "The use of these over finite fields for a type of public-key cryptography was proposed by Koblitz and Miller. Adding a point at infinity allows one to define a group operation that maps two points on it": {
+    "guess": "Elliptic Curve Cryptography",
+    "confidence": [
+      [
+        "Ell",
+        -0.00039921046
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Curve",
+        -0.0060491934
+      ],
+      [
+        " Crypt",
+        -0.20226635
+      ],
+      [
+        "ography",
+        0.0
+      ]
+    ]
+  },
+  "The use of these over finite fields for a type of public-key cryptography was proposed by Koblitz and Miller. Adding a point at infinity allows one to define a group operation that maps two points on it to a third point on it such that all three points are collinear. It discriminant, proportional to": {
+    "guess": "Elliptic curve",
+    "confidence": [
+      [
+        "Ell",
+        -0.0017317026
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " curve",
+        -0.03769692
+      ]
+    ]
+  },
+  "The use of these over finite fields for a type of public-key cryptography was proposed by Koblitz and Miller. Adding a point at infinity allows one to define a group operation that maps two points on it to a third point on it such that all three points are collinear. It discriminant, proportional to 4 A cubed plus 27 B squared when its equation is y squared equals x cubed plus A x plus B, is zero when": {
+    "guess": "Elliptic curve cryptography",
+    "confidence": [
+      [
+        "Ell",
+        -0.014231321
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ic",
+        -1.9361265e-07
+      ],
+      [
+        " curve",
+        -0.003841048
+      ],
+      [
+        " crypt",
+        -0.004904739
+      ],
+      [
+        "ography",
+        0.0
+      ]
+    ]
+  },
+  "The use of these over finite fields for a type of public-key cryptography was proposed by Koblitz and Miller. Adding a point at infinity allows one to define a group operation that maps two points on it to a third point on it such that all three points are collinear. It discriminant, proportional to 4 A cubed plus 27 B squared when its equation is y squared equals x cubed plus A x plus B, is zero when it is singular. Topologically, it is equivalent to a torus. A conjecture relating them to modular": {
+    "guess": "Elliptic curve",
+    "confidence": [
+      [
+        "Ell",
+        -0.002845414
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " curve",
+        -0.0047495575
+      ]
+    ]
+  },
+  "The use of these over finite fields for a type of public-key cryptography was proposed by Koblitz and Miller. Adding a point at infinity allows one to define a group operation that maps two points on it to a third point on it such that all three points are collinear. It discriminant, proportional to 4 A cubed plus 27 B squared when its equation is y squared equals x cubed plus A x plus B, is zero when it is singular. Topologically, it is equivalent to a torus. A conjecture relating them to modular forms was proven in part by Andrew Wiles as part of his proof of Fermat's Last Theorem. For 10 points,": {
+    "guess": "Elliptic curve",
+    "confidence": [
+      [
+        "Ell",
+        -0.00026479273
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " curve",
+        -0.0035248827
+      ]
+    ]
+  },
+  "The use of these over finite fields for a type of public-key cryptography was proposed by Koblitz and Miller. Adding a point at infinity allows one to define a group operation that maps two points on it to a third point on it such that all three points are collinear. It discriminant, proportional to 4 A cubed plus 27 B squared when its equation is y squared equals x cubed plus A x plus B, is zero when it is singular. Topologically, it is equivalent to a torus. A conjecture relating them to modular forms was proven in part by Andrew Wiles as part of his proof of Fermat's Last Theorem. For 10 points, what is this type of algebraic curve, of which the similarly-named conic section that looks like": {
+    "guess": "Elliptic curve",
+    "confidence": [
+      [
+        "Ell",
+        -7.398068e-05
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " curve",
+        -0.0010935463
+      ]
+    ]
+  },
+  "The use of these over finite fields for a type of public-key cryptography was proposed by Koblitz and Miller. Adding a point at infinity allows one to define a group operation that maps two points on it to a third point on it such that all three points are collinear. It discriminant, proportional to 4 A cubed plus 27 B squared when its equation is y squared equals x cubed plus A x plus B, is zero when it is singular. Topologically, it is equivalent to a torus. A conjecture relating them to modular forms was proven in part by Andrew Wiles as part of his proof of Fermat's Last Theorem. For 10 points, what is this type of algebraic curve, of which the similarly-named conic section that looks like a squashed circle is not an example?": {
+    "guess": "Elliptic curve",
+    "confidence": [
+      [
+        "Ell",
+        -2.9517714e-05
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " curve",
+        -0.0026789873
+      ]
+    ]
+  },
+  "One useful approximation in this theory uses variationally minimized matrix elements that act as coefficients": {
+    "guess": "Quantum mechanics",
+    "confidence": [
+      [
+        "Quantum",
+        -0.48598263
+      ],
+      [
+        " mechanics",
+        -0.2998417
+      ]
+    ]
+  },
+  "One useful approximation in this theory uses variationally minimized matrix elements that act as coefficients in a linear combination of orthonormal basis functions due to single atoms. Its namesake constructs": {
+    "guess": "Hartree\u2013Fock method",
+    "confidence": [
+      [
+        "Hart",
+        -0.8299473
+      ],
+      [
+        "ree",
+        -1.9361265e-07
+      ],
+      [
+        "\u2013",
+        -0.2519326
+      ],
+      [
+        "F",
+        0.0
+      ],
+      [
+        "ock",
+        0.0
+      ],
+      [
+        " method",
+        -5.312004e-05
+      ]
+    ]
+  },
+  "One useful approximation in this theory uses variationally minimized matrix elements that act as coefficients in a linear combination of orthonormal basis functions due to single atoms. Its namesake constructs are the eigenfunctions of the Fock operator, and the square moduli of the entities it concerns": {
+    "guess": "Molecular orbital theory",
+    "confidence": [
+      [
+        "M",
+        -0.24942707
+      ],
+      [
+        "olecular",
+        -2.8160932e-06
+      ],
+      [
+        " orbital",
+        -4.632543e-05
+      ],
+      [
+        " theory",
+        -0.0022159154
+      ]
+    ]
+  },
+  "One useful approximation in this theory uses variationally minimized matrix elements that act as coefficients in a linear combination of orthonormal basis functions due to single atoms. Its namesake constructs are the eigenfunctions of the Fock operator, and the square moduli of the entities it concerns give the distribution of electrons due to more than one nucleus. Its namesake entities can be determined": {
+    "guess": "Molecular orbital theory",
+    "confidence": [
+      [
+        "M",
+        -0.024418253
+      ],
+      [
+        "olecular",
+        -9.0883464e-07
+      ],
+      [
+        " orbital",
+        -0.0003205654
+      ],
+      [
+        " theory",
+        -0.0009700604
+      ]
+    ]
+  },
+  "One useful approximation in this theory uses variationally minimized matrix elements that act as coefficients in a linear combination of orthonormal basis functions due to single atoms. Its namesake constructs are the eigenfunctions of the Fock operator, and the square moduli of the entities it concerns give the distribution of electrons due to more than one nucleus. Its namesake entities can be determined by the aforementioned LCAO approximation, can be visualized by hybridizations such as sp3,": {
+    "guess": "Molecular orbital theory",
+    "confidence": [
+      [
+        "M",
+        -0.14381981
+      ],
+      [
+        "olecular",
+        -1.8624639e-06
+      ],
+      [
+        " orbital",
+        -0.00016408764
+      ],
+      [
+        " theory",
+        -0.0010842558
+      ]
+    ]
+  },
+  "One useful approximation in this theory uses variationally minimized matrix elements that act as coefficients in a linear combination of orthonormal basis functions due to single atoms. Its namesake constructs are the eigenfunctions of the Fock operator, and the square moduli of the entities it concerns give the distribution of electrons due to more than one nucleus. Its namesake entities can be determined by the aforementioned LCAO approximation, can be visualized by hybridizations such as sp3, and come in bonding and anti-bonding varieties. For 10 points, name this theory of electron distribution": {
+    "guess": "Molecular orbital theory",
+    "confidence": [
+      [
+        "M",
+        -4.5491004e-05
+      ],
+      [
+        "olecular",
+        0.0
+      ],
+      [
+        " orbital",
+        -2.4749568e-05
+      ],
+      [
+        " theory",
+        0.0
+      ]
+    ]
+  },
+  "One useful approximation in this theory uses variationally minimized matrix elements that act as coefficients in a linear combination of orthonormal basis functions due to single atoms. Its namesake constructs are the eigenfunctions of the Fock operator, and the square moduli of the entities it concerns give the distribution of electrons due to more than one nucleus. Its namesake entities can be determined by the aforementioned LCAO approximation, can be visualized by hybridizations such as sp3, and come in bonding and anti-bonding varieties. For 10 points, name this theory of electron distribution in chemical compounds that is more realistic than VSEPR theory.": {
+    "guess": "Molecular orbital theory",
+    "confidence": [
+      [
+        "M",
+        -0.0002783783
+      ],
+      [
+        "olecular",
+        0.0
+      ],
+      [
+        " orbital",
+        -1.4855664e-05
+      ],
+      [
+        " theory",
+        0.0
+      ]
+    ]
+  },
+  "This man used pastel paint to write the printing instructions for his lithograph Pinned Hat.  His somber": {
+    "guess": "Henri de Toulouse-Lautrec",
+    "confidence": [
+      [
+        "Hen",
+        -0.09128285
+      ],
+      [
+        "ri",
+        0.0
+      ],
+      [
+        " de",
+        -0.02304467
+      ],
+      [
+        " Toulouse",
+        -2.9352968e-06
+      ],
+      [
+        "-L",
+        0.0
+      ],
+      [
+        "aut",
+        -4.3202e-07
+      ],
+      [
+        "rec",
+        0.0
+      ]
+    ]
+  },
+  "This man used pastel paint to write the printing instructions for his lithograph Pinned Hat.  His somber early period is exemplified by his Cabaret of Mother Antony, while Woman Bathing with Griffon was": {
+    "guess": "\u00c9douard Manet",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.69762164
+      ],
+      [
+        "dou",
+        0.0
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " Man",
+        -0.0032200185
+      ],
+      [
+        "et",
+        0.0
+      ]
+    ]
+  },
+  "This man used pastel paint to write the printing instructions for his lithograph Pinned Hat.  His somber early period is exemplified by his Cabaret of Mother Antony, while Woman Bathing with Griffon was posed for by his mistress, Lise Trehot.  Early paintings in the style for which he is best-known include": {
+    "guess": "Pierre-Auguste Renoir",
+    "confidence": [
+      [
+        "Pierre",
+        -0.0010323343
+      ],
+      [
+        "-Aug",
+        -5.5577775e-06
+      ],
+      [
+        "uste",
+        0.0
+      ],
+      [
+        " Reno",
+        -1.9361265e-07
+      ],
+      [
+        "ir",
+        0.0
+      ]
+    ]
+  },
+  "This man used pastel paint to write the printing instructions for his lithograph Pinned Hat.  His somber early period is exemplified by his Cabaret of Mother Antony, while Woman Bathing with Griffon was posed for by his mistress, Lise Trehot.  Early paintings in the style for which he is best-known include Parisian Woman and The Theater Box.  Favorite portrait subjects of his included Jeanne Samary": {
+    "guess": "Pierre-Auguste Renoir",
+    "confidence": [
+      [
+        "Pierre",
+        -0.016975686
+      ],
+      [
+        "-Aug",
+        -1.8624639e-06
+      ],
+      [
+        "uste",
+        -1.9361265e-07
+      ],
+      [
+        " Reno",
+        0.0
+      ],
+      [
+        "ir",
+        0.0
+      ]
+    ]
+  },
+  "This man used pastel paint to write the printing instructions for his lithograph Pinned Hat.  His somber early period is exemplified by his Cabaret of Mother Antony, while Woman Bathing with Griffon was posed for by his mistress, Lise Trehot.  Early paintings in the style for which he is best-known include Parisian Woman and The Theater Box.  Favorite portrait subjects of his included Jeanne Samary and Mme Charpentier and her children, while Gustave Caillebotte can be seen in a better-known en plein": {
+    "guess": "Pierre-Auguste Renoir",
+    "confidence": [
+      [
+        "Pierre",
+        -0.014011058
+      ],
+      [
+        "-Aug",
+        0.0
+      ],
+      [
+        "uste",
+        0.0
+      ],
+      [
+        " Reno",
+        0.0
+      ],
+      [
+        "ir",
+        0.0
+      ]
+    ]
+  },
+  "This man used pastel paint to write the printing instructions for his lithograph Pinned Hat.  His somber early period is exemplified by his Cabaret of Mother Antony, while Woman Bathing with Griffon was posed for by his mistress, Lise Trehot.  Early paintings in the style for which he is best-known include Parisian Woman and The Theater Box.  Favorite portrait subjects of his included Jeanne Samary and Mme Charpentier and her children, while Gustave Caillebotte can be seen in a better-known en plein air work.  For 10 points, name this impressionist painter of Moulin de la Gallette and The Luncheon": {
+    "guess": "Pierre-Auguste Renoir",
+    "confidence": [
+      [
+        "Pierre",
+        -0.0068463264
+      ],
+      [
+        "-Aug",
+        0.0
+      ],
+      [
+        "uste",
+        0.0
+      ],
+      [
+        " Reno",
+        0.0
+      ],
+      [
+        "ir",
+        0.0
+      ]
+    ]
+  },
+  "This man used pastel paint to write the printing instructions for his lithograph Pinned Hat.  His somber early period is exemplified by his Cabaret of Mother Antony, while Woman Bathing with Griffon was posed for by his mistress, Lise Trehot.  Early paintings in the style for which he is best-known include Parisian Woman and The Theater Box.  Favorite portrait subjects of his included Jeanne Samary and Mme Charpentier and her children, while Gustave Caillebotte can be seen in a better-known en plein air work.  For 10 points, name this impressionist painter of Moulin de la Gallette and The Luncheon of the Boating Party.": {
+    "guess": "Pierre-Auguste Renoir",
+    "confidence": [
+      [
+        "Pierre",
+        -0.079669796
+      ],
+      [
+        "-Aug",
+        0.0
+      ],
+      [
+        "uste",
+        0.0
+      ],
+      [
+        " Reno",
+        0.0
+      ],
+      [
+        "ir",
+        0.0
+      ]
+    ]
+  },
+  "He uses the example of Cato the Younger in illustrating the concept of a man fighting on his knees in": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1603522
+      ]
+    ]
+  },
+  "He uses the example of Cato the Younger in illustrating the concept of a man fighting on his knees in the face of adversity in his De Providentia.  Asthma and the treatment of one's own slaves are among": {
+    "guess": "Seneca the Younger",
+    "confidence": [
+      [
+        "Sen",
+        -0.00036977816
+      ],
+      [
+        "eca",
+        0.0
+      ],
+      [
+        " the",
+        -6.511407e-06
+      ],
+      [
+        " Younger",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "He uses the example of Cato the Younger in illustrating the concept of a man fighting on his knees in the face of adversity in his De Providentia.  Asthma and the treatment of one's own slaves are among the subjects of his letters dealing with morality that were written to Lucilius, while he argues that": {
+    "guess": "Seneca the Younger",
+    "confidence": [
+      [
+        "Sen",
+        -0.008533724
+      ],
+      [
+        "eca",
+        -3.1281633e-07
+      ],
+      [
+        " the",
+        -2.3915141e-05
+      ],
+      [
+        " Younger",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "He uses the example of Cato the Younger in illustrating the concept of a man fighting on his knees in the face of adversity in his De Providentia.  Asthma and the treatment of one's own slaves are among the subjects of his letters dealing with morality that were written to Lucilius, while he argues that any length of life is sufficient to be lived, and whatever its length that life ought to be spent": {
+    "guess": "Seneca the Younger",
+    "confidence": [
+      [
+        "Sen",
+        -9.4245304e-05
+      ],
+      [
+        "eca",
+        0.0
+      ],
+      [
+        " the",
+        -3.650519e-06
+      ],
+      [
+        " Younger",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "He uses the example of Cato the Younger in illustrating the concept of a man fighting on his knees in the face of adversity in his De Providentia.  Asthma and the treatment of one's own slaves are among the subjects of his letters dealing with morality that were written to Lucilius, while he argues that any length of life is sufficient to be lived, and whatever its length that life ought to be spent studying philosophy in De Brevitae Vitae.  Also known for a satire detailing the shortcomings of the": {
+    "guess": "Seneca the Younger",
+    "confidence": [
+      [
+        "Sen",
+        -0.004751934
+      ],
+      [
+        "eca",
+        0.0
+      ],
+      [
+        " the",
+        -6.749814e-06
+      ],
+      [
+        " Younger",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "He uses the example of Cato the Younger in illustrating the concept of a man fighting on his knees in the face of adversity in his De Providentia.  Asthma and the treatment of one's own slaves are among the subjects of his letters dealing with morality that were written to Lucilius, while he argues that any length of life is sufficient to be lived, and whatever its length that life ought to be spent studying philosophy in De Brevitae Vitae.  Also known for a satire detailing the shortcomings of the emperor Claudius, the Apocolocyntosis, FTP, name this Roman philosopher, who was also noted for being": {
+    "guess": "Seneca the Younger",
+    "confidence": [
+      [
+        "Sen",
+        -0.0007156504
+      ],
+      [
+        "eca",
+        0.0
+      ],
+      [
+        " the",
+        -5.2001665e-06
+      ],
+      [
+        " Younger",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "He uses the example of Cato the Younger in illustrating the concept of a man fighting on his knees in the face of adversity in his De Providentia.  Asthma and the treatment of one's own slaves are among the subjects of his letters dealing with morality that were written to Lucilius, while he argues that any length of life is sufficient to be lived, and whatever its length that life ought to be spent studying philosophy in De Brevitae Vitae.  Also known for a satire detailing the shortcomings of the emperor Claudius, the Apocolocyntosis, FTP, name this Roman philosopher, who was also noted for being instructed by Nero to commit suicide.": {
+    "guess": "Seneca the Younger",
+    "confidence": [
+      [
+        "Sen",
+        -0.00022403974
+      ],
+      [
+        "eca",
+        0.0
+      ],
+      [
+        " the",
+        -2.220075e-06
+      ],
+      [
+        " Younger",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "He used \"La Follia\" as the basis for his last original solo piano composition, Variations on a Theme": {
+    "guess": "Sergei Rachmaninoff",
+    "confidence": [
+      [
+        "Ser",
+        -0.06897735
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        " R",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "man",
+        -1.9361265e-07
+      ],
+      [
+        "ino",
+        0.0
+      ],
+      [
+        "ff",
+        0.0
+      ]
+    ]
+  },
+  "He used \"La Follia\" as the basis for his last original solo piano composition, Variations on a Theme of Corelli.  Unsatisfied with his revisions of his second piano sonata, he gave Horowitz authority to": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.6855981
+      ],
+      [
+        ".",
+        -0.3868797
+      ]
+    ]
+  },
+  "He used \"La Follia\" as the basis for his last original solo piano composition, Variations on a Theme of Corelli.  Unsatisfied with his revisions of his second piano sonata, he gave Horowitz authority to change it however he pleased.  Glazunov's drunken conducting of his first symphony sent him into a": {
+    "guess": "Sergei Rachmaninoff",
+    "confidence": [
+      [
+        "Ser",
+        -0.1937823
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        " R",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ],
+      [
+        "ino",
+        0.0
+      ],
+      [
+        "ff",
+        0.0
+      ]
+    ]
+  },
+  "He used \"La Follia\" as the basis for his last original solo piano composition, Variations on a Theme of Corelli.  Unsatisfied with his revisions of his second piano sonata, he gave Horowitz authority to change it however he pleased.  Glazunov's drunken conducting of his first symphony sent him into a three-year-long depression, which he once consulted Tolstoy about.  He wrote an Elegiac Trio after": {
+    "guess": "Sergei Rachmaninoff",
+    "confidence": [
+      [
+        "Ser",
+        -0.08810873
+      ],
+      [
+        "ge",
+        -1.9361265e-07
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        " R",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ],
+      [
+        "ino",
+        0.0
+      ],
+      [
+        "ff",
+        0.0
+      ]
+    ]
+  },
+  "He used \"La Follia\" as the basis for his last original solo piano composition, Variations on a Theme of Corelli.  Unsatisfied with his revisions of his second piano sonata, he gave Horowitz authority to change it however he pleased.  Glazunov's drunken conducting of his first symphony sent him into a three-year-long depression, which he once consulted Tolstoy about.  He wrote an Elegiac Trio after the death of Tchaikovsky, who was set to conduct his symphonic fantasy The Rock.  He referred to his": {
+    "guess": "Sergei Rachmaninoff",
+    "confidence": [
+      [
+        "Ser",
+        -0.05797705
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        " R",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ],
+      [
+        "ino",
+        0.0
+      ],
+      [
+        "ff",
+        0.0
+      ]
+    ]
+  },
+  "He used \"La Follia\" as the basis for his last original solo piano composition, Variations on a Theme of Corelli.  Unsatisfied with his revisions of his second piano sonata, he gave Horowitz authority to change it however he pleased.  Glazunov's drunken conducting of his first symphony sent him into a three-year-long depression, which he once consulted Tolstoy about.  He wrote an Elegiac Trio after the death of Tchaikovsky, who was set to conduct his symphonic fantasy The Rock.  He referred to his third piano concerto, written for his first American tour, as \"a piece for elephants\".  A painting": {
+    "guess": "Sergei Rachmaninoff",
+    "confidence": [
+      [
+        "Ser",
+        -0.014883828
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        " R",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ],
+      [
+        "ino",
+        0.0
+      ],
+      [
+        "ff",
+        0.0
+      ]
+    ]
+  },
+  "He used \"La Follia\" as the basis for his last original solo piano composition, Variations on a Theme of Corelli.  Unsatisfied with his revisions of his second piano sonata, he gave Horowitz authority to change it however he pleased.  Glazunov's drunken conducting of his first symphony sent him into a three-year-long depression, which he once consulted Tolstoy about.  He wrote an Elegiac Trio after the death of Tchaikovsky, who was set to conduct his symphonic fantasy The Rock.  He referred to his third piano concerto, written for his first American tour, as \"a piece for elephants\".  A painting by Bocklin inspired his Isle of the Dead, and he also set Poe's The Bells to music.  FTP, identify this": {
+    "guess": "Sergei Rachmaninoff",
+    "confidence": [
+      [
+        "Ser",
+        -0.009851471
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        " R",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ],
+      [
+        "ino",
+        0.0
+      ],
+      [
+        "ff",
+        0.0
+      ]
+    ]
+  },
+  "He used \"La Follia\" as the basis for his last original solo piano composition, Variations on a Theme of Corelli.  Unsatisfied with his revisions of his second piano sonata, he gave Horowitz authority to change it however he pleased.  Glazunov's drunken conducting of his first symphony sent him into a three-year-long depression, which he once consulted Tolstoy about.  He wrote an Elegiac Trio after the death of Tchaikovsky, who was set to conduct his symphonic fantasy The Rock.  He referred to his third piano concerto, written for his first American tour, as \"a piece for elephants\".  A painting by Bocklin inspired his Isle of the Dead, and he also set Poe's The Bells to music.  FTP, identify this Russian composer who used a caprice for solo violin as the basis for arguably his most famous work,": {
+    "guess": "Sergei Rachmaninoff",
+    "confidence": [
+      [
+        "Ser",
+        -0.009204984
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        " R",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ],
+      [
+        "ino",
+        0.0
+      ],
+      [
+        "ff",
+        0.0
+      ]
+    ]
+  },
+  "He used \"La Follia\" as the basis for his last original solo piano composition, Variations on a Theme of Corelli.  Unsatisfied with his revisions of his second piano sonata, he gave Horowitz authority to change it however he pleased.  Glazunov's drunken conducting of his first symphony sent him into a three-year-long depression, which he once consulted Tolstoy about.  He wrote an Elegiac Trio after the death of Tchaikovsky, who was set to conduct his symphonic fantasy The Rock.  He referred to his third piano concerto, written for his first American tour, as \"a piece for elephants\".  A painting by Bocklin inspired his Isle of the Dead, and he also set Poe's The Bells to music.  FTP, identify this Russian composer who used a caprice for solo violin as the basis for arguably his most famous work, Rhapsody on a Theme by Paganini.": {
+    "guess": "Sergei Rachmaninoff",
+    "confidence": [
+      [
+        "Ser",
+        -0.019207075
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        " R",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ],
+      [
+        "ino",
+        0.0
+      ],
+      [
+        "ff",
+        0.0
+      ]
+    ]
+  },
+  "It was used in wall paintings in ancient Egypt and Babylonia, and during the Mycenaean period in Greece,": {
+    "guess": "Fresco",
+    "confidence": [
+      [
+        "F",
+        -0.09128362
+      ],
+      [
+        "resco",
+        -8.613945e-05
+      ]
+    ]
+  },
+  "It was used in wall paintings in ancient Egypt and Babylonia, and during the Mycenaean period in Greece, where a little vinegar was probably added. One must first fill all the cracks and crevices in the": {
+    "guess": "Fresco",
+    "confidence": [
+      [
+        "F",
+        -0.071186945
+      ],
+      [
+        "resco",
+        -4.1273333e-06
+      ]
+    ]
+  },
+  "It was used in wall paintings in ancient Egypt and Babylonia, and during the Mycenaean period in Greece, where a little vinegar was probably added. One must first fill all the cracks and crevices in the panel with a mixture of size, glue or sawdust. The panel is then covered with cloth and the surface": {
+    "guess": "Gesso",
+    "confidence": [
+      [
+        "G",
+        -0.30165
+      ],
+      [
+        "esso",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "It was used in wall paintings in ancient Egypt and Babylonia, and during the Mycenaean period in Greece, where a little vinegar was probably added. One must first fill all the cracks and crevices in the panel with a mixture of size, glue or sawdust. The panel is then covered with cloth and the surface is coated with heavy gesso. The painter had to work with great rapidity and sureness, because correcting": {
+    "guess": "Tempera",
+    "confidence": [
+      [
+        "Tem",
+        -0.53296053
+      ],
+      [
+        "pera",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "It was used in wall paintings in ancient Egypt and Babylonia, and during the Mycenaean period in Greece, where a little vinegar was probably added. One must first fill all the cracks and crevices in the panel with a mixture of size, glue or sawdust. The panel is then covered with cloth and the surface is coated with heavy gesso. The painter had to work with great rapidity and sureness, because correcting errors was nearly impossible and it dried very quickly. FTP, name this oldest method of painting,": {
+    "guess": "Tempera",
+    "confidence": [
+      [
+        "Tem",
+        -0.030567544
+      ],
+      [
+        "pera",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "It was used in wall paintings in ancient Egypt and Babylonia, and during the Mycenaean period in Greece, where a little vinegar was probably added. One must first fill all the cracks and crevices in the panel with a mixture of size, glue or sawdust. The panel is then covered with cloth and the surface is coated with heavy gesso. The painter had to work with great rapidity and sureness, because correcting errors was nearly impossible and it dried very quickly. FTP, name this oldest method of painting, which usually used egg yolk and was practiced by such painters as Giotto and Cimabue.": {
+    "guess": "Tempera",
+    "confidence": [
+      [
+        "Tem",
+        -0.05521274
+      ],
+      [
+        "pera",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Used to prove that there is no general method for solving Diophantine equations, methods for computing": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.44231108
+      ]
+    ]
+  },
+  "Used to prove that there is no general method for solving Diophantine equations, methods for computing them include Cassini's identity, Binet's formula, and determining how many ways there are to tile": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -0.024189973
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -0.0011520056
+      ]
+    ]
+  },
+  "Used to prove that there is no general method for solving Diophantine equations, methods for computing them include Cassini's identity, Binet's formula, and determining how many ways there are to tile a 2-by-n strip with 1-by-2 rectangles.  One may also expand their generating function: f-of-x equals": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -0.004116154
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -0.00019269285
+      ]
+    ]
+  },
+  "Used to prove that there is no general method for solving Diophantine equations, methods for computing them include Cassini's identity, Binet's formula, and determining how many ways there are to tile a 2-by-n strip with 1-by-2 rectangles.  One may also expand their generating function: f-of-x equals x divided by 1 minus x minus x-squared, or sum the shallow diagonals of Pascal's triangle to compute,": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -0.00021164624
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "Used to prove that there is no general method for solving Diophantine equations, methods for computing them include Cassini's identity, Binet's formula, and determining how many ways there are to tile a 2-by-n strip with 1-by-2 rectangles.  One may also expand their generating function: f-of-x equals x divided by 1 minus x minus x-squared, or sum the shallow diagonals of Pascal's triangle to compute, FTP, what sequence of numbers, whose first five members are 1, 1, 2, 3, 5?": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -9.710619e-05
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -1.3544423e-05
+      ]
+    ]
+  },
+  "Used to manufacture medical gloves and to trap pollutants in smokestacks, a zymogram can be used to examine": {
+    "guess": "Polyacrylamide gel electrophoresis",
+    "confidence": [
+      [
+        "Poly",
+        -0.11398845
+      ],
+      [
+        "ac",
+        -0.00010676169
+      ],
+      [
+        "ry",
+        -9.0883464e-07
+      ],
+      [
+        "lam",
+        -0.00020580526
+      ],
+      [
+        "ide",
+        -1.147242e-06
+      ],
+      [
+        " gel",
+        -0.28397578
+      ],
+      [
+        " electroph",
+        -0.032233644
+      ],
+      [
+        "ores",
+        0.0
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Used to manufacture medical gloves and to trap pollutants in smokestacks, a zymogram can be used to examine the results of enzyme separation by this process, which won a Nobel Prize for its discoverer,": {
+    "guess": "SDS-PAGE",
+    "confidence": [
+      [
+        "S",
+        -0.62775874
+      ],
+      [
+        "DS",
+        -0.0031785443
+      ],
+      [
+        "-P",
+        -1.4259645e-05
+      ],
+      [
+        "AGE",
+        0.0
+      ]
+    ]
+  },
+  "Used to manufacture medical gloves and to trap pollutants in smokestacks, a zymogram can be used to examine the results of enzyme separation by this process, which won a Nobel Prize for its discoverer, Arne Tiselius. Via polyacrylamide gel, one can use it for rapid gene sequencing. FTP, name this process": {
+    "guess": "Electrophoresis",
+    "confidence": [
+      [
+        "Elect",
+        -0.0021711974
+      ],
+      [
+        "roph",
+        0.0
+      ],
+      [
+        "ores",
+        0.0
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Used to manufacture medical gloves and to trap pollutants in smokestacks, a zymogram can be used to examine the results of enzyme separation by this process, which won a Nobel Prize for its discoverer, Arne Tiselius. Via polyacrylamide gel, one can use it for rapid gene sequencing. FTP, name this process by which electrodes immersed in fluid attract charged particles suspended in the fluid.": {
+    "guess": "Electrophoresis",
+    "confidence": [
+      [
+        "Elect",
+        -0.0011736787
+      ],
+      [
+        "roph",
+        -5.5122365e-07
+      ],
+      [
+        "ores",
+        -6.704273e-07
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "It has been used to synthesize such complex molecules as morphine, reserpine, and cortisone as well as": {
+    "guess": "Total synthesis",
+    "confidence": [
+      [
+        "Total",
+        -1.0256461
+      ],
+      [
+        " synthesis",
+        -0.0007104054
+      ]
+    ]
+  },
+  "It has been used to synthesize such complex molecules as morphine, reserpine, and cortisone as well as other cyclic organic compounds.  Take a substance containing two alternate double bonds and link it": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.010545323
+      ],
+      [
+        "iels",
+        -0.00012868783
+      ],
+      [
+        "-A",
+        -0.47407845
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.0007139816
+      ]
+    ]
+  },
+  "It has been used to synthesize such complex molecules as morphine, reserpine, and cortisone as well as other cyclic organic compounds.  Take a substance containing two alternate double bonds and link it to a compound containing a pair of doubly or triply bonded carbon atoms.  The two compounds will react": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.027153153
+      ],
+      [
+        "iels",
+        -0.00014239625
+      ],
+      [
+        "-A",
+        -0.47407815
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.008624267
+      ]
+    ]
+  },
+  "It has been used to synthesize such complex molecules as morphine, reserpine, and cortisone as well as other cyclic organic compounds.  Take a substance containing two alternate double bonds and link it to a compound containing a pair of doubly or triply bonded carbon atoms.  The two compounds will react to form a six-membered ring.  In essence, it is the reaction of quinones with dienes and is also": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.007685181
+      ],
+      [
+        "iels",
+        -5.3193703e-06
+      ],
+      [
+        "-A",
+        -0.3868725
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.0040846933
+      ]
+    ]
+  },
+  "It has been used to synthesize such complex molecules as morphine, reserpine, and cortisone as well as other cyclic organic compounds.  Take a substance containing two alternate double bonds and link it to a compound containing a pair of doubly or triply bonded carbon atoms.  The two compounds will react to form a six-membered ring.  In essence, it is the reaction of quinones with dienes and is also known as diene synthesis.  FTP, give this reaction, named for the German scientists Otto and Kurt.": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.0008158237
+      ],
+      [
+        "iels",
+        -4.4849444e-06
+      ],
+      [
+        "-A",
+        -0.25192982
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.003180683
+      ]
+    ]
+  },
+  "He used lily-pad columns for the \"Great Workroom\" of his Johnson Wax Headquarters, and designed several": {
+    "guess": "Frank Lloyd Wright",
+    "confidence": [
+      [
+        "Frank",
+        -0.0004846538
+      ],
+      [
+        " Lloyd",
+        0.0
+      ],
+      [
+        " Wright",
+        0.0
+      ]
+    ]
+  },
+  "He used lily-pad columns for the \"Great Workroom\" of his Johnson Wax Headquarters, and designed several houses using the textile block system. One work of his in the \"Maya Revival\" style survived the 1923": {
+    "guess": "Frank Lloyd Wright",
+    "confidence": [
+      [
+        "Frank",
+        -0.0014120202
+      ],
+      [
+        " Lloyd",
+        0.0
+      ],
+      [
+        " Wright",
+        0.0
+      ]
+    ]
+  },
+  "He used lily-pad columns for the \"Great Workroom\" of his Johnson Wax Headquarters, and designed several houses using the textile block system. One work of his in the \"Maya Revival\" style survived the 1923 Tokyo earthquake. This architect of the Imperial Hotel designed a house for Edgar Kaufman with cantilevered": {
+    "guess": "Fallingwater",
+    "confidence": [
+      [
+        "F",
+        -0.68189734
+      ],
+      [
+        "alling",
+        0.0
+      ],
+      [
+        "water",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "He used lily-pad columns for the \"Great Workroom\" of his Johnson Wax Headquarters, and designed several houses using the textile block system. One work of his in the \"Maya Revival\" style survived the 1923 Tokyo earthquake. This architect of the Imperial Hotel designed a house for Edgar Kaufman with cantilevered floors built over Bear Run, and a museum best known for its spiral gallery. For 10 points,": {
+    "guess": "Frank Lloyd Wright",
+    "confidence": [
+      [
+        "Frank",
+        -0.035911553
+      ],
+      [
+        " Lloyd",
+        0.0
+      ],
+      [
+        " Wright",
+        0.0
+      ]
+    ]
+  },
+  "He used lily-pad columns for the \"Great Workroom\" of his Johnson Wax Headquarters, and designed several houses using the textile block system. One work of his in the \"Maya Revival\" style survived the 1923 Tokyo earthquake. This architect of the Imperial Hotel designed a house for Edgar Kaufman with cantilevered floors built over Bear Run, and a museum best known for its spiral gallery. For 10 points, name this American architect of New York's Guggenheim Museum and Fallingwater.": {
+    "guess": "Frank Lloyd Wright",
+    "confidence": [
+      [
+        "Frank",
+        -0.00925896
+      ],
+      [
+        " Lloyd",
+        0.0
+      ],
+      [
+        " Wright",
+        0.0
+      ]
+    ]
+  },
+  "This is used as a solvent in the Jones reaction. Along with phenol, this is produced by the Cumene process.": {
+    "guess": "Acetone",
+    "confidence": [
+      [
+        "Ac",
+        -0.007800268
+      ],
+      [
+        "et",
+        0.0
+      ],
+      [
+        "one",
+        0.0
+      ]
+    ]
+  },
+  "This is used as a solvent in the Jones reaction. Along with phenol, this is produced by the Cumene process. Another way to make it is by dehydrogenating 2-propanol. This can dissolve nitrocellulose as": {
+    "guess": "Acetone",
+    "confidence": [
+      [
+        "Ac",
+        -0.0017660973
+      ],
+      [
+        "et",
+        0.0
+      ],
+      [
+        "one",
+        0.0
+      ]
+    ]
+  },
+  "This is used as a solvent in the Jones reaction. Along with phenol, this is produced by the Cumene process. Another way to make it is by dehydrogenating 2-propanol. This can dissolve nitrocellulose as it is an organic solvent. It is used to clean laboratory glassware. This is the simplest ketone. For": {
+    "guess": "Acetone",
+    "confidence": [
+      [
+        "Ac",
+        -0.00031627773
+      ],
+      [
+        "et",
+        0.0
+      ],
+      [
+        "one",
+        0.0
+      ]
+    ]
+  },
+  "This is used as a solvent in the Jones reaction. Along with phenol, this is produced by the Cumene process. Another way to make it is by dehydrogenating 2-propanol. This can dissolve nitrocellulose as it is an organic solvent. It is used to clean laboratory glassware. This is the simplest ketone. For 10 points, name this compound found in nail polish remover.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.02975512
+      ]
+    ]
+  },
+  "One useful model of these substances posited that they contain two components, one of which carries\n": {
+    "guess": "Lipids",
+    "confidence": [
+      [
+        "Lip",
+        -0.49644867
+      ],
+      [
+        "ids",
+        -0.00028743778
+      ]
+    ]
+  },
+  "One useful model of these substances posited that they contain two components, one of which carries\n all the entropy; that model was posited by Tisza. One hallmark of these substances is the fact that": {
+    "guess": "Superfluidity",
+    "confidence": [
+      [
+        "Super",
+        -0.038314477
+      ],
+      [
+        "fluid",
+        -0.00010008628
+      ],
+      [
+        "ity",
+        -0.034611493
+      ]
+    ]
+  },
+  "One useful model of these substances posited that they contain two components, one of which carries\n all the entropy; that model was posited by Tisza. One hallmark of these substances is the fact that a\n pressure gradient has no effect on their motion, and it is also impossible to maintain a thermal": {
+    "guess": "Superfluidity",
+    "confidence": [
+      [
+        "Super",
+        -0.048856113
+      ],
+      [
+        "fluid",
+        -0.00016158436
+      ],
+      [
+        "ity",
+        -0.09942731
+      ]
+    ]
+  },
+  "One useful model of these substances posited that they contain two components, one of which carries\n all the entropy; that model was posited by Tisza. One hallmark of these substances is the fact that a\n pressure gradient has no effect on their motion, and it is also impossible to maintain a thermal gradient\n across one of these substances. Substances with this property can produce Rollin films, and": {
+    "guess": "Superfluid",
+    "confidence": [
+      [
+        "Super",
+        -0.020761548
+      ],
+      [
+        "fluid",
+        -0.023576554
+      ]
+    ]
+  },
+  "One useful model of these substances posited that they contain two components, one of which carries\n all the entropy; that model was posited by Tisza. One hallmark of these substances is the fact that a\n pressure gradient has no effect on their motion, and it is also impossible to maintain a thermal gradient\n across one of these substances. Substances with this property can produce Rollin films, and when\n temperature is applied on one side of a porus plug, these substances will product jets. Landau": {
+    "guess": "Superfluid",
+    "confidence": [
+      [
+        "Super",
+        -0.030099416
+      ],
+      [
+        "fluid",
+        -0.06220687
+      ]
+    ]
+  },
+  "One useful model of these substances posited that they contain two components, one of which carries\n all the entropy; that model was posited by Tisza. One hallmark of these substances is the fact that a\n pressure gradient has no effect on their motion, and it is also impossible to maintain a thermal gradient\n across one of these substances. Substances with this property can produce Rollin films, and when\n temperature is applied on one side of a porus plug, these substances will product jets. Landau won the\n Nobel Prize for his work on these substances, which only exist below the lambda point. Common\n": {
+    "guess": "Superfluid",
+    "confidence": [
+      [
+        "Super",
+        -0.004324126
+      ],
+      [
+        "fluid",
+        -0.048786294
+      ]
+    ]
+  },
+  "One useful model of these substances posited that they contain two components, one of which carries\n all the entropy; that model was posited by Tisza. One hallmark of these substances is the fact that a\n pressure gradient has no effect on their motion, and it is also impossible to maintain a thermal gradient\n across one of these substances. Substances with this property can produce Rollin films, and when\n temperature is applied on one side of a porus plug, these substances will product jets. Landau won the\n Nobel Prize for his work on these substances, which only exist below the lambda point. Common\n substances of this type include very cold helium-3 and helium-4, and they creep out of the sides": {
+    "guess": "Superfluidity",
+    "confidence": [
+      [
+        "Super",
+        -0.01001117
+      ],
+      [
+        "fluid",
+        -0.023283217
+      ],
+      [
+        "ity",
+        -0.6939857
+      ]
+    ]
+  },
+  "One useful model of these substances posited that they contain two components, one of which carries\n all the entropy; that model was posited by Tisza. One hallmark of these substances is the fact that a\n pressure gradient has no effect on their motion, and it is also impossible to maintain a thermal gradient\n across one of these substances. Substances with this property can produce Rollin films, and when\n temperature is applied on one side of a porus plug, these substances will product jets. Landau won the\n Nobel Prize for his work on these substances, which only exist below the lambda point. Common\n substances of this type include very cold helium-3 and helium-4, and they creep out of the sides of their\n containers. For 10 points, name these substances with zero viscosity.": {
+    "guess": "Superfluid",
+    "confidence": [
+      [
+        "Super",
+        -0.002248746
+      ],
+      [
+        "fluid",
+        -0.07889816
+      ]
+    ]
+  },
+  "This man used a televised speech to refer to the Jewish people as \"this elite people\" following Israel's\n": {
+    "guess": "Mahmoud Ahmadinejad",
+    "confidence": [
+      [
+        "Mah",
+        -0.22588463
+      ],
+      [
+        "m",
+        -0.00055589364
+      ],
+      [
+        "oud",
+        -1.9361265e-07
+      ],
+      [
+        " Ahmad",
+        -0.062054176
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        "jad",
+        0.0
+      ]
+    ]
+  },
+  "This man used a televised speech to refer to the Jewish people as \"this elite people\" following Israel's\n victory in the Six-Day War. His other speeches included the \"Appeal of 18 June\" and a controversial\n": {
+    "guess": "Charles de Gaulle",
+    "confidence": [
+      [
+        "Charles",
+        -0.18002705
+      ],
+      [
+        " de",
+        -7.89631e-07
+      ],
+      [
+        " Gaulle",
+        0.0
+      ]
+    ]
+  },
+  "This man used a televised speech to refer to the Jewish people as \"this elite people\" following Israel's\n victory in the Six-Day War. His other speeches included the \"Appeal of 18 June\" and a controversial\n declaration of \"vive le Quebec libre.\" This man criticized the static strategy of the Maginot": {
+    "guess": "Charles de Gaulle",
+    "confidence": [
+      [
+        "Charles",
+        -0.008977468
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " Gaulle",
+        0.0
+      ]
+    ]
+  },
+  "This man used a televised speech to refer to the Jewish people as \"this elite people\" following Israel's\n victory in the Six-Day War. His other speeches included the \"Appeal of 18 June\" and a controversial\n declaration of \"vive le Quebec libre.\" This man criticized the static strategy of the Maginot Line in his book\n The Army of the Future and encouraged his countrymen to reject the policies of Philippe": {
+    "guess": "Charles de Gaulle",
+    "confidence": [
+      [
+        "Charles",
+        -0.028193627
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " Gaulle",
+        0.0
+      ]
+    ]
+  },
+  "This man used a televised speech to refer to the Jewish people as \"this elite people\" following Israel's\n victory in the Six-Day War. His other speeches included the \"Appeal of 18 June\" and a controversial\n declaration of \"vive le Quebec libre.\" This man criticized the static strategy of the Maginot Line in his book\n The Army of the Future and encouraged his countrymen to reject the policies of Philippe Petain, who led\n the collaborationist Vichy regime in this man's country. For 10 points, name": {
+    "guess": "Charles de Gaulle",
+    "confidence": [
+      [
+        "Charles",
+        -0.00038741663
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " Gaulle",
+        0.0
+      ]
+    ]
+  },
+  "This man used a televised speech to refer to the Jewish people as \"this elite people\" following Israel's\n victory in the Six-Day War. His other speeches included the \"Appeal of 18 June\" and a controversial\n declaration of \"vive le Quebec libre.\" This man criticized the static strategy of the Maginot Line in his book\n The Army of the Future and encouraged his countrymen to reject the policies of Philippe Petain, who led\n the collaborationist Vichy regime in this man's country. For 10 points, name this leader of the Free French\n during World War II, a general who was also the first president of the": {
+    "guess": "Charles de Gaulle",
+    "confidence": [
+      [
+        "Charles",
+        -0.0010042279
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " Gaulle",
+        0.0
+      ]
+    ]
+  },
+  "This man used a televised speech to refer to the Jewish people as \"this elite people\" following Israel's\n victory in the Six-Day War. His other speeches included the \"Appeal of 18 June\" and a controversial\n declaration of \"vive le Quebec libre.\" This man criticized the static strategy of the Maginot Line in his book\n The Army of the Future and encouraged his countrymen to reject the policies of Philippe Petain, who led\n the collaborationist Vichy regime in this man's country. For 10 points, name this leader of the Free French\n during World War II, a general who was also the first president of the Fifth Republic.": {
+    "guess": "Charles de Gaulle",
+    "confidence": [
+      [
+        "Charles",
+        -0.00036989737
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " Gaulle",
+        0.0
+      ]
+    ]
+  },
+  "This man used a flowered curtain as the background for his portrait of Teodoro of Urbino as St. Dominic.": {
+    "guess": "Raphael",
+    "confidence": [
+      [
+        "Rap",
+        -1.363842
+      ],
+      [
+        "hael",
+        -4.5491004e-05
+      ]
+    ]
+  },
+  "This man used a flowered curtain as the background for his portrait of Teodoro of Urbino as St. Dominic. This man created a series of secular paintings for Vincenzo Catena: one of them shows a bunch of": {
+    "guess": "Lorenzo Lotto",
+    "confidence": [
+      [
+        "L",
+        -0.59477973
+      ],
+      [
+        "oren",
+        -4.2153304e-05
+      ],
+      [
+        "zo",
+        0.0
+      ],
+      [
+        " Lotto",
+        -1.998142e-05
+      ]
+    ]
+  },
+  "This man used a flowered curtain as the background for his portrait of Teodoro of Urbino as St. Dominic. This man created a series of secular paintings for Vincenzo Catena: one of them shows a bunch of children prancing around on an unstable boat that seats a woman with a large blue sphere; another shows": {
+    "guess": "Titian",
+    "confidence": [
+      [
+        "Tit",
+        -0.5618226
+      ],
+      [
+        "ian",
+        0.0
+      ]
+    ]
+  },
+  "This man used a flowered curtain as the background for his portrait of Teodoro of Urbino as St. Dominic. This man created a series of secular paintings for Vincenzo Catena: one of them shows a bunch of children prancing around on an unstable boat that seats a woman with a large blue sphere; another shows a young man falling out of the huge sea shell on a traveler's back. Besides Fortune and Falsehood,": {
+    "guess": "Dosso Dossi",
+    "confidence": [
+      [
+        "Dos",
+        -0.7114115
+      ],
+      [
+        "so",
+        -1.9361265e-07
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "ossi",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "This man used a flowered curtain as the background for his portrait of Teodoro of Urbino as St. Dominic. This man created a series of secular paintings for Vincenzo Catena: one of them shows a bunch of children prancing around on an unstable boat that seats a woman with a large blue sphere; another shows a young man falling out of the huge sea shell on a traveler's back. Besides Fortune and Falsehood, which are amongst his Four Allegories, the influence of Antonello da Messina's oil techniques is": {
+    "guess": "Giovanni Bellini",
+    "confidence": [
+      [
+        "Gi",
+        -0.031706594
+      ],
+      [
+        "ov",
+        -5.9153886e-06
+      ],
+      [
+        "anni",
+        0.0
+      ],
+      [
+        " Bell",
+        -5.2001665e-06
+      ],
+      [
+        "ini",
+        0.0
+      ]
+    ]
+  },
+  "This man used a flowered curtain as the background for his portrait of Teodoro of Urbino as St. Dominic. This man created a series of secular paintings for Vincenzo Catena: one of them shows a bunch of children prancing around on an unstable boat that seats a woman with a large blue sphere; another shows a young man falling out of the huge sea shell on a traveler's back. Besides Fortune and Falsehood, which are amongst his Four Allegories, the influence of Antonello da Messina's oil techniques is apparent in two works that depict the Virgin in a blue mantle, immersed in golden dust and enthroned": {
+    "guess": "Giovanni Bellini",
+    "confidence": [
+      [
+        "Gi",
+        -0.08257074
+      ],
+      [
+        "ov",
+        -1.2664457e-06
+      ],
+      [
+        "anni",
+        0.0
+      ],
+      [
+        " Bell",
+        -1.0802739e-05
+      ],
+      [
+        "ini",
+        0.0
+      ]
+    ]
+  },
+  "This man used a flowered curtain as the background for his portrait of Teodoro of Urbino as St. Dominic. This man created a series of secular paintings for Vincenzo Catena: one of them shows a bunch of children prancing around on an unstable boat that seats a woman with a large blue sphere; another shows a young man falling out of the huge sea shell on a traveler's back. Besides Fortune and Falsehood, which are amongst his Four Allegories, the influence of Antonello da Messina's oil techniques is apparent in two works that depict the Virgin in a blue mantle, immersed in golden dust and enthroned under an illuminated golden apsidiole. Besides the Frari Triptych and San Giobbe Altarpiece, one of": {
+    "guess": "Giovanni Bellini",
+    "confidence": [
+      [
+        "Gi",
+        -0.006228456
+      ],
+      [
+        "ov",
+        -4.3202e-07
+      ],
+      [
+        "anni",
+        -1.9361265e-07
+      ],
+      [
+        " Bell",
+        -5.5122365e-07
+      ],
+      [
+        "ini",
+        0.0
+      ]
+    ]
+  },
+  "This man used a flowered curtain as the background for his portrait of Teodoro of Urbino as St. Dominic. This man created a series of secular paintings for Vincenzo Catena: one of them shows a bunch of children prancing around on an unstable boat that seats a woman with a large blue sphere; another shows a young man falling out of the huge sea shell on a traveler's back. Besides Fortune and Falsehood, which are amongst his Four Allegories, the influence of Antonello da Messina's oil techniques is apparent in two works that depict the Virgin in a blue mantle, immersed in golden dust and enthroned under an illuminated golden apsidiole. Besides the Frari Triptych and San Giobbe Altarpiece, one of his works lies in the Camerino d'Alabastro of Alfonso I D'Este and depicts scenes from Fasti wherein": {
+    "guess": "Giovanni Bellini",
+    "confidence": [
+      [
+        "Gi",
+        -0.04710347
+      ],
+      [
+        "ov",
+        -3.1737043e-06
+      ],
+      [
+        "anni",
+        0.0
+      ],
+      [
+        " Bell",
+        -9.0883464e-07
+      ],
+      [
+        "ini",
+        0.0
+      ]
+    ]
+  },
+  "This man used a flowered curtain as the background for his portrait of Teodoro of Urbino as St. Dominic. This man created a series of secular paintings for Vincenzo Catena: one of them shows a bunch of children prancing around on an unstable boat that seats a woman with a large blue sphere; another shows a young man falling out of the huge sea shell on a traveler's back. Besides Fortune and Falsehood, which are amongst his Four Allegories, the influence of Antonello da Messina's oil techniques is apparent in two works that depict the Virgin in a blue mantle, immersed in golden dust and enthroned under an illuminated golden apsidiole. Besides the Frari Triptych and San Giobbe Altarpiece, one of his works lies in the Camerino d'Alabastro of Alfonso I D'Este and depicts scenes from Fasti wherein Silenus' donkey prevents Priapus' seduction of Lotis and Hermes lies against a barrel as everyone": {
+    "guess": "Giovanni Bellini",
+    "confidence": [
+      [
+        "Gi",
+        -0.3647789
+      ],
+      [
+        "ov",
+        -9.209964e-05
+      ],
+      [
+        "anni",
+        0.0
+      ],
+      [
+        " Bell",
+        -5.5122365e-07
+      ],
+      [
+        "ini",
+        0.0
+      ]
+    ]
+  },
+  "This man used a flowered curtain as the background for his portrait of Teodoro of Urbino as St. Dominic. This man created a series of secular paintings for Vincenzo Catena: one of them shows a bunch of children prancing around on an unstable boat that seats a woman with a large blue sphere; another shows a young man falling out of the huge sea shell on a traveler's back. Besides Fortune and Falsehood, which are amongst his Four Allegories, the influence of Antonello da Messina's oil techniques is apparent in two works that depict the Virgin in a blue mantle, immersed in golden dust and enthroned under an illuminated golden apsidiole. Besides the Frari Triptych and San Giobbe Altarpiece, one of his works lies in the Camerino d'Alabastro of Alfonso I D'Este and depicts scenes from Fasti wherein Silenus' donkey prevents Priapus' seduction of Lotis and Hermes lies against a barrel as everyone carouses. For 10 points, name this Venetian painter, whose student Titian modified his depiction of": {
+    "guess": "Giovanni Bellini",
+    "confidence": [
+      [
+        "Gi",
+        -0.0045197196
+      ],
+      [
+        "ov",
+        -1.7432603e-06
+      ],
+      [
+        "anni",
+        0.0
+      ],
+      [
+        " Bell",
+        -1.9816675e-06
+      ],
+      [
+        "ini",
+        0.0
+      ]
+    ]
+  },
+  "This man used a flowered curtain as the background for his portrait of Teodoro of Urbino as St. Dominic. This man created a series of secular paintings for Vincenzo Catena: one of them shows a bunch of children prancing around on an unstable boat that seats a woman with a large blue sphere; another shows a young man falling out of the huge sea shell on a traveler's back. Besides Fortune and Falsehood, which are amongst his Four Allegories, the influence of Antonello da Messina's oil techniques is apparent in two works that depict the Virgin in a blue mantle, immersed in golden dust and enthroned under an illuminated golden apsidiole. Besides the Frari Triptych and San Giobbe Altarpiece, one of his works lies in the Camerino d'Alabastro of Alfonso I D'Este and depicts scenes from Fasti wherein Silenus' donkey prevents Priapus' seduction of Lotis and Hermes lies against a barrel as everyone carouses. For 10 points, name this Venetian painter, whose student Titian modified his depiction of The Feast of the Gods.": {
+    "guess": "Giovanni Bellini",
+    "confidence": [
+      [
+        "Gi",
+        -0.047067422
+      ],
+      [
+        "ov",
+        -6.392203e-06
+      ],
+      [
+        "anni",
+        0.0
+      ],
+      [
+        " Bell",
+        0.0
+      ],
+      [
+        "ini",
+        0.0
+      ]
+    ]
+  },
+  "It was used in the first step of an obsolete process to transform sodium chloride to hydrogen, chlorine": {
+    "guess": "Sulfuric acid",
+    "confidence": [
+      [
+        "Sul",
+        -0.06142547
+      ],
+      [
+        "fur",
+        -1.18755715e-05
+      ],
+      [
+        "ic",
+        -2.7610455e-05
+      ],
+      [
+        " acid",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "It was used in the first step of an obsolete process to transform sodium chloride to hydrogen, chlorine gas, and sodium carbonate, the Leblanc process. It was originally created with the use of Glover": {
+    "guess": "Sulfuric acid",
+    "confidence": [
+      [
+        "Sul",
+        -0.5519217
+      ],
+      [
+        "fur",
+        -9.133887e-06
+      ],
+      [
+        "ic",
+        -6.9882217e-06
+      ],
+      [
+        " acid",
+        -0.029752338
+      ]
+    ]
+  },
+  "It was used in the first step of an obsolete process to transform sodium chloride to hydrogen, chlorine gas, and sodium carbonate, the Leblanc process. It was originally created with the use of Glover towers; though now produced by the [*] contact process, that method was known as the lead chamber process.": {
+    "guess": "Sulfuric acid",
+    "confidence": [
+      [
+        "Sul",
+        -0.0188439
+      ],
+      [
+        "fur",
+        -1.504853e-06
+      ],
+      [
+        "ic",
+        -9.0883464e-07
+      ],
+      [
+        " acid",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "It was used in the first step of an obsolete process to transform sodium chloride to hydrogen, chlorine gas, and sodium carbonate, the Leblanc process. It was originally created with the use of Glover towers; though now produced by the [*] contact process, that method was known as the lead chamber process. Its pure form was formally known as oil of vitriol and, along with carbon dioxide and water,": {
+    "guess": "Sulfuric acid",
+    "confidence": [
+      [
+        "Sul",
+        -0.031996068
+      ],
+      [
+        "fur",
+        -5.5122365e-07
+      ],
+      [
+        "ic",
+        -1.6240566e-06
+      ],
+      [
+        " acid",
+        -1.4974867e-05
+      ]
+    ]
+  },
+  "It was used in the first step of an obsolete process to transform sodium chloride to hydrogen, chlorine gas, and sodium carbonate, the Leblanc process. It was originally created with the use of Glover towers; though now produced by the [*] contact process, that method was known as the lead chamber process. Its pure form was formally known as oil of vitriol and, along with carbon dioxide and water, it is a main component of Venus' atmosphere. For 10 points, name this strong component of acid rain": {
+    "guess": "Sulfuric acid",
+    "confidence": [
+      [
+        "Sul",
+        -0.0009346862
+      ],
+      [
+        "fur",
+        0.0
+      ],
+      [
+        "ic",
+        -3.1281633e-07
+      ],
+      [
+        " acid",
+        -6.6232446e-05
+      ]
+    ]
+  },
+  "It was used in the first step of an obsolete process to transform sodium chloride to hydrogen, chlorine gas, and sodium carbonate, the Leblanc process. It was originally created with the use of Glover towers; though now produced by the [*] contact process, that method was known as the lead chamber process. Its pure form was formally known as oil of vitriol and, along with carbon dioxide and water, it is a main component of Venus' atmosphere. For 10 points, name this strong component of acid rain with formula H2SO4.": {
+    "guess": "Sulfuric acid",
+    "confidence": [
+      [
+        "Sul",
+        -0.005959965
+      ],
+      [
+        "fur",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " acid",
+        -8.518583e-05
+      ]
+    ]
+  },
+  "Use of this product was initially encouraged by the Ford Foundation's Educational Facilities Laboratory.": {
+    "guess": "Open classroom",
+    "confidence": [
+      [
+        "Open",
+        -0.58915675
+      ],
+      [
+        " classroom",
+        -0.85908926
+      ]
+    ]
+  },
+  "Use of this product was initially encouraged by the Ford Foundation's Educational Facilities Laboratory. It was first used at the Moses Brown School, and Indiana State was the first university to use it.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.78289974
+      ]
+    ]
+  },
+  "Use of this product was initially encouraged by the Ford Foundation's Educational Facilities Laboratory. It was first used at the Moses Brown School, and Indiana State was the first university to use it. A July 2007 study concluded that this product, originally produced by Monsanto Industries, contains": {
+    "guess": "AstroTurf",
+    "confidence": [
+      [
+        "Ast",
+        -0.042914458
+      ],
+      [
+        "ro",
+        -0.014163747
+      ],
+      [
+        "T",
+        -4.3202e-07
+      ],
+      [
+        "urf",
+        0.0
+      ]
+    ]
+  },
+  "Use of this product was initially encouraged by the Ford Foundation's Educational Facilities Laboratory. It was first used at the Moses Brown School, and Indiana State was the first university to use it. A July 2007 study concluded that this product, originally produced by Monsanto Industries, contains toxic substances, and schools such as Northwestern and Central Michigan have replaced it with other": {
+    "guess": "Polychlorinated biphenyl (PCB)",
+    "confidence": [
+      [
+        "Pol",
+        -0.6106155
+      ],
+      [
+        "ych",
+        -2.6299214e-05
+      ],
+      [
+        "lor",
+        -1.1756368e-05
+      ],
+      [
+        "inated",
+        -0.00010402
+      ],
+      [
+        " bip",
+        -0.03806502
+      ],
+      [
+        "hen",
+        0.0
+      ],
+      [
+        "yl",
+        0.0
+      ],
+      [
+        " (",
+        -0.066502325
+      ],
+      [
+        "PCB",
+        -0.0032639806
+      ],
+      [
+        ")",
+        -0.0005449306
+      ]
+    ]
+  },
+  "Use of this product was initially encouraged by the Ford Foundation's Educational Facilities Laboratory. It was first used at the Moses Brown School, and Indiana State was the first university to use it. A July 2007 study concluded that this product, originally produced by Monsanto Industries, contains toxic substances, and schools such as Northwestern and Central Michigan have replaced it with other synthetic surfaces or natural grass. For 10 points, name this first synthetic playing surface, most": {
+    "guess": "AstroTurf",
+    "confidence": [
+      [
+        "Ast",
+        -1.6882126e-05
+      ],
+      [
+        "ro",
+        -0.0040785205
+      ],
+      [
+        "T",
+        -1.6240566e-06
+      ],
+      [
+        "urf",
+        0.0
+      ]
+    ]
+  },
+  "Use of this product was initially encouraged by the Ford Foundation's Educational Facilities Laboratory. It was first used at the Moses Brown School, and Indiana State was the first university to use it. A July 2007 study concluded that this product, originally produced by Monsanto Industries, contains toxic substances, and schools such as Northwestern and Central Michigan have replaced it with other synthetic surfaces or natural grass. For 10 points, name this first synthetic playing surface, most famously used in a domed Houston stadium.": {
+    "guess": "AstroTurf",
+    "confidence": [
+      [
+        "Ast",
+        -1.8624639e-06
+      ],
+      [
+        "ro",
+        -0.0040789973
+      ],
+      [
+        "T",
+        -5.5122365e-07
+      ],
+      [
+        "urf",
+        0.0
+      ]
+    ]
+  },
+  "This man used powers granted by the Taft-Hartley Act during a confrontation with air traffic controllers,": {
+    "guess": "Ronald Reagan",
+    "confidence": [
+      [
+        "Ron",
+        -0.12948239
+      ],
+      [
+        "ald",
+        0.0
+      ],
+      [
+        " Reagan",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man used powers granted by the Taft-Hartley Act during a confrontation with air traffic controllers, and his Defense Secretary resigned after violations of the Boland Amendment were revealed. Before": {
+    "guess": "Ronald Reagan",
+    "confidence": [
+      [
+        "Ron",
+        -0.0020988719
+      ],
+      [
+        "ald",
+        0.0
+      ],
+      [
+        " Reagan",
+        0.0
+      ]
+    ]
+  },
+  "This man used powers granted by the Taft-Hartley Act during a confrontation with air traffic controllers, and his Defense Secretary resigned after violations of the Boland Amendment were revealed. Before those events during his presidency, he served as Governor of California from 1967 until 1975. Prior": {
+    "guess": "Ronald Reagan",
+    "confidence": [
+      [
+        "Ron",
+        -0.0016294788
+      ],
+      [
+        "ald",
+        0.0
+      ],
+      [
+        " Reagan",
+        0.0
+      ]
+    ]
+  },
+  "This man used powers granted by the Taft-Hartley Act during a confrontation with air traffic controllers, and his Defense Secretary resigned after violations of the Boland Amendment were revealed. Before those events during his presidency, he served as Governor of California from 1967 until 1975. Prior to entering politics, this man was a famous (*) Hollywood actor. For 10 points, name this Republican": {
+    "guess": "Ronald Reagan",
+    "confidence": [
+      [
+        "Ron",
+        -0.00043794067
+      ],
+      [
+        "ald",
+        0.0
+      ],
+      [
+        " Reagan",
+        0.0
+      ]
+    ]
+  },
+  "This man used powers granted by the Taft-Hartley Act during a confrontation with air traffic controllers, and his Defense Secretary resigned after violations of the Boland Amendment were revealed. Before those events during his presidency, he served as Governor of California from 1967 until 1975. Prior to entering politics, this man was a famous (*) Hollywood actor. For 10 points, name this Republican president from 1981 to 1989.": {
+    "guess": "Ronald Reagan",
+    "confidence": [
+      [
+        "Ron",
+        -0.0015208146
+      ],
+      [
+        "ald",
+        0.0
+      ],
+      [
+        " Reagan",
+        0.0
+      ]
+    ]
+  },
+  "The use of a computation model containing one of these elements allows one to prove the version of the": {
+    "guess": "Turing machine",
+    "confidence": [
+      [
+        "T",
+        -0.63218594
+      ],
+      [
+        "uring",
+        -2.1008714e-06
+      ],
+      [
+        " machine",
+        -0.0053641982
+      ]
+    ]
+  },
+  "The use of a computation model containing one of these elements allows one to prove the version of the pumping lemma that replicates two sections of a string in parallel. A deterministic finite automaton": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.12809616
+      ]
+    ]
+  },
+  "The use of a computation model containing one of these elements allows one to prove the version of the pumping lemma that replicates two sections of a string in parallel. A deterministic finite automaton with two of these elements is equivalent to a Turing machine, while the set of context free languages": {
+    "guess": "Stack",
+    "confidence": [
+      [
+        "Stack",
+        -0.11731099
+      ]
+    ]
+  },
+  "The use of a computation model containing one of these elements allows one to prove the version of the pumping lemma that replicates two sections of a string in parallel. A deterministic finite automaton with two of these elements is equivalent to a Turing machine, while the set of context free languages can be recognized by a DFA with one of these modifications, a model known as a PDA. Allocating": {
+    "guess": "Stack",
+    "confidence": [
+      [
+        "Stack",
+        -0.07947053
+      ]
+    ]
+  },
+  "The use of a computation model containing one of these elements allows one to prove the version of the pumping lemma that replicates two sections of a string in parallel. A deterministic finite automaton with two of these elements is equivalent to a Turing machine, while the set of context free languages can be recognized by a DFA with one of these modifications, a model known as a PDA. Allocating memory in a region with this name relies on its namesake (*) frames and is contrasted with dynamic memory": {
+    "guess": "Stack (abstract data type)",
+    "confidence": [
+      [
+        "Stack",
+        -0.0013726114
+      ],
+      [
+        " (",
+        -0.693359
+      ],
+      [
+        "abstract",
+        -0.0037386832
+      ],
+      [
+        " data",
+        0.0
+      ],
+      [
+        " type",
+        -1.1637165e-05
+      ],
+      [
+        ")",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The use of a computation model containing one of these elements allows one to prove the version of the pumping lemma that replicates two sections of a string in parallel. A deterministic finite automaton with two of these elements is equivalent to a Turing machine, while the set of context free languages can be recognized by a DFA with one of these modifications, a model known as a PDA. Allocating memory in a region with this name relies on its namesake (*) frames and is contrasted with dynamic memory allocation, which uses the heap. The data structure of this name supports operations like \"peek\",": {
+    "guess": "Stack",
+    "confidence": [
+      [
+        "Stack",
+        -0.002021309
+      ]
+    ]
+  },
+  "The use of a computation model containing one of these elements allows one to prove the version of the pumping lemma that replicates two sections of a string in parallel. A deterministic finite automaton with two of these elements is equivalent to a Turing machine, while the set of context free languages can be recognized by a DFA with one of these modifications, a model known as a PDA. Allocating memory in a region with this name relies on its namesake (*) frames and is contrasted with dynamic memory allocation, which uses the heap. The data structure of this name supports operations like \"peek\", which looks at the top element without removing it. For 10 points, name this data structure which": {
+    "guess": "Stack",
+    "confidence": [
+      [
+        "Stack",
+        -0.00048191214
+      ]
+    ]
+  },
+  "The use of a computation model containing one of these elements allows one to prove the version of the pumping lemma that replicates two sections of a string in parallel. A deterministic finite automaton with two of these elements is equivalent to a Turing machine, while the set of context free languages can be recognized by a DFA with one of these modifications, a model known as a PDA. Allocating memory in a region with this name relies on its namesake (*) frames and is contrasted with dynamic memory allocation, which uses the heap. The data structure of this name supports operations like \"peek\", which looks at the top element without removing it. For 10 points, name this data structure which uses operations like \"push\" and \"pop\" to support last-in first-out access.": {
+    "guess": "Stack",
+    "confidence": [
+      [
+        "Stack",
+        -0.0005693563
+      ]
+    ]
+  },
+  "One use of this technique is an efficient algorithm for computing Levenshtein distances, a fact which": {
+    "guess": "Dynamic programming",
+    "confidence": [
+      [
+        "Dynamic",
+        -0.03431654
+      ],
+      [
+        " programming",
+        -0.0001246349
+      ]
+    ]
+  },
+  "One use of this technique is an efficient algorithm for computing Levenshtein distances, a fact which is used in the Smith-Waterman algorithm for optimal local sequence alignments. This technique can also": {
+    "guess": "Dynamic programming",
+    "confidence": [
+      [
+        "Dynamic",
+        -0.017137533
+      ],
+      [
+        " programming",
+        -2.677603e-05
+      ]
+    ]
+  },
+  "One use of this technique is an efficient algorithm for computing Levenshtein distances, a fact which is used in the Smith-Waterman algorithm for optimal local sequence alignments. This technique can also be used to generate a pseudo-polynomial time solution to the 0-1 knapsack problem that runs in time": {
+    "guess": "Dynamic programming",
+    "confidence": [
+      [
+        "Dynamic",
+        -0.0004897649
+      ],
+      [
+        " programming",
+        -5.157039e-05
+      ]
+    ]
+  },
+  "One use of this technique is an efficient algorithm for computing Levenshtein distances, a fact which is used in the Smith-Waterman algorithm for optimal local sequence alignments. This technique can also be used to generate a pseudo-polynomial time solution to the 0-1 knapsack problem that runs in time proportional to the product of the number of items and the size of the knapsack. Other applications": {
+    "guess": "Dynamic programming",
+    "confidence": [
+      [
+        "Dynamic",
+        -0.0012170211
+      ],
+      [
+        " programming",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "One use of this technique is an efficient algorithm for computing Levenshtein distances, a fact which is used in the Smith-Waterman algorithm for optimal local sequence alignments. This technique can also be used to generate a pseudo-polynomial time solution to the 0-1 knapsack problem that runs in time proportional to the product of the number of items and the size of the knapsack. Other applications include the (*) CYK algorithm for bottom-up parsing of context free grammars. Problems which are": {
+    "guess": "Dynamic programming",
+    "confidence": [
+      [
+        "Dynamic",
+        -0.0055719176
+      ],
+      [
+        " programming",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "One use of this technique is an efficient algorithm for computing Levenshtein distances, a fact which is used in the Smith-Waterman algorithm for optimal local sequence alignments. This technique can also be used to generate a pseudo-polynomial time solution to the 0-1 knapsack problem that runs in time proportional to the product of the number of items and the size of the knapsack. Other applications include the (*) CYK algorithm for bottom-up parsing of context free grammars. Problems which are amenable to this technique have both optimal substructure and overlapping subproblems, which distinguishes": {
+    "guess": "Dynamic programming",
+    "confidence": [
+      [
+        "Dynamic",
+        -0.00097387494
+      ],
+      [
+        " programming",
+        -3.5597102e-05
+      ]
+    ]
+  },
+  "One use of this technique is an efficient algorithm for computing Levenshtein distances, a fact which is used in the Smith-Waterman algorithm for optimal local sequence alignments. This technique can also be used to generate a pseudo-polynomial time solution to the 0-1 knapsack problem that runs in time proportional to the product of the number of items and the size of the knapsack. Other applications include the (*) CYK algorithm for bottom-up parsing of context free grammars. Problems which are amenable to this technique have both optimal substructure and overlapping subproblems, which distinguishes it from \"divide and conquer\" and allows the use of memoization. For 10 points, name this algorithm": {
+    "guess": "Dynamic programming",
+    "confidence": [
+      [
+        "Dynamic",
+        -0.0021864262
+      ],
+      [
+        " programming",
+        -0.00033546583
+      ]
+    ]
+  },
+  "One use of this technique is an efficient algorithm for computing Levenshtein distances, a fact which is used in the Smith-Waterman algorithm for optimal local sequence alignments. This technique can also be used to generate a pseudo-polynomial time solution to the 0-1 knapsack problem that runs in time proportional to the product of the number of items and the size of the knapsack. Other applications include the (*) CYK algorithm for bottom-up parsing of context free grammars. Problems which are amenable to this technique have both optimal substructure and overlapping subproblems, which distinguishes it from \"divide and conquer\" and allows the use of memoization. For 10 points, name this algorithm design technique in which the optimal solutions to increasingly large subproblems are recorded": {
+    "guess": "Dynamic programming",
+    "confidence": [
+      [
+        "Dynamic",
+        -0.00025740577
+      ],
+      [
+        " programming",
+        -1.9146995e-05
+      ]
+    ]
+  },
+  "One use of this technique is an efficient algorithm for computing Levenshtein distances, a fact which is used in the Smith-Waterman algorithm for optimal local sequence alignments. This technique can also be used to generate a pseudo-polynomial time solution to the 0-1 knapsack problem that runs in time proportional to the product of the number of items and the size of the knapsack. Other applications include the (*) CYK algorithm for bottom-up parsing of context free grammars. Problems which are amenable to this technique have both optimal substructure and overlapping subproblems, which distinguishes it from \"divide and conquer\" and allows the use of memoization. For 10 points, name this algorithm design technique in which the optimal solutions to increasingly large subproblems are recorded in a table.": {
+    "guess": "Dynamic programming",
+    "confidence": [
+      [
+        "Dynamic",
+        -0.00016921341
+      ],
+      [
+        " programming",
+        -2.7729659e-05
+      ]
+    ]
+  },
+  "It uses the notion of circular flow, which is the relation between money income and spending and terms": {
+    "guess": "Circular flow of income",
+    "confidence": [
+      [
+        "Circular",
+        -0.017166248
+      ],
+      [
+        " flow",
+        -0.388023
+      ],
+      [
+        " of",
+        -0.0005580356
+      ],
+      [
+        " income",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "It uses the notion of circular flow, which is the relation between money income and spending and terms personal savings \"leakages\" and investment \"injections.\" It hypothesizes that a higher level of income": {
+    "guess": "Circular flow of income",
+    "confidence": [
+      [
+        "Circular",
+        -0.3391436
+      ],
+      [
+        " flow",
+        -0.28118375
+      ],
+      [
+        " of",
+        -5.8961017e-05
+      ],
+      [
+        " income",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "It uses the notion of circular flow, which is the relation between money income and spending and terms personal savings \"leakages\" and investment \"injections.\" It hypothesizes that a higher level of income is necessary to generate an increase of savings at a given interest rate. Because of its implications": {
+    "guess": "Keynesian economics",
+    "confidence": [
+      [
+        "Key",
+        -0.9836995
+      ],
+      [
+        "nes",
+        -6.704273e-07
+      ],
+      [
+        "ian",
+        -1.9361265e-07
+      ],
+      [
+        " economics",
+        -0.004669357
+      ]
+    ]
+  },
+  "It uses the notion of circular flow, which is the relation between money income and spending and terms personal savings \"leakages\" and investment \"injections.\" It hypothesizes that a higher level of income is necessary to generate an increase of savings at a given interest rate. Because of its implications about deficit spending, economists criticize this model because raising interest rates lead to": {
+    "guess": "IS-LM model",
+    "confidence": [
+      [
+        "IS",
+        -0.025483672
+      ],
+      [
+        "-L",
+        -0.046346933
+      ],
+      [
+        "M",
+        0.0
+      ],
+      [
+        " model",
+        -0.38689736
+      ]
+    ]
+  },
+  "It uses the notion of circular flow, which is the relation between money income and spending and terms personal savings \"leakages\" and investment \"injections.\" It hypothesizes that a higher level of income is necessary to generate an increase of savings at a given interest rate. Because of its implications about deficit spending, economists criticize this model because raising interest rates lead to crowding out of private fixed investment. Derived from Keynes General Theory, the four quadrants in": {
+    "guess": "IS-LM model",
+    "confidence": [
+      [
+        "IS",
+        -0.030199701
+      ],
+      [
+        "-L",
+        -0.1659541
+      ],
+      [
+        "M",
+        0.0
+      ],
+      [
+        " model",
+        -0.0052377875
+      ]
+    ]
+  },
+  "It uses the notion of circular flow, which is the relation between money income and spending and terms personal savings \"leakages\" and investment \"injections.\" It hypothesizes that a higher level of income is necessary to generate an increase of savings at a given interest rate. Because of its implications about deficit spending, economists criticize this model because raising interest rates lead to crowding out of private fixed investment. Derived from Keynes General Theory, the four quadrants in this model indicate excess demand or supply for goods versus excess demand or supply for money. In": {
+    "guess": "IS-LM model",
+    "confidence": [
+      [
+        "IS",
+        -0.0071977894
+      ],
+      [
+        "-L",
+        -0.017693873
+      ],
+      [
+        "M",
+        0.0
+      ],
+      [
+        " model",
+        -0.004092055
+      ]
+    ]
+  },
+  "It uses the notion of circular flow, which is the relation between money income and spending and terms personal savings \"leakages\" and investment \"injections.\" It hypothesizes that a higher level of income is necessary to generate an increase of savings at a given interest rate. Because of its implications about deficit spending, economists criticize this model because raising interest rates lead to crowding out of private fixed investment. Derived from Keynes General Theory, the four quadrants in this model indicate excess demand or supply for goods versus excess demand or supply for money. In it, interest rates are plotted against real gross domestic product. FTP, identify this economic model": {
+    "guess": "IS-LM model",
+    "confidence": [
+      [
+        "IS",
+        -0.0010579374
+      ],
+      [
+        "-L",
+        -0.008641874
+      ],
+      [
+        "M",
+        0.0
+      ],
+      [
+        " model",
+        -0.0011703447
+      ]
+    ]
+  },
+  "It uses the notion of circular flow, which is the relation between money income and spending and terms personal savings \"leakages\" and investment \"injections.\" It hypothesizes that a higher level of income is necessary to generate an increase of savings at a given interest rate. Because of its implications about deficit spending, economists criticize this model because raising interest rates lead to crowding out of private fixed investment. Derived from Keynes General Theory, the four quadrants in this model indicate excess demand or supply for goods versus excess demand or supply for money. In it, interest rates are plotted against real gross domestic product. FTP, identify this economic model derived by John Hicks and Alvin Hansen that takes its name from two intersecting curves, the Investment/Saving": {
+    "guess": "IS-LM model",
+    "confidence": [
+      [
+        "IS",
+        -9.72254e-05
+      ],
+      [
+        "-L",
+        -0.014190889
+      ],
+      [
+        "M",
+        0.0
+      ],
+      [
+        " model",
+        -0.008615042
+      ]
+    ]
+  },
+  "It uses the notion of circular flow, which is the relation between money income and spending and terms personal savings \"leakages\" and investment \"injections.\" It hypothesizes that a higher level of income is necessary to generate an increase of savings at a given interest rate. Because of its implications about deficit spending, economists criticize this model because raising interest rates lead to crowding out of private fixed investment. Derived from Keynes General Theory, the four quadrants in this model indicate excess demand or supply for goods versus excess demand or supply for money. In it, interest rates are plotted against real gross domestic product. FTP, identify this economic model derived by John Hicks and Alvin Hansen that takes its name from two intersecting curves, the Investment/Saving curve and the Liquidity Preference/Money supply curve.": {
+    "guess": "IS\u2013LM model",
+    "confidence": [
+      [
+        "IS",
+        -0.00058508385
+      ],
+      [
+        "\u2013",
+        -0.00023107276
+      ],
+      [
+        "LM",
+        0.0
+      ],
+      [
+        " model",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "This man used the chord progression from \"Honeysuckle Rose\" in his song \"Scrapple from the Apple\". In": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8645453
+      ]
+    ]
+  },
+  "This man used the chord progression from \"Honeysuckle Rose\" in his song \"Scrapple from the Apple\". In a recording session with Max Roach and Curley Russell, this composer performed \"Billie's Bounce\" as": {
+    "guess": "Charlie Parker",
+    "confidence": [
+      [
+        "Charlie",
+        -0.05286361
+      ],
+      [
+        " Parker",
+        0.0
+      ]
+    ]
+  },
+  "This man used the chord progression from \"Honeysuckle Rose\" in his song \"Scrapple from the Apple\". In a recording session with Max Roach and Curley Russell, this composer performed \"Billie's Bounce\" as well as a song inspired by Ray Noble's \"Cherokee\", \"Ko-Ko\". On the album Jazz at Massey Hall, he collaborated": {
+    "guess": "Charlie Parker",
+    "confidence": [
+      [
+        "Charlie",
+        -0.0076564383
+      ],
+      [
+        " Parker",
+        0.0
+      ]
+    ]
+  },
+  "This man used the chord progression from \"Honeysuckle Rose\" in his song \"Scrapple from the Apple\". In a recording session with Max Roach and Curley Russell, this composer performed \"Billie's Bounce\" as well as a song inspired by Ray Noble's \"Cherokee\", \"Ko-Ko\". On the album Jazz at Massey Hall, he collaborated in a quintet with Dizzy Gillespie, with whom he helped develop bebop. For 10 points, name": {
+    "guess": "Charlie Parker",
+    "confidence": [
+      [
+        "Charlie",
+        -0.023442062
+      ],
+      [
+        " Parker",
+        0.0
+      ]
+    ]
+  },
+  "This man used the chord progression from \"Honeysuckle Rose\" in his song \"Scrapple from the Apple\". In a recording session with Max Roach and Curley Russell, this composer performed \"Billie's Bounce\" as well as a song inspired by Ray Noble's \"Cherokee\", \"Ko-Ko\". On the album Jazz at Massey Hall, he collaborated in a quintet with Dizzy Gillespie, with whom he helped develop bebop. For 10 points, name this jazz composer of \"Ornithology\" and \"Yardbird Suite\" whose alto saxophone playing earned him the": {
+    "guess": "Charlie Parker",
+    "confidence": [
+      [
+        "Charlie",
+        -0.014768609
+      ],
+      [
+        " Parker",
+        0.0
+      ]
+    ]
+  },
+  "This man used the chord progression from \"Honeysuckle Rose\" in his song \"Scrapple from the Apple\". In a recording session with Max Roach and Curley Russell, this composer performed \"Billie's Bounce\" as well as a song inspired by Ray Noble's \"Cherokee\", \"Ko-Ko\". On the album Jazz at Massey Hall, he collaborated in a quintet with Dizzy Gillespie, with whom he helped develop bebop. For 10 points, name this jazz composer of \"Ornithology\" and \"Yardbird Suite\" whose alto saxophone playing earned him the nickname \"Bird\".": {
+    "guess": "Charlie Parker",
+    "confidence": [
+      [
+        "Charlie",
+        -0.014529669
+      ],
+      [
+        " Parker",
+        0.0
+      ]
+    ]
+  },
+  "Their use results in monolayer formation past the CMC point. Their solubilities increase strongly past": {
+    "guess": "Micelle",
+    "confidence": [
+      [
+        "Mic",
+        -0.071995705
+      ],
+      [
+        "elle",
+        -0.25248554
+      ]
+    ]
+  },
+  "Their use results in monolayer formation past the CMC point. Their solubilities increase strongly past the (*) Krafft point, and the SDS-PAGE technique is based on the interaction of proteins with this": {
+    "guess": "Surfactant",
+    "confidence": [
+      [
+        "Sur",
+        -0.0083280355
+      ],
+      [
+        "fact",
+        0.0
+      ],
+      [
+        "ant",
+        -0.42870095
+      ]
+    ]
+  },
+  "Their use results in monolayer formation past the CMC point. Their solubilities increase strongly past the (*) Krafft point, and the SDS-PAGE technique is based on the interaction of proteins with this class of compounds. Most of them operate by capturing target molecules in globs consisting of hydrophobic": {
+    "guess": "Surfactants",
+    "confidence": [
+      [
+        "Sur",
+        -0.4403511
+      ],
+      [
+        "fact",
+        0.0
+      ],
+      [
+        "ants",
+        -0.009755975
+      ]
+    ]
+  },
+  "Their use results in monolayer formation past the CMC point. Their solubilities increase strongly past the (*) Krafft point, and the SDS-PAGE technique is based on the interaction of proteins with this class of compounds. Most of them operate by capturing target molecules in globs consisting of hydrophobic tails and hydrophilic heads called micelles. For 10 points\u2014 identify this class of chemicals": {
+    "guess": "Surfactant",
+    "confidence": [
+      [
+        "Sur",
+        -0.007951311
+      ],
+      [
+        "fact",
+        0.0
+      ],
+      [
+        "ant",
+        -0.00048799152
+      ]
+    ]
+  },
+  "Their use results in monolayer formation past the CMC point. Their solubilities increase strongly past the (*) Krafft point, and the SDS-PAGE technique is based on the interaction of proteins with this class of compounds. Most of them operate by capturing target molecules in globs consisting of hydrophobic tails and hydrophilic heads called micelles. For 10 points\u2014 identify this class of chemicals which lower the surface tension of liquids, examples of which include detergents.": {
+    "guess": "Surfactant",
+    "confidence": [
+      [
+        "Sur",
+        -0.32953382
+      ],
+      [
+        "fact",
+        0.0
+      ],
+      [
+        "ant",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "Used by architect William Anderson in his lighthouses, as well as more classical architecture, this structure": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.85568255
+      ],
+      [
+        ".",
+        -0.5759504
+      ]
+    ]
+  },
+  "Used by architect William Anderson in his lighthouses, as well as more classical architecture, this structure allows load bearing walls to contain weakening cut outs such as large windows due to its transmission": {
+    "guess": "Flying buttress",
+    "confidence": [
+      [
+        "Flying",
+        -0.44543645
+      ],
+      [
+        " butt",
+        -0.2811544
+      ],
+      [
+        "ress",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Used by architect William Anderson in his lighthouses, as well as more classical architecture, this structure allows load bearing walls to contain weakening cut outs such as large windows due to its transmission of horizontal thrust. If they are very tall, sometimes two or more semi-arches are used.": {
+    "guess": "Flying buttress",
+    "confidence": [
+      [
+        "Flying",
+        -0.016351994
+      ],
+      [
+        " butt",
+        -0.0019388695
+      ],
+      [
+        "ress",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "Used by architect William Anderson in his lighthouses, as well as more classical architecture, this structure allows load bearing walls to contain weakening cut outs such as large windows due to its transmission of horizontal thrust. If they are very tall, sometimes two or more semi-arches are used. It was employed in Romanesque architecture but disguised by other constructions or a roof. With an open": {
+    "guess": "Flying buttress",
+    "confidence": [
+      [
+        "Flying",
+        -0.020379074
+      ],
+      [
+        " butt",
+        -0.006716079
+      ],
+      [
+        "ress",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "Used by architect William Anderson in his lighthouses, as well as more classical architecture, this structure allows load bearing walls to contain weakening cut outs such as large windows due to its transmission of horizontal thrust. If they are very tall, sometimes two or more semi-arches are used. It was employed in Romanesque architecture but disguised by other constructions or a roof. With an open partial arch shape, it stands apart from the central building. FTP this is what structure commonly": {
+    "guess": "Flying buttress",
+    "confidence": [
+      [
+        "Flying",
+        -0.007705415
+      ],
+      [
+        " butt",
+        -0.03804195
+      ],
+      [
+        "ress",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Used by architect William Anderson in his lighthouses, as well as more classical architecture, this structure allows load bearing walls to contain weakening cut outs such as large windows due to its transmission of horizontal thrust. If they are very tall, sometimes two or more semi-arches are used. It was employed in Romanesque architecture but disguised by other constructions or a roof. With an open partial arch shape, it stands apart from the central building. FTP this is what structure commonly found on the outside of Gothic Cathedrals, including Westminster Abbey and the National Cathedral": {
+    "guess": "Flying buttress",
+    "confidence": [
+      [
+        "Flying",
+        -0.0002100966
+      ],
+      [
+        " butt",
+        -0.006715371
+      ],
+      [
+        "ress",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Used by architect William Anderson in his lighthouses, as well as more classical architecture, this structure allows load bearing walls to contain weakening cut outs such as large windows due to its transmission of horizontal thrust. If they are very tall, sometimes two or more semi-arches are used. It was employed in Romanesque architecture but disguised by other constructions or a roof. With an open partial arch shape, it stands apart from the central building. FTP this is what structure commonly found on the outside of Gothic Cathedrals, including Westminster Abbey and the National Cathedral in Washington D.C.": {
+    "guess": "Flying buttress",
+    "confidence": [
+      [
+        "Flying",
+        -0.00013870094
+      ],
+      [
+        " butt",
+        -0.0024756587
+      ],
+      [
+        "ress",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "When used to describe a conjugate, it defines a generalization of the Legendre transformation, and when": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.36696735
+      ]
+    ]
+  },
+  "When used to describe a conjugate, it defines a generalization of the Legendre transformation, and when used before \"Combination\" it describes a linear combination of points with non-negative coefficients": {
+    "guess": "Convexity",
+    "confidence": [
+      [
+        "Conv",
+        -0.49516985
+      ],
+      [
+        "ex",
+        0.0
+      ],
+      [
+        "ity",
+        -0.2467946
+      ]
+    ]
+  },
+  "When used to describe a conjugate, it defines a generalization of the Legendre transformation, and when used before \"Combination\" it describes a linear combination of points with non-negative coefficients that sum to one. In its more common usage, if a set exhibits this property, then it can be directly": {
+    "guess": "Convexity",
+    "confidence": [
+      [
+        "Conv",
+        -0.111471705
+      ],
+      [
+        "ex",
+        0.0
+      ],
+      [
+        "ity",
+        -0.038360465
+      ]
+    ]
+  },
+  "When used to describe a conjugate, it defines a generalization of the Legendre transformation, and when used before \"Combination\" it describes a linear combination of points with non-negative coefficients that sum to one. In its more common usage, if a set exhibits this property, then it can be directly implied that the set is also pathwise-connected. For ten points, name this mathematical property,": {
+    "guess": "Convexity",
+    "confidence": [
+      [
+        "Conv",
+        -0.001996916
+      ],
+      [
+        "ex",
+        0.0
+      ],
+      [
+        "ity",
+        -0.0052523725
+      ]
+    ]
+  },
+  "When used to describe a conjugate, it defines a generalization of the Legendre transformation, and when used before \"Combination\" it describes a linear combination of points with non-negative coefficients that sum to one. In its more common usage, if a set exhibits this property, then it can be directly implied that the set is also pathwise-connected. For ten points, name this mathematical property, which describes a set in which all point in that set can be connected by segments completely within": {
+    "guess": "Convex set",
+    "confidence": [
+      [
+        "Conv",
+        -0.028991124
+      ],
+      [
+        "ex",
+        0.0
+      ],
+      [
+        " set",
+        -0.21937494
+      ]
+    ]
+  },
+  "When used to describe a conjugate, it defines a generalization of the Legendre transformation, and when used before \"Combination\" it describes a linear combination of points with non-negative coefficients that sum to one. In its more common usage, if a set exhibits this property, then it can be directly implied that the set is also pathwise-connected. For ten points, name this mathematical property, which describes a set in which all point in that set can be connected by segments completely within that set.": {
+    "guess": "Convexity",
+    "confidence": [
+      [
+        "Conv",
+        -0.035806783
+      ],
+      [
+        "ex",
+        0.0
+      ],
+      [
+        "ity",
+        -0.6048359
+      ]
+    ]
+  },
+  "It is used in the preparation of betamethasone, a treatment for inflammatory disorders. The Phillips": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7051204
+      ]
+    ]
+  },
+  "It is used in the preparation of betamethasone, a treatment for inflammatory disorders. The Phillips process and UOP use it as a catalyst to alkylate low-weight olefines with isobutene. (*) Its ability": {
+    "guess": "Aluminosilicate",
+    "confidence": [
+      [
+        "Al",
+        -0.64926416
+      ],
+      [
+        "um",
+        -0.99226683
+      ],
+      [
+        "inos",
+        -0.4750038
+      ],
+      [
+        "il",
+        -2.220075e-06
+      ],
+      [
+        "icate",
+        -7.493431e-05
+      ]
+    ]
+  },
+  "It is used in the preparation of betamethasone, a treatment for inflammatory disorders. The Phillips process and UOP use it as a catalyst to alkylate low-weight olefines with isobutene. (*) Its ability to dissolve oxides makes it, like sulfuric acid, key to electropolishing molybdenum, niobium, tantalum,": {
+    "guess": "Hydrofluoric acid",
+    "confidence": [
+      [
+        "Hyd",
+        -0.009226725
+      ],
+      [
+        "ro",
+        -0.00020985818
+      ],
+      [
+        "flu",
+        0.0
+      ],
+      [
+        "oric",
+        -3.1281633e-07
+      ],
+      [
+        " acid",
+        -0.100212716
+      ]
+    ]
+  },
+  "It is used in the preparation of betamethasone, a treatment for inflammatory disorders. The Phillips process and UOP use it as a catalyst to alkylate low-weight olefines with isobutene. (*) Its ability to dissolve oxides makes it, like sulfuric acid, key to electropolishing molybdenum, niobium, tantalum, and tungsten. It is often distilled from a mixture of calcium sulfate after sulfuric acid reacts": {
+    "guess": "Hydrofluoric acid",
+    "confidence": [
+      [
+        "Hyd",
+        -0.13430707
+      ],
+      [
+        "ro",
+        -0.0027039465
+      ],
+      [
+        "flu",
+        -1.3186812e-05
+      ],
+      [
+        "oric",
+        0.0
+      ],
+      [
+        " acid",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "It is used in the preparation of betamethasone, a treatment for inflammatory disorders. The Phillips process and UOP use it as a catalyst to alkylate low-weight olefines with isobutene. (*) Its ability to dissolve oxides makes it, like sulfuric acid, key to electropolishing molybdenum, niobium, tantalum, and tungsten. It is often distilled from a mixture of calcium sulfate after sulfuric acid reacts with the mineral fluorspar. FTP, name this acid which is classified as weak despite its reactive nature,": {
+    "guess": "Hydrofluoric acid",
+    "confidence": [
+      [
+        "Hyd",
+        -0.00054552656
+      ],
+      [
+        "ro",
+        -1.4855664e-05
+      ],
+      [
+        "flu",
+        -1.9361265e-07
+      ],
+      [
+        "oric",
+        0.0
+      ],
+      [
+        " acid",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "It is used in the preparation of betamethasone, a treatment for inflammatory disorders. The Phillips process and UOP use it as a catalyst to alkylate low-weight olefines with isobutene. (*) Its ability to dissolve oxides makes it, like sulfuric acid, key to electropolishing molybdenum, niobium, tantalum, and tungsten. It is often distilled from a mixture of calcium sulfate after sulfuric acid reacts with the mineral fluorspar. FTP, name this acid which is classified as weak despite its reactive nature, and consists of a hydrogen atom and an atom of the most electronegative halogen.": {
+    "guess": "Hydrofluoric acid",
+    "confidence": [
+      [
+        "Hyd",
+        -0.00015312091
+      ],
+      [
+        "ro",
+        -2.319992e-05
+      ],
+      [
+        "flu",
+        -4.3202e-07
+      ],
+      [
+        "oric",
+        0.0
+      ],
+      [
+        " acid",
+        -3.5313153e-06
+      ]
+    ]
+  },
+  "One use is to determine the electric potential need to maintain a given ion concentration across a membrane.": {
+    "guess": "Nernst equation",
+    "confidence": [
+      [
+        "N",
+        -0.0036075553
+      ],
+      [
+        "ern",
+        0.0
+      ],
+      [
+        "st",
+        0.0
+      ],
+      [
+        " equation",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "One use is to determine the electric potential need to maintain a given ion concentration across a membrane. Some pH meters use it to determine the concentration of hydrogen ions by measuring the voltage": {
+    "guess": "Nernst equation",
+    "confidence": [
+      [
+        "N",
+        -0.008618828
+      ],
+      [
+        "ern",
+        0.0
+      ],
+      [
+        "st",
+        0.0
+      ],
+      [
+        " equation",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "One use is to determine the electric potential need to maintain a given ion concentration across a membrane. Some pH meters use it to determine the concentration of hydrogen ions by measuring the voltage on an electrode. However, it is most often used in the other direction, when ion concentrations are": {
+    "guess": "Nernst equation",
+    "confidence": [
+      [
+        "N",
+        -0.5808689
+      ],
+      [
+        "ern",
+        -2.9352968e-06
+      ],
+      [
+        "st",
+        0.0
+      ],
+      [
+        " equation",
+        -2.2007884e-05
+      ]
+    ]
+  },
+  "One use is to determine the electric potential need to maintain a given ion concentration across a membrane. Some pH meters use it to determine the concentration of hydrogen ions by measuring the voltage on an electrode. However, it is most often used in the other direction, when ion concentrations are known, and electrode potential is not. FTP, identify this equation, namesake of a German physical": {
+    "guess": "Nernst equation",
+    "confidence": [
+      [
+        "N",
+        -0.004127792
+      ],
+      [
+        "ern",
+        0.0
+      ],
+      [
+        "st",
+        0.0
+      ],
+      [
+        " equation",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "One use is to determine the electric potential need to maintain a given ion concentration across a membrane. Some pH meters use it to determine the concentration of hydrogen ions by measuring the voltage on an electrode. However, it is most often used in the other direction, when ion concentrations are known, and electrode potential is not. FTP, identify this equation, namesake of a German physical chemist, which predicts cell voltage under non- standard conditions of temperature and concentration.": {
+    "guess": "Nernst equation",
+    "confidence": [
+      [
+        "N",
+        -0.016083756
+      ],
+      [
+        "ern",
+        0.0
+      ],
+      [
+        "st",
+        0.0
+      ],
+      [
+        " equation",
+        -5.4385737e-06
+      ]
+    ]
+  },
+  "It used to be prescribed for skin diseases despite its irritant properties. Its three major types include": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.2545577
+      ]
+    ]
+  },
+  "It used to be prescribed for skin diseases despite its irritant properties. Its three major types include brown, also known as Amosite; blue, or Riebeckite; and white, which is mined from serpertine rocks": {
+    "guess": "Asbestos",
+    "confidence": [
+      [
+        "As",
+        -2.4630364e-05
+      ],
+      [
+        "bestos",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "It used to be prescribed for skin diseases despite its irritant properties. Its three major types include brown, also known as Amosite; blue, or Riebeckite; and white, which is mined from serpertine rocks and known as Chrysotile. Its name is derived from its use in lamp wicks, and its other practical": {
+    "guess": "Asbestos",
+    "confidence": [
+      [
+        "As",
+        -6.511407e-06
+      ],
+      [
+        "bestos",
+        0.0
+      ]
+    ]
+  },
+  "It used to be prescribed for skin diseases despite its irritant properties. Its three major types include brown, also known as Amosite; blue, or Riebeckite; and white, which is mined from serpertine rocks and known as Chrysotile. Its name is derived from its use in lamp wicks, and its other practical uses have included electric oven and hotplate wiring for its electrical insular properties. FTP, identify": {
+    "guess": "Asbestos",
+    "confidence": [
+      [
+        "As",
+        -3.7742768e-05
+      ],
+      [
+        "bestos",
+        0.0
+      ]
+    ]
+  },
+  "It used to be prescribed for skin diseases despite its irritant properties. Its three major types include brown, also known as Amosite; blue, or Riebeckite; and white, which is mined from serpertine rocks and known as Chrysotile. Its name is derived from its use in lamp wicks, and its other practical uses have included electric oven and hotplate wiring for its electrical insular properties. FTP, identify this group of metamorphic and sometimes fibrous minerals that were formerly used in construction": {
+    "guess": "Asbestos",
+    "confidence": [
+      [
+        "As",
+        -1.2233183e-05
+      ],
+      [
+        "bestos",
+        0.0
+      ]
+    ]
+  },
+  "It used to be prescribed for skin diseases despite its irritant properties. Its three major types include brown, also known as Amosite; blue, or Riebeckite; and white, which is mined from serpertine rocks and known as Chrysotile. Its name is derived from its use in lamp wicks, and its other practical uses have included electric oven and hotplate wiring for its electrical insular properties. FTP, identify this group of metamorphic and sometimes fibrous minerals that were formerly used in construction before their carcinogenic properties were realized.": {
+    "guess": "Asbestos",
+    "confidence": [
+      [
+        "As",
+        -5.7961847e-06
+      ],
+      [
+        "bestos",
+        0.0
+      ]
+    ]
+  },
+  "The use of caesium chloride gradients in the presence of ethidium bromide, though time consuming, allows": {
+    "guess": "Density gradient centrifugation",
+    "confidence": [
+      [
+        "Density",
+        -0.59900975
+      ],
+      [
+        " gradient",
+        -0.00024287392
+      ],
+      [
+        " centrif",
+        -0.0024919456
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "The use of caesium chloride gradients in the presence of ethidium bromide, though time consuming, allows for the purification of the supercoiled variety of these. They come in two classes: one that determines": {
+    "guess": "Plasmid",
+    "confidence": [
+      [
+        "Pl",
+        -0.0008550014
+      ],
+      [
+        "asm",
+        0.0
+      ],
+      [
+        "id",
+        -0.0052337637
+      ]
+    ]
+  },
+  "The use of caesium chloride gradients in the presence of ethidium bromide, though time consuming, allows for the purification of the supercoiled variety of these. They come in two classes: one that determines the production of colicins and the other that confers a resistance to antibiotics. The two types": {
+    "guess": "Plasmid",
+    "confidence": [
+      [
+        "Pl",
+        -0.00056208856
+      ],
+      [
+        "asm",
+        0.0
+      ],
+      [
+        "id",
+        -0.00033546583
+      ]
+    ]
+  },
+  "The use of caesium chloride gradients in the presence of ethidium bromide, though time consuming, allows for the purification of the supercoiled variety of these. They come in two classes: one that determines the production of colicins and the other that confers a resistance to antibiotics. The two types are called Col and R Factors. Through the use of endonucleases, they can be \"cut\" and have a foreign": {
+    "guess": "Plasmid",
+    "confidence": [
+      [
+        "Pl",
+        -0.017047536
+      ],
+      [
+        "asm",
+        0.0
+      ],
+      [
+        "id",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The use of caesium chloride gradients in the presence of ethidium bromide, though time consuming, allows for the purification of the supercoiled variety of these. They come in two classes: one that determines the production of colicins and the other that confers a resistance to antibiotics. The two types are called Col and R Factors. Through the use of endonucleases, they can be \"cut\" and have a foreign DNA molecule spliced in. This can then be implanted into a bacterial cell, which will then produce": {
+    "guess": "Plasmid",
+    "confidence": [
+      [
+        "Pl",
+        -0.5004054
+      ],
+      [
+        "asm",
+        0.0
+      ],
+      [
+        "id",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "The use of caesium chloride gradients in the presence of ethidium bromide, though time consuming, allows for the purification of the supercoiled variety of these. They come in two classes: one that determines the production of colicins and the other that confers a resistance to antibiotics. The two types are called Col and R Factors. Through the use of endonucleases, they can be \"cut\" and have a foreign DNA molecule spliced in. This can then be implanted into a bacterial cell, which will then produce copies of the DNA molecule. FTP name these circular DNA molecules that replicate independently": {
+    "guess": "Plasmid",
+    "confidence": [
+      [
+        "Pl",
+        -0.00040087933
+      ],
+      [
+        "asm",
+        0.0
+      ],
+      [
+        "id",
+        -8.4947416e-05
+      ]
+    ]
+  },
+  "The use of caesium chloride gradients in the presence of ethidium bromide, though time consuming, allows for the purification of the supercoiled variety of these. They come in two classes: one that determines the production of colicins and the other that confers a resistance to antibiotics. The two types are called Col and R Factors. Through the use of endonucleases, they can be \"cut\" and have a foreign DNA molecule spliced in. This can then be implanted into a bacterial cell, which will then produce copies of the DNA molecule. FTP name these circular DNA molecules that replicate independently of the bacterial chromosome.": {
+    "guess": "Plasmid",
+    "confidence": [
+      [
+        "Pl",
+        -0.00014609157
+      ],
+      [
+        "asm",
+        0.0
+      ],
+      [
+        "id",
+        0.0
+      ]
+    ]
+  },
+  "It can be used to calculate transport coefficients, such as conductivity. First proposed in 1872, it": {
+    "guess": "Boltzmann equation",
+    "confidence": [
+      [
+        "Bol",
+        -0.022132317
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        "mann",
+        0.0
+      ],
+      [
+        " equation",
+        -0.0007119551
+      ]
+    ]
+  },
+  "It can be used to calculate transport coefficients, such as conductivity. First proposed in 1872, it describes a function that gives a mathematical description of a state and how it is changing. This function": {
+    "guess": "Boltzmann equation",
+    "confidence": [
+      [
+        "Bol",
+        -0.011501751
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        "mann",
+        0.0
+      ],
+      [
+        " equation",
+        -0.20149335
+      ]
+    ]
+  },
+  "It can be used to calculate transport coefficients, such as conductivity. First proposed in 1872, it describes a function that gives a mathematical description of a state and how it is changing. This function depends on a position vector, a velocity vector, and time; this equation thus provides a statistical": {
+    "guess": "Boltzmann equation",
+    "confidence": [
+      [
+        "Bol",
+        -0.0022086622
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        "mann",
+        0.0
+      ],
+      [
+        " equation",
+        -0.0011868956
+      ]
+    ]
+  },
+  "It can be used to calculate transport coefficients, such as conductivity. First proposed in 1872, it describes a function that gives a mathematical description of a state and how it is changing. This function depends on a position vector, a velocity vector, and time; this equation thus provides a statistical statement about the positions and velocities of the particles at any time. FTP, identify this": {
+    "guess": "Boltzmann equation",
+    "confidence": [
+      [
+        "Bol",
+        -0.005816806
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        "mann",
+        0.0
+      ],
+      [
+        " equation",
+        -0.6933949
+      ]
+    ]
+  },
+  "It can be used to calculate transport coefficients, such as conductivity. First proposed in 1872, it describes a function that gives a mathematical description of a state and how it is changing. This function depends on a position vector, a velocity vector, and time; this equation thus provides a statistical statement about the positions and velocities of the particles at any time. FTP, identify this equation named after a 19th century Austrian physicist that is used in the study of a collection": {
+    "guess": "Boltzmann equation",
+    "confidence": [
+      [
+        "Bol",
+        -0.003981278
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        "mann",
+        0.0
+      ],
+      [
+        " equation",
+        -0.00013715129
+      ]
+    ]
+  },
+  "It can be used to calculate transport coefficients, such as conductivity. First proposed in 1872, it describes a function that gives a mathematical description of a state and how it is changing. This function depends on a position vector, a velocity vector, and time; this equation thus provides a statistical statement about the positions and velocities of the particles at any time. FTP, identify this equation named after a 19th century Austrian physicist that is used in the study of a collection of particles in non- equilibrium statistical mechanics.": {
+    "guess": "Boltzmann equation",
+    "confidence": [
+      [
+        "Bol",
+        -0.0019662238
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        "mann",
+        0.0
+      ],
+      [
+        " equation",
+        -1.6643718e-05
+      ]
+    ]
+  },
+  "He used a death mask as a cast for his bronze tomb cover of Leonardo Dati, and he created a bronze shrine": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -0.1857044
+      ],
+      [
+        "at",
+        -5.5122365e-07
+      ],
+      [
+        "ello",
+        0.0
+      ]
+    ]
+  },
+  "He used a death mask as a cast for his bronze tomb cover of Leonardo Dati, and he created a bronze shrine featuring The Miracle of the Ox-cart and The Miracle of the Strozzi boy for the Chapel of Zenobius.": {
+    "guess": "Lorenzo Ghiberti",
+    "confidence": [
+      [
+        "L",
+        -0.15043238
+      ],
+      [
+        "oren",
+        -0.008615161
+      ],
+      [
+        "zo",
+        0.0
+      ],
+      [
+        " G",
+        -1.504853e-06
+      ],
+      [
+        "hib",
+        -1.504853e-06
+      ],
+      [
+        "erti",
+        0.0
+      ]
+    ]
+  },
+  "He used a death mask as a cast for his bronze tomb cover of Leonardo Dati, and he created a bronze shrine featuring The Miracle of the Ox-cart and The Miracle of the Strozzi boy for the Chapel of Zenobius. Cosimo and Lorenzo Medici commissioned him to create the shrine of SS Protus, Hyacinth and Nemesius": {
+    "guess": "Luca della Robbia",
+    "confidence": [
+      [
+        "L",
+        -0.041312765
+      ],
+      [
+        "uca",
+        -0.25194436
+      ],
+      [
+        " della",
+        -0.0003396343
+      ],
+      [
+        " Rob",
+        -1.9361265e-07
+      ],
+      [
+        "bia",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "He used a death mask as a cast for his bronze tomb cover of Leonardo Dati, and he created a bronze shrine featuring The Miracle of the Ox-cart and The Miracle of the Strozzi boy for the Chapel of Zenobius. Cosimo and Lorenzo Medici commissioned him to create the shrine of SS Protus, Hyacinth and Nemesius for the Santa Maria degli Angeli. He created oversized sculptures of St John the Baptist and St.": {
+    "guess": "Lorenzo Ghiberti",
+    "confidence": [
+      [
+        "L",
+        -0.36820954
+      ],
+      [
+        "oren",
+        -0.0052342406
+      ],
+      [
+        "zo",
+        0.0
+      ],
+      [
+        " G",
+        -1.9361265e-07
+      ],
+      [
+        "hib",
+        -5.5122365e-07
+      ],
+      [
+        "erti",
+        0.0
+      ]
+    ]
+  },
+  "He used a death mask as a cast for his bronze tomb cover of Leonardo Dati, and he created a bronze shrine featuring The Miracle of the Ox-cart and The Miracle of the Strozzi boy for the Chapel of Zenobius. Cosimo and Lorenzo Medici commissioned him to create the shrine of SS Protus, Hyacinth and Nemesius for the Santa Maria degli Angeli. He created oversized sculptures of St John the Baptist and St. Matthew for the Orsanmichele, but he is better- known for a commission gained as the result of a competition": {
+    "guess": "Lorenzo Ghiberti",
+    "confidence": [
+      [
+        "L",
+        -0.21454895
+      ],
+      [
+        "oren",
+        0.0
+      ],
+      [
+        "zo",
+        0.0
+      ],
+      [
+        " G",
+        0.0
+      ],
+      [
+        "hib",
+        -7.89631e-07
+      ],
+      [
+        "erti",
+        0.0
+      ]
+    ]
+  },
+  "He used a death mask as a cast for his bronze tomb cover of Leonardo Dati, and he created a bronze shrine featuring The Miracle of the Ox-cart and The Miracle of the Strozzi boy for the Chapel of Zenobius. Cosimo and Lorenzo Medici commissioned him to create the shrine of SS Protus, Hyacinth and Nemesius for the Santa Maria degli Angeli. He created oversized sculptures of St John the Baptist and St. Matthew for the Orsanmichele, but he is better- known for a commission gained as the result of a competition with Brunelleschi. For 10 points,, name this artist responsible for the bronze reliefs on": {
+    "guess": "Lorenzo Ghiberti",
+    "confidence": [
+      [
+        "L",
+        -0.1754272
+      ],
+      [
+        "oren",
+        0.0
+      ],
+      [
+        "zo",
+        0.0
+      ],
+      [
+        " G",
+        0.0
+      ],
+      [
+        "hib",
+        -5.5122365e-07
+      ],
+      [
+        "erti",
+        0.0
+      ]
+    ]
+  },
+  "He used a death mask as a cast for his bronze tomb cover of Leonardo Dati, and he created a bronze shrine featuring The Miracle of the Ox-cart and The Miracle of the Strozzi boy for the Chapel of Zenobius. Cosimo and Lorenzo Medici commissioned him to create the shrine of SS Protus, Hyacinth and Nemesius for the Santa Maria degli Angeli. He created oversized sculptures of St John the Baptist and St. Matthew for the Orsanmichele, but he is better- known for a commission gained as the result of a competition with Brunelleschi. For 10 points,, name this artist responsible for the bronze reliefs on the doors of the Florence Baptistry, also known as the Gates of Paradise.": {
+    "guess": "Lorenzo Ghiberti",
+    "confidence": [
+      [
+        "L",
+        -0.02287888
+      ],
+      [
+        "oren",
+        0.0
+      ],
+      [
+        "zo",
+        0.0
+      ],
+      [
+        " G",
+        0.0
+      ],
+      [
+        "hib",
+        -1.147242e-06
+      ],
+      [
+        "erti",
+        0.0
+      ]
+    ]
+  },
+  "This man used the word \"amative\" to describe the love of man for woman and the word \"adhesive\" to describe": {
+    "guess": "Walt Whitman",
+    "confidence": [
+      [
+        "W",
+        -0.11611372
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " Whit",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ]
+    ]
+  },
+  "This man used the word \"amative\" to describe the love of man for woman and the word \"adhesive\" to describe the love of man for man; the former type dominates his cycle of poems called \"Children of Adam,\"": {
+    "guess": "Walt Whitman",
+    "confidence": [
+      [
+        "W",
+        -0.0054733986
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " Whit",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ]
+    ]
+  },
+  "This man used the word \"amative\" to describe the love of man for woman and the word \"adhesive\" to describe the love of man for man; the former type dominates his cycle of poems called \"Children of Adam,\" while the latter dominates his \"Calamus\" cycle. He describes becoming \"tired and sick\" during the": {
+    "guess": "Walt Whitman",
+    "confidence": [
+      [
+        "W",
+        -0.00965114
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " Whit",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ]
+    ]
+  },
+  "This man used the word \"amative\" to describe the love of man for woman and the word \"adhesive\" to describe the love of man for man; the former type dominates his cycle of poems called \"Children of Adam,\" while the latter dominates his \"Calamus\" cycle. He describes becoming \"tired and sick\" during the title time and later looking up \"in perfect silence at the stars\" in his \"When I Heard the Learn'd": {
+    "guess": "Walt Whitman",
+    "confidence": [
+      [
+        "W",
+        -0.17257403
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " Whit",
+        0.0
+      ],
+      [
+        "man",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man used the word \"amative\" to describe the love of man for woman and the word \"adhesive\" to describe the love of man for man; the former type dominates his cycle of poems called \"Children of Adam,\" while the latter dominates his \"Calamus\" cycle. He describes becoming \"tired and sick\" during the title time and later looking up \"in perfect silence at the stars\" in his \"When I Heard the Learn'd Astronomer,\" while in another poem he describes the \"Flood-tide below me!\" in \"Crossing Brooklyn Ferry.\"": {
+    "guess": "Walt Whitman",
+    "confidence": [
+      [
+        "W",
+        -0.01019646
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " Whit",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ]
+    ]
+  },
+  "This man used the word \"amative\" to describe the love of man for woman and the word \"adhesive\" to describe the love of man for man; the former type dominates his cycle of poems called \"Children of Adam,\" while the latter dominates his \"Calamus\" cycle. He describes becoming \"tired and sick\" during the title time and later looking up \"in perfect silence at the stars\" in his \"When I Heard the Learn'd Astronomer,\" while in another poem he describes the \"Flood-tide below me!\" in \"Crossing Brooklyn Ferry.\" FTP name this American author who included these works, as well as the massive \"Song of Myself,\"": {
+    "guess": "Walt Whitman",
+    "confidence": [
+      [
+        "W",
+        -0.008797389
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " Whit",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ]
+    ]
+  },
+  "This man used the word \"amative\" to describe the love of man for woman and the word \"adhesive\" to describe the love of man for man; the former type dominates his cycle of poems called \"Children of Adam,\" while the latter dominates his \"Calamus\" cycle. He describes becoming \"tired and sick\" during the title time and later looking up \"in perfect silence at the stars\" in his \"When I Heard the Learn'd Astronomer,\" while in another poem he describes the \"Flood-tide below me!\" in \"Crossing Brooklyn Ferry.\" FTP name this American author who included these works, as well as the massive \"Song of Myself,\" in his ever-growing collection Leaves of Grass.": {
+    "guess": "Walt Whitman",
+    "confidence": [
+      [
+        "W",
+        -0.009730826
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " Whit",
+        0.0
+      ],
+      [
+        "man",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "He used a figure in Antonio Pollaiuolo's The Rape of Deianira as the model for Hercules in his Hercules": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.215672
+      ]
+    ]
+  },
+  "He used a figure in Antonio Pollaiuolo's The Rape of Deianira as the model for Hercules in his Hercules and the Birds of Stymphalis.  \"The Drummer and Piper\" and \"Job and His Wife\" are the two side panels": {
+    "guess": "Lucas Cranach the Elder",
+    "confidence": [
+      [
+        "Lucas",
+        -0.2725041
+      ],
+      [
+        " Cran",
+        -0.0076080402
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        " the",
+        -6.749814e-06
+      ],
+      [
+        " Elder",
+        -1.0325924e-05
+      ]
+    ]
+  },
+  "He used a figure in Antonio Pollaiuolo's The Rape of Deianira as the model for Hercules in his Hercules and the Birds of Stymphalis.  \"The Drummer and Piper\" and \"Job and His Wife\" are the two side panels of this man's Altar of the Three Kings, and portraits by this man include those of Oswolt Krel and": {
+    "guess": "Hans Baldung",
+    "confidence": [
+      [
+        "Hans",
+        -0.006208428
+      ],
+      [
+        " Bald",
+        -0.0056661563
+      ],
+      [
+        "ung",
+        0.0
+      ]
+    ]
+  },
+  "He used a figure in Antonio Pollaiuolo's The Rape of Deianira as the model for Hercules in his Hercules and the Birds of Stymphalis.  \"The Drummer and Piper\" and \"Job and His Wife\" are the two side panels of this man's Altar of the Three Kings, and portraits by this man include those of Oswolt Krel and the Tucher family.  He may be best known for a work that includes an hour glass, an empty balance": {
+    "guess": "Hans Baldung",
+    "confidence": [
+      [
+        "Hans",
+        -0.0048887236
+      ],
+      [
+        " Bald",
+        -0.055385217
+      ],
+      [
+        "ung",
+        0.0
+      ]
+    ]
+  },
+  "He used a figure in Antonio Pollaiuolo's The Rape of Deianira as the model for Hercules in his Hercules and the Birds of Stymphalis.  \"The Drummer and Piper\" and \"Job and His Wife\" are the two side panels of this man's Altar of the Three Kings, and portraits by this man include those of Oswolt Krel and the Tucher family.  He may be best known for a work that includes an hour glass, an empty balance scale, a polyhedron with a skull on it, and a magic square which gives the date of the work, 1514,": {
+    "guess": "Albrecht D\u00fcrer",
+    "confidence": [
+      [
+        "Al",
+        -0.02789098
+      ],
+      [
+        "brecht",
+        -5.5122365e-07
+      ],
+      [
+        " D",
+        -1.50940705e-05
+      ],
+      [
+        "\u00fcr",
+        -1.9361265e-07
+      ],
+      [
+        "er",
+        0.0
+      ]
+    ]
+  },
+  "He used a figure in Antonio Pollaiuolo's The Rape of Deianira as the model for Hercules in his Hercules and the Birds of Stymphalis.  \"The Drummer and Piper\" and \"Job and His Wife\" are the two side panels of this man's Altar of the Three Kings, and portraits by this man include those of Oswolt Krel and the Tucher family.  He may be best known for a work that includes an hour glass, an empty balance scale, a polyhedron with a skull on it, and a magic square which gives the date of the work, 1514, in the middle two cells.  Also known for woodcuts like his Apocalypse series, for 10 points, name this": {
+    "guess": "Albrecht D\u00fcrer",
+    "confidence": [
+      [
+        "Al",
+        -0.033194456
+      ],
+      [
+        "brecht",
+        -4.3202e-07
+      ],
+      [
+        " D",
+        -1.504853e-06
+      ],
+      [
+        "\u00fcr",
+        -1.9361265e-07
+      ],
+      [
+        "er",
+        0.0
+      ]
+    ]
+  },
+  "He used a figure in Antonio Pollaiuolo's The Rape of Deianira as the model for Hercules in his Hercules and the Birds of Stymphalis.  \"The Drummer and Piper\" and \"Job and His Wife\" are the two side panels of this man's Altar of the Three Kings, and portraits by this man include those of Oswolt Krel and the Tucher family.  He may be best known for a work that includes an hour glass, an empty balance scale, a polyhedron with a skull on it, and a magic square which gives the date of the work, 1514, in the middle two cells.  Also known for woodcuts like his Apocalypse series, for 10 points, name this German engraver of Melancholia I.": {
+    "guess": "Albrecht D\u00fcrer",
+    "confidence": [
+      [
+        "Al",
+        -0.012165354
+      ],
+      [
+        "brecht",
+        0.0
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "\u00fcr",
+        0.0
+      ],
+      [
+        "er",
+        0.0
+      ]
+    ]
+  },
+  "The most useful algorithm for computing it is named after Odlyzko and Schonhage, and is far more computationally": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -1.1239624
+      ]
+    ]
+  },
+  "The most useful algorithm for computing it is named after Odlyzko and Schonhage, and is far more computationally efficient than the algorithm named partly after Siegel.  Beukers' integral is used to approximate": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.026530067
+      ]
+    ]
+  },
+  "The most useful algorithm for computing it is named after Odlyzko and Schonhage, and is far more computationally efficient than the algorithm named partly after Siegel.  Beukers' integral is used to approximate one value of it; that value was proven to be irrational and is known as Apery's constant.": {
+    "guess": "Zeta function",
+    "confidence": [
+      [
+        "Z",
+        -0.4276909
+      ],
+      [
+        "eta",
+        -1.1279553e-05
+      ],
+      [
+        " function",
+        -0.03144729
+      ]
+    ]
+  },
+  "The most useful algorithm for computing it is named after Odlyzko and Schonhage, and is far more computationally efficient than the algorithm named partly after Siegel.  Beukers' integral is used to approximate one value of it; that value was proven to be irrational and is known as Apery's constant.  Trivial zeroes exist at every even negative integer, while if its nontrivial zeroes have real part": {
+    "guess": "Riemann zeta function",
+    "confidence": [
+      [
+        "R",
+        -0.0066375714
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        "ann",
+        0.0
+      ],
+      [
+        " z",
+        -7.89631e-07
+      ],
+      [
+        "eta",
+        0.0
+      ],
+      [
+        " function",
+        0.0
+      ]
+    ]
+  },
+  "The most useful algorithm for computing it is named after Odlyzko and Schonhage, and is far more computationally efficient than the algorithm named partly after Siegel.  Beukers' integral is used to approximate one value of it; that value was proven to be irrational and is known as Apery's constant.  Trivial zeroes exist at every even negative integer, while if its nontrivial zeroes have real part equal to one half, and thus lie on the critical line, its namesake hypothesis is satisfied.  FTP, name": {
+    "guess": "Riemann zeta function",
+    "confidence": [
+      [
+        "R",
+        -0.004877689
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        "ann",
+        0.0
+      ],
+      [
+        " z",
+        -2.1008714e-06
+      ],
+      [
+        "eta",
+        0.0
+      ],
+      [
+        " function",
+        0.0
+      ]
+    ]
+  },
+  "The most useful algorithm for computing it is named after Odlyzko and Schonhage, and is far more computationally efficient than the algorithm named partly after Siegel.  Beukers' integral is used to approximate one value of it; that value was proven to be irrational and is known as Apery's constant.  Trivial zeroes exist at every even negative integer, while if its nontrivial zeroes have real part equal to one half, and thus lie on the critical line, its namesake hypothesis is satisfied.  FTP, name this function from number theory, linked to the prime number theorem, named after a German mathematician": {
+    "guess": "Riemann zeta function",
+    "confidence": [
+      [
+        "R",
+        -0.0027429354
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        "ann",
+        0.0
+      ],
+      [
+        " z",
+        -1.9361265e-07
+      ],
+      [
+        "eta",
+        0.0
+      ],
+      [
+        " function",
+        0.0
+      ]
+    ]
+  },
+  "The most useful algorithm for computing it is named after Odlyzko and Schonhage, and is far more computationally efficient than the algorithm named partly after Siegel.  Beukers' integral is used to approximate one value of it; that value was proven to be irrational and is known as Apery's constant.  Trivial zeroes exist at every even negative integer, while if its nontrivial zeroes have real part equal to one half, and thus lie on the critical line, its namesake hypothesis is satisfied.  FTP, name this function from number theory, linked to the prime number theorem, named after a German mathematician who was also the namesake of a method of summation in calculus.": {
+    "guess": "Riemann zeta function",
+    "confidence": [
+      [
+        "R",
+        -0.00608368
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        "ann",
+        0.0
+      ],
+      [
+        " z",
+        -1.8624639e-06
+      ],
+      [
+        "eta",
+        0.0
+      ],
+      [
+        " function",
+        0.0
+      ]
+    ]
+  },
+  "It is used to calculate the probability of human matings that may result in defective offspring, and": {
+    "guess": "Punnett square",
+    "confidence": [
+      [
+        "Pun",
+        -0.20842698
+      ],
+      [
+        "nett",
+        -6.6113236e-05
+      ],
+      [
+        " square",
+        -0.0036019748
+      ]
+    ]
+  },
+  "It is used to calculate the probability of human matings that may result in defective offspring, and to determine whether the number of harmful mutations in a population is increasing. In a large, random-mating": {
+    "guess": "Hardy\u2013Weinberg principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.019782724
+      ],
+      [
+        "y",
+        -3.1281633e-07
+      ],
+      [
+        "\u2013",
+        -0.00033558503
+      ],
+      [
+        "We",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ],
+      [
+        " principle",
+        -0.0002321456
+      ]
+    ]
+  },
+  "It is used to calculate the probability of human matings that may result in defective offspring, and to determine whether the number of harmful mutations in a population is increasing. In a large, random-mating population, the proportion of dominant and recessive genes tends to remain constant from generation": {
+    "guess": "Hardy-Weinberg principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.00023154958
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "-We",
+        -0.00055303273
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ],
+      [
+        " principle",
+        -0.0019521837
+      ]
+    ]
+  },
+  "It is used to calculate the probability of human matings that may result in defective offspring, and to determine whether the number of harmful mutations in a population is increasing. In a large, random-mating population, the proportion of dominant and recessive genes tends to remain constant from generation to generation unless outside forces such as selection, mutation, gene flow, and natural selection": {
+    "guess": "Hardy-Weinberg principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.0068919123
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "-We",
+        -0.00043066923
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ],
+      [
+        " principle",
+        -0.011873133
+      ]
+    ]
+  },
+  "It is used to calculate the probability of human matings that may result in defective offspring, and to determine whether the number of harmful mutations in a population is increasing. In a large, random-mating population, the proportion of dominant and recessive genes tends to remain constant from generation to generation unless outside forces such as selection, mutation, gene flow, and natural selection act to change it. FTP, what is this principle named for two scientists that describes genetic": {
+    "guess": "Hardy-Weinberg principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.00010568886
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "-We",
+        -0.0052337637
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ],
+      [
+        " principle",
+        -0.002710011
+      ]
+    ]
+  },
+  "It is used to calculate the probability of human matings that may result in defective offspring, and to determine whether the number of harmful mutations in a population is increasing. In a large, random-mating population, the proportion of dominant and recessive genes tends to remain constant from generation to generation unless outside forces such as selection, mutation, gene flow, and natural selection act to change it. FTP, what is this principle named for two scientists that describes genetic balance within a population?": {
+    "guess": "Hardy-Weinberg principle",
+    "confidence": [
+      [
+        "Hard",
+        -0.00015502817
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "-We",
+        -0.0052337637
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ],
+      [
+        " principle",
+        -0.0026033642
+      ]
+    ]
+  },
+  "They are used in computer science for simplification of complex logical functions. By drawing this sort": {
+    "guess": "Karnaugh map",
+    "confidence": [
+      [
+        "K",
+        -0.019380122
+      ],
+      [
+        "arn",
+        -3.1281633e-07
+      ],
+      [
+        "augh",
+        -1.700133e-05
+      ],
+      [
+        " map",
+        -0.0076134945
+      ]
+    ]
+  },
+  "They are used in computer science for simplification of complex logical functions. By drawing this sort of table of elements and selecting either ones or zeroes according to certain rules, terms of logical": {
+    "guess": "Karnaugh map",
+    "confidence": [
+      [
+        "K",
+        -0.0004654657
+      ],
+      [
+        "arn",
+        -4.9617593e-06
+      ],
+      [
+        "augh",
+        -6.706687e-05
+      ],
+      [
+        " map",
+        -0.033663906
+      ]
+    ]
+  },
+  "They are used in computer science for simplification of complex logical functions. By drawing this sort of table of elements and selecting either ones or zeroes according to certain rules, terms of logical expressions with many variables can be simplified. FTP, what are these drawings, developed in 1953": {
+    "guess": "Karnaugh map",
+    "confidence": [
+      [
+        "K",
+        -0.00044330113
+      ],
+      [
+        "arn",
+        -1.0280384e-06
+      ],
+      [
+        "augh",
+        -1.7597347e-05
+      ],
+      [
+        " map",
+        -0.02480802
+      ]
+    ]
+  },
+  "They are used in computer science for simplification of complex logical functions. By drawing this sort of table of elements and selecting either ones or zeroes according to certain rules, terms of logical expressions with many variables can be simplified. FTP, what are these drawings, developed in 1953 and named for their inventor?": {
+    "guess": "Karnaugh map",
+    "confidence": [
+      [
+        "K",
+        -3.166338e-05
+      ],
+      [
+        "arn",
+        -3.1281633e-07
+      ],
+      [
+        "augh",
+        -1.50940705e-05
+      ],
+      [
+        " map",
+        -0.035630673
+      ]
+    ]
+  },
+  "This man used Operation Quicksilver to conceal an invasion, and this man was criticized by the GI General": {
+    "guess": "Dwight D. Eisenhower",
+    "confidence": [
+      [
+        "Dw",
+        -0.07195289
+      ],
+      [
+        "ight",
+        0.0
+      ],
+      [
+        " D",
+        -1.9816675e-06
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Eisen",
+        0.0
+      ],
+      [
+        "hower",
+        0.0
+      ]
+    ]
+  },
+  "This man used Operation Quicksilver to conceal an invasion, and this man was criticized by the GI General for having a poor grasp of tactics. This man oversaw the Battle of Falaise pocket, and he ordered": {
+    "guess": "Dwight D. Eisenhower",
+    "confidence": [
+      [
+        "Dw",
+        -0.39136449
+      ],
+      [
+        "ight",
+        0.0
+      ],
+      [
+        " D",
+        -4.3202e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Eisen",
+        0.0
+      ],
+      [
+        "hower",
+        0.0
+      ]
+    ]
+  },
+  "This man used Operation Quicksilver to conceal an invasion, and this man was criticized by the GI General for having a poor grasp of tactics. This man oversaw the Battle of Falaise pocket, and he ordered the seventh army under George S. Patton to take Messina in accordance with General Montgomery's invasion": {
+    "guess": "Dwight D. Eisenhower",
+    "confidence": [
+      [
+        "Dw",
+        -0.08876125
+      ],
+      [
+        "ight",
+        0.0
+      ],
+      [
+        " D",
+        -1.9361265e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Eisen",
+        0.0
+      ],
+      [
+        "hower",
+        0.0
+      ]
+    ]
+  },
+  "This man used Operation Quicksilver to conceal an invasion, and this man was criticized by the GI General for having a poor grasp of tactics. This man oversaw the Battle of Falaise pocket, and he ordered the seventh army under George S. Patton to take Messina in accordance with General Montgomery's invasion plan. He authorized the execution of Eddie Slovik for desertion, and organized Operation Overlord.": {
+    "guess": "Dwight D. Eisenhower",
+    "confidence": [
+      [
+        "Dw",
+        -0.0091720335
+      ],
+      [
+        "ight",
+        0.0
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Eisen",
+        0.0
+      ],
+      [
+        "hower",
+        0.0
+      ]
+    ]
+  },
+  "This man used Operation Quicksilver to conceal an invasion, and this man was criticized by the GI General for having a poor grasp of tactics. This man oversaw the Battle of Falaise pocket, and he ordered the seventh army under George S. Patton to take Messina in accordance with General Montgomery's invasion plan. He authorized the execution of Eddie Slovik for desertion, and organized Operation Overlord. For 10 points, name this man, who served as the Supreme Commander of Allied forces in WWII and": {
+    "guess": "Dwight D. Eisenhower",
+    "confidence": [
+      [
+        "Dw",
+        -0.001188326
+      ],
+      [
+        "ight",
+        0.0
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Eisen",
+        0.0
+      ],
+      [
+        "hower",
+        0.0
+      ]
+    ]
+  },
+  "This man used Operation Quicksilver to conceal an invasion, and this man was criticized by the GI General for having a poor grasp of tactics. This man oversaw the Battle of Falaise pocket, and he ordered the seventh army under George S. Patton to take Messina in accordance with General Montgomery's invasion plan. He authorized the execution of Eddie Slovik for desertion, and organized Operation Overlord. For 10 points, name this man, who served as the Supreme Commander of Allied forces in WWII and oversaw the Normandy landing on D-Day.": {
+    "guess": "Dwight D. Eisenhower",
+    "confidence": [
+      [
+        "Dw",
+        -0.12825683
+      ],
+      [
+        "ight",
+        0.0
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Eisen",
+        0.0
+      ],
+      [
+        "hower",
+        0.0
+      ]
+    ]
+  },
+  "This man used Divine intervention to explain anomalies that were later accounted for in Laplace's calculus": {
+    "guess": "Isaac Newton",
+    "confidence": [
+      [
+        "Isa",
+        -0.040124055
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " Newton",
+        0.0
+      ]
+    ]
+  },
+  "This man used Divine intervention to explain anomalies that were later accounted for in Laplace's calculus of variations. As part of this man's studies of alchemy, he translated the Emerald tablet, and": {
+    "guess": "Isaac Newton",
+    "confidence": [
+      [
+        "Isa",
+        -0.048925363
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " Newton",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man used Divine intervention to explain anomalies that were later accounted for in Laplace's calculus of variations. As part of this man's studies of alchemy, he translated the Emerald tablet, and he thought the world would end after 2060. In his more serious scientific endeavors, he related an": {
+    "guess": "Isaac Newton",
+    "confidence": [
+      [
+        "Isa",
+        -0.03016523
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " Newton",
+        0.0
+      ]
+    ]
+  },
+  "This man used Divine intervention to explain anomalies that were later accounted for in Laplace's calculus of variations. As part of this man's studies of alchemy, he translated the Emerald tablet, and he thought the world would end after 2060. In his more serious scientific endeavors, he related an object's temperature and the ambient temperature to its rate of (*) cooling. He gave a mathematical": {
+    "guess": "Isaac Newton",
+    "confidence": [
+      [
+        "Isa",
+        -0.16095772
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " Newton",
+        0.0
+      ]
+    ]
+  },
+  "This man used Divine intervention to explain anomalies that were later accounted for in Laplace's calculus of variations. As part of this man's studies of alchemy, he translated the Emerald tablet, and he thought the world would end after 2060. In his more serious scientific endeavors, he related an object's temperature and the ambient temperature to its rate of (*) cooling. He gave a mathematical basis to Kepler's laws of planetary motion in his Philosophiae Naturalis Principia Mathematica, which": {
+    "guess": "Isaac Newton",
+    "confidence": [
+      [
+        "Isa",
+        -0.026044117
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " Newton",
+        0.0
+      ]
+    ]
+  },
+  "This man used Divine intervention to explain anomalies that were later accounted for in Laplace's calculus of variations. As part of this man's studies of alchemy, he translated the Emerald tablet, and he thought the world would end after 2060. In his more serious scientific endeavors, he related an object's temperature and the ambient temperature to its rate of (*) cooling. He gave a mathematical basis to Kepler's laws of planetary motion in his Philosophiae Naturalis Principia Mathematica, which also contains his universal law of gravitation. For 10 points, name this English scientist who developed": {
+    "guess": "Isaac Newton",
+    "confidence": [
+      [
+        "Isa",
+        -0.00037943368
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " Newton",
+        0.0
+      ]
+    ]
+  },
+  "This man used Divine intervention to explain anomalies that were later accounted for in Laplace's calculus of variations. As part of this man's studies of alchemy, he translated the Emerald tablet, and he thought the world would end after 2060. In his more serious scientific endeavors, he related an object's temperature and the ambient temperature to its rate of (*) cooling. He gave a mathematical basis to Kepler's laws of planetary motion in his Philosophiae Naturalis Principia Mathematica, which also contains his universal law of gravitation. For 10 points, name this English scientist who developed three laws of motion and discovered calculus concurrently with Leibniz.": {
+    "guess": "Isaac Newton",
+    "confidence": [
+      [
+        "Isa",
+        -0.00024406596
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        " Newton",
+        0.0
+      ]
+    ]
+  },
+  "This man used a square box with reliefs on each of its four sides as the base for his depiction of Judith": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -0.006296818
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ]
+    ]
+  },
+  "This man used a square box with reliefs on each of its four sides as the base for his depiction of Judith beheading Holofernes. He depicted a sick, ragged woman in his wooden sculpture Penitent Magdalene,": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -0.020718815
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ]
+    ]
+  },
+  "This man used a square box with reliefs on each of its four sides as the base for his depiction of Judith beheading Holofernes. He depicted a sick, ragged woman in his wooden sculpture Penitent Magdalene, and his statue of Habacuc was nicknamed Zuccone due to its bald head. One of this sculptor's works": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -0.0041110544
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ]
+    ]
+  },
+  "This man used a square box with reliefs on each of its four sides as the base for his depiction of Judith beheading Holofernes. He depicted a sick, ragged woman in his wooden sculpture Penitent Magdalene, and his statue of Habacuc was nicknamed Zuccone due to its bald head. One of this sculptor's works is located outside the Basilica of St. Anthony, and features a spurred Erasmo da Narni. Another one": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -0.0024736358
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ]
+    ]
+  },
+  "This man used a square box with reliefs on each of its four sides as the base for his depiction of Judith beheading Holofernes. He depicted a sick, ragged woman in his wooden sculpture Penitent Magdalene, and his statue of Habacuc was nicknamed Zuccone due to its bald head. One of this sculptor's works is located outside the Basilica of St. Anthony, and features a spurred Erasmo da Narni. Another one of his works is considered the first freestanding male nude made since antiquity, and features an": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -0.00014454192
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ]
+    ]
+  },
+  "This man used a square box with reliefs on each of its four sides as the base for his depiction of Judith beheading Holofernes. He depicted a sick, ragged woman in his wooden sculpture Penitent Magdalene, and his statue of Habacuc was nicknamed Zuccone due to its bald head. One of this sculptor's works is located outside the Basilica of St. Anthony, and features a spurred Erasmo da Narni. Another one of his works is considered the first freestanding male nude made since antiquity, and features an effeminate young man holding a sword while standing over the head of his enemy. For 10 points, name": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -0.0011829656
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ]
+    ]
+  },
+  "This man used a square box with reliefs on each of its four sides as the base for his depiction of Judith beheading Holofernes. He depicted a sick, ragged woman in his wooden sculpture Penitent Magdalene, and his statue of Habacuc was nicknamed Zuccone due to its bald head. One of this sculptor's works is located outside the Basilica of St. Anthony, and features a spurred Erasmo da Narni. Another one of his works is considered the first freestanding male nude made since antiquity, and features an effeminate young man holding a sword while standing over the head of his enemy. For 10 points, name this Renaissance sculptor of the equestrian Gattamelata and a bronze statue of David.": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -0.001937439
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ]
+    ]
+  }
+}

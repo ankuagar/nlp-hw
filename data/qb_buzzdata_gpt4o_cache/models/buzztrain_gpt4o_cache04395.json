@@ -1,0 +1,231 @@
+{
+  "M?ller-Plesset Theory calculates their Hamiltonian as the sum of their Hartree-Fock operators and a perturbation,": {
+    "guess": "M\u00f8ller\u2013Plesset perturbation theory",
+    "confidence": [
+      [
+        "M",
+        -0.35948786
+      ],
+      [
+        "\u00f8",
+        -0.26336637
+      ],
+      [
+        "ller",
+        -1.9361265e-07
+      ],
+      [
+        "\u2013",
+        -0.06197889
+      ],
+      [
+        "Pl",
+        0.0
+      ],
+      [
+        "ess",
+        0.0
+      ],
+      [
+        "et",
+        0.0
+      ],
+      [
+        " perturb",
+        -3.9292416e-05
+      ],
+      [
+        "ation",
+        0.0
+      ],
+      [
+        " theory",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "M?ller-Plesset Theory calculates their Hamiltonian as the sum of their Hartree-Fock operators and a perturbation, while for simple substances correcting for deviations from the Born-Oppenheimer approximation": {
+    "guess": "Molecule",
+    "confidence": [
+      [
+        "M",
+        -0.18393323
+      ],
+      [
+        "olecule",
+        -0.13954735
+      ]
+    ]
+  },
+  "M?ller-Plesset Theory calculates their Hamiltonian as the sum of their Hartree-Fock operators and a perturbation, while for simple substances correcting for deviations from the Born-Oppenheimer approximation yields an accurate wave-function. Same-spin electrons within them experience the Pauli repulsion,": {
+    "guess": "Molecule",
+    "confidence": [
+      [
+        "M",
+        -0.23259386
+      ],
+      [
+        "olecule",
+        -0.0056560826
+      ]
+    ]
+  },
+  "M?ller-Plesset Theory calculates their Hamiltonian as the sum of their Hartree-Fock operators and a perturbation, while for simple substances correcting for deviations from the Born-Oppenheimer approximation yields an accurate wave-function. Same-spin electrons within them experience the Pauli repulsion, and the magnetic nature of a substance may be determined via bond order, or half the difference": {
+    "guess": "Molecule",
+    "confidence": [
+      [
+        "M",
+        -0.036004014
+      ],
+      [
+        "olecule",
+        -0.034832682
+      ]
+    ]
+  },
+  "M?ller-Plesset Theory calculates their Hamiltonian as the sum of their Hartree-Fock operators and a perturbation, while for simple substances correcting for deviations from the Born-Oppenheimer approximation yields an accurate wave-function. Same-spin electrons within them experience the Pauli repulsion, and the magnetic nature of a substance may be determined via bond order, or half the difference in the number of their bonding and antibonding electrons, which are placed in separate energy levels": {
+    "guess": "Molecular Orbital Theory",
+    "confidence": [
+      [
+        "M",
+        -0.15020694
+      ],
+      [
+        "olecular",
+        -0.47746736
+      ],
+      [
+        " Orb",
+        -0.7338743
+      ],
+      [
+        "ital",
+        0.0
+      ],
+      [
+        " Theory",
+        -0.0801339
+      ]
+    ]
+  },
+  "M?ller-Plesset Theory calculates their Hamiltonian as the sum of their Hartree-Fock operators and a perturbation, while for simple substances correcting for deviations from the Born-Oppenheimer approximation yields an accurate wave-function. Same-spin electrons within them experience the Pauli repulsion, and the magnetic nature of a substance may be determined via bond order, or half the difference in the number of their bonding and antibonding electrons, which are placed in separate energy levels in accordance with Hund's Rules. FTP, what are these orbitals in which motion of electrons about two": {
+    "guess": "Molecular orbitals",
+    "confidence": [
+      [
+        "M",
+        -0.01436317
+      ],
+      [
+        "olecular",
+        -1.147242e-06
+      ],
+      [
+        " orbit",
+        -0.57767636
+      ],
+      [
+        "als",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "M?ller-Plesset Theory calculates their Hamiltonian as the sum of their Hartree-Fock operators and a perturbation, while for simple substances correcting for deviations from the Born-Oppenheimer approximation yields an accurate wave-function. Same-spin electrons within them experience the Pauli repulsion, and the magnetic nature of a substance may be determined via bond order, or half the difference in the number of their bonding and antibonding electrons, which are placed in separate energy levels in accordance with Hund's Rules. FTP, what are these orbitals in which motion of electrons about two or more nuclei are described, the namesake of a theory of bonding?": {
+    "guess": "Molecular orbitals",
+    "confidence": [
+      [
+        "M",
+        -0.005261034
+      ],
+      [
+        "olecular",
+        -4.3202e-07
+      ],
+      [
+        " orbit",
+        -0.029823978
+      ],
+      [
+        "als",
+        0.0
+      ]
+    ]
+  },
+  "Llewellyn Thomas has a relativistic type of this phenomenon named for him and in general relativity a": {
+    "guess": "Precession",
+    "confidence": [
+      [
+        "Pre",
+        -0.012769904
+      ],
+      [
+        "cession",
+        0.0
+      ]
+    ]
+  },
+  "Llewellyn Thomas has a relativistic type of this phenomenon named for him and in general relativity a form of this occurs when a small body orbits a large rotating one, called frame dragging or the Lense-Thirring": {
+    "guess": "Precession",
+    "confidence": [
+      [
+        "Pre",
+        -0.11934378
+      ],
+      [
+        "cession",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Llewellyn Thomas has a relativistic type of this phenomenon named for him and in general relativity a form of this occurs when a small body orbits a large rotating one, called frame dragging or the Lense-Thirring effect. General relativity can also explain this process for the perihelion of mercury and": {
+    "guess": "Precession",
+    "confidence": [
+      [
+        "Pre",
+        -0.05821539
+      ],
+      [
+        "cession",
+        0.0
+      ]
+    ]
+  },
+  "Llewellyn Thomas has a relativistic type of this phenomenon named for him and in general relativity a form of this occurs when a small body orbits a large rotating one, called frame dragging or the Lense-Thirring effect. General relativity can also explain this process for the perihelion of mercury and the Larmor type is when the magnetic moment does not stay in the direction of the magnetic field.": {
+    "guess": "Precession",
+    "confidence": [
+      [
+        "Pre",
+        -0.018187406
+      ],
+      [
+        "cession",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Llewellyn Thomas has a relativistic type of this phenomenon named for him and in general relativity a form of this occurs when a small body orbits a large rotating one, called frame dragging or the Lense-Thirring effect. General relativity can also explain this process for the perihelion of mercury and the Larmor type is when the magnetic moment does not stay in the direction of the magnetic field. Occurring when torque is applied to a spinning object and related to nutation, this is, for 10 points,": {
+    "guess": "Precession",
+    "confidence": [
+      [
+        "Pre",
+        -0.0028782224
+      ],
+      [
+        "cession",
+        0.0
+      ]
+    ]
+  },
+  "Llewellyn Thomas has a relativistic type of this phenomenon named for him and in general relativity a form of this occurs when a small body orbits a large rotating one, called frame dragging or the Lense-Thirring effect. General relativity can also explain this process for the perihelion of mercury and the Larmor type is when the magnetic moment does not stay in the direction of the magnetic field. Occurring when torque is applied to a spinning object and related to nutation, this is, for 10 points, what motion of the spin axis of an object demonstrated in a spinning top.": {
+    "guess": "Precession",
+    "confidence": [
+      [
+        "Pre",
+        -0.00028517292
+      ],
+      [
+        "cession",
+        0.0
+      ]
+    ]
+  }
+}

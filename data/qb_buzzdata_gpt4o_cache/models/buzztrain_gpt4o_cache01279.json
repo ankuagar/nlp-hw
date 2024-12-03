@@ -1,0 +1,104 @@
+{
+  "At a dinner party in this novel, the protagonist produces two flowers he obtained while walking towards": {
+    "guess": "The Time Machine",
+    "confidence": [
+      [
+        "The",
+        -0.4742482
+      ],
+      [
+        " Time",
+        -8.299462e-06
+      ],
+      [
+        " Machine",
+        0.0
+      ]
+    ]
+  },
+  "At a dinner party in this novel, the protagonist produces two flowers he obtained while walking towards the Palace of Green Porcelain. Earlier, the protagonist believes that the title object is hidden": {
+    "guess": "The Time Machine",
+    "confidence": [
+      [
+        "The",
+        -0.2572713
+      ],
+      [
+        " Time",
+        -0.00086751406
+      ],
+      [
+        " Machine",
+        -0.00010974178
+      ]
+    ]
+  },
+  "At a dinner party in this novel, the protagonist produces two flowers he obtained while walking towards the Palace of Green Porcelain. Earlier, the protagonist believes that the title object is hidden in a statue of a sphinx by a race of ape-like creatures that live underground. Those creatures, the": {
+    "guess": "The Time Machine",
+    "confidence": [
+      [
+        "The",
+        -0.33432892
+      ],
+      [
+        " Time",
+        -0.0004807201
+      ],
+      [
+        " Machine",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "At a dinner party in this novel, the protagonist produces two flowers he obtained while walking towards the Palace of Green Porcelain. Earlier, the protagonist believes that the title object is hidden in a statue of a sphinx by a race of ape-like creatures that live underground. Those creatures, the (*) Morlocks, are contrasted with Weena and the rest of the Eloi in this novel, which begins with a": {
+    "guess": "The Time Machine",
+    "confidence": [
+      [
+        "The",
+        -0.0052376683
+      ],
+      [
+        " Time",
+        -3.1281633e-07
+      ],
+      [
+        " Machine",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "At a dinner party in this novel, the protagonist produces two flowers he obtained while walking towards the Palace of Green Porcelain. Earlier, the protagonist believes that the title object is hidden in a statue of a sphinx by a race of ape-like creatures that live underground. Those creatures, the (*) Morlocks, are contrasted with Weena and the rest of the Eloi in this novel, which begins with a discussion of the fourth dimension. For 10 points, name this novel by H.G. Wells, in which the protagonist": {
+    "guess": "The Time Machine",
+    "confidence": [
+      [
+        "The",
+        -0.0015036712
+      ],
+      [
+        " Time",
+        -3.1281633e-07
+      ],
+      [
+        " Machine",
+        0.0
+      ]
+    ]
+  },
+  "At a dinner party in this novel, the protagonist produces two flowers he obtained while walking towards the Palace of Green Porcelain. Earlier, the protagonist believes that the title object is hidden in a statue of a sphinx by a race of ape-like creatures that live underground. Those creatures, the (*) Morlocks, are contrasted with Weena and the rest of the Eloi in this novel, which begins with a discussion of the fourth dimension. For 10 points, name this novel by H.G. Wells, in which the protagonist travels to the future.": {
+    "guess": "The Time Machine",
+    "confidence": [
+      [
+        "The",
+        -0.0031780712
+      ],
+      [
+        " Time",
+        -4.3202e-07
+      ],
+      [
+        " Machine",
+        0.0
+      ]
+    ]
+  }
+}

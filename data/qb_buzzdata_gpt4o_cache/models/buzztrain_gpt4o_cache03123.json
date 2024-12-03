@@ -1,0 +1,3839 @@
+{
+  "For an ideal gas, this quantity is equal to the number of moles times Boltzmann's constant, times the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.43577525
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity is equal to the number of moles times Boltzmann's constant, times the sum of five halves and the natural log of the quantity one over moles times volume divided by the cube": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.05975688
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity is equal to the number of moles times Boltzmann's constant, times the sum of five halves and the natural log of the quantity one over moles times volume divided by the cube of the thermal wavelength. For molecules in a solid, this quantity can be expressed as one over": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1920108
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity is equal to the number of moles times Boltzmann's constant, times the sum of five halves and the natural log of the quantity one over moles times volume divided by the cube of the thermal wavelength. For molecules in a solid, this quantity can be expressed as one over temperature times the difference between internal energy and zero point energy, plus the natural log": {
+    "guess": "Helmholtz free energy",
+    "confidence": [
+      [
+        "Hel",
+        -0.75521845
+      ],
+      [
+        "m",
+        -5.5122365e-07
+      ],
+      [
+        "hol",
+        -1.6240566e-06
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        " free",
+        -0.47409615
+      ],
+      [
+        " energy",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity is equal to the number of moles times Boltzmann's constant, times the sum of five halves and the natural log of the quantity one over moles times volume divided by the cube of the thermal wavelength. For molecules in a solid, this quantity can be expressed as one over temperature times the difference between internal energy and zero point energy, plus the natural log of the rotational partition function times the product of moles and Boltzmann's constant. This quantity": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.052804694
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity is equal to the number of moles times Boltzmann's constant, times the sum of five halves and the natural log of the quantity one over moles times volume divided by the cube of the thermal wavelength. For molecules in a solid, this quantity can be expressed as one over temperature times the difference between internal energy and zero point energy, plus the natural log of the rotational partition function times the product of moles and Boltzmann's constant. This quantity is also equal to the enthalpy minus Gibbs free energy, all over temperature. It is always increasing": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.068552
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity is equal to the number of moles times Boltzmann's constant, times the sum of five halves and the natural log of the quantity one over moles times volume divided by the cube of the thermal wavelength. For molecules in a solid, this quantity can be expressed as one over temperature times the difference between internal energy and zero point energy, plus the natural log of the rotational partition function times the product of moles and Boltzmann's constant. This quantity is also equal to the enthalpy minus Gibbs free energy, all over temperature. It is always increasing by the Second Law of Thermodynamics. For 10 points, give this thermodynamic quantity symbolized": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.07897164
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity is equal to the number of moles times Boltzmann's constant, times the sum of five halves and the natural log of the quantity one over moles times volume divided by the cube of the thermal wavelength. For molecules in a solid, this quantity can be expressed as one over temperature times the difference between internal energy and zero point energy, plus the natural log of the rotational partition function times the product of moles and Boltzmann's constant. This quantity is also equal to the enthalpy minus Gibbs free energy, all over temperature. It is always increasing by the Second Law of Thermodynamics. For 10 points, give this thermodynamic quantity symbolized S, which measures the amount of disorder in a system.": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.0380765
+      ]
+    ]
+  },
+  "This man is identified with Quetzalcoatl by John Taylor and other Church of Latter Day Saints leaders.": {
+    "guess": "Jesus Christ",
+    "confidence": [
+      [
+        "Jesus",
+        -0.6018248
+      ],
+      [
+        " Christ",
+        -0.0015108126
+      ]
+    ]
+  },
+  "This man is identified with Quetzalcoatl by John Taylor and other Church of Latter Day Saints leaders. The \"Q Source\" is a hypothetical collection of this man's quotations. At this man's trial, elders": {
+    "guess": "Jesus",
+    "confidence": [
+      [
+        "Jesus",
+        -0.006758475
+      ]
+    ]
+  },
+  "This man is identified with Quetzalcoatl by John Taylor and other Church of Latter Day Saints leaders. The \"Q Source\" is a hypothetical collection of this man's quotations. At this man's trial, elders worry about losing \"our place and our nation.\" In one story, he refused to turn stones into bread, stating": {
+    "guess": "Jesus",
+    "confidence": [
+      [
+        "Jesus",
+        -0.011116914
+      ]
+    ]
+  },
+  "This man is identified with Quetzalcoatl by John Taylor and other Church of Latter Day Saints leaders. The \"Q Source\" is a hypothetical collection of this man's quotations. At this man's trial, elders worry about losing \"our place and our nation.\" In one story, he refused to turn stones into bread, stating that \"man cannot live by bread alone.\" This man was condemned to death after a crowd chose to": {
+    "guess": "Jesus",
+    "confidence": [
+      [
+        "Jesus",
+        -0.018318152
+      ]
+    ]
+  },
+  "This man is identified with Quetzalcoatl by John Taylor and other Church of Latter Day Saints leaders. The \"Q Source\" is a hypothetical collection of this man's quotations. At this man's trial, elders worry about losing \"our place and our nation.\" In one story, he refused to turn stones into bread, stating that \"man cannot live by bread alone.\" This man was condemned to death after a crowd chose to spare Barabbas instead, an event that prompted Pontius Pilate to wash his hands. For 10 points, name": {
+    "guess": "Jesus",
+    "confidence": [
+      [
+        "Jesus",
+        -0.048608143
+      ]
+    ]
+  },
+  "This man is identified with Quetzalcoatl by John Taylor and other Church of Latter Day Saints leaders. The \"Q Source\" is a hypothetical collection of this man's quotations. At this man's trial, elders worry about losing \"our place and our nation.\" In one story, he refused to turn stones into bread, stating that \"man cannot live by bread alone.\" This man was condemned to death after a crowd chose to spare Barabbas instead, an event that prompted Pontius Pilate to wash his hands. For 10 points, name this man, the son of God according to a large world religion.": {
+    "guess": "Jesus",
+    "confidence": [
+      [
+        "Jesus",
+        -0.07893055
+      ]
+    ]
+  },
+  "This man's ideas were contrasted with those of Husserl in a 1956 book by Maurice Natanson, while Martin": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.64697015
+      ]
+    ]
+  },
+  "This man's ideas were contrasted with those of Husserl in a 1956 book by Maurice Natanson, while Martin Buber's social anthropology was compared with this man's views in a book by Paul Pfeutze.  He criticized": {
+    "guess": "Max Scheler",
+    "confidence": [
+      [
+        "Max",
+        -0.7397881
+      ],
+      [
+        " Sche",
+        -0.0028161705
+      ],
+      [
+        "ler",
+        0.0
+      ]
+    ]
+  },
+  "This man's ideas were contrasted with those of Husserl in a 1956 book by Maurice Natanson, while Martin Buber's social anthropology was compared with this man's views in a book by Paul Pfeutze.  He criticized the judicial system for making an institution out of the human instinct of hostility in his": {
+    "guess": "Carl Schmitt",
+    "confidence": [
+      [
+        "Carl",
+        -0.79341686
+      ],
+      [
+        " Sch",
+        -0.0008134396
+      ],
+      [
+        "mitt",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man's ideas were contrasted with those of Husserl in a 1956 book by Maurice Natanson, while Martin Buber's social anthropology was compared with this man's views in a book by Paul Pfeutze.  He criticized the judicial system for making an institution out of the human instinct of hostility in his essay \"The Psychology of Punitive Justice.\"  He rejected Whitehead's attempt to employ absolute idealism": {
+    "guess": "George Herbert Mead",
+    "confidence": [
+      [
+        "George",
+        -0.16019213
+      ],
+      [
+        " Herbert",
+        -4.429897e-05
+      ],
+      [
+        " Mead",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This man's ideas were contrasted with those of Husserl in a 1956 book by Maurice Natanson, while Martin Buber's social anthropology was compared with this man's views in a book by Paul Pfeutze.  He criticized the judicial system for making an institution out of the human instinct of hostility in his essay \"The Psychology of Punitive Justice.\"  He rejected Whitehead's attempt to employ absolute idealism to provide a philosophical underpinning for the theory of relativity, arguing instead that the": {
+    "guess": "George Herbert Mead",
+    "confidence": [
+      [
+        "George",
+        -0.06051084
+      ],
+      [
+        " Herbert",
+        -7.660316e-05
+      ],
+      [
+        " Mead",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This man's ideas were contrasted with those of Husserl in a 1956 book by Maurice Natanson, while Martin Buber's social anthropology was compared with this man's views in a book by Paul Pfeutze.  He criticized the judicial system for making an institution out of the human instinct of hostility in his essay \"The Psychology of Punitive Justice.\"  He rejected Whitehead's attempt to employ absolute idealism to provide a philosophical underpinning for the theory of relativity, arguing instead that the principle of sociality does the needed work in his essay \"The Objective Reality of Perspectives.\"  In": {
+    "guess": "George Herbert Mead",
+    "confidence": [
+      [
+        "George",
+        -0.036576293
+      ],
+      [
+        " Herbert",
+        -0.00010926496
+      ],
+      [
+        " Mead",
+        0.0
+      ]
+    ]
+  },
+  "This man's ideas were contrasted with those of Husserl in a 1956 book by Maurice Natanson, while Martin Buber's social anthropology was compared with this man's views in a book by Paul Pfeutze.  He criticized the judicial system for making an institution out of the human instinct of hostility in his essay \"The Psychology of Punitive Justice.\"  He rejected Whitehead's attempt to employ absolute idealism to provide a philosophical underpinning for the theory of relativity, arguing instead that the principle of sociality does the needed work in his essay \"The Objective Reality of Perspectives.\"  In his Carus lectures, he sought to bring together scientific determinism and the emergence of novelty,": {
+    "guess": "George Herbert Mead",
+    "confidence": [
+      [
+        "George",
+        -0.03078967
+      ],
+      [
+        " Herbert",
+        -2.2484697e-05
+      ],
+      [
+        " Mead",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man's ideas were contrasted with those of Husserl in a 1956 book by Maurice Natanson, while Martin Buber's social anthropology was compared with this man's views in a book by Paul Pfeutze.  He criticized the judicial system for making an institution out of the human instinct of hostility in his essay \"The Psychology of Punitive Justice.\"  He rejected Whitehead's attempt to employ absolute idealism to provide a philosophical underpinning for the theory of relativity, arguing instead that the principle of sociality does the needed work in his essay \"The Objective Reality of Perspectives.\"  In his Carus lectures, he sought to bring together scientific determinism and the emergence of novelty, which he did through his \"philosophy of the present.\"  He published no books during his life, but": {
+    "guess": "George Herbert Mead",
+    "confidence": [
+      [
+        "George",
+        -0.16373721
+      ],
+      [
+        " Herbert",
+        -5.8961017e-05
+      ],
+      [
+        " Mead",
+        0.0
+      ]
+    ]
+  },
+  "This man's ideas were contrasted with those of Husserl in a 1956 book by Maurice Natanson, while Martin Buber's social anthropology was compared with this man's views in a book by Paul Pfeutze.  He criticized the judicial system for making an institution out of the human instinct of hostility in his essay \"The Psychology of Punitive Justice.\"  He rejected Whitehead's attempt to employ absolute idealism to provide a philosophical underpinning for the theory of relativity, arguing instead that the principle of sociality does the needed work in his essay \"The Objective Reality of Perspectives.\"  In his Carus lectures, he sought to bring together scientific determinism and the emergence of novelty, which he did through his \"philosophy of the present.\"  He published no books during his life, but after he died such works as Movements of Thought in the Nineteenth Century and Mind, Self, and Society": {
+    "guess": "George Herbert Mead",
+    "confidence": [
+      [
+        "George",
+        -0.079111636
+      ],
+      [
+        " Herbert",
+        -5.8484206e-05
+      ],
+      [
+        " Mead",
+        0.0
+      ]
+    ]
+  },
+  "This man's ideas were contrasted with those of Husserl in a 1956 book by Maurice Natanson, while Martin Buber's social anthropology was compared with this man's views in a book by Paul Pfeutze.  He criticized the judicial system for making an institution out of the human instinct of hostility in his essay \"The Psychology of Punitive Justice.\"  He rejected Whitehead's attempt to employ absolute idealism to provide a philosophical underpinning for the theory of relativity, arguing instead that the principle of sociality does the needed work in his essay \"The Objective Reality of Perspectives.\"  In his Carus lectures, he sought to bring together scientific determinism and the emergence of novelty, which he did through his \"philosophy of the present.\"  He published no books during his life, but after he died such works as Movements of Thought in the Nineteenth Century and Mind, Self, and Society appeared.  FTP, name this leading thinker of the Chicago School, an associate of John Dewey known": {
+    "guess": "George Herbert Mead",
+    "confidence": [
+      [
+        "George",
+        -0.04871738
+      ],
+      [
+        " Herbert",
+        -3.7697225e-06
+      ],
+      [
+        " Mead",
+        0.0
+      ]
+    ]
+  },
+  "This man's ideas were contrasted with those of Husserl in a 1956 book by Maurice Natanson, while Martin Buber's social anthropology was compared with this man's views in a book by Paul Pfeutze.  He criticized the judicial system for making an institution out of the human instinct of hostility in his essay \"The Psychology of Punitive Justice.\"  He rejected Whitehead's attempt to employ absolute idealism to provide a philosophical underpinning for the theory of relativity, arguing instead that the principle of sociality does the needed work in his essay \"The Objective Reality of Perspectives.\"  In his Carus lectures, he sought to bring together scientific determinism and the emergence of novelty, which he did through his \"philosophy of the present.\"  He published no books during his life, but after he died such works as Movements of Thought in the Nineteenth Century and Mind, Self, and Society appeared.  FTP, name this leading thinker of the Chicago School, an associate of John Dewey known for his \"philosophy of the act.\"": {
+    "guess": "George Herbert Mead",
+    "confidence": [
+      [
+        "George",
+        -0.018196536
+      ],
+      [
+        " Herbert",
+        -1.6882126e-05
+      ],
+      [
+        " Mead",
+        0.0
+      ]
+    ]
+  },
+  "While not an ideal description, this equation is considered a good approximation of the movement of blood": {
+    "guess": "Hagen\u2013Poiseuille equation",
+    "confidence": [
+      [
+        "H",
+        -0.3483477
+      ],
+      [
+        "agen",
+        -3.1281633e-07
+      ],
+      [
+        "\u2013",
+        -0.014170089
+      ],
+      [
+        "Po",
+        -6.6306106e-06
+      ],
+      [
+        "ise",
+        0.0
+      ],
+      [
+        "uille",
+        0.0
+      ],
+      [
+        " equation",
+        -5.7961847e-06
+      ]
+    ]
+  },
+  "While not an ideal description, this equation is considered a good approximation of the movement of blood through vessels.  This equation indicates a high dependency on the radius of the tube involved": {
+    "guess": "Hagen\u2013Poiseuille equation",
+    "confidence": [
+      [
+        "H",
+        -0.011504583
+      ],
+      [
+        "agen",
+        -1.9361265e-07
+      ],
+      [
+        "\u2013",
+        -0.03804287
+      ],
+      [
+        "Po",
+        -3.1737043e-06
+      ],
+      [
+        "ise",
+        0.0
+      ],
+      [
+        "uille",
+        0.0
+      ],
+      [
+        " equation",
+        -1.6166903e-05
+      ]
+    ]
+  },
+  "While not an ideal description, this equation is considered a good approximation of the movement of blood through vessels.  This equation indicates a high dependency on the radius of the tube involved since it utilizes a proportionality that raises the radius to the fourth power.  It surpasses the Bernoulli": {
+    "guess": "Hagen\u2013Poiseuille equation",
+    "confidence": [
+      [
+        "H",
+        -0.027263828
+      ],
+      [
+        "agen",
+        -1.9361265e-07
+      ],
+      [
+        "\u2013",
+        -0.04858964
+      ],
+      [
+        "Po",
+        -2.6968896e-06
+      ],
+      [
+        "ise",
+        0.0
+      ],
+      [
+        "uille",
+        0.0
+      ],
+      [
+        " equation",
+        -4.692145e-05
+      ]
+    ]
+  },
+  "While not an ideal description, this equation is considered a good approximation of the movement of blood through vessels.  This equation indicates a high dependency on the radius of the tube involved since it utilizes a proportionality that raises the radius to the fourth power.  It surpasses the Bernoulli equation in terms of realistic descriptions because it takes into account a fluid's viscosity": {
+    "guess": "Hagen\u2013Poiseuille equation",
+    "confidence": [
+      [
+        "H",
+        -0.012930796
+      ],
+      [
+        "agen",
+        -4.3202e-07
+      ],
+      [
+        "\u2013",
+        -0.014164567
+      ],
+      [
+        "Po",
+        -7.89631e-07
+      ],
+      [
+        "ise",
+        0.0
+      ],
+      [
+        "uille",
+        0.0
+      ],
+      [
+        " equation",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "While not an ideal description, this equation is considered a good approximation of the movement of blood through vessels.  This equation indicates a high dependency on the radius of the tube involved since it utilizes a proportionality that raises the radius to the fourth power.  It surpasses the Bernoulli equation in terms of realistic descriptions because it takes into account a fluid's viscosity and pressure, though it does not hold true for non-laminar flow.  FTP, identify this equation of fluid": {
+    "guess": "Hagen\u2013Poiseuille equation",
+    "confidence": [
+      [
+        "H",
+        -0.03439707
+      ],
+      [
+        "agen",
+        -3.1281633e-07
+      ],
+      [
+        "\u2013",
+        -0.100207105
+      ],
+      [
+        "Po",
+        -5.2001665e-06
+      ],
+      [
+        "ise",
+        0.0
+      ],
+      [
+        "uille",
+        0.0
+      ],
+      [
+        " equation",
+        -5.5577775e-06
+      ]
+    ]
+  },
+  "While not an ideal description, this equation is considered a good approximation of the movement of blood through vessels.  This equation indicates a high dependency on the radius of the tube involved since it utilizes a proportionality that raises the radius to the fourth power.  It surpasses the Bernoulli equation in terms of realistic descriptions because it takes into account a fluid's viscosity and pressure, though it does not hold true for non-laminar flow.  FTP, identify this equation of fluid mechanics named after a French physicist and used to calculate a fluid's volume flow rate.": {
+    "guess": "Hagen\u2013Poiseuille equation",
+    "confidence": [
+      [
+        "H",
+        -0.0487662
+      ],
+      [
+        "agen",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.12692873
+      ],
+      [
+        "Po",
+        -3.2929079e-06
+      ],
+      [
+        "ise",
+        0.0
+      ],
+      [
+        "uille",
+        -1.9361265e-07
+      ],
+      [
+        " equation",
+        -1.5809293e-05
+      ]
+    ]
+  },
+  "One idea proposed by this theorist is the spectacle, or opsis. He also discussed the idea of simulated": {
+    "guess": "Guy Debord",
+    "confidence": [
+      [
+        "Guy",
+        -0.40905896
+      ],
+      [
+        " Deb",
+        -1.147242e-06
+      ],
+      [
+        "ord",
+        0.0
+      ]
+    ]
+  },
+  "One idea proposed by this theorist is the spectacle, or opsis. He also discussed the idea of simulated representation, which he referred to by a term later used to title a book by Erich Auerbach, mimesis": {
+    "guess": "Aristotle",
+    "confidence": [
+      [
+        "Ar",
+        -0.014691079
+      ],
+      [
+        "ist",
+        -6.9882217e-06
+      ],
+      [
+        "otle",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "One idea proposed by this theorist is the spectacle, or opsis. He also discussed the idea of simulated representation, which he referred to by a term later used to title a book by Erich Auerbach, mimesis (mim-EE-sis). He also identified the anagnorisis (aa-nag-nor-EE-sis), or moment of recognition, and": {
+    "guess": "Aristotle",
+    "confidence": [
+      [
+        "Ar",
+        -0.018513478
+      ],
+      [
+        "ist",
+        -4.3202e-07
+      ],
+      [
+        "otle",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "One idea proposed by this theorist is the spectacle, or opsis. He also discussed the idea of simulated representation, which he referred to by a term later used to title a book by Erich Auerbach, mimesis (mim-EE-sis). He also identified the anagnorisis (aa-nag-nor-EE-sis), or moment of recognition, and the peripeteia (per-uh-pit-EY-uh), or reversal of circumstances, as elements of drama. Other elements": {
+    "guess": "Aristotle",
+    "confidence": [
+      [
+        "Ar",
+        -0.1002456
+      ],
+      [
+        "ist",
+        -3.4121115e-06
+      ],
+      [
+        "otle",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "One idea proposed by this theorist is the spectacle, or opsis. He also discussed the idea of simulated representation, which he referred to by a term later used to title a book by Erich Auerbach, mimesis (mim-EE-sis). He also identified the anagnorisis (aa-nag-nor-EE-sis), or moment of recognition, and the peripeteia (per-uh-pit-EY-uh), or reversal of circumstances, as elements of drama. Other elements include hamartia (hah-MARSH-uh), a character's tragic flaw, and catharsis. For 10 points, name": {
+    "guess": "Aristotle",
+    "confidence": [
+      [
+        "Ar",
+        -0.062756166
+      ],
+      [
+        "ist",
+        -1.6240566e-06
+      ],
+      [
+        "otle",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "One idea proposed by this theorist is the spectacle, or opsis. He also discussed the idea of simulated representation, which he referred to by a term later used to title a book by Erich Auerbach, mimesis (mim-EE-sis). He also identified the anagnorisis (aa-nag-nor-EE-sis), or moment of recognition, and the peripeteia (per-uh-pit-EY-uh), or reversal of circumstances, as elements of drama. Other elements include hamartia (hah-MARSH-uh), a character's tragic flaw, and catharsis. For 10 points, name this ancient Greek philosopher who analyzed drama in his Poetics.": {
+    "guess": "Aristotle",
+    "confidence": [
+      [
+        "Ar",
+        -0.0008139164
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        "otle",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "These can be identified using a technique known as TILLING. Harris Bernstein discovered the \"amber\" type": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0680734
+      ]
+    ]
+  },
+  "These can be identified using a technique known as TILLING. Harris Bernstein discovered the \"amber\" type of them, which is contrasted with the \"ochre\" and \"opal\" types. One example of the \"point\" variety": {
+    "guess": "Mutation",
+    "confidence": [
+      [
+        "Mutation",
+        -0.2591448
+      ]
+    ]
+  },
+  "These can be identified using a technique known as TILLING. Harris Bernstein discovered the \"amber\" type of them, which is contrasted with the \"ochre\" and \"opal\" types. One example of the \"point\" variety of these causes sickle-cell anemia, and it is also an example of the \"missense\" variety, since it": {
+    "guess": "Mutation",
+    "confidence": [
+      [
+        "Mutation",
+        -0.104358554
+      ]
+    ]
+  },
+  "These can be identified using a technique known as TILLING. Harris Bernstein discovered the \"amber\" type of them, which is contrasted with the \"ochre\" and \"opal\" types. One example of the \"point\" variety of these causes sickle-cell anemia, and it is also an example of the \"missense\" variety, since it results in valine being encoded instead of glutamic acid. They can also be classified as \"nonsense\"": {
+    "guess": "Mutation",
+    "confidence": [
+      [
+        "Mutation",
+        -0.4796178
+      ]
+    ]
+  },
+  "These can be identified using a technique known as TILLING. Harris Bernstein discovered the \"amber\" type of them, which is contrasted with the \"ochre\" and \"opal\" types. One example of the \"point\" variety of these causes sickle-cell anemia, and it is also an example of the \"missense\" variety, since it results in valine being encoded instead of glutamic acid. They can also be classified as \"nonsense\" or \"frameshift.\" For 10 points, name these changes in DNA sequences, which may be caused by radiation.": {
+    "guess": "Mutation",
+    "confidence": [
+      [
+        "Mutation",
+        -0.06264701
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity can be derived from temperature using Sutherland's formula. This quantity": {
+    "guess": "Viscosity",
+    "confidence": [
+      [
+        "Vis",
+        -0.004632096
+      ],
+      [
+        "cos",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity can be derived from temperature using Sutherland's formula. This quantity can be mathematically represented by tensors of fourth or higher orders. Bingham plastics can experience": {
+    "guess": "Viscosity",
+    "confidence": [
+      [
+        "Vis",
+        -0.28183666
+      ],
+      [
+        "cos",
+        -0.0007167232
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity can be derived from temperature using Sutherland's formula. This quantity can be mathematically represented by tensors of fourth or higher orders. Bingham plastics can experience a dramatic increase in this property at high stresses, though at low stresses it instead is": {
+    "guess": "Viscosity",
+    "confidence": [
+      [
+        "Vis",
+        -0.029836109
+      ],
+      [
+        "cos",
+        -4.9617593e-06
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity can be derived from temperature using Sutherland's formula. This quantity can be mathematically represented by tensors of fourth or higher orders. Bingham plastics can experience a dramatic increase in this property at high stresses, though at low stresses it instead is characterized by an amalgamation of this term and \"elastic.\" Thixotropic and rheopectic materials": {
+    "guess": "Viscosity",
+    "confidence": [
+      [
+        "Vis",
+        -0.02148404
+      ],
+      [
+        "cos",
+        -0.006717863
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity can be derived from temperature using Sutherland's formula. This quantity can be mathematically represented by tensors of fourth or higher orders. Bingham plastics can experience a dramatic increase in this property at high stresses, though at low stresses it instead is characterized by an amalgamation of this term and \"elastic.\" Thixotropic and rheopectic materials respectively decrease and increase this property over time, much like the processes of shear thinning": {
+    "guess": "Viscosity",
+    "confidence": [
+      [
+        "Vis",
+        -0.033731334
+      ],
+      [
+        "cos",
+        -0.0007104054
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity can be derived from temperature using Sutherland's formula. This quantity can be mathematically represented by tensors of fourth or higher orders. Bingham plastics can experience a dramatic increase in this property at high stresses, though at low stresses it instead is characterized by an amalgamation of this term and \"elastic.\" Thixotropic and rheopectic materials respectively decrease and increase this property over time, much like the processes of shear thinning and shear thickening. This value is non-constant for non-Newtonian fluids, such as blood and ketchup.": {
+    "guess": "Viscosity",
+    "confidence": [
+      [
+        "Vis",
+        -0.02630611
+      ],
+      [
+        "cos",
+        -1.2664457e-06
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "For an ideal gas, this quantity can be derived from temperature using Sutherland's formula. This quantity can be mathematically represented by tensors of fourth or higher orders. Bingham plastics can experience a dramatic increase in this property at high stresses, though at low stresses it instead is characterized by an amalgamation of this term and \"elastic.\" Thixotropic and rheopectic materials respectively decrease and increase this property over time, much like the processes of shear thinning and shear thickening. This value is non-constant for non-Newtonian fluids, such as blood and ketchup. Analogous to friction, for 10 points, identify this term for a fluid's resistance to flow.": {
+    "guess": "Viscosity",
+    "confidence": [
+      [
+        "Vis",
+        -0.0076102936
+      ],
+      [
+        "cos",
+        -7.9418505e-06
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "The \"idealized model\" of this effect requires parameters symbolized epsilon and alpha-sub-p. Compounds": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.46869382
+      ]
+    ]
+  },
+  "The \"idealized model\" of this effect requires parameters symbolized epsilon and alpha-sub-p. Compounds that promote this effect have high values of radiative forcing. An anti- form of this effect can cause": {
+    "guess": "Greenhouse effect",
+    "confidence": [
+      [
+        "Green",
+        -0.015433193
+      ],
+      [
+        "house",
+        0.0
+      ],
+      [
+        " effect",
+        -4.604148e-06
+      ]
+    ]
+  },
+  "The \"idealized model\" of this effect requires parameters symbolized epsilon and alpha-sub-p. Compounds that promote this effect have high values of radiative forcing. An anti- form of this effect can cause thermocline inversion. The clathrate gun hypothesis is that compounds that cause this effect currently": {
+    "guess": "Global warming",
+    "confidence": [
+      [
+        "Global",
+        -0.04314466
+      ],
+      [
+        " warming",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "The \"idealized model\" of this effect requires parameters symbolized epsilon and alpha-sub-p. Compounds that promote this effect have high values of radiative forcing. An anti- form of this effect can cause thermocline inversion. The clathrate gun hypothesis is that compounds that cause this effect currently trapped in ice could be released due to it, setting up a positive feedback loop; such a loop": {
+    "guess": "Global warming",
+    "confidence": [
+      [
+        "Global",
+        -0.07075543
+      ],
+      [
+        " warming",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "The \"idealized model\" of this effect requires parameters symbolized epsilon and alpha-sub-p. Compounds that promote this effect have high values of radiative forcing. An anti- form of this effect can cause thermocline inversion. The clathrate gun hypothesis is that compounds that cause this effect currently trapped in ice could be released due to it, setting up a positive feedback loop; such a loop could cause a runaway of this effect, which may have occurred on Venus. For 10 points, name this effect": {
+    "guess": "Greenhouse effect",
+    "confidence": [
+      [
+        "Green",
+        -0.012616774
+      ],
+      [
+        "house",
+        0.0
+      ],
+      [
+        " effect",
+        -5.6769813e-06
+      ]
+    ]
+  },
+  "The \"idealized model\" of this effect requires parameters symbolized epsilon and alpha-sub-p. Compounds that promote this effect have high values of radiative forcing. An anti- form of this effect can cause thermocline inversion. The clathrate gun hypothesis is that compounds that cause this effect currently trapped in ice could be released due to it, setting up a positive feedback loop; such a loop could cause a runaway of this effect, which may have occurred on Venus. For 10 points, name this effect in which gases trap heat in the earth's atmosphere, a major mechanism of global warming.": {
+    "guess": "Greenhouse effect",
+    "confidence": [
+      [
+        "Green",
+        -0.0023120267
+      ],
+      [
+        "house",
+        0.0
+      ],
+      [
+        " effect",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "This idea underlies the mechanics of competing theories due to Bullard and Vening Meinesz, which explained": {
+    "guess": "Isostasy",
+    "confidence": [
+      [
+        "Is",
+        -0.038365286
+      ],
+      [
+        "ost",
+        -4.3202e-07
+      ],
+      [
+        "asy",
+        -1.6882126e-05
+      ]
+    ]
+  },
+  "This idea underlies the mechanics of competing theories due to Bullard and Vening Meinesz, which explained data that remained anomalous even after applying the Bouguer correction. This concept explains": {
+    "guess": "Isostasy",
+    "confidence": [
+      [
+        "Is",
+        -0.009903408
+      ],
+      [
+        "ost",
+        -3.1281633e-07
+      ],
+      [
+        "asy",
+        -2.1650272e-05
+      ]
+    ]
+  },
+  "This idea underlies the mechanics of competing theories due to Bullard and Vening Meinesz, which explained data that remained anomalous even after applying the Bouguer correction. This concept explains why the Gulf of Bothnia will eventually close. One model for this concept holds that rocks with less": {
+    "guess": "Isostasy",
+    "confidence": [
+      [
+        "Is",
+        -0.0011908221
+      ],
+      [
+        "ost",
+        -6.704273e-07
+      ],
+      [
+        "asy",
+        -7.9418505e-06
+      ]
+    ]
+  },
+  "This idea underlies the mechanics of competing theories due to Bullard and Vening Meinesz, which explained data that remained anomalous even after applying the Bouguer correction. This concept explains why the Gulf of Bothnia will eventually close. One model for this concept holds that rocks with less density will be topographically higher. Another model for this concept claims that crust thickness": {
+    "guess": "Isostasy",
+    "confidence": [
+      [
+        "Is",
+        -5.080963e-06
+      ],
+      [
+        "ost",
+        -6.704273e-07
+      ],
+      [
+        "asy",
+        -3.1737043e-06
+      ]
+    ]
+  },
+  "This idea underlies the mechanics of competing theories due to Bullard and Vening Meinesz, which explained data that remained anomalous even after applying the Bouguer correction. This concept explains why the Gulf of Bothnia will eventually close. One model for this concept holds that rocks with less density will be topographically higher. Another model for this concept claims that crust thickness will cause altitude changes. The aforementioned models are the Airy and Pratt models for this concept,": {
+    "guess": "Isostasy",
+    "confidence": [
+      [
+        "Is",
+        -1.5451682e-05
+      ],
+      [
+        "ost",
+        -6.704273e-07
+      ],
+      [
+        "asy",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This idea underlies the mechanics of competing theories due to Bullard and Vening Meinesz, which explained data that remained anomalous even after applying the Bouguer correction. This concept explains why the Gulf of Bothnia will eventually close. One model for this concept holds that rocks with less density will be topographically higher. Another model for this concept claims that crust thickness will cause altitude changes. The aforementioned models are the Airy and Pratt models for this concept, which is analogous to buoyancy. Post-glacial rebound is one consequence of this concept. For 10": {
+    "guess": "Isostasy",
+    "confidence": [
+      [
+        "Is",
+        -0.00034452166
+      ],
+      [
+        "ost",
+        -7.89631e-07
+      ],
+      [
+        "asy",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "This idea underlies the mechanics of competing theories due to Bullard and Vening Meinesz, which explained data that remained anomalous even after applying the Bouguer correction. This concept explains why the Gulf of Bothnia will eventually close. One model for this concept holds that rocks with less density will be topographically higher. Another model for this concept claims that crust thickness will cause altitude changes. The aforementioned models are the Airy and Pratt models for this concept, which is analogous to buoyancy. Post-glacial rebound is one consequence of this concept. For 10 points, name this term for the gravitational equilibrium between the asthenosphere and lithosphere,": {
+    "guess": "Isostasy",
+    "confidence": [
+      [
+        "Is",
+        -4.9186317e-05
+      ],
+      [
+        "ost",
+        -7.89631e-07
+      ],
+      [
+        "asy",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "This idea underlies the mechanics of competing theories due to Bullard and Vening Meinesz, which explained data that remained anomalous even after applying the Bouguer correction. This concept explains why the Gulf of Bothnia will eventually close. One model for this concept holds that rocks with less density will be topographically higher. Another model for this concept claims that crust thickness will cause altitude changes. The aforementioned models are the Airy and Pratt models for this concept, which is analogous to buoyancy. Post-glacial rebound is one consequence of this concept. For 10 points, name this term for the gravitational equilibrium between the asthenosphere and lithosphere, which describes how tectonic plates \"float.\"": {
+    "guess": "Isostasy",
+    "confidence": [
+      [
+        "Is",
+        -0.0002478695
+      ],
+      [
+        "ost",
+        -4.3202e-07
+      ],
+      [
+        "asy",
+        0.0
+      ]
+    ]
+  },
+  "This ideological position was lampooned by a commentator who wrote \"a vulture is almost an eagle\" and": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.28287983
+      ]
+    ]
+  },
+  "This ideological position was lampooned by a commentator who wrote \"a vulture is almost an eagle\" and is often believed to be the reason for a reference to a Brothers Grimm tale during a rant against Beckmesser": {
+    "guess": "Wagnerian Criticism",
+    "confidence": [
+      [
+        "W",
+        -0.5989451
+      ],
+      [
+        "agner",
+        -0.0003520278
+      ],
+      [
+        "ian",
+        -0.9244409
+      ],
+      [
+        " Crit",
+        -1.7142502
+      ],
+      [
+        "icism",
+        -0.050108314
+      ]
+    ]
+  },
+  "This ideological position was lampooned by a commentator who wrote \"a vulture is almost an eagle\" and is often believed to be the reason for a reference to a Brothers Grimm tale during a rant against Beckmesser in one work by the holder of this orientation. The subject of the book The Darker Side of": {
+    "guess": "Wagnerism",
+    "confidence": [
+      [
+        "W",
+        -1.2587055
+      ],
+      [
+        "agner",
+        -2.6656826e-05
+      ],
+      [
+        "ism",
+        -0.2629138
+      ]
+    ]
+  },
+  "This ideological position was lampooned by a commentator who wrote \"a vulture is almost an eagle\" and is often believed to be the reason for a reference to a Brothers Grimm tale during a rant against Beckmesser in one work by the holder of this orientation. The subject of the book The Darker Side of Genius is this attitude, which reached its zenith in an article that denounced the \"cold indifference\"": {
+    "guess": "Wagnerian nationalism",
+    "confidence": [
+      [
+        "W",
+        -0.8078908
+      ],
+      [
+        "agner",
+        -0.0015260485
+      ],
+      [
+        "ian",
+        -0.9125693
+      ],
+      [
+        " nationalism",
+        -1.3309772
+      ]
+    ]
+  },
+  "This ideological position was lampooned by a commentator who wrote \"a vulture is almost an eagle\" and is often believed to be the reason for a reference to a Brothers Grimm tale during a rant against Beckmesser in one work by the holder of this orientation. The subject of the book The Darker Side of Genius is this attitude, which reached its zenith in an article that denounced the \"cold indifference\" of a \"peculiar blubber\" and the \"evil conscience of our modern civilization.\" That article, demonstrating": {
+    "guess": "Wagnerian antisemitism",
+    "confidence": [
+      [
+        "W",
+        -1.0439245
+      ],
+      [
+        "agner",
+        -0.0018373684
+      ],
+      [
+        "ian",
+        -0.9004839
+      ],
+      [
+        " antis",
+        -1.4650205
+      ],
+      [
+        "emit",
+        0.0
+      ],
+      [
+        "ism",
+        -1.735894e-05
+      ]
+    ]
+  },
+  "This ideological position was lampooned by a commentator who wrote \"a vulture is almost an eagle\" and is often believed to be the reason for a reference to a Brothers Grimm tale during a rant against Beckmesser in one work by the holder of this orientation. The subject of the book The Darker Side of Genius is this attitude, which reached its zenith in an article that denounced the \"cold indifference\" of a \"peculiar blubber\" and the \"evil conscience of our modern civilization.\" That article, demonstrating this ideological orientation, compared certain people to worms on the body of art, demanded": {
+    "guess": "Wagnerism",
+    "confidence": [
+      [
+        "W",
+        -0.69257635
+      ],
+      [
+        "agner",
+        -0.0013692847
+      ],
+      [
+        "ism",
+        -0.27149978
+      ]
+    ]
+  },
+  "This ideological position was lampooned by a commentator who wrote \"a vulture is almost an eagle\" and is often believed to be the reason for a reference to a Brothers Grimm tale during a rant against Beckmesser in one work by the holder of this orientation. The subject of the book The Darker Side of Genius is this attitude, which reached its zenith in an article that denounced the \"cold indifference\" of a \"peculiar blubber\" and the \"evil conscience of our modern civilization.\" That article, demonstrating this ideological orientation, compared certain people to worms on the body of art, demanded that those people \"go under like Ahauseurus,\" and was signed with the pseudonym \"K. Freigedank.\" For": {
+    "guess": "Wagnerian antisemitism",
+    "confidence": [
+      [
+        "W",
+        -0.5305767
+      ],
+      [
+        "agner",
+        -0.0008609615
+      ],
+      [
+        "ian",
+        -0.5184291
+      ],
+      [
+        " antis",
+        -0.39492893
+      ],
+      [
+        "emit",
+        0.0
+      ],
+      [
+        "ism",
+        -7.703444e-06
+      ]
+    ]
+  },
+  "This ideological position was lampooned by a commentator who wrote \"a vulture is almost an eagle\" and is often believed to be the reason for a reference to a Brothers Grimm tale during a rant against Beckmesser in one work by the holder of this orientation. The subject of the book The Darker Side of Genius is this attitude, which reached its zenith in an article that denounced the \"cold indifference\" of a \"peculiar blubber\" and the \"evil conscience of our modern civilization.\" That article, demonstrating this ideological orientation, compared certain people to worms on the body of art, demanded that those people \"go under like Ahauseurus,\" and was signed with the pseudonym \"K. Freigedank.\" For 10 points, identify this bias of a particular composer, which manifested in the 1850 New Journal of": {
+    "guess": "Wagner's antisemitism",
+    "confidence": [
+      [
+        "W",
+        -0.2965765
+      ],
+      [
+        "agner",
+        -5.9153886e-06
+      ],
+      [
+        "'s",
+        -0.7192231
+      ],
+      [
+        " antis",
+        -0.017899403
+      ],
+      [
+        "emit",
+        0.0
+      ],
+      [
+        "ism",
+        -0.00016468366
+      ]
+    ]
+  },
+  "This ideological position was lampooned by a commentator who wrote \"a vulture is almost an eagle\" and is often believed to be the reason for a reference to a Brothers Grimm tale during a rant against Beckmesser in one work by the holder of this orientation. The subject of the book The Darker Side of Genius is this attitude, which reached its zenith in an article that denounced the \"cold indifference\" of a \"peculiar blubber\" and the \"evil conscience of our modern civilization.\" That article, demonstrating this ideological orientation, compared certain people to worms on the body of art, demanded that those people \"go under like Ahauseurus,\" and was signed with the pseudonym \"K. Freigedank.\" For 10 points, identify this bias of a particular composer, which manifested in the 1850 New Journal of Music article about a certain characteristic \"in music,\" and leads to controversy whenever the overture": {
+    "guess": "Richard Wagner's antisemitism",
+    "confidence": [
+      [
+        "Richard",
+        -0.1926889
+      ],
+      [
+        " Wagner",
+        0.0
+      ],
+      [
+        "'s",
+        -0.01972662
+      ],
+      [
+        " antis",
+        -0.13253327
+      ],
+      [
+        "emit",
+        0.0
+      ],
+      [
+        "ism",
+        -6.945094e-05
+      ]
+    ]
+  },
+  "This ideological position was lampooned by a commentator who wrote \"a vulture is almost an eagle\" and is often believed to be the reason for a reference to a Brothers Grimm tale during a rant against Beckmesser in one work by the holder of this orientation. The subject of the book The Darker Side of Genius is this attitude, which reached its zenith in an article that denounced the \"cold indifference\" of a \"peculiar blubber\" and the \"evil conscience of our modern civilization.\" That article, demonstrating this ideological orientation, compared certain people to worms on the body of art, demanded that those people \"go under like Ahauseurus,\" and was signed with the pseudonym \"K. Freigedank.\" For 10 points, identify this bias of a particular composer, which manifested in the 1850 New Journal of Music article about a certain characteristic \"in music,\" and leads to controversy whenever the overture from Tristan und Isolde is performed in Israel.": {
+    "guess": "Antisemitism of Richard Wagner",
+    "confidence": [
+      [
+        "Ant",
+        -0.17272449
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "emit",
+        0.0
+      ],
+      [
+        "ism",
+        -4.7994283e-05
+      ],
+      [
+        " of",
+        -0.026483633
+      ],
+      [
+        " Richard",
+        -6.392203e-06
+      ],
+      [
+        " Wagner",
+        0.0
+      ]
+    ]
+  },
+  "For an ideal gas, this property is proportional to the average kinetic energy of the particles. Relative": {
+    "guess": "Temperature",
+    "confidence": [
+      [
+        "Temperature",
+        -0.6792156
+      ]
+    ]
+  },
+  "For an ideal gas, this property is proportional to the average kinetic energy of the particles. Relative humidity is computed by comparing the wet-bulb and dry-bulb measurements of this quantity. According": {
+    "guess": "Temperature",
+    "confidence": [
+      [
+        "Temperature",
+        -0.0041567567
+      ]
+    ]
+  },
+  "For an ideal gas, this property is proportional to the average kinetic energy of the particles. Relative humidity is computed by comparing the wet-bulb and dry-bulb measurements of this quantity. According to the third law of thermodynamics, a perfect crystal has zero entropy when this property is (*)": {
+    "guess": "Temperature",
+    "confidence": [
+      [
+        "Temperature",
+        -0.07053462
+      ]
+    ]
+  },
+  "For an ideal gas, this property is proportional to the average kinetic energy of the particles. Relative humidity is computed by comparing the wet-bulb and dry-bulb measurements of this quantity. According to the third law of thermodynamics, a perfect crystal has zero entropy when this property is (*) absolute zero. For 10 points, name this quantity whose SI unit is the kelvin and that can also be": {
+    "guess": "Temperature",
+    "confidence": [
+      [
+        "Temperature",
+        -0.0052753803
+      ]
+    ]
+  },
+  "For an ideal gas, this property is proportional to the average kinetic energy of the particles. Relative humidity is computed by comparing the wet-bulb and dry-bulb measurements of this quantity. According to the third law of thermodynamics, a perfect crystal has zero entropy when this property is (*) absolute zero. For 10 points, name this quantity whose SI unit is the kelvin and that can also be measured on the Celsius and Fahrenheit scales.": {
+    "guess": "Temperature",
+    "confidence": [
+      [
+        "Temperature",
+        -0.10034545
+      ]
+    ]
+  },
+  "This idea can be divided into apophatic and kataphatic varieties depending on whether it can be explained": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.48364484
+      ],
+      [
+        ".",
+        -0.6931713
+      ]
+    ]
+  },
+  "This idea can be divided into apophatic and kataphatic varieties depending on whether it can be explained concretely. William James' The Varieties of Religious Experience asks if saintly life originates": {
+    "guess": "Mysticism",
+    "confidence": [
+      [
+        "Myst",
+        -0.012651853
+      ],
+      [
+        "icism",
+        0.0
+      ]
+    ]
+  },
+  "This idea can be divided into apophatic and kataphatic varieties depending on whether it can be explained concretely. William James' The Varieties of Religious Experience asks if saintly life originates from this idea and states that \"ineffability\" is a prerequisite for a tradition to adhere to it. This": {
+    "guess": "Mysticism",
+    "confidence": [
+      [
+        "Myst",
+        -0.0077789947
+      ],
+      [
+        "icism",
+        0.0
+      ]
+    ]
+  },
+  "This idea can be divided into apophatic and kataphatic varieties depending on whether it can be explained concretely. William James' The Varieties of Religious Experience asks if saintly life originates from this idea and states that \"ineffability\" is a prerequisite for a tradition to adhere to it. This idea underlies a tradition whose practitioners attempt to merge the (*) Godhead with the Einsof.": {
+    "guess": "Mysticism",
+    "confidence": [
+      [
+        "Myst",
+        -3.23786e-05
+      ],
+      [
+        "icism",
+        0.0
+      ]
+    ]
+  },
+  "This idea can be divided into apophatic and kataphatic varieties depending on whether it can be explained concretely. William James' The Varieties of Religious Experience asks if saintly life originates from this idea and states that \"ineffability\" is a prerequisite for a tradition to adhere to it. This idea underlies a tradition whose practitioners attempt to merge the (*) Godhead with the Einsof. It underlies a different tradition that uses various practices to achieve the Six Subtleties as well": {
+    "guess": "Mysticism",
+    "confidence": [
+      [
+        "Myst",
+        -0.014249181
+      ],
+      [
+        "icism",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This idea can be divided into apophatic and kataphatic varieties depending on whether it can be explained concretely. William James' The Varieties of Religious Experience asks if saintly life originates from this idea and states that \"ineffability\" is a prerequisite for a tradition to adhere to it. This idea underlies a tradition whose practitioners attempt to merge the (*) Godhead with the Einsof. It underlies a different tradition that uses various practices to achieve the Six Subtleties as well as fana. That group also emulates the motion of planets through the practice of whirling, fostering": {
+    "guess": "Mysticism",
+    "confidence": [
+      [
+        "Myst",
+        -0.1701977
+      ],
+      [
+        "icism",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This idea can be divided into apophatic and kataphatic varieties depending on whether it can be explained concretely. William James' The Varieties of Religious Experience asks if saintly life originates from this idea and states that \"ineffability\" is a prerequisite for a tradition to adhere to it. This idea underlies a tradition whose practitioners attempt to merge the (*) Godhead with the Einsof. It underlies a different tradition that uses various practices to achieve the Six Subtleties as well as fana. That group also emulates the motion of planets through the practice of whirling, fostering this experience by proxy. For 10 points, name this human experience of the transcendent divine that": {
+    "guess": "Mysticism",
+    "confidence": [
+      [
+        "Myst",
+        -4.3941356e-05
+      ],
+      [
+        "icism",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "This idea can be divided into apophatic and kataphatic varieties depending on whether it can be explained concretely. William James' The Varieties of Religious Experience asks if saintly life originates from this idea and states that \"ineffability\" is a prerequisite for a tradition to adhere to it. This idea underlies a tradition whose practitioners attempt to merge the (*) Godhead with the Einsof. It underlies a different tradition that uses various practices to achieve the Six Subtleties as well as fana. That group also emulates the motion of planets through the practice of whirling, fostering this experience by proxy. For 10 points, name this human experience of the transcendent divine that characterizes sects like Kabbalah and Sufism.": {
+    "guess": "Mysticism",
+    "confidence": [
+      [
+        "Myst",
+        -1.1517961e-05
+      ],
+      [
+        "icism",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "Identify the following heroes and villains from Todd McFarlane's comic series, Spawn, F10PE.  A. Employed": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.010045044
+      ]
+    ]
+  },
+  "Identify the following heroes and villains from Todd McFarlane's comic series, Spawn, F10PE.  A. Employed by the agency known as the Star Chamber, these warriors are called upon by heaven to battle against": {
+    "guess": "Redeemer",
+    "confidence": [
+      [
+        "Rede",
+        -0.4170321
+      ],
+      [
+        "emer",
+        -0.69315296
+      ]
+    ]
+  },
+  "Identify the following heroes and villains from Todd McFarlane's comic series, Spawn, F10PE.  A. Employed by the agency known as the Star Chamber, these warriors are called upon by heaven to battle against Hellspawn whenever they appear on Earth. Jason Wynn was recruited as one, but was replaced by Phil": {
+    "guess": "Redeemer (comics)",
+    "confidence": [
+      [
+        "Rede",
+        -0.12659384
+      ],
+      [
+        "emer",
+        -0.1797471
+      ],
+      [
+        " (",
+        -0.38701904
+      ],
+      [
+        "com",
+        -0.29676363
+      ],
+      [
+        "ics",
+        0.0
+      ],
+      [
+        ")",
+        -5.7961847e-06
+      ]
+    ]
+  },
+  "Identify the following heroes and villains from Todd McFarlane's comic series, Spawn, F10PE.  A. Employed by the agency known as the Star Chamber, these warriors are called upon by heaven to battle against Hellspawn whenever they appear on Earth. Jason Wynn was recruited as one, but was replaced by Phil Timper": {
+    "guess": "Redeemer (comics)",
+    "confidence": [
+      [
+        "Rede",
+        -0.22688572
+      ],
+      [
+        "emer",
+        -0.2519302
+      ],
+      [
+        " (",
+        -0.12715393
+      ],
+      [
+        "com",
+        -0.19831432
+      ],
+      [
+        "ics",
+        -1.9361265e-07
+      ],
+      [
+        ")",
+        -7.3458323e-06
+      ]
+    ]
+  },
+  "Identify the following small or regional fast-food restaurant chains from a description of some of their": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.01799049
+      ]
+    ]
+  },
+  "Identify the following small or regional fast-food restaurant chains from a description of some of their unique menu items.  A. This Utah-based regional chain claims to be the origin of both the kid's": {
+    "guess": "Arctic Circle Restaurants",
+    "confidence": [
+      [
+        "Ar",
+        -0.45683053
+      ],
+      [
+        "ctic",
+        -5.967624e-05
+      ],
+      [
+        " Circle",
+        -3.1281633e-07
+      ],
+      [
+        " Restaurants",
+        -0.38973808
+      ]
+    ]
+  },
+  "Identify the following small or regional fast-food restaurant chains from a description of some of their unique menu items.  A. This Utah-based regional chain claims to be the origin of both the kid's meal and fry sauce. Fry sauce is made from tomato concentrate, lemon juice, eggs, and many other ingredients.": {
+    "guess": "Arctic Circle Restaurants",
+    "confidence": [
+      [
+        "Ar",
+        -0.010037377
+      ],
+      [
+        "ctic",
+        -1.1994775e-05
+      ],
+      [
+        " Circle",
+        -6.704273e-07
+      ],
+      [
+        " Restaurants",
+        -0.10374154
+      ]
+    ]
+  },
+  "Identify the following about the breakup of Yugoslavia in the early 1990s F10PE.  A. In 1990, the government": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.18251376
+      ]
+    ]
+  },
+  "Identify the following about the breakup of Yugoslavia in the early 1990s F10PE.  A. In 1990, the government of Serbian president Slobodan Milo\u0161evi\u0107 worked to limit the autonomy of Kosovo and Metohia and": {
+    "guess": "Breakup of Yugoslavia",
+    "confidence": [
+      [
+        "Break",
+        -0.71511006
+      ],
+      [
+        "up",
+        0.0
+      ],
+      [
+        " of",
+        -1.0206721e-05
+      ],
+      [
+        " Yug",
+        -1.9361265e-07
+      ],
+      [
+        "osl",
+        0.0
+      ],
+      [
+        "avia",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following about the breakup of Yugoslavia in the early 1990s F10PE.  A. In 1990, the government of Serbian president Slobodan Milo\u0161evi\u0107 worked to limit the autonomy of Kosovo and Metohia and of this other formerly autonomous province. Serbs displaced by the wars in Bosnia and Croatia were": {
+    "guess": "Vojvodina",
+    "confidence": [
+      [
+        "V",
+        -0.40430388
+      ],
+      [
+        "oj",
+        0.0
+      ],
+      [
+        "vod",
+        0.0
+      ],
+      [
+        "ina",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following about the breakup of Yugoslavia in the early 1990s F10PE.  A. In 1990, the government of Serbian president Slobodan Milo\u0161evi\u0107 worked to limit the autonomy of Kosovo and Metohia and of this other formerly autonomous province. Serbs displaced by the wars in Bosnia and Croatia were resettled to this area, which has a very large Hungarian population and which is home to at least": {
+    "guess": "Vojvodina",
+    "confidence": [
+      [
+        "V",
+        -0.10373187
+      ],
+      [
+        "oj",
+        0.0
+      ],
+      [
+        "vod",
+        0.0
+      ],
+      [
+        "ina",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following about the breakup of Yugoslavia in the early 1990s F10PE.  A. In 1990, the government of Serbian president Slobodan Milo\u0161evi\u0107 worked to limit the autonomy of Kosovo and Metohia and of this other formerly autonomous province. Serbs displaced by the wars in Bosnia and Croatia were resettled to this area, which has a very large Hungarian population and which is home to at least 24 other ethnic groups.": {
+    "guess": "Vojvodina",
+    "confidence": [
+      [
+        "V",
+        -0.039825574
+      ],
+      [
+        "oj",
+        0.0
+      ],
+      [
+        "vod",
+        0.0
+      ],
+      [
+        "ina",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following operas by the Russian composer Nikolai Rimsky- Korsakov from a description of": {
+    "guess": "List of operas by Nikolai Rimsky-Korsakov",
+    "confidence": [
+      [
+        "List",
+        -0.2558399
+      ],
+      [
+        " of",
+        -6.704273e-07
+      ],
+      [
+        " oper",
+        -0.2018224
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        " by",
+        -6.837811e-05
+      ],
+      [
+        " Nikol",
+        -0.029787283
+      ],
+      [
+        "ai",
+        -2.1008714e-06
+      ],
+      [
+        " Rim",
+        -9.0883464e-07
+      ],
+      [
+        "sky",
+        0.0
+      ],
+      [
+        "-K",
+        0.0
+      ],
+      [
+        "ors",
+        0.0
+      ],
+      [
+        "akov",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following operas by the Russian composer Nikolai Rimsky- Korsakov from a description of their plots F15PE.  A. Dodon, concerned that Shemakhan will invade, summons an astrologer, who gives": {
+    "guess": "The Golden Cockerel",
+    "confidence": [
+      [
+        "The",
+        -0.0049257353
+      ],
+      [
+        " Golden",
+        -0.000530395
+      ],
+      [
+        " C",
+        -0.0002632431
+      ],
+      [
+        "ocker",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following operas by the Russian composer Nikolai Rimsky- Korsakov from a description of their plots F15PE.  A. Dodon, concerned that Shemakhan will invade, summons an astrologer, who gives him the title object. Dodon sends his two sons to attack his neighbors, but they kill each other by": {
+    "guess": "The Golden Cockerel",
+    "confidence": [
+      [
+        "The",
+        -0.003603275
+      ],
+      [
+        " Golden",
+        -0.0010747304
+      ],
+      [
+        " C",
+        -9.698699e-05
+      ],
+      [
+        "ocker",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following operas by the Russian composer Nikolai Rimsky- Korsakov from a description of their plots F15PE.  A. Dodon, concerned that Shemakhan will invade, summons an astrologer, who gives him the title object. Dodon sends his two sons to attack his neighbors, but they kill each other by mistake. He leads the army, meeting Shemakhan and falling in love. After their wedding, the astrologer": {
+    "guess": "The Golden Cockerel",
+    "confidence": [
+      [
+        "The",
+        -0.0034632252
+      ],
+      [
+        " Golden",
+        -0.0010642479
+      ],
+      [
+        " C",
+        -5.8961017e-05
+      ],
+      [
+        "ocker",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following operas by the Russian composer Nikolai Rimsky- Korsakov from a description of their plots F15PE.  A. Dodon, concerned that Shemakhan will invade, summons an astrologer, who gives him the title object. Dodon sends his two sons to attack his neighbors, but they kill each other by mistake. He leads the army, meeting Shemakhan and falling in love. After their wedding, the astrologer is killed by Dodon, who is then killed by the title object.": {
+    "guess": "The Golden Cockerel",
+    "confidence": [
+      [
+        "The",
+        -0.00055827404
+      ],
+      [
+        " Golden",
+        -0.00036906294
+      ],
+      [
+        " C",
+        -3.5954712e-05
+      ],
+      [
+        "ocker",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following players from the US Women's National Soccer Team F10PE.  A. She is the University": {
+    "guess": "Mia Hamm",
+    "confidence": [
+      [
+        "M",
+        -0.6200167
+      ],
+      [
+        "ia",
+        -0.00015884268
+      ],
+      [
+        " Hamm",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Identify the following players from the US Women's National Soccer Team F10PE.  A. She is the University of Florida's all-time leading goal scorer and won the Founders' Cup MVP award for the 2003 WUSA": {
+    "guess": "Abby Wambach",
+    "confidence": [
+      [
+        "Ab",
+        -0.0010690123
+      ],
+      [
+        "by",
+        -1.9361265e-07
+      ],
+      [
+        " W",
+        0.0
+      ],
+      [
+        "amb",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following players from the US Women's National Soccer Team F10PE.  A. She is the University of Florida's all-time leading goal scorer and won the Founders' Cup MVP award for the 2003 WUSA title game with the Washington Freedom. Her national team career is notable for a goal against rival": {
+    "guess": "Abby Wambach",
+    "confidence": [
+      [
+        "Ab",
+        -0.0009737557
+      ],
+      [
+        "by",
+        -1.6240566e-06
+      ],
+      [
+        " W",
+        0.0
+      ],
+      [
+        "amb",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following players from the US Women's National Soccer Team F10PE.  A. She is the University of Florida's all-time leading goal scorer and won the Founders' Cup MVP award for the 2003 WUSA title game with the Washington Freedom. Her national team career is notable for a goal against rival Norway in the 2003 World Cup and for a header in extra time against Brazil in the gold medal match": {
+    "guess": "Abby Wambach",
+    "confidence": [
+      [
+        "Ab",
+        -0.00044735408
+      ],
+      [
+        "by",
+        -1.9361265e-07
+      ],
+      [
+        " W",
+        0.0
+      ],
+      [
+        "amb",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following players from the US Women's National Soccer Team F10PE.  A. She is the University of Florida's all-time leading goal scorer and won the Founders' Cup MVP award for the 2003 WUSA title game with the Washington Freedom. Her national team career is notable for a goal against rival Norway in the 2003 World Cup and for a header in extra time against Brazil in the gold medal match of the 2004 Summer Olympics.": {
+    "guess": "Abby Wambach",
+    "confidence": [
+      [
+        "Ab",
+        -0.00073696586
+      ],
+      [
+        "by",
+        -1.9361265e-07
+      ],
+      [
+        " W",
+        0.0
+      ],
+      [
+        "amb",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following characters from Boris Pasternak's classic novel, _Dr. Zhivago_, F10PE.  A. He": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.01272413
+      ]
+    ]
+  },
+  "Identify the following characters from Boris Pasternak's classic novel, _Dr. Zhivago_, F10PE.  A. He was the attorney for Yurii's father and was partly responsible for his suicide. He also had an elicit": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.4937206
+      ]
+    ]
+  },
+  "Identify the following characters from Boris Pasternak's classic novel, _Dr. Zhivago_, F10PE.  A. He was the attorney for Yurii's father and was partly responsible for his suicide. He also had an elicit relationship with Lara for years, leading her to attempt to shoot him at the Sventitskys' Christmas": {
+    "guess": "Viktor Komarovsky",
+    "confidence": [
+      [
+        "V",
+        -0.8425724
+      ],
+      [
+        "ikt",
+        -3.7027545e-05
+      ],
+      [
+        "or",
+        0.0
+      ],
+      [
+        " Kom",
+        -0.001528075
+      ],
+      [
+        "ar",
+        -7.89631e-07
+      ],
+      [
+        "ovsky",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Identify the following characters from Boris Pasternak's classic novel, _Dr. Zhivago_, F10PE.  A. He was the attorney for Yurii's father and was partly responsible for his suicide. He also had an elicit relationship with Lara for years, leading her to attempt to shoot him at the Sventitskys' Christmas party. When Yurii and Lara are living at Varykino, he convinces them that Strelnikov is dead and takes": {
+    "guess": "Viktor Komarovsky",
+    "confidence": [
+      [
+        "V",
+        -0.82104737
+      ],
+      [
+        "ikt",
+        -2.9756122e-05
+      ],
+      [
+        "or",
+        0.0
+      ],
+      [
+        " Kom",
+        -0.011109128
+      ],
+      [
+        "ar",
+        -1.0280384e-06
+      ],
+      [
+        "ovsky",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Identify the following characters from Boris Pasternak's classic novel, _Dr. Zhivago_, F10PE.  A. He was the attorney for Yurii's father and was partly responsible for his suicide. He also had an elicit relationship with Lara for years, leading her to attempt to shoot him at the Sventitskys' Christmas party. When Yurii and Lara are living at Varykino, he convinces them that Strelnikov is dead and takes Lara to Vladivostok, separating the lovers forever.": {
+    "guess": "Viktor Komarovsky",
+    "confidence": [
+      [
+        "V",
+        -0.9544679
+      ],
+      [
+        "ikt",
+        -1.8074163e-05
+      ],
+      [
+        "or",
+        0.0
+      ],
+      [
+        " Kom",
+        -0.005332659
+      ],
+      [
+        "ar",
+        -9.0883464e-07
+      ],
+      [
+        "ovsky",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Identify each of the following people associated with a modernist art movement F10PE.  A. Considered": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.035814375
+      ]
+    ]
+  },
+  "Identify each of the following people associated with a modernist art movement F10PE.  A. Considered one of the founders of Futurism, this poet and political thinker was noted for his advancement of Fascist": {
+    "guess": "Filippo Tommaso Marinetti",
+    "confidence": [
+      [
+        "Fil",
+        -0.17205518
+      ],
+      [
+        "ip",
+        0.0
+      ],
+      [
+        "po",
+        0.0
+      ],
+      [
+        " Tom",
+        -0.000553748
+      ],
+      [
+        "mas",
+        -1.8624639e-06
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " Mar",
+        -1.3856493e-06
+      ],
+      [
+        "inet",
+        0.0
+      ],
+      [
+        "ti",
+        0.0
+      ]
+    ]
+  },
+  "Identify each of the following people associated with a modernist art movement F10PE.  A. Considered one of the founders of Futurism, this poet and political thinker was noted for his advancement of Fascist thought after his Futurist Political Party was absorbed into Mussolini's. He was also the first": {
+    "guess": "Filippo Tommaso Marinetti",
+    "confidence": [
+      [
+        "Fil",
+        -0.008649199
+      ],
+      [
+        "ip",
+        0.0
+      ],
+      [
+        "po",
+        0.0
+      ],
+      [
+        " Tom",
+        -0.000912298
+      ],
+      [
+        "mas",
+        -9.0883464e-07
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " Mar",
+        -9.0883464e-07
+      ],
+      [
+        "inet",
+        0.0
+      ],
+      [
+        "ti",
+        0.0
+      ]
+    ]
+  },
+  "Identify each of the following people associated with a modernist art movement F10PE.  A. Considered one of the founders of Futurism, this poet and political thinker was noted for his advancement of Fascist thought after his Futurist Political Party was absorbed into Mussolini's. He was also the first to provide a manifesto outlining Futurist ideas, Manifesto of Futurism, and he wrote the sound poem": {
+    "guess": "Filippo Tommaso Marinetti",
+    "confidence": [
+      [
+        "Fil",
+        -0.22969696
+      ],
+      [
+        "ip",
+        0.0
+      ],
+      [
+        "po",
+        0.0
+      ],
+      [
+        " Tom",
+        -0.00043865587
+      ],
+      [
+        "mas",
+        -5.5122365e-07
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " Mar",
+        0.0
+      ],
+      [
+        "inet",
+        0.0
+      ],
+      [
+        "ti",
+        0.0
+      ]
+    ]
+  },
+  "Identify each of the following people associated with a modernist art movement F10PE.  A. Considered one of the founders of Futurism, this poet and political thinker was noted for his advancement of Fascist thought after his Futurist Political Party was absorbed into Mussolini's. He was also the first to provide a manifesto outlining Futurist ideas, Manifesto of Futurism, and he wrote the sound poem Zang Tumb Tumb.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.57793874
+      ]
+    ]
+  },
+  "Identify the ecumenical council which handled each of the following issues F10PE.  A. This council declared": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.19467922
+      ],
+      [
+        ".",
+        -0.47409734
+      ]
+    ]
+  },
+  "Identify the ecumenical council which handled each of the following issues F10PE.  A. This council declared that Mary was \"Theotokos\", not just \"Christotokos\", because she gave birth to God as a man, not": {
+    "guess": "Council of Ephesus",
+    "confidence": [
+      [
+        "Council",
+        -0.009201328
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " E",
+        0.0
+      ],
+      [
+        "phes",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Identify the ecumenical council which handled each of the following issues F10PE.  A. This council declared that Mary was \"Theotokos\", not just \"Christotokos\", because she gave birth to God as a man, not just a man whom God had chosen. It also condemned Nestorianism and Pelagianism as heresies and forbade": {
+    "guess": "Council of Ephesus",
+    "confidence": [
+      [
+        "Council",
+        -0.0013201195
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " E",
+        0.0
+      ],
+      [
+        "phes",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Identify the ecumenical council which handled each of the following issues F10PE.  A. This council declared that Mary was \"Theotokos\", not just \"Christotokos\", because she gave birth to God as a man, not just a man whom God had chosen. It also condemned Nestorianism and Pelagianism as heresies and forbade any additional changes to the Nicene Creed.": {
+    "guess": "Council of Ephesus",
+    "confidence": [
+      [
+        "Council",
+        -0.0021227805
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " E",
+        0.0
+      ],
+      [
+        "phes",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following types of species interaction from a brief description F10PE.  A. It often occurs": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6785458
+      ]
+    ]
+  },
+  "Identify the following types of species interaction from a brief description F10PE.  A. It often occurs when one organism exudes a chemical compound detrimental to another organism. It is defined as interaction": {
+    "guess": "Allelopathy",
+    "confidence": [
+      [
+        "Alle",
+        -0.000404813
+      ],
+      [
+        "lop",
+        -4.3202e-07
+      ],
+      [
+        "athy",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Identify the following types of species interaction from a brief description F10PE.  A. It often occurs when one organism exudes a chemical compound detrimental to another organism. It is defined as interaction in which one organism hinders or restricts the success of another without itself being benefited": {
+    "guess": "Allelopathy",
+    "confidence": [
+      [
+        "Alle",
+        -0.015664425
+      ],
+      [
+        "lop",
+        -1.9361265e-07
+      ],
+      [
+        "athy",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Identify the following types of species interaction from a brief description F10PE.  A. It often occurs when one organism exudes a chemical compound detrimental to another organism. It is defined as interaction in which one organism hinders or restricts the success of another without itself being benefited or harmed.": {
+    "guess": "Allelopathy",
+    "confidence": [
+      [
+        "Alle",
+        -0.032172013
+      ],
+      [
+        "lop",
+        -4.3202e-07
+      ],
+      [
+        "athy",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "for 1, 10 for 2, 20 for 3, and 30 for all 4, identify these cocktails all of which share a common ingredient.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.17115037
+      ]
+    ]
+  },
+  "for 1, 10 for 2, 20 for 3, and 30 for all 4, identify these cocktails all of which share a common ingredient.  A. There are two recipes for this strong drink, the \"classic\", which is 1 part 151 proof rum,": {
+    "guess": "List of cocktails",
+    "confidence": [
+      [
+        "List",
+        -1.0716274
+      ],
+      [
+        " of",
+        -0.00026133584
+      ],
+      [
+        " cocktails",
+        -0.0028965247
+      ]
+    ]
+  },
+  "for 1, 10 for 2, 20 for 3, and 30 for all 4, identify these cocktails all of which share a common ingredient.  A. There are two recipes for this strong drink, the \"classic\", which is 1 part 151 proof rum, 1 part Everclear, and 1 part Blue Cura\u00e7ao, and the \"lighter\", which is 1 part 151 proof rum, 1 part": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6214652
+      ]
+    ]
+  },
+  "for 1, 10 for 2, 20 for 3, and 30 for all 4, identify these cocktails all of which share a common ingredient.  A. There are two recipes for this strong drink, the \"classic\", which is 1 part 151 proof rum, 1 part Everclear, and 1 part Blue Cura\u00e7ao, and the \"lighter\", which is 1 part 151 proof rum, 1 part 100 proof vodka, and 1 part Blue Cura\u00e7ao.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.776761
+      ]
+    ]
+  },
+  "Identify the American author from works, 30-10-10  30 pts: The plays _The Women of Andros_ and _The Trumpet": {
+    "guess": "Thornton Wilder",
+    "confidence": [
+      [
+        "Thor",
+        -0.16739607
+      ],
+      [
+        "nton",
+        -1.9361265e-07
+      ],
+      [
+        " Wilder",
+        0.0
+      ]
+    ]
+  },
+  "Identify the American author from works, 30-10-10  30 pts: The plays _The Women of Andros_ and _The Trumpet Shall  Sound_; the novel _The Ides of March_  20 pts: The novels _The Cabala_ and _Heaven's My": {
+    "guess": "Thornton Wilder",
+    "confidence": [
+      [
+        "Thor",
+        -0.0143532995
+      ],
+      [
+        "nton",
+        -4.3202e-07
+      ],
+      [
+        " Wilder",
+        0.0
+      ]
+    ]
+  },
+  "Identify the American author from works, 30-10-10  30 pts: The plays _The Women of Andros_ and _The Trumpet Shall  Sound_; the novel _The Ides of March_  20 pts: The novels _The Cabala_ and _Heaven's My Destiny_; the play  _The Skin of Our Teeth_  10 pts: The novels _Bridge of San Luis Rey_ and the play": {
+    "guess": "Thornton Wilder",
+    "confidence": [
+      [
+        "Thor",
+        -0.0036238313
+      ],
+      [
+        "nton",
+        0.0
+      ],
+      [
+        " Wilder",
+        0.0
+      ]
+    ]
+  },
+  "Identify the American author from works, 30-10-10  30 pts: The plays _The Women of Andros_ and _The Trumpet Shall  Sound_; the novel _The Ides of March_  20 pts: The novels _The Cabala_ and _Heaven's My Destiny_; the play  _The Skin of Our Teeth_  10 pts: The novels _Bridge of San Luis Rey_ and the play _Our  Town_.": {
+    "guess": "Thornton Wilder",
+    "confidence": [
+      [
+        "Thor",
+        -0.0017879904
+      ],
+      [
+        "nton",
+        0.0
+      ],
+      [
+        " Wilder",
+        0.0
+      ]
+    ]
+  },
+  "-20-10 Identify the philosopher      A. 30 point clue: This philosopher's unconventional education featured": {
+    "guess": "Bertrand Russell",
+    "confidence": [
+      [
+        "Ber",
+        -0.62676483
+      ],
+      [
+        "trand",
+        -1.2664457e-06
+      ],
+      [
+        " Russell",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "-20-10 Identify the philosopher      A. 30 point clue: This philosopher's unconventional education featured two years of study in France, and sporadic studies during a long tour of Europe with his family.": {
+    "guess": "William James",
+    "confidence": [
+      [
+        "William",
+        -1.2338023
+      ],
+      [
+        " James",
+        -0.00064964825
+      ]
+    ]
+  },
+  "-20-10 Identify the philosopher      A. 30 point clue: This philosopher's unconventional education featured two years of study in France, and sporadic studies during a long tour of Europe with his family.      B. 20 point clue: In 1818, after publishing his chief work, he took a lecturing position at": {
+    "guess": "Arthur Schopenhauer",
+    "confidence": [
+      [
+        "Arthur",
+        -0.04251274
+      ],
+      [
+        " Sch",
+        0.0
+      ],
+      [
+        "openh",
+        -1.9361265e-07
+      ],
+      [
+        "auer",
+        0.0
+      ]
+    ]
+  },
+  "-20-10 Identify the philosopher      A. 30 point clue: This philosopher's unconventional education featured two years of study in France, and sporadic studies during a long tour of Europe with his family.      B. 20 point clue: In 1818, after publishing his chief work, he took a lecturing position at the University of Berlin and competed with Hegel for respect and acclaim.      C. 10 point clue: Known": {
+    "guess": "Arthur Schopenhauer",
+    "confidence": [
+      [
+        "Arthur",
+        -0.07925801
+      ],
+      [
+        " Sch",
+        -1.9361265e-07
+      ],
+      [
+        "openh",
+        -1.9361265e-07
+      ],
+      [
+        "auer",
+        0.0
+      ]
+    ]
+  },
+  "-20-10 Identify the philosopher      A. 30 point clue: This philosopher's unconventional education featured two years of study in France, and sporadic studies during a long tour of Europe with his family.      B. 20 point clue: In 1818, after publishing his chief work, he took a lecturing position at the University of Berlin and competed with Hegel for respect and acclaim.      C. 10 point clue: Known for his philosophy of pessimism, he argued that will is more important than reason in The World": {
+    "guess": "Arthur Schopenhauer",
+    "confidence": [
+      [
+        "Arthur",
+        -0.10216367
+      ],
+      [
+        " Sch",
+        0.0
+      ],
+      [
+        "openh",
+        0.0
+      ],
+      [
+        "auer",
+        0.0
+      ]
+    ]
+  },
+  "-20-10 Identify the philosopher      A. 30 point clue: This philosopher's unconventional education featured two years of study in France, and sporadic studies during a long tour of Europe with his family.      B. 20 point clue: In 1818, after publishing his chief work, he took a lecturing position at the University of Berlin and competed with Hegel for respect and acclaim.      C. 10 point clue: Known for his philosophy of pessimism, he argued that will is more important than reason in The World as Will and Idea.": {
+    "guess": "Arthur Schopenhauer",
+    "confidence": [
+      [
+        "Arthur",
+        -0.38726217
+      ],
+      [
+        " Sch",
+        0.0
+      ],
+      [
+        "openh",
+        0.0
+      ],
+      [
+        "auer",
+        0.0
+      ]
+    ]
+  },
+  "The ideas of this movement were introduced to the United States in part through a series of articles": {
+    "guess": "Transcendentalism",
+    "confidence": [
+      [
+        "Trans",
+        -0.5376829
+      ],
+      [
+        "c",
+        0.0
+      ],
+      [
+        "end",
+        -1.9361265e-07
+      ],
+      [
+        "ental",
+        0.0
+      ],
+      [
+        "ism",
+        -0.00026574635
+      ]
+    ]
+  },
+  "The ideas of this movement were introduced to the United States in part through a series of articles published by Harry Helson. Its theories were expanded in studies of the Zeigarnik effect and the development": {
+    "guess": "Gestalt psychology",
+    "confidence": [
+      [
+        "Gest",
+        -0.00030126172
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " psychology",
+        -0.0040785205
+      ]
+    ]
+  },
+  "The ideas of this movement were introduced to the United States in part through a series of articles published by Harry Helson. Its theories were expanded in studies of the Zeigarnik effect and the development of field theory by Kurt Lewin. Early influences on it included the phenomenology of Carl Stumpf": {
+    "guess": "Gestalt psychology",
+    "confidence": [
+      [
+        "Gest",
+        -0.0011784395
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " psychology",
+        -4.9617593e-06
+      ]
+    ]
+  },
+  "The ideas of this movement were introduced to the United States in part through a series of articles published by Harry Helson. Its theories were expanded in studies of the Zeigarnik effect and the development of field theory by Kurt Lewin. Early influences on it included the phenomenology of Carl Stumpf and the theories of Ehrenfels, who noted that transposed melodies sound the same. Important concepts": {
+    "guess": "Gestalt psychology",
+    "confidence": [
+      [
+        "Gest",
+        -0.0011791547
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " psychology",
+        -3.888926e-06
+      ]
+    ]
+  },
+  "The ideas of this movement were introduced to the United States in part through a series of articles published by Harry Helson. Its theories were expanded in studies of the Zeigarnik effect and the development of field theory by Kurt Lewin. Early influences on it included the phenomenology of Carl Stumpf and the theories of Ehrenfels, who noted that transposed melodies sound the same. Important concepts of this school include the principle of pr\u00e4gnanz and the appearance of motion in the phi phenomenon.": {
+    "guess": "Gestalt psychology",
+    "confidence": [
+      [
+        "Gest",
+        -0.0002637199
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " psychology",
+        -4.9617593e-06
+      ]
+    ]
+  },
+  "The ideas of this movement were introduced to the United States in part through a series of articles published by Harry Helson. Its theories were expanded in studies of the Zeigarnik effect and the development of field theory by Kurt Lewin. Early influences on it included the phenomenology of Carl Stumpf and the theories of Ehrenfels, who noted that transposed melodies sound the same. Important concepts of this school include the principle of pr\u00e4gnanz and the appearance of motion in the phi phenomenon. FTP, name this school of psychology founded by Koffka, K\u00f6hler, and Wertheimer, basically summed": {
+    "guess": "Gestalt psychology",
+    "confidence": [
+      [
+        "Gest",
+        -4.179569e-05
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " psychology",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The ideas of this movement were introduced to the United States in part through a series of articles published by Harry Helson. Its theories were expanded in studies of the Zeigarnik effect and the development of field theory by Kurt Lewin. Early influences on it included the phenomenology of Carl Stumpf and the theories of Ehrenfels, who noted that transposed melodies sound the same. Important concepts of this school include the principle of pr\u00e4gnanz and the appearance of motion in the phi phenomenon. FTP, name this school of psychology founded by Koffka, K\u00f6hler, and Wertheimer, basically summed up by the belief that the whole is greater than the sum of its parts.": {
+    "guess": "Gestalt psychology",
+    "confidence": [
+      [
+        "Gest",
+        -0.00014275387
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        " psychology",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "-20-10: Identify the book of the Bible from verses.  30: Remember your Creator in the days of your youth,": {
+    "guess": "Ecclesiastes",
+    "confidence": [
+      [
+        "Ec",
+        -0.00094219245
+      ],
+      [
+        "cles",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        "astes",
+        0.0
+      ]
+    ]
+  },
+  "-20-10: Identify the book of the Bible from verses.  30: Remember your Creator in the days of your youth, before the days of trouble come.  20: \"Meaningless! Meaningless!\" says the Teacher. \"Everything": {
+    "guess": "Ecclesiastes",
+    "confidence": [
+      [
+        "Ec",
+        -0.0048416266
+      ],
+      [
+        "cles",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        "astes",
+        0.0
+      ]
+    ]
+  },
+  "-20-10: Identify the book of the Bible from verses.  30: Remember your Creator in the days of your youth, before the days of trouble come.  20: \"Meaningless! Meaningless!\" says the Teacher. \"Everything is meaningless!\"  10: There is a time for everything, and a season for every activity under heaven:": {
+    "guess": "Ecclesiastes",
+    "confidence": [
+      [
+        "Ec",
+        -8.9119545e-05
+      ],
+      [
+        "cles",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        "astes",
+        0.0
+      ]
+    ]
+  },
+  "-20-10: Identify the book of the Bible from verses.  30: Remember your Creator in the days of your youth, before the days of trouble come.  20: \"Meaningless! Meaningless!\" says the Teacher. \"Everything is meaningless!\"  10: There is a time for everything, and a season for every activity under heaven: a time to be born and a time to die.": {
+    "guess": "Ecclesiastes",
+    "confidence": [
+      [
+        "Ec",
+        -0.000162538
+      ],
+      [
+        "cles",
+        0.0
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        "astes",
+        0.0
+      ]
+    ]
+  },
+  "He has been identified as an ascetic martyr, killed in his crusade against the irrational tide of religious": {
+    "guess": "Hypatia of Alexandria",
+    "confidence": [
+      [
+        "Hyp",
+        -0.3530846
+      ],
+      [
+        "atia",
+        -1.3856493e-06
+      ],
+      [
+        " of",
+        -0.702922
+      ],
+      [
+        " Alexandria",
+        -1.18755715e-05
+      ]
+    ]
+  },
+  "He has been identified as an ascetic martyr, killed in his crusade against the irrational tide of religious fanaticism. Others suggest that he was a myopic psychopath who was unable to accept human nature": {
+    "guess": "Giordano Bruno",
+    "confidence": [
+      [
+        "Gi",
+        -0.6117007
+      ],
+      [
+        "ord",
+        -0.16022636
+      ],
+      [
+        "ano",
+        0.0
+      ],
+      [
+        " Bruno",
+        0.0
+      ]
+    ]
+  },
+  "He has been identified as an ascetic martyr, killed in his crusade against the irrational tide of religious fanaticism. Others suggest that he was a myopic psychopath who was unable to accept human nature as it stood, and tried to suppress it. Still others seem him as sexually repressed, as signified": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.3160466
+      ]
+    ]
+  },
+  "He has been identified as an ascetic martyr, killed in his crusade against the irrational tide of religious fanaticism. Others suggest that he was a myopic psychopath who was unable to accept human nature as it stood, and tried to suppress it. Still others seem him as sexually repressed, as signified by his assuming the garb of a woman in order to see his mother's wild orgies. In the end, though, the": {
+    "guess": "Savonarola",
+    "confidence": [
+      [
+        "Sav",
+        -0.22296195
+      ],
+      [
+        "onar",
+        -2.9352968e-06
+      ],
+      [
+        "ola",
+        0.0
+      ]
+    ]
+  },
+  "He has been identified as an ascetic martyr, killed in his crusade against the irrational tide of religious fanaticism. Others suggest that he was a myopic psychopath who was unable to accept human nature as it stood, and tried to suppress it. Still others seem him as sexually repressed, as signified by his assuming the garb of a woman in order to see his mother's wild orgies. In the end, though, the Maenads care nothing about these critical opinions - they, along with his mother, tear him limb from": {
+    "guess": "Pentheus",
+    "confidence": [
+      [
+        "Pent",
+        -0.00014656837
+      ],
+      [
+        "heus",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "He has been identified as an ascetic martyr, killed in his crusade against the irrational tide of religious fanaticism. Others suggest that he was a myopic psychopath who was unable to accept human nature as it stood, and tried to suppress it. Still others seem him as sexually repressed, as signified by his assuming the garb of a woman in order to see his mother's wild orgies. In the end, though, the Maenads care nothing about these critical opinions - they, along with his mother, tear him limb from limb and affix his head to a staff during a religiously induced frenzy. FTP, identify this son of": {
+    "guess": "Pentheus",
+    "confidence": [
+      [
+        "Pent",
+        -7.183501e-05
+      ],
+      [
+        "heus",
+        -1.5213274e-05
+      ]
+    ]
+  },
+  "He has been identified as an ascetic martyr, killed in his crusade against the irrational tide of religious fanaticism. Others suggest that he was a myopic psychopath who was unable to accept human nature as it stood, and tried to suppress it. Still others seem him as sexually repressed, as signified by his assuming the garb of a woman in order to see his mother's wild orgies. In the end, though, the Maenads care nothing about these critical opinions - they, along with his mother, tear him limb from limb and affix his head to a staff during a religiously induced frenzy. FTP, identify this son of Agave and cousin to Dionysus.": {
+    "guess": "Pentheus",
+    "confidence": [
+      [
+        "Pent",
+        -8.537869e-06
+      ],
+      [
+        "heus",
+        -1.7597347e-05
+      ]
+    ]
+  },
+  "Identify the common surname: Frank and his sister Margaret were prominent poster painters of the Art": {
+    "guess": "BRANGWYN",
+    "confidence": [
+      [
+        "BR",
+        -0.54370236
+      ],
+      [
+        "ANG",
+        -4.2391708e-05
+      ],
+      [
+        "W",
+        -1.9816675e-06
+      ],
+      [
+        "YN",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Identify the common surname: Frank and his sister Margaret were prominent poster painters of the Art Nouveau movement; Jock was among the first of the Canadian abstract artists; James Edward was an English-Canadian": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1152097
+      ]
+    ]
+  },
+  "Identify the common surname: Frank and his sister Margaret were prominent poster painters of the Art Nouveau movement; Jock was among the first of the Canadian abstract artists; James Edward was an English-Canadian Impressionistic landscapist; James Ramsay was England's first Labour Prime Minister; and": {
+    "guess": "MacDonald",
+    "confidence": [
+      [
+        "Mac",
+        -0.035706248
+      ],
+      [
+        "Donald",
+        -0.007607578
+      ]
+    ]
+  },
+  "Identify the common surname: Frank and his sister Margaret were prominent poster painters of the Art Nouveau movement; Jock was among the first of the Canadian abstract artists; James Edward was an English-Canadian Impressionistic landscapist; James Ramsay was England's first Labour Prime Minister; and Sir John Alexander was the first Canadian Prime Minister. FTP, identify this common Scottish last": {
+    "guess": "MacDonald",
+    "confidence": [
+      [
+        "Mac",
+        -0.008414339
+      ],
+      [
+        "Donald",
+        -0.008614927
+      ]
+    ]
+  },
+  "Identify the common surname: Frank and his sister Margaret were prominent poster painters of the Art Nouveau movement; Jock was among the first of the Canadian abstract artists; James Edward was an English-Canadian Impressionistic landscapist; James Ramsay was England's first Labour Prime Minister; and Sir John Alexander was the first Canadian Prime Minister. FTP, identify this common Scottish last name of fast food's \"Ronald\".": {
+    "guess": "MacDonald",
+    "confidence": [
+      [
+        "Mac",
+        -0.47833556
+      ],
+      [
+        "Donald",
+        -0.011051237
+      ]
+    ]
+  },
+  "The idea for this event was conceived eight years prior at an anti-slavery convention in London. The": {
+    "guess": "Seneca Falls Convention",
+    "confidence": [
+      [
+        "Sen",
+        -0.00020628207
+      ],
+      [
+        "eca",
+        0.0
+      ],
+      [
+        " Falls",
+        0.0
+      ],
+      [
+        " Convention",
+        0.0
+      ]
+    ]
+  },
+  "The idea for this event was conceived eight years prior at an anti-slavery convention in London. The event itself was denounced by religious leaders, but given a positive report by Frederick Douglass.": {
+    "guess": "Seneca Falls Convention",
+    "confidence": [
+      [
+        "Sen",
+        -0.0010519846
+      ],
+      [
+        "eca",
+        0.0
+      ],
+      [
+        " Falls",
+        0.0
+      ],
+      [
+        " Convention",
+        -4.9617593e-06
+      ]
+    ]
+  },
+  "The idea for this event was conceived eight years prior at an anti-slavery convention in London. The event itself was denounced by religious leaders, but given a positive report by Frederick Douglass. Creating a so-called Declaration of Sentiments, nearly 300 people participated in it, including Lucy": {
+    "guess": "Seneca Falls Convention",
+    "confidence": [
+      [
+        "Sen",
+        -0.00043448375
+      ],
+      [
+        "eca",
+        0.0
+      ],
+      [
+        " Falls",
+        0.0
+      ],
+      [
+        " Convention",
+        0.0
+      ]
+    ]
+  },
+  "The idea for this event was conceived eight years prior at an anti-slavery convention in London. The event itself was denounced by religious leaders, but given a positive report by Frederick Douglass. Creating a so-called Declaration of Sentiments, nearly 300 people participated in it, including Lucy Stone and Susan B. Anthony. Taking place in New York in July of 1848, for 10 points, name this meeting": {
+    "guess": "Seneca Falls Convention",
+    "confidence": [
+      [
+        "Sen",
+        -0.00091598224
+      ],
+      [
+        "eca",
+        0.0
+      ],
+      [
+        " Falls",
+        0.0
+      ],
+      [
+        " Convention",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The idea for this event was conceived eight years prior at an anti-slavery convention in London. The event itself was denounced by religious leaders, but given a positive report by Frederick Douglass. Creating a so-called Declaration of Sentiments, nearly 300 people participated in it, including Lucy Stone and Susan B. Anthony. Taking place in New York in July of 1848, for 10 points, name this meeting spearheaded by Elizabeth Cady Stanton and Lucretia Mott, which focused on improving women's rights.": {
+    "guess": "Seneca Falls Convention",
+    "confidence": [
+      [
+        "Sen",
+        -1.2352386e-05
+      ],
+      [
+        "eca",
+        0.0
+      ],
+      [
+        " Falls",
+        0.0
+      ],
+      [
+        " Convention",
+        0.0
+      ]
+    ]
+  },
+  "The ideas of this group were promoted in works like On the Development of the Monist View of History.": {
+    "guess": "Marxism",
+    "confidence": [
+      [
+        "Mar",
+        -0.09151459
+      ],
+      [
+        "x",
+        -1.147242e-06
+      ],
+      [
+        "ism",
+        -0.038724884
+      ]
+    ]
+  },
+  "The ideas of this group were promoted in works like On the Development of the Monist View of History. Banned after the Kronstadt Rising, some of their members such as Tsereteli and Dan served in the Provisional": {
+    "guess": "Mensheviks",
+    "confidence": [
+      [
+        "Mens",
+        -0.31620336
+      ],
+      [
+        "hev",
+        -0.018150995
+      ],
+      [
+        "iks",
+        0.0
+      ]
+    ]
+  },
+  "The ideas of this group were promoted in works like On the Development of the Monist View of History. Banned after the Kronstadt Rising, some of their members such as Tsereteli and Dan served in the Provisional Government, while others joined the white army. Taking up many of their issues in the journal": {
+    "guess": "Mensheviks",
+    "confidence": [
+      [
+        "Mens",
+        -0.2629414
+      ],
+      [
+        "hev",
+        -0.011047935
+      ],
+      [
+        "iks",
+        0.0
+      ]
+    ]
+  },
+  "The ideas of this group were promoted in works like On the Development of the Monist View of History. Banned after the Kronstadt Rising, some of their members such as Tsereteli and Dan served in the Provisional Government, while others joined the white army. Taking up many of their issues in the journal Iskra, they believed in a larger pool of active revolutionaries, like those found in other European": {
+    "guess": "Mensheviks",
+    "confidence": [
+      [
+        "Mens",
+        -0.14630881
+      ],
+      [
+        "hev",
+        -0.00091194035
+      ],
+      [
+        "iks",
+        0.0
+      ]
+    ]
+  },
+  "The ideas of this group were promoted in works like On the Development of the Monist View of History. Banned after the Kronstadt Rising, some of their members such as Tsereteli and Dan served in the Provisional Government, while others joined the white army. Taking up many of their issues in the journal Iskra, they believed in a larger pool of active revolutionaries, like those found in other European socialist parties, and that Marxism could only be successful after the development of capitalism.": {
+    "guess": "Mensheviks",
+    "confidence": [
+      [
+        "Mens",
+        -0.005802705
+      ],
+      [
+        "hev",
+        -0.018149942
+      ],
+      [
+        "iks",
+        0.0
+      ]
+    ]
+  },
+  "The ideas of this group were promoted in works like On the Development of the Monist View of History. Banned after the Kronstadt Rising, some of their members such as Tsereteli and Dan served in the Provisional Government, while others joined the white army. Taking up many of their issues in the journal Iskra, they believed in a larger pool of active revolutionaries, like those found in other European socialist parties, and that Marxism could only be successful after the development of capitalism. Led by Jules Martov and George Plekhanov, FTP, identify this faction of the Social Democratic Worker's": {
+    "guess": "Mensheviks",
+    "confidence": [
+      [
+        "Mens",
+        -0.0023997938
+      ],
+      [
+        "hev",
+        -0.0019286326
+      ],
+      [
+        "iks",
+        0.0
+      ]
+    ]
+  },
+  "The ideas of this group were promoted in works like On the Development of the Monist View of History. Banned after the Kronstadt Rising, some of their members such as Tsereteli and Dan served in the Provisional Government, while others joined the white army. Taking up many of their issues in the journal Iskra, they believed in a larger pool of active revolutionaries, like those found in other European socialist parties, and that Marxism could only be successful after the development of capitalism. Led by Jules Martov and George Plekhanov, FTP, identify this faction of the Social Democratic Worker's Party who opposed the Bolsheviks.": {
+    "guess": "Mensheviks",
+    "confidence": [
+      [
+        "Mens",
+        -0.07957391
+      ],
+      [
+        "hev",
+        -0.00020354039
+      ],
+      [
+        "iks",
+        0.0
+      ]
+    ]
+  },
+  "The idea for this invention came on a vacation to Ben Nevis in 1894, when a scientist noticed the optical": {
+    "guess": "Radar",
+    "confidence": [
+      [
+        "Radar",
+        -0.5709517
+      ]
+    ]
+  },
+  "The idea for this invention came on a vacation to Ben Nevis in 1894, when a scientist noticed the optical effects of the sun shining through the mist. He tried to recreate those effects at the Cavendish": {
+    "guess": "Cloud chamber",
+    "confidence": [
+      [
+        "Cloud",
+        -0.06463083
+      ],
+      [
+        " chamber",
+        -0.0008052219
+      ]
+    ]
+  },
+  "The idea for this invention came on a vacation to Ben Nevis in 1894, when a scientist noticed the optical effects of the sun shining through the mist. He tried to recreate those effects at the Cavendish Laboratory, but was frustrated until the discov  ery of radioactivity provided him with a source of": {
+    "guess": "Cloud chamber",
+    "confidence": [
+      [
+        "Cloud",
+        -0.054008942
+      ],
+      [
+        " chamber",
+        -0.00080534106
+      ]
+    ]
+  },
+  "The idea for this invention came on a vacation to Ben Nevis in 1894, when a scientist noticed the optical effects of the sun shining through the mist. He tried to recreate those effects at the Cavendish Laboratory, but was frustrated until the discov  ery of radioactivity provided him with a source of ionizing particles. FTP, name this device, which causes vapor to condense on charged particles, making": {
+    "guess": "Cloud chamber",
+    "confidence": [
+      [
+        "Cloud",
+        -0.0025572344
+      ],
+      [
+        " chamber",
+        -0.0011702254
+      ]
+    ]
+  },
+  "The idea for this invention came on a vacation to Ben Nevis in 1894, when a scientist noticed the optical effects of the sun shining through the mist. He tried to recreate those effects at the Cavendish Laboratory, but was frustrated until the discov  ery of radioactivity provided him with a source of ionizing particles. FTP, name this device, which causes vapor to condense on charged particles, making their tracks visible, introduced in 1911 by Charles Wilson.": {
+    "guess": "Cloud chamber",
+    "confidence": [
+      [
+        "Cloud",
+        -0.0003393959
+      ],
+      [
+        " chamber",
+        0.0
+      ]
+    ]
+  },
+  "Identified from its oxide in 1789 by Klaproth, its pure form was isolated in 1824 by Berzelius. It is": {
+    "guess": "Zirconium",
+    "confidence": [
+      [
+        "Z",
+        -0.1366975
+      ],
+      [
+        "ir",
+        -3.1281633e-07
+      ],
+      [
+        "con",
+        0.0
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "Identified from its oxide in 1789 by Klaproth, its pure form was isolated in 1824 by Berzelius. It is relatively abundant in the Earth's crust and is transparent to neutrons. What is this element used": {
+    "guess": "Zirconium",
+    "confidence": [
+      [
+        "Z",
+        -0.80745196
+      ],
+      [
+        "ir",
+        -5.080963e-06
+      ],
+      [
+        "con",
+        0.0
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "Identified from its oxide in 1789 by Klaproth, its pure form was isolated in 1824 by Berzelius. It is relatively abundant in the Earth's crust and is transparent to neutrons. What is this element used in nuclear reactors for cladding feul irons, for alloying with Uranium, and for reactor-core structures": {
+    "guess": "Zirconium",
+    "confidence": [
+      [
+        "Z",
+        -0.00028600733
+      ],
+      [
+        "ir",
+        -3.1281633e-07
+      ],
+      [
+        "con",
+        -1.9361265e-07
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "Identified from its oxide in 1789 by Klaproth, its pure form was isolated in 1824 by Berzelius. It is relatively abundant in the Earth's crust and is transparent to neutrons. What is this element used in nuclear reactors for cladding feul irons, for alloying with Uranium, and for reactor-core structures because of its unique combination of properties, FTP of atomic number 40?": {
+    "guess": "Zirconium",
+    "confidence": [
+      [
+        "Z",
+        -8.45898e-05
+      ],
+      [
+        "ir",
+        -3.1281633e-07
+      ],
+      [
+        "con",
+        0.0
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "Identify the common year FTP: The first pizzeria opens in NYC; the first commercially successful movie": {
+    "guess": "1905",
+    "confidence": [
+      [
+        "190",
+        -0.044907283
+      ],
+      [
+        "5",
+        -0.0004570096
+      ]
+    ]
+  },
+  "Identify the common year FTP: The first pizzeria opens in NYC; the first commercially successful movie projector is developed in France; Carl Orff and Jean-Paul Sartre are born; French West Africa is created;": {
+    "guess": "1895",
+    "confidence": [
+      [
+        "189",
+        -0.027980933
+      ],
+      [
+        "5",
+        -0.00097578217
+      ]
+    ]
+  },
+  "Identify the common year FTP: The first pizzeria opens in NYC; the first commercially successful movie projector is developed in France; Carl Orff and Jean-Paul Sartre are born; French West Africa is created; The Importance of Being Earnest, The Time Machine, and The Red Badge of Courage are published;": {
+    "guess": "1895",
+    "confidence": [
+      [
+        "189",
+        -0.0024791046
+      ],
+      [
+        "5",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Identify the common year FTP: The first pizzeria opens in NYC; the first commercially successful movie projector is developed in France; Carl Orff and Jean-Paul Sartre are born; French West Africa is created; The Importance of Being Earnest, The Time Machine, and The Red Badge of Courage are published; the Treaty of Shimonoseki end the first Sino-Japanese War and forces China to give the island of": {
+    "guess": "1895",
+    "confidence": [
+      [
+        "189",
+        -0.00048513061
+      ],
+      [
+        "5",
+        -1.2233183e-05
+      ]
+    ]
+  },
+  "Identify the common year FTP: The first pizzeria opens in NYC; the first commercially successful movie projector is developed in France; Carl Orff and Jean-Paul Sartre are born; French West Africa is created; The Importance of Being Earnest, The Time Machine, and The Red Badge of Courage are published; the Treaty of Shimonoseki end the first Sino-Japanese War and forces China to give the island of Formosa to Japan; Whilhelm Roentgen discovers X-Rays; and Guglielmo Marconi develops the directional": {
+    "guess": "1895",
+    "confidence": [
+      [
+        "189",
+        -0.00051871676
+      ],
+      [
+        "5",
+        0.0
+      ]
+    ]
+  },
+  "Identify the common year FTP: The first pizzeria opens in NYC; the first commercially successful movie projector is developed in France; Carl Orff and Jean-Paul Sartre are born; French West Africa is created; The Importance of Being Earnest, The Time Machine, and The Red Badge of Courage are published; the Treaty of Shimonoseki end the first Sino-Japanese War and forces China to give the island of Formosa to Japan; Whilhelm Roentgen discovers X-Rays; and Guglielmo Marconi develops the directional radio antenna.": {
+    "guess": "1895",
+    "confidence": [
+      [
+        "189",
+        -0.0005769817
+      ],
+      [
+        "5",
+        0.0
+      ]
+    ]
+  },
+  "This idea was first discussed by the Belgian priest Georges Lema\u00eetre, who called it the \"hypothesis of": {
+    "guess": "Big Bang",
+    "confidence": [
+      [
+        "Big",
+        -0.022272578
+      ],
+      [
+        " Bang",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "This idea was first discussed by the Belgian priest Georges Lema\u00eetre, who called it the \"hypothesis of the primeval atom,\" but was given its current name by Fred Hoyle. The Planck epoch occurred immediately": {
+    "guess": "Big Bang",
+    "confidence": [
+      [
+        "Big",
+        -0.033696186
+      ],
+      [
+        " Bang",
+        0.0
+      ]
+    ]
+  },
+  "This idea was first discussed by the Belgian priest Georges Lema\u00eetre, who called it the \"hypothesis of the primeval atom,\" but was given its current name by Fred Hoyle. The Planck epoch occurred immediately after it, and less than a (*) second had gone by before hadrons were formed. CMBR is a remnant": {
+    "guess": "Big Bang",
+    "confidence": [
+      [
+        "Big",
+        -0.0032204916
+      ],
+      [
+        " Bang",
+        0.0
+      ]
+    ]
+  },
+  "This idea was first discussed by the Belgian priest Georges Lema\u00eetre, who called it the \"hypothesis of the primeval atom,\" but was given its current name by Fred Hoyle. The Planck epoch occurred immediately after it, and less than a (*) second had gone by before hadrons were formed. CMBR is a remnant of this event, which has also been verified by Hubble's observations. Occurring a little over 13 billion": {
+    "guess": "Big Bang",
+    "confidence": [
+      [
+        "Big",
+        -0.0005331367
+      ],
+      [
+        " Bang",
+        0.0
+      ]
+    ]
+  },
+  "This idea was first discussed by the Belgian priest Georges Lema\u00eetre, who called it the \"hypothesis of the primeval atom,\" but was given its current name by Fred Hoyle. The Planck epoch occurred immediately after it, and less than a (*) second had gone by before hadrons were formed. CMBR is a remnant of this event, which has also been verified by Hubble's observations. Occurring a little over 13 billion years ago, for ten points, what is this theory, which posits that the universe began from a single": {
+    "guess": "Big Bang",
+    "confidence": [
+      [
+        "Big",
+        -0.00077127083
+      ],
+      [
+        " Bang",
+        0.0
+      ]
+    ]
+  },
+  "This idea was first discussed by the Belgian priest Georges Lema\u00eetre, who called it the \"hypothesis of the primeval atom,\" but was given its current name by Fred Hoyle. The Planck epoch occurred immediately after it, and less than a (*) second had gone by before hadrons were formed. CMBR is a remnant of this event, which has also been verified by Hubble's observations. Occurring a little over 13 billion years ago, for ten points, what is this theory, which posits that the universe began from a single point and rapidly expanded?": {
+    "guess": "Big Bang",
+    "confidence": [
+      [
+        "Big",
+        -0.38702014
+      ],
+      [
+        " Bang",
+        0.0
+      ]
+    ]
+  },
+  "Identify the following from Plato's Republic.      A. Book seven introduces this simile to illustrate": {
+    "guess": "Allegory of the Cave",
+    "confidence": [
+      [
+        "Al",
+        -0.004273327
+      ],
+      [
+        "leg",
+        0.0
+      ],
+      [
+        "ory",
+        0.0
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Cave",
+        -9.615256e-05
+      ]
+    ]
+  },
+  "Identify the following from Plato's Republic.      A. Book seven introduces this simile to illustrate the difference between appearance and reality. It involves a man who lives in darkness, is allowed": {
+    "guess": "Allegory of the Cave",
+    "confidence": [
+      [
+        "Al",
+        -0.0030037311
+      ],
+      [
+        "leg",
+        0.0
+      ],
+      [
+        "ory",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Cave",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "Identify the following from Plato's Republic.      A. Book seven introduces this simile to illustrate the difference between appearance and reality. It involves a man who lives in darkness, is allowed to see the outside world, but then upon returning is unable to communicate his newfound knowledge to": {
+    "guess": "Allegory of the Cave",
+    "confidence": [
+      [
+        "Al",
+        -0.0025388016
+      ],
+      [
+        "leg",
+        0.0
+      ],
+      [
+        "ory",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Cave",
+        -0.0011702254
+      ]
+    ]
+  },
+  "Identify the following from Plato's Republic.      A. Book seven introduces this simile to illustrate the difference between appearance and reality. It involves a man who lives in darkness, is allowed to see the outside world, but then upon returning is unable to communicate his newfound knowledge to others.": {
+    "guess": "Allegory of the Cave",
+    "confidence": [
+      [
+        "Al",
+        -0.0015440227
+      ],
+      [
+        "leg",
+        0.0
+      ],
+      [
+        "ory",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Cave",
+        -0.00020354039
+      ]
+    ]
+  },
+  "This idea dates back to Freidrich Ratzel, and it claims that the Germanic people don't have enough space": {
+    "guess": "Lebensraum",
+    "confidence": [
+      [
+        "Leb",
+        -2.2842309e-05
+      ],
+      [
+        "ens",
+        0.0
+      ],
+      [
+        "raum",
+        0.0
+      ]
+    ]
+  },
+  "This idea dates back to Freidrich Ratzel, and it claims that the Germanic people don't have enough space within their own borders to thrive. For fifteen points, identify this justification given by Adolph": {
+    "guess": "Lebensraum",
+    "confidence": [
+      [
+        "Leb",
+        -1.0087517e-05
+      ],
+      [
+        "ens",
+        0.0
+      ],
+      [
+        "raum",
+        0.0
+      ]
+    ]
+  },
+  "This idea dates back to Freidrich Ratzel, and it claims that the Germanic people don't have enough space within their own borders to thrive. For fifteen points, identify this justification given by Adolph HItler in Mein Kampf for attempting to expand the borders of Germany by taking over all of its neighbors.": {
+    "guess": "Lebensraum",
+    "confidence": [
+      [
+        "Leb",
+        -6.2656334e-05
+      ],
+      [
+        "ens",
+        0.0
+      ],
+      [
+        "raum",
+        0.0
+      ]
+    ]
+  },
+  "He has been identified as the nameless Old Man who leads the three men to treasure in Chaucer's Pardoner's": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.144066
+      ]
+    ]
+  },
+  "He has been identified as the nameless Old Man who leads the three men to treasure in Chaucer's Pardoner's Tale. He is also the subject of a series of etchings by Gustave Dore. John Galsworthy's \"A Simple": {
+    "guess": "Death",
+    "confidence": [
+      [
+        "Death",
+        -0.27651814
+      ]
+    ]
+  },
+  "He has been identified as the nameless Old Man who leads the three men to treasure in Chaucer's Pardoner's Tale. He is also the subject of a series of etchings by Gustave Dore. John Galsworthy's \"A Simple Tale\" concerns him, as does O Henry's , \"A Door of Unrest. \" Percy Shelley's poem about him is subtitled": {
+    "guess": "The Wandering Jew",
+    "confidence": [
+      [
+        "The",
+        -0.040538542
+      ],
+      [
+        " Wand",
+        -0.09915087
+      ],
+      [
+        "ering",
+        0.0
+      ],
+      [
+        " Jew",
+        0.0
+      ]
+    ]
+  },
+  "He has been identified as the nameless Old Man who leads the three men to treasure in Chaucer's Pardoner's Tale. He is also the subject of a series of etchings by Gustave Dore. John Galsworthy's \"A Simple Tale\" concerns him, as does O Henry's , \"A Door of Unrest. \" Percy Shelley's poem about him is subtitled the \"Victim of the Eternal Avenger\", and he is also the subject of Mary Shelley's The Mortal": {
+    "guess": "The Wandering Jew",
+    "confidence": [
+      [
+        "The",
+        -0.13647994
+      ],
+      [
+        " Wand",
+        -0.011769818
+      ],
+      [
+        "ering",
+        0.0
+      ],
+      [
+        " Jew",
+        0.0
+      ]
+    ]
+  },
+  "He has been identified as the nameless Old Man who leads the three men to treasure in Chaucer's Pardoner's Tale. He is also the subject of a series of etchings by Gustave Dore. John Galsworthy's \"A Simple Tale\" concerns him, as does O Henry's , \"A Door of Unrest. \" Percy Shelley's poem about him is subtitled the \"Victim of the Eternal Avenger\", and he is also the subject of Mary Shelley's The Mortal Immortal. First described in Roger of Wendover's Flores Historiarum, he is a shoemaker who did lot": {
+    "guess": "The Wandering Jew",
+    "confidence": [
+      [
+        "The",
+        -0.18024677
+      ],
+      [
+        " Wand",
+        -0.00038395973
+      ],
+      [
+        "ering",
+        0.0
+      ],
+      [
+        " Jew",
+        0.0
+      ]
+    ]
+  },
+  "He has been identified as the nameless Old Man who leads the three men to treasure in Chaucer's Pardoner's Tale. He is also the subject of a series of etchings by Gustave Dore. John Galsworthy's \"A Simple Tale\" concerns him, as does O Henry's , \"A Door of Unrest. \" Percy Shelley's poem about him is subtitled the \"Victim of the Eternal Avenger\", and he is also the subject of Mary Shelley's The Mortal Immortal. First described in Roger of Wendover's Flores Historiarum, he is a shoemaker who did lot let Christ lean on his house during his carrying of the Cross. FTP, identify this legendary Jew named": {
+    "guess": "Wandering Jew",
+    "confidence": [
+      [
+        "W",
+        -0.5780172
+      ],
+      [
+        "andering",
+        -2.4584822e-06
+      ],
+      [
+        " Jew",
+        0.0
+      ]
+    ]
+  },
+  "He has been identified as the nameless Old Man who leads the three men to treasure in Chaucer's Pardoner's Tale. He is also the subject of a series of etchings by Gustave Dore. John Galsworthy's \"A Simple Tale\" concerns him, as does O Henry's , \"A Door of Unrest. \" Percy Shelley's poem about him is subtitled the \"Victim of the Eternal Avenger\", and he is also the subject of Mary Shelley's The Mortal Immortal. First described in Roger of Wendover's Flores Historiarum, he is a shoemaker who did lot let Christ lean on his house during his carrying of the Cross. FTP, identify this legendary Jew named Ahasverus who is doomed to walk the earth eternally.": {
+    "guess": "Wandering Jew",
+    "confidence": [
+      [
+        "W",
+        -0.3353611
+      ],
+      [
+        "andering",
+        -3.1281633e-07
+      ],
+      [
+        " Jew",
+        0.0
+      ]
+    ]
+  },
+  "The idea for this work was suggested by Clifford Bax. Originally scored as a piano duet, the last movement": {
+    "guess": "The Planets",
+    "confidence": [
+      [
+        "The",
+        -0.0076139634
+      ],
+      [
+        " Plan",
+        -1.2664457e-06
+      ],
+      [
+        "ets",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The idea for this work was suggested by Clifford Bax. Originally scored as a piano duet, the last movement of this work was instead scored for an organ. A chorus is located in a separate room in one movement": {
+    "guess": "The Planets",
+    "confidence": [
+      [
+        "The",
+        -0.0038006695
+      ],
+      [
+        " Plan",
+        -1.2590794e-05
+      ],
+      [
+        "ets",
+        0.0
+      ]
+    ]
+  },
+  "The idea for this work was suggested by Clifford Bax. Originally scored as a piano duet, the last movement of this work was instead scored for an organ. A chorus is located in a separate room in one movement of this work, whose music was given to the musicians two hours before its premiere performance": {
+    "guess": "The Planets",
+    "confidence": [
+      [
+        "The",
+        -0.0013370281
+      ],
+      [
+        " Plan",
+        -9.253091e-06
+      ],
+      [
+        "ets",
+        0.0
+      ]
+    ]
+  },
+  "The idea for this work was suggested by Clifford Bax. Originally scored as a piano duet, the last movement of this work was instead scored for an organ. A chorus is located in a separate room in one movement of this work, whose music was given to the musicians two hours before its premiere performance in the Queen's Hall. Its last movement has the chorus fade out at the end, and is called \"The Mystic\".": {
+    "guess": "The Planets",
+    "confidence": [
+      [
+        "The",
+        -0.00043805985
+      ],
+      [
+        " Plan",
+        -1.7432603e-06
+      ],
+      [
+        "ets",
+        0.0
+      ]
+    ]
+  },
+  "The idea for this work was suggested by Clifford Bax. Originally scored as a piano duet, the last movement of this work was instead scored for an organ. A chorus is located in a separate room in one movement of this work, whose music was given to the musicians two hours before its premiere performance in the Queen's Hall. Its last movement has the chorus fade out at the end, and is called \"The Mystic\". This suite contains \"The Magician\" and \"The Bringer of Peace,\" as well as the \"Bringer of Jollity\".": {
+    "guess": "The Planets",
+    "confidence": [
+      [
+        "The",
+        -0.00023441046
+      ],
+      [
+        " Plan",
+        -1.9361265e-07
+      ],
+      [
+        "ets",
+        0.0
+      ]
+    ]
+  },
+  "The idea for this work was suggested by Clifford Bax. Originally scored as a piano duet, the last movement of this work was instead scored for an organ. A chorus is located in a separate room in one movement of this work, whose music was given to the musicians two hours before its premiere performance in the Queen's Hall. Its last movement has the chorus fade out at the end, and is called \"The Mystic\". This suite contains \"The Magician\" and \"The Bringer of Peace,\" as well as the \"Bringer of Jollity\". The \"Bringer of War\" is a well-known movement in, For 10 points, what eight-movement suite by Gustav": {
+    "guess": "The Planets",
+    "confidence": [
+      [
+        "The",
+        -0.005282496
+      ],
+      [
+        " Plan",
+        -1.9361265e-07
+      ],
+      [
+        "ets",
+        0.0
+      ]
+    ]
+  },
+  "The idea for this work was suggested by Clifford Bax. Originally scored as a piano duet, the last movement of this work was instead scored for an organ. A chorus is located in a separate room in one movement of this work, whose music was given to the musicians two hours before its premiere performance in the Queen's Hall. Its last movement has the chorus fade out at the end, and is called \"The Mystic\". This suite contains \"The Magician\" and \"The Bringer of Peace,\" as well as the \"Bringer of Jollity\". The \"Bringer of War\" is a well-known movement in, For 10 points, what eight-movement suite by Gustav Holst based on celestial objects such as Mercury?": {
+    "guess": "The Planets",
+    "confidence": [
+      [
+        "The",
+        -0.00033748866
+      ],
+      [
+        " Plan",
+        -1.9361265e-07
+      ],
+      [
+        "ets",
+        0.0
+      ]
+    ]
+  }
+}

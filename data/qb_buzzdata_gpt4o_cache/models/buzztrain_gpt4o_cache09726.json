@@ -1,0 +1,208 @@
+{
+  "Zhong et al. used this mathematical procedure as part of an algorithm to create digital watermarks. This": {
+    "guess": "Fourier transform",
+    "confidence": [
+      [
+        "Four",
+        -0.8059064
+      ],
+      [
+        "ier",
+        0.0
+      ],
+      [
+        " transform",
+        -0.00043782144
+      ]
+    ]
+  },
+  "Zhong et al. used this mathematical procedure as part of an algorithm to create digital watermarks. This procedure is applied to the covariance matrix to find the rotation matrix that minimizes the root": {
+    "guess": "Singular value decomposition",
+    "confidence": [
+      [
+        "Sing",
+        -0.5958805
+      ],
+      [
+        "ular",
+        0.0
+      ],
+      [
+        " value",
+        -0.02056805
+      ],
+      [
+        " decomposition",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Zhong et al. used this mathematical procedure as part of an algorithm to create digital watermarks. This procedure is applied to the covariance matrix to find the rotation matrix that minimizes the root mean square deviation in the Kabsch algorithm. Most methods of performing this procedure begin with": {
+    "guess": "Singular value decomposition",
+    "confidence": [
+      [
+        "Sing",
+        -0.66189194
+      ],
+      [
+        "ular",
+        0.0
+      ],
+      [
+        " value",
+        -0.004085524
+      ],
+      [
+        " decomposition",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "Zhong et al. used this mathematical procedure as part of an algorithm to create digital watermarks. This procedure is applied to the covariance matrix to find the rotation matrix that minimizes the root mean square deviation in the Kabsch algorithm. Most methods of performing this procedure begin with a Householder reduction of the input so that the input is bidiagonalized; such methods include the": {
+    "guess": "Singular value decomposition",
+    "confidence": [
+      [
+        "Sing",
+        -0.0044177747
+      ],
+      [
+        "ular",
+        0.0
+      ],
+      [
+        " value",
+        -0.0031882864
+      ],
+      [
+        " decomposition",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Zhong et al. used this mathematical procedure as part of an algorithm to create digital watermarks. This procedure is applied to the covariance matrix to find the rotation matrix that minimizes the root mean square deviation in the Kabsch algorithm. Most methods of performing this procedure begin with a Householder reduction of the input so that the input is bidiagonalized; such methods include the Golub- Kahan algorithm. This operation is often visualized as a procedure that rotates, scales, and": {
+    "guess": "Singular value decomposition",
+    "confidence": [
+      [
+        "Sing",
+        -6.0153056e-05
+      ],
+      [
+        "ular",
+        0.0
+      ],
+      [
+        " value",
+        -0.009784777
+      ],
+      [
+        " decomposition",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "Zhong et al. used this mathematical procedure as part of an algorithm to create digital watermarks. This procedure is applied to the covariance matrix to find the rotation matrix that minimizes the root mean square deviation in the Kabsch algorithm. Most methods of performing this procedure begin with a Householder reduction of the input so that the input is bidiagonalized; such methods include the Golub- Kahan algorithm. This operation is often visualized as a procedure that rotates, scales, and re-rotates a coordinate axis, leaving the system sheared. This procedure is used to compress an image": {
+    "guess": "Singular value decomposition",
+    "confidence": [
+      [
+        "Sing",
+        -4.036525e-05
+      ],
+      [
+        "ular",
+        0.0
+      ],
+      [
+        " value",
+        -0.00978053
+      ],
+      [
+        " decomposition",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Zhong et al. used this mathematical procedure as part of an algorithm to create digital watermarks. This procedure is applied to the covariance matrix to find the rotation matrix that minimizes the root mean square deviation in the Kabsch algorithm. Most methods of performing this procedure begin with a Householder reduction of the input so that the input is bidiagonalized; such methods include the Golub- Kahan algorithm. This operation is often visualized as a procedure that rotates, scales, and re-rotates a coordinate axis, leaving the system sheared. This procedure is used to compress an image by repartitioning the RGB values in matrices into a rank-R truncation of the terms this operation": {
+    "guess": "Singular value decomposition",
+    "confidence": [
+      [
+        "Sing",
+        -0.000114033115
+      ],
+      [
+        "ular",
+        0.0
+      ],
+      [
+        " value",
+        -0.01604915
+      ],
+      [
+        " decomposition",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "Zhong et al. used this mathematical procedure as part of an algorithm to create digital watermarks. This procedure is applied to the covariance matrix to find the rotation matrix that minimizes the root mean square deviation in the Kabsch algorithm. Most methods of performing this procedure begin with a Householder reduction of the input so that the input is bidiagonalized; such methods include the Golub- Kahan algorithm. This operation is often visualized as a procedure that rotates, scales, and re-rotates a coordinate axis, leaving the system sheared. This procedure is used to compress an image by repartitioning the RGB values in matrices into a rank-R truncation of the terms this operation produces. This operation is used to quickly compute the pseudoinverse, and it is a generalization of": {
+    "guess": "Singular value decomposition",
+    "confidence": [
+      [
+        "Sing",
+        -0.004188448
+      ],
+      [
+        "ular",
+        0.0
+      ],
+      [
+        " value",
+        -0.020560693
+      ],
+      [
+        " decomposition",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "Zhong et al. used this mathematical procedure as part of an algorithm to create digital watermarks. This procedure is applied to the covariance matrix to find the rotation matrix that minimizes the root mean square deviation in the Kabsch algorithm. Most methods of performing this procedure begin with a Householder reduction of the input so that the input is bidiagonalized; such methods include the Golub- Kahan algorithm. This operation is often visualized as a procedure that rotates, scales, and re-rotates a coordinate axis, leaving the system sheared. This procedure is used to compress an image by repartitioning the RGB values in matrices into a rank-R truncation of the terms this operation produces. This operation is used to quickly compute the pseudoinverse, and it is a generalization of the spectral factorization for rectangular matrices. For 10 points, name this operation that factors": {
+    "guess": "Singular value decomposition",
+    "confidence": [
+      [
+        "Sing",
+        -0.0013597594
+      ],
+      [
+        "ular",
+        0.0
+      ],
+      [
+        " value",
+        -0.014221328
+      ],
+      [
+        " decomposition",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "Zhong et al. used this mathematical procedure as part of an algorithm to create digital watermarks. This procedure is applied to the covariance matrix to find the rotation matrix that minimizes the root mean square deviation in the Kabsch algorithm. Most methods of performing this procedure begin with a Householder reduction of the input so that the input is bidiagonalized; such methods include the Golub- Kahan algorithm. This operation is often visualized as a procedure that rotates, scales, and re-rotates a coordinate axis, leaving the system sheared. This procedure is used to compress an image by repartitioning the RGB values in matrices into a rank-R truncation of the terms this operation produces. This operation is used to quickly compute the pseudoinverse, and it is a generalization of the spectral factorization for rectangular matrices. For 10 points, name this operation that factors a matrix into three other matrices, the second of which contains the namesake numbers on its diagonal.": {
+    "guess": "Singular value decomposition",
+    "confidence": [
+      [
+        "Sing",
+        -3.7385154e-05
+      ],
+      [
+        "ular",
+        0.0
+      ],
+      [
+        " value",
+        -0.07890201
+      ],
+      [
+        " decomposition",
+        -6.704273e-07
+      ]
+    ]
+  }
+}

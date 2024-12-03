@@ -1,0 +1,179 @@
+{
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting": {
+    "guess": "Meiosis",
+    "confidence": [
+      [
+        "Me",
+        -0.009511338
+      ],
+      [
+        "iosis",
+        -0.0003801489
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells": {
+    "guess": "Pachytene",
+    "confidence": [
+      [
+        "P",
+        -0.1387307
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "y",
+        -1.9361265e-07
+      ],
+      [
+        "tene",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished": {
+    "guess": "Meiosis",
+    "confidence": [
+      [
+        "Me",
+        -0.0021684594
+      ],
+      [
+        "iosis",
+        -0.011047815
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz),": {
+    "guess": "Pachytene stage",
+    "confidence": [
+      [
+        "P",
+        -0.17775166
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "y",
+        -5.5577775e-06
+      ],
+      [
+        "tene",
+        -1.8624639e-06
+      ],
+      [
+        " stage",
+        -0.21887895
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz), of fully formed synaptonemal complexes. The trans face of the Golgi expands in size during": {
+    "guess": "Prophase I",
+    "confidence": [
+      [
+        "Pro",
+        -0.69528157
+      ],
+      [
+        "phase",
+        -2.8160932e-06
+      ],
+      [
+        " I",
+        -0.000100205485
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz), of fully formed synaptonemal complexes. The trans face of the Golgi expands in size during this phase in males due to the synthesis of proacrosin and acrogranin. Defects in Holliday junction": {
+    "guess": "Pachytene stage",
+    "confidence": [
+      [
+        "P",
+        -0.053556163
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "y",
+        -5.5577775e-06
+      ],
+      [
+        "tene",
+        -2.1008714e-06
+      ],
+      [
+        " stage",
+        -0.40063438
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz), of fully formed synaptonemal complexes. The trans face of the Golgi expands in size during this phase in males due to the synthesis of proacrosin and acrogranin. Defects in Holliday junction formation can trigger the checkpoint named for this stage, also called the recombination checkpoint,": {
+    "guess": "Pachytene",
+    "confidence": [
+      [
+        "P",
+        -0.057521123
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "y",
+        -7.9418505e-06
+      ],
+      [
+        "tene",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz), of fully formed synaptonemal complexes. The trans face of the Golgi expands in size during this phase in males due to the synthesis of proacrosin and acrogranin. Defects in Holliday junction formation can trigger the checkpoint named for this stage, also called the recombination checkpoint, and exit from this stage is regulated by middle meiotic gene expression. For ten points, name": {
+    "guess": "Pachytene",
+    "confidence": [
+      [
+        "P",
+        -0.022890186
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "y",
+        -5.5577775e-06
+      ],
+      [
+        "tene",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz), of fully formed synaptonemal complexes. The trans face of the Golgi expands in size during this phase in males due to the synthesis of proacrosin and acrogranin. Defects in Holliday junction formation can trigger the checkpoint named for this stage, also called the recombination checkpoint, and exit from this stage is regulated by middle meiotic gene expression. For ten points, name this third stage of meiotic prophase 1 that precedes diplotene and follows zygotene.": {
+    "guess": "Pachytene",
+    "confidence": [
+      [
+        "P",
+        -0.0024906415
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        "y",
+        -3.1281633e-07
+      ],
+      [
+        "tene",
+        -1.147242e-06
+      ]
+    ]
+  }
+}

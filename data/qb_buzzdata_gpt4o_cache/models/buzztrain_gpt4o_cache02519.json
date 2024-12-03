@@ -1,0 +1,180 @@
+{
+  "After going to Paris at the age of 25, he studied under Corot, whose influence can be seen on his early": {
+    "guess": "Camille Pissarro",
+    "confidence": [
+      [
+        "Cam",
+        -0.4765869
+      ],
+      [
+        "ille",
+        0.0
+      ],
+      [
+        " P",
+        -2.0458236e-05
+      ],
+      [
+        "iss",
+        -1.0280384e-06
+      ],
+      [
+        "arro",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "After going to Paris at the age of 25, he studied under Corot, whose influence can be seen on his early works. The only painter to exhibit works in all eight impressionist shows, he did not gain fame until": {
+    "guess": "Camille Pissarro",
+    "confidence": [
+      [
+        "Cam",
+        -0.010530341
+      ],
+      [
+        "ille",
+        0.0
+      ],
+      [
+        " P",
+        0.0
+      ],
+      [
+        "iss",
+        -4.3202e-07
+      ],
+      [
+        "arro",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "After going to Paris at the age of 25, he studied under Corot, whose influence can be seen on his early works. The only painter to exhibit works in all eight impressionist shows, he did not gain fame until he was in his 60s, although he was the teacher of Cassatt, Cezanne, and Gauguin. FTP, identify": {
+    "guess": "Camille Pissarro",
+    "confidence": [
+      [
+        "Cam",
+        -0.10079175
+      ],
+      [
+        "ille",
+        0.0
+      ],
+      [
+        " P",
+        -0.014173625
+      ],
+      [
+        "iss",
+        0.0
+      ],
+      [
+        "arro",
+        0.0
+      ]
+    ]
+  },
+  "After going to Paris at the age of 25, he studied under Corot, whose influence can be seen on his early works. The only painter to exhibit works in all eight impressionist shows, he did not gain fame until he was in his 60s, although he was the teacher of Cassatt, Cezanne, and Gauguin. FTP, identify this painter, whose most famous work depicts the Boulevard Montmartre by night, who was born in the": {
+    "guess": "Camille Pissarro",
+    "confidence": [
+      [
+        "Cam",
+        -0.020874683
+      ],
+      [
+        "ille",
+        0.0
+      ],
+      [
+        " P",
+        -0.0036098056
+      ],
+      [
+        "iss",
+        0.0
+      ],
+      [
+        "arro",
+        0.0
+      ]
+    ]
+  },
+  "After going to Paris at the age of 25, he studied under Corot, whose influence can be seen on his early works. The only painter to exhibit works in all eight impressionist shows, he did not gain fame until he was in his 60s, although he was the teacher of Cassatt, Cezanne, and Gauguin. FTP, identify this painter, whose most famous work depicts the Boulevard Montmartre by night, who was born in the Virgin Islands, and whose name sounds like he was the conquistador who overthrew the Incas.": {
+    "guess": "Pissarro",
+    "confidence": [
+      [
+        "P",
+        -0.3666926
+      ],
+      [
+        "iss",
+        -1.9743013e-05
+      ],
+      [
+        "arro",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "Going to war, traveling, and contemplating a lover's defects are among the titular remedies suggested": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.17692101
+      ]
+    ]
+  },
+  "Going to war, traveling, and contemplating a lover's defects are among the titular remedies suggested in his The Cure for Love. His celebrated version of Medea is now lost, and he also wrote a calendar": {
+    "guess": "Ovid",
+    "confidence": [
+      [
+        "O",
+        -0.006976079
+      ],
+      [
+        "vid",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Going to war, traveling, and contemplating a lover's defects are among the titular remedies suggested in his The Cure for Love. His celebrated version of Medea is now lost, and he also wrote a calendar of religious festivals, entitled Fasti. He wrote, \"Every lover is a soldier\" in Amores I.5, and suggested": {
+    "guess": "Ovid",
+    "confidence": [
+      [
+        "O",
+        -0.018495342
+      ],
+      [
+        "vid",
+        0.0
+      ]
+    ]
+  },
+  "Going to war, traveling, and contemplating a lover's defects are among the titular remedies suggested in his The Cure for Love. His celebrated version of Medea is now lost, and he also wrote a calendar of religious festivals, entitled Fasti. He wrote, \"Every lover is a soldier\" in Amores I.5, and suggested triumphal processions as a good place to meet women in The Art of Love. Exiled to Tomis on the": {
+    "guess": "Ovid",
+    "confidence": [
+      [
+        "O",
+        -0.009099737
+      ],
+      [
+        "vid",
+        0.0
+      ]
+    ]
+  },
+  "Going to war, traveling, and contemplating a lover's defects are among the titular remedies suggested in his The Cure for Love. His celebrated version of Medea is now lost, and he also wrote a calendar of religious festivals, entitled Fasti. He wrote, \"Every lover is a soldier\" in Amores I.5, and suggested triumphal processions as a good place to meet women in The Art of Love. Exiled to Tomis on the Black Sea in AD 8, FTP, name this Roman love elegist, the poet of the Metamorphoses.": {
+    "guess": "Ovid",
+    "confidence": [
+      [
+        "O",
+        -0.002505863
+      ],
+      [
+        "vid",
+        0.0
+      ]
+    ]
+  }
+}

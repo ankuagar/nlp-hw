@@ -1,0 +1,5786 @@
+{
+  "The major structural proteins of these entities use the PTAP motif to recruit the ESCRT-1 [\"escort-one\"]": {
+    "guess": "HIV",
+    "confidence": [
+      [
+        "H",
+        -0.42319325
+      ],
+      [
+        "IV",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "The major structural proteins of these entities use the PTAP motif to recruit the ESCRT-1 [\"escort-one\"] complex and the LYPxL motif to recruit the ALIX protein in order to facilitate the budding process.": {
+    "guess": "HIV",
+    "confidence": [
+      [
+        "H",
+        -0.24330692
+      ],
+      [
+        "IV",
+        -3.650519e-06
+      ]
+    ]
+  },
+  "The major structural proteins of these entities use the PTAP motif to recruit the ESCRT-1 [\"escort-one\"] complex and the LYPxL motif to recruit the ALIX protein in order to facilitate the budding process. In addition to possessing the Gag polyprotein, these entities produce the Vif protein which counteracts": {
+    "guess": "HIV",
+    "confidence": [
+      [
+        "H",
+        -0.85231763
+      ],
+      [
+        "IV",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "The major structural proteins of these entities use the PTAP motif to recruit the ESCRT-1 [\"escort-one\"] complex and the LYPxL motif to recruit the ALIX protein in order to facilitate the budding process. In addition to possessing the Gag polyprotein, these entities produce the Vif protein which counteracts the effects of the cytidine deaminase APOBEC3G. They are unable to infect individuals who possess": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1802016
+      ]
+    ]
+  },
+  "The major structural proteins of these entities use the PTAP motif to recruit the ESCRT-1 [\"escort-one\"] complex and the LYPxL motif to recruit the ALIX protein in order to facilitate the budding process. In addition to possessing the Gag polyprotein, these entities produce the Vif protein which counteracts the effects of the cytidine deaminase APOBEC3G. They are unable to infect individuals who possess a homozygous 32 base pair deletion in the CCR5 protein. The glycoprotein gp120 found on them allows": {
+    "guess": "HIV",
+    "confidence": [
+      [
+        "H",
+        -0.055927463
+      ],
+      [
+        "IV",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "The major structural proteins of these entities use the PTAP motif to recruit the ESCRT-1 [\"escort-one\"] complex and the LYPxL motif to recruit the ALIX protein in order to facilitate the budding process. In addition to possessing the Gag polyprotein, these entities produce the Vif protein which counteracts the effects of the cytidine deaminase APOBEC3G. They are unable to infect individuals who possess a homozygous 32 base pair deletion in the CCR5 protein. The glycoprotein gp120 found on them allows them to dock onto CD4 receptors, and azidothymidine is a reverse transcriptase inhibitor that": {
+    "guess": "HIV",
+    "confidence": [
+      [
+        "H",
+        -0.16388567
+      ],
+      [
+        "IV",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "The major structural proteins of these entities use the PTAP motif to recruit the ESCRT-1 [\"escort-one\"] complex and the LYPxL motif to recruit the ALIX protein in order to facilitate the budding process. In addition to possessing the Gag polyprotein, these entities produce the Vif protein which counteracts the effects of the cytidine deaminase APOBEC3G. They are unable to infect individuals who possess a homozygous 32 base pair deletion in the CCR5 protein. The glycoprotein gp120 found on them allows them to dock onto CD4 receptors, and azidothymidine is a reverse transcriptase inhibitor that is used to treat infections by this agent. For 10 points, name this retrovirus that mostly infects immune": {
+    "guess": "The answer is: HIV\n\nThe Wikipedia page that would best answer the question is \"HIV.\"",
+    "confidence": [
+      [
+        "The",
+        -0.49199724
+      ],
+      [
+        " answer",
+        -1.0826782
+      ],
+      [
+        " is",
+        -0.12791713
+      ],
+      [
+        ":",
+        -0.5380976
+      ],
+      [
+        " HIV",
+        -0.16066602
+      ],
+      [
+        "\n\n",
+        -0.5079218
+      ],
+      [
+        "The",
+        -0.0731674
+      ],
+      [
+        " Wikipedia",
+        -0.85317665
+      ],
+      [
+        " page",
+        -0.00017696164
+      ],
+      [
+        " that",
+        -0.07452714
+      ],
+      [
+        " would",
+        -0.07986968
+      ],
+      [
+        " best",
+        -0.0026717342
+      ],
+      [
+        " answer",
+        -0.09272311
+      ],
+      [
+        " the",
+        -0.4403666
+      ],
+      [
+        " question",
+        -0.25199562
+      ],
+      [
+        " is",
+        -0.82554704
+      ],
+      [
+        " \"",
+        -1.1585499
+      ],
+      [
+        "H",
+        -0.0003853902
+      ],
+      [
+        "IV",
+        -1.2664457e-06
+      ],
+      [
+        ".\"",
+        -0.5165101
+      ]
+    ]
+  },
+  "The major structural proteins of these entities use the PTAP motif to recruit the ESCRT-1 [\"escort-one\"] complex and the LYPxL motif to recruit the ALIX protein in order to facilitate the budding process. In addition to possessing the Gag polyprotein, these entities produce the Vif protein which counteracts the effects of the cytidine deaminase APOBEC3G. They are unable to infect individuals who possess a homozygous 32 base pair deletion in the CCR5 protein. The glycoprotein gp120 found on them allows them to dock onto CD4 receptors, and azidothymidine is a reverse transcriptase inhibitor that is used to treat infections by this agent. For 10 points, name this retrovirus that mostly infects immune cells and which causes AIDS.": {
+    "guess": "HIV/AIDS",
+    "confidence": [
+      [
+        "H",
+        -0.73012435
+      ],
+      [
+        "IV",
+        -3.1281633e-07
+      ],
+      [
+        "/AIDS",
+        -0.69498616
+      ]
+    ]
+  },
+  "Its major portions were completed by a select group of the artist's pupils, including Antonio Raggi and": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.5315694
+      ]
+    ]
+  },
+  "Its major portions were completed by a select group of the artist's pupils, including Antonio Raggi and Claude Poussin.  Its building was highly unpopular due to the new bread tax instituted to finance": {
+    "guess": "Trevi Fountain",
+    "confidence": [
+      [
+        "Tre",
+        -0.94899976
+      ],
+      [
+        "vi",
+        -1.9361265e-07
+      ],
+      [
+        " Fountain",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Its major portions were completed by a select group of the artist's pupils, including Antonio Raggi and Claude Poussin.  Its building was highly unpopular due to the new bread tax instituted to finance its construction.  The artist himself was responsible for the images at the center, which were carved": {
+    "guess": "Tomb of Pope Alexander VII",
+    "confidence": [
+      [
+        "T",
+        -0.73613745
+      ],
+      [
+        "omb",
+        -0.0003060262
+      ],
+      [
+        " of",
+        -3.5313153e-06
+      ],
+      [
+        " Pope",
+        -0.009357698
+      ],
+      [
+        " Alexander",
+        -0.038104605
+      ],
+      [
+        " VII",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "Its major portions were completed by a select group of the artist's pupils, including Antonio Raggi and Claude Poussin.  Its building was highly unpopular due to the new bread tax instituted to finance its construction.  The artist himself was responsible for the images at the center, which were carved in situ, and include a horse and a palm tree.  Another pupil, Baratta, was responsible for the bearded": {
+    "guess": "Tomb of Pope Alexander VII",
+    "confidence": [
+      [
+        "T",
+        -0.6745911
+      ],
+      [
+        "omb",
+        -0.00011200665
+      ],
+      [
+        " of",
+        -5.9795446e-05
+      ],
+      [
+        " Pope",
+        -0.0018963907
+      ],
+      [
+        " Alexander",
+        -0.0068354257
+      ],
+      [
+        " VII",
+        -5.2001665e-06
+      ]
+    ]
+  },
+  "Its major portions were completed by a select group of the artist's pupils, including Antonio Raggi and Claude Poussin.  Its building was highly unpopular due to the new bread tax instituted to finance its construction.  The artist himself was responsible for the images at the center, which were carved in situ, and include a horse and a palm tree.  Another pupil, Baratta, was responsible for the bearded black man who sits on a pile of coins and has his arm upraised, a gesture theorized to be an insult": {
+    "guess": "Trevi Fountain",
+    "confidence": [
+      [
+        "Tre",
+        -0.48182327
+      ],
+      [
+        "vi",
+        0.0
+      ],
+      [
+        " Fountain",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Its major portions were completed by a select group of the artist's pupils, including Antonio Raggi and Claude Poussin.  Its building was highly unpopular due to the new bread tax instituted to finance its construction.  The artist himself was responsible for the images at the center, which were carved in situ, and include a horse and a palm tree.  Another pupil, Baratta, was responsible for the bearded black man who sits on a pile of coins and has his arm upraised, a gesture theorized to be an insult to the design of the neighboring church of Sant'Agnese by Borromini.  It is also populated by": {
+    "guess": "Fountain of the Four Rivers",
+    "confidence": [
+      [
+        "F",
+        -0.1583424
+      ],
+      [
+        "ountain",
+        -2.3915141e-05
+      ],
+      [
+        " of",
+        -1.7716551e-05
+      ],
+      [
+        " the",
+        -9.253091e-06
+      ],
+      [
+        " Four",
+        -4.723352e-06
+      ],
+      [
+        " Rivers",
+        0.0
+      ]
+    ]
+  },
+  "Its major portions were completed by a select group of the artist's pupils, including Antonio Raggi and Claude Poussin.  Its building was highly unpopular due to the new bread tax instituted to finance its construction.  The artist himself was responsible for the images at the center, which were carved in situ, and include a horse and a palm tree.  Another pupil, Baratta, was responsible for the bearded black man who sits on a pile of coins and has his arm upraised, a gesture theorized to be an insult to the design of the neighboring church of Sant'Agnese by Borromini.  It is also populated by several types of animals, including a few lions and the dove at the top representing the Pamphili family": {
+    "guess": "Fontana dei Quattro Fiumi",
+    "confidence": [
+      [
+        "Font",
+        -0.055225607
+      ],
+      [
+        "ana",
+        0.0
+      ],
+      [
+        " dei",
+        0.0
+      ],
+      [
+        " Qu",
+        0.0
+      ],
+      [
+        "attro",
+        0.0
+      ],
+      [
+        " F",
+        0.0
+      ],
+      [
+        "iumi",
+        0.0
+      ]
+    ]
+  },
+  "Its major portions were completed by a select group of the artist's pupils, including Antonio Raggi and Claude Poussin.  Its building was highly unpopular due to the new bread tax instituted to finance its construction.  The artist himself was responsible for the images at the center, which were carved in situ, and include a horse and a palm tree.  Another pupil, Baratta, was responsible for the bearded black man who sits on a pile of coins and has his arm upraised, a gesture theorized to be an insult to the design of the neighboring church of Sant'Agnese by Borromini.  It is also populated by several types of animals, including a few lions and the dove at the top representing the Pamphili family of its patron, Innocent X.  For 10 points, name this structure in the Piazza Navona of Rome that": {
+    "guess": "Fountain of the Four Rivers",
+    "confidence": [
+      [
+        "F",
+        -0.08876888
+      ],
+      [
+        "ountain",
+        -3.1281633e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -1.0325924e-05
+      ],
+      [
+        " Four",
+        -1.9361265e-07
+      ],
+      [
+        " Rivers",
+        0.0
+      ]
+    ]
+  },
+  "Its major portions were completed by a select group of the artist's pupils, including Antonio Raggi and Claude Poussin.  Its building was highly unpopular due to the new bread tax instituted to finance its construction.  The artist himself was responsible for the images at the center, which were carved in situ, and include a horse and a palm tree.  Another pupil, Baratta, was responsible for the bearded black man who sits on a pile of coins and has his arm upraised, a gesture theorized to be an insult to the design of the neighboring church of Sant'Agnese by Borromini.  It is also populated by several types of animals, including a few lions and the dove at the top representing the Pamphili family of its patron, Innocent X.  For 10 points, name this structure in the Piazza Navona of Rome that was designed by Bernini and includes personifications of the Rio de la Plata and the Ganges.": {
+    "guess": "Fontana dei Quattro Fiumi",
+    "confidence": [
+      [
+        "Font",
+        -0.00033475063
+      ],
+      [
+        "ana",
+        0.0
+      ],
+      [
+        " dei",
+        0.0
+      ],
+      [
+        " Qu",
+        0.0
+      ],
+      [
+        "attro",
+        0.0
+      ],
+      [
+        " F",
+        0.0
+      ],
+      [
+        "iumi",
+        0.0
+      ]
+    ]
+  },
+  "One majority opinion by this man upheld the arrest of Irving Feiner following inflammatory remarks he": {
+    "guess": "Fred M. Vinson",
+    "confidence": [
+      [
+        "Fred",
+        -0.17576614
+      ],
+      [
+        " M",
+        -0.011049585
+      ],
+      [
+        ".",
+        -3.1281633e-07
+      ],
+      [
+        " Vin",
+        -1.9816675e-06
+      ],
+      [
+        "son",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "One majority opinion by this man upheld the arrest of Irving Feiner following inflammatory remarks he made in Syracuse, New York. This man was joined by Justices Reed and Minton in a dissent that cited": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0531354
+      ]
+    ]
+  },
+  "One majority opinion by this man upheld the arrest of Irving Feiner following inflammatory remarks he made in Syracuse, New York. This man was joined by Justices Reed and Minton in a dissent that cited Lincoln's naval blockade of the South to argue for the party represented by Secretary of State Charles": {
+    "guess": "Vincent S. Feeney",
+    "confidence": [
+      [
+        "Vin",
+        -0.15920377
+      ],
+      [
+        "cent",
+        -0.054894466
+      ],
+      [
+        " S",
+        -0.44520584
+      ],
+      [
+        ".",
+        -0.24006099
+      ],
+      [
+        " Fe",
+        -1.2625494
+      ],
+      [
+        "en",
+        -0.02664534
+      ],
+      [
+        "ey",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "One majority opinion by this man upheld the arrest of Irving Feiner following inflammatory remarks he made in Syracuse, New York. This man was joined by Justices Reed and Minton in a dissent that cited Lincoln's naval blockade of the South to argue for the party represented by Secretary of State Charles Sawyer. He used reasons like the necessity of keeping electronic devices secret in his majority": {
+    "guess": "Vincent, Fred M.",
+    "confidence": [
+      [
+        "Vin",
+        -0.70010275
+      ],
+      [
+        "cent",
+        -0.0036029173
+      ],
+      [
+        ",",
+        -0.6959728
+      ],
+      [
+        " Fred",
+        -0.17762822
+      ],
+      [
+        " M",
+        -0.0069502727
+      ],
+      [
+        ".",
+        -0.00074375677
+      ]
+    ]
+  },
+  "One majority opinion by this man upheld the arrest of Irving Feiner following inflammatory remarks he made in Syracuse, New York. This man was joined by Justices Reed and Minton in a dissent that cited Lincoln's naval blockade of the South to argue for the party represented by Secretary of State Charles Sawyer. He used reasons like the necessity of keeping electronic devices secret in his majority opinion denying Air Force reports to widows of civilian crash victims in United States v. Reynolds.": {
+    "guess": "Fred M. Vinson",
+    "confidence": [
+      [
+        "Fred",
+        -0.00028731857
+      ],
+      [
+        " M",
+        -0.00071016705
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Vin",
+        -4.3202e-07
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "One majority opinion by this man upheld the arrest of Irving Feiner following inflammatory remarks he made in Syracuse, New York. This man was joined by Justices Reed and Minton in a dissent that cited Lincoln's naval blockade of the South to argue for the party represented by Secretary of State Charles Sawyer. He used reasons like the necessity of keeping electronic devices secret in his majority opinion denying Air Force reports to widows of civilian crash victims in United States v. Reynolds. He also wrote a majority opinion holding that certain individuals were trying to overthrow the government": {
+    "guess": "Fred M. Vinson",
+    "confidence": [
+      [
+        "Fred",
+        -0.00044044392
+      ],
+      [
+        " M",
+        -5.8484206e-05
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Vin",
+        -3.1281633e-07
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "One majority opinion by this man upheld the arrest of Irving Feiner following inflammatory remarks he made in Syracuse, New York. This man was joined by Justices Reed and Minton in a dissent that cited Lincoln's naval blockade of the South to argue for the party represented by Secretary of State Charles Sawyer. He used reasons like the necessity of keeping electronic devices secret in his majority opinion denying Air Force reports to widows of civilian crash victims in United States v. Reynolds. He also wrote a majority opinion holding that certain individuals were trying to overthrow the government and that the Smith Act was constitutional in Dennis v. U.S, a landmark anti-Communist opinion.": {
+    "guess": "Fred M. Vinson",
+    "confidence": [
+      [
+        "Fred",
+        -0.00015288251
+      ],
+      [
+        " M",
+        -0.0002036596
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Vin",
+        -5.5122365e-07
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "One majority opinion by this man upheld the arrest of Irving Feiner following inflammatory remarks he made in Syracuse, New York. This man was joined by Justices Reed and Minton in a dissent that cited Lincoln's naval blockade of the South to argue for the party represented by Secretary of State Charles Sawyer. He used reasons like the necessity of keeping electronic devices secret in his majority opinion denying Air Force reports to widows of civilian crash victims in United States v. Reynolds. He also wrote a majority opinion holding that certain individuals were trying to overthrow the government and that the Smith Act was constitutional in Dennis v. U.S, a landmark anti-Communist opinion. Dying before his court could rule on Brown v. Board of Education, for 10 points, name this former Secretary": {
+    "guess": "Fred M. Vinson",
+    "confidence": [
+      [
+        "Fred",
+        -0.070583716
+      ],
+      [
+        " M",
+        -0.003600783
+      ],
+      [
+        ".",
+        -5.5122365e-07
+      ],
+      [
+        " Vin",
+        -1.9361265e-07
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "One majority opinion by this man upheld the arrest of Irving Feiner following inflammatory remarks he made in Syracuse, New York. This man was joined by Justices Reed and Minton in a dissent that cited Lincoln's naval blockade of the South to argue for the party represented by Secretary of State Charles Sawyer. He used reasons like the necessity of keeping electronic devices secret in his majority opinion denying Air Force reports to widows of civilian crash victims in United States v. Reynolds. He also wrote a majority opinion holding that certain individuals were trying to overthrow the government and that the Smith Act was constitutional in Dennis v. U.S, a landmark anti-Communist opinion. Dying before his court could rule on Brown v. Board of Education, for 10 points, name this former Secretary of the Treasury whom Truman appointed as a replacement for Harlan Fiske Stone as Chief Justice": {
+    "guess": "Fred M. Vinson",
+    "confidence": [
+      [
+        "Fred",
+        -0.0015796131
+      ],
+      [
+        " M",
+        -0.00015860428
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Vin",
+        0.0
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "One majority opinion by this man upheld the arrest of Irving Feiner following inflammatory remarks he made in Syracuse, New York. This man was joined by Justices Reed and Minton in a dissent that cited Lincoln's naval blockade of the South to argue for the party represented by Secretary of State Charles Sawyer. He used reasons like the necessity of keeping electronic devices secret in his majority opinion denying Air Force reports to widows of civilian crash victims in United States v. Reynolds. He also wrote a majority opinion holding that certain individuals were trying to overthrow the government and that the Smith Act was constitutional in Dennis v. U.S, a landmark anti-Communist opinion. Dying before his court could rule on Brown v. Board of Education, for 10 points, name this former Secretary of the Treasury whom Truman appointed as a replacement for Harlan Fiske Stone as Chief Justice of the Supreme Court in 1946.": {
+    "guess": "Fred M. Vinson",
+    "confidence": [
+      [
+        "Fred",
+        -0.00053766277
+      ],
+      [
+        " M",
+        -7.493431e-05
+      ],
+      [
+        ".",
+        -4.3202e-07
+      ],
+      [
+        " Vin",
+        0.0
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "The majority in this case repeatedly cites the Fifth Circuit decision Burnside v. Byars for the relevant": {
+    "guess": "Tinker v. Des Moines Independent Community School District",
+    "confidence": [
+      [
+        "T",
+        -0.0006631146
+      ],
+      [
+        "inker",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Des",
+        0.0
+      ],
+      [
+        " Moines",
+        0.0
+      ],
+      [
+        " Independent",
+        -0.00024394676
+      ],
+      [
+        " Community",
+        -4.8425554e-06
+      ],
+      [
+        " School",
+        0.0
+      ],
+      [
+        " District",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The majority in this case repeatedly cites the Fifth Circuit decision Burnside v. Byars for the relevant standard; it also uses the earlier opinions of Justice McReynolds in Bartels v. Iowa and Meyer v.": {
+    "guess": "Tinker v. Des Moines Independent Community School District",
+    "confidence": [
+      [
+        "T",
+        -0.014688616
+      ],
+      [
+        "inker",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Des",
+        -1.9361265e-07
+      ],
+      [
+        " Moines",
+        -1.9361265e-07
+      ],
+      [
+        " Independent",
+        -2.6656826e-05
+      ],
+      [
+        " Community",
+        -1.0280384e-06
+      ],
+      [
+        " School",
+        0.0
+      ],
+      [
+        " District",
+        0.0
+      ]
+    ]
+  },
+  "The majority in this case repeatedly cites the Fifth Circuit decision Burnside v. Byars for the relevant standard; it also uses the earlier opinions of Justice McReynolds in Bartels v. Iowa and Meyer v. Nebraska on reasonableness, which is cited as erroneous in Justice Black's dissent. Decided a year": {
+    "guess": "Tinker v. Des Moines Independent Community School District",
+    "confidence": [
+      [
+        "T",
+        -0.0061212294
+      ],
+      [
+        "inker",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Des",
+        0.0
+      ],
+      [
+        " Moines",
+        0.0
+      ],
+      [
+        " Independent",
+        -1.3544423e-05
+      ],
+      [
+        " Community",
+        -1.6240566e-06
+      ],
+      [
+        " School",
+        0.0
+      ],
+      [
+        " District",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The majority in this case repeatedly cites the Fifth Circuit decision Burnside v. Byars for the relevant standard; it also uses the earlier opinions of Justice McReynolds in Bartels v. Iowa and Meyer v. Nebraska on reasonableness, which is cited as erroneous in Justice Black's dissent. Decided a year after United States v. O'Brien, Justice Harlan added a short dissent in this case, which involved an": {
+    "guess": "Tinker v. Des Moines Independent Community School District",
+    "confidence": [
+      [
+        "T",
+        -0.00055303273
+      ],
+      [
+        "inker",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Des",
+        0.0
+      ],
+      [
+        " Moines",
+        0.0
+      ],
+      [
+        " Independent",
+        -0.0001004439
+      ],
+      [
+        " Community",
+        -6.704273e-07
+      ],
+      [
+        " School",
+        0.0
+      ],
+      [
+        " District",
+        0.0
+      ]
+    ]
+  },
+  "The majority in this case repeatedly cites the Fifth Circuit decision Burnside v. Byars for the relevant standard; it also uses the earlier opinions of Justice McReynolds in Bartels v. Iowa and Meyer v. Nebraska on reasonableness, which is cited as erroneous in Justice Black's dissent. Decided a year after United States v. O'Brien, Justice Harlan added a short dissent in this case, which involved an unnamed petitioner Christopher Eckhardt. Justices Stewart and White issued short concurrences to the": {
+    "guess": "Tinker v. Des Moines Independent Community School District",
+    "confidence": [
+      [
+        "T",
+        -0.0005653034
+      ],
+      [
+        "inker",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Des",
+        0.0
+      ],
+      [
+        " Moines",
+        0.0
+      ],
+      [
+        " Independent",
+        -4.2272506e-05
+      ],
+      [
+        " Community",
+        -7.89631e-07
+      ],
+      [
+        " School",
+        0.0
+      ],
+      [
+        " District",
+        0.0
+      ]
+    ]
+  },
+  "The majority in this case repeatedly cites the Fifth Circuit decision Burnside v. Byars for the relevant standard; it also uses the earlier opinions of Justice McReynolds in Bartels v. Iowa and Meyer v. Nebraska on reasonableness, which is cited as erroneous in Justice Black's dissent. Decided a year after United States v. O'Brien, Justice Harlan added a short dissent in this case, which involved an unnamed petitioner Christopher Eckhardt. Justices Stewart and White issued short concurrences to the majority opinion by Abe Fortas, which held that the central behavior was \"akin to pure speech\" and": {
+    "guess": "Tinker v. Des Moines Independent Community School District",
+    "confidence": [
+      [
+        "T",
+        -9.2576454e-05
+      ],
+      [
+        "inker",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Des",
+        0.0
+      ],
+      [
+        " Moines",
+        0.0
+      ],
+      [
+        " Independent",
+        -0.00034619053
+      ],
+      [
+        " Community",
+        -1.147242e-06
+      ],
+      [
+        " School",
+        0.0
+      ],
+      [
+        " District",
+        0.0
+      ]
+    ]
+  },
+  "The majority in this case repeatedly cites the Fifth Circuit decision Burnside v. Byars for the relevant standard; it also uses the earlier opinions of Justice McReynolds in Bartels v. Iowa and Meyer v. Nebraska on reasonableness, which is cited as erroneous in Justice Black's dissent. Decided a year after United States v. O'Brien, Justice Harlan added a short dissent in this case, which involved an unnamed petitioner Christopher Eckhardt. Justices Stewart and White issued short concurrences to the majority opinion by Abe Fortas, which held that the central behavior was \"akin to pure speech\" and that \"undifferentiated fear\" could not be used to prohibit a symbolic act which does not \"materially": {
+    "guess": "Tinker v. Des Moines Independent Community School District",
+    "confidence": [
+      [
+        "T",
+        -0.0001409658
+      ],
+      [
+        "inker",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Des",
+        0.0
+      ],
+      [
+        " Moines",
+        0.0
+      ],
+      [
+        " Independent",
+        -0.000117132404
+      ],
+      [
+        " Community",
+        -9.0883464e-07
+      ],
+      [
+        " School",
+        0.0
+      ],
+      [
+        " District",
+        0.0
+      ]
+    ]
+  },
+  "The majority in this case repeatedly cites the Fifth Circuit decision Burnside v. Byars for the relevant standard; it also uses the earlier opinions of Justice McReynolds in Bartels v. Iowa and Meyer v. Nebraska on reasonableness, which is cited as erroneous in Justice Black's dissent. Decided a year after United States v. O'Brien, Justice Harlan added a short dissent in this case, which involved an unnamed petitioner Christopher Eckhardt. Justices Stewart and White issued short concurrences to the majority opinion by Abe Fortas, which held that the central behavior was \"akin to pure speech\" and that \"undifferentiated fear\" could not be used to prohibit a symbolic act which does not \"materially and substantially interfere with requirements of discipline.\" FTP, name this 1969 case about the": {
+    "guess": "Tinker v. Des Moines Independent Community School District",
+    "confidence": [
+      [
+        "T",
+        -2.8802491e-05
+      ],
+      [
+        "inker",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Des",
+        0.0
+      ],
+      [
+        " Moines",
+        0.0
+      ],
+      [
+        " Independent",
+        -0.0025863622
+      ],
+      [
+        " Community",
+        -1.504853e-06
+      ],
+      [
+        " School",
+        0.0
+      ],
+      [
+        " District",
+        0.0
+      ]
+    ]
+  },
+  "The majority in this case repeatedly cites the Fifth Circuit decision Burnside v. Byars for the relevant standard; it also uses the earlier opinions of Justice McReynolds in Bartels v. Iowa and Meyer v. Nebraska on reasonableness, which is cited as erroneous in Justice Black's dissent. Decided a year after United States v. O'Brien, Justice Harlan added a short dissent in this case, which involved an unnamed petitioner Christopher Eckhardt. Justices Stewart and White issued short concurrences to the majority opinion by Abe Fortas, which held that the central behavior was \"akin to pure speech\" and that \"undifferentiated fear\" could not be used to prohibit a symbolic act which does not \"materially and substantially interfere with requirements of discipline.\" FTP, name this 1969 case about the wearing of black armbands to protest the Vietnam War at a school in Des Moines.": {
+    "guess": "Tinker v. Des Moines Independent Community School District",
+    "confidence": [
+      [
+        "T",
+        -1.2664457e-06
+      ],
+      [
+        "inker",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Des",
+        0.0
+      ],
+      [
+        " Moines",
+        0.0
+      ],
+      [
+        " Independent",
+        -0.00095195614
+      ],
+      [
+        " Community",
+        -2.1008714e-06
+      ],
+      [
+        " School",
+        0.0
+      ],
+      [
+        " District",
+        0.0
+      ]
+    ]
+  },
+  "His major work began as a commentary on a compendium by Peter of Spain, but became a standard logic textbook": {
+    "guess": "Summulae Logicales",
+    "confidence": [
+      [
+        "Summ",
+        -0.95500416
+      ],
+      [
+        "ula",
+        -0.0005974737
+      ],
+      [
+        "e",
+        -1.6240566e-06
+      ],
+      [
+        " Logical",
+        -0.039382022
+      ],
+      [
+        "es",
+        0.0
+      ]
+    ]
+  },
+  "His major work began as a commentary on a compendium by Peter of Spain, but became a standard logic textbook in its own right.  He became so famous that legends spread about him, including one which claimed": {
+    "guess": "William of Ockham",
+    "confidence": [
+      [
+        "William",
+        -0.30124706
+      ],
+      [
+        " of",
+        -3.7697225e-06
+      ],
+      [
+        " O",
+        -0.0003426144
+      ],
+      [
+        "ck",
+        0.0
+      ],
+      [
+        "ham",
+        0.0
+      ]
+    ]
+  },
+  "His major work began as a commentary on a compendium by Peter of Spain, but became a standard logic textbook in its own right.  He became so famous that legends spread about him, including one which claimed that he competed with the future Pope Clement VI for the affections of a shoemaker's wife.  In": {
+    "guess": "Jean Buridan",
+    "confidence": [
+      [
+        "Jean",
+        -0.033299036
+      ],
+      [
+        " Bur",
+        0.0
+      ],
+      [
+        "idan",
+        0.0
+      ]
+    ]
+  },
+  "His major work began as a commentary on a compendium by Peter of Spain, but became a standard logic textbook in its own right.  He became so famous that legends spread about him, including one which claimed that he competed with the future Pope Clement VI for the affections of a shoemaker's wife.  In his Compendium Logicae he offered a lengthy account of the way to find the middle term of a demonstration,": {
+    "guess": "Jean Buridan",
+    "confidence": [
+      [
+        "Jean",
+        -0.080555886
+      ],
+      [
+        " Bur",
+        0.0
+      ],
+      [
+        "idan",
+        0.0
+      ]
+    ]
+  },
+  "His major work began as a commentary on a compendium by Peter of Spain, but became a standard logic textbook in its own right.  He became so famous that legends spread about him, including one which claimed that he competed with the future Pope Clement VI for the affections of a shoemaker's wife.  In his Compendium Logicae he offered a lengthy account of the way to find the middle term of a demonstration, which came to be known as a certain type of \"bridge\" for traversing a syllogism.  He is best": {
+    "guess": "Walter Burley",
+    "confidence": [
+      [
+        "Walter",
+        -0.79471374
+      ],
+      [
+        " Bur",
+        -0.0004355566
+      ],
+      [
+        "ley",
+        -9.133887e-06
+      ]
+    ]
+  },
+  "His major work began as a commentary on a compendium by Peter of Spain, but became a standard logic textbook in its own right.  He became so famous that legends spread about him, including one which claimed that he competed with the future Pope Clement VI for the affections of a shoemaker's wife.  In his Compendium Logicae he offered a lengthy account of the way to find the middle term of a demonstration, which came to be known as a certain type of \"bridge\" for traversing a syllogism.  He is best known for arguing that will and intellect are not distinct faculties, which led him to conclude that": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.60039955
+      ]
+    ]
+  },
+  "His major work began as a commentary on a compendium by Peter of Spain, but became a standard logic textbook in its own right.  He became so famous that legends spread about him, including one which claimed that he competed with the future Pope Clement VI for the affections of a shoemaker's wife.  In his Compendium Logicae he offered a lengthy account of the way to find the middle term of a demonstration, which came to be known as a certain type of \"bridge\" for traversing a syllogism.  He is best known for arguing that will and intellect are not distinct faculties, which led him to conclude that the will is always determined by the stronger motive, and that when presented with equally desirable": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.2229304
+      ]
+    ]
+  },
+  "His major work began as a commentary on a compendium by Peter of Spain, but became a standard logic textbook in its own right.  He became so famous that legends spread about him, including one which claimed that he competed with the future Pope Clement VI for the affections of a shoemaker's wife.  In his Compendium Logicae he offered a lengthy account of the way to find the middle term of a demonstration, which came to be known as a certain type of \"bridge\" for traversing a syllogism.  He is best known for arguing that will and intellect are not distinct faculties, which led him to conclude that the will is always determined by the stronger motive, and that when presented with equally desirable alternatives we cannot choose.  FTP, name this scholastic philosopher of the 14th century, who is": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9343542
+      ]
+    ]
+  },
+  "His major work began as a commentary on a compendium by Peter of Spain, but became a standard logic textbook in its own right.  He became so famous that legends spread about him, including one which claimed that he competed with the future Pope Clement VI for the affections of a shoemaker's wife.  In his Compendium Logicae he offered a lengthy account of the way to find the middle term of a demonstration, which came to be known as a certain type of \"bridge\" for traversing a syllogism.  He is best known for arguing that will and intellect are not distinct faculties, which led him to conclude that the will is always determined by the stronger motive, and that when presented with equally desirable alternatives we cannot choose.  FTP, name this scholastic philosopher of the 14th century, who is associated with an indecisive ass.": {
+    "guess": "Jean Buridan",
+    "confidence": [
+      [
+        "Jean",
+        -0.27179825
+      ],
+      [
+        " Bur",
+        0.0
+      ],
+      [
+        "idan",
+        0.0
+      ]
+    ]
+  },
+  "A major constituent of granite pegmatites and the most common gangue mineral in hydrothermal and metal-bearing": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.0026742336
+      ]
+    ]
+  },
+  "A major constituent of granite pegmatites and the most common gangue mineral in hydrothermal and metal-bearing veins, it is easily recognizable from its characteristic hexagonal shape, usually terminated": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.00012940305
+      ]
+    ]
+  },
+  "A major constituent of granite pegmatites and the most common gangue mineral in hydrothermal and metal-bearing veins, it is easily recognizable from its characteristic hexagonal shape, usually terminated in positive or negative rhombehedrons.  The beta form of this tectosilicate forms at high temperatures,": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.0022680166
+      ]
+    ]
+  },
+  "A major constituent of granite pegmatites and the most common gangue mineral in hydrothermal and metal-bearing veins, it is easily recognizable from its characteristic hexagonal shape, usually terminated in positive or negative rhombehedrons.  The beta form of this tectosilicate forms at high temperatures, and all forms have formula SiO2.  FTP, name this common mineral, the definition of 7 on Mohs": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -3.0545007e-06
+      ]
+    ]
+  },
+  "A major constituent of granite pegmatites and the most common gangue mineral in hydrothermal and metal-bearing veins, it is easily recognizable from its characteristic hexagonal shape, usually terminated in positive or negative rhombehedrons.  The beta form of this tectosilicate forms at high temperatures, and all forms have formula SiO2.  FTP, name this common mineral, the definition of 7 on Mohs hardness scale, and having varieties amethyst, milky, and rose.": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.002567099
+      ]
+    ]
+  },
+  "A major character in this novel chooses to have his right foot cut off instead of being castrated after": {
+    "guess": "Roots",
+    "confidence": [
+      [
+        "Roots",
+        -0.05344418
+      ]
+    ]
+  },
+  "A major character in this novel chooses to have his right foot cut off instead of being castrated after he is caught attempting to escape for the fourth time. Another character in this novel becomes so": {
+    "guess": "Roots",
+    "confidence": [
+      [
+        "Roots",
+        -0.7118227
+      ]
+    ]
+  },
+  "A major character in this novel chooses to have his right foot cut off instead of being castrated after he is caught attempting to escape for the fourth time. Another character in this novel becomes so good at training gamecocks that he is nicknamed \"Chicken George.\" Subtitled \"The Saga of an American": {
+    "guess": "Roots",
+    "confidence": [
+      [
+        "Roots",
+        -1.1398757e-05
+      ]
+    ]
+  },
+  "A major character in this novel chooses to have his right foot cut off instead of being castrated after he is caught attempting to escape for the fourth time. Another character in this novel becomes so good at training gamecocks that he is nicknamed \"Chicken George.\" Subtitled \"The Saga of an American Family,\" this novel begins with the capture and sale into slavery of Kunta Kinte. For 10 points, name": {
+    "guess": "Roots",
+    "confidence": [
+      [
+        "Roots",
+        -3.1737043e-06
+      ]
+    ]
+  },
+  "A major character in this novel chooses to have his right foot cut off instead of being castrated after he is caught attempting to escape for the fourth time. Another character in this novel becomes so good at training gamecocks that he is nicknamed \"Chicken George.\" Subtitled \"The Saga of an American Family,\" this novel begins with the capture and sale into slavery of Kunta Kinte. For 10 points, name this Alex Haley novel that fictionalizes several generations of his ancestors.": {
+    "guess": "Roots",
+    "confidence": [
+      [
+        "Roots",
+        -0.00022439736
+      ]
+    ]
+  },
+  "After making light of his ill fortune, this character realizes that \"the worst is not / so long as we": {
+    "guess": "King Lear",
+    "confidence": [
+      [
+        "King",
+        -0.06620659
+      ],
+      [
+        " Lear",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "After making light of his ill fortune, this character realizes that \"the worst is not / so long as we can say \u2018This is the worst.'\" This character pretends to lead his suicidal father to the edge of a": {
+    "guess": "Edgar (King Lear)",
+    "confidence": [
+      [
+        "Ed",
+        -0.014654786
+      ],
+      [
+        "gar",
+        -1.6882126e-05
+      ],
+      [
+        " (",
+        -9.674858e-05
+      ],
+      [
+        "King",
+        -0.00012940305
+      ],
+      [
+        " Lear",
+        0.0
+      ],
+      [
+        ")",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "After making light of his ill fortune, this character realizes that \"the worst is not / so long as we can say \u2018This is the worst.'\" This character pretends to lead his suicidal father to the edge of a cliff and tells him to jump off, although they are on level ground. He claims to be possessed by five": {
+    "guess": "Edgar (King Lear)",
+    "confidence": [
+      [
+        "Ed",
+        -0.03701041
+      ],
+      [
+        "gar",
+        -2.7729659e-05
+      ],
+      [
+        " (",
+        -3.7981175e-05
+      ],
+      [
+        "King",
+        -4.5491004e-05
+      ],
+      [
+        " Lear",
+        0.0
+      ],
+      [
+        ")",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "After making light of his ill fortune, this character realizes that \"the worst is not / so long as we can say \u2018This is the worst.'\" This character pretends to lead his suicidal father to the edge of a cliff and tells him to jump off, although they are on level ground. He claims to be possessed by five \"foul fiends,\" including Flibbertigibbet, when three other characters take refuge from a storm in": {
+    "guess": "Edgar (King Lear)",
+    "confidence": [
+      [
+        "Ed",
+        -0.011069165
+      ],
+      [
+        "gar",
+        -2.577686e-06
+      ],
+      [
+        " (",
+        -0.00013703208
+      ],
+      [
+        "King",
+        -0.0006545356
+      ],
+      [
+        " Lear",
+        -6.704273e-07
+      ],
+      [
+        ")",
+        -0.0068251286
+      ]
+    ]
+  },
+  "After making light of his ill fortune, this character realizes that \"the worst is not / so long as we can say \u2018This is the worst.'\" This character pretends to lead his suicidal father to the edge of a cliff and tells him to jump off, although they are on level ground. He claims to be possessed by five \"foul fiends,\" including Flibbertigibbet, when three other characters take refuge from a storm in his hovel. After he stops pretending to be (*) Tom O'Bedlam, this character kills the treacherous Oswald": {
+    "guess": "Edgar (King Lear)",
+    "confidence": [
+      [
+        "Ed",
+        -0.057753053
+      ],
+      [
+        "gar",
+        -6.2729996e-06
+      ],
+      [
+        " (",
+        -0.06321162
+      ],
+      [
+        "King",
+        -0.0031901898
+      ],
+      [
+        " Lear",
+        -3.0545007e-06
+      ],
+      [
+        ")",
+        -0.003268976
+      ]
+    ]
+  },
+  "After making light of his ill fortune, this character realizes that \"the worst is not / so long as we can say \u2018This is the worst.'\" This character pretends to lead his suicidal father to the edge of a cliff and tells him to jump off, although they are on level ground. He claims to be possessed by five \"foul fiends,\" including Flibbertigibbet, when three other characters take refuge from a storm in his hovel. After he stops pretending to be (*) Tom O'Bedlam, this character kills the treacherous Oswald in a duel. At the end of the play, Albany declares this man king along with Kent. This man's father": {
+    "guess": "Edgar (King Lear)",
+    "confidence": [
+      [
+        "Ed",
+        -0.2049826
+      ],
+      [
+        "gar",
+        -0.00043090762
+      ],
+      [
+        " (",
+        -0.12817565
+      ],
+      [
+        "King",
+        -0.002175124
+      ],
+      [
+        " Lear",
+        -5.5577775e-06
+      ],
+      [
+        ")",
+        -0.018636696
+      ]
+    ]
+  },
+  "After making light of his ill fortune, this character realizes that \"the worst is not / so long as we can say \u2018This is the worst.'\" This character pretends to lead his suicidal father to the edge of a cliff and tells him to jump off, although they are on level ground. He claims to be possessed by five \"foul fiends,\" including Flibbertigibbet, when three other characters take refuge from a storm in his hovel. After he stops pretending to be (*) Tom O'Bedlam, this character kills the treacherous Oswald in a duel. At the end of the play, Albany declares this man king along with Kent. This man's father had his eyes ripped out by Cornwall before being stripped of his title as the Duke of Gloucester.": {
+    "guess": "Edgar (King Lear)",
+    "confidence": [
+      [
+        "Ed",
+        -0.02142628
+      ],
+      [
+        "gar",
+        -2.7610455e-05
+      ],
+      [
+        " (",
+        -0.3884647
+      ],
+      [
+        "King",
+        -0.0055795065
+      ],
+      [
+        " Lear",
+        -9.0883464e-07
+      ],
+      [
+        ")",
+        -0.03044568
+      ]
+    ]
+  },
+  "After making light of his ill fortune, this character realizes that \"the worst is not / so long as we can say \u2018This is the worst.'\" This character pretends to lead his suicidal father to the edge of a cliff and tells him to jump off, although they are on level ground. He claims to be possessed by five \"foul fiends,\" including Flibbertigibbet, when three other characters take refuge from a storm in his hovel. After he stops pretending to be (*) Tom O'Bedlam, this character kills the treacherous Oswald in a duel. At the end of the play, Albany declares this man king along with Kent. This man's father had his eyes ripped out by Cornwall before being stripped of his title as the Duke of Gloucester. For 10 points, name this virtuous brother of Edmund from King Lear.": {
+    "guess": "Edgar (King Lear)",
+    "confidence": [
+      [
+        "Ed",
+        -0.016216658
+      ],
+      [
+        "gar",
+        0.0
+      ],
+      [
+        " (",
+        -0.1617989
+      ],
+      [
+        "King",
+        -0.00082606415
+      ],
+      [
+        " Lear",
+        -1.9504607e-05
+      ],
+      [
+        ")",
+        -0.20421576
+      ]
+    ]
+  },
+  "One major criticism of this work argued that its author takes pleasure in the impossibility of change": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6379445
+      ]
+    ]
+  },
+  "One major criticism of this work argued that its author takes pleasure in the impossibility of change and called the author's work which followed this one \"unconscionably bad... as a work on the law of": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.12501445
+      ]
+    ]
+  },
+  "One major criticism of this work argued that its author takes pleasure in the impossibility of change and called the author's work which followed this one \"unconscionably bad... as a work on the law of free speech.\" This work claims romanticism on Foucault's part when he quips that Herculine Barbin was": {
+    "guess": "The History of Sexuality",
+    "confidence": [
+      [
+        "The",
+        -0.33785167
+      ],
+      [
+        " History",
+        -0.0024321438
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Sexual",
+        -2.451116e-05
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "One major criticism of this work argued that its author takes pleasure in the impossibility of change and called the author's work which followed this one \"unconscionably bad... as a work on the law of free speech.\" This work claims romanticism on Foucault's part when he quips that Herculine Barbin was able to live some part of her life in the \"happy limbo of non-identity.\"  Levi-Strauss' description": {
+    "guess": "The History of Sexuality",
+    "confidence": [
+      [
+        "The",
+        -0.106560506
+      ],
+      [
+        " History",
+        -0.019272083
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " Sexual",
+        -7.505351e-05
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "One major criticism of this work argued that its author takes pleasure in the impossibility of change and called the author's work which followed this one \"unconscionably bad... as a work on the law of free speech.\" This work claims romanticism on Foucault's part when he quips that Herculine Barbin was able to live some part of her life in the \"happy limbo of non-identity.\"  Levi-Strauss' description of the taboo incest as a \"pervasive cultural fantasy,\" Freud's psychoanalytic explanation of mourning": {
+    "guess": "The History of Sexuality",
+    "confidence": [
+      [
+        "The",
+        -0.023486665
+      ],
+      [
+        " History",
+        -0.0021827382
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Sexual",
+        -2.1531068e-05
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "One major criticism of this work argued that its author takes pleasure in the impossibility of change and called the author's work which followed this one \"unconscionably bad... as a work on the law of free speech.\" This work claims romanticism on Foucault's part when he quips that Herculine Barbin was able to live some part of her life in the \"happy limbo of non-identity.\"  Levi-Strauss' description of the taboo incest as a \"pervasive cultural fantasy,\" Freud's psychoanalytic explanation of mourning and melancholia, and Riviere's claim of \"womanliness as a masquerade,\" construct this work's notion": {
+    "guess": "The History of Sexuality",
+    "confidence": [
+      [
+        "The",
+        -0.34345794
+      ],
+      [
+        " History",
+        -0.0062106815
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " Sexual",
+        -9.133887e-06
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "One major criticism of this work argued that its author takes pleasure in the impossibility of change and called the author's work which followed this one \"unconscionably bad... as a work on the law of free speech.\" This work claims romanticism on Foucault's part when he quips that Herculine Barbin was able to live some part of her life in the \"happy limbo of non-identity.\"  Levi-Strauss' description of the taboo incest as a \"pervasive cultural fantasy,\" Freud's psychoanalytic explanation of mourning and melancholia, and Riviere's claim of \"womanliness as a masquerade,\" construct this work's notion of the \"Heterosexual Matrix.\" It begins by analyzing the incomplete notion of female subjectivity": {
+    "guess": "Gender Trouble",
+    "confidence": [
+      [
+        "Gender",
+        -0.00093683193
+      ],
+      [
+        " Trouble",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "One major criticism of this work argued that its author takes pleasure in the impossibility of change and called the author's work which followed this one \"unconscionably bad... as a work on the law of free speech.\" This work claims romanticism on Foucault's part when he quips that Herculine Barbin was able to live some part of her life in the \"happy limbo of non-identity.\"  Levi-Strauss' description of the taboo incest as a \"pervasive cultural fantasy,\" Freud's psychoanalytic explanation of mourning and melancholia, and Riviere's claim of \"womanliness as a masquerade,\" construct this work's notion of the \"Heterosexual Matrix.\" It begins by analyzing the incomplete notion of female subjectivity in the work of Irigaray and Beauvoir, and its author was the target of Martha Nussbaum's essay \"The": {
+    "guess": "Gender Trouble",
+    "confidence": [
+      [
+        "Gender",
+        -0.06541421
+      ],
+      [
+        " Trouble",
+        -1.1637165e-05
+      ]
+    ]
+  },
+  "One major criticism of this work argued that its author takes pleasure in the impossibility of change and called the author's work which followed this one \"unconscionably bad... as a work on the law of free speech.\" This work claims romanticism on Foucault's part when he quips that Herculine Barbin was able to live some part of her life in the \"happy limbo of non-identity.\"  Levi-Strauss' description of the taboo incest as a \"pervasive cultural fantasy,\" Freud's psychoanalytic explanation of mourning and melancholia, and Riviere's claim of \"womanliness as a masquerade,\" construct this work's notion of the \"Heterosexual Matrix.\" It begins by analyzing the incomplete notion of female subjectivity in the work of Irigaray and Beauvoir, and its author was the target of Martha Nussbaum's essay \"The Professor of Parody.\" Advising that parodic performance like dressing in drag can bring about the": {
+    "guess": "Gender Trouble",
+    "confidence": [
+      [
+        "Gender",
+        -0.038689904
+      ],
+      [
+        " Trouble",
+        -1.7120534e-05
+      ]
+    ]
+  },
+  "One major criticism of this work argued that its author takes pleasure in the impossibility of change and called the author's work which followed this one \"unconscionably bad... as a work on the law of free speech.\" This work claims romanticism on Foucault's part when he quips that Herculine Barbin was able to live some part of her life in the \"happy limbo of non-identity.\"  Levi-Strauss' description of the taboo incest as a \"pervasive cultural fantasy,\" Freud's psychoanalytic explanation of mourning and melancholia, and Riviere's claim of \"womanliness as a masquerade,\" construct this work's notion of the \"Heterosexual Matrix.\" It begins by analyzing the incomplete notion of female subjectivity in the work of Irigaray and Beauvoir, and its author was the target of Martha Nussbaum's essay \"The Professor of Parody.\" Advising that parodic performance like dressing in drag can bring about the title phenomenon and developing the concept of performativity, for 10 points, name this fundamental": {
+    "guess": "Gender Trouble",
+    "confidence": [
+      [
+        "Gender",
+        -0.0034383961
+      ],
+      [
+        " Trouble",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "One major criticism of this work argued that its author takes pleasure in the impossibility of change and called the author's work which followed this one \"unconscionably bad... as a work on the law of free speech.\" This work claims romanticism on Foucault's part when he quips that Herculine Barbin was able to live some part of her life in the \"happy limbo of non-identity.\"  Levi-Strauss' description of the taboo incest as a \"pervasive cultural fantasy,\" Freud's psychoanalytic explanation of mourning and melancholia, and Riviere's claim of \"womanliness as a masquerade,\" construct this work's notion of the \"Heterosexual Matrix.\" It begins by analyzing the incomplete notion of female subjectivity in the work of Irigaray and Beauvoir, and its author was the target of Martha Nussbaum's essay \"The Professor of Parody.\" Advising that parodic performance like dressing in drag can bring about the title phenomenon and developing the concept of performativity, for 10 points, name this fundamental work of post-structural feminist theory by Judith Butler.": {
+    "guess": "Gender Trouble",
+    "confidence": [
+      [
+        "Gender",
+        -0.0016373354
+      ],
+      [
+        " Trouble",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "One major symbol of this nation is the Tree of Life, a gigantic tree found alone in its southern desert,": {
+    "guess": "Bahrain",
+    "confidence": [
+      [
+        "B",
+        -0.015882911
+      ],
+      [
+        "ahr",
+        -3.1281633e-07
+      ],
+      [
+        "ain",
+        0.0
+      ]
+    ]
+  },
+  "One major symbol of this nation is the Tree of Life, a gigantic tree found alone in its southern desert, and Umm an Nusan island is home to the ruling family's private reserve. The island of Al-Muharraq": {
+    "guess": "Al-Muharraq.",
+    "confidence": [
+      [
+        "Al",
+        -0.5972989
+      ],
+      [
+        "-M",
+        -0.38692185
+      ],
+      [
+        "uh",
+        -9.651017e-05
+      ],
+      [
+        "arra",
+        -1.6240566e-06
+      ],
+      [
+        "q",
+        0.0
+      ],
+      [
+        ".",
+        -0.34541664
+      ]
+    ]
+  },
+  "One major symbol of this nation is the Tree of Life, a gigantic tree found alone in its southern desert, and Umm an Nusan island is home to the ruling family's private reserve. The island of Al-Muharraq contains its international airport and a structure designed to look like a desert tent holds the stands": {
+    "guess": "Bahrain",
+    "confidence": [
+      [
+        "B",
+        -0.015085103
+      ],
+      [
+        "ahr",
+        0.0
+      ],
+      [
+        "ain",
+        0.0
+      ]
+    ]
+  },
+  "One major symbol of this nation is the Tree of Life, a gigantic tree found alone in its southern desert, and Umm an Nusan island is home to the ruling family's private reserve. The island of Al-Muharraq contains its international airport and a structure designed to look like a desert tent holds the stands at its Formula 500 racetrack. This nation also contains a number of burial mounds from its (*)": {
+    "guess": "Bahrain",
+    "confidence": [
+      [
+        "B",
+        -0.73822945
+      ],
+      [
+        "ahr",
+        -4.3202e-07
+      ],
+      [
+        "ain",
+        -0.0009115827
+      ]
+    ]
+  },
+  "One major symbol of this nation is the Tree of Life, a gigantic tree found alone in its southern desert, and Umm an Nusan island is home to the ruling family's private reserve. The island of Al-Muharraq contains its international airport and a structure designed to look like a desert tent holds the stands at its Formula 500 racetrack. This nation also contains a number of burial mounds from its (*) Dilmun era. This state has a conflict with a nearby state over the Hawar islands, but recently announced": {
+    "guess": "Bahrain",
+    "confidence": [
+      [
+        "B",
+        -0.16999486
+      ],
+      [
+        "ahr",
+        0.0
+      ],
+      [
+        "ain",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "One major symbol of this nation is the Tree of Life, a gigantic tree found alone in its southern desert, and Umm an Nusan island is home to the ruling family's private reserve. The island of Al-Muharraq contains its international airport and a structure designed to look like a desert tent holds the stands at its Formula 500 racetrack. This nation also contains a number of burial mounds from its (*) Dilmun era. This state has a conflict with a nearby state over the Hawar islands, but recently announced plans to construct a  ? causeway to that state. The King Fahd Causeway already connects Khobar": {
+    "guess": "Bahrain-Qatar Causeway",
+    "confidence": [
+      [
+        "B",
+        -0.08597273
+      ],
+      [
+        "ahr",
+        0.0
+      ],
+      [
+        "ain",
+        -1.9361265e-07
+      ],
+      [
+        "-Q",
+        -0.5256843
+      ],
+      [
+        "atar",
+        -4.3202e-07
+      ],
+      [
+        " Cause",
+        -0.07461798
+      ],
+      [
+        "way",
+        0.0
+      ]
+    ]
+  },
+  "One major symbol of this nation is the Tree of Life, a gigantic tree found alone in its southern desert, and Umm an Nusan island is home to the ruling family's private reserve. The island of Al-Muharraq contains its international airport and a structure designed to look like a desert tent holds the stands at its Formula 500 racetrack. This nation also contains a number of burial mounds from its (*) Dilmun era. This state has a conflict with a nearby state over the Hawar islands, but recently announced plans to construct a  ? causeway to that state. The King Fahd Causeway already connects Khobar in Saudi Arabia to, for 10 points, what state located west of Qatar, an island nation in the Persian": {
+    "guess": "Bahrain",
+    "confidence": [
+      [
+        "B",
+        -0.019854829
+      ],
+      [
+        "ahr",
+        0.0
+      ],
+      [
+        "ain",
+        0.0
+      ]
+    ]
+  },
+  "One major symbol of this nation is the Tree of Life, a gigantic tree found alone in its southern desert, and Umm an Nusan island is home to the ruling family's private reserve. The island of Al-Muharraq contains its international airport and a structure designed to look like a desert tent holds the stands at its Formula 500 racetrack. This nation also contains a number of burial mounds from its (*) Dilmun era. This state has a conflict with a nearby state over the Hawar islands, but recently announced plans to construct a  ? causeway to that state. The King Fahd Causeway already connects Khobar in Saudi Arabia to, for 10 points, what state located west of Qatar, an island nation in the Persian Gulf?": {
+    "guess": "Bahrain",
+    "confidence": [
+      [
+        "B",
+        -0.102762125
+      ],
+      [
+        "ahr",
+        0.0
+      ],
+      [
+        "ain",
+        0.0
+      ]
+    ]
+  },
+  "A major primary source of this event is the \"relation\" of Lion Gardiner, who fired on a group of vessels": {
+    "guess": "Pequot War",
+    "confidence": [
+      [
+        "Pe",
+        -0.012968213
+      ],
+      [
+        "quot",
+        -1.0325924e-05
+      ],
+      [
+        " War",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A major primary source of this event is the \"relation\" of Lion Gardiner, who fired on a group of vessels despite the presence of Abraham Swain's daughters. Prior to this conflict, the ransom of Tatobem's": {
+    "guess": "Pequot War",
+    "confidence": [
+      [
+        "Pe",
+        -0.0023300978
+      ],
+      [
+        "quot",
+        -7.107425e-06
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "A major primary source of this event is the \"relation\" of Lion Gardiner, who fired on a group of vessels despite the presence of Abraham Swain's daughters. Prior to this conflict, the ransom of Tatobem's corpse prompted the retaliatory murder of John Stone, and it saw John Mason immolate hundreds of": {
+    "guess": "Pequot War",
+    "confidence": [
+      [
+        "Pe",
+        -0.00027718625
+      ],
+      [
+        "quot",
+        -1.1637165e-05
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "A major primary source of this event is the \"relation\" of Lion Gardiner, who fired on a group of vessels despite the presence of Abraham Swain's daughters. Prior to this conflict, the ransom of Tatobem's corpse prompted the retaliatory murder of John Stone, and it saw John Mason immolate hundreds of civilians in an action that failed to kill its target Sassacus, who was with a Niantic raiding party.": {
+    "guess": "Pequot War",
+    "confidence": [
+      [
+        "Pe",
+        -0.00043686782
+      ],
+      [
+        "quot",
+        -3.888926e-06
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "A major primary source of this event is the \"relation\" of Lion Gardiner, who fired on a group of vessels despite the presence of Abraham Swain's daughters. Prior to this conflict, the ransom of Tatobem's corpse prompted the retaliatory murder of John Stone, and it saw John Mason immolate hundreds of civilians in an action that failed to kill its target Sassacus, who was with a Niantic raiding party. This conflict began after John (*) Oldham was murdered on his way to Block Island and ended after": {
+    "guess": "Pequot War",
+    "confidence": [
+      [
+        "Pe",
+        -9.9371064e-05
+      ],
+      [
+        "quot",
+        -3.1281633e-07
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "A major primary source of this event is the \"relation\" of Lion Gardiner, who fired on a group of vessels despite the presence of Abraham Swain's daughters. Prior to this conflict, the ransom of Tatobem's corpse prompted the retaliatory murder of John Stone, and it saw John Mason immolate hundreds of civilians in an action that failed to kill its target Sassacus, who was with a Niantic raiding party. This conflict began after John (*) Oldham was murdered on his way to Block Island and ended after the \"Great Swamp Fight\" near Fairfield. The Mystic Massacre occurred during this conflict, which was": {
+    "guess": "Pequot War",
+    "confidence": [
+      [
+        "Pe",
+        -2.8802491e-05
+      ],
+      [
+        "quot",
+        -1.9361265e-07
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "A major primary source of this event is the \"relation\" of Lion Gardiner, who fired on a group of vessels despite the presence of Abraham Swain's daughters. Prior to this conflict, the ransom of Tatobem's corpse prompted the retaliatory murder of John Stone, and it saw John Mason immolate hundreds of civilians in an action that failed to kill its target Sassacus, who was with a Niantic raiding party. This conflict began after John (*) Oldham was murdered on his way to Block Island and ended after the \"Great Swamp Fight\" near Fairfield. The Mystic Massacre occurred during this conflict, which was ended by the Treaty of Hartford. The Narragansett joined the Massachusetts Bay and Plymouth colonies": {
+    "guess": "Pequot War",
+    "confidence": [
+      [
+        "Pe",
+        -0.0028446987
+      ],
+      [
+        "quot",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "A major primary source of this event is the \"relation\" of Lion Gardiner, who fired on a group of vessels despite the presence of Abraham Swain's daughters. Prior to this conflict, the ransom of Tatobem's corpse prompted the retaliatory murder of John Stone, and it saw John Mason immolate hundreds of civilians in an action that failed to kill its target Sassacus, who was with a Niantic raiding party. This conflict began after John (*) Oldham was murdered on his way to Block Island and ended after the \"Great Swamp Fight\" near Fairfield. The Mystic Massacre occurred during this conflict, which was ended by the Treaty of Hartford. The Narragansett joined the Massachusetts Bay and Plymouth colonies in, for 10 points, what conflict that practically exterminated the namesake Indian tribe?": {
+    "guess": "Pequot War",
+    "confidence": [
+      [
+        "Pe",
+        -0.00019483852
+      ],
+      [
+        "quot",
+        -1.9361265e-07
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The majority opinion in this case notes that California's continual invocation of worthless remedies": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9245634
+      ]
+    ]
+  },
+  "The majority opinion in this case notes that California's continual invocation of worthless remedies is \"buttressed by the experience of other States.\" The dissent alludes to \"untoward practical ramifications\"": {
+    "guess": "Brown v. Plata",
+    "confidence": [
+      [
+        "Brown",
+        -0.003092393
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Plata",
+        -0.000109622575
+      ]
+    ]
+  },
+  "The majority opinion in this case notes that California's continual invocation of worthless remedies is \"buttressed by the experience of other States.\" The dissent alludes to \"untoward practical ramifications\" that would be had regarding the in forma pauperis cases that relied on the legal procedure": {
+    "guess": "Coleman v. Thompson",
+    "confidence": [
+      [
+        "Cole",
+        -0.75894725
+      ],
+      [
+        "man",
+        -1.9361265e-07
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Thompson",
+        -0.0016270985
+      ]
+    ]
+  },
+  "The majority opinion in this case notes that California's continual invocation of worthless remedies is \"buttressed by the experience of other States.\" The dissent alludes to \"untoward practical ramifications\" that would be had regarding the in forma pauperis cases that relied on the legal procedure invalidated by this case. The dissent also mentions that an inability to recognize the weight carried": {
+    "guess": "Lassiter v. Department of Social Services",
+    "confidence": [
+      [
+        "L",
+        -1.4460514
+      ],
+      [
+        "ass",
+        -0.064513266
+      ],
+      [
+        "iter",
+        -2.1008714e-06
+      ],
+      [
+        " v",
+        -1.3856493e-06
+      ],
+      [
+        ".",
+        -4.3202e-07
+      ],
+      [
+        " Department",
+        -0.0035002886
+      ],
+      [
+        " of",
+        -1.0280384e-06
+      ],
+      [
+        " Social",
+        -4.8709502e-05
+      ],
+      [
+        " Services",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The majority opinion in this case notes that California's continual invocation of worthless remedies is \"buttressed by the experience of other States.\" The dissent alludes to \"untoward practical ramifications\" that would be had regarding the in forma pauperis cases that relied on the legal procedure invalidated by this case. The dissent also mentions that an inability to recognize the weight carried by stare decisis made it seem like the Court \"reached out\" to overturn (*) Wolf v. Colorado. This": {
+    "guess": "Mapp v. Ohio",
+    "confidence": [
+      [
+        "M",
+        -0.047385007
+      ],
+      [
+        "app",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ohio",
+        0.0
+      ]
+    ]
+  },
+  "The majority opinion in this case notes that California's continual invocation of worthless remedies is \"buttressed by the experience of other States.\" The dissent alludes to \"untoward practical ramifications\" that would be had regarding the in forma pauperis cases that relied on the legal procedure invalidated by this case. The dissent also mentions that an inability to recognize the weight carried by stare decisis made it seem like the Court \"reached out\" to overturn (*) Wolf v. Colorado. This case saw Justice Clark note that \"Nothing can destroy a government more quickly than its failure to": {
+    "guess": "Mapp v. Ohio",
+    "confidence": [
+      [
+        "M",
+        -0.0005374244
+      ],
+      [
+        "app",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ohio",
+        0.0
+      ]
+    ]
+  },
+  "The majority opinion in this case notes that California's continual invocation of worthless remedies is \"buttressed by the experience of other States.\" The dissent alludes to \"untoward practical ramifications\" that would be had regarding the in forma pauperis cases that relied on the legal procedure invalidated by this case. The dissent also mentions that an inability to recognize the weight carried by stare decisis made it seem like the Court \"reached out\" to overturn (*) Wolf v. Colorado. This case saw Justice Clark note that \"Nothing can destroy a government more quickly than its failure to observe its own laws.\" The Boyd and Weeks decisions provided precedents for this case, which exemplified": {
+    "guess": "Mapp v. Ohio",
+    "confidence": [
+      [
+        "M",
+        -3.035214e-05
+      ],
+      [
+        "app",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ohio",
+        0.0
+      ]
+    ]
+  },
+  "The majority opinion in this case notes that California's continual invocation of worthless remedies is \"buttressed by the experience of other States.\" The dissent alludes to \"untoward practical ramifications\" that would be had regarding the in forma pauperis cases that relied on the legal procedure invalidated by this case. The dissent also mentions that an inability to recognize the weight carried by stare decisis made it seem like the Court \"reached out\" to overturn (*) Wolf v. Colorado. This case saw Justice Clark note that \"Nothing can destroy a government more quickly than its failure to observe its own laws.\" The Boyd and Weeks decisions provided precedents for this case, which exemplified the \"fruit of the poisonous tree\" doctrine with regards to a trunk of pornographic materials. For": {
+    "guess": "Mapp v. Ohio",
+    "confidence": [
+      [
+        "M",
+        -0.00018244502
+      ],
+      [
+        "app",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ohio",
+        0.0
+      ]
+    ]
+  },
+  "The majority opinion in this case notes that California's continual invocation of worthless remedies is \"buttressed by the experience of other States.\" The dissent alludes to \"untoward practical ramifications\" that would be had regarding the in forma pauperis cases that relied on the legal procedure invalidated by this case. The dissent also mentions that an inability to recognize the weight carried by stare decisis made it seem like the Court \"reached out\" to overturn (*) Wolf v. Colorado. This case saw Justice Clark note that \"Nothing can destroy a government more quickly than its failure to observe its own laws.\" The Boyd and Weeks decisions provided precedents for this case, which exemplified the \"fruit of the poisonous tree\" doctrine with regards to a trunk of pornographic materials. For 10 points, identify this case which ruled that the exclusionary rule made evidence taken by the Cleveland": {
+    "guess": "Mapp v. Ohio",
+    "confidence": [
+      [
+        "M",
+        -9.253091e-06
+      ],
+      [
+        "app",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ohio",
+        0.0
+      ]
+    ]
+  },
+  "The majority opinion in this case notes that California's continual invocation of worthless remedies is \"buttressed by the experience of other States.\" The dissent alludes to \"untoward practical ramifications\" that would be had regarding the in forma pauperis cases that relied on the legal procedure invalidated by this case. The dissent also mentions that an inability to recognize the weight carried by stare decisis made it seem like the Court \"reached out\" to overturn (*) Wolf v. Colorado. This case saw Justice Clark note that \"Nothing can destroy a government more quickly than its failure to observe its own laws.\" The Boyd and Weeks decisions provided precedents for this case, which exemplified the \"fruit of the poisonous tree\" doctrine with regards to a trunk of pornographic materials. For 10 points, identify this case which ruled that the exclusionary rule made evidence taken by the Cleveland police inadmissible in court.": {
+    "guess": "Mapp v. Ohio",
+    "confidence": [
+      [
+        "M",
+        -1.0280384e-06
+      ],
+      [
+        "app",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ohio",
+        0.0
+      ]
+    ]
+  },
+  "One of the major consequences of this war was the transfer of the asiento slave-trading privilege. The": {
+    "guess": "War of the Spanish Succession",
+    "confidence": [
+      [
+        "War",
+        -0.0031130686
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -0.005233883
+      ],
+      [
+        " Spanish",
+        0.0
+      ],
+      [
+        " Succ",
+        -1.9361265e-07
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "One of the major consequences of this war was the transfer of the asiento slave-trading privilege. The treaties of Baden and Rastatt were signed in addition to the major treaty that ended it, and a major": {
+    "guess": "War of the Spanish Succession",
+    "confidence": [
+      [
+        "War",
+        -0.019192573
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " the",
+        -0.0009115827
+      ],
+      [
+        " Spanish",
+        0.0
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "One of the major consequences of this war was the transfer of the asiento slave-trading privilege. The treaties of Baden and Rastatt were signed in addition to the major treaty that ended it, and a major battle in it saw Tallard's forces defeated by Eugene of Savoy and Marlborough at Blenheim. The American": {
+    "guess": "War of the Spanish Succession",
+    "confidence": [
+      [
+        "War",
+        -0.00023345684
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Spanish",
+        0.0
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "One of the major consequences of this war was the transfer of the asiento slave-trading privilege. The treaties of Baden and Rastatt were signed in addition to the major treaty that ended it, and a major battle in it saw Tallard's forces defeated by Eugene of Savoy and Marlborough at Blenheim. The American phase of this war was called Queen Anne's War, and it ended with the Treaty of Utrecht in 1713.": {
+    "guess": "War of the Spanish Succession",
+    "confidence": [
+      [
+        "War",
+        -0.00032676398
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Spanish",
+        0.0
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "One of the major consequences of this war was the transfer of the asiento slave-trading privilege. The treaties of Baden and Rastatt were signed in addition to the major treaty that ended it, and a major battle in it saw Tallard's forces defeated by Eugene of Savoy and Marlborough at Blenheim. The American phase of this war was called Queen Anne's War, and it ended with the Treaty of Utrecht in 1713. For 10 points, name this conflict which was sparked by Louis XIV's attempts to gain power from the": {
+    "guess": "War of the Spanish Succession",
+    "confidence": [
+      [
+        "War",
+        -7.004696e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Spanish",
+        0.0
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "One of the major consequences of this war was the transfer of the asiento slave-trading privilege. The treaties of Baden and Rastatt were signed in addition to the major treaty that ended it, and a major battle in it saw Tallard's forces defeated by Eugene of Savoy and Marlborough at Blenheim. The American phase of this war was called Queen Anne's War, and it ended with the Treaty of Utrecht in 1713. For 10 points, name this conflict which was sparked by Louis XIV's attempts to gain power from the heir to Carlos II in a neighboring country.": {
+    "guess": "War of the Spanish Succession",
+    "confidence": [
+      [
+        "War",
+        -0.000557082
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Spanish",
+        0.0
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "A major work of the Stuckism movement proclaims that \"a dead one\" of these \"is not art,\" in reference": {
+    "guess": "Conceptual art",
+    "confidence": [
+      [
+        "Concept",
+        -1.0049611
+      ],
+      [
+        "ual",
+        -0.0015321242
+      ],
+      [
+        " art",
+        -0.18050674
+      ]
+    ]
+  },
+  "A major work of the Stuckism movement proclaims that \"a dead one\" of these \"is not art,\" in reference to Damien Hirst's The Physical Impossibility of Death in the Mind of Someone Living, which shows one": {
+    "guess": "Shark",
+    "confidence": [
+      [
+        "Sh",
+        -0.32903036
+      ],
+      [
+        "ark",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "A major work of the Stuckism movement proclaims that \"a dead one\" of these \"is not art,\" in reference to Damien Hirst's The Physical Impossibility of Death in the Mind of Someone Living, which shows one of these cut into three sections and preserved in formaldehyde. In another work, two men in white": {
+    "guess": "Shark",
+    "confidence": [
+      [
+        "Sh",
+        -0.59325755
+      ],
+      [
+        "ark",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "A major work of the Stuckism movement proclaims that \"a dead one\" of these \"is not art,\" in reference to Damien Hirst's The Physical Impossibility of Death in the Mind of Someone Living, which shows one of these cut into three sections and preserved in formaldehyde. In another work, two men in white reach out to save the title naked figure from one of these animals; that painting, set near Havana,": {
+    "guess": "Shark",
+    "confidence": [
+      [
+        "Sh",
+        -0.011249414
+      ],
+      [
+        "ark",
+        -0.0008048643
+      ]
+    ]
+  },
+  "A major work of the Stuckism movement proclaims that \"a dead one\" of these \"is not art,\" in reference to Damien Hirst's The Physical Impossibility of Death in the Mind of Someone Living, which shows one of these cut into three sections and preserved in formaldehyde. In another work, two men in white reach out to save the title naked figure from one of these animals; that painting, set near Havana, shows a man about to stab it with a harpoon. For 10 points, name this creature which John Singleton": {
+    "guess": "Shark",
+    "confidence": [
+      [
+        "Sh",
+        -0.0049091238
+      ],
+      [
+        "ark",
+        -1.3306016e-05
+      ]
+    ]
+  },
+  "A major work of the Stuckism movement proclaims that \"a dead one\" of these \"is not art,\" in reference to Damien Hirst's The Physical Impossibility of Death in the Mind of Someone Living, which shows one of these cut into three sections and preserved in formaldehyde. In another work, two men in white reach out to save the title naked figure from one of these animals; that painting, set near Havana, shows a man about to stab it with a harpoon. For 10 points, name this creature which John Singleton Copley depicted with \"Watson.\"": {
+    "guess": "Shark",
+    "confidence": [
+      [
+        "Sh",
+        -0.00725922
+      ],
+      [
+        "ark",
+        -2.7848862e-05
+      ]
+    ]
+  },
+  "Major Cornelius Melody is the focus of his proposed nine-play cycle, A Tale of Possessors Dispossessed,": {
+    "guess": "Eugene O'Neill",
+    "confidence": [
+      [
+        "E",
+        -0.098554455
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "ene",
+        0.0
+      ],
+      [
+        " O",
+        0.0
+      ],
+      [
+        "'",
+        -1.2664457e-06
+      ],
+      [
+        "Neill",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Major Cornelius Melody is the focus of his proposed nine-play cycle, A Tale of Possessors Dispossessed, but only the first play, A Touch of the Poet, was completed in his lifetime. Jim is a black man married": {
+    "guess": "A Touch of the Poet",
+    "confidence": [
+      [
+        "A",
+        -0.3194841
+      ],
+      [
+        " Touch",
+        -9.2576454e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -3.1281633e-07
+      ],
+      [
+        " Poet",
+        0.0
+      ]
+    ]
+  },
+  "Major Cornelius Melody is the focus of his proposed nine-play cycle, A Tale of Possessors Dispossessed, but only the first play, A Touch of the Poet, was completed in his lifetime. Jim is a black man married to the white woman Ella in this author's story of racial tensions, All God's Chillun Got Wings,": {
+    "guess": "Eugene O'Neill",
+    "confidence": [
+      [
+        "E",
+        -0.014356947
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "ene",
+        0.0
+      ],
+      [
+        " O",
+        0.0
+      ],
+      [
+        "'",
+        -4.8425554e-06
+      ],
+      [
+        "Neill",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Major Cornelius Melody is the focus of his proposed nine-play cycle, A Tale of Possessors Dispossessed, but only the first play, A Touch of the Poet, was completed in his lifetime. Jim is a black man married to the white woman Ella in this author's story of racial tensions, All God's Chillun Got Wings, and other works by this author of Anna Christie include ones featuring Nina Leeds and Harry Hope.": {
+    "guess": "Eugene O'Neill",
+    "confidence": [
+      [
+        "E",
+        -0.042434935
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "ene",
+        0.0
+      ],
+      [
+        " O",
+        0.0
+      ],
+      [
+        "'",
+        -6.9882217e-06
+      ],
+      [
+        "Neill",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Major Cornelius Melody is the focus of his proposed nine-play cycle, A Tale of Possessors Dispossessed, but only the first play, A Touch of the Poet, was completed in his lifetime. Jim is a black man married to the white woman Ella in this author's story of racial tensions, All God's Chillun Got Wings, and other works by this author of Anna Christie include ones featuring Nina Leeds and Harry Hope. He included both \"The Haunted\" and \"Homecoming\" in his trilogy, Mourning Becomes Electra. For 10 points,": {
+    "guess": "Eugene O'Neill",
+    "confidence": [
+      [
+        "E",
+        -0.08870769
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "ene",
+        0.0
+      ],
+      [
+        " O",
+        0.0
+      ],
+      [
+        "'",
+        -2.3392786e-06
+      ],
+      [
+        "Neill",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Major Cornelius Melody is the focus of his proposed nine-play cycle, A Tale of Possessors Dispossessed, but only the first play, A Touch of the Poet, was completed in his lifetime. Jim is a black man married to the white woman Ella in this author's story of racial tensions, All God's Chillun Got Wings, and other works by this author of Anna Christie include ones featuring Nina Leeds and Harry Hope. He included both \"The Haunted\" and \"Homecoming\" in his trilogy, Mourning Becomes Electra. For 10 points, name this American playwright of Strange Interlude and The Iceman Cometh, who also wrote the autobiographical": {
+    "guess": "Eugene O'Neill",
+    "confidence": [
+      [
+        "E",
+        -0.0071003814
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "ene",
+        0.0
+      ],
+      [
+        " O",
+        0.0
+      ],
+      [
+        "'",
+        -2.577686e-06
+      ],
+      [
+        "Neill",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Major Cornelius Melody is the focus of his proposed nine-play cycle, A Tale of Possessors Dispossessed, but only the first play, A Touch of the Poet, was completed in his lifetime. Jim is a black man married to the white woman Ella in this author's story of racial tensions, All God's Chillun Got Wings, and other works by this author of Anna Christie include ones featuring Nina Leeds and Harry Hope. He included both \"The Haunted\" and \"Homecoming\" in his trilogy, Mourning Becomes Electra. For 10 points, name this American playwright of Strange Interlude and The Iceman Cometh, who also wrote the autobiographical Long Day's Journey Into Night.": {
+    "guess": "Eugene O'Neill",
+    "confidence": [
+      [
+        "E",
+        -0.0011957057
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "ene",
+        0.0
+      ],
+      [
+        " O",
+        0.0
+      ],
+      [
+        "'",
+        -1.504853e-06
+      ],
+      [
+        "Neill",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The major account of this man's deeds is paraphrased in the so-called \"Short Report\" and includes an": {
+    "guess": "Francisco Pizarro",
+    "confidence": [
+      [
+        "Franc",
+        -0.95301944
+      ],
+      [
+        "isco",
+        -0.38688287
+      ],
+      [
+        " P",
+        -0.099748015
+      ],
+      [
+        "izar",
+        -6.3490756e-05
+      ],
+      [
+        "ro",
+        0.0
+      ]
+    ]
+  },
+  "The major account of this man's deeds is paraphrased in the so-called \"Short Report\" and includes an episode in which a Muslim woman from Hornachos prophesied doom for many explorers, but great wealth": {
+    "guess": "Hern\u00e1n Cort\u00e9s",
+    "confidence": [
+      [
+        "H",
+        -0.21305765
+      ],
+      [
+        "ern",
+        -8.061054e-06
+      ],
+      [
+        "\u00e1n",
+        -0.038546078
+      ],
+      [
+        " Cort",
+        -1.147242e-06
+      ],
+      [
+        "\u00e9s",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The major account of this man's deeds is paraphrased in the so-called \"Short Report\" and includes an episode in which a Muslim woman from Hornachos prophesied doom for many explorers, but great wealth for those that survive. In 1544, this man was arrested in Asuncion and brought to Seville in chains,": {
+    "guess": "\u00c1lvar N\u00fa\u00f1ez Cabeza de Vaca",
+    "confidence": [
+      [
+        "\u00c1",
+        -0.38568208
+      ],
+      [
+        "l",
+        -4.3202e-07
+      ],
+      [
+        "var",
+        -2.6968896e-06
+      ],
+      [
+        " N\u00fa",
+        -5.276243e-05
+      ],
+      [
+        "\u00f1ez",
+        -2.8160932e-06
+      ],
+      [
+        " Cabe",
+        -2.4584822e-06
+      ],
+      [
+        "za",
+        0.0
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " V",
+        -3.1281633e-07
+      ],
+      [
+        "aca",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The major account of this man's deeds is paraphrased in the so-called \"Short Report\" and includes an episode in which a Muslim woman from Hornachos prophesied doom for many explorers, but great wealth for those that survive. In 1544, this man was arrested in Asuncion and brought to Seville in chains, where he was tried and sentenced to exile in present day Oran, Algeria. This man, who often imitated": {
+    "guess": "\u00c1lvar N\u00fa\u00f1ez Cabeza de Vaca",
+    "confidence": [
+      [
+        "\u00c1",
+        -0.051276732
+      ],
+      [
+        "l",
+        -1.9361265e-07
+      ],
+      [
+        "var",
+        -1.8624639e-06
+      ],
+      [
+        " N\u00fa",
+        -3.1305768e-05
+      ],
+      [
+        "\u00f1ez",
+        -1.9816675e-06
+      ],
+      [
+        " Cabe",
+        -2.1008714e-06
+      ],
+      [
+        "za",
+        0.0
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " V",
+        0.0
+      ],
+      [
+        "aca",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The major account of this man's deeds is paraphrased in the so-called \"Short Report\" and includes an episode in which a Muslim woman from Hornachos prophesied doom for many explorers, but great wealth for those that survive. In 1544, this man was arrested in Asuncion and brought to Seville in chains, where he was tried and sentenced to exile in present day Oran, Algeria. This man, who often imitated scenes of the Bible out of piety, was regarded as a (*) medicine man when he started curing many Indians": {
+    "guess": "\u00c1lvar N\u00fa\u00f1ez Cabeza de Vaca",
+    "confidence": [
+      [
+        "\u00c1",
+        -0.3250364
+      ],
+      [
+        "l",
+        -4.3202e-07
+      ],
+      [
+        "var",
+        -6.704273e-07
+      ],
+      [
+        " N\u00fa",
+        -0.00012356207
+      ],
+      [
+        "\u00f1ez",
+        -3.1737043e-06
+      ],
+      [
+        " Cabe",
+        -2.577686e-06
+      ],
+      [
+        "za",
+        0.0
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " V",
+        0.0
+      ],
+      [
+        "aca",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The major account of this man's deeds is paraphrased in the so-called \"Short Report\" and includes an episode in which a Muslim woman from Hornachos prophesied doom for many explorers, but great wealth for those that survive. In 1544, this man was arrested in Asuncion and brought to Seville in chains, where he was tried and sentenced to exile in present day Oran, Algeria. This man, who often imitated scenes of the Bible out of piety, was regarded as a (*) medicine man when he started curing many Indians through prayer and herbs. An account of this man's deeds and travels are preserved in his namesake": {
+    "guess": "\u00c1lvar N\u00fa\u00f1ez Cabeza de Vaca",
+    "confidence": [
+      [
+        "\u00c1",
+        -0.5693246
+      ],
+      [
+        "l",
+        0.0
+      ],
+      [
+        "var",
+        -6.704273e-07
+      ],
+      [
+        " N\u00fa",
+        -0.00010914576
+      ],
+      [
+        "\u00f1ez",
+        -1.6240566e-06
+      ],
+      [
+        " Cabe",
+        -2.3392786e-06
+      ],
+      [
+        "za",
+        0.0
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " V",
+        0.0
+      ],
+      [
+        "aca",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The major account of this man's deeds is paraphrased in the so-called \"Short Report\" and includes an episode in which a Muslim woman from Hornachos prophesied doom for many explorers, but great wealth for those that survive. In 1544, this man was arrested in Asuncion and brought to Seville in chains, where he was tried and sentenced to exile in present day Oran, Algeria. This man, who often imitated scenes of the Bible out of piety, was regarded as a (*) medicine man when he started curing many Indians through prayer and herbs. An account of this man's deeds and travels are preserved in his namesake La Relacion, and he was the treasurer of the Narvaez expedition, which included a voyage from": {
+    "guess": "\u00c1lvar N\u00fa\u00f1ez Cabeza de Vaca",
+    "confidence": [
+      [
+        "\u00c1",
+        -0.05882904
+      ],
+      [
+        "l",
+        0.0
+      ],
+      [
+        "var",
+        -1.6240566e-06
+      ],
+      [
+        " N\u00fa",
+        -5.1808798e-05
+      ],
+      [
+        "\u00f1ez",
+        -9.0883464e-07
+      ],
+      [
+        " Cabe",
+        -1.8624639e-06
+      ],
+      [
+        "za",
+        0.0
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " V",
+        0.0
+      ],
+      [
+        "aca",
+        0.0
+      ]
+    ]
+  },
+  "The major account of this man's deeds is paraphrased in the so-called \"Short Report\" and includes an episode in which a Muslim woman from Hornachos prophesied doom for many explorers, but great wealth for those that survive. In 1544, this man was arrested in Asuncion and brought to Seville in chains, where he was tried and sentenced to exile in present day Oran, Algeria. This man, who often imitated scenes of the Bible out of piety, was regarded as a (*) medicine man when he started curing many Indians through prayer and herbs. An account of this man's deeds and travels are preserved in his namesake La Relacion, and he was the treasurer of the Narvaez expedition, which included a voyage from Florida to Galveston Island. For 10 points, identify this explorer and conquistador who explored the": {
+    "guess": "\u00c1lvar N\u00fa\u00f1ez Cabeza de Vaca",
+    "confidence": [
+      [
+        "\u00c1",
+        -0.03306887
+      ],
+      [
+        "l",
+        0.0
+      ],
+      [
+        "var",
+        -2.6968896e-06
+      ],
+      [
+        " N\u00fa",
+        -5.8484206e-05
+      ],
+      [
+        "\u00f1ez",
+        -2.1008714e-06
+      ],
+      [
+        " Cabe",
+        -1.2664457e-06
+      ],
+      [
+        "za",
+        0.0
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " V",
+        0.0
+      ],
+      [
+        "aca",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The major account of this man's deeds is paraphrased in the so-called \"Short Report\" and includes an episode in which a Muslim woman from Hornachos prophesied doom for many explorers, but great wealth for those that survive. In 1544, this man was arrested in Asuncion and brought to Seville in chains, where he was tried and sentenced to exile in present day Oran, Algeria. This man, who often imitated scenes of the Bible out of piety, was regarded as a (*) medicine man when he started curing many Indians through prayer and herbs. An account of this man's deeds and travels are preserved in his namesake La Relacion, and he was the treasurer of the Narvaez expedition, which included a voyage from Florida to Galveston Island. For 10 points, identify this explorer and conquistador who explored the American South and Mexico during the early 16th century.": {
+    "guess": "\u00c1lvar N\u00fa\u00f1ez Cabeza de Vaca",
+    "confidence": [
+      [
+        "\u00c1",
+        -0.04737602
+      ],
+      [
+        "l",
+        0.0
+      ],
+      [
+        "var",
+        -3.4121115e-06
+      ],
+      [
+        " N\u00fa",
+        -7.505351e-05
+      ],
+      [
+        "\u00f1ez",
+        -2.577686e-06
+      ],
+      [
+        " Cabe",
+        -9.0883464e-07
+      ],
+      [
+        "za",
+        0.0
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " V",
+        0.0
+      ],
+      [
+        "aca",
+        0.0
+      ]
+    ]
+  },
+  "While making a speech in support of the failed Rivers and Harbors Act of 1846, this man infamously claimed": {
+    "guess": "Thomas Hart Benton",
+    "confidence": [
+      [
+        "Thomas",
+        -0.074278384
+      ],
+      [
+        " Hart",
+        -0.067276224
+      ],
+      [
+        " Benton",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "While making a speech in support of the failed Rivers and Harbors Act of 1846, this man infamously claimed that rivers should be classified as inland seas. This man created the Bureau of Indian Affairs": {
+    "guess": "John C. Calhoun",
+    "confidence": [
+      [
+        "John",
+        -0.033349663
+      ],
+      [
+        " C",
+        -4.4849444e-06
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Cal",
+        0.0
+      ],
+      [
+        "h",
+        0.0
+      ],
+      [
+        "oun",
+        0.0
+      ]
+    ]
+  },
+  "While making a speech in support of the failed Rivers and Harbors Act of 1846, this man infamously claimed that rivers should be classified as inland seas. This man created the Bureau of Indian Affairs while serving as Secretary of War, and he also served as the last Secretary of State to John (*) Tyler.": {
+    "guess": "John C. Calhoun",
+    "confidence": [
+      [
+        "John",
+        -0.013352339
+      ],
+      [
+        " C",
+        -0.00029196384
+      ],
+      [
+        ".",
+        -3.1281633e-07
+      ],
+      [
+        " Cal",
+        -1.9361265e-07
+      ],
+      [
+        "h",
+        0.0
+      ],
+      [
+        "oun",
+        0.0
+      ]
+    ]
+  },
+  "While making a speech in support of the failed Rivers and Harbors Act of 1846, this man infamously claimed that rivers should be classified as inland seas. This man created the Bureau of Indian Affairs while serving as Secretary of War, and he also served as the last Secretary of State to John (*) Tyler. While serving in the Monroe Administration, this man advocated censuring Andrew Jackson for invading": {
+    "guess": "John C. Calhoun",
+    "confidence": [
+      [
+        "John",
+        -0.0034040709
+      ],
+      [
+        " C",
+        -2.1173457e-05
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Cal",
+        0.0
+      ],
+      [
+        "h",
+        0.0
+      ],
+      [
+        "oun",
+        0.0
+      ]
+    ]
+  },
+  "While making a speech in support of the failed Rivers and Harbors Act of 1846, this man infamously claimed that rivers should be classified as inland seas. This man created the Bureau of Indian Affairs while serving as Secretary of War, and he also served as the last Secretary of State to John (*) Tyler. While serving in the Monroe Administration, this man advocated censuring Andrew Jackson for invading Spanish Florida. This man authored the \"Exposition and Protest\", a document claiming that the": {
+    "guess": "John C. Calhoun",
+    "confidence": [
+      [
+        "John",
+        -0.0075184847
+      ],
+      [
+        " C",
+        -5.5122365e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Cal",
+        0.0
+      ],
+      [
+        "h",
+        0.0
+      ],
+      [
+        "oun",
+        0.0
+      ]
+    ]
+  },
+  "While making a speech in support of the failed Rivers and Harbors Act of 1846, this man infamously claimed that rivers should be classified as inland seas. This man created the Bureau of Indian Affairs while serving as Secretary of War, and he also served as the last Secretary of State to John (*) Tyler. While serving in the Monroe Administration, this man advocated censuring Andrew Jackson for invading Spanish Florida. This man authored the \"Exposition and Protest\", a document claiming that the Tariff of Abominations could and should be invalidated by his home state. For ten points, name this": {
+    "guess": "John C. Calhoun",
+    "confidence": [
+      [
+        "John",
+        -0.0022412508
+      ],
+      [
+        " C",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Cal",
+        0.0
+      ],
+      [
+        "h",
+        0.0
+      ],
+      [
+        "oun",
+        0.0
+      ]
+    ]
+  },
+  "While making a speech in support of the failed Rivers and Harbors Act of 1846, this man infamously claimed that rivers should be classified as inland seas. This man created the Bureau of Indian Affairs while serving as Secretary of War, and he also served as the last Secretary of State to John (*) Tyler. While serving in the Monroe Administration, this man advocated censuring Andrew Jackson for invading Spanish Florida. This man authored the \"Exposition and Protest\", a document claiming that the Tariff of Abominations could and should be invalidated by his home state. For ten points, name this powerful South Carolina Senator associated with nullification.": {
+    "guess": "John C. Calhoun",
+    "confidence": [
+      [
+        "John",
+        -0.0012903552
+      ],
+      [
+        " C",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Cal",
+        0.0
+      ],
+      [
+        "h",
+        0.0
+      ],
+      [
+        "oun",
+        0.0
+      ]
+    ]
+  },
+  "In the majority opinion, the precedent set in Boyd v. U.S. was reaffirmed through the Olmstead and McNabb": {
+    "guess": "Mapp v. Ohio",
+    "confidence": [
+      [
+        "M",
+        -0.06433342
+      ],
+      [
+        "app",
+        -4.3202e-07
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ohio",
+        0.0
+      ]
+    ]
+  },
+  "In the majority opinion, the precedent set in Boyd v. U.S. was reaffirmed through the Olmstead and McNabb cases by Justice Clark. Elaborating on an issue left open in Weeks v. U.S., it reexamined Wolf": {
+    "guess": "Mapp v. Ohio",
+    "confidence": [
+      [
+        "M",
+        -0.0029471552
+      ],
+      [
+        "app",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ohio",
+        0.0
+      ]
+    ]
+  },
+  "In the majority opinion, the precedent set in Boyd v. U.S. was reaffirmed through the Olmstead and McNabb cases by Justice Clark. Elaborating on an issue left open in Weeks v. U.S., it reexamined Wolf v. Colorado and concluded that the Fourth Amendment must also apply to states. A search of the suspect's": {
+    "guess": "Mapp v. Ohio",
+    "confidence": [
+      [
+        "M",
+        -0.00022856948
+      ],
+      [
+        "app",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ohio",
+        0.0
+      ]
+    ]
+  },
+  "In the majority opinion, the precedent set in Boyd v. U.S. was reaffirmed through the Olmstead and McNabb cases by Justice Clark. Elaborating on an issue left open in Weeks v. U.S., it reexamined Wolf v. Colorado and concluded that the Fourth Amendment must also apply to states. A search of the suspect's Cleveland home resulted in discovery of illegal pornographic materials, but the court ignored First": {
+    "guess": "Mapp v. Ohio",
+    "confidence": [
+      [
+        "M",
+        -0.00019209684
+      ],
+      [
+        "app",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ohio",
+        0.0
+      ]
+    ]
+  },
+  "In the majority opinion, the precedent set in Boyd v. U.S. was reaffirmed through the Olmstead and McNabb cases by Justice Clark. Elaborating on an issue left open in Weeks v. U.S., it reexamined Wolf v. Colorado and concluded that the Fourth Amendment must also apply to states. A search of the suspect's Cleveland home resulted in discovery of illegal pornographic materials, but the court ignored First Amendment implications because no valid warrant was possessed by the police. For 10 points, name": {
+    "guess": "Mapp v. Ohio",
+    "confidence": [
+      [
+        "M",
+        -0.00016170357
+      ],
+      [
+        "app",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ohio",
+        0.0
+      ]
+    ]
+  },
+  "In the majority opinion, the precedent set in Boyd v. U.S. was reaffirmed through the Olmstead and McNabb cases by Justice Clark. Elaborating on an issue left open in Weeks v. U.S., it reexamined Wolf v. Colorado and concluded that the Fourth Amendment must also apply to states. A search of the suspect's Cleveland home resulted in discovery of illegal pornographic materials, but the court ignored First Amendment implications because no valid warrant was possessed by the police. For 10 points, name this Supreme Court case of 1961 that applied the exclusionary rule to all criminal proceedings.": {
+    "guess": "Mapp v. Ohio",
+    "confidence": [
+      [
+        "M",
+        -1.92662e-05
+      ],
+      [
+        "app",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ohio",
+        0.0
+      ]
+    ]
+  },
+  "It makes the sound of thunder from distant lightning low because sound must get past many obstacles and": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.57681656
+      ],
+      [
+        ".",
+        -0.693159
+      ]
+    ]
+  },
+  "It makes the sound of thunder from distant lightning low because sound must get past many obstacles and longer wavelengths more easily make it, unlike a close strike's sharp crack. It ruins magnified images": {
+    "guess": "Atmospheric attenuation",
+    "confidence": [
+      [
+        "Atmos",
+        -0.54477215
+      ],
+      [
+        "pheric",
+        -1.6762922e-05
+      ],
+      [
+        " attenuation",
+        -1.2113359
+      ]
+    ]
+  },
+  "It makes the sound of thunder from distant lightning low because sound must get past many obstacles and longer wavelengths more easily make it, unlike a close strike's sharp crack. It ruins magnified images if wavelengths employed for viewing are larger than objects seen. The Fresnel type occurs if that": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.0041079656
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "It makes the sound of thunder from distant lightning low because sound must get past many obstacles and longer wavelengths more easily make it, unlike a close strike's sharp crack. It ruins magnified images if wavelengths employed for viewing are larger than objects seen. The Fresnel type occurs if that scientist's namesake number is greater than one; the Fraunhofer variety is seen if the value is": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.0052452604
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "It makes the sound of thunder from distant lightning low because sound must get past many obstacles and longer wavelengths more easily make it, unlike a close strike's sharp crack. It ruins magnified images if wavelengths employed for viewing are larger than objects seen. The Fresnel type occurs if that scientist's namesake number is greater than one; the Fraunhofer variety is seen if the value is less than one. It happens because Huygen's principle says all points on a wave front are propagation": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.0005701907
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "It makes the sound of thunder from distant lightning low because sound must get past many obstacles and longer wavelengths more easily make it, unlike a close strike's sharp crack. It ruins magnified images if wavelengths employed for viewing are larger than objects seen. The Fresnel type occurs if that scientist's namesake number is greater than one; the Fraunhofer variety is seen if the value is less than one. It happens because Huygen's principle says all points on a wave front are propagation sources, so even the tiniest opening can ruin a soundproof room. For ten points, name the phenomenon": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.0036986547
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "It makes the sound of thunder from distant lightning low because sound must get past many obstacles and longer wavelengths more easily make it, unlike a close strike's sharp crack. It ruins magnified images if wavelengths employed for viewing are larger than objects seen. The Fresnel type occurs if that scientist's namesake number is greater than one; the Fraunhofer variety is seen if the value is less than one. It happens because Huygen's principle says all points on a wave front are propagation sources, so even the tiniest opening can ruin a soundproof room. For ten points, name the phenomenon of waves bending when passing edges of openings.": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -2.4272753e-05
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "Its major section begins with eight unnamed chapters, the only unnamed parts of this work. Three of its": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.69793034
+      ]
+    ]
+  },
+  "Its major section begins with eight unnamed chapters, the only unnamed parts of this work. Three of its fragments are only known by English names: Gray, Westergaard, and Darmesteter. The Westergaard section": {
+    "guess": "The Waste Land",
+    "confidence": [
+      [
+        "The",
+        -1.4907426
+      ],
+      [
+        " Waste",
+        -1.1593584
+      ],
+      [
+        " Land",
+        -4.8351892e-05
+      ]
+    ]
+  },
+  "Its major section begins with eight unnamed chapters, the only unnamed parts of this work. Three of its fragments are only known by English names: Gray, Westergaard, and Darmesteter. The Westergaard section is followed by the Hadhokt, which gives an explanation of the soul's final destination, which": {
+    "guess": "Bundahishn",
+    "confidence": [
+      [
+        "Bund",
+        -0.59970504
+      ],
+      [
+        "ah",
+        -0.0040794704
+      ],
+      [
+        "ish",
+        -0.0015261677
+      ],
+      [
+        "n",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Its major section begins with eight unnamed chapters, the only unnamed parts of this work. Three of its fragments are only known by English names: Gray, Westergaard, and Darmesteter. The Westergaard section is followed by the Hadhokt, which gives an explanation of the soul's final destination, which itself can be determined based on the ritual specifications outlined in the Nirangistan. Its Khorda": {
+    "guess": "Avesta",
+    "confidence": [
+      [
+        "Av",
+        -0.14368507
+      ],
+      [
+        "esta",
+        -5.7961847e-06
+      ]
+    ]
+  },
+  "Its major section begins with eight unnamed chapters, the only unnamed parts of this work. Three of its fragments are only known by English names: Gray, Westergaard, and Darmesteter. The Westergaard section is followed by the Hadhokt, which gives an explanation of the soul's final destination, which itself can be determined based on the ritual specifications outlined in the Nirangistan. Its Khorda part is basically a book of common prayer, while extensions to the liturgy are the subject of the Visperad.": {
+    "guess": "Avesta",
+    "confidence": [
+      [
+        "Av",
+        -0.004522212
+      ],
+      [
+        "esta",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "Its major section begins with eight unnamed chapters, the only unnamed parts of this work. Three of its fragments are only known by English names: Gray, Westergaard, and Darmesteter. The Westergaard section is followed by the Hadhokt, which gives an explanation of the soul's final destination, which itself can be determined based on the ritual specifications outlined in the Nirangistan. Its Khorda part is basically a book of common prayer, while extensions to the liturgy are the subject of the Visperad. FTP, name this work that is also composed of the Vendidad and the Yasnas and Gathas, the sacred": {
+    "guess": "Avesta",
+    "confidence": [
+      [
+        "Av",
+        -0.00302881
+      ],
+      [
+        "esta",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Its major section begins with eight unnamed chapters, the only unnamed parts of this work. Three of its fragments are only known by English names: Gray, Westergaard, and Darmesteter. The Westergaard section is followed by the Hadhokt, which gives an explanation of the soul's final destination, which itself can be determined based on the ritual specifications outlined in the Nirangistan. Its Khorda part is basically a book of common prayer, while extensions to the liturgy are the subject of the Visperad. FTP, name this work that is also composed of the Vendidad and the Yasnas and Gathas, the sacred collection of Zoroastrian scriptures.": {
+    "guess": "Avesta",
+    "confidence": [
+      [
+        "Av",
+        -0.00041518008
+      ],
+      [
+        "esta",
+        0.0
+      ]
+    ]
+  },
+  "This man makes an appearance in The White Company and Sir Nigel, historical novels by Sir Arthur Conan": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.27739304
+      ]
+    ]
+  },
+  "This man makes an appearance in The White Company and Sir Nigel, historical novels by Sir Arthur Conan Doyle. He also is rescued by Ralph Fitzgerald in World Without End by Ken Follett. A large statue": {
+    "guess": "Sir Nigel Loring",
+    "confidence": [
+      [
+        "Sir",
+        -0.8524102
+      ],
+      [
+        " Nigel",
+        -0.73230237
+      ],
+      [
+        " L",
+        -0.024395334
+      ],
+      [
+        "oring",
+        0.0
+      ]
+    ]
+  },
+  "This man makes an appearance in The White Company and Sir Nigel, historical novels by Sir Arthur Conan Doyle. He also is rescued by Ralph Fitzgerald in World Without End by Ken Follett. A large statue of this man made in 1903 by Thomas Brock stands in Leeds, England. Although he never ascended to the": {
+    "guess": "Edward, the Black Prince",
+    "confidence": [
+      [
+        "Edward",
+        -0.11985961
+      ],
+      [
+        ",",
+        -0.69610655
+      ],
+      [
+        " the",
+        -2.8921695e-05
+      ],
+      [
+        " Black",
+        0.0
+      ],
+      [
+        " Prince",
+        0.0
+      ]
+    ]
+  },
+  "This man makes an appearance in The White Company and Sir Nigel, historical novels by Sir Arthur Conan Doyle. He also is rescued by Ralph Fitzgerald in World Without End by Ken Follett. A large statue of this man made in 1903 by Thomas Brock stands in Leeds, England. Although he never ascended to the throne, he won victories at battles such as Cr\u00e9cy (\"cray-see\") and Poitiers (\"pwat- eeay\"), culminating": {
+    "guess": "Edward, the Black Prince",
+    "confidence": [
+      [
+        "Edward",
+        -0.04685621
+      ],
+      [
+        ",",
+        -0.17979342
+      ],
+      [
+        " the",
+        -3.4121115e-06
+      ],
+      [
+        " Black",
+        0.0
+      ],
+      [
+        " Prince",
+        0.0
+      ]
+    ]
+  },
+  "This man makes an appearance in The White Company and Sir Nigel, historical novels by Sir Arthur Conan Doyle. He also is rescued by Ralph Fitzgerald in World Without End by Ken Follett. A large statue of this man made in 1903 by Thomas Brock stands in Leeds, England. Although he never ascended to the throne, he won victories at battles such as Cr\u00e9cy (\"cray-see\") and Poitiers (\"pwat- eeay\"), culminating in the capture of John the Good, King of France. Name this son of Edward III who never became king": {
+    "guess": "Edward, the Black Prince",
+    "confidence": [
+      [
+        "Edward",
+        -0.07277388
+      ],
+      [
+        ",",
+        -0.4740886
+      ],
+      [
+        " the",
+        -5.5577775e-06
+      ],
+      [
+        " Black",
+        -1.9361265e-07
+      ],
+      [
+        " Prince",
+        0.0
+      ]
+    ]
+  },
+  "This man makes an appearance in The White Company and Sir Nigel, historical novels by Sir Arthur Conan Doyle. He also is rescued by Ralph Fitzgerald in World Without End by Ken Follett. A large statue of this man made in 1903 by Thomas Brock stands in Leeds, England. Although he never ascended to the throne, he won victories at battles such as Cr\u00e9cy (\"cray-see\") and Poitiers (\"pwat- eeay\"), culminating in the capture of John the Good, King of France. Name this son of Edward III who never became king but is known for his colorful sobriquet (\"soe-brickay\").": {
+    "guess": "Black Prince",
+    "confidence": [
+      [
+        "Black",
+        -0.6962668
+      ],
+      [
+        " Prince",
+        0.0
+      ]
+    ]
+  },
+  "Make sure that your optical cables are all securely attached before answering these questions about neutrinos:": {
+    "guess": "OPERA experiment",
+    "confidence": [
+      [
+        "OP",
+        -0.3131721
+      ],
+      [
+        "ERA",
+        0.0
+      ],
+      [
+        " experiment",
+        -0.031128177
+      ]
+    ]
+  },
+  "Make sure that your optical cables are all securely attached before answering these questions about neutrinos:         A. Neutrinos come in three flavors: electron, muon, and tau- but they can oscillate": {
+    "guess": "Neutrino Oscillation",
+    "confidence": [
+      [
+        "Ne",
+        -0.25262734
+      ],
+      [
+        "utr",
+        -1.9361265e-07
+      ],
+      [
+        "ino",
+        -0.0040784013
+      ],
+      [
+        " Osc",
+        -0.0057466407
+      ],
+      [
+        "illation",
+        -4.4849444e-06
+      ]
+    ]
+  },
+  "Make sure that your optical cables are all securely attached before answering these questions about neutrinos:         A. Neutrinos come in three flavors: electron, muon, and tau- but they can oscillate between flavors as they travel. Neutrino oscillation was hinted at when scientists observed fewer": {
+    "guess": "Solar Neutrino Problem",
+    "confidence": [
+      [
+        "Solar",
+        -0.27502978
+      ],
+      [
+        " Ne",
+        -0.048592027
+      ],
+      [
+        "utr",
+        -1.1041146e-05
+      ],
+      [
+        "ino",
+        -0.048587486
+      ],
+      [
+        " Problem",
+        -4.990154e-05
+      ]
+    ]
+  },
+  "Make sure that your optical cables are all securely attached before answering these questions about neutrinos:         A. Neutrinos come in three flavors: electron, muon, and tau- but they can oscillate between flavors as they travel. Neutrino oscillation was hinted at when scientists observed fewer electron neutrinos than they expected coming from this object, whose PP and PEP reactions produce huge": {
+    "guess": "Sun",
+    "confidence": [
+      [
+        "Sun",
+        -0.017837917
+      ]
+    ]
+  },
+  "Make sure that your optical cables are all securely attached before answering these questions about neutrinos:         A. Neutrinos come in three flavors: electron, muon, and tau- but they can oscillate between flavors as they travel. Neutrino oscillation was hinted at when scientists observed fewer electron neutrinos than they expected coming from this object, whose PP and PEP reactions produce huge numbers of the particles": {
+    "guess": "Sun",
+    "confidence": [
+      [
+        "Sun",
+        -0.103016265
+      ]
+    ]
+  },
+  "A major idea behind the Coleman-De Luccia instanton, this process allows matter to go from a \"false vacuum\"": {
+    "guess": "False vacuum decay",
+    "confidence": [
+      [
+        "False",
+        -0.6934783
+      ],
+      [
+        " vacuum",
+        -0.0019291093
+      ],
+      [
+        " decay",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "A major idea behind the Coleman-De Luccia instanton, this process allows matter to go from a \"false vacuum\" state to a \"true vacuum\" state. Also responsible for the non-classical behavior of the Josephson": {
+    "guess": "Quantum Tunneling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.042543918
+      ],
+      [
+        " T",
+        -0.3484563
+      ],
+      [
+        "unn",
+        0.0
+      ],
+      [
+        "eling",
+        -0.01416351
+      ]
+    ]
+  },
+  "A major idea behind the Coleman-De Luccia instanton, this process allows matter to go from a \"false vacuum\" state to a \"true vacuum\" state. Also responsible for the non-classical behavior of the Josephson junction, in which a thin electrically insulating film is sandwiched between two pieces of superconductor,": {
+    "guess": "Quantum Tunneling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.00087394373
+      ],
+      [
+        " T",
+        -0.42871037
+      ],
+      [
+        "unn",
+        0.0
+      ],
+      [
+        "eling",
+        -0.011047815
+      ]
+    ]
+  },
+  "A major idea behind the Coleman-De Luccia instanton, this process allows matter to go from a \"false vacuum\" state to a \"true vacuum\" state. Also responsible for the non-classical behavior of the Josephson junction, in which a thin electrically insulating film is sandwiched between two pieces of superconductor, in 1928 this quantum effect was shown by Condon, Gamow, and Gurney to be responsible for": {
+    "guess": "Quantum tunneling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.005041033
+      ],
+      [
+        " tunn",
+        -0.061975863
+      ],
+      [
+        "eling",
+        -0.0052337637
+      ]
+    ]
+  },
+  "A major idea behind the Coleman-De Luccia instanton, this process allows matter to go from a \"false vacuum\" state to a \"true vacuum\" state. Also responsible for the non-classical behavior of the Josephson junction, in which a thin electrically insulating film is sandwiched between two pieces of superconductor, in 1928 this quantum effect was shown by Condon, Gamow, and Gurney to be responsible for the emission of alpha particles. FTP, name this effect, also called barrier penetration, in which a": {
+    "guess": "Quantum tunneling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.00010127832
+      ],
+      [
+        " tunn",
+        -0.00026169344
+      ],
+      [
+        "eling",
+        -0.0052337637
+      ]
+    ]
+  },
+  "A major idea behind the Coleman-De Luccia instanton, this process allows matter to go from a \"false vacuum\" state to a \"true vacuum\" state. Also responsible for the non-classical behavior of the Josephson junction, in which a thin electrically insulating film is sandwiched between two pieces of superconductor, in 1928 this quantum effect was shown by Condon, Gamow, and Gurney to be responsible for the emission of alpha particles. FTP, name this effect, also called barrier penetration, in which a particle travels through a potential barrier to the other side, even though the presence of the particle": {
+    "guess": "Quantum tunnelling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.002364944
+      ],
+      [
+        " tunn",
+        -8.923875e-05
+      ],
+      [
+        "elling",
+        -0.006715371
+      ]
+    ]
+  },
+  "A major idea behind the Coleman-De Luccia instanton, this process allows matter to go from a \"false vacuum\" state to a \"true vacuum\" state. Also responsible for the non-classical behavior of the Josephson junction, in which a thin electrically insulating film is sandwiched between two pieces of superconductor, in 1928 this quantum effect was shown by Condon, Gamow, and Gurney to be responsible for the emission of alpha particles. FTP, name this effect, also called barrier penetration, in which a particle travels through a potential barrier to the other side, even though the presence of the particle within that barrier is forbidden by classical physics.": {
+    "guess": "Quantum tunnelling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.00061010564
+      ],
+      [
+        " tunn",
+        -6.0510665e-05
+      ],
+      [
+        "elling",
+        -0.011047815
+      ]
+    ]
+  },
+  "Major battles in this war included Fleurus, at which the Prince of Waldeck was defeated by Marshal Luxembourg,": {
+    "guess": "Nine Years' War",
+    "confidence": [
+      [
+        "Nine",
+        -0.009956651
+      ],
+      [
+        " Years",
+        -3.1281633e-07
+      ],
+      [
+        "'",
+        -2.486877e-05
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "Major battles in this war included Fleurus, at which the Prince of Waldeck was defeated by Marshal Luxembourg, and the naval encounter at Cap La Hogue, at which Tourville was defeated. Its causes included": {
+    "guess": "Nine Years' War",
+    "confidence": [
+      [
+        "Nine",
+        -0.06596333
+      ],
+      [
+        " Years",
+        -1.9361265e-07
+      ],
+      [
+        "'",
+        -4.048445e-05
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "Major battles in this war included Fleurus, at which the Prince of Waldeck was defeated by Marshal Luxembourg, and the naval encounter at Cap La Hogue, at which Tourville was defeated. Its causes included the disputed election of the Archbishop of Cologne and a struggle over the lands of the Elector": {
+    "guess": "Nine Years' War",
+    "confidence": [
+      [
+        "Nine",
+        -0.0139580425
+      ],
+      [
+        " Years",
+        -1.9361265e-07
+      ],
+      [
+        "'",
+        -5.3239244e-05
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "Major battles in this war included Fleurus, at which the Prince of Waldeck was defeated by Marshal Luxembourg, and the naval encounter at Cap La Hogue, at which Tourville was defeated. Its causes included the disputed election of the Archbishop of Cologne and a struggle over the lands of the Elector Charles, and after nine years of fighting, it ended with the acknowledgement of William III as king": {
+    "guess": "Nine Years' War",
+    "confidence": [
+      [
+        "Nine",
+        -0.01654512
+      ],
+      [
+        " Years",
+        0.0
+      ],
+      [
+        "'",
+        -4.0961266e-05
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "Major battles in this war included Fleurus, at which the Prince of Waldeck was defeated by Marshal Luxembourg, and the naval encounter at Cap La Hogue, at which Tourville was defeated. Its causes included the disputed election of the Archbishop of Cologne and a struggle over the lands of the Elector Charles, and after nine years of fighting, it ended with the acknowledgement of William III as king of England at Ryswick. FTP, identify this war, which lasted from 1688 to 1697, fought by its namesake": {
+    "guess": "Nine Years' War",
+    "confidence": [
+      [
+        "Nine",
+        -0.004122569
+      ],
+      [
+        " Years",
+        -1.9361265e-07
+      ],
+      [
+        "'",
+        -3.4121115e-06
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "Major battles in this war included Fleurus, at which the Prince of Waldeck was defeated by Marshal Luxembourg, and the naval encounter at Cap La Hogue, at which Tourville was defeated. Its causes included the disputed election of the Archbishop of Cologne and a struggle over the lands of the Elector Charles, and after nine years of fighting, it ended with the acknowledgement of William III as king of England at Ryswick. FTP, identify this war, which lasted from 1688 to 1697, fought by its namesake group of Protestants against Louis XIV.": {
+    "guess": "Nine Years' War",
+    "confidence": [
+      [
+        "Nine",
+        -0.0369988
+      ],
+      [
+        " Years",
+        -1.9361265e-07
+      ],
+      [
+        "'",
+        -2.2007884e-05
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "In its majority decision the court cited two prior cases: U.S. v. Classic and U.S. v. Moseley. Justices": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.76092243
+      ]
+    ]
+  },
+  "In its majority decision the court cited two prior cases: U.S. v. Classic and U.S. v. Moseley. Justices Harlan and Frankfurter dissented claiming that they could find nothing in the Constitution, particularly": {
+    "guess": "Wesberry v. Sanders",
+    "confidence": [
+      [
+        "W",
+        -0.609606
+      ],
+      [
+        "es",
+        -5.2285613e-05
+      ],
+      [
+        "berry",
+        -1.9361265e-07
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Sanders",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "In its majority decision the court cited two prior cases: U.S. v. Classic and U.S. v. Moseley. Justices Harlan and Frankfurter dissented claiming that they could find nothing in the Constitution, particularly the Equal Protection clause, to justify the decision. The defendant was the secretary of state": {
+    "guess": "Reynolds v. Sims",
+    "confidence": [
+      [
+        "Re",
+        -0.9631252
+      ],
+      [
+        "yn",
+        -3.1281633e-07
+      ],
+      [
+        "olds",
+        -6.2729996e-06
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Sims",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "In its majority decision the court cited two prior cases: U.S. v. Classic and U.S. v. Moseley. Justices Harlan and Frankfurter dissented claiming that they could find nothing in the Constitution, particularly the Equal Protection clause, to justify the decision. The defendant was the secretary of state for the state involved and the plaintiff had challenged the validity of a 1901 Tennessee statute": {
+    "guess": "Baker v. Carr",
+    "confidence": [
+      [
+        "B",
+        -0.01857714
+      ],
+      [
+        "aker",
+        -1.9361265e-07
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Carr",
+        0.0
+      ]
+    ]
+  },
+  "In its majority decision the court cited two prior cases: U.S. v. Classic and U.S. v. Moseley. Justices Harlan and Frankfurter dissented claiming that they could find nothing in the Constitution, particularly the Equal Protection clause, to justify the decision. The defendant was the secretary of state for the state involved and the plaintiff had challenged the validity of a 1901 Tennessee statute apportioning members of the General Assembly. FTP, name this 1962 case that focused on discriminatory": {
+    "guess": "Baker v. Carr",
+    "confidence": [
+      [
+        "B",
+        -0.0001563394
+      ],
+      [
+        "aker",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Carr",
+        0.0
+      ]
+    ]
+  },
+  "In its majority decision the court cited two prior cases: U.S. v. Classic and U.S. v. Moseley. Justices Harlan and Frankfurter dissented claiming that they could find nothing in the Constitution, particularly the Equal Protection clause, to justify the decision. The defendant was the secretary of state for the state involved and the plaintiff had challenged the validity of a 1901 Tennessee statute apportioning members of the General Assembly. FTP, name this 1962 case that focused on discriminatory redistricting patterns.": {
+    "guess": "Baker v. Carr",
+    "confidence": [
+      [
+        "B",
+        -7.612634e-05
+      ],
+      [
+        "aker",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Carr",
+        0.0
+      ]
+    ]
+  },
+  "Its major advantage is that the effect of mobile-phase mass transfer on band or peak broadening will": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.42505947
+      ]
+    ]
+  },
+  "Its major advantage is that the effect of mobile-phase mass transfer on band or peak broadening will be reduced. It usually relies on impermeable macroparticles, such as glass beads, coated with a thin": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.3784316
+      ]
+    ]
+  },
+  "Its major advantage is that the effect of mobile-phase mass transfer on band or peak broadening will be reduced. It usually relies on impermeable macroparticles, such as glass beads, coated with a thin layer of microparticles. In this procedure the particles either constitute or support the stationary": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7168001
+      ]
+    ]
+  },
+  "Its major advantage is that the effect of mobile-phase mass transfer on band or peak broadening will be reduced. It usually relies on impermeable macroparticles, such as glass beads, coated with a thin layer of microparticles. In this procedure the particles either constitute or support the stationary phase, and the mobile phase flows through the channels of the interstitial spaces, and all of this": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5288918
+      ]
+    ]
+  },
+  "Its major advantage is that the effect of mobile-phase mass transfer on band or peak broadening will be reduced. It usually relies on impermeable macroparticles, such as glass beads, coated with a thin layer of microparticles. In this procedure the particles either constitute or support the stationary phase, and the mobile phase flows through the channels of the interstitial spaces, and all of this occurs in a tube. FTP, name this technique for separating the components of a mixture, a specific type": {
+    "guess": "Open Tubular Column Chromatography",
+    "confidence": [
+      [
+        "Open",
+        -0.2596432
+      ],
+      [
+        " Tub",
+        -0.67698663
+      ],
+      [
+        "ular",
+        0.0
+      ],
+      [
+        " Column",
+        -0.15141495
+      ],
+      [
+        " Chrom",
+        -0.00022284771
+      ],
+      [
+        "at",
+        -1.3856493e-06
+      ],
+      [
+        "ography",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Its major advantage is that the effect of mobile-phase mass transfer on band or peak broadening will be reduced. It usually relies on impermeable macroparticles, such as glass beads, coated with a thin layer of microparticles. In this procedure the particles either constitute or support the stationary phase, and the mobile phase flows through the channels of the interstitial spaces, and all of this occurs in a tube. FTP, name this technique for separating the components of a mixture, a specific type of chromatography.": {
+    "guess": "Open Column Chromatography",
+    "confidence": [
+      [
+        "Open",
+        -0.4252059
+      ],
+      [
+        " Column",
+        -0.6960201
+      ],
+      [
+        " Chrom",
+        -3.5120287e-05
+      ],
+      [
+        "at",
+        -3.1281633e-07
+      ],
+      [
+        "ography",
+        0.0
+      ]
+    ]
+  },
+  "Its major advantage over previous attempts at the same standard is the use of a filter bank created by": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.6347703
+      ]
+    ]
+  },
+  "Its major advantage over previous attempts at the same standard is the use of a filter bank created by a discrete cosine transform, which increases the resolution by 18 times. It takes advantage of the": {
+    "guess": "MP3",
+    "confidence": [
+      [
+        "MP",
+        -0.014465872
+      ],
+      [
+        "3",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Its major advantage over previous attempts at the same standard is the use of a filter bank created by a discrete cosine transform, which increases the resolution by 18 times. It takes advantage of the Fletcher-Munson threshold and the forward and backward masking effects when making 576 independent": {
+    "guess": "MP3",
+    "confidence": [
+      [
+        "MP",
+        -0.0002750406
+      ],
+      [
+        "3",
+        0.0
+      ]
+    ]
+  },
+  "Its major advantage over previous attempts at the same standard is the use of a filter bank created by a discrete cosine transform, which increases the resolution by 18 times. It takes advantage of the Fletcher-Munson threshold and the forward and backward masking effects when making 576 independent passes of each frequency band. Huffman coding is used to reduce the size of the final data set, which": {
+    "guess": "MP3",
+    "confidence": [
+      [
+        "MP",
+        -0.0030150227
+      ],
+      [
+        "3",
+        0.0
+      ]
+    ]
+  },
+  "Its major advantage over previous attempts at the same standard is the use of a filter bank created by a discrete cosine transform, which increases the resolution by 18 times. It takes advantage of the Fletcher-Munson threshold and the forward and backward masking effects when making 576 independent passes of each frequency band. Huffman coding is used to reduce the size of the final data set, which is first minimized via the byte reservoir, joint stereo techniques, and other psychoacoustic technologies.": {
+    "guess": "MP3",
+    "confidence": [
+      [
+        "MP",
+        -0.0020240434
+      ],
+      [
+        "3",
+        0.0
+      ]
+    ]
+  },
+  "Its major advantage over previous attempts at the same standard is the use of a filter bank created by a discrete cosine transform, which increases the resolution by 18 times. It takes advantage of the Fletcher-Munson threshold and the forward and backward masking effects when making 576 independent passes of each frequency band. Huffman coding is used to reduce the size of the final data set, which is first minimized via the byte reservoir, joint stereo techniques, and other psychoacoustic technologies. For 10 points, the Fraunhofer institute claims a patent on what technology standard, which": {
+    "guess": "MP3",
+    "confidence": [
+      [
+        "MP",
+        -0.0012326111
+      ],
+      [
+        "3",
+        0.0
+      ]
+    ]
+  },
+  "Its major advantage over previous attempts at the same standard is the use of a filter bank created by a discrete cosine transform, which increases the resolution by 18 times. It takes advantage of the Fletcher-Munson threshold and the forward and backward masking effects when making 576 independent passes of each frequency band. Huffman coding is used to reduce the size of the final data set, which is first minimized via the byte reservoir, joint stereo techniques, and other psychoacoustic technologies. For 10 points, the Fraunhofer institute claims a patent on what technology standard, which filters out imperceptible variations in sound files in order to create smaller but acoustically identical": {
+    "guess": "MP3",
+    "confidence": [
+      [
+        "MP",
+        -0.00092170405
+      ],
+      [
+        "3",
+        0.0
+      ]
+    ]
+  },
+  "Its major advantage over previous attempts at the same standard is the use of a filter bank created by a discrete cosine transform, which increases the resolution by 18 times. It takes advantage of the Fletcher-Munson threshold and the forward and backward masking effects when making 576 independent passes of each frequency band. Huffman coding is used to reduce the size of the final data set, which is first minimized via the byte reservoir, joint stereo techniques, and other psychoacoustic technologies. For 10 points, the Fraunhofer institute claims a patent on what technology standard, which filters out imperceptible variations in sound files in order to create smaller but acoustically identical files that might be acquired from Kazaa, Soulseek, or a CD ripping program?": {
+    "guess": "MP3",
+    "confidence": [
+      [
+        "MP",
+        -0.00022189408
+      ],
+      [
+        "3",
+        0.0
+      ]
+    ]
+  },
+  "While the majority of this novel is told in first person, the last two paragraphs are in third person.": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.18157673
+      ],
+      [
+        ".",
+        -0.100213364
+      ]
+    ]
+  },
+  "While the majority of this novel is told in first person, the last two paragraphs are in third person. Believing the patriotic fervor of their schoolmaster Kantorek, the narrator and his friends have enlisted": {
+    "guess": "All Quiet on the Western Front",
+    "confidence": [
+      [
+        "All",
+        -5.2285613e-05
+      ],
+      [
+        " Quiet",
+        0.0
+      ],
+      [
+        " on",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Western",
+        0.0
+      ],
+      [
+        " Front",
+        0.0
+      ]
+    ]
+  },
+  "While the majority of this novel is told in first person, the last two paragraphs are in third person. Believing the patriotic fervor of their schoolmaster Kantorek, the narrator and his friends have enlisted in the German army but soon are disillusioned and are killed or desert. By the end of the novel,": {
+    "guess": "All Quiet on the Western Front",
+    "confidence": [
+      [
+        "All",
+        -9.710619e-05
+      ],
+      [
+        " Quiet",
+        0.0
+      ],
+      [
+        " on",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Western",
+        0.0
+      ],
+      [
+        " Front",
+        0.0
+      ]
+    ]
+  },
+  "While the majority of this novel is told in first person, the last two paragraphs are in third person. Believing the patriotic fervor of their schoolmaster Kantorek, the narrator and his friends have enlisted in the German army but soon are disillusioned and are killed or desert. By the end of the novel, the narrator Paul Baumer is the last of his friends to die and he welcomes it. For ten points,": {
+    "guess": "All Quiet on the Western Front",
+    "confidence": [
+      [
+        "All",
+        -9.770221e-05
+      ],
+      [
+        " Quiet",
+        0.0
+      ],
+      [
+        " on",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Western",
+        0.0
+      ],
+      [
+        " Front",
+        0.0
+      ]
+    ]
+  },
+  "While the majority of this novel is told in first person, the last two paragraphs are in third person. Believing the patriotic fervor of their schoolmaster Kantorek, the narrator and his friends have enlisted in the German army but soon are disillusioned and are killed or desert. By the end of the novel, the narrator Paul Baumer is the last of his friends to die and he welcomes it. For ten points, name this anti-war novel by Erich Maria Remarque (ray-MARK).": {
+    "guess": "All Quiet on the Western Front",
+    "confidence": [
+      [
+        "All",
+        -7.7199176e-05
+      ],
+      [
+        " Quiet",
+        0.0
+      ],
+      [
+        " on",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Western",
+        0.0
+      ],
+      [
+        " Front",
+        0.0
+      ]
+    ]
+  },
+  "Make some conservative school board members in Kansas upset by answering these questions about physical": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8182989
+      ]
+    ]
+  },
+  "Make some conservative school board members in Kansas upset by answering these questions about physical cosmology for the stated number of points.  15 For fifteen points, name either the Belgian cosmologist": {
+    "guess": "Georges Lema\u00eetre",
+    "confidence": [
+      [
+        "Ge",
+        -0.023191081
+      ],
+      [
+        "orges",
+        -7.89631e-07
+      ],
+      [
+        " L",
+        -0.00026860725
+      ],
+      [
+        "ema",
+        -1.9361265e-07
+      ],
+      [
+        "\u00eetre",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Make some conservative school board members in Kansas upset by answering these questions about physical cosmology for the stated number of points.  15 For fifteen points, name either the Belgian cosmologist who published \"hypothesis of the primeval atom\" or the Russian mathematician cum meteorologist": {
+    "guess": "Big Bang",
+    "confidence": [
+      [
+        "Big",
+        -0.7878872
+      ],
+      [
+        " Bang",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "Make some conservative school board members in Kansas upset by answering these questions about physical cosmology for the stated number of points.  15 For fifteen points, name either the Belgian cosmologist who published \"hypothesis of the primeval atom\" or the Russian mathematician cum meteorologist author of 1922's \"On the curvature of Space\"  who disagreed that a stationary universe was a consequence": {
+    "guess": "Big Bang",
+    "confidence": [
+      [
+        "Big",
+        -0.7400063
+      ],
+      [
+        " Bang",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Make some conservative school board members in Kansas upset by answering these questions about physical cosmology for the stated number of points.  15 For fifteen points, name either the Belgian cosmologist who published \"hypothesis of the primeval atom\" or the Russian mathematician cum meteorologist author of 1922's \"On the curvature of Space\"  who disagreed that a stationary universe was a consequence of general relativity.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.22156927
+      ]
+    ]
+  },
+  "A major moment for this house was the acquisition of Champagne by Eudes II, making them the greatest": {
+    "guess": "House of Blois",
+    "confidence": [
+      [
+        "House",
+        -0.01965193
+      ],
+      [
+        " of",
+        -3.1737043e-06
+      ],
+      [
+        " Blo",
+        -6.511407e-06
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "A major moment for this house was the acquisition of Champagne by Eudes II, making them the greatest rivals to the French throne. It came to an end in 1230 when the countship passed to the House of Chatillon,": {
+    "guess": "House of Blois",
+    "confidence": [
+      [
+        "House",
+        -0.71619934
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Blo",
+        -7.58424e-06
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "A major moment for this house was the acquisition of Champagne by Eudes II, making them the greatest rivals to the French throne. It came to an end in 1230 when the countship passed to the House of Chatillon, having earlier been founded around 940 by Thibaut the Cheat. The most famous member of this": {
+    "guess": "House of Blois",
+    "confidence": [
+      [
+        "House",
+        -0.28897128
+      ],
+      [
+        " of",
+        -6.704273e-07
+      ],
+      [
+        " Blo",
+        -6.392203e-06
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "A major moment for this house was the acquisition of Champagne by Eudes II, making them the greatest rivals to the French throne. It came to an end in 1230 when the countship passed to the House of Chatillon, having earlier been founded around 940 by Thibaut the Cheat. The most famous member of this house seized power in England from his cousin Matilda, beginning a tumultuous reign that ended with": {
+    "guess": "House of Blois",
+    "confidence": [
+      [
+        "House",
+        -0.0637502
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Blo",
+        -4.8425554e-06
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "A major moment for this house was the acquisition of Champagne by Eudes II, making them the greatest rivals to the French throne. It came to an end in 1230 when the countship passed to the House of Chatillon, having earlier been founded around 940 by Thibaut the Cheat. The most famous member of this house seized power in England from his cousin Matilda, beginning a tumultuous reign that ended with the ascension of Henry II. FTP, what was this royal house of King Stephen?": {
+    "guess": "House of Blois",
+    "confidence": [
+      [
+        "House",
+        -0.0019908512
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Blo",
+        -4.3202e-07
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "The only major change resulting from this war was the possession of Innviertel. It was set in motion": {
+    "guess": "War of the Bavarian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.0041358685
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -0.0003358198
+      ],
+      [
+        " Bav",
+        -1.0206721e-05
+      ],
+      [
+        "arian",
+        0.0
+      ],
+      [
+        " Succ",
+        -2.220075e-06
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "The only major change resulting from this war was the possession of Innviertel. It was set in motion due to the lack of an heir for a branch of the Wittelsbach family, leading Maximilian Joseph to declare": {
+    "guess": "War of the Bavarian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.036596175
+      ],
+      [
+        " of",
+        -2.3392786e-06
+      ],
+      [
+        " the",
+        -0.001171533
+      ],
+      [
+        " Bav",
+        -4.561021e-05
+      ],
+      [
+        "arian",
+        0.0
+      ],
+      [
+        " Succ",
+        -1.0280384e-06
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "The only major change resulting from this war was the possession of Innviertel. It was set in motion due to the lack of an heir for a branch of the Wittelsbach family, leading Maximilian Joseph to declare Elector Palatine Karl Theodore his heir. However, Maximilian also tried to sell a third of his realm": {
+    "guess": "War of the Bavarian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.005611508
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Bav",
+        -3.4121115e-06
+      ],
+      [
+        "arian",
+        0.0
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "The only major change resulting from this war was the possession of Innviertel. It was set in motion due to the lack of an heir for a branch of the Wittelsbach family, leading Maximilian Joseph to declare Elector Palatine Karl Theodore his heir. However, Maximilian also tried to sell a third of his realm to Joseph II, and after Maximilian's death, Frederick the Great opposed Joseph's claims. A stalemate": {
+    "guess": "War of the Bavarian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.5794189
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -3.1281633e-07
+      ],
+      [
+        " Bav",
+        -2.6968896e-06
+      ],
+      [
+        "arian",
+        0.0
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "The only major change resulting from this war was the possession of Innviertel. It was set in motion due to the lack of an heir for a branch of the Wittelsbach family, leading Maximilian Joseph to declare Elector Palatine Karl Theodore his heir. However, Maximilian also tried to sell a third of his realm to Joseph II, and after Maximilian's death, Frederick the Great opposed Joseph's claims. A stalemate was quickly reached in which no battles were fought, prompting the Treaty of Teschen and leading": {
+    "guess": "War of the Bavarian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.00043901347
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Bav",
+        0.0
+      ],
+      [
+        "arian",
+        0.0
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "The only major change resulting from this war was the possession of Innviertel. It was set in motion due to the lack of an heir for a branch of the Wittelsbach family, leading Maximilian Joseph to declare Elector Palatine Karl Theodore his heir. However, Maximilian also tried to sell a third of his realm to Joseph II, and after Maximilian's death, Frederick the Great opposed Joseph's claims. A stalemate was quickly reached in which no battles were fought, prompting the Treaty of Teschen and leading the Prussian troops to pick potatoes in their free time, leading to its nickname, the \"Potato War\".": {
+    "guess": "War of the Bavarian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.00071517355
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Bav",
+        0.0
+      ],
+      [
+        "arian",
+        0.0
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "The only major change resulting from this war was the possession of Innviertel. It was set in motion due to the lack of an heir for a branch of the Wittelsbach family, leading Maximilian Joseph to declare Elector Palatine Karl Theodore his heir. However, Maximilian also tried to sell a third of his realm to Joseph II, and after Maximilian's death, Frederick the Great opposed Joseph's claims. A stalemate was quickly reached in which no battles were fought, prompting the Treaty of Teschen and leading the Prussian troops to pick potatoes in their free time, leading to its nickname, the \"Potato War\". FTP, what was this 1778-79 war of succession?": {
+    "guess": "War of the Bavarian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.00727638
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Bav",
+        0.0
+      ],
+      [
+        "arian",
+        0.0
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "What makes this theory possible is the apparent arbitrariness of Von Neumann's fifth postulate, which": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.14006874
+      ],
+      [
+        ".",
+        -0.25194177
+      ]
+    ]
+  },
+  "What makes this theory possible is the apparent arbitrariness of Von Neumann's fifth postulate, which is based on the assumption of additivity for the expectations of identically prepared systems. Because": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7387062
+      ]
+    ]
+  },
+  "What makes this theory possible is the apparent arbitrariness of Von Neumann's fifth postulate, which is based on the assumption of additivity for the expectations of identically prepared systems. Because the conventional state vector is related to values of the hidden vectors in an explicitly instantaneous": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6554829
+      ]
+    ]
+  },
+  "What makes this theory possible is the apparent arbitrariness of Von Neumann's fifth postulate, which is based on the assumption of additivity for the expectations of identically prepared systems. Because the conventional state vector is related to values of the hidden vectors in an explicitly instantaneous and nonlocal way, it is not a violation of Bell's inequality, though it does violate general": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.3094462
+      ]
+    ]
+  },
+  "What makes this theory possible is the apparent arbitrariness of Von Neumann's fifth postulate, which is based on the assumption of additivity for the expectations of identically prepared systems. Because the conventional state vector is related to values of the hidden vectors in an explicitly instantaneous and nonlocal way, it is not a violation of Bell's inequality, though it does violate general relativity. FTP, identify this formulation of quantum mechanics which postulates hidden wave functions": {
+    "guess": "Many-worlds interpretation",
+    "confidence": [
+      [
+        "Many",
+        -0.36111134
+      ],
+      [
+        "-world",
+        -0.013117284
+      ],
+      [
+        "s",
+        -5.2001665e-06
+      ],
+      [
+        " interpretation",
+        -0.0009170551
+      ]
+    ]
+  },
+  "What makes this theory possible is the apparent arbitrariness of Von Neumann's fifth postulate, which is based on the assumption of additivity for the expectations of identically prepared systems. Because the conventional state vector is related to values of the hidden vectors in an explicitly instantaneous and nonlocal way, it is not a violation of Bell's inequality, though it does violate general relativity. FTP, identify this formulation of quantum mechanics which postulates hidden wave functions which push particles around deterministically, but unknowably.": {
+    "guess": "Pilot wave theory",
+    "confidence": [
+      [
+        "Pilot",
+        -0.87242985
+      ],
+      [
+        " wave",
+        -0.12792814
+      ],
+      [
+        " theory",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "A major influence on Ruwet's paradigmatic analysis, this man's dialogues with Krystyna Pomorska provides": {
+    "guess": "Roman Jakobson",
+    "confidence": [
+      [
+        "Roman",
+        -0.038192276
+      ],
+      [
+        " Jakob",
+        -8.530503e-05
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "A major influence on Ruwet's paradigmatic analysis, this man's dialogues with Krystyna Pomorska provides insight into much of his work in semiotics. His model of the functions of language incorporates": {
+    "guess": "Roman Jakobson",
+    "confidence": [
+      [
+        "Roman",
+        -0.008944735
+      ],
+      [
+        " Jakob",
+        -2.2961513e-05
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "A major influence on Ruwet's paradigmatic analysis, this man's dialogues with Krystyna Pomorska provides insight into much of his work in semiotics. His model of the functions of language incorporates Malinowski's work and Buhler's tripartite system into a theory of functional communication dependent": {
+    "guess": "Roman Jakobson",
+    "confidence": [
+      [
+        "Roman",
+        -0.0018553424
+      ],
+      [
+        " Jakob",
+        -1.5809293e-05
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "A major influence on Ruwet's paradigmatic analysis, this man's dialogues with Krystyna Pomorska provides insight into much of his work in semiotics. His model of the functions of language incorporates Malinowski's work and Buhler's tripartite system into a theory of functional communication dependent on six constituent parts: referential, poetic, emotive, conative, phatic, and metalingual. A major": {
+    "guess": "Roman Jakobson",
+    "confidence": [
+      [
+        "Roman",
+        -0.00057292875
+      ],
+      [
+        " Jakob",
+        -1.4378848e-05
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "A major influence on Ruwet's paradigmatic analysis, this man's dialogues with Krystyna Pomorska provides insight into much of his work in semiotics. His model of the functions of language incorporates Malinowski's work and Buhler's tripartite system into a theory of functional communication dependent on six constituent parts: referential, poetic, emotive, conative, phatic, and metalingual. A major influence upon Claude L\u00e9vi-Strauss' structuralism while at the New School for Social Research, his theories": {
+    "guess": "Roman Jakobson",
+    "confidence": [
+      [
+        "Roman",
+        -0.0019804991
+      ],
+      [
+        " Jakob",
+        -6.6306106e-06
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "A major influence on Ruwet's paradigmatic analysis, this man's dialogues with Krystyna Pomorska provides insight into much of his work in semiotics. His model of the functions of language incorporates Malinowski's work and Buhler's tripartite system into a theory of functional communication dependent on six constituent parts: referential, poetic, emotive, conative, phatic, and metalingual. A major influence upon Claude L\u00e9vi-Strauss' structuralism while at the New School for Social Research, his theories are best summarized in his Lectures on Sound and Meaning and his Linguistics and Poetics: Closing": {
+    "guess": "Roman Jakobson",
+    "confidence": [
+      [
+        "Roman",
+        -0.0026789873
+      ],
+      [
+        " Jakob",
+        -1.0564331e-05
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "A major influence on Ruwet's paradigmatic analysis, this man's dialogues with Krystyna Pomorska provides insight into much of his work in semiotics. His model of the functions of language incorporates Malinowski's work and Buhler's tripartite system into a theory of functional communication dependent on six constituent parts: referential, poetic, emotive, conative, phatic, and metalingual. A major influence upon Claude L\u00e9vi-Strauss' structuralism while at the New School for Social Research, his theories are best summarized in his Lectures on Sound and Meaning and his Linguistics and Poetics: Closing Statement. For ten points, name this perhaps foremost member of the Prague School.": {
+    "guess": "Roman Jakobson",
+    "confidence": [
+      [
+        "Roman",
+        -0.025970243
+      ],
+      [
+        " Jakob",
+        -7.9418505e-06
+      ],
+      [
+        "son",
+        0.0
+      ]
+    ]
+  },
+  "Their major disadvantage as compared to their counterpart is that they begin to denature after several": {
+    "guess": "Enzyme",
+    "confidence": [
+      [
+        "En",
+        -0.5274977
+      ],
+      [
+        "zyme",
+        -0.20141383
+      ]
+    ]
+  },
+  "Their major disadvantage as compared to their counterpart is that they begin to denature after several weeks of storage, even at \u201380 degrees C. To produce them, an animal is hyperimmunized, and then B": {
+    "guess": "Polyclonal antibodies",
+    "confidence": [
+      [
+        "Pol",
+        -0.018528108
+      ],
+      [
+        "ycl",
+        0.0
+      ],
+      [
+        "onal",
+        -4.3202e-07
+      ],
+      [
+        " antibodies",
+        -0.081179634
+      ]
+    ]
+  },
+  "Their major disadvantage as compared to their counterpart is that they begin to denature after several weeks of storage, even at \u201380 degrees C. To produce them, an animal is hyperimmunized, and then B cells are removed from the spleen. Polyethylene glycol is added to a culture containing both the B cells": {
+    "guess": "Monoclonal antibody",
+    "confidence": [
+      [
+        "Mon",
+        -0.25207102
+      ],
+      [
+        "oc",
+        -1.9361265e-07
+      ],
+      [
+        "lon",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        " antibody",
+        -0.15201253
+      ]
+    ]
+  },
+  "Their major disadvantage as compared to their counterpart is that they begin to denature after several weeks of storage, even at \u201380 degrees C. To produce them, an animal is hyperimmunized, and then B cells are removed from the spleen. Polyethylene glycol is added to a culture containing both the B cells and myelomas, which then fuse to form immortal hybridoma cells. The hybridomas can then be screened": {
+    "guess": "Monoclonal Antibody",
+    "confidence": [
+      [
+        "Mon",
+        -0.00012058931
+      ],
+      [
+        "oc",
+        0.0
+      ],
+      [
+        "lon",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        " Ant",
+        -0.28407323
+      ],
+      [
+        "ibody",
+        -0.5759398
+      ]
+    ]
+  },
+  "Their major disadvantage as compared to their counterpart is that they begin to denature after several weeks of storage, even at \u201380 degrees C. To produce them, an animal is hyperimmunized, and then B cells are removed from the spleen. Polyethylene glycol is added to a culture containing both the B cells and myelomas, which then fuse to form immortal hybridoma cells. The hybridomas can then be screened and used to produce these identical immunoglobulins. FTP, name this type of antibody produced from": {
+    "guess": "Monoclonal antibody",
+    "confidence": [
+      [
+        "Mon",
+        -2.6968896e-06
+      ],
+      [
+        "oc",
+        0.0
+      ],
+      [
+        "lon",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        " antibody",
+        -0.0033534477
+      ]
+    ]
+  },
+  "Their major disadvantage as compared to their counterpart is that they begin to denature after several weeks of storage, even at \u201380 degrees C. To produce them, an animal is hyperimmunized, and then B cells are removed from the spleen. Polyethylene glycol is added to a culture containing both the B cells and myelomas, which then fuse to form immortal hybridoma cells. The hybridomas can then be screened and used to produce these identical immunoglobulins. FTP, name this type of antibody produced from a single B cell.": {
+    "guess": "Monoclonal antibody",
+    "confidence": [
+      [
+        "Mon",
+        -3.1281633e-07
+      ],
+      [
+        "oc",
+        0.0
+      ],
+      [
+        "lon",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        " antibody",
+        -0.00072672893
+      ]
+    ]
+  },
+  "The majority opinion of this case alludes to the missionary John Smith, who had aided a slave rebellion": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8645347
+      ]
+    ]
+  },
+  "The majority opinion of this case alludes to the missionary John Smith, who had aided a slave rebellion in Demerara, and also cites the reaction of the Virginia legislature to the decrees of Lord Dunmore": {
+    "guess": "Dred Scott v. Sandford",
+    "confidence": [
+      [
+        "D",
+        -0.43243834
+      ],
+      [
+        "red",
+        -5.3000836e-05
+      ],
+      [
+        " Scott",
+        0.0
+      ],
+      [
+        " v",
+        -9.0883464e-07
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Sand",
+        -4.246537e-06
+      ],
+      [
+        "ford",
+        0.0
+      ]
+    ]
+  },
+  "The majority opinion of this case alludes to the missionary John Smith, who had aided a slave rebellion in Demerara, and also cites the reaction of the Virginia legislature to the decrees of Lord Dunmore as a precedent. Denying the government's claim that Luther v. Borden provided justification, Justice": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.627845
+      ]
+    ]
+  },
+  "The majority opinion of this case alludes to the missionary John Smith, who had aided a slave rebellion in Demerara, and also cites the reaction of the Virginia legislature to the decrees of Lord Dunmore as a precedent. Denying the government's claim that Luther v. Borden provided justification, Justice Davis said that (*) General Hovey's actions towards a member of the Knights of the Golden Circle": {
+    "guess": "Ex parte Milligan",
+    "confidence": [
+      [
+        "Ex",
+        -0.011453439
+      ],
+      [
+        " parte",
+        -0.004079113
+      ],
+      [
+        " Mill",
+        -0.0009493336
+      ],
+      [
+        "igan",
+        0.0
+      ]
+    ]
+  },
+  "The majority opinion of this case alludes to the missionary John Smith, who had aided a slave rebellion in Demerara, and also cites the reaction of the Virginia legislature to the decrees of Lord Dunmore as a precedent. Denying the government's claim that Luther v. Borden provided justification, Justice Davis said that (*) General Hovey's actions towards a member of the Knights of the Golden Circle were impermissible. That petitioner, represented by future President Garfield, contended that Indiana's": {
+    "guess": "Ex parte Milligan",
+    "confidence": [
+      [
+        "Ex",
+        -0.001971577
+      ],
+      [
+        " parte",
+        -0.0024770817
+      ],
+      [
+        " Mill",
+        -3.5313153e-06
+      ],
+      [
+        "igan",
+        0.0
+      ]
+    ]
+  },
+  "The majority opinion of this case alludes to the missionary John Smith, who had aided a slave rebellion in Demerara, and also cites the reaction of the Virginia legislature to the decrees of Lord Dunmore as a precedent. Denying the government's claim that Luther v. Borden provided justification, Justice Davis said that (*) General Hovey's actions towards a member of the Knights of the Golden Circle were impermissible. That petitioner, represented by future President Garfield, contended that Indiana's civilian courts were still functioning. For 10 points, name this 1866 Supreme Court case which": {
+    "guess": "Ex parte Milligan",
+    "confidence": [
+      [
+        "Ex",
+        -3.2140193e-05
+      ],
+      [
+        " parte",
+        -0.0019288709
+      ],
+      [
+        " Mill",
+        -1.0280384e-06
+      ],
+      [
+        "igan",
+        0.0
+      ]
+    ]
+  },
+  "The majority opinion of this case alludes to the missionary John Smith, who had aided a slave rebellion in Demerara, and also cites the reaction of the Virginia legislature to the decrees of Lord Dunmore as a precedent. Denying the government's claim that Luther v. Borden provided justification, Justice Davis said that (*) General Hovey's actions towards a member of the Knights of the Golden Circle were impermissible. That petitioner, represented by future President Garfield, contended that Indiana's civilian courts were still functioning. For 10 points, name this 1866 Supreme Court case which prohibited the use of military courts to try civilians.": {
+    "guess": "Ex parte Milligan",
+    "confidence": [
+      [
+        "Ex",
+        -0.0022395893
+      ],
+      [
+        " parte",
+        -0.0052345945
+      ],
+      [
+        " Mill",
+        -3.1281633e-07
+      ],
+      [
+        "igan",
+        0.0
+      ]
+    ]
+  },
+  "One major building designed by this architect is six stories tal and contains a recessed Romanesque entrance": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6180381
+      ]
+    ]
+  },
+  "One major building designed by this architect is six stories tal and contains a recessed Romanesque entrance archway, as wel as a notable grand staircase with a vaulted ceiling supported by Corinthian": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.37390986
+      ]
+    ]
+  },
+  "One major building designed by this architect is six stories tal and contains a recessed Romanesque entrance archway, as wel as a notable grand staircase with a vaulted ceiling supported by Corinthian columns and flanked by shield-bearing gargoyles, also designed by this architect. This architect's design": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.072287515
+      ]
+    ]
+  },
+  "One major building designed by this architect is six stories tal and contains a recessed Romanesque entrance archway, as wel as a notable grand staircase with a vaulted ceiling supported by Corinthian columns and flanked by shield-bearing gargoyles, also designed by this architect. This architect's design of the Ming Quon home led to a commission for a building that mixed a Renaissance floor plan with": {
+    "guess": "Julia Morgan",
+    "confidence": [
+      [
+        "Julia",
+        -0.8794667
+      ],
+      [
+        " Morgan",
+        0.0
+      ]
+    ]
+  },
+  "One major building designed by this architect is six stories tal and contains a recessed Romanesque entrance archway, as wel as a notable grand staircase with a vaulted ceiling supported by Corinthian columns and flanked by shield-bearing gargoyles, also designed by this architect. This architect's design of the Ming Quon home led to a commission for a building that mixed a Renaissance floor plan with  traditional Chinese elements. While working under John Galen Howard, this architect created the": {
+    "guess": "Julia Morgan",
+    "confidence": [
+      [
+        "Julia",
+        -0.18529344
+      ],
+      [
+        " Morgan",
+        0.0
+      ]
+    ]
+  },
+  "One major building designed by this architect is six stories tal and contains a recessed Romanesque entrance archway, as wel as a notable grand staircase with a vaulted ceiling supported by Corinthian columns and flanked by shield-bearing gargoyles, also designed by this architect. This architect's design of the Ming Quon home led to a commission for a building that mixed a Renaissance floor plan with  traditional Chinese elements. While working under John Galen Howard, this architect created the  preliminary design for both the Sather Gate and the Greek Theatre on the Berkeley campus, and this": {
+    "guess": "Julia Morgan",
+    "confidence": [
+      [
+        "Julia",
+        -0.04766534
+      ],
+      [
+        " Morgan",
+        0.0
+      ]
+    ]
+  },
+  "One major building designed by this architect is six stories tal and contains a recessed Romanesque entrance archway, as wel as a notable grand staircase with a vaulted ceiling supported by Corinthian columns and flanked by shield-bearing gargoyles, also designed by this architect. This architect's design of the Ming Quon home led to a commission for a building that mixed a Renaissance floor plan with  traditional Chinese elements. While working under John Galen Howard, this architect created the  preliminary design for both the Sather Gate and the Greek Theatre on the Berkeley campus, and this  architect's other Bay Area work includes the bel tower at Mil s Col ege, the Chinatown YWCA, and the": {
+    "guess": "Julia Morgan",
+    "confidence": [
+      [
+        "Julia",
+        -0.042986408
+      ],
+      [
+        " Morgan",
+        0.0
+      ]
+    ]
+  },
+  "One major building designed by this architect is six stories tal and contains a recessed Romanesque entrance archway, as wel as a notable grand staircase with a vaulted ceiling supported by Corinthian columns and flanked by shield-bearing gargoyles, also designed by this architect. This architect's design of the Ming Quon home led to a commission for a building that mixed a Renaissance floor plan with  traditional Chinese elements. While working under John Galen Howard, this architect created the  preliminary design for both the Sather Gate and the Greek Theatre on the Berkeley campus, and this  architect's other Bay Area work includes the bel tower at Mil s Col ege, the Chinatown YWCA, and the aforementioned Berkeley Women's Club. This architect's most famous work features the twin towers": {
+    "guess": "Hearst Castle",
+    "confidence": [
+      [
+        "Hear",
+        -0.7107228
+      ],
+      [
+        "st",
+        0.0
+      ],
+      [
+        " Castle",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "One major building designed by this architect is six stories tal and contains a recessed Romanesque entrance archway, as wel as a notable grand staircase with a vaulted ceiling supported by Corinthian columns and flanked by shield-bearing gargoyles, also designed by this architect. This architect's design of the Ming Quon home led to a commission for a building that mixed a Renaissance floor plan with  traditional Chinese elements. While working under John Galen Howard, this architect created the  preliminary design for both the Sather Gate and the Greek Theatre on the Berkeley campus, and this  architect's other Bay Area work includes the bel tower at Mil s Col ege, the Chinatown YWCA, and the aforementioned Berkeley Women's Club. This architect's most famous work features the twin towers of  the Casa Grande in the Mediterranean style as wel as the thrice-rebuilt Neptune Pool surrounded": {
+    "guess": "Julia Morgan",
+    "confidence": [
+      [
+        "Julia",
+        -0.80525005
+      ],
+      [
+        " Morgan",
+        0.0
+      ]
+    ]
+  },
+  "One major building designed by this architect is six stories tal and contains a recessed Romanesque entrance archway, as wel as a notable grand staircase with a vaulted ceiling supported by Corinthian columns and flanked by shield-bearing gargoyles, also designed by this architect. This architect's design of the Ming Quon home led to a commission for a building that mixed a Renaissance floor plan with  traditional Chinese elements. While working under John Galen Howard, this architect created the  preliminary design for both the Sather Gate and the Greek Theatre on the Berkeley campus, and this  architect's other Bay Area work includes the bel tower at Mil s Col ege, the Chinatown YWCA, and the aforementioned Berkeley Women's Club. This architect's most famous work features the twin towers of  the Casa Grande in the Mediterranean style as wel as the thrice-rebuilt Neptune Pool surrounded by  classical colonnades, and is located in San Simeon. For 10 points, identify this architect responsible": {
+    "guess": "Julia Morgan",
+    "confidence": [
+      [
+        "Julia",
+        -0.106879465
+      ],
+      [
+        " Morgan",
+        0.0
+      ]
+    ]
+  },
+  "One major building designed by this architect is six stories tal and contains a recessed Romanesque entrance archway, as wel as a notable grand staircase with a vaulted ceiling supported by Corinthian columns and flanked by shield-bearing gargoyles, also designed by this architect. This architect's design of the Ming Quon home led to a commission for a building that mixed a Renaissance floor plan with  traditional Chinese elements. While working under John Galen Howard, this architect created the  preliminary design for both the Sather Gate and the Greek Theatre on the Berkeley campus, and this  architect's other Bay Area work includes the bel tower at Mil s Col ege, the Chinatown YWCA, and the aforementioned Berkeley Women's Club. This architect's most famous work features the twin towers of  the Casa Grande in the Mediterranean style as wel as the thrice-rebuilt Neptune Pool surrounded by  classical colonnades, and is located in San Simeon. For 10 points, identify this architect responsible for the design and construction of Hearst Castle.": {
+    "guess": "Julia Morgan",
+    "confidence": [
+      [
+        "Julia",
+        -0.19120438
+      ],
+      [
+        " Morgan",
+        0.0
+      ]
+    ]
+  },
+  "A major point in this drama is the contention between Right and Wrong Arguments, the latter of which": {
+    "guess": "The Clouds",
+    "confidence": [
+      [
+        "The",
+        -0.019422565
+      ],
+      [
+        " Clouds",
+        -0.0002728986
+      ]
+    ]
+  },
+  "A major point in this drama is the contention between Right and Wrong Arguments, the latter of which supposedly wins. Because his uncle is willing to spend money on horses and other frivolous things, Pheidippides": {
+    "guess": "The Clouds",
+    "confidence": [
+      [
+        "The",
+        -0.00151998
+      ],
+      [
+        " Clouds",
+        -8.1609716e-05
+      ]
+    ]
+  },
+  "A major point in this drama is the contention between Right and Wrong Arguments, the latter of which supposedly wins. Because his uncle is willing to spend money on horses and other frivolous things, Pheidippides also engages in this pastime, much to the chagrin of his father Strepsiades, who sends him": {
+    "guess": "The Clouds",
+    "confidence": [
+      [
+        "The",
+        -0.0001409658
+      ],
+      [
+        " Clouds",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "A major point in this drama is the contention between Right and Wrong Arguments, the latter of which supposedly wins. Because his uncle is willing to spend money on horses and other frivolous things, Pheidippides also engages in this pastime, much to the chagrin of his father Strepsiades, who sends him to Socrates' Thinkshop to learn how to outwit creditors. Socrates describes the title characters": {
+    "guess": "The Clouds",
+    "confidence": [
+      [
+        "The",
+        -0.00038527095
+      ],
+      [
+        " Clouds",
+        -8.542423e-05
+      ]
+    ]
+  },
+  "A major point in this drama is the contention between Right and Wrong Arguments, the latter of which supposedly wins. Because his uncle is willing to spend money on horses and other frivolous things, Pheidippides also engages in this pastime, much to the chagrin of his father Strepsiades, who sends him to Socrates' Thinkshop to learn how to outwit creditors. Socrates describes the title characters as being gods in, FTP, what play by Aristophanes?": {
+    "guess": "The Clouds",
+    "confidence": [
+      [
+        "The",
+        -0.008622609
+      ],
+      [
+        " Clouds",
+        -4.6563837e-05
+      ]
+    ]
+  },
+  "One of its major royal capitals was dissected by the Ceremonial Road and contained the Chapel of the": {
+    "guess": "Amarna",
+    "confidence": [
+      [
+        "Am",
+        -0.11961184
+      ],
+      [
+        "arna",
+        -3.5313153e-06
+      ]
+    ]
+  },
+  "One of its major royal capitals was dissected by the Ceremonial Road and contained the Chapel of the Western Queen and the famous Brazen Temple. That capital was ruled by Asela, who took power from Sena": {
+    "guess": "Anuradhapura",
+    "confidence": [
+      [
+        "An",
+        -0.030685812
+      ],
+      [
+        "ur",
+        0.0
+      ],
+      [
+        "adh",
+        -4.3202e-07
+      ],
+      [
+        "apura",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "One of its major royal capitals was dissected by the Ceremonial Road and contained the Chapel of the Western Queen and the famous Brazen Temple. That capital was ruled by Asela, who took power from Sena and Gutthika, and then was followed by Elara and Dutu-gem-unu, according to the chronicle of Mahawamsa.": {
+    "guess": "Anuradhapura",
+    "confidence": [
+      [
+        "An",
+        -0.0017143318
+      ],
+      [
+        "ur",
+        0.0
+      ],
+      [
+        "adh",
+        -5.5122365e-07
+      ],
+      [
+        "apura",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "One of its major royal capitals was dissected by the Ceremonial Road and contained the Chapel of the Western Queen and the famous Brazen Temple. That capital was ruled by Asela, who took power from Sena and Gutthika, and then was followed by Elara and Dutu-gem-unu, according to the chronicle of Mahawamsa. This occurred after the prince Vijaya was succeeded by Pandukabaya who built up the capital, Anurad-hapura.": {
+    "guess": "Anuradhapura Kingdom",
+    "confidence": [
+      [
+        "An",
+        -0.06289543
+      ],
+      [
+        "ur",
+        -1.9361265e-07
+      ],
+      [
+        "adh",
+        -7.822647e-06
+      ],
+      [
+        "apura",
+        -4.3202e-07
+      ],
+      [
+        " Kingdom",
+        -0.1255812
+      ]
+    ]
+  },
+  "One of its major royal capitals was dissected by the Ceremonial Road and contained the Chapel of the Western Queen and the famous Brazen Temple. That capital was ruled by Asela, who took power from Sena and Gutthika, and then was followed by Elara and Dutu-gem-unu, according to the chronicle of Mahawamsa. This occurred after the prince Vijaya was succeeded by Pandukabaya who built up the capital, Anurad-hapura. Later, it saw wars fought over the independent kingdom of Kandy. It was referred to as": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -0.10337472
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "One of its major royal capitals was dissected by the Ceremonial Road and contained the Chapel of the Western Queen and the famous Brazen Temple. That capital was ruled by Asela, who took power from Sena and Gutthika, and then was followed by Elara and Dutu-gem-unu, according to the chronicle of Mahawamsa. This occurred after the prince Vijaya was succeeded by Pandukabaya who built up the capital, Anurad-hapura. Later, it saw wars fought over the independent kingdom of Kandy. It was referred to as Taprobane in the Greco- Roman world, Serendip in Arab culture, and Ceylon. FTP, name this island, which": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -0.4786861
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "One of its major royal capitals was dissected by the Ceremonial Road and contained the Chapel of the Western Queen and the famous Brazen Temple. That capital was ruled by Asela, who took power from Sena and Gutthika, and then was followed by Elara and Dutu-gem-unu, according to the chronicle of Mahawamsa. This occurred after the prince Vijaya was succeeded by Pandukabaya who built up the capital, Anurad-hapura. Later, it saw wars fought over the independent kingdom of Kandy. It was referred to as Taprobane in the Greco- Roman world, Serendip in Arab culture, and Ceylon. FTP, name this island, which still sits across the Palk Strait from India.": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -0.04753598
+      ],
+      [
+        " Lanka",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "The majority of consonants in this language are \"paired,\" meaning that they can occur in either plain": {
+    "guess": "Russian phonology",
+    "confidence": [
+      [
+        "Russian",
+        -0.70231223
+      ],
+      [
+        " phon",
+        -0.57710713
+      ],
+      [
+        "ology",
+        -1.5213274e-05
+      ]
+    ]
+  },
+  "The majority of consonants in this language are \"paired,\" meaning that they can occur in either plain or palatalized forms. The literary form of this language combines the consonant system of its Northern": {
+    "guess": "Russian language",
+    "confidence": [
+      [
+        "Russian",
+        -0.011539818
+      ],
+      [
+        " language",
+        -0.3647909
+      ]
+    ]
+  },
+  "The majority of consonants in this language are \"paired,\" meaning that they can occur in either plain or palatalized forms. The literary form of this language combines the consonant system of its Northern dialect and the vowel system of its Southern dialect, and it uses such letters as \"yah\" and \"shah.\"": {
+    "guess": "Russian language",
+    "confidence": [
+      [
+        "Russian",
+        -0.00037347348
+      ],
+      [
+        " language",
+        -0.2523519
+      ]
+    ]
+  },
+  "The majority of consonants in this language are \"paired,\" meaning that they can occur in either plain or palatalized forms. The literary form of this language combines the consonant system of its Northern dialect and the vowel system of its Southern dialect, and it uses such letters as \"yah\" and \"shah.\" The most widely spoken of the eastern Slavic languages, it is written in the Cyrillic alphabet.": {
+    "guess": "Russian language",
+    "confidence": [
+      [
+        "Russian",
+        -2.355753e-05
+      ],
+      [
+        " language",
+        -0.20155786
+      ]
+    ]
+  },
+  "The majority of consonants in this language are \"paired,\" meaning that they can occur in either plain or palatalized forms. The literary form of this language combines the consonant system of its Northern dialect and the vowel system of its Southern dialect, and it uses such letters as \"yah\" and \"shah.\" The most widely spoken of the eastern Slavic languages, it is written in the Cyrillic alphabet. For 10 points, name this language, which is closely related to Ukrainian and is the most common native": {
+    "guess": "Russian language",
+    "confidence": [
+      [
+        "Russian",
+        -2.8444882e-05
+      ],
+      [
+        " language",
+        -0.00034356804
+      ]
+    ]
+  },
+  "The majority of consonants in this language are \"paired,\" meaning that they can occur in either plain or palatalized forms. The literary form of this language combines the consonant system of its Northern dialect and the vowel system of its Southern dialect, and it uses such letters as \"yah\" and \"shah.\" The most widely spoken of the eastern Slavic languages, it is written in the Cyrillic alphabet. For 10 points, name this language, which is closely related to Ukrainian and is the most common native tongue in Volgograd, St. Petersburg, and Moscow.": {
+    "guess": "Russian language",
+    "confidence": [
+      [
+        "Russian",
+        -1.11603495e-05
+      ],
+      [
+        " language",
+        -0.0009157439
+      ]
+    ]
+  }
+}

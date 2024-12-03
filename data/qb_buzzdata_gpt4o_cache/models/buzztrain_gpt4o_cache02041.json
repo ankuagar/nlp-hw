@@ -1,0 +1,121 @@
+{
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.79318607
+      ]
+    ]
+  },
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of claret, he refuses. She then gets an invitation from Lucy Darleton to London. After having brandy with": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.1374256
+      ]
+    ]
+  },
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of claret, he refuses. She then gets an invitation from Lucy Darleton to London. After having brandy with Vernon in the train station, gossip abounds, and Colonel De Craye, the best man, figures out her": {
+    "guess": "The Egoist",
+    "confidence": [
+      [
+        "The",
+        -0.0014247603
+      ],
+      [
+        " Ego",
+        -0.0034559758
+      ],
+      [
+        "ist",
+        0.0
+      ]
+    ]
+  },
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of claret, he refuses. She then gets an invitation from Lucy Darleton to London. After having brandy with Vernon in the train station, gossip abounds, and Colonel De Craye, the best man, figures out her unhappiness. Clara ends up convincing her father Dr. Middleton to let her break off the engagement.": {
+    "guess": "The Egoist",
+    "confidence": [
+      [
+        "The",
+        -0.03491235
+      ],
+      [
+        " Ego",
+        -0.0011286637
+      ],
+      [
+        "ist",
+        0.0
+      ]
+    ]
+  },
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of claret, he refuses. She then gets an invitation from Lucy Darleton to London. After having brandy with Vernon in the train station, gossip abounds, and Colonel De Craye, the best man, figures out her unhappiness. Clara ends up convincing her father Dr. Middleton to let her break off the engagement. In the end, the title character allows Crossjay to enter the Marines in order to gain Laetitia Dale's": {
+    "guess": "The Egoist (novel)",
+    "confidence": [
+      [
+        "The",
+        -0.010305956
+      ],
+      [
+        " Ego",
+        -0.0012608295
+      ],
+      [
+        "ist",
+        0.0
+      ],
+      [
+        " (",
+        -0.38728714
+      ],
+      [
+        "nov",
+        -6.0153056e-05
+      ],
+      [
+        "el",
+        0.0
+      ],
+      [
+        ")",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of claret, he refuses. She then gets an invitation from Lucy Darleton to London. After having brandy with Vernon in the train station, gossip abounds, and Colonel De Craye, the best man, figures out her unhappiness. Clara ends up convincing her father Dr. Middleton to let her break off the engagement. In the end, the title character allows Crossjay to enter the Marines in order to gain Laetitia Dale's hand in marriage. FTP, identify this novel about the selfish Sir Willoughby Patterne, written by George": {
+    "guess": "The Egoist",
+    "confidence": [
+      [
+        "The",
+        -0.00019924906
+      ],
+      [
+        " Ego",
+        0.0
+      ],
+      [
+        "ist",
+        0.0
+      ]
+    ]
+  },
+  "A fianc\u00e9e attempts to convince her father to take her to France, but despite drinking two bottles of claret, he refuses. She then gets an invitation from Lucy Darleton to London. After having brandy with Vernon in the train station, gossip abounds, and Colonel De Craye, the best man, figures out her unhappiness. Clara ends up convincing her father Dr. Middleton to let her break off the engagement. In the end, the title character allows Crossjay to enter the Marines in order to gain Laetitia Dale's hand in marriage. FTP, identify this novel about the selfish Sir Willoughby Patterne, written by George Meredith.": {
+    "guess": "The Egoist",
+    "confidence": [
+      [
+        "The",
+        -0.004656307
+      ],
+      [
+        " Ego",
+        -1.9816675e-06
+      ],
+      [
+        "ist",
+        0.0
+      ]
+    ]
+  }
+}

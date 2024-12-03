@@ -1,0 +1,122 @@
+{
+  "The Psi element of this agent is responsible for the packaging of its genome and interacts with the Gag": {
+    "guess": "HIV",
+    "confidence": [
+      [
+        "H",
+        -0.019184617
+      ],
+      [
+        "IV",
+        0.0
+      ]
+    ]
+  },
+  "The Psi element of this agent is responsible for the packaging of its genome and interacts with the Gag and Rev proteins in this agent. Individuals possessing a homozygous 32 base pair deletion in the": {
+    "guess": "CCR5\u039432 mutation",
+    "confidence": [
+      [
+        "CCR",
+        -0.2636448
+      ],
+      [
+        "5",
+        0.0
+      ],
+      [
+        "\u0394",
+        -0.45360088
+      ],
+      [
+        "32",
+        0.0
+      ],
+      [
+        " mutation",
+        -0.72440696
+      ]
+    ]
+  },
+  "The Psi element of this agent is responsible for the packaging of its genome and interacts with the Gag and Rev proteins in this agent. Individuals possessing a homozygous 32 base pair deletion in the CCR5 chemokine receptor are resistant to infections by the R5 strain of this organism. The V3 loop of": {
+    "guess": "HIV",
+    "confidence": [
+      [
+        "H",
+        -0.019454485
+      ],
+      [
+        "IV",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Psi element of this agent is responsible for the packaging of its genome and interacts with the Gag and Rev proteins in this agent. Individuals possessing a homozygous 32 base pair deletion in the CCR5 chemokine receptor are resistant to infections by the R5 strain of this organism. The V3 loop of a glycoprotein present in them confers tropism characteristic of different strains of this agent,": {
+    "guess": "HIV",
+    "confidence": [
+      [
+        "H",
+        -0.011396631
+      ],
+      [
+        "IV",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Psi element of this agent is responsible for the packaging of its genome and interacts with the Gag and Rev proteins in this agent. Individuals possessing a homozygous 32 base pair deletion in the CCR5 chemokine receptor are resistant to infections by the R5 strain of this organism. The V3 loop of a glycoprotein present in them confers tropism characteristic of different strains of this agent, and it infects cells possessing a CD4 receptor such as helper-T cells and macrophages. The most common": {
+    "guess": "HIV",
+    "confidence": [
+      [
+        "H",
+        -0.13493475
+      ],
+      [
+        "IV",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Psi element of this agent is responsible for the packaging of its genome and interacts with the Gag and Rev proteins in this agent. Individuals possessing a homozygous 32 base pair deletion in the CCR5 chemokine receptor are resistant to infections by the R5 strain of this organism. The V3 loop of a glycoprotein present in them confers tropism characteristic of different strains of this agent, and it infects cells possessing a CD4 receptor such as helper-T cells and macrophages. The most common drugs that fight this agent are nucleoside analogues which inhibit the function of reverse transcriptase,": {
+    "guess": "HIV",
+    "confidence": [
+      [
+        "H",
+        -0.09686204
+      ],
+      [
+        "IV",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The Psi element of this agent is responsible for the packaging of its genome and interacts with the Gag and Rev proteins in this agent. Individuals possessing a homozygous 32 base pair deletion in the CCR5 chemokine receptor are resistant to infections by the R5 strain of this organism. The V3 loop of a glycoprotein present in them confers tropism characteristic of different strains of this agent, and it infects cells possessing a CD4 receptor such as helper-T cells and macrophages. The most common drugs that fight this agent are nucleoside analogues which inhibit the function of reverse transcriptase, an early example of which was AZT. For 10 points, identify this infectious agent which causes": {
+    "guess": "HIV/AIDS",
+    "confidence": [
+      [
+        "H",
+        -0.014294549
+      ],
+      [
+        "IV",
+        0.0
+      ],
+      [
+        "/AIDS",
+        -0.048651405
+      ]
+    ]
+  },
+  "The Psi element of this agent is responsible for the packaging of its genome and interacts with the Gag and Rev proteins in this agent. Individuals possessing a homozygous 32 base pair deletion in the CCR5 chemokine receptor are resistant to infections by the R5 strain of this organism. The V3 loop of a glycoprotein present in them confers tropism characteristic of different strains of this agent, and it infects cells possessing a CD4 receptor such as helper-T cells and macrophages. The most common drugs that fight this agent are nucleoside analogues which inhibit the function of reverse transcriptase, an early example of which was AZT. For 10 points, identify this infectious agent which causes AIDS.": {
+    "guess": "HIV",
+    "confidence": [
+      [
+        "H",
+        -0.0031500272
+      ],
+      [
+        "IV",
+        0.0
+      ]
+    ]
+  }
+}

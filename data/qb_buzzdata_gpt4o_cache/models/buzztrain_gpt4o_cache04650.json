@@ -1,0 +1,70 @@
+{
+  "The McLaurin case ended one application of this doctrine, which also undermined in the Clark doll test.": {
+    "guess": "Separate but equal",
+    "confidence": [
+      [
+        "Separate",
+        -0.018497918
+      ],
+      [
+        " but",
+        -1.7239736e-05
+      ],
+      [
+        " equal",
+        -0.0046202415
+      ]
+    ]
+  },
+  "The McLaurin case ended one application of this doctrine, which also undermined in the Clark doll test. This doctrine was applied in the case of Sweatt v. Painter, which held that it would require the": {
+    "guess": "Separate but equal",
+    "confidence": [
+      [
+        "Separate",
+        -0.009361242
+      ],
+      [
+        " but",
+        -1.9361265e-07
+      ],
+      [
+        " equal",
+        -3.1305768e-05
+      ]
+    ]
+  },
+  "The McLaurin case ended one application of this doctrine, which also undermined in the Clark doll test. This doctrine was applied in the case of Sweatt v. Painter, which held that it would require the University of Texas to construct a second law library. For 10 points, name this doctrine promulgated": {
+    "guess": "Separate but equal",
+    "confidence": [
+      [
+        "Separate",
+        -0.008730865
+      ],
+      [
+        " but",
+        -1.9361265e-07
+      ],
+      [
+        " equal",
+        -8.4947416e-05
+      ]
+    ]
+  },
+  "The McLaurin case ended one application of this doctrine, which also undermined in the Clark doll test. This doctrine was applied in the case of Sweatt v. Painter, which held that it would require the University of Texas to construct a second law library. For 10 points, name this doctrine promulgated in Plessy and overturned in Brown v. Board of Education.": {
+    "guess": "Separate but equal",
+    "confidence": [
+      [
+        "Separate",
+        -0.023332944
+      ],
+      [
+        " but",
+        0.0
+      ],
+      [
+        " equal",
+        -0.00033546583
+      ]
+    ]
+  }
+}

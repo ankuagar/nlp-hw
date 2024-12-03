@@ -1,0 +1,768 @@
+{
+  "About 100 billion of them are made daily by the bone marrow of a normal adult, but they typically survive": {
+    "guess": "Red blood cell",
+    "confidence": [
+      [
+        "Red",
+        -0.18203901
+      ],
+      [
+        " blood",
+        -1.6762922e-05
+      ],
+      [
+        " cell",
+        -0.048587713
+      ]
+    ]
+  },
+  "About 100 billion of them are made daily by the bone marrow of a normal adult, but they typically survive only a few hours.  Their nuclei consist of two to five lobes, joined together by hairlike filaments.": {
+    "guess": "Neutrophil",
+    "confidence": [
+      [
+        "Ne",
+        -0.0052764495
+      ],
+      [
+        "ut",
+        0.0
+      ],
+      [
+        "roph",
+        0.0
+      ],
+      [
+        "il",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "About 100 billion of them are made daily by the bone marrow of a normal adult, but they typically survive only a few hours.  Their nuclei consist of two to five lobes, joined together by hairlike filaments.  They contain large numbers of cytoplasmic granules, which turn pink when stained with a compound": {
+    "guess": "Neutrophil",
+    "confidence": [
+      [
+        "Ne",
+        -0.00525273
+      ],
+      [
+        "ut",
+        0.0
+      ],
+      [
+        "roph",
+        0.0
+      ],
+      [
+        "il",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "About 100 billion of them are made daily by the bone marrow of a normal adult, but they typically survive only a few hours.  Their nuclei consist of two to five lobes, joined together by hairlike filaments.  They contain large numbers of cytoplasmic granules, which turn pink when stained with a compound dye.  They make up about 60 percent of the total number of leukocytes, and migrate to areas of infection": {
+    "guess": "Neutrophil",
+    "confidence": [
+      [
+        "Ne",
+        -0.0017032715
+      ],
+      [
+        "ut",
+        0.0
+      ],
+      [
+        "roph",
+        0.0
+      ],
+      [
+        "il",
+        -7.9418505e-06
+      ]
+    ]
+  },
+  "About 100 billion of them are made daily by the bone marrow of a normal adult, but they typically survive only a few hours.  Their nuclei consist of two to five lobes, joined together by hairlike filaments.  They contain large numbers of cytoplasmic granules, which turn pink when stained with a compound dye.  They make up about 60 percent of the total number of leukocytes, and migrate to areas of infection or tissue injury, where they engulf and destroy foreign organisms and particles.  FTP identify": {
+    "guess": "Neutrophil",
+    "confidence": [
+      [
+        "Ne",
+        -0.006725907
+      ],
+      [
+        "ut",
+        0.0
+      ],
+      [
+        "roph",
+        0.0
+      ],
+      [
+        "il",
+        -4.5491004e-05
+      ]
+    ]
+  },
+  "About 100 billion of them are made daily by the bone marrow of a normal adult, but they typically survive only a few hours.  Their nuclei consist of two to five lobes, joined together by hairlike filaments.  They contain large numbers of cytoplasmic granules, which turn pink when stained with a compound dye.  They make up about 60 percent of the total number of leukocytes, and migrate to areas of infection or tissue injury, where they engulf and destroy foreign organisms and particles.  FTP identify these cells, the lack of which is termed neutropenia.": {
+    "guess": "Neutrophil",
+    "confidence": [
+      [
+        "Ne",
+        -0.0005533903
+      ],
+      [
+        "ut",
+        0.0
+      ],
+      [
+        "roph",
+        0.0
+      ],
+      [
+        "il",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "Bill Bradley ran for the Democratic nomination in this election. One state's Secretary of State, Katherine": {
+    "guess": "Florida 2000 election recount",
+    "confidence": [
+      [
+        "Florida",
+        -0.54904336
+      ],
+      [
+        " ",
+        -0.8729717
+      ],
+      [
+        "200",
+        -0.029848954
+      ],
+      [
+        "0",
+        -1.0445127e-05
+      ],
+      [
+        " election",
+        -0.41080874
+      ],
+      [
+        " recount",
+        -0.000460936
+      ]
+    ]
+  },
+  "Bill Bradley ran for the Democratic nomination in this election. One state's Secretary of State, Katherine Harris, played a large role in the final outcome of this election. That state purged 50,000 felons": {
+    "guess": "United States presidential election, 2000",
+    "confidence": [
+      [
+        "United",
+        -0.018683268
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " presidential",
+        0.0
+      ],
+      [
+        " election",
+        0.0
+      ],
+      [
+        ",",
+        -0.00011105302
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "200",
+        0.0
+      ],
+      [
+        "0",
+        0.0
+      ]
+    ]
+  },
+  "Bill Bradley ran for the Democratic nomination in this election. One state's Secretary of State, Katherine Harris, played a large role in the final outcome of this election. That state purged 50,000 felons from the voting records of this election, many of whom were innocent. Hanging chads and misleading": {
+    "guess": "United States presidential election, 2000",
+    "confidence": [
+      [
+        "United",
+        -0.00016122675
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " presidential",
+        0.0
+      ],
+      [
+        " election",
+        0.0
+      ],
+      [
+        ",",
+        -6.6947665e-05
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "200",
+        0.0
+      ],
+      [
+        "0",
+        0.0
+      ]
+    ]
+  },
+  "Bill Bradley ran for the Democratic nomination in this election. One state's Secretary of State, Katherine Harris, played a large role in the final outcome of this election. That state purged 50,000 felons from the voting records of this election, many of whom were innocent. Hanging chads and misleading butterfly ballots during this election caused an unusually high number of votes for Pat Buchanan": {
+    "guess": "2000 United States presidential election",
+    "confidence": [
+      [
+        "200",
+        -1.5570886e-05
+      ],
+      [
+        "0",
+        0.0
+      ],
+      [
+        " United",
+        0.0
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " presidential",
+        0.0
+      ],
+      [
+        " election",
+        0.0
+      ]
+    ]
+  },
+  "Bill Bradley ran for the Democratic nomination in this election. One state's Secretary of State, Katherine Harris, played a large role in the final outcome of this election. That state purged 50,000 felons from the voting records of this election, many of whom were innocent. Hanging chads and misleading butterfly ballots during this election caused an unusually high number of votes for Pat Buchanan in Florida. For 10 points, name this tightly contested presidential election that was decided by the": {
+    "guess": "2000 United States presidential election",
+    "confidence": [
+      [
+        "200",
+        -0.00014203864
+      ],
+      [
+        "0",
+        0.0
+      ],
+      [
+        " United",
+        0.0
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " presidential",
+        0.0
+      ],
+      [
+        " election",
+        0.0
+      ]
+    ]
+  },
+  "Bill Bradley ran for the Democratic nomination in this election. One state's Secretary of State, Katherine Harris, played a large role in the final outcome of this election. That state purged 50,000 felons from the voting records of this election, many of whom were innocent. Hanging chads and misleading butterfly ballots during this election caused an unusually high number of votes for Pat Buchanan in Florida. For 10 points, name this tightly contested presidential election that was decided by the Supreme Court case Bush v. Gore.": {
+    "guess": "2000 United States presidential election",
+    "confidence": [
+      [
+        "200",
+        -4.596782e-05
+      ],
+      [
+        "0",
+        0.0
+      ],
+      [
+        " United",
+        0.0
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " presidential",
+        0.0
+      ],
+      [
+        " election",
+        0.0
+      ]
+    ]
+  },
+  "Bill Clinton is the United Nations special envoy to this nation. Toussaint L'Ouverture (\"TOO-saunt LOO-vair-choor\")": {
+    "guess": "Haiti",
+    "confidence": [
+      [
+        "H",
+        -0.0026629313
+      ],
+      [
+        "aiti",
+        -2.4391957e-05
+      ]
+    ]
+  },
+  "Bill Clinton is the United Nations special envoy to this nation. Toussaint L'Ouverture (\"TOO-saunt LOO-vair-choor\") National Airport was used as the base of operations for its president, Ren\u00e9 Pr\u00e9val (\"ruh-NAY": {
+    "guess": "Haiti",
+    "confidence": [
+      [
+        "H",
+        -0.0020417715
+      ],
+      [
+        "aiti",
+        -0.00017994174
+      ]
+    ]
+  },
+  "Bill Clinton is the United Nations special envoy to this nation. Toussaint L'Ouverture (\"TOO-saunt LOO-vair-choor\") National Airport was used as the base of operations for its president, Ren\u00e9 Pr\u00e9val (\"ruh-NAY pray-VAHL\"), after a 2010 disaster that provoked mass migration to the neighboring Dominican": {
+    "guess": "Haiti",
+    "confidence": [
+      [
+        "H",
+        -0.00084131124
+      ],
+      [
+        "aiti",
+        -9.674858e-05
+      ]
+    ]
+  },
+  "Bill Clinton is the United Nations special envoy to this nation. Toussaint L'Ouverture (\"TOO-saunt LOO-vair-choor\") National Airport was used as the base of operations for its president, Ren\u00e9 Pr\u00e9val (\"ruh-NAY pray-VAHL\"), after a 2010 disaster that provoked mass migration to the neighboring Dominican Republic. For 10 points, population centers including the capital of Port-au-Prince were destroyed": {
+    "guess": "2010 Haiti earthquake",
+    "confidence": [
+      [
+        "201",
+        -0.28445914
+      ],
+      [
+        "0",
+        0.0
+      ],
+      [
+        " Haiti",
+        0.0
+      ],
+      [
+        " earthquake",
+        -4.365741e-06
+      ]
+    ]
+  },
+  "Bill Clinton is the United Nations special envoy to this nation. Toussaint L'Ouverture (\"TOO-saunt LOO-vair-choor\") National Airport was used as the base of operations for its president, Ren\u00e9 Pr\u00e9val (\"ruh-NAY pray-VAHL\"), after a 2010 disaster that provoked mass migration to the neighboring Dominican Republic. For 10 points, population centers including the capital of Port-au-Prince were destroyed by a magnitude 7.0 earthquake in what Caribbean nation?": {
+    "guess": "Haiti",
+    "confidence": [
+      [
+        "H",
+        -0.014385261
+      ],
+      [
+        "aiti",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "Bill Clark was in charge of ensuring this project was kept secret until its official announcement. The": {
+    "guess": "Strategic Defense Initiative",
+    "confidence": [
+      [
+        "Strateg",
+        -0.01764855
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Defense",
+        -3.4121115e-06
+      ],
+      [
+        " Initiative",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Bill Clark was in charge of ensuring this project was kept secret until its official announcement. The EUREKA Program was a French alternative to this project, debate over which stalled the Reykjavik Summit.": {
+    "guess": "Strategic Defense Initiative",
+    "confidence": [
+      [
+        "Strateg",
+        -0.017291615
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Defense",
+        -9.0883464e-07
+      ],
+      [
+        " Initiative",
+        0.0
+      ]
+    ]
+  },
+  "Bill Clark was in charge of ensuring this project was kept secret until its official announcement. The EUREKA Program was a French alternative to this project, debate over which stalled the Reykjavik Summit. James Abrahamson first led the organization created for it. This project was later restructured": {
+    "guess": "Strategic Defense Initiative",
+    "confidence": [
+      [
+        "Strateg",
+        -0.00012654216
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Defense",
+        -1.2664457e-06
+      ],
+      [
+        " Initiative",
+        0.0
+      ]
+    ]
+  },
+  "Bill Clark was in charge of ensuring this project was kept secret until its official announcement. The EUREKA Program was a French alternative to this project, debate over which stalled the Reykjavik Summit. James Abrahamson first led the organization created for it. This project was later restructured to produce Brilliant Pebbles. The Fletcher Report examined the feasibility of this project, which": {
+    "guess": "Strategic Defense Initiative",
+    "confidence": [
+      [
+        "Strateg",
+        -0.00037561916
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Defense",
+        -3.0545007e-06
+      ],
+      [
+        " Initiative",
+        0.0
+      ]
+    ]
+  },
+  "Bill Clark was in charge of ensuring this project was kept secret until its official announcement. The EUREKA Program was a French alternative to this project, debate over which stalled the Reykjavik Summit. James Abrahamson first led the organization created for it. This project was later restructured to produce Brilliant Pebbles. The Fletcher Report examined the feasibility of this project, which Edward Teller claimed would \"challenge\" the Soviet \"monopoly\" on anti-missile defense. For 10 points,": {
+    "guess": "Strategic Defense Initiative",
+    "confidence": [
+      [
+        "Strateg",
+        -0.00015431295
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Defense",
+        -2.9352968e-06
+      ],
+      [
+        " Initiative",
+        0.0
+      ]
+    ]
+  },
+  "Bill Clark was in charge of ensuring this project was kept secret until its official announcement. The EUREKA Program was a French alternative to this project, debate over which stalled the Reykjavik Summit. James Abrahamson first led the organization created for it. This project was later restructured to produce Brilliant Pebbles. The Fletcher Report examined the feasibility of this project, which Edward Teller claimed would \"challenge\" the Soviet \"monopoly\" on anti-missile defense. For 10 points, name this Reagan-era project that attempted to use space-based anti-ballistic missile systems and": {
+    "guess": "Strategic Defense Initiative",
+    "confidence": [
+      [
+        "Strateg",
+        -0.00016992862
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Defense",
+        -3.5313153e-06
+      ],
+      [
+        " Initiative",
+        0.0
+      ]
+    ]
+  },
+  "Bill Clark was in charge of ensuring this project was kept secret until its official announcement. The EUREKA Program was a French alternative to this project, debate over which stalled the Reykjavik Summit. James Abrahamson first led the organization created for it. This project was later restructured to produce Brilliant Pebbles. The Fletcher Report examined the feasibility of this project, which Edward Teller claimed would \"challenge\" the Soviet \"monopoly\" on anti-missile defense. For 10 points, name this Reagan-era project that attempted to use space-based anti-ballistic missile systems and was derisively nicknamed after a popular movie series.": {
+    "guess": "Strategic Defense Initiative",
+    "confidence": [
+      [
+        "Strateg",
+        -0.00015478976
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Defense",
+        -2.9352968e-06
+      ],
+      [
+        " Initiative",
+        0.0
+      ]
+    ]
+  },
+  "Bill Viola was recently commissioned to create two plasma-screen altarpieces for this structure, while": {
+    "guess": "St. Paul's Cathedral",
+    "confidence": [
+      [
+        "St",
+        -0.005639959
+      ],
+      [
+        ".",
+        -0.0032232257
+      ],
+      [
+        " Paul's",
+        -0.030057542
+      ],
+      [
+        " Cathedral",
+        -6.229872e-05
+      ]
+    ]
+  },
+  "Bill Viola was recently commissioned to create two plasma-screen altarpieces for this structure, while Grinling Gibbons created its choir stalls and organ case. The towers on its west end each consist": {
+    "guess": "St Paul's Cathedral",
+    "confidence": [
+      [
+        "St",
+        -0.0020473632
+      ],
+      [
+        " Paul's",
+        -0.0054944954
+      ],
+      [
+        " Cathedral",
+        0.0
+      ]
+    ]
+  },
+  "Bill Viola was recently commissioned to create two plasma-screen altarpieces for this structure, while Grinling Gibbons created its choir stalls and organ case. The towers on its west end each consist of a central cylinder and a quartet of paired buttress-topped Corinthian columns. The wrought-iron gates": {
+    "guess": "St Paul's Cathedral",
+    "confidence": [
+      [
+        "St",
+        -0.014328272
+      ],
+      [
+        " Paul's",
+        -0.00034476008
+      ],
+      [
+        " Cathedral",
+        0.0
+      ]
+    ]
+  },
+  "Bill Viola was recently commissioned to create two plasma-screen altarpieces for this structure, while Grinling Gibbons created its choir stalls and organ case. The towers on its west end each consist of a central cylinder and a quartet of paired buttress-topped Corinthian columns. The wrought-iron gates at its east entrance, like its screens and grilles, were produced by Jean Tijou. The north aisle": {
+    "guess": "St Paul's Cathedral",
+    "confidence": [
+      [
+        "St",
+        -0.001370119
+      ],
+      [
+        " Paul's",
+        -0.0007247025
+      ],
+      [
+        " Cathedral",
+        0.0
+      ]
+    ]
+  },
+  "Bill Viola was recently commissioned to create two plasma-screen altarpieces for this structure, while Grinling Gibbons created its choir stalls and organ case. The towers on its west end each consist of a central cylinder and a quartet of paired buttress-topped Corinthian columns. The wrought-iron gates at its east entrance, like its screens and grilles, were produced by Jean Tijou. The north aisle of its nave features the chapel of St. Dunstan. It features the external Stone and Golden Galleries": {
+    "guess": "St Paul's Cathedral",
+    "confidence": [
+      [
+        "St",
+        -6.749814e-06
+      ],
+      [
+        " Paul's",
+        -0.00018101456
+      ],
+      [
+        " Cathedral",
+        0.0
+      ]
+    ]
+  },
+  "Bill Viola was recently commissioned to create two plasma-screen altarpieces for this structure, while Grinling Gibbons created its choir stalls and organ case. The towers on its west end each consist of a central cylinder and a quartet of paired buttress-topped Corinthian columns. The wrought-iron gates at its east entrance, like its screens and grilles, were produced by Jean Tijou. The north aisle of its nave features the chapel of St. Dunstan. It features the external Stone and Golden Galleries above its Whispering Gallery, which is found under its 365-foot triple-shelled dome. For 10 points,": {
+    "guess": "St Paul's Cathedral",
+    "confidence": [
+      [
+        "St",
+        -1.9146995e-05
+      ],
+      [
+        " Paul's",
+        -0.00011081461
+      ],
+      [
+        " Cathedral",
+        0.0
+      ]
+    ]
+  },
+  "Bill Viola was recently commissioned to create two plasma-screen altarpieces for this structure, while Grinling Gibbons created its choir stalls and organ case. The towers on its west end each consist of a central cylinder and a quartet of paired buttress-topped Corinthian columns. The wrought-iron gates at its east entrance, like its screens and grilles, were produced by Jean Tijou. The north aisle of its nave features the chapel of St. Dunstan. It features the external Stone and Golden Galleries above its Whispering Gallery, which is found under its 365-foot triple-shelled dome. For 10 points, name this Baroque cathedral on Ludgate Hill in London, the masterpiece of Christopher Wren.": {
+    "guess": "St Paul's Cathedral",
+    "confidence": [
+      [
+        "St",
+        -3.7697225e-06
+      ],
+      [
+        " Paul's",
+        -1.3663626e-05
+      ],
+      [
+        " Cathedral",
+        0.0
+      ]
+    ]
+  },
+  "A bill supported by John Kline and George Miller in the U.S. House would consolidate grant programs for": {
+    "guess": "Education",
+    "confidence": [
+      [
+        "Education",
+        -0.28238526
+      ]
+    ]
+  },
+  "A bill supported by John Kline and George Miller in the U.S. House would consolidate grant programs for these entities. The first state law allowing the creation of these things passed in Minnesota in": {
+    "guess": "Charter schools",
+    "confidence": [
+      [
+        "Char",
+        -0.0020705638
+      ],
+      [
+        "ter",
+        0.0
+      ],
+      [
+        " schools",
+        -0.068943866
+      ]
+    ]
+  },
+  "A bill supported by John Kline and George Miller in the U.S. House would consolidate grant programs for these entities. The first state law allowing the creation of these things passed in Minnesota in 1991. The Gulen movement has been accused of preferring Turkish companies when contracting for these": {
+    "guess": "Charter schools",
+    "confidence": [
+      [
+        "Char",
+        -8.1490514e-05
+      ],
+      [
+        "ter",
+        0.0
+      ],
+      [
+        " schools",
+        -0.118155085
+      ]
+    ]
+  },
+  "A bill supported by John Kline and George Miller in the U.S. House would consolidate grant programs for these entities. The first state law allowing the creation of these things passed in Minnesota in 1991. The Gulen movement has been accused of preferring Turkish companies when contracting for these places. Eva Moskowitz and Andrew (*) Cuomo have argued with Bill de Blasio in an effort to open more": {
+    "guess": "Charter schools",
+    "confidence": [
+      [
+        "Char",
+        -0.0023000126
+      ],
+      [
+        "ter",
+        0.0
+      ],
+      [
+        " schools",
+        -0.12089029
+      ]
+    ]
+  },
+  "A bill supported by John Kline and George Miller in the U.S. House would consolidate grant programs for these entities. The first state law allowing the creation of these things passed in Minnesota in 1991. The Gulen movement has been accused of preferring Turkish companies when contracting for these places. Eva Moskowitz and Andrew (*) Cuomo have argued with Bill de Blasio in an effort to open more of these entities in New York City. Petitions can be used to create these institutions through some": {
+    "guess": "Charter schools",
+    "confidence": [
+      [
+        "Char",
+        -0.0006134323
+      ],
+      [
+        "ter",
+        0.0
+      ],
+      [
+        " schools",
+        -0.19954656
+      ]
+    ]
+  },
+  "A bill supported by John Kline and George Miller in the U.S. House would consolidate grant programs for these entities. The first state law allowing the creation of these things passed in Minnesota in 1991. The Gulen movement has been accused of preferring Turkish companies when contracting for these places. Eva Moskowitz and Andrew (*) Cuomo have argued with Bill de Blasio in an effort to open more of these entities in New York City. Petitions can be used to create these institutions through some parent trigger laws, and some of their largest operators are Mater and KIPP. For 10 points, name these": {
+    "guess": "Charter schools",
+    "confidence": [
+      [
+        "Char",
+        -0.00046570413
+      ],
+      [
+        "ter",
+        0.0
+      ],
+      [
+        " schools",
+        -0.11744297
+      ]
+    ]
+  },
+  "A bill supported by John Kline and George Miller in the U.S. House would consolidate grant programs for these entities. The first state law allowing the creation of these things passed in Minnesota in 1991. The Gulen movement has been accused of preferring Turkish companies when contracting for these places. Eva Moskowitz and Andrew (*) Cuomo have argued with Bill de Blasio in an effort to open more of these entities in New York City. Petitions can be used to create these institutions through some parent trigger laws, and some of their largest operators are Mater and KIPP. For 10 points, name these independent schools that receive some public funding.": {
+    "guess": "Charter schools",
+    "confidence": [
+      [
+        "Char",
+        -0.00030793346
+      ],
+      [
+        "ter",
+        0.0
+      ],
+      [
+        " schools",
+        -0.7090841
+      ]
+    ]
+  }
+}

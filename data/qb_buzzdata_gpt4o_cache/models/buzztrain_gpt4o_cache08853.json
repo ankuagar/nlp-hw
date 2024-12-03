@@ -1,0 +1,77 @@
+{
+  "A xanthate intermediate is eliminated to give the syn product in an elimination of this functionality": {
+    "guess": "Chugaev reaction",
+    "confidence": [
+      [
+        "Ch",
+        -0.0077148746
+      ],
+      [
+        "uga",
+        -0.017916486
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.3869566
+      ]
+    ]
+  },
+  "A xanthate intermediate is eliminated to give the syn product in an elimination of this functionality to alkenes. The synthesis of molecules with two of this functionality can be achieved by reaction with": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.082127854
+      ]
+    ]
+  },
+  "A xanthate intermediate is eliminated to give the syn product in an elimination of this functionality to alkenes. The synthesis of molecules with two of this functionality can be achieved by reaction with iodate or via osmium tetroxide. This functionality reacts with triphenylphosphine and DEAD in the": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.016442996
+      ]
+    ]
+  },
+  "A xanthate intermediate is eliminated to give the syn product in an elimination of this functionality to alkenes. The synthesis of molecules with two of this functionality can be achieved by reaction with iodate or via osmium tetroxide. This functionality reacts with triphenylphosphine and DEAD in the to give esters, and they may be formed without rearrangement from alkenes in a reaction using a boron": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.006577531
+      ]
+    ]
+  },
+  "A xanthate intermediate is eliminated to give the syn product in an elimination of this functionality to alkenes. The synthesis of molecules with two of this functionality can be achieved by reaction with iodate or via osmium tetroxide. This functionality reacts with triphenylphosphine and DEAD in the to give esters, and they may be formed without rearrangement from alkenes in a reaction using a boron reagent named for Brown. Tertiary ones are formed when ketones react with Grignard reagents, and": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.0042378358
+      ]
+    ]
+  },
+  "A xanthate intermediate is eliminated to give the syn product in an elimination of this functionality to alkenes. The synthesis of molecules with two of this functionality can be achieved by reaction with iodate or via osmium tetroxide. This functionality reacts with triphenylphosphine and DEAD in the to give esters, and they may be formed without rearrangement from alkenes in a reaction using a boron reagent named for Brown. Tertiary ones are formed when ketones react with Grignard reagents, and secondary ones form from the reduction of ketones. For 10 points, name this functionality, whose methyl": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.03524327
+      ]
+    ]
+  },
+  "A xanthate intermediate is eliminated to give the syn product in an elimination of this functionality to alkenes. The synthesis of molecules with two of this functionality can be achieved by reaction with iodate or via osmium tetroxide. This functionality reacts with triphenylphosphine and DEAD in the to give esters, and they may be formed without rearrangement from alkenes in a reaction using a boron reagent named for Brown. Tertiary ones are formed when ketones react with Grignard reagents, and secondary ones form from the reduction of ketones. For 10 points, name this functionality, whose methyl type will make you go blind and whose ethyl type is produced in fermentation in plants.": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.0012166635
+      ]
+    ]
+  }
+}

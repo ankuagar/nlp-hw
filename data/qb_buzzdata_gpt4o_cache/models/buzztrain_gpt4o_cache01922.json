@@ -1,0 +1,65 @@
+{
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.2708147
+      ]
+    ]
+  },
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.1485552
+      ]
+    ]
+  },
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form the entries of the gradient. L'Hospital's Rule uses a quotient of these operations to calculate limits.": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.023765976
+      ]
+    ]
+  },
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form the entries of the gradient. L'Hospital's Rule uses a quotient of these operations to calculate limits. For composite functions, this operation is applied using the chain rule. This operation finds the": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.038554102
+      ]
+    ]
+  },
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form the entries of the gradient. L'Hospital's Rule uses a quotient of these operations to calculate limits. For composite functions, this operation is applied using the chain rule. This operation finds the slope of a curve's tangent line, and is defined as the \"limit as h goes to zero of 'f of x plus h'": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.010447642
+      ]
+    ]
+  },
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form the entries of the gradient. L'Hospital's Rule uses a quotient of these operations to calculate limits. For composite functions, this operation is applied using the chain rule. This operation finds the slope of a curve's tangent line, and is defined as the \"limit as h goes to zero of 'f of x plus h' minus 'f of x', all over h.\" For 10 points, name this basic operation of calculus, the inverse of the": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.008163103
+      ]
+    ]
+  },
+  "Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form the entries of the gradient. L'Hospital's Rule uses a quotient of these operations to calculate limits. For composite functions, this operation is applied using the chain rule. This operation finds the slope of a curve's tangent line, and is defined as the \"limit as h goes to zero of 'f of x plus h' minus 'f of x', all over h.\" For 10 points, name this basic operation of calculus, the inverse of the integral.": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.0030082501
+      ]
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "The TrkA (track a) receptor binds a growth factor for this type of cell. One model for the operation": {
+    "guess": "Nerve Growth Factor",
+    "confidence": [
+      [
+        "N",
+        -0.02873309
+      ],
+      [
+        "erve",
+        -6.2729996e-06
+      ],
+      [
+        " Growth",
+        -0.47829604
+      ],
+      [
+        " Factor",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "The TrkA (track a) receptor binds a growth factor for this type of cell. One model for the operation of these cells is the FitzHugh-Nagumo model, which was created in response to the Hodgkin-Huxley model.": {
+    "guess": "Neurons",
+    "confidence": [
+      [
+        "Ne",
+        -0.57617986
+      ],
+      [
+        "urons",
+        -0.00046641935
+      ]
+    ]
+  },
+  "The TrkA (track a) receptor binds a growth factor for this type of cell. One model for the operation of these cells is the FitzHugh-Nagumo model, which was created in response to the Hodgkin-Huxley model. They are stained by Golgi's method. They can be afferent, efferent, or inter. Regions include the": {
+    "guess": "Neurons",
+    "confidence": [
+      [
+        "Ne",
+        -0.47447985
+      ],
+      [
+        "urons",
+        -8.053688e-05
+      ]
+    ]
+  },
+  "The TrkA (track a) receptor binds a growth factor for this type of cell. One model for the operation of these cells is the FitzHugh-Nagumo model, which was created in response to the Hodgkin-Huxley model. They are stained by Golgi's method. They can be afferent, efferent, or inter. Regions include the hillock and soma. Voltage gated channels in them allow for the propagation of action potentials. They": {
+    "guess": "Neurons",
+    "confidence": [
+      [
+        "Ne",
+        -0.040449474
+      ],
+      [
+        "urons",
+        -4.692145e-05
+      ]
+    ]
+  },
+  "The TrkA (track a) receptor binds a growth factor for this type of cell. One model for the operation of these cells is the FitzHugh-Nagumo model, which was created in response to the Hodgkin-Huxley model. They are stained by Golgi's method. They can be afferent, efferent, or inter. Regions include the hillock and soma. Voltage gated channels in them allow for the propagation of action potentials. They contain dendrites and axons. For 10 points, name these cells of the nervous system.": {
+    "guess": "Neuron",
+    "confidence": [
+      [
+        "Neuron",
+        -5.9153886e-06
+      ]
+    ]
+  }
+}

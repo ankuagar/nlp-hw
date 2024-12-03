@@ -1,0 +1,295 @@
+{
+  "F15PE, identify these films about Russians who come to America during the Cold War.  A. A saxophonist": {
+    "guess": "Moscow on the Hudson",
+    "confidence": [
+      [
+        "M",
+        -0.0103050135
+      ],
+      [
+        "oscow",
+        -1.473646e-05
+      ],
+      [
+        " on",
+        -1.504853e-06
+      ],
+      [
+        " the",
+        -3.1281633e-07
+      ],
+      [
+        " Hudson",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "F15PE, identify these films about Russians who come to America during the Cold War.  A. A saxophonist in a Soviet circus, Vladimir Ivanoff defects on a visit to Bloomingdales in New York City. He befriends": {
+    "guess": "Moscow on the Hudson",
+    "confidence": [
+      [
+        "M",
+        -0.00040552823
+      ],
+      [
+        "oscow",
+        -3.5313153e-06
+      ],
+      [
+        " on",
+        -4.3202e-07
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Hudson",
+        0.0
+      ]
+    ]
+  },
+  "F15PE, identify these films about Russians who come to America during the Cold War.  A. A saxophonist in a Soviet circus, Vladimir Ivanoff defects on a visit to Bloomingdales in New York City. He befriends the security guard there, Lionel Witherspoon, and falls in love with the saleswoman at the perfume": {
+    "guess": "Moscow on the Hudson",
+    "confidence": [
+      [
+        "M",
+        -0.0012488045
+      ],
+      [
+        "oscow",
+        -4.00813e-06
+      ],
+      [
+        " on",
+        -3.1281633e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Hudson",
+        0.0
+      ]
+    ]
+  },
+  "F15PE, identify these films about Russians who come to America during the Cold War.  A. A saxophonist in a Soviet circus, Vladimir Ivanoff defects on a visit to Bloomingdales in New York City. He befriends the security guard there, Lionel Witherspoon, and falls in love with the saleswoman at the perfume counter, Lucia Lombardo, all while dealing with living in a new country with fears of being deported.": {
+    "guess": "Moscow on the Hudson",
+    "confidence": [
+      [
+        "M",
+        -0.0035997136
+      ],
+      [
+        "oscow",
+        -2.3392786e-06
+      ],
+      [
+        " on",
+        -1.6240566e-06
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Hudson",
+        0.0
+      ]
+    ]
+  },
+  "F10PE, identify each of the following Sim games from Maxis from a brief description.  A. This Maxis game,": {
+    "guess": "SimCity",
+    "confidence": [
+      [
+        "Sim",
+        -0.527601
+      ],
+      [
+        "City",
+        -0.007863317
+      ]
+    ]
+  },
+  "F10PE, identify each of the following Sim games from Maxis from a brief description.  A. This Maxis game, released in 1990, allows the player to control a planet's landforms, atmosphere, and temperature": {
+    "guess": "SimEarth",
+    "confidence": [
+      [
+        "Sim",
+        -0.00043877508
+      ],
+      [
+        "Earth",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "F10PE, identify each of the following Sim games from Maxis from a brief description.  A. This Maxis game, released in 1990, allows the player to control a planet's landforms, atmosphere, and temperature so as to promote the evolution of sentient, civilized lifeforms. A number of scenarios and difficulties": {
+    "guess": "SimEarth: The Living Planet",
+    "confidence": [
+      [
+        "Sim",
+        -0.0032231067
+      ],
+      [
+        "Earth",
+        -2.6895234e-05
+      ],
+      [
+        ":",
+        -0.6932781
+      ],
+      [
+        " The",
+        -5.5122365e-07
+      ],
+      [
+        " Living",
+        0.0
+      ],
+      [
+        " Planet",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "F10PE, identify each of the following Sim games from Maxis from a brief description.  A. This Maxis game, released in 1990, allows the player to control a planet's landforms, atmosphere, and temperature so as to promote the evolution of sentient, civilized lifeforms. A number of scenarios and difficulties exist, including Daisyworld, a simulation designed to prove James Lovelock's theories about how": {
+    "guess": "SimEarth: The Living Planet",
+    "confidence": [
+      [
+        "Sim",
+        -0.011191054
+      ],
+      [
+        "Earth",
+        -1.6524515e-05
+      ],
+      [
+        ":",
+        -0.5760819
+      ],
+      [
+        " The",
+        -1.147242e-06
+      ],
+      [
+        " Living",
+        -1.9361265e-07
+      ],
+      [
+        " Planet",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "F10PE, identify each of the following Sim games from Maxis from a brief description.  A. This Maxis game, released in 1990, allows the player to control a planet's landforms, atmosphere, and temperature so as to promote the evolution of sentient, civilized lifeforms. A number of scenarios and difficulties exist, including Daisyworld, a simulation designed to prove James Lovelock's theories about how plants regulate their environment.": {
+    "guess": "SimEarth: The Living Planet",
+    "confidence": [
+      [
+        "Sim",
+        -0.0007414919
+      ],
+      [
+        "Earth",
+        -1.27099975e-05
+      ],
+      [
+        ":",
+        -0.69331145
+      ],
+      [
+        " The",
+        -6.704273e-07
+      ],
+      [
+        " Living",
+        -1.9361265e-07
+      ],
+      [
+        " Planet",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "F10PE, identify each of the following relating to the extension of Maxwell's equations.  A. The modern": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.12191696
+      ]
+    ]
+  },
+  "F10PE, identify each of the following relating to the extension of Maxwell's equations.  A. The modern mathematical formulation of Maxwell's equations was the work of these two men, who reformulated Maxwell's": {
+    "guess": "Heaviside and Gibbs",
+    "confidence": [
+      [
+        "He",
+        -0.067577
+      ],
+      [
+        "avis",
+        -1.3856493e-06
+      ],
+      [
+        "ide",
+        -4.3202e-07
+      ],
+      [
+        " and",
+        -0.3476796
+      ],
+      [
+        " Gibbs",
+        -0.0012026122
+      ]
+    ]
+  },
+  "F10PE, identify each of the following relating to the extension of Maxwell's equations.  A. The modern mathematical formulation of Maxwell's equations was the work of these two men, who reformulated Maxwell's original system of 20 equations into a far simpler representation using vector calculus. Name": {
+    "guess": "Heaviside and Gibbs",
+    "confidence": [
+      [
+        "He",
+        -0.43781665
+      ],
+      [
+        "avis",
+        -0.00014931006
+      ],
+      [
+        "ide",
+        0.0
+      ],
+      [
+        " and",
+        -0.710252
+      ],
+      [
+        " Gibbs",
+        -0.00063404354
+      ]
+    ]
+  },
+  "F10PE, identify each of the following relating to the extension of Maxwell's equations.  A. The modern mathematical formulation of Maxwell's equations was the work of these two men, who reformulated Maxwell's original system of 20 equations into a far simpler representation using vector calculus. Name either of them.": {
+    "guess": "Heinrich Hertz",
+    "confidence": [
+      [
+        "He",
+        -0.6965442
+      ],
+      [
+        "in",
+        -0.34849644
+      ],
+      [
+        "rich",
+        0.0
+      ],
+      [
+        " Hertz",
+        -0.00033808468
+      ]
+    ]
+  }
+}

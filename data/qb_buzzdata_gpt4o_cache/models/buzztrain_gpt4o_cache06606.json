@@ -1,0 +1,404 @@
+{
+  "He requests a prologue in \"eight and eight\" to reassure the ladies in the audience that he will not really": {
+    "guess": "A Midsummer Night's Dream",
+    "confidence": [
+      [
+        "A",
+        -0.14004335
+      ],
+      [
+        " M",
+        -8.061054e-06
+      ],
+      [
+        "ids",
+        -1.9361265e-07
+      ],
+      [
+        "ummer",
+        0.0
+      ],
+      [
+        " Night",
+        0.0
+      ],
+      [
+        "'s",
+        -0.00015848507
+      ],
+      [
+        " Dream",
+        0.0
+      ]
+    ]
+  },
+  "He requests a prologue in \"eight and eight\" to reassure the ladies in the audience that he will not really die, and suggests that the man playing the lion should tell the ladies that he is really only": {
+    "guess": "A Midsummer Night's Dream",
+    "confidence": [
+      [
+        "A",
+        -1.018204
+      ],
+      [
+        " M",
+        -4.739826e-05
+      ],
+      [
+        "ids",
+        0.0
+      ],
+      [
+        "ummer",
+        0.0
+      ],
+      [
+        " Night",
+        0.0
+      ],
+      [
+        "'s",
+        -0.00020354039
+      ],
+      [
+        " Dream",
+        0.0
+      ]
+    ]
+  },
+  "He requests a prologue in \"eight and eight\" to reassure the ladies in the audience that he will not really die, and suggests that the man playing the lion should tell the ladies that he is really only a man pretending to be a lion.  He was in the wood in preparation for the Duke's wedding, but is subject": {
+    "guess": "Bottom (A Midsummer Night's Dream)",
+    "confidence": [
+      [
+        "Bottom",
+        -0.18726853
+      ],
+      [
+        " (",
+        -0.47436777
+      ],
+      [
+        "A",
+        -0.059160657
+      ],
+      [
+        " M",
+        -1.9361265e-07
+      ],
+      [
+        "ids",
+        -5.5122365e-07
+      ],
+      [
+        "ummer",
+        0.0
+      ],
+      [
+        " Night",
+        0.0
+      ],
+      [
+        "'s",
+        -0.00043066923
+      ],
+      [
+        " Dream",
+        0.0
+      ],
+      [
+        ")",
+        -0.16088882
+      ]
+    ]
+  },
+  "He requests a prologue in \"eight and eight\" to reassure the ladies in the audience that he will not really die, and suggests that the man playing the lion should tell the ladies that he is really only a man pretending to be a lion.  He was in the wood in preparation for the Duke's wedding, but is subject to an embarrassment greater than his fellow tradesman.  He tries to claim all the parts in the": {
+    "guess": "Bottom (A Midsummer Night's Dream)",
+    "confidence": [
+      [
+        "Bottom",
+        -0.0075982306
+      ],
+      [
+        " (",
+        -0.47439775
+      ],
+      [
+        "A",
+        -0.08771025
+      ],
+      [
+        " M",
+        -8.1609716e-05
+      ],
+      [
+        "ids",
+        -1.9361265e-07
+      ],
+      [
+        "ummer",
+        -1.9361265e-07
+      ],
+      [
+        " Night",
+        0.0
+      ],
+      [
+        "'s",
+        -0.0024757776
+      ],
+      [
+        " Dream",
+        0.0
+      ],
+      [
+        ")",
+        -0.25732878
+      ]
+    ]
+  },
+  "He requests a prologue in \"eight and eight\" to reassure the ladies in the audience that he will not really die, and suggests that the man playing the lion should tell the ladies that he is really only a man pretending to be a lion.  He was in the wood in preparation for the Duke's wedding, but is subject to an embarrassment greater than his fellow tradesman.  He tries to claim all the parts in the play for himself, but in the end, the only part he plays is Pyramus.  FTP, name this Rude Mechanical": {
+    "guess": "Nick Bottom",
+    "confidence": [
+      [
+        "Nick",
+        -0.4746609
+      ],
+      [
+        " Bottom",
+        0.0
+      ]
+    ]
+  },
+  "He requests a prologue in \"eight and eight\" to reassure the ladies in the audience that he will not really die, and suggests that the man playing the lion should tell the ladies that he is really only a man pretending to be a lion.  He was in the wood in preparation for the Duke's wedding, but is subject to an embarrassment greater than his fellow tradesman.  He tries to claim all the parts in the play for himself, but in the end, the only part he plays is Pyramus.  FTP, name this Rude Mechanical in A Midsummer Night's Dream, the weaver who gets stuck in an ass' head.": {
+    "guess": "Bottom",
+    "confidence": [
+      [
+        "Bottom",
+        -0.3875881
+      ]
+    ]
+  },
+  "A requirement of this result is satisfied by constructing wavefunctions with a Slater determinant. This": {
+    "guess": "Pauli exclusion principle",
+    "confidence": [
+      [
+        "Pa",
+        -0.015082286
+      ],
+      [
+        "uli",
+        0.0
+      ],
+      [
+        " exclusion",
+        -0.0007106439
+      ],
+      [
+        " principle",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A requirement of this result is satisfied by constructing wavefunctions with a Slater determinant. This is the cause of the repulsive short-range twelfth-power term in the Lennard-Jones potential, as well": {
+    "guess": "Pauli exclusion principle",
+    "confidence": [
+      [
+        "Pa",
+        -0.0009331366
+      ],
+      [
+        "uli",
+        0.0
+      ],
+      [
+        " exclusion",
+        -3.1281633e-07
+      ],
+      [
+        " principle",
+        0.0
+      ]
+    ]
+  },
+  "A requirement of this result is satisfied by constructing wavefunctions with a Slater determinant. This is the cause of the repulsive short-range twelfth-power term in the Lennard-Jones potential, as well as the degeneracy pressure that keeps white dwarfs stable. Ehrenfest posited that this result is": {
+    "guess": "Pauli exclusion principle",
+    "confidence": [
+      [
+        "Pa",
+        -0.006509317
+      ],
+      [
+        "uli",
+        0.0
+      ],
+      [
+        " exclusion",
+        -1.6240566e-06
+      ],
+      [
+        " principle",
+        0.0
+      ]
+    ]
+  },
+  "A requirement of this result is satisfied by constructing wavefunctions with a Slater determinant. This is the cause of the repulsive short-range twelfth-power term in the Lennard-Jones potential, as well as the degeneracy pressure that keeps white dwarfs stable. Ehrenfest posited that this result is what gives matter volume, since it prevents atoms from being placed too close together. Wavefunctions": {
+    "guess": "Pauli exclusion principle",
+    "confidence": [
+      [
+        "Pa",
+        -0.0013949996
+      ],
+      [
+        "uli",
+        0.0
+      ],
+      [
+        " exclusion",
+        -3.1281633e-07
+      ],
+      [
+        " principle",
+        0.0
+      ]
+    ]
+  },
+  "A requirement of this result is satisfied by constructing wavefunctions with a Slater determinant. This is the cause of the repulsive short-range twelfth-power term in the Lennard-Jones potential, as well as the degeneracy pressure that keeps white dwarfs stable. Ehrenfest posited that this result is what gives matter volume, since it prevents atoms from being placed too close together. Wavefunctions must be antisymmetric under exchange due to this principle, which only applies to fermions. It explains": {
+    "guess": "Pauli exclusion principle",
+    "confidence": [
+      [
+        "Pa",
+        -0.026551424
+      ],
+      [
+        "uli",
+        0.0
+      ],
+      [
+        " exclusion",
+        -6.392203e-06
+      ],
+      [
+        " principle",
+        0.0
+      ]
+    ]
+  },
+  "A requirement of this result is satisfied by constructing wavefunctions with a Slater determinant. This is the cause of the repulsive short-range twelfth-power term in the Lennard-Jones potential, as well as the degeneracy pressure that keeps white dwarfs stable. Ehrenfest posited that this result is what gives matter volume, since it prevents atoms from being placed too close together. Wavefunctions must be antisymmetric under exchange due to this principle, which only applies to fermions. It explains why two electrons in the same orbital must have opposite spin, since they cannot occupy the same": {
+    "guess": "Pauli exclusion principle",
+    "confidence": [
+      [
+        "Pa",
+        -0.007649341
+      ],
+      [
+        "uli",
+        0.0
+      ],
+      [
+        " exclusion",
+        -9.253091e-06
+      ],
+      [
+        " principle",
+        0.0
+      ]
+    ]
+  },
+  "A requirement of this result is satisfied by constructing wavefunctions with a Slater determinant. This is the cause of the repulsive short-range twelfth-power term in the Lennard-Jones potential, as well as the degeneracy pressure that keeps white dwarfs stable. Ehrenfest posited that this result is what gives matter volume, since it prevents atoms from being placed too close together. Wavefunctions must be antisymmetric under exchange due to this principle, which only applies to fermions. It explains why two electrons in the same orbital must have opposite spin, since they cannot occupy the same state. For 10 points, name this \"exclusion\" principle named for an Austrian physicist.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.20148623
+      ]
+    ]
+  },
+  "After a request from Antoine Gambaud [gam-BO], he began a correspondence with  Fermat to establish a": {
+    "guess": "Probability theory",
+    "confidence": [
+      [
+        "Probability",
+        -0.038360808
+      ],
+      [
+        " theory",
+        -0.026371945
+      ]
+    ]
+  },
+  "After a request from Antoine Gambaud [gam-BO], he began a correspondence with  Fermat to establish a new field of mathematics. Throughout this foundation, this  mathematician and philosopher relied on": {
+    "guess": "Probability theory",
+    "confidence": [
+      [
+        "Probability",
+        -0.33392617
+      ],
+      [
+        " theory",
+        -0.039700698
+      ]
+    ]
+  },
+  "After a request from Antoine Gambaud [gam-BO], he began a correspondence with  Fermat to establish a new field of mathematics. Throughout this foundation, this  mathematician and philosopher relied on a preexisting arrangement of numbers,  which gave coefficients to the types of equations with which": {
+    "guess": "Blaise Pascal",
+    "confidence": [
+      [
+        "B",
+        -0.23349765
+      ],
+      [
+        "la",
+        -3.1281633e-07
+      ],
+      [
+        "ise",
+        0.0
+      ],
+      [
+        " Pascal",
+        0.0
+      ]
+    ]
+  },
+  "After a request from Antoine Gambaud [gam-BO], he began a correspondence with  Fermat to establish a new field of mathematics. Throughout this foundation, this  mathematician and philosopher relied on a preexisting arrangement of numbers,  which gave coefficients to the types of equations with which he dealt. FTP, name  this philosopher author of Pens\u00e9es and Provincial Letters, and mathematician, whose": {
+    "guess": "Blaise Pascal",
+    "confidence": [
+      [
+        "B",
+        -0.0732465
+      ],
+      [
+        "la",
+        -1.9361265e-07
+      ],
+      [
+        "ise",
+        0.0
+      ],
+      [
+        " Pascal",
+        0.0
+      ]
+    ]
+  },
+  "After a request from Antoine Gambaud [gam-BO], he began a correspondence with  Fermat to establish a new field of mathematics. Throughout this foundation, this  mathematician and philosopher relied on a preexisting arrangement of numbers,  which gave coefficients to the types of equations with which he dealt. FTP, name  this philosopher author of Pens\u00e9es and Provincial Letters, and mathematician, whose  co-founding of probability employed a triangle now named in honor of him.": {
+    "guess": "Blaise Pascal",
+    "confidence": [
+      [
+        "B",
+        -0.30201977
+      ],
+      [
+        "la",
+        0.0
+      ],
+      [
+        "ise",
+        0.0
+      ],
+      [
+        " Pascal",
+        -6.704273e-07
+      ]
+    ]
+  }
+}

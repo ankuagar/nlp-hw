@@ -1,0 +1,81 @@
+{
+  "A Venus throw was when four different sides of it came up, while \"the dogs\" showed four of the same flat": {
+    "guess": "Knucklebones",
+    "confidence": [
+      [
+        "Kn",
+        -0.2584215
+      ],
+      [
+        "uck",
+        -0.0040804204
+      ],
+      [
+        "leb",
+        0.0
+      ],
+      [
+        "ones",
+        -0.0009115827
+      ]
+    ]
+  },
+  "A Venus throw was when four different sides of it came up, while \"the dogs\" showed four of the same flat and narrow side. Two sides were round and could never come up. FTP, name this ankle bone of hooved": {
+    "guess": "Astragalus (bone)",
+    "confidence": [
+      [
+        "Astr",
+        -0.01784366
+      ],
+      [
+        "agal",
+        -4.179569e-05
+      ],
+      [
+        "us",
+        -6.869018e-06
+      ],
+      [
+        " (",
+        -0.016916856
+      ],
+      [
+        "bone",
+        -0.034683928
+      ],
+      [
+        ")",
+        -7.58424e-06
+      ]
+    ]
+  },
+  "A Venus throw was when four different sides of it came up, while \"the dogs\" showed four of the same flat and narrow side. Two sides were round and could never come up. FTP, name this ankle bone of hooved animals, the first historically verified randomizer and the probable predecessor of the modern die.": {
+    "guess": "Astragalus (bone)",
+    "confidence": [
+      [
+        "Astr",
+        -0.2119763
+      ],
+      [
+        "agal",
+        -8.7450695e-05
+      ],
+      [
+        "us",
+        -1.5451682e-05
+      ],
+      [
+        " (",
+        -0.015217311
+      ],
+      [
+        "bone",
+        -0.034865383
+      ],
+      [
+        ")",
+        -3.7697225e-06
+      ]
+    ]
+  }
+}

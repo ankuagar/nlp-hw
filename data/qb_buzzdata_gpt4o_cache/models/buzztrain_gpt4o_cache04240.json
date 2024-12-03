@@ -1,0 +1,4048 @@
+{
+  "A 2008 laser restoration of this sculpture found that gold leaf was once used to highlight it. Currently,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.4321638
+      ]
+    ]
+  },
+  "A 2008 laser restoration of this sculpture found that gold leaf was once used to highlight it. Currently, this piece is housed with versions of Madonna and Child by Luca Della Robbia and Lorenzo Ghiberti": {
+    "guess": "Donatello's David",
+    "confidence": [
+      [
+        "Don",
+        -0.8251747
+      ],
+      [
+        "at",
+        -7.89631e-07
+      ],
+      [
+        "ello",
+        0.0
+      ],
+      [
+        "'s",
+        -0.00065703515
+      ],
+      [
+        " David",
+        -0.1854512
+      ]
+    ]
+  },
+  "A 2008 laser restoration of this sculpture found that gold leaf was once used to highlight it. Currently, this piece is housed with versions of Madonna and Child by Luca Della Robbia and Lorenzo Ghiberti in a gallery at the Bargello. The helmet of one character in this work features a depiction of the": {
+    "guess": "The answer is likely \"David (Donatello)\" as the question refers to a sculpture that underwent a laser restoration and is housed in the Bargello, where Donatello's \"David\" is located.",
+    "confidence": [
+      [
+        "The",
+        -1.0162765
+      ],
+      [
+        " answer",
+        -0.5998386
+      ],
+      [
+        " is",
+        -0.034886684
+      ],
+      [
+        " likely",
+        -0.29351723
+      ],
+      [
+        " \"",
+        -0.28575346
+      ],
+      [
+        "David",
+        -0.050186884
+      ],
+      [
+        " (",
+        -0.018915374
+      ],
+      [
+        "Don",
+        -0.018125597
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ],
+      [
+        ")\"",
+        -0.8890189
+      ],
+      [
+        " as",
+        -0.59468067
+      ],
+      [
+        " the",
+        -0.7169899
+      ],
+      [
+        " question",
+        -1.0959613
+      ],
+      [
+        " refers",
+        -0.5548834
+      ],
+      [
+        " to",
+        -1.147242e-06
+      ],
+      [
+        " a",
+        -0.043498985
+      ],
+      [
+        " sculpture",
+        -0.16344559
+      ],
+      [
+        " that",
+        -0.98961014
+      ],
+      [
+        " underwent",
+        -0.3983821
+      ],
+      [
+        " a",
+        -0.5814482
+      ],
+      [
+        " laser",
+        -0.81243527
+      ],
+      [
+        " restoration",
+        -9.0883464e-07
+      ],
+      [
+        " and",
+        -0.6444417
+      ],
+      [
+        " is",
+        -0.041296523
+      ],
+      [
+        " housed",
+        -0.12213516
+      ],
+      [
+        " in",
+        -0.31214792
+      ],
+      [
+        " the",
+        -0.048656292
+      ],
+      [
+        " Barg",
+        -0.014722093
+      ],
+      [
+        "ello",
+        0.0
+      ],
+      [
+        ",",
+        -0.42489436
+      ],
+      [
+        " where",
+        -0.83856404
+      ],
+      [
+        " Don",
+        -0.11355044
+      ],
+      [
+        "at",
+        -4.3202e-07
+      ],
+      [
+        "ello",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -0.005235291
+      ],
+      [
+        " \"",
+        -0.11809514
+      ],
+      [
+        "David",
+        0.0
+      ],
+      [
+        "\"",
+        -0.0098151155
+      ],
+      [
+        " is",
+        -0.019807734
+      ],
+      [
+        " located",
+        -0.9077072
+      ],
+      [
+        ".",
+        -0.66510737
+      ]
+    ]
+  },
+  "A 2008 laser restoration of this sculpture found that gold leaf was once used to highlight it. Currently, this piece is housed with versions of Madonna and Child by Luca Della Robbia and Lorenzo Ghiberti in a gallery at the Bargello. The helmet of one character in this work features a depiction of the Triumph of Cupid, which lends credence to the interpretation that it is representative of the primacy": {
+    "guess": "The answer is likely \"David (Donatello)\" as the description matches the famous bronze sculpture by Donatello, which is housed in the Bargello Museum in Florence and is known for having been gilded.",
+    "confidence": [
+      [
+        "The",
+        -1.1175461
+      ],
+      [
+        " answer",
+        -1.5983083
+      ],
+      [
+        " is",
+        -0.0080578625
+      ],
+      [
+        " likely",
+        -0.08261058
+      ],
+      [
+        " \"",
+        -0.1355743
+      ],
+      [
+        "David",
+        -0.09202846
+      ],
+      [
+        " (",
+        -0.0031174645
+      ],
+      [
+        "Don",
+        -0.008267148
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ],
+      [
+        ")\"",
+        -0.8363521
+      ],
+      [
+        " as",
+        -0.50052136
+      ],
+      [
+        " the",
+        -0.7968416
+      ],
+      [
+        " description",
+        -0.4129028
+      ],
+      [
+        " matches",
+        -0.56013113
+      ],
+      [
+        " the",
+        -1.0345917
+      ],
+      [
+        " famous",
+        -0.78466827
+      ],
+      [
+        " bronze",
+        -0.20749928
+      ],
+      [
+        " sculpture",
+        -0.25776002
+      ],
+      [
+        " by",
+        -0.42319638
+      ],
+      [
+        " Don",
+        -6.873572e-05
+      ],
+      [
+        "at",
+        -2.577686e-06
+      ],
+      [
+        "ello",
+        -1.9361265e-07
+      ],
+      [
+        ",",
+        -0.31920704
+      ],
+      [
+        " which",
+        -0.08223053
+      ],
+      [
+        " is",
+        -0.5299552
+      ],
+      [
+        " housed",
+        -0.16631857
+      ],
+      [
+        " in",
+        -0.22548333
+      ],
+      [
+        " the",
+        -5.5146502e-05
+      ],
+      [
+        " Barg",
+        -0.049299344
+      ],
+      [
+        "ello",
+        0.0
+      ],
+      [
+        " Museum",
+        -0.78468066
+      ],
+      [
+        " in",
+        -0.3546907
+      ],
+      [
+        " Florence",
+        -4.3202e-07
+      ],
+      [
+        " and",
+        -0.56447953
+      ],
+      [
+        " is",
+        -1.0384052
+      ],
+      [
+        " known",
+        -0.07881245
+      ],
+      [
+        " for",
+        -0.17975917
+      ],
+      [
+        " having",
+        -0.68572813
+      ],
+      [
+        " been",
+        -1.1275961
+      ],
+      [
+        " gild",
+        -0.9658886
+      ],
+      [
+        "ed",
+        -2.1008714e-06
+      ],
+      [
+        ".",
+        -0.8037206
+      ]
+    ]
+  },
+  "A 2008 laser restoration of this sculpture found that gold leaf was once used to highlight it. Currently, this piece is housed with versions of Madonna and Child by Luca Della Robbia and Lorenzo Ghiberti in a gallery at the Bargello. The helmet of one character in this work features a depiction of the Triumph of Cupid, which lends credence to the interpretation that it is representative of the primacy of sodomy in the culture in which it was created. That theory is also supported by the feather running": {
+    "guess": "The answer is likely \"David (Donatello).\"",
+    "confidence": [
+      [
+        "The",
+        -0.8064551
+      ],
+      [
+        " answer",
+        -0.8652714
+      ],
+      [
+        " is",
+        -0.0030695756
+      ],
+      [
+        " likely",
+        -0.29676098
+      ],
+      [
+        " \"",
+        -0.1293499
+      ],
+      [
+        "David",
+        -0.0021682212
+      ],
+      [
+        " (",
+        -0.0055498662
+      ],
+      [
+        "Don",
+        -0.06359684
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ],
+      [
+        ").\"",
+        -0.7700525
+      ]
+    ]
+  },
+  "A 2008 laser restoration of this sculpture found that gold leaf was once used to highlight it. Currently, this piece is housed with versions of Madonna and Child by Luca Della Robbia and Lorenzo Ghiberti in a gallery at the Bargello. The helmet of one character in this work features a depiction of the Triumph of Cupid, which lends credence to the interpretation that it is representative of the primacy of sodomy in the culture in which it was created. That theory is also supported by the feather running up the inside of its central figure's leg. The title figure's toes are intertwined in the hair": {
+    "guess": "David (Donatello)",
+    "confidence": [
+      [
+        "David",
+        -0.596192
+      ],
+      [
+        " (",
+        -0.016062874
+      ],
+      [
+        "Don",
+        -0.004646811
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ],
+      [
+        ")",
+        -0.0067161983
+      ]
+    ]
+  },
+  "A 2008 laser restoration of this sculpture found that gold leaf was once used to highlight it. Currently, this piece is housed with versions of Madonna and Child by Luca Della Robbia and Lorenzo Ghiberti in a gallery at the Bargello. The helmet of one character in this work features a depiction of the Triumph of Cupid, which lends credence to the interpretation that it is representative of the primacy of sodomy in the culture in which it was created. That theory is also supported by the feather running up the inside of its central figure's leg. The title figure's toes are intertwined in the hair of his enemy, on whose decapitated head he stands. For 10 points, identify this first freestanding": {
+    "guess": "David (Donatello)",
+    "confidence": [
+      [
+        "David",
+        -0.35681182
+      ],
+      [
+        " (",
+        -0.0097662425
+      ],
+      [
+        "Don",
+        -6.50404e-05
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ],
+      [
+        ")",
+        -9.913265e-05
+      ]
+    ]
+  },
+  "A 2008 laser restoration of this sculpture found that gold leaf was once used to highlight it. Currently, this piece is housed with versions of Madonna and Child by Luca Della Robbia and Lorenzo Ghiberti in a gallery at the Bargello. The helmet of one character in this work features a depiction of the Triumph of Cupid, which lends credence to the interpretation that it is representative of the primacy of sodomy in the culture in which it was created. That theory is also supported by the feather running up the inside of its central figure's leg. The title figure's toes are intertwined in the hair of his enemy, on whose decapitated head he stands. For 10 points, identify this first freestanding bronze nude since antiquity, a work by Donatello depicting the slayer of Goliath.": {
+    "guess": "David (Donatello)",
+    "confidence": [
+      [
+        "David",
+        -0.22752976
+      ],
+      [
+        " (",
+        -0.014185128
+      ],
+      [
+        "Don",
+        -9.674858e-05
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ],
+      [
+        ")",
+        -0.0005029929
+      ]
+    ]
+  },
+  "Largely carved-out from Abenaki land, this entity was first ruled by Pierre Dugua. Later, it supplied": {
+    "guess": "Acadia",
+    "confidence": [
+      [
+        "Ac",
+        -0.013762177
+      ],
+      [
+        "adia",
+        -3.0545007e-06
+      ]
+    ]
+  },
+  "Largely carved-out from Abenaki land, this entity was first ruled by Pierre Dugua. Later, it supplied most of Champlain's followers. A major event in this region's history occurred shortly after the fall": {
+    "guess": "Acadia",
+    "confidence": [
+      [
+        "Ac",
+        -0.013600848
+      ],
+      [
+        "adia",
+        -5.8484206e-05
+      ]
+    ]
+  },
+  "Largely carved-out from Abenaki land, this entity was first ruled by Pierre Dugua. Later, it supplied most of Champlain's followers. A major event in this region's history occurred shortly after the fall of Fort Beausejour and is colloquially known as the Great Upheaval. At its greatest extent, it reached": {
+    "guess": "Acadia",
+    "confidence": [
+      [
+        "Ac",
+        -0.0073980265
+      ],
+      [
+        "adia",
+        -1.2113979e-05
+      ]
+    ]
+  },
+  "Largely carved-out from Abenaki land, this entity was first ruled by Pierre Dugua. Later, it supplied most of Champlain's followers. A major event in this region's history occurred shortly after the fall of Fort Beausejour and is colloquially known as the Great Upheaval. At its greatest extent, it reached as far south as Philadelphia. About 40 years after its conquest in Queen Anne's war, about 10,000": {
+    "guess": "Acadia",
+    "confidence": [
+      [
+        "Ac",
+        -0.008116635
+      ],
+      [
+        "adia",
+        -2.0458236e-05
+      ]
+    ]
+  },
+  "Largely carved-out from Abenaki land, this entity was first ruled by Pierre Dugua. Later, it supplied most of Champlain's followers. A major event in this region's history occurred shortly after the fall of Fort Beausejour and is colloquially known as the Great Upheaval. At its greatest extent, it reached as far south as Philadelphia. About 40 years after its conquest in Queen Anne's war, about 10,000 residents were expelled, as memorialized in Evangeline, and mostly transplanted to Louisiana. FTP,": {
+    "guess": "Acadia",
+    "confidence": [
+      [
+        "Ac",
+        -0.0064176363
+      ],
+      [
+        "adia",
+        -1.9743013e-05
+      ]
+    ]
+  },
+  "Largely carved-out from Abenaki land, this entity was first ruled by Pierre Dugua. Later, it supplied most of Champlain's followers. A major event in this region's history occurred shortly after the fall of Fort Beausejour and is colloquially known as the Great Upheaval. At its greatest extent, it reached as far south as Philadelphia. About 40 years after its conquest in Queen Anne's war, about 10,000 residents were expelled, as memorialized in Evangeline, and mostly transplanted to Louisiana. FTP, name this French colony of northeastern America named for a Greek land of plenty.": {
+    "guess": "Acadia",
+    "confidence": [
+      [
+        "Ac",
+        -0.00042245153
+      ],
+      [
+        "adia",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "Lassie and Imp the Dog starred in a 1911 short film by this name, which was based on a story by Mark": {
+    "guess": "A Dog's Tale",
+    "confidence": [
+      [
+        "A",
+        -0.18827206
+      ],
+      [
+        " Dog",
+        -0.024932673
+      ],
+      [
+        "'s",
+        -0.0063571045
+      ],
+      [
+        " Tale",
+        -0.18815188
+      ]
+    ]
+  },
+  "Lassie and Imp the Dog starred in a 1911 short film by this name, which was based on a story by Mark Twain.  \"O Superman (For Massenet)\" was the lead track on an album by Laurie Anderson which had this": {
+    "guess": "Big Science",
+    "confidence": [
+      [
+        "Big",
+        -0.31514558
+      ],
+      [
+        " Science",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "Lassie and Imp the Dog starred in a 1911 short film by this name, which was based on a story by Mark Twain.  \"O Superman (For Massenet)\" was the lead track on an album by Laurie Anderson which had this word in its title.  In \"If I Ever Lose My Faith in You,\" Sting claims that he has lost faith in this": {
+    "guess": "Faith",
+    "confidence": [
+      [
+        "Faith",
+        -0.32875073
+      ]
+    ]
+  },
+  "Lassie and Imp the Dog starred in a 1911 short film by this name, which was based on a story by Mark Twain.  \"O Superman (For Massenet)\" was the lead track on an album by Laurie Anderson which had this word in its title.  In \"If I Ever Lose My Faith in You,\" Sting claims that he has lost faith in this and progress.  In another song about this, the speaker laments that he cannot find his \"careful notes\"": {
+    "guess": "Gravity",
+    "confidence": [
+      [
+        "Gravity",
+        -1.1694158
+      ]
+    ]
+  },
+  "Lassie and Imp the Dog starred in a 1911 short film by this name, which was based on a story by Mark Twain.  \"O Superman (For Massenet)\" was the lead track on an album by Laurie Anderson which had this word in its title.  In \"If I Ever Lose My Faith in You,\" Sting claims that he has lost faith in this and progress.  In another song about this, the speaker laments that he cannot find his \"careful notes\" and \"antiquated notions\" since the title figure has \"tidied up,\" and exclaims that Miss Sakamoto": {
+    "guess": "Science",
+    "confidence": [
+      [
+        "Science",
+        -0.52590317
+      ]
+    ]
+  },
+  "Lassie and Imp the Dog starred in a 1911 short film by this name, which was based on a story by Mark Twain.  \"O Superman (For Massenet)\" was the lead track on an album by Laurie Anderson which had this word in its title.  In \"If I Ever Lose My Faith in You,\" Sting claims that he has lost faith in this and progress.  In another song about this, the speaker laments that he cannot find his \"careful notes\" and \"antiquated notions\" since the title figure has \"tidied up,\" and exclaims that Miss Sakamoto is beautiful after describing \"poetry in motion.\"   FTP, name this discipline, which precedes \"of": {
+    "guess": "Science",
+    "confidence": [
+      [
+        "Science",
+        -0.048304573
+      ]
+    ]
+  },
+  "Lassie and Imp the Dog starred in a 1911 short film by this name, which was based on a story by Mark Twain.  \"O Superman (For Massenet)\" was the lead track on an album by Laurie Anderson which had this word in its title.  In \"If I Ever Lose My Faith in You,\" Sting claims that he has lost faith in this and progress.  In another song about this, the speaker laments that he cannot find his \"careful notes\" and \"antiquated notions\" since the title figure has \"tidied up,\" and exclaims that Miss Sakamoto is beautiful after describing \"poetry in motion.\"   FTP, name this discipline, which precedes \"of Sleep\" in the title of a Michel Gondry film and with which Thomas Dolby was \"blinded.\"": {
+    "guess": "Science",
+    "confidence": [
+      [
+        "Science",
+        -0.0012916665
+      ]
+    ]
+  },
+  "His large retinue of baronial knights was known by the badge: a collar of linked SS.  Famous for leading": {
+    "guess": "Henry IV of England",
+    "confidence": [
+      [
+        "Henry",
+        -0.8977695
+      ],
+      [
+        " IV",
+        -0.2284243
+      ],
+      [
+        " of",
+        -3.464347e-05
+      ],
+      [
+        " England",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "His large retinue of baronial knights was known by the badge: a collar of linked SS.  Famous for leading the chevauch? from Calais to Bordeaux, he acquired land and titles from his wives becoming the Earl": {
+    "guess": "John of Gaunt",
+    "confidence": [
+      [
+        "John",
+        -0.022188874
+      ],
+      [
+        " of",
+        -0.0015053401
+      ],
+      [
+        " Ga",
+        -8.418666e-06
+      ],
+      [
+        "unt",
+        0.0
+      ]
+    ]
+  },
+  "His large retinue of baronial knights was known by the badge: a collar of linked SS.  Famous for leading the chevauch? from Calais to Bordeaux, he acquired land and titles from his wives becoming the Earl of Richmond upon the death of his father-in-law in 1361.  In 1396 he married his mistress Catherine": {
+    "guess": "John of Gaunt",
+    "confidence": [
+      [
+        "John",
+        -0.0010356683
+      ],
+      [
+        " of",
+        -4.2153304e-05
+      ],
+      [
+        " Ga",
+        -3.1281633e-07
+      ],
+      [
+        "unt",
+        0.0
+      ]
+    ]
+  },
+  "His large retinue of baronial knights was known by the badge: a collar of linked SS.  Famous for leading the chevauch? from Calais to Bordeaux, he acquired land and titles from his wives becoming the Earl of Richmond upon the death of his father-in-law in 1361.  In 1396 he married his mistress Catherine Swynford, a member of the powerful Beaufort family.  Through his second wife, Constance, he acquired": {
+    "guess": "John of Gaunt",
+    "confidence": [
+      [
+        "John",
+        -0.05177412
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Ga",
+        0.0
+      ],
+      [
+        "unt",
+        0.0
+      ]
+    ]
+  },
+  "His large retinue of baronial knights was known by the badge: a collar of linked SS.  Famous for leading the chevauch? from Calais to Bordeaux, he acquired land and titles from his wives becoming the Earl of Richmond upon the death of his father-in-law in 1361.  In 1396 he married his mistress Catherine Swynford, a member of the powerful Beaufort family.  Through his second wife, Constance, he acquired a claim to the kingdom of Castile.  A patron of Geoffrey Chaucer and John Wycliffe, his most famous": {
+    "guess": "John of Gaunt",
+    "confidence": [
+      [
+        "John",
+        -0.007156249
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Ga",
+        0.0
+      ],
+      [
+        "unt",
+        0.0
+      ]
+    ]
+  },
+  "His large retinue of baronial knights was known by the badge: a collar of linked SS.  Famous for leading the chevauch? from Calais to Bordeaux, he acquired land and titles from his wives becoming the Earl of Richmond upon the death of his father-in-law in 1361.  In 1396 he married his mistress Catherine Swynford, a member of the powerful Beaufort family.  Through his second wife, Constance, he acquired a claim to the kingdom of Castile.  A patron of Geoffrey Chaucer and John Wycliffe, his most famous child came from Blanche Plantagenet.  For 10 points, name this Duke of Lancaster, whose son, Henry": {
+    "guess": "John of Gaunt",
+    "confidence": [
+      [
+        "John",
+        -0.003258877
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Ga",
+        0.0
+      ],
+      [
+        "unt",
+        0.0
+      ]
+    ]
+  },
+  "His large retinue of baronial knights was known by the badge: a collar of linked SS.  Famous for leading the chevauch? from Calais to Bordeaux, he acquired land and titles from his wives becoming the Earl of Richmond upon the death of his father-in-law in 1361.  In 1396 he married his mistress Catherine Swynford, a member of the powerful Beaufort family.  Through his second wife, Constance, he acquired a claim to the kingdom of Castile.  A patron of Geoffrey Chaucer and John Wycliffe, his most famous child came from Blanche Plantagenet.  For 10 points, name this Duke of Lancaster, whose son, Henry Bolingbroke, became Henry IV.": {
+    "guess": "John of Gaunt",
+    "confidence": [
+      [
+        "John",
+        -0.00092348846
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Ga",
+        0.0
+      ],
+      [
+        "unt",
+        0.0
+      ]
+    ]
+  },
+  "The largest star in a constellation that includes Sulafat and Sheliak, its apparent magnitude of .03": {
+    "guess": "Vega",
+    "confidence": [
+      [
+        "V",
+        -0.7063609
+      ],
+      [
+        "ega",
+        0.0
+      ]
+    ]
+  },
+  "The largest star in a constellation that includes Sulafat and Sheliak, its apparent magnitude of .03 makes it the fifth brightest star in the sky.  The large dust particles surrounding this star inspired": {
+    "guess": "Vega",
+    "confidence": [
+      [
+        "V",
+        -0.0011746286
+      ],
+      [
+        "ega",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "The largest star in a constellation that includes Sulafat and Sheliak, its apparent magnitude of .03 makes it the fifth brightest star in the sky.  The large dust particles surrounding this star inspired Carl Sagan to place his alien listening post here in his novel Contact, and along with Deneb and": {
+    "guess": "Vega",
+    "confidence": [
+      [
+        "V",
+        -0.0050660605
+      ],
+      [
+        "ega",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "The largest star in a constellation that includes Sulafat and Sheliak, its apparent magnitude of .03 makes it the fifth brightest star in the sky.  The large dust particles surrounding this star inspired Carl Sagan to place his alien listening post here in his novel Contact, and along with Deneb and Altair, it forms the Summer Triangle.  Also known as Fidis or the Harp Star, its most common name is": {
+    "guess": "Vega",
+    "confidence": [
+      [
+        "V",
+        -0.0010521037
+      ],
+      [
+        "ega",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "The largest star in a constellation that includes Sulafat and Sheliak, its apparent magnitude of .03 makes it the fifth brightest star in the sky.  The large dust particles surrounding this star inspired Carl Sagan to place his alien listening post here in his novel Contact, and along with Deneb and Altair, it forms the Summer Triangle.  Also known as Fidis or the Harp Star, its most common name is Arabic for \"swooping eagle.\" FTP, name this sapphire-colored star that will become the new North Star": {
+    "guess": "Vega",
+    "confidence": [
+      [
+        "V",
+        -6.837811e-05
+      ],
+      [
+        "ega",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The largest star in a constellation that includes Sulafat and Sheliak, its apparent magnitude of .03 makes it the fifth brightest star in the sky.  The large dust particles surrounding this star inspired Carl Sagan to place his alien listening post here in his novel Contact, and along with Deneb and Altair, it forms the Summer Triangle.  Also known as Fidis or the Harp Star, its most common name is Arabic for \"swooping eagle.\" FTP, name this sapphire-colored star that will become the new North Star in 10,000 years, the alpha star of the constellation Lyra.": {
+    "guess": "Vega",
+    "confidence": [
+      [
+        "V",
+        -0.00041351124
+      ],
+      [
+        "ega",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Its largest rivers are the Kapuas in the west and the Barito in the south, and its highest point is at": {
+    "guess": "Borneo",
+    "confidence": [
+      [
+        "B",
+        -0.01823388
+      ],
+      [
+        "orneo",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Its largest rivers are the Kapuas in the west and the Barito in the south, and its highest point is at Mount Kinabalu.  One of the most sparsely populated regions in the world, the two major ethnic groups": {
+    "guess": "Borneo",
+    "confidence": [
+      [
+        "B",
+        -0.00030686063
+      ],
+      [
+        "orneo",
+        0.0
+      ]
+    ]
+  },
+  "Its largest rivers are the Kapuas in the west and the Barito in the south, and its highest point is at Mount Kinabalu.  One of the most sparsely populated regions in the world, the two major ethnic groups living on the island are the Dyaks and the Malays.  Kalimantan covers 70% of the total area, and": {
+    "guess": "Borneo",
+    "confidence": [
+      [
+        "B",
+        -3.4047454e-05
+      ],
+      [
+        "orneo",
+        0.0
+      ]
+    ]
+  },
+  "Its largest rivers are the Kapuas in the west and the Barito in the south, and its highest point is at Mount Kinabalu.  One of the most sparsely populated regions in the world, the two major ethnic groups living on the island are the Dyaks and the Malays.  Kalimantan covers 70% of the total area, and the states of Sabah and Sarawak lie along the north coast.  FTP, identify this third-largest island": {
+    "guess": "Borneo",
+    "confidence": [
+      [
+        "B",
+        -8.537869e-06
+      ],
+      [
+        "orneo",
+        0.0
+      ]
+    ]
+  },
+  "Its largest rivers are the Kapuas in the west and the Barito in the south, and its highest point is at Mount Kinabalu.  One of the most sparsely populated regions in the world, the two major ethnic groups living on the island are the Dyaks and the Malays.  Kalimantan covers 70% of the total area, and the states of Sabah and Sarawak lie along the north coast.  FTP, identify this third-largest island in the world, which is divided among Indonesia, Malaysia, and Brunei.": {
+    "guess": "Borneo",
+    "confidence": [
+      [
+        "B",
+        -0.0019376774
+      ],
+      [
+        "orneo",
+        0.0
+      ]
+    ]
+  },
+  "Very large amounts of this phenomenon can result from the acceleration of carriers to free electron-hole": {
+    "guess": "Impact ionization",
+    "confidence": [
+      [
+        "Impact",
+        -0.027789885
+      ],
+      [
+        " ion",
+        -1.1994775e-05
+      ],
+      [
+        "ization",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Very large amounts of this phenomenon can result from the acceleration of carriers to free electron-hole pairs, a process called avalanche breakdown even in insulators. This quantity is generally calculated": {
+    "guess": "Impact ionization",
+    "confidence": [
+      [
+        "Impact",
+        -0.049738843
+      ],
+      [
+        " ion",
+        -0.000911702
+      ],
+      [
+        "ization",
+        0.0
+      ]
+    ]
+  },
+  "Very large amounts of this phenomenon can result from the acceleration of carriers to free electron-hole pairs, a process called avalanche breakdown even in insulators. This quantity is generally calculated by the product of particle number, (*) charge per particle, cross-section, and drift velocity.": {
+    "guess": "Electric current",
+    "confidence": [
+      [
+        "Electric",
+        -0.12145601
+      ],
+      [
+        " current",
+        -4.632543e-05
+      ]
+    ]
+  },
+  "Very large amounts of this phenomenon can result from the acceleration of carriers to free electron-hole pairs, a process called avalanche breakdown even in insulators. This quantity is generally calculated by the product of particle number, (*) charge per particle, cross-section, and drift velocity. Power owing to this phenomenon is equal to this quantity squared times resistance. Circuits are generally": {
+    "guess": "Electric current",
+    "confidence": [
+      [
+        "Electric",
+        -0.009416392
+      ],
+      [
+        " current",
+        -2.4391957e-05
+      ]
+    ]
+  },
+  "Very large amounts of this phenomenon can result from the acceleration of carriers to free electron-hole pairs, a process called avalanche breakdown even in insulators. This quantity is generally calculated by the product of particle number, (*) charge per particle, cross-section, and drift velocity. Power owing to this phenomenon is equal to this quantity squared times resistance. Circuits are generally classified as exhibiting this phenomenon either alternating or direct. For 10 points, name this": {
+    "guess": "Electric current",
+    "confidence": [
+      [
+        "Electric",
+        -0.03221206
+      ],
+      [
+        " current",
+        -1.4855664e-05
+      ]
+    ]
+  },
+  "Very large amounts of this phenomenon can result from the acceleration of carriers to free electron-hole pairs, a process called avalanche breakdown even in insulators. This quantity is generally calculated by the product of particle number, (*) charge per particle, cross-section, and drift velocity. Power owing to this phenomenon is equal to this quantity squared times resistance. Circuits are generally classified as exhibiting this phenomenon either alternating or direct. For 10 points, name this flow of electric charge measured in amperes.": {
+    "guess": "Electric Current",
+    "confidence": [
+      [
+        "Electric",
+        -6.80205e-05
+      ],
+      [
+        " Current",
+        -0.0040786397
+      ]
+    ]
+  },
+  "This man largely retired from active duty after he developed heat stroke at Monmouth and he successfully": {
+    "guess": "Charles Lee",
+    "confidence": [
+      [
+        "Charles",
+        -0.26117888
+      ],
+      [
+        " Lee",
+        -0.0060160146
+      ]
+    ]
+  },
+  "This man largely retired from active duty after he developed heat stroke at Monmouth and he successfully engineered a retreat under Israel Putnam from Manhattan. William Peter Van Ness wrote a pamphlet": {
+    "guess": "Charles Lee",
+    "confidence": [
+      [
+        "Charles",
+        -0.0025412976
+      ],
+      [
+        " Lee",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "This man largely retired from active duty after he developed heat stroke at Monmouth and he successfully engineered a retreat under Israel Putnam from Manhattan. William Peter Van Ness wrote a pamphlet defending this man, and Van Ness was an underling in a society he helped empower by giving them the": {
+    "guess": "Charles Lee",
+    "confidence": [
+      [
+        "Charles",
+        -0.047336914
+      ],
+      [
+        " Lee",
+        -4.1199673e-05
+      ]
+    ]
+  },
+  "This man largely retired from active duty after he developed heat stroke at Monmouth and he successfully engineered a retreat under Israel Putnam from Manhattan. William Peter Van Ness wrote a pamphlet defending this man, and Van Ness was an underling in a society he helped empower by giving them the right to form the Manhattan Company, the Tammany Society. He presided over the politically motivated": {
+    "guess": "Aaron Burr",
+    "confidence": [
+      [
+        "Aaron",
+        -0.08808505
+      ],
+      [
+        " Burr",
+        0.0
+      ]
+    ]
+  },
+  "This man largely retired from active duty after he developed heat stroke at Monmouth and he successfully engineered a retreat under Israel Putnam from Manhattan. William Peter Van Ness wrote a pamphlet defending this man, and Van Ness was an underling in a society he helped empower by giving them the right to form the Manhattan Company, the Tammany Society. He presided over the politically motivated impeachment trial of Samuel Chase, and was himself tried by John Marshall after being betrayed by": {
+    "guess": "Aaron Burr",
+    "confidence": [
+      [
+        "Aaron",
+        -0.019952526
+      ],
+      [
+        " Burr",
+        0.0
+      ]
+    ]
+  },
+  "This man largely retired from active duty after he developed heat stroke at Monmouth and he successfully engineered a retreat under Israel Putnam from Manhattan. William Peter Van Ness wrote a pamphlet defending this man, and Van Ness was an underling in a society he helped empower by giving them the right to form the Manhattan Company, the Tammany Society. He presided over the politically motivated impeachment trial of Samuel Chase, and was himself tried by John Marshall after being betrayed by James Wilkinson. He was the victor in an encounter with the son-in-law of Philip Schuyler in Weehawken,": {
+    "guess": "Aaron Burr",
+    "confidence": [
+      [
+        "Aaron",
+        -0.03250567
+      ],
+      [
+        " Burr",
+        0.0
+      ]
+    ]
+  },
+  "This man largely retired from active duty after he developed heat stroke at Monmouth and he successfully engineered a retreat under Israel Putnam from Manhattan. William Peter Van Ness wrote a pamphlet defending this man, and Van Ness was an underling in a society he helped empower by giving them the right to form the Manhattan Company, the Tammany Society. He presided over the politically motivated impeachment trial of Samuel Chase, and was himself tried by John Marshall after being betrayed by James Wilkinson. He was the victor in an encounter with the son-in-law of Philip Schuyler in Weehawken, New Jersey in 1804. For 10 points, name this Vice President who was tried for treason for supposedly": {
+    "guess": "Aaron Burr",
+    "confidence": [
+      [
+        "Aaron",
+        -0.13419127
+      ],
+      [
+        " Burr",
+        0.0
+      ]
+    ]
+  },
+  "This man largely retired from active duty after he developed heat stroke at Monmouth and he successfully engineered a retreat under Israel Putnam from Manhattan. William Peter Van Ness wrote a pamphlet defending this man, and Van Ness was an underling in a society he helped empower by giving them the right to form the Manhattan Company, the Tammany Society. He presided over the politically motivated impeachment trial of Samuel Chase, and was himself tried by John Marshall after being betrayed by James Wilkinson. He was the victor in an encounter with the son-in-law of Philip Schuyler in Weehawken, New Jersey in 1804. For 10 points, name this Vice President who was tried for treason for supposedly attempting to invade the Louisiana Territory and who fought a fatal duel with Alexander Hamilton.": {
+    "guess": "Aaron Burr",
+    "confidence": [
+      [
+        "Aaron",
+        -0.0025185847
+      ],
+      [
+        " Burr",
+        0.0
+      ]
+    ]
+  },
+  "During this larger conflict, the rebellion of Simon the Cutler, also called the Cabochien Revolt, occurred.": {
+    "guess": "Armagnac\u2013Burgundian Civil War",
+    "confidence": [
+      [
+        "Arm",
+        -0.21833594
+      ],
+      [
+        "agn",
+        -1.9361265e-07
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.16022605
+      ],
+      [
+        "B",
+        -7.89631e-07
+      ],
+      [
+        "urg",
+        -8.061054e-06
+      ],
+      [
+        "und",
+        -2.1531068e-05
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Civil",
+        -1.8908588e-05
+      ],
+      [
+        " War",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "During this larger conflict, the rebellion of Simon the Cutler, also called the Cabochien Revolt, occurred. Another uprising during a lapse in this war was led by William Cale. The treaties of Bretigny": {
+    "guess": "Hundred Years' War",
+    "confidence": [
+      [
+        "Hund",
+        -0.0015142657
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " Years",
+        -1.9361265e-07
+      ],
+      [
+        "'",
+        -1.8624639e-06
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "During this larger conflict, the rebellion of Simon the Cutler, also called the Cabochien Revolt, occurred. Another uprising during a lapse in this war was led by William Cale. The treaties of Bretigny and Troyes were temporary armistices during this war. The death of John Talbot at the Battle of Castillon": {
+    "guess": "Hundred Years' War",
+    "confidence": [
+      [
+        "Hund",
+        -0.00092194247
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " Years",
+        -5.5122365e-07
+      ],
+      [
+        "'",
+        -2.6968896e-06
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "During this larger conflict, the rebellion of Simon the Cutler, also called the Cabochien Revolt, occurred. Another uprising during a lapse in this war was led by William Cale. The treaties of Bretigny and Troyes were temporary armistices during this war. The death of John Talbot at the Battle of Castillon is considered the ending point of this war. The aforementioned Jacquerie occurred during this": {
+    "guess": "Hundred Years' War",
+    "confidence": [
+      [
+        "Hund",
+        -0.00034082634
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " Years",
+        -1.147242e-06
+      ],
+      [
+        "'",
+        -9.0883464e-07
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "During this larger conflict, the rebellion of Simon the Cutler, also called the Cabochien Revolt, occurred. Another uprising during a lapse in this war was led by William Cale. The treaties of Bretigny and Troyes were temporary armistices during this war. The death of John Talbot at the Battle of Castillon is considered the ending point of this war. The aforementioned Jacquerie occurred during this conflict, as did the uprising of Owen Glendower and Henry Hotspur against Henry V. For 10 points, name": {
+    "guess": "Hundred Years' War",
+    "confidence": [
+      [
+        "Hund",
+        -5.955704e-05
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " Years",
+        -1.9361265e-07
+      ],
+      [
+        "'",
+        -2.9352968e-06
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "During this larger conflict, the rebellion of Simon the Cutler, also called the Cabochien Revolt, occurred. Another uprising during a lapse in this war was led by William Cale. The treaties of Bretigny and Troyes were temporary armistices during this war. The death of John Talbot at the Battle of Castillon is considered the ending point of this war. The aforementioned Jacquerie occurred during this conflict, as did the uprising of Owen Glendower and Henry Hotspur against Henry V. For 10 points, name this medieval conflict between England and France.": {
+    "guess": "Hundred Years' War",
+    "confidence": [
+      [
+        "Hund",
+        -1.9743013e-05
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " Years",
+        -9.0883464e-07
+      ],
+      [
+        "'",
+        -6.2729996e-06
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The largest part of this organ is divided into Brodmann areas. One part of this organ, the substantia": {
+    "guess": "Brain",
+    "confidence": [
+      [
+        "Brain",
+        -0.20371997
+      ]
+    ]
+  },
+  "The largest part of this organ is divided into Brodmann areas. One part of this organ, the substantia nigra, produces dopamine; that part, like its striatum, is part of the basal ganglia. Those components": {
+    "guess": "Brain",
+    "confidence": [
+      [
+        "Brain",
+        -0.09860911
+      ]
+    ]
+  },
+  "The largest part of this organ is divided into Brodmann areas. One part of this organ, the substantia nigra, produces dopamine; that part, like its striatum, is part of the basal ganglia. Those components are implicated in (*) Parkinson's disease and Huntington's disease. The lobes of one part of this": {
+    "guess": "Brain",
+    "confidence": [
+      [
+        "Brain",
+        -0.27527586
+      ]
+    ]
+  },
+  "The largest part of this organ is divided into Brodmann areas. One part of this organ, the substantia nigra, produces dopamine; that part, like its striatum, is part of the basal ganglia. Those components are implicated in (*) Parkinson's disease and Huntington's disease. The lobes of one part of this organ include the occipital and parietal, and this organ includes a portion involved in motor control": {
+    "guess": "Brain",
+    "confidence": [
+      [
+        "Brain",
+        -0.034731135
+      ]
+    ]
+  },
+  "The largest part of this organ is divided into Brodmann areas. One part of this organ, the substantia nigra, produces dopamine; that part, like its striatum, is part of the basal ganglia. Those components are implicated in (*) Parkinson's disease and Huntington's disease. The lobes of one part of this organ include the occipital and parietal, and this organ includes a portion involved in motor control called the cerebellum. For 10 points, name this central organ of the nervous system, contained in": {
+    "guess": "Brain",
+    "confidence": [
+      [
+        "Brain",
+        -0.00015598179
+      ]
+    ]
+  },
+  "The largest part of this organ is divided into Brodmann areas. One part of this organ, the substantia nigra, produces dopamine; that part, like its striatum, is part of the basal ganglia. Those components are implicated in (*) Parkinson's disease and Huntington's disease. The lobes of one part of this organ include the occipital and parietal, and this organ includes a portion involved in motor control called the cerebellum. For 10 points, name this central organ of the nervous system, contained in the cranium.": {
+    "guess": "Brain",
+    "confidence": [
+      [
+        "Brain",
+        -0.00010747691
+      ]
+    ]
+  },
+  "The larval dragon fly contains a trachaea on the rectum which serves as this structure. Spiracles often": {
+    "guess": "Gills",
+    "confidence": [
+      [
+        "G",
+        -0.85521454
+      ],
+      [
+        "ills",
+        -9.9490266e-05
+      ]
+    ]
+  },
+  "The larval dragon fly contains a trachaea on the rectum which serves as this structure. Spiracles often guide movement through this structure in some cartilagenous animals, and these structures are often": {
+    "guess": "Gills",
+    "confidence": [
+      [
+        "G",
+        -0.71314734
+      ],
+      [
+        "ills",
+        -0.00043174208
+      ]
+    ]
+  },
+  "The larval dragon fly contains a trachaea on the rectum which serves as this structure. Spiracles often guide movement through this structure in some cartilagenous animals, and these structures are often covered by a bony osculum. These structures make use of the (*) countercurrent exchange system to": {
+    "guess": "Gills",
+    "confidence": [
+      [
+        "G",
+        -0.0012998806
+      ],
+      [
+        "ills",
+        -1.0325924e-05
+      ]
+    ]
+  },
+  "The larval dragon fly contains a trachaea on the rectum which serves as this structure. Spiracles often guide movement through this structure in some cartilagenous animals, and these structures are often covered by a bony osculum. These structures make use of the (*) countercurrent exchange system to transfer oxygen to the blood, and they are sometimes used to describe the pharyngeal slits that chordates": {
+    "guess": "Gills",
+    "confidence": [
+      [
+        "G",
+        -0.00079188205
+      ],
+      [
+        "ills",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "The larval dragon fly contains a trachaea on the rectum which serves as this structure. Spiracles often guide movement through this structure in some cartilagenous animals, and these structures are often covered by a bony osculum. These structures make use of the (*) countercurrent exchange system to transfer oxygen to the blood, and they are sometimes used to describe the pharyngeal slits that chordates are born with. For 10 points, name these respiratory structures that enable fish to breathe.": {
+    "guess": "Gills",
+    "confidence": [
+      [
+        "G",
+        -0.00013977377
+      ],
+      [
+        "ills",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "In of this man's large works which drew upon Egyptian mythology contains a \"fulfillment\" section, and": {
+    "guess": "The answer is: Thus Spoke Zarathustra",
+    "confidence": [
+      [
+        "The",
+        -1.2180417
+      ],
+      [
+        " answer",
+        -1.3925527
+      ],
+      [
+        " is",
+        -0.008783564
+      ],
+      [
+        ":",
+        -0.012018961
+      ],
+      [
+        " Thus",
+        -0.79318374
+      ],
+      [
+        " Sp",
+        -3.8457987e-05
+      ],
+      [
+        "oke",
+        -0.00012344286
+      ],
+      [
+        " Zar",
+        0.0
+      ],
+      [
+        "ath",
+        0.0
+      ],
+      [
+        "ustra",
+        0.0
+      ]
+    ]
+  },
+  "In of this man's large works which drew upon Egyptian mythology contains a \"fulfillment\" section, and was executed for the Palais Stoclet. Another of his paintings shows a red-haired woman curled in a": {
+    "guess": "Gustav Klimt",
+    "confidence": [
+      [
+        "G",
+        -0.16420962
+      ],
+      [
+        "ust",
+        -6.1537958e-06
+      ],
+      [
+        "av",
+        -6.704273e-07
+      ],
+      [
+        " Klim",
+        -1.2664457e-06
+      ],
+      [
+        "t",
+        0.0
+      ]
+    ]
+  },
+  "In of this man's large works which drew upon Egyptian mythology contains a \"fulfillment\" section, and was executed for the Palais Stoclet. Another of his paintings shows a red-haired woman curled in a fetal position who smiles in a contended manner as a shower of gold flows down her thighs. In addition": {
+    "guess": "Gustav Klimt",
+    "confidence": [
+      [
+        "G",
+        -0.24245153
+      ],
+      [
+        "ust",
+        -1.2664457e-06
+      ],
+      [
+        "av",
+        -4.3202e-07
+      ],
+      [
+        " Klim",
+        -1.0280384e-06
+      ],
+      [
+        "t",
+        0.0
+      ]
+    ]
+  },
+  "In of this man's large works which drew upon Egyptian mythology contains a \"fulfillment\" section, and was executed for the Palais Stoclet. Another of his paintings shows a red-haired woman curled in a fetal position who smiles in a contended manner as a shower of gold flows down her thighs. In addition to that depiction of Danae, he painted depictions of \"Lavisciousness, Wantonness, and Intemperance\"": {
+    "guess": "Gustav Klimt",
+    "confidence": [
+      [
+        "G",
+        -0.31953323
+      ],
+      [
+        "ust",
+        -4.3202e-07
+      ],
+      [
+        "av",
+        -0.12693787
+      ],
+      [
+        " Klim",
+        -1.7432603e-06
+      ],
+      [
+        "t",
+        0.0
+      ]
+    ]
+  },
+  "In of this man's large works which drew upon Egyptian mythology contains a \"fulfillment\" section, and was executed for the Palais Stoclet. Another of his paintings shows a red-haired woman curled in a fetal position who smiles in a contended manner as a shower of gold flows down her thighs. In addition to that depiction of Danae, he painted depictions of \"Lavisciousness, Wantonness, and Intemperance\" and \"The Three Gorgons\" which are flanked by depictions of \"Suffering of Humanity\" and a \"choir of": {
+    "guess": "Gustav Klimt",
+    "confidence": [
+      [
+        "G",
+        -0.28905618
+      ],
+      [
+        "ust",
+        -6.704273e-07
+      ],
+      [
+        "av",
+        -0.038045622
+      ],
+      [
+        " Klim",
+        -5.5122365e-07
+      ],
+      [
+        "t",
+        0.0
+      ]
+    ]
+  },
+  "In of this man's large works which drew upon Egyptian mythology contains a \"fulfillment\" section, and was executed for the Palais Stoclet. Another of his paintings shows a red-haired woman curled in a fetal position who smiles in a contended manner as a shower of gold flows down her thighs. In addition to that depiction of Danae, he painted depictions of \"Lavisciousness, Wantonness, and Intemperance\" and \"The Three Gorgons\" which are flanked by depictions of \"Suffering of Humanity\" and a \"choir of angels\" for another exhibition. That work was inaugurated along Gustav Mahler conducting the titular": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.4002184
+      ]
+    ]
+  },
+  "In of this man's large works which drew upon Egyptian mythology contains a \"fulfillment\" section, and was executed for the Palais Stoclet. Another of his paintings shows a red-haired woman curled in a fetal position who smiles in a contended manner as a shower of gold flows down her thighs. In addition to that depiction of Danae, he painted depictions of \"Lavisciousness, Wantonness, and Intemperance\" and \"The Three Gorgons\" which are flanked by depictions of \"Suffering of Humanity\" and a \"choir of angels\" for another exhibition. That work was inaugurated along Gustav Mahler conducting the titular artist's Ninth Symphony. In addition to painting Beethoven Frieze, he also painted two portraits": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.82737803
+      ]
+    ]
+  },
+  "In of this man's large works which drew upon Egyptian mythology contains a \"fulfillment\" section, and was executed for the Palais Stoclet. Another of his paintings shows a red-haired woman curled in a fetal position who smiles in a contended manner as a shower of gold flows down her thighs. In addition to that depiction of Danae, he painted depictions of \"Lavisciousness, Wantonness, and Intemperance\" and \"The Three Gorgons\" which are flanked by depictions of \"Suffering of Humanity\" and a \"choir of angels\" for another exhibition. That work was inaugurated along Gustav Mahler conducting the titular artist's Ninth Symphony. In addition to painting Beethoven Frieze, he also painted two portraits of Adele Bloch-Bauer and depicted a man decorated with rectangles and a woman decorated with circles": {
+    "guess": "Gustav Klimt",
+    "confidence": [
+      [
+        "G",
+        -0.19450092
+      ],
+      [
+        "ust",
+        -1.9361265e-07
+      ],
+      [
+        "av",
+        -1.9361265e-07
+      ],
+      [
+        " Klim",
+        -6.704273e-07
+      ],
+      [
+        "t",
+        0.0
+      ]
+    ]
+  },
+  "In of this man's large works which drew upon Egyptian mythology contains a \"fulfillment\" section, and was executed for the Palais Stoclet. Another of his paintings shows a red-haired woman curled in a fetal position who smiles in a contended manner as a shower of gold flows down her thighs. In addition to that depiction of Danae, he painted depictions of \"Lavisciousness, Wantonness, and Intemperance\" and \"The Three Gorgons\" which are flanked by depictions of \"Suffering of Humanity\" and a \"choir of angels\" for another exhibition. That work was inaugurated along Gustav Mahler conducting the titular artist's Ninth Symphony. In addition to painting Beethoven Frieze, he also painted two portraits of Adele Bloch-Bauer and depicted a man decorated with rectangles and a woman decorated with circles as they embrace. For 10 points, identify this artist who painted The Kiss.": {
+    "guess": "Gustav Klimt",
+    "confidence": [
+      [
+        "G",
+        -0.030634493
+      ],
+      [
+        "ust",
+        -1.9361265e-07
+      ],
+      [
+        "av",
+        0.0
+      ],
+      [
+        " Klim",
+        -7.89631e-07
+      ],
+      [
+        "t",
+        0.0
+      ]
+    ]
+  },
+  "Larson et al noted that the holotype fossil of this species displays only one hundred and ten degrees": {
+    "guess": "Deinonychus",
+    "confidence": [
+      [
+        "De",
+        -1.2307574
+      ],
+      [
+        "in",
+        -0.023402244
+      ],
+      [
+        "onych",
+        -0.030149389
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Larson et al noted that the holotype fossil of this species displays only one hundred and ten degrees of humeral torsion and concluded that it had a protracted scapula. This species, whose fossil record": {
+    "guess": "Australopithecus sediba",
+    "confidence": [
+      [
+        "Austr",
+        -0.06478122
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        "op",
+        -0.00026193185
+      ],
+      [
+        "ithe",
+        0.0
+      ],
+      [
+        "cus",
+        -3.1281633e-07
+      ],
+      [
+        " sed",
+        -0.5794348
+      ],
+      [
+        "iba",
+        0.0
+      ]
+    ]
+  },
+  "Larson et al noted that the holotype fossil of this species displays only one hundred and ten degrees of humeral torsion and concluded that it had a protracted scapula. This species, whose fossil record unusually stretches as recently as thirteen thousand years ago, likely primarily hunted a subspecies": {
+    "guess": "Homo floresiensis",
+    "confidence": [
+      [
+        "H",
+        -0.006498293
+      ],
+      [
+        "omo",
+        -2.8160932e-06
+      ],
+      [
+        " flores",
+        -3.9411618e-05
+      ],
+      [
+        "iens",
+        -2.1008714e-06
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Larson et al noted that the holotype fossil of this species displays only one hundred and ten degrees of humeral torsion and concluded that it had a protracted scapula. This species, whose fossil record unusually stretches as recently as thirteen thousand years ago, likely primarily hunted a subspecies of Stegodon. Falk et al created endocast maps of this species that led them to reject the pelvis-smashing,": {
+    "guess": "Homo floresiensis",
+    "confidence": [
+      [
+        "H",
+        -0.22751279
+      ],
+      [
+        "omo",
+        -1.0087517e-05
+      ],
+      [
+        " flores",
+        -4.012684e-05
+      ],
+      [
+        "iens",
+        -2.3392786e-06
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Larson et al noted that the holotype fossil of this species displays only one hundred and ten degrees of humeral torsion and concluded that it had a protracted scapula. This species, whose fossil record unusually stretches as recently as thirteen thousand years ago, likely primarily hunted a subspecies of Stegodon. Falk et al created endocast maps of this species that led them to reject the pelvis-smashing, femur-stealing Teuku Jacob's pathological explanation for its holotype fossil. Fossils of": {
+    "guess": "Homo floresiensis",
+    "confidence": [
+      [
+        "H",
+        -0.0011375967
+      ],
+      [
+        "omo",
+        -5.080963e-06
+      ],
+      [
+        " flores",
+        -6.6947665e-05
+      ],
+      [
+        "iens",
+        -4.3202e-07
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Larson et al noted that the holotype fossil of this species displays only one hundred and ten degrees of humeral torsion and concluded that it had a protracted scapula. This species, whose fossil record unusually stretches as recently as thirteen thousand years ago, likely primarily hunted a subspecies of Stegodon. Falk et al created endocast maps of this species that led them to reject the pelvis-smashing, femur-stealing Teuku Jacob's pathological explanation for its holotype fossil. Fossils of this species may represent sufferers of (*) Laron syndrome . Mirror-image reconstructions of the chinless": {
+    "guess": "Homo floresiensis",
+    "confidence": [
+      [
+        "H",
+        -0.01106551
+      ],
+      [
+        "omo",
+        -9.610702e-06
+      ],
+      [
+        " flores",
+        -0.00020604367
+      ],
+      [
+        "iens",
+        -9.0883464e-07
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Larson et al noted that the holotype fossil of this species displays only one hundred and ten degrees of humeral torsion and concluded that it had a protracted scapula. This species, whose fossil record unusually stretches as recently as thirteen thousand years ago, likely primarily hunted a subspecies of Stegodon. Falk et al created endocast maps of this species that led them to reject the pelvis-smashing, femur-stealing Teuku Jacob's pathological explanation for its holotype fossil. Fossils of this species may represent sufferers of (*) Laron syndrome . Mirror-image reconstructions of the chinless face of the LB one fossil of this species reveal significant asymmetry, which combined with its": {
+    "guess": "Homo floresiensis",
+    "confidence": [
+      [
+        "H",
+        -0.015585562
+      ],
+      [
+        "omo",
+        -1.247159e-05
+      ],
+      [
+        " flores",
+        -0.00029780483
+      ],
+      [
+        "iens",
+        -1.7432603e-06
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Larson et al noted that the holotype fossil of this species displays only one hundred and ten degrees of humeral torsion and concluded that it had a protracted scapula. This species, whose fossil record unusually stretches as recently as thirteen thousand years ago, likely primarily hunted a subspecies of Stegodon. Falk et al created endocast maps of this species that led them to reject the pelvis-smashing, femur-stealing Teuku Jacob's pathological explanation for its holotype fossil. Fossils of this species may represent sufferers of (*) Laron syndrome . Mirror-image reconstructions of the chinless face of the LB one fossil of this species reveal significant asymmetry, which combined with its short femora and possible microcephaly have led Bob Eckhardt to claim that it represents a developmentally": {
+    "guess": "Homo floresiensis",
+    "confidence": [
+      [
+        "H",
+        -0.018838517
+      ],
+      [
+        "omo",
+        -2.6299214e-05
+      ],
+      [
+        " flores",
+        -0.0002326224
+      ],
+      [
+        "iens",
+        -1.147242e-06
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Larson et al noted that the holotype fossil of this species displays only one hundred and ten degrees of humeral torsion and concluded that it had a protracted scapula. This species, whose fossil record unusually stretches as recently as thirteen thousand years ago, likely primarily hunted a subspecies of Stegodon. Falk et al created endocast maps of this species that led them to reject the pelvis-smashing, femur-stealing Teuku Jacob's pathological explanation for its holotype fossil. Fossils of this species may represent sufferers of (*) Laron syndrome . Mirror-image reconstructions of the chinless face of the LB one fossil of this species reveal significant asymmetry, which combined with its short femora and possible microcephaly have led Bob Eckhardt to claim that it represents a developmentally abnormal Homo erectus rather than a new species that has undergone insular dwarfism. For 10": {
+    "guess": "Homo floresiensis",
+    "confidence": [
+      [
+        "H",
+        -0.010197407
+      ],
+      [
+        "omo",
+        -4.3941356e-05
+      ],
+      [
+        " flores",
+        -0.00011260267
+      ],
+      [
+        "iens",
+        -7.89631e-07
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Larson et al noted that the holotype fossil of this species displays only one hundred and ten degrees of humeral torsion and concluded that it had a protracted scapula. This species, whose fossil record unusually stretches as recently as thirteen thousand years ago, likely primarily hunted a subspecies of Stegodon. Falk et al created endocast maps of this species that led them to reject the pelvis-smashing, femur-stealing Teuku Jacob's pathological explanation for its holotype fossil. Fossils of this species may represent sufferers of (*) Laron syndrome . Mirror-image reconstructions of the chinless face of the LB one fossil of this species reveal significant asymmetry, which combined with its short femora and possible microcephaly have led Bob Eckhardt to claim that it represents a developmentally abnormal Homo erectus rather than a new species that has undergone insular dwarfism. For 10 points, name this real-life \"hobbit\" discovered in 2003, a tiny hominin named for its home on an Indonesian": {
+    "guess": "Homo floresiensis",
+    "confidence": [
+      [
+        "H",
+        -0.005770581
+      ],
+      [
+        "omo",
+        -3.888926e-06
+      ],
+      [
+        " flores",
+        -4.334534e-05
+      ],
+      [
+        "iens",
+        -1.0280384e-06
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "Larson et al noted that the holotype fossil of this species displays only one hundred and ten degrees of humeral torsion and concluded that it had a protracted scapula. This species, whose fossil record unusually stretches as recently as thirteen thousand years ago, likely primarily hunted a subspecies of Stegodon. Falk et al created endocast maps of this species that led them to reject the pelvis-smashing, femur-stealing Teuku Jacob's pathological explanation for its holotype fossil. Fossils of this species may represent sufferers of (*) Laron syndrome . Mirror-image reconstructions of the chinless face of the LB one fossil of this species reveal significant asymmetry, which combined with its short femora and possible microcephaly have led Bob Eckhardt to claim that it represents a developmentally abnormal Homo erectus rather than a new species that has undergone insular dwarfism. For 10 points, name this real-life \"hobbit\" discovered in 2003, a tiny hominin named for its home on an Indonesian island.": {
+    "guess": "Homo floresiensis",
+    "confidence": [
+      [
+        "H",
+        -0.009251874
+      ],
+      [
+        "omo",
+        -1.9816675e-06
+      ],
+      [
+        " flores",
+        -9.805982e-05
+      ],
+      [
+        "iens",
+        -1.9816675e-06
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "The largest concentration of these objects in the Milky Way forms a ring around the galactic center at": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7510301
+      ]
+    ]
+  },
+  "The largest concentration of these objects in the Milky Way forms a ring around the galactic center at a distance of 120 parsecs. These objects sometimes exhibit an hourglass magnetic field morphology,": {
+    "guess": "HII region",
+    "confidence": [
+      [
+        "H",
+        -0.6159839
+      ],
+      [
+        "II",
+        -0.22823055
+      ],
+      [
+        " region",
+        -0.025004646
+      ]
+    ]
+  },
+  "The largest concentration of these objects in the Milky Way forms a ring around the galactic center at a distance of 120 parsecs. These objects sometimes exhibit an hourglass magnetic field morphology, especially in their densest portions. The interior structures of these objects can be mapped by tracing": {
+    "guess": "Molecular cloud",
+    "confidence": [
+      [
+        "M",
+        -0.4845624
+      ],
+      [
+        "olecular",
+        -4.723352e-06
+      ],
+      [
+        " cloud",
+        -0.04308163
+      ]
+    ]
+  },
+  "The largest concentration of these objects in the Milky Way forms a ring around the galactic center at a distance of 120 parsecs. These objects sometimes exhibit an hourglass magnetic field morphology, especially in their densest portions. The interior structures of these objects can be mapped by tracing the NH3 and CO concentration around dense cores and cores respectively. The aforementioned ring": {
+    "guess": "Molecular cloud",
+    "confidence": [
+      [
+        "M",
+        -0.16357
+      ],
+      [
+        "olecular",
+        -1.0280384e-06
+      ],
+      [
+        " cloud",
+        -0.0041679144
+      ]
+    ]
+  },
+  "The largest concentration of these objects in the Milky Way forms a ring around the galactic center at a distance of 120 parsecs. These objects sometimes exhibit an hourglass magnetic field morphology, especially in their densest portions. The interior structures of these objects can be mapped by tracing the NH3 and CO concentration around dense cores and cores respectively. The aforementioned ring of these objects includes one known as Sagittarius B2, which provided the first known observational": {
+    "guess": "Molecular cloud",
+    "confidence": [
+      [
+        "M",
+        -0.05418353
+      ],
+      [
+        "olecular",
+        -3.6789137e-05
+      ],
+      [
+        " cloud",
+        -0.21736962
+      ]
+    ]
+  },
+  "The largest concentration of these objects in the Milky Way forms a ring around the galactic center at a distance of 120 parsecs. These objects sometimes exhibit an hourglass magnetic field morphology, especially in their densest portions. The interior structures of these objects can be mapped by tracing the NH3 and CO concentration around dense cores and cores respectively. The aforementioned ring of these objects includes one known as Sagittarius B2, which provided the first known observational signatures for more than half of all interstellar (*) compounds. These objects fragment as they collapse": {
+    "guess": "Molecular clouds",
+    "confidence": [
+      [
+        "M",
+        -0.04642329
+      ],
+      [
+        "olecular",
+        -1.3856493e-06
+      ],
+      [
+        " clouds",
+        -0.019641997
+      ]
+    ]
+  },
+  "The largest concentration of these objects in the Milky Way forms a ring around the galactic center at a distance of 120 parsecs. These objects sometimes exhibit an hourglass magnetic field morphology, especially in their densest portions. The interior structures of these objects can be mapped by tracing the NH3 and CO concentration around dense cores and cores respectively. The aforementioned ring of these objects includes one known as Sagittarius B2, which provided the first known observational signatures for more than half of all interstellar (*) compounds. These objects fragment as they collapse thanks to Jeans instability; when those remnants attain sufficiently high density that thermal": {
+    "guess": "Molecular clouds",
+    "confidence": [
+      [
+        "M",
+        -0.060757656
+      ],
+      [
+        "olecular",
+        -1.504853e-06
+      ],
+      [
+        " clouds",
+        -0.06506063
+      ]
+    ]
+  },
+  "The largest concentration of these objects in the Milky Way forms a ring around the galactic center at a distance of 120 parsecs. These objects sometimes exhibit an hourglass magnetic field morphology, especially in their densest portions. The interior structures of these objects can be mapped by tracing the NH3 and CO concentration around dense cores and cores respectively. The aforementioned ring of these objects includes one known as Sagittarius B2, which provided the first known observational signatures for more than half of all interstellar (*) compounds. These objects fragment as they collapse thanks to Jeans instability; when those remnants attain sufficiently high density that thermal energy does not immediately radiate away, they become protostars. For 10 points, name these masses": {
+    "guess": "Molecular cloud",
+    "confidence": [
+      [
+        "M",
+        -0.042035535
+      ],
+      [
+        "olecular",
+        -7.89631e-07
+      ],
+      [
+        " cloud",
+        -0.74632627
+      ]
+    ]
+  },
+  "The largest concentration of these objects in the Milky Way forms a ring around the galactic center at a distance of 120 parsecs. These objects sometimes exhibit an hourglass magnetic field morphology, especially in their densest portions. The interior structures of these objects can be mapped by tracing the NH3 and CO concentration around dense cores and cores respectively. The aforementioned ring of these objects includes one known as Sagittarius B2, which provided the first known observational signatures for more than half of all interstellar (*) compounds. These objects fragment as they collapse thanks to Jeans instability; when those remnants attain sufficiently high density that thermal energy does not immediately radiate away, they become protostars. For 10 points, name these masses largely comprised of diatomic neutral hydrogen where stars are formed.": {
+    "guess": "Molecular cloud",
+    "confidence": [
+      [
+        "M",
+        -0.01963346
+      ],
+      [
+        "olecular",
+        -3.1281633e-07
+      ],
+      [
+        " cloud",
+        -0.24166779
+      ]
+    ]
+  },
+  "A large public work by this man resembling a tree was designed to integrate with the beehive-inspired": {
+    "guess": "Santiago Calatrava",
+    "confidence": [
+      [
+        "S",
+        -1.3944653
+      ],
+      [
+        "antiago",
+        -0.06227598
+      ],
+      [
+        " Cal",
+        -1.9361265e-07
+      ],
+      [
+        "atr",
+        0.0
+      ],
+      [
+        "ava",
+        0.0
+      ]
+    ]
+  },
+  "A large public work by this man resembling a tree was designed to integrate with the beehive-inspired building called De Bijenkorf in Rotterdam. Later works by this man incorporate twine woven around structures": {
+    "guess": "Naum Gabo",
+    "confidence": [
+      [
+        "Na",
+        -0.10368672
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " G",
+        -1.9361265e-07
+      ],
+      [
+        "abo",
+        0.0
+      ]
+    ]
+  },
+  "A large public work by this man resembling a tree was designed to integrate with the beehive-inspired building called De Bijenkorf in Rotterdam. Later works by this man incorporate twine woven around structures to effect a curved appearance, a technique he called \"stringing.\" A chemist friend of this": {
+    "guess": "Naum Gabo",
+    "confidence": [
+      [
+        "Na",
+        -0.0054362896
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " G",
+        0.0
+      ],
+      [
+        "abo",
+        0.0
+      ]
+    ]
+  },
+  "A large public work by this man resembling a tree was designed to integrate with the beehive-inspired building called De Bijenkorf in Rotterdam. Later works by this man incorporate twine woven around structures to effect a curved appearance, a technique he called \"stringing.\" A chemist friend of this man named John Sisson introduced him to perspex, which he used in many later works with a Spheric theme.": {
+    "guess": "Naum Gabo",
+    "confidence": [
+      [
+        "Na",
+        -0.009870475
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " G",
+        -4.4849444e-06
+      ],
+      [
+        "abo",
+        0.0
+      ]
+    ]
+  },
+  "A large public work by this man resembling a tree was designed to integrate with the beehive-inspired building called De Bijenkorf in Rotterdam. Later works by this man incorporate twine woven around structures to effect a curved appearance, a technique he called \"stringing.\" A chemist friend of this man named John Sisson introduced him to perspex, which he used in many later works with a Spheric theme. He edited an art review with Leslie Martin and Ben Nicholson titled Circle, and he co-wrote a": {
+    "guess": "Naum Gabo",
+    "confidence": [
+      [
+        "Na",
+        -0.007739482
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " G",
+        -1.9361265e-07
+      ],
+      [
+        "abo",
+        0.0
+      ]
+    ]
+  },
+  "A large public work by this man resembling a tree was designed to integrate with the beehive-inspired building called De Bijenkorf in Rotterdam. Later works by this man incorporate twine woven around structures to effect a curved appearance, a technique he called \"stringing.\" A chemist friend of this man named John Sisson introduced him to perspex, which he used in many later works with a Spheric theme. He edited an art review with Leslie Martin and Ben Nicholson titled Circle, and he co-wrote a manifesto that affirmed depth as \"the pictoral and plastic form of space\" and the line as \"a direction": {
+    "guess": "Naum Gabo",
+    "confidence": [
+      [
+        "Na",
+        -0.012574164
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " G",
+        -1.9361265e-07
+      ],
+      [
+        "abo",
+        0.0
+      ]
+    ]
+  },
+  "A large public work by this man resembling a tree was designed to integrate with the beehive-inspired building called De Bijenkorf in Rotterdam. Later works by this man incorporate twine woven around structures to effect a curved appearance, a technique he called \"stringing.\" A chemist friend of this man named John Sisson introduced him to perspex, which he used in many later works with a Spheric theme. He edited an art review with Leslie Martin and Ben Nicholson titled Circle, and he co-wrote a manifesto that affirmed depth as \"the pictoral and plastic form of space\" and the line as \"a direction of static forces.\" This man incorporated 1,500 jets of water into the design for a fountain that": {
+    "guess": "Naum Gabo",
+    "confidence": [
+      [
+        "Na",
+        -0.0043953406
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " G",
+        0.0
+      ],
+      [
+        "abo",
+        0.0
+      ]
+    ]
+  },
+  "A large public work by this man resembling a tree was designed to integrate with the beehive-inspired building called De Bijenkorf in Rotterdam. Later works by this man incorporate twine woven around structures to effect a curved appearance, a technique he called \"stringing.\" A chemist friend of this man named John Sisson introduced him to perspex, which he used in many later works with a Spheric theme. He edited an art review with Leslie Martin and Ben Nicholson titled Circle, and he co-wrote a manifesto that affirmed depth as \"the pictoral and plastic form of space\" and the line as \"a direction of static forces.\" This man incorporated 1,500 jets of water into the design for a fountain that sits at the grounds of the St. Thomas Hospital in London. He emphasized the dissociation of mass from": {
+    "guess": "Naum Gabo",
+    "confidence": [
+      [
+        "Na",
+        -0.0073904525
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " G",
+        0.0
+      ],
+      [
+        "abo",
+        0.0
+      ]
+    ]
+  },
+  "A large public work by this man resembling a tree was designed to integrate with the beehive-inspired building called De Bijenkorf in Rotterdam. Later works by this man incorporate twine woven around structures to effect a curved appearance, a technique he called \"stringing.\" A chemist friend of this man named John Sisson introduced him to perspex, which he used in many later works with a Spheric theme. He edited an art review with Leslie Martin and Ben Nicholson titled Circle, and he co-wrote a manifesto that affirmed depth as \"the pictoral and plastic form of space\" and the line as \"a direction of static forces.\" This man incorporated 1,500 jets of water into the design for a fountain that sits at the grounds of the St. Thomas Hospital in London. He emphasized the dissociation of mass from space in a principle he called stereometry, and sculpted Constructed Head No. 2 the kinetic Revolving": {
+    "guess": "Naum Gabo",
+    "confidence": [
+      [
+        "Na",
+        -0.0054972223
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " G",
+        0.0
+      ],
+      [
+        "abo",
+        0.0
+      ]
+    ]
+  },
+  "A large public work by this man resembling a tree was designed to integrate with the beehive-inspired building called De Bijenkorf in Rotterdam. Later works by this man incorporate twine woven around structures to effect a curved appearance, a technique he called \"stringing.\" A chemist friend of this man named John Sisson introduced him to perspex, which he used in many later works with a Spheric theme. He edited an art review with Leslie Martin and Ben Nicholson titled Circle, and he co-wrote a manifesto that affirmed depth as \"the pictoral and plastic form of space\" and the line as \"a direction of static forces.\" This man incorporated 1,500 jets of water into the design for a fountain that sits at the grounds of the St. Thomas Hospital in London. He emphasized the dissociation of mass from space in a principle he called stereometry, and sculpted Constructed Head No. 2 the kinetic Revolving Torsion: Fountain. With his brother Antoine, he laid down the tenets of a movement associated with": {
+    "guess": "Naum Gabo",
+    "confidence": [
+      [
+        "Na",
+        -0.012849239
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " G",
+        0.0
+      ],
+      [
+        "abo",
+        0.0
+      ]
+    ]
+  },
+  "A large public work by this man resembling a tree was designed to integrate with the beehive-inspired building called De Bijenkorf in Rotterdam. Later works by this man incorporate twine woven around structures to effect a curved appearance, a technique he called \"stringing.\" A chemist friend of this man named John Sisson introduced him to perspex, which he used in many later works with a Spheric theme. He edited an art review with Leslie Martin and Ben Nicholson titled Circle, and he co-wrote a manifesto that affirmed depth as \"the pictoral and plastic form of space\" and the line as \"a direction of static forces.\" This man incorporated 1,500 jets of water into the design for a fountain that sits at the grounds of the St. Thomas Hospital in London. He emphasized the dissociation of mass from space in a principle he called stereometry, and sculpted Constructed Head No. 2 the kinetic Revolving Torsion: Fountain. With his brother Antoine, he laid down the tenets of a movement associated with Rodchenko and Tatlin. For 10 points, name this co-author of the Realistic Manifesto, a founding member": {
+    "guess": "Naum Gabo",
+    "confidence": [
+      [
+        "Na",
+        -0.012781677
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " G",
+        0.0
+      ],
+      [
+        "abo",
+        0.0
+      ]
+    ]
+  },
+  "A large public work by this man resembling a tree was designed to integrate with the beehive-inspired building called De Bijenkorf in Rotterdam. Later works by this man incorporate twine woven around structures to effect a curved appearance, a technique he called \"stringing.\" A chemist friend of this man named John Sisson introduced him to perspex, which he used in many later works with a Spheric theme. He edited an art review with Leslie Martin and Ben Nicholson titled Circle, and he co-wrote a manifesto that affirmed depth as \"the pictoral and plastic form of space\" and the line as \"a direction of static forces.\" This man incorporated 1,500 jets of water into the design for a fountain that sits at the grounds of the St. Thomas Hospital in London. He emphasized the dissociation of mass from space in a principle he called stereometry, and sculpted Constructed Head No. 2 the kinetic Revolving Torsion: Fountain. With his brother Antoine, he laid down the tenets of a movement associated with Rodchenko and Tatlin. For 10 points, name this co-author of the Realistic Manifesto, a founding member of Constructivism.": {
+    "guess": "Naum Gabo",
+    "confidence": [
+      [
+        "Na",
+        -0.0057817167
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " G",
+        0.0
+      ],
+      [
+        "abo",
+        0.0
+      ]
+    ]
+  },
+  "One of the largest Roman example of these constructions was built by Nero at Subiaco, while Shapur I": {
+    "guess": "Roman aqueducts",
+    "confidence": [
+      [
+        "Roman",
+        -0.3241419
+      ],
+      [
+        " aqu",
+        -0.038356565
+      ],
+      [
+        "educt",
+        -2.220075e-06
+      ],
+      [
+        "s",
+        -0.01460661
+      ]
+    ]
+  },
+  "One of the largest Roman example of these constructions was built by Nero at Subiaco, while Shapur I used  Roman prisoners of wars to construct one of these called the Band-i-Kaisar. Depending on who you": {
+    "guess": "Aqueduct",
+    "confidence": [
+      [
+        "Aqu",
+        -0.01189763
+      ],
+      [
+        "educt",
+        0.0
+      ]
+    ]
+  },
+  "One of the largest Roman example of these constructions was built by Nero at Subiaco, while Shapur I used  Roman prisoners of wars to construct one of these called the Band-i-Kaisar. Depending on who you ask, the  oldest known one of these is either located at Jawa in Jordan or at Sadd el- Kafara. John": {
+    "guess": "Aqueduct",
+    "confidence": [
+      [
+        "Aqu",
+        -0.0510468
+      ],
+      [
+        "educt",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One of the largest Roman example of these constructions was built by Nero at Subiaco, while Shapur I used  Roman prisoners of wars to construct one of these called the Band-i-Kaisar. Depending on who you ask, the  oldest known one of these is either located at Jawa in Jordan or at Sadd el- Kafara. John Frederick LaTrobe  Bateman used these objects to regulate a series of five related constructs as": {
+    "guess": "Aqueduct",
+    "confidence": [
+      [
+        "Aqu",
+        -0.6536303
+      ],
+      [
+        "educt",
+        0.0
+      ]
+    ]
+  },
+  "One of the largest Roman example of these constructions was built by Nero at Subiaco, while Shapur I used  Roman prisoners of wars to construct one of these called the Band-i-Kaisar. Depending on who you ask, the  oldest known one of these is either located at Jawa in Jordan or at Sadd el- Kafara. John Frederick LaTrobe  Bateman used these objects to regulate a series of five related constructs as a part of his Longdendale project.  They are not buildings, but they can be reinforced by buttresses": {
+    "guess": "Dams",
+    "confidence": [
+      [
+        "D",
+        -0.3955539
+      ],
+      [
+        "ams",
+        -9.829823e-05
+      ]
+    ]
+  },
+  "One of the largest Roman example of these constructions was built by Nero at Subiaco, while Shapur I used  Roman prisoners of wars to construct one of these called the Band-i-Kaisar. Depending on who you ask, the  oldest known one of these is either located at Jawa in Jordan or at Sadd el- Kafara. John Frederick LaTrobe  Bateman used these objects to regulate a series of five related constructs as a part of his Longdendale project.  They are not buildings, but they can be reinforced by buttresses and less material is generally required to form  the curved arch type. A temporary type used to construct": {
+    "guess": "Dam",
+    "confidence": [
+      [
+        "Dam",
+        -0.03161627
+      ]
+    ]
+  },
+  "One of the largest Roman example of these constructions was built by Nero at Subiaco, while Shapur I used  Roman prisoners of wars to construct one of these called the Band-i-Kaisar. Depending on who you ask, the  oldest known one of these is either located at Jawa in Jordan or at Sadd el- Kafara. John Frederick LaTrobe  Bateman used these objects to regulate a series of five related constructs as a part of his Longdendale project.  They are not buildings, but they can be reinforced by buttresses and less material is generally required to form  the curved arch type. A temporary type used to construct other structures is a coffer. Large amounts of concrete is  need for the construction of the": {
+    "guess": "Dam",
+    "confidence": [
+      [
+        "Dam",
+        -0.024903372
+      ]
+    ]
+  },
+  "One of the largest Roman example of these constructions was built by Nero at Subiaco, while Shapur I used  Roman prisoners of wars to construct one of these called the Band-i-Kaisar. Depending on who you ask, the  oldest known one of these is either located at Jawa in Jordan or at Sadd el- Kafara. John Frederick LaTrobe  Bateman used these objects to regulate a series of five related constructs as a part of his Longdendale project.  They are not buildings, but they can be reinforced by buttresses and less material is generally required to form  the curved arch type. A temporary type used to construct other structures is a coffer. Large amounts of concrete is  need for the construction of the gravity type of these devices used in flood control. For 10 points, name these  constructions, one of": {
+    "guess": "Dam",
+    "confidence": [
+      [
+        "Dam",
+        -0.0066388715
+      ]
+    ]
+  },
+  "One of the largest Roman example of these constructions was built by Nero at Subiaco, while Shapur I used  Roman prisoners of wars to construct one of these called the Band-i-Kaisar. Depending on who you ask, the  oldest known one of these is either located at Jawa in Jordan or at Sadd el- Kafara. John Frederick LaTrobe  Bateman used these objects to regulate a series of five related constructs as a part of his Longdendale project.  They are not buildings, but they can be reinforced by buttresses and less material is generally required to form  the curved arch type. A temporary type used to construct other structures is a coffer. Large amounts of concrete is  need for the construction of the gravity type of these devices used in flood control. For 10 points, name these  constructions, one of which on the Colorado River is named for Herbert Hoover.": {
+    "guess": "Dam",
+    "confidence": [
+      [
+        "Dam",
+        -0.0004487845
+      ]
+    ]
+  },
+  "At large values, this function can be approximated with the Lanczos approximation, an alternative for": {
+    "guess": "Gamma function",
+    "confidence": [
+      [
+        "Gamma",
+        -0.02939113
+      ],
+      [
+        " function",
+        -0.00026193185
+      ]
+    ]
+  },
+  "At large values, this function can be approximated with the Lanczos approximation, an alternative for the Stirling approximation. This function, equal to the square root of pi at one half*, is defined": {
+    "guess": "Gamma function",
+    "confidence": [
+      [
+        "Gamma",
+        -0.00019471932
+      ],
+      [
+        " function",
+        -0.000181849
+      ]
+    ]
+  },
+  "At large values, this function can be approximated with the Lanczos approximation, an alternative for the Stirling approximation. This function, equal to the square root of pi at one half*, is defined as the integral from zero to infinity of t to the power of z minus one times e to the negative t. This": {
+    "guess": "Gamma function",
+    "confidence": [
+      [
+        "Gamma",
+        -0.00018685187
+      ],
+      [
+        " function",
+        -0.00012415809
+      ]
+    ]
+  },
+  "At large values, this function can be approximated with the Lanczos approximation, an alternative for the Stirling approximation. This function, equal to the square root of pi at one half*, is defined as the integral from zero to infinity of t to the power of z minus one times e to the negative t. This function is not defined for non-positive integers and is noted for the fact that this function's": {
+    "guess": "Gamma function",
+    "confidence": [
+      [
+        "Gamma",
+        -0.00015205175
+      ],
+      [
+        " function",
+        -0.00045974395
+      ]
+    ]
+  },
+  "At large values, this function can be approximated with the Lanczos approximation, an alternative for the Stirling approximation. This function, equal to the square root of pi at one half*, is defined as the integral from zero to infinity of t to the power of z minus one times e to the negative t. This function is not defined for non-positive integers and is noted for the fact that this function's value at z plus one is equal to z times this functions value at z, allowing it to be defined recursively.": {
+    "guess": "Gamma function",
+    "confidence": [
+      [
+        "Gamma",
+        -1.9504607e-05
+      ],
+      [
+        " function",
+        -0.00016361084
+      ]
+    ]
+  },
+  "At large values, this function can be approximated with the Lanczos approximation, an alternative for the Stirling approximation. This function, equal to the square root of pi at one half*, is defined as the integral from zero to infinity of t to the power of z minus one times e to the negative t. This function is not defined for non-positive integers and is noted for the fact that this function's value at z plus one is equal to z times this functions value at z, allowing it to be defined recursively. For 10 points, name this function that provides an extension of the factorial function.": {
+    "guess": "Gamma function",
+    "confidence": [
+      [
+        "Gamma",
+        -4.4849444e-06
+      ],
+      [
+        " function",
+        -0.0021986675
+      ]
+    ]
+  },
+  "One of them was largest city in and leader of the Boeotian confederacy that sided with the Persians during": {
+    "guess": "Thebes, Greece",
+    "confidence": [
+      [
+        "The",
+        -3.9530823e-05
+      ],
+      [
+        "bes",
+        -0.00013131031
+      ],
+      [
+        ",",
+        -0.6046077
+      ],
+      [
+        " Greece",
+        -6.6306106e-06
+      ]
+    ]
+  },
+  "One of them was largest city in and leader of the Boeotian confederacy that sided with the Persians during the 480 BCE invasion led by Xerxes. The other one was known as \"The City of Amin\" (*) during the": {
+    "guess": "Thebes",
+    "confidence": [
+      [
+        "The",
+        -0.0044120788
+      ],
+      [
+        "bes",
+        -0.00027134892
+      ]
+    ]
+  },
+  "One of them was largest city in and leader of the Boeotian confederacy that sided with the Persians during the 480 BCE invasion led by Xerxes. The other one was known as \"The City of Amin\" (*) during the New Kingdom, and its East Bank was the site of the Karnak and Luxor Temples. FTP, identify the name": {
+    "guess": "Thebes",
+    "confidence": [
+      [
+        "The",
+        -0.0028548052
+      ],
+      [
+        "bes",
+        -0.00027957035
+      ]
+    ]
+  },
+  "One of them was largest city in and leader of the Boeotian confederacy that sided with the Persians during the 480 BCE invasion led by Xerxes. The other one was known as \"The City of Amin\" (*) during the New Kingdom, and its East Bank was the site of the Karnak and Luxor Temples. FTP, identify the name shared by these two ancient cities, one the location of the Valley of the Kings, the other the mythical": {
+    "guess": "Thebes",
+    "confidence": [
+      [
+        "The",
+        -0.0048629916
+      ],
+      [
+        "bes",
+        -0.0004366294
+      ]
+    ]
+  },
+  "One of them was largest city in and leader of the Boeotian confederacy that sided with the Persians during the 480 BCE invasion led by Xerxes. The other one was known as \"The City of Amin\" (*) during the New Kingdom, and its East Bank was the site of the Karnak and Luxor Temples. FTP, identify the name shared by these two ancient cities, one the location of the Valley of the Kings, the other the mythical home of Oedipus and namesake of a Seven Against conflict.": {
+    "guess": "Thebes",
+    "confidence": [
+      [
+        "The",
+        -0.0008909752
+      ],
+      [
+        "bes",
+        -5.0974373e-05
+      ]
+    ]
+  },
+  "The largest split since its founding was a claim to the title of Guardian of the Faith by Charles Mason": {
+    "guess": "Bah\u00e1'\u00ed Faith",
+    "confidence": [
+      [
+        "Bah",
+        -0.27068895
+      ],
+      [
+        "\u00e1",
+        -1.3856493e-06
+      ],
+      [
+        "'",
+        -1.3544423e-05
+      ],
+      [
+        "\u00ed",
+        -1.8624639e-06
+      ],
+      [
+        " Faith",
+        -0.016943352
+      ]
+    ]
+  },
+  "The largest split since its founding was a claim to the title of Guardian of the Faith by Charles Mason Remey. Several thousand split off and now refer to themselves as the Orthodox, but they were declared": {
+    "guess": "Bah\u00e1'\u00ed Faith",
+    "confidence": [
+      [
+        "Bah",
+        -0.011506829
+      ],
+      [
+        "\u00e1",
+        -3.5313153e-06
+      ],
+      [
+        "'",
+        -0.07891535
+      ],
+      [
+        "\u00ed",
+        -8.542423e-05
+      ],
+      [
+        " Faith",
+        -0.000614386
+      ]
+    ]
+  },
+  "The largest split since its founding was a claim to the title of Guardian of the Faith by Charles Mason Remey. Several thousand split off and now refer to themselves as the Orthodox, but they were declared Covenant-Breakers by the Hands of the Cause of God. Their Lotus Temple in Delhi, the Asian center": {
+    "guess": "Bah\u00e1'\u00ed Faith",
+    "confidence": [
+      [
+        "Bah",
+        -0.14035462
+      ],
+      [
+        "\u00e1",
+        -1.0280384e-06
+      ],
+      [
+        "'",
+        -4.0961266e-05
+      ],
+      [
+        "\u00ed",
+        -6.704273e-07
+      ],
+      [
+        " Faith",
+        -0.0018001272
+      ]
+    ]
+  },
+  "The largest split since its founding was a claim to the title of Guardian of the Faith by Charles Mason Remey. Several thousand split off and now refer to themselves as the Orthodox, but they were declared Covenant-Breakers by the Hands of the Cause of God. Their Lotus Temple in Delhi, the Asian center of worship for this widespread religion, was completed in 1986, but it is less well known by Americans": {
+    "guess": "Bah\u00e1'\u00ed Faith",
+    "confidence": [
+      [
+        "Bah",
+        -0.013330464
+      ],
+      [
+        "\u00e1",
+        -3.1281633e-07
+      ],
+      [
+        "'",
+        -4.00813e-06
+      ],
+      [
+        "\u00ed",
+        -6.704273e-07
+      ],
+      [
+        " Faith",
+        -3.368984e-05
+      ]
+    ]
+  },
+  "The largest split since its founding was a claim to the title of Guardian of the Faith by Charles Mason Remey. Several thousand split off and now refer to themselves as the Orthodox, but they were declared Covenant-Breakers by the Hands of the Cause of God. Their Lotus Temple in Delhi, the Asian center of worship for this widespread religion, was completed in 1986, but it is less well known by Americans than the Wilmette, Illinois temple, referred to as the Mother Temple in the West. For 10 points,": {
+    "guess": "Bah\u00e1'\u00ed Faith",
+    "confidence": [
+      [
+        "Bah",
+        -0.089719914
+      ],
+      [
+        "\u00e1",
+        -1.504853e-06
+      ],
+      [
+        "'",
+        -1.0445127e-05
+      ],
+      [
+        "\u00ed",
+        -1.6240566e-06
+      ],
+      [
+        " Faith",
+        -5.4312077e-05
+      ]
+    ]
+  },
+  "The largest split since its founding was a claim to the title of Guardian of the Faith by Charles Mason Remey. Several thousand split off and now refer to themselves as the Orthodox, but they were declared Covenant-Breakers by the Hands of the Cause of God. Their Lotus Temple in Delhi, the Asian center of worship for this widespread religion, was completed in 1986, but it is less well known by Americans than the Wilmette, Illinois temple, referred to as the Mother Temple in the West. For 10 points, what is this religion founded by Mirz\u00e1 Husayn-\u2018Al\u00ed, better known by his title of Bah\u00e1'u'll\u00e1h.": {
+    "guess": "Bah\u00e1'\u00ed Faith",
+    "confidence": [
+      [
+        "Bah",
+        -0.018521087
+      ],
+      [
+        "\u00e1",
+        0.0
+      ],
+      [
+        "'",
+        -0.5779695
+      ],
+      [
+        "\u00ed",
+        -1.9361265e-07
+      ],
+      [
+        " Faith",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The largest convention center in the U.S. is located in this city, and the Canal Street railroad bridge": {
+    "guess": "Chicago",
+    "confidence": [
+      [
+        "Chicago",
+        -0.51429117
+      ]
+    ]
+  },
+  "The largest convention center in the U.S. is located in this city, and the Canal Street railroad bridge lies on its namesake river. That river's branches converge to form the Main Stem at Wolf Point, and": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.2740844
+      ]
+    ]
+  },
+  "The largest convention center in the U.S. is located in this city, and the Canal Street railroad bridge lies on its namesake river. That river's branches converge to form the Main Stem at Wolf Point, and the tomb of Stephen Douglas is located in this city. The neighborhood of Streeterville contains its": {
+    "guess": "Chicago, Illinois",
+    "confidence": [
+      [
+        "Chicago",
+        -0.47909203
+      ],
+      [
+        ",",
+        -0.54763097
+      ],
+      [
+        " Illinois",
+        -0.012457378
+      ]
+    ]
+  },
+  "The largest convention center in the U.S. is located in this city, and the Canal Street railroad bridge lies on its namesake river. That river's branches converge to form the Main Stem at Wolf Point, and the tomb of Stephen Douglas is located in this city. The neighborhood of Streeterville contains its Navy Pier, and the Lake Point Tower is located east of its Lake Shore Drive. Its Orange Line connects": {
+    "guess": "Chicago",
+    "confidence": [
+      [
+        "Chicago",
+        -0.014035039
+      ]
+    ]
+  },
+  "The largest convention center in the U.S. is located in this city, and the Canal Street railroad bridge lies on its namesake river. That river's branches converge to form the Main Stem at Wolf Point, and the tomb of Stephen Douglas is located in this city. The neighborhood of Streeterville contains its Navy Pier, and the Lake Point Tower is located east of its Lake Shore Drive. Its Orange Line connects Midway Airport with \"the Loop,\" and it holds the tallest building in the U.S. For 10 points, name": {
+    "guess": "Chicago",
+    "confidence": [
+      [
+        "Chicago",
+        -0.005258899
+      ]
+    ]
+  },
+  "The largest convention center in the U.S. is located in this city, and the Canal Street railroad bridge lies on its namesake river. That river's branches converge to form the Main Stem at Wolf Point, and the tomb of Stephen Douglas is located in this city. The neighborhood of Streeterville contains its Navy Pier, and the Lake Point Tower is located east of its Lake Shore Drive. Its Orange Line connects Midway Airport with \"the Loop,\" and it holds the tallest building in the U.S. For 10 points, name this home of the Willis Tower, the largest city in Illinois.": {
+    "guess": "Chicago",
+    "confidence": [
+      [
+        "Chicago",
+        -0.0025434399
+      ]
+    ]
+  },
+  "The largest of this work's three pieces has a diameter of 9 3/8 inches. An anecdote tells how its construction": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.953761
+      ],
+      [
+        ".",
+        -0.47409207
+      ]
+    ]
+  },
+  "The largest of this work's three pieces has a diameter of 9 3/8 inches. An anecdote tells how its construction was the response to a comment made by Pablo Picasso during a tea date, when the artist showed": {
+    "guess": "Fountain (Duchamp)",
+    "confidence": [
+      [
+        "F",
+        -0.48079538
+      ],
+      [
+        "ountain",
+        -2.3392786e-06
+      ],
+      [
+        " (",
+        -0.039504416
+      ],
+      [
+        "D",
+        -8.017927e-05
+      ],
+      [
+        "uch",
+        0.0
+      ],
+      [
+        "amp",
+        0.0
+      ],
+      [
+        ")",
+        -0.002143478
+      ]
+    ]
+  },
+  "The largest of this work's three pieces has a diameter of 9 3/8 inches. An anecdote tells how its construction was the response to a comment made by Pablo Picasso during a tea date, when the artist showed him a copper bracelet that had been lined with sealskin. A standout piece at the Museum of Modern": {
+    "guess": "The answer is: Lobster Trap and Fish Tail",
+    "confidence": [
+      [
+        "The",
+        -0.8248865
+      ],
+      [
+        " answer",
+        -0.9005226
+      ],
+      [
+        " is",
+        -0.004612288
+      ],
+      [
+        ":",
+        -0.018838868
+      ],
+      [
+        " Lob",
+        -0.2129932
+      ],
+      [
+        "ster",
+        -0.0005642342
+      ],
+      [
+        " Trap",
+        -0.0042011556
+      ],
+      [
+        " and",
+        -9.610702e-06
+      ],
+      [
+        " Fish",
+        -1.9027791e-05
+      ],
+      [
+        " Tail",
+        -0.00017398155
+      ]
+    ]
+  },
+  "The largest of this work's three pieces has a diameter of 9 3/8 inches. An anecdote tells how its construction was the response to a comment made by Pablo Picasso during a tea date, when the artist showed him a copper bracelet that had been lined with sealskin. A standout piece at the Museum of Modern Art's 1937 Surrealist Exhibition, this work is often critically acclaimed for the contrast between": {
+    "guess": "Lobster Telephone",
+    "confidence": [
+      [
+        "L",
+        -0.4329495
+      ],
+      [
+        "ob",
+        -0.13019983
+      ],
+      [
+        "ster",
+        -9.253091e-06
+      ],
+      [
+        " Telephone",
+        -0.6344148
+      ]
+    ]
+  },
+  "The largest of this work's three pieces has a diameter of 9 3/8 inches. An anecdote tells how its construction was the response to a comment made by Pablo Picasso during a tea date, when the artist showed him a copper bracelet that had been lined with sealskin. A standout piece at the Museum of Modern Art's 1937 Surrealist Exhibition, this work is often critically acclaimed for the contrast between the both opulent and grossly unappetizing appearance the artist added to a trio of common dining objects": {
+    "guess": "Object (Le D\u00e9jeuner en fourrure)",
+    "confidence": [
+      [
+        "Object",
+        -0.3472445
+      ],
+      [
+        " (",
+        -0.018819446
+      ],
+      [
+        "Le",
+        -0.042794086
+      ],
+      [
+        " D\u00e9",
+        -0.00026121663
+      ],
+      [
+        "jeuner",
+        -0.00021164624
+      ],
+      [
+        " en",
+        -2.6968896e-06
+      ],
+      [
+        " four",
+        -0.0008241569
+      ],
+      [
+        "r",
+        0.0
+      ],
+      [
+        "ure",
+        0.0
+      ],
+      [
+        ")",
+        -2.0219828e-05
+      ]
+    ]
+  },
+  "The largest of this work's three pieces has a diameter of 9 3/8 inches. An anecdote tells how its construction was the response to a comment made by Pablo Picasso during a tea date, when the artist showed him a copper bracelet that had been lined with sealskin. A standout piece at the Museum of Modern Art's 1937 Surrealist Exhibition, this work is often critically acclaimed for the contrast between the both opulent and grossly unappetizing appearance the artist added to a trio of common dining objects through her use of a fuzzy lining on the pieces of this arrangement. FTP, name this Meret Oppenheim": {
+    "guess": "Object (Le D\u00e9jeuner en fourrure)",
+    "confidence": [
+      [
+        "Object",
+        -0.056437522
+      ],
+      [
+        " (",
+        -0.2958446
+      ],
+      [
+        "Le",
+        -0.2506283
+      ],
+      [
+        " D\u00e9",
+        -0.00018375258
+      ],
+      [
+        "jeuner",
+        -0.00017720005
+      ],
+      [
+        " en",
+        -1.9361265e-07
+      ],
+      [
+        " four",
+        -0.00043150366
+      ],
+      [
+        "r",
+        0.0
+      ],
+      [
+        "ure",
+        0.0
+      ],
+      [
+        ")",
+        -6.4444386e-05
+      ]
+    ]
+  },
+  "The largest of this work's three pieces has a diameter of 9 3/8 inches. An anecdote tells how its construction was the response to a comment made by Pablo Picasso during a tea date, when the artist showed him a copper bracelet that had been lined with sealskin. A standout piece at the Museum of Modern Art's 1937 Surrealist Exhibition, this work is often critically acclaimed for the contrast between the both opulent and grossly unappetizing appearance the artist added to a trio of common dining objects through her use of a fuzzy lining on the pieces of this arrangement. FTP, name this Meret Oppenheim creation consisting of a plate, spoon, and tea cup, all covered in hair.": {
+    "guess": "Object (Le D\u00e9jeuner en fourrure)",
+    "confidence": [
+      [
+        "Object",
+        -0.053445537
+      ],
+      [
+        " (",
+        -0.10070154
+      ],
+      [
+        "Le",
+        -0.13091008
+      ],
+      [
+        " D\u00e9",
+        -0.00018327577
+      ],
+      [
+        "jeuner",
+        -0.00011749002
+      ],
+      [
+        " en",
+        -1.9361265e-07
+      ],
+      [
+        " four",
+        -0.0004896457
+      ],
+      [
+        "r",
+        0.0
+      ],
+      [
+        "ure",
+        0.0
+      ],
+      [
+        ")",
+        -6.1537958e-06
+      ]
+    ]
+  },
+  "The largest phylum found only in sea water, members of this phylum are distinguished by their water vascular": {
+    "guess": "Echinodermata",
+    "confidence": [
+      [
+        "E",
+        -3.6789137e-05
+      ],
+      [
+        "chin",
+        0.0
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "erm",
+        -5.5122365e-07
+      ],
+      [
+        "ata",
+        -0.47573668
+      ]
+    ]
+  },
+  "The largest phylum found only in sea water, members of this phylum are distinguished by their water vascular system used for locomotion and feeding. They are deuterostomes like their closest relatives,": {
+    "guess": "Echinodermata",
+    "confidence": [
+      [
+        "E",
+        -0.0010911622
+      ],
+      [
+        "chin",
+        0.0
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "erm",
+        -1.504853e-06
+      ],
+      [
+        "ata",
+        -0.25529444
+      ]
+    ]
+  },
+  "The largest phylum found only in sea water, members of this phylum are distinguished by their water vascular system used for locomotion and feeding. They are deuterostomes like their closest relatives, the Chordata, but possess only secondary bilateral symmetry, as their primary symmetry is radial and": {
+    "guess": "Echinodermata",
+    "confidence": [
+      [
+        "E",
+        -0.0008894256
+      ],
+      [
+        "chin",
+        0.0
+      ],
+      [
+        "od",
+        -1.9361265e-07
+      ],
+      [
+        "erm",
+        -1.0206721e-05
+      ],
+      [
+        "ata",
+        -0.33283943
+      ]
+    ]
+  },
+  "The largest phylum found only in sea water, members of this phylum are distinguished by their water vascular system used for locomotion and feeding. They are deuterostomes like their closest relatives, the Chordata, but possess only secondary bilateral symmetry, as their primary symmetry is radial and usually fivefold. For ten points, what is this phylum, consisting of classes such as sea cucumbers,": {
+    "guess": "Echinodermata",
+    "confidence": [
+      [
+        "E",
+        -0.0004040978
+      ],
+      [
+        "chin",
+        0.0
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "erm",
+        -4.8425554e-06
+      ],
+      [
+        "ata",
+        -0.015549295
+      ]
+    ]
+  },
+  "The largest phylum found only in sea water, members of this phylum are distinguished by their water vascular system used for locomotion and feeding. They are deuterostomes like their closest relatives, the Chordata, but possess only secondary bilateral symmetry, as their primary symmetry is radial and usually fivefold. For ten points, what is this phylum, consisting of classes such as sea cucumbers, starfish, and sea urchins?": {
+    "guess": "Echinodermata",
+    "confidence": [
+      [
+        "E",
+        -4.8709502e-05
+      ],
+      [
+        "chin",
+        0.0
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "erm",
+        -1.0280384e-06
+      ],
+      [
+        "ata",
+        -0.12965402
+      ]
+    ]
+  },
+  "Large amounts of this compound are used for the synthesis of barbiturates, as they react with malonic": {
+    "guess": "Urea",
+    "confidence": [
+      [
+        "U",
+        -0.1844038
+      ],
+      [
+        "rea",
+        -4.723352e-06
+      ]
+    ]
+  },
+  "Large amounts of this compound are used for the synthesis of barbiturates, as they react with malonic esters to give barbituric acids. First isolated by Hilaire-Marin Rouelle in 1773, it is used with formaldehyde": {
+    "guess": "Urea",
+    "confidence": [
+      [
+        "U",
+        -0.0029163805
+      ],
+      [
+        "rea",
+        0.0
+      ]
+    ]
+  },
+  "Large amounts of this compound are used for the synthesis of barbiturates, as they react with malonic esters to give barbituric acids. First isolated by Hilaire-Marin Rouelle in 1773, it is used with formaldehyde to make resins and extremely effective fertilizers. Having formula H2 NCO NH2, it was prepared": {
+    "guess": "Urea",
+    "confidence": [
+      [
+        "U",
+        -0.0013574945
+      ],
+      [
+        "rea",
+        0.0
+      ]
+    ]
+  },
+  "Large amounts of this compound are used for the synthesis of barbiturates, as they react with malonic esters to give barbituric acids. First isolated by Hilaire-Marin Rouelle in 1773, it is used with formaldehyde to make resins and extremely effective fertilizers. Having formula H2 NCO NH2, it was prepared from ammonium cyanate in 1828 by Friedrich Wohler, the first laboratory synthesis of a naturally": {
+    "guess": "Urea",
+    "confidence": [
+      [
+        "U",
+        -0.0010450744
+      ],
+      [
+        "rea",
+        0.0
+      ]
+    ]
+  },
+  "Large amounts of this compound are used for the synthesis of barbiturates, as they react with malonic esters to give barbituric acids. First isolated by Hilaire-Marin Rouelle in 1773, it is used with formaldehyde to make resins and extremely effective fertilizers. Having formula H2 NCO NH2, it was prepared from ammonium cyanate in 1828 by Friedrich Wohler, the first laboratory synthesis of a naturally occurring organic compound. FTP, what is this compound, the chief nitrogenous end product of the": {
+    "guess": "Urea",
+    "confidence": [
+      [
+        "U",
+        -0.0025636493
+      ],
+      [
+        "rea",
+        0.0
+      ]
+    ]
+  },
+  "Large amounts of this compound are used for the synthesis of barbiturates, as they react with malonic esters to give barbituric acids. First isolated by Hilaire-Marin Rouelle in 1773, it is used with formaldehyde to make resins and extremely effective fertilizers. Having formula H2 NCO NH2, it was prepared from ammonium cyanate in 1828 by Friedrich Wohler, the first laboratory synthesis of a naturally occurring organic compound. FTP, what is this compound, the chief nitrogenous end product of the metabolic breakdown of proteins in mammals?": {
+    "guess": "Urea",
+    "confidence": [
+      [
+        "U",
+        -0.0013789254
+      ],
+      [
+        "rea",
+        0.0
+      ]
+    ]
+  },
+  "In 1986, large amounts of this compound erupted from the bottom of Lake Nyos. In the Sabatier process,": {
+    "guess": "Carbon dioxide",
+    "confidence": [
+      [
+        "Carbon",
+        -0.21372905
+      ],
+      [
+        " dioxide",
+        -0.0031848405
+      ]
+    ]
+  },
+  "In 1986, large amounts of this compound erupted from the bottom of Lake Nyos. In the Sabatier process, this molecule reacts with hydrogen to produce methane and water. The abundance of this molecule in": {
+    "guess": "Carbon dioxide",
+    "confidence": [
+      [
+        "Carbon",
+        -0.0045319465
+      ],
+      [
+        " dioxide",
+        -0.00043853666
+      ]
+    ]
+  },
+  "In 1986, large amounts of this compound erupted from the bottom of Lake Nyos. In the Sabatier process, this molecule reacts with hydrogen to produce methane and water. The abundance of this molecule in the atmosphere is 388 ppm, making it the second most common (*) greenhouse gas after water vapor. For": {
+    "guess": "Carbon dioxide",
+    "confidence": [
+      [
+        "Carbon",
+        -0.0012859484
+      ],
+      [
+        " dioxide",
+        -0.00020354039
+      ]
+    ]
+  },
+  "In 1986, large amounts of this compound erupted from the bottom of Lake Nyos. In the Sabatier process, this molecule reacts with hydrogen to produce methane and water. The abundance of this molecule in the atmosphere is 388 ppm, making it the second most common (*) greenhouse gas after water vapor. For ten points, identify this chemical compound, a byproduct of cellular respiration, consisting of a": {
+    "guess": "Carbon dioxide",
+    "confidence": [
+      [
+        "Carbon",
+        -0.00080569874
+      ],
+      [
+        " dioxide",
+        -0.0024777967
+      ]
+    ]
+  },
+  "In 1986, large amounts of this compound erupted from the bottom of Lake Nyos. In the Sabatier process, this molecule reacts with hydrogen to produce methane and water. The abundance of this molecule in the atmosphere is 388 ppm, making it the second most common (*) greenhouse gas after water vapor. For ten points, identify this chemical compound, a byproduct of cellular respiration, consisting of a carbon atom covalently bonded to two oxygen atoms.": {
+    "guess": "Carbon dioxide",
+    "confidence": [
+      [
+        "Carbon",
+        -0.0001909048
+      ],
+      [
+        " dioxide",
+        -0.001184992
+      ]
+    ]
+  },
+  "A large boulder is balanced on top of the red stairs that lead down to the triangular pool at this site,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.4067109
+      ]
+    ]
+  },
+  "A large boulder is balanced on top of the red stairs that lead down to the triangular pool at this site, which includes a series of deep pink benches in front of a red stage with a piano, designed for": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5026662
+      ]
+    ]
+  },
+  "A large boulder is balanced on top of the red stairs that lead down to the triangular pool at this site, which includes a series of deep pink benches in front of a red stage with a piano, designed for showing paintings and other items in front of red curtains. The Cabaret Cinema and Seminar Theater are": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.83127004
+      ]
+    ]
+  },
+  "A large boulder is balanced on top of the red stairs that lead down to the triangular pool at this site, which includes a series of deep pink benches in front of a red stage with a piano, designed for showing paintings and other items in front of red curtains. The Cabaret Cinema and Seminar Theater are part of the rooms linked by terraces at this complex, which also includes an internally illuminated,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5988416
+      ]
+    ]
+  },
+  "A large boulder is balanced on top of the red stairs that lead down to the triangular pool at this site, which includes a series of deep pink benches in front of a red stage with a piano, designed for showing paintings and other items in front of red curtains. The Cabaret Cinema and Seminar Theater are part of the rooms linked by terraces at this complex, which also includes an internally illuminated, fire-breathing dragon sculpture. Another of its rooms is a large space including a small dining": {
+    "guess": "Dali Theatre-Museum",
+    "confidence": [
+      [
+        "D",
+        -0.6054416
+      ],
+      [
+        "ali",
+        -0.96643436
+      ],
+      [
+        " Theatre",
+        -0.018647458
+      ],
+      [
+        "-M",
+        -0.2811509
+      ],
+      [
+        "useum",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "A large boulder is balanced on top of the red stairs that lead down to the triangular pool at this site, which includes a series of deep pink benches in front of a red stage with a piano, designed for showing paintings and other items in front of red curtains. The Cabaret Cinema and Seminar Theater are part of the rooms linked by terraces at this complex, which also includes an internally illuminated, fire-breathing dragon sculpture. Another of its rooms is a large space including a small dining alcove and a big fireplace, with blue chairs lined up around the walls, and is known as the Garden Room.": {
+    "guess": "The answer is: The Glass House",
+    "confidence": [
+      [
+        "The",
+        -1.3982196
+      ],
+      [
+        " answer",
+        -0.29626533
+      ],
+      [
+        " is",
+        -0.00054969505
+      ],
+      [
+        ":",
+        -0.03262244
+      ],
+      [
+        " The",
+        -1.812078
+      ],
+      [
+        " Glass",
+        -0.7737125
+      ],
+      [
+        " House",
+        -4.604148e-06
+      ]
+    ]
+  },
+  "A large boulder is balanced on top of the red stairs that lead down to the triangular pool at this site, which includes a series of deep pink benches in front of a red stage with a piano, designed for showing paintings and other items in front of red curtains. The Cabaret Cinema and Seminar Theater are part of the rooms linked by terraces at this complex, which also includes an internally illuminated, fire-breathing dragon sculpture. Another of its rooms is a large space including a small dining alcove and a big fireplace, with blue chairs lined up around the walls, and is known as the Garden Room. This compound covers six hundred acres in the McDowell Mountains of the Sonoran desert. For 10": {
+    "guess": "Taliesin West",
+    "confidence": [
+      [
+        "Tal",
+        -0.02879772
+      ],
+      [
+        "ies",
+        -4.246537e-06
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        " West",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A large boulder is balanced on top of the red stairs that lead down to the triangular pool at this site, which includes a series of deep pink benches in front of a red stage with a piano, designed for showing paintings and other items in front of red curtains. The Cabaret Cinema and Seminar Theater are part of the rooms linked by terraces at this complex, which also includes an internally illuminated, fire-breathing dragon sculpture. Another of its rooms is a large space including a small dining alcove and a big fireplace, with blue chairs lined up around the walls, and is known as the Garden Room. This compound covers six hundred acres in the McDowell Mountains of the Sonoran desert. For 10 points, name this Scottsdale, Arizona counterpart to an original Spring Green, Wisconsin design, comprising": {
+    "guess": "Taliesin West",
+    "confidence": [
+      [
+        "Tal",
+        -0.0028679967
+      ],
+      [
+        "ies",
+        -2.3392786e-06
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        " West",
+        0.0
+      ]
+    ]
+  },
+  "A large boulder is balanced on top of the red stairs that lead down to the triangular pool at this site, which includes a series of deep pink benches in front of a red stage with a piano, designed for showing paintings and other items in front of red curtains. The Cabaret Cinema and Seminar Theater are part of the rooms linked by terraces at this complex, which also includes an internally illuminated, fire-breathing dragon sculpture. Another of its rooms is a large space including a small dining alcove and a big fireplace, with blue chairs lined up around the walls, and is known as the Garden Room. This compound covers six hundred acres in the McDowell Mountains of the Sonoran desert. For 10 points, name this Scottsdale, Arizona counterpart to an original Spring Green, Wisconsin design, comprising the later home and studio of its designer Frank Lloyd Wright.": {
+    "guess": "Taliesin West",
+    "confidence": [
+      [
+        "Tal",
+        -0.00030042732
+      ],
+      [
+        "ies",
+        -5.5122365e-07
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        " West",
+        0.0
+      ]
+    ]
+  },
+  "The largest city on this island was founded on the ruins of a Muslim settlement. Attractions include": {
+    "guess": "Sicily",
+    "confidence": [
+      [
+        "S",
+        -1.2413945
+      ],
+      [
+        "ic",
+        -4.4537377e-05
+      ],
+      [
+        "ily",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The largest city on this island was founded on the ruins of a Muslim settlement. Attractions include Pagsanjan Falls, where part of Apocalyse Now was filmed, the Bamboo Organ, and Luneta Park, which contains": {
+    "guess": "Manila",
+    "confidence": [
+      [
+        "Man",
+        -0.039633557
+      ],
+      [
+        "ila",
+        0.0
+      ]
+    ]
+  },
+  "The largest city on this island was founded on the ruins of a Muslim settlement. Attractions include Pagsanjan Falls, where part of Apocalyse Now was filmed, the Bamboo Organ, and Luneta Park, which contains a memorial commemorating the execution of the country's largest philosophical figure. In addition": {
+    "guess": "Luzon",
+    "confidence": [
+      [
+        "L",
+        -0.2168216
+      ],
+      [
+        "uz",
+        0.0
+      ],
+      [
+        "on",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The largest city on this island was founded on the ruins of a Muslim settlement. Attractions include Pagsanjan Falls, where part of Apocalyse Now was filmed, the Bamboo Organ, and Luneta Park, which contains a memorial commemorating the execution of the country's largest philosophical figure. In addition to more common forms of transportation, this island's inhabitants also travel by jeepney, a jeep-like": {
+    "guess": "Luzon",
+    "confidence": [
+      [
+        "L",
+        -0.00020139472
+      ],
+      [
+        "uz",
+        0.0
+      ],
+      [
+        "on",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The largest city on this island was founded on the ruins of a Muslim settlement. Attractions include Pagsanjan Falls, where part of Apocalyse Now was filmed, the Bamboo Organ, and Luneta Park, which contains a memorial commemorating the execution of the country's largest philosophical figure. In addition to more common forms of transportation, this island's inhabitants also travel by jeepney, a jeep-like vehicle lavishly decorated by its owner. FTP identify this largest island of the Philippines.": {
+    "guess": "Luzon",
+    "confidence": [
+      [
+        "L",
+        -1.8074163e-05
+      ],
+      [
+        "uz",
+        0.0
+      ],
+      [
+        "on",
+        0.0
+      ]
+    ]
+  },
+  "The largest one of these objects is located in Cape Town and has the phrase \"Hyundai brings the gees\"": {
+    "guess": "Vuvuzela",
+    "confidence": [
+      [
+        "V",
+        -0.12802276
+      ],
+      [
+        "uv",
+        0.0
+      ],
+      [
+        "uz",
+        0.0
+      ],
+      [
+        "ela",
+        0.0
+      ]
+    ]
+  },
+  "The largest one of these objects is located in Cape Town and has the phrase \"Hyundai brings the gees\" engraved in it. Jon Qwelane denounced these objects, accusing them of originating \"from hell,\" but": {
+    "guess": "Vuvuzela",
+    "confidence": [
+      [
+        "V",
+        -0.05505402
+      ],
+      [
+        "uv",
+        0.0
+      ],
+      [
+        "uz",
+        0.0
+      ],
+      [
+        "ela",
+        0.0
+      ]
+    ]
+  },
+  "The largest one of these objects is located in Cape Town and has the phrase \"Hyundai brings the gees\" engraved in it. Jon Qwelane denounced these objects, accusing them of originating \"from hell,\" but Sepp Blatter defended the use of these objects. Patrice Evra blamed these objects for waking him up": {
+    "guess": "Vuvuzela",
+    "confidence": [
+      [
+        "V",
+        -0.008623321
+      ],
+      [
+        "uv",
+        0.0
+      ],
+      [
+        "uz",
+        0.0
+      ],
+      [
+        "ela",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The largest one of these objects is located in Cape Town and has the phrase \"Hyundai brings the gees\" engraved in it. Jon Qwelane denounced these objects, accusing them of originating \"from hell,\" but Sepp Blatter defended the use of these objects. Patrice Evra blamed these objects for waking him up at six o'clock, and Xabi Alonso condemned these objects for being \"annoying.\" Lionel Messi and Cristiano": {
+    "guess": "Vuvuzela",
+    "confidence": [
+      [
+        "V",
+        -0.00080724835
+      ],
+      [
+        "uv",
+        0.0
+      ],
+      [
+        "uz",
+        0.0
+      ],
+      [
+        "ela",
+        0.0
+      ]
+    ]
+  },
+  "The largest one of these objects is located in Cape Town and has the phrase \"Hyundai brings the gees\" engraved in it. Jon Qwelane denounced these objects, accusing them of originating \"from hell,\" but Sepp Blatter defended the use of these objects. Patrice Evra blamed these objects for waking him up at six o'clock, and Xabi Alonso condemned these objects for being \"annoying.\" Lionel Messi and Cristiano Ronaldo urged the ban of these instruments. For 10 points, name this plastic horn which drew attention": {
+    "guess": "Vuvuzela",
+    "confidence": [
+      [
+        "V",
+        -0.0004897649
+      ],
+      [
+        "uv",
+        0.0
+      ],
+      [
+        "uz",
+        0.0
+      ],
+      [
+        "ela",
+        0.0
+      ]
+    ]
+  },
+  "The largest one of these objects is located in Cape Town and has the phrase \"Hyundai brings the gees\" engraved in it. Jon Qwelane denounced these objects, accusing them of originating \"from hell,\" but Sepp Blatter defended the use of these objects. Patrice Evra blamed these objects for waking him up at six o'clock, and Xabi Alonso condemned these objects for being \"annoying.\" Lionel Messi and Cristiano Ronaldo urged the ban of these instruments. For 10 points, name this plastic horn which drew attention in the 2010 FIFA World Cup.": {
+    "guess": "Vuvuzela",
+    "confidence": [
+      [
+        "V",
+        -0.00038134094
+      ],
+      [
+        "uv",
+        0.0
+      ],
+      [
+        "uz",
+        0.0
+      ],
+      [
+        "ela",
+        0.0
+      ]
+    ]
+  },
+  "A large athletic stadium in this city was built in a pit made by bombs and features acrylic glass canopies": {
+    "guess": "Munich",
+    "confidence": [
+      [
+        "Mun",
+        -3.1544176e-05
+      ],
+      [
+        "ich",
+        0.0
+      ]
+    ]
+  },
+  "A large athletic stadium in this city was built in a pit made by bombs and features acrylic glass canopies supported by steel cables. Besides the Olympic Stadium, this city is home to the European patent": {
+    "guess": "Munich",
+    "confidence": [
+      [
+        "Mun",
+        -1.0206721e-05
+      ],
+      [
+        "ich",
+        0.0
+      ]
+    ]
+  },
+  "A large athletic stadium in this city was built in a pit made by bombs and features acrylic glass canopies supported by steel cables. Besides the Olympic Stadium, this city is home to the European patent offices and the Zeiss Planetarium. The Nymphenburg Palace in this city was home to its local rulers,": {
+    "guess": "Munich",
+    "confidence": [
+      [
+        "Mun",
+        -3.650519e-06
+      ],
+      [
+        "ich",
+        0.0
+      ]
+    ]
+  },
+  "A large athletic stadium in this city was built in a pit made by bombs and features acrylic glass canopies supported by steel cables. Besides the Olympic Stadium, this city is home to the European patent offices and the Zeiss Planetarium. The Nymphenburg Palace in this city was home to its local rulers, and the Michaelskirche in this city is the largest Renaissance church north of the Alps. This city's": {
+    "guess": "Munich",
+    "confidence": [
+      [
+        "Mun",
+        -1.4259645e-05
+      ],
+      [
+        "ich",
+        0.0
+      ]
+    ]
+  },
+  "A large athletic stadium in this city was built in a pit made by bombs and features acrylic glass canopies supported by steel cables. Besides the Olympic Stadium, this city is home to the European patent offices and the Zeiss Planetarium. The Nymphenburg Palace in this city was home to its local rulers, and the Michaelskirche in this city is the largest Renaissance church north of the Alps. This city's Frauenkirche features the Devil's Footprint, and the central square of this city is the Marienplatz.": {
+    "guess": "Munich",
+    "confidence": [
+      [
+        "Mun",
+        -5.080963e-06
+      ],
+      [
+        "ich",
+        0.0
+      ]
+    ]
+  },
+  "A large athletic stadium in this city was built in a pit made by bombs and features acrylic glass canopies supported by steel cables. Besides the Olympic Stadium, this city is home to the European patent offices and the Zeiss Planetarium. The Nymphenburg Palace in this city was home to its local rulers, and the Michaelskirche in this city is the largest Renaissance church north of the Alps. This city's Frauenkirche features the Devil's Footprint, and the central square of this city is the Marienplatz. A prominent structure in this city was designed to look like a car tire, the BMW Headquarters.": {
+    "guess": "Munich",
+    "confidence": [
+      [
+        "Mun",
+        -2.3392786e-06
+      ],
+      [
+        "ich",
+        0.0
+      ]
+    ]
+  },
+  "A large athletic stadium in this city was built in a pit made by bombs and features acrylic glass canopies supported by steel cables. Besides the Olympic Stadium, this city is home to the European patent offices and the Zeiss Planetarium. The Nymphenburg Palace in this city was home to its local rulers, and the Michaelskirche in this city is the largest Renaissance church north of the Alps. This city's Frauenkirche features the Devil's Footprint, and the central square of this city is the Marienplatz. A prominent structure in this city was designed to look like a car tire, the BMW Headquarters. For 10 points, name this third largest city in Germany and capital of Bavaria.": {
+    "guess": "Munich",
+    "confidence": [
+      [
+        "Mun",
+        -2.220075e-06
+      ],
+      [
+        "ich",
+        0.0
+      ]
+    ]
+  },
+  "The largest ship of one side in this conflict was positioned to block the approaching forces who eventually": {
+    "guess": "Battle of Actium",
+    "confidence": [
+      [
+        "Battle",
+        -0.0029538122
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Act",
+        -1.095254
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "The largest ship of one side in this conflict was positioned to block the approaching forces who eventually captured the Elefanten, taking the admiral as a prisoner of war from his own ship. To commemorate": {
+    "guess": "Battle of Copenhagen",
+    "confidence": [
+      [
+        "Battle",
+        -0.0011608157
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Copenhagen",
+        -2.4987974e-05
+      ]
+    ]
+  },
+  "The largest ship of one side in this conflict was positioned to block the approaching forces who eventually captured the Elefanten, taking the admiral as a prisoner of war from his own ship. To commemorate the victory during this war, the navy of the winning side of that battle always has a vessel named": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.4074435
+      ],
+      [
+        ".",
+        -0.16023459
+      ]
+    ]
+  },
+  "The largest ship of one side in this conflict was positioned to block the approaching forces who eventually captured the Elefanten, taking the admiral as a prisoner of war from his own ship. To commemorate the victory during this war, the navy of the winning side of that battle always has a vessel named Gangut. A breaking wheel was used to execute Johann Patkul after one treaty during this conflict,": {
+    "guess": "Great Northern War",
+    "confidence": [
+      [
+        "Great",
+        -0.008721525
+      ],
+      [
+        " Northern",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The largest ship of one side in this conflict was positioned to block the approaching forces who eventually captured the Elefanten, taking the admiral as a prisoner of war from his own ship. To commemorate the victory during this war, the navy of the winning side of that battle always has a vessel named Gangut. A breaking wheel was used to execute Johann Patkul after one treaty during this conflict, during which the Peace of (*) Travendal and Treaty of Altranstadt were concluded. Ingria and Karelia": {
+    "guess": "Great Northern War",
+    "confidence": [
+      [
+        "Great",
+        -0.004095974
+      ],
+      [
+        " Northern",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The largest ship of one side in this conflict was positioned to block the approaching forces who eventually captured the Elefanten, taking the admiral as a prisoner of war from his own ship. To commemorate the victory during this war, the navy of the winning side of that battle always has a vessel named Gangut. A breaking wheel was used to execute Johann Patkul after one treaty during this conflict, during which the Peace of (*) Travendal and Treaty of Altranstadt were concluded. Ingria and Karelia were transferred to the winning side after this war, while the losing side was returned most of Finland.": {
+    "guess": "Great Northern War",
+    "confidence": [
+      [
+        "Great",
+        -0.00071433914
+      ],
+      [
+        " Northern",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The largest ship of one side in this conflict was positioned to block the approaching forces who eventually captured the Elefanten, taking the admiral as a prisoner of war from his own ship. To commemorate the victory during this war, the navy of the winning side of that battle always has a vessel named Gangut. A breaking wheel was used to execute Johann Patkul after one treaty during this conflict, during which the Peace of (*) Travendal and Treaty of Altranstadt were concluded. Ingria and Karelia were transferred to the winning side after this war, while the losing side was returned most of Finland. A king in this war won a battle during a blizzard at Narva, but fled to the Ottoman court following": {
+    "guess": "Great Northern War",
+    "confidence": [
+      [
+        "Great",
+        -0.008658186
+      ],
+      [
+        " Northern",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The largest ship of one side in this conflict was positioned to block the approaching forces who eventually captured the Elefanten, taking the admiral as a prisoner of war from his own ship. To commemorate the victory during this war, the navy of the winning side of that battle always has a vessel named Gangut. A breaking wheel was used to execute Johann Patkul after one treaty during this conflict, during which the Peace of (*) Travendal and Treaty of Altranstadt were concluded. Ingria and Karelia were transferred to the winning side after this war, while the losing side was returned most of Finland. A king in this war won a battle during a blizzard at Narva, but fled to the Ottoman court following the Battle of Poltava. For 10 points, name this war between Charles XII of Sweden and an allied": {
+    "guess": "Great Northern War",
+    "confidence": [
+      [
+        "Great",
+        -0.00019924906
+      ],
+      [
+        " Northern",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The largest ship of one side in this conflict was positioned to block the approaching forces who eventually captured the Elefanten, taking the admiral as a prisoner of war from his own ship. To commemorate the victory during this war, the navy of the winning side of that battle always has a vessel named Gangut. A breaking wheel was used to execute Johann Patkul after one treaty during this conflict, during which the Peace of (*) Travendal and Treaty of Altranstadt were concluded. Ingria and Karelia were transferred to the winning side after this war, while the losing side was returned most of Finland. A king in this war won a battle during a blizzard at Narva, but fled to the Ottoman court following the Battle of Poltava. For 10 points, name this war between Charles XII of Sweden and an allied force led by Peter the Great of Russia.": {
+    "guess": "Great Northern War",
+    "confidence": [
+      [
+        "Great",
+        -0.00038789344
+      ],
+      [
+        " Northern",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "A laser from this molecule has a peak at about 10.6 micrometers and attains population inversion by energy": {
+    "guess": "Carbon dioxide laser",
+    "confidence": [
+      [
+        "Carbon",
+        -0.47545087
+      ],
+      [
+        " dioxide",
+        -0.0019711002
+      ],
+      [
+        " laser",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "A laser from this molecule has a peak at about 10.6 micrometers and attains population inversion by energy transfer from excited N2 molecules. The first step of the Solvay process involves reacting sodium": {
+    "guess": "Carbon dioxide",
+    "confidence": [
+      [
+        "Carbon",
+        -0.018399024
+      ],
+      [
+        " dioxide",
+        -0.006770553
+      ]
+    ]
+  },
+  "A laser from this molecule has a peak at about 10.6 micrometers and attains population inversion by energy transfer from excited N2 molecules. The first step of the Solvay process involves reacting sodium chloride, ammonia, water, and this compound. This molecule's relatively low critical temperature": {
+    "guess": "Carbon dioxide",
+    "confidence": [
+      [
+        "Carbon",
+        -0.02872069
+      ],
+      [
+        " dioxide",
+        -5.2285613e-05
+      ]
+    ]
+  },
+  "A laser from this molecule has a peak at about 10.6 micrometers and attains population inversion by energy transfer from excited N2 molecules. The first step of the Solvay process involves reacting sodium chloride, ammonia, water, and this compound. This molecule's relatively low critical temperature of 304 kelvins allows its use as the mobile phase in supercritical chromatography. Its supercritical": {
+    "guess": "Carbon dioxide laser",
+    "confidence": [
+      [
+        "Carbon",
+        -0.015065606
+      ],
+      [
+        " dioxide",
+        -6.0391463e-05
+      ],
+      [
+        " laser",
+        -0.25892216
+      ]
+    ]
+  },
+  "A laser from this molecule has a peak at about 10.6 micrometers and attains population inversion by energy transfer from excited N2 molecules. The first step of the Solvay process involves reacting sodium chloride, ammonia, water, and this compound. This molecule's relatively low critical temperature of 304 kelvins allows its use as the mobile phase in supercritical chromatography. Its supercritical form is also forced through (*) coffee beans to extract caffeine. Hemoglobin's affinity for oxygen": {
+    "guess": "Carbon dioxide",
+    "confidence": [
+      [
+        "Carbon",
+        -0.0028042756
+      ],
+      [
+        " dioxide",
+        -6.4325184e-05
+      ]
+    ]
+  },
+  "A laser from this molecule has a peak at about 10.6 micrometers and attains population inversion by energy transfer from excited N2 molecules. The first step of the Solvay process involves reacting sodium chloride, ammonia, water, and this compound. This molecule's relatively low critical temperature of 304 kelvins allows its use as the mobile phase in supercritical chromatography. Its supercritical form is also forced through (*) coffee beans to extract caffeine. Hemoglobin's affinity for oxygen in the blood is inversely related to the concentration of this gas in the Bohr effect. It is the major": {
+    "guess": "Carbon dioxide",
+    "confidence": [
+      [
+        "Carbon",
+        -0.020574821
+      ],
+      [
+        " dioxide",
+        -0.00012511172
+      ]
+    ]
+  },
+  "A laser from this molecule has a peak at about 10.6 micrometers and attains population inversion by energy transfer from excited N2 molecules. The first step of the Solvay process involves reacting sodium chloride, ammonia, water, and this compound. This molecule's relatively low critical temperature of 304 kelvins allows its use as the mobile phase in supercritical chromatography. Its supercritical form is also forced through (*) coffee beans to extract caffeine. Hemoglobin's affinity for oxygen in the blood is inversely related to the concentration of this gas in the Bohr effect. It is the major cause of ocean acidification and is produced, along with water, in combustion reactions. For 10": {
+    "guess": "Carbon dioxide",
+    "confidence": [
+      [
+        "Carbon",
+        -0.0045273155
+      ],
+      [
+        " dioxide",
+        -1.7478143e-05
+      ]
+    ]
+  },
+  "A laser from this molecule has a peak at about 10.6 micrometers and attains population inversion by energy transfer from excited N2 molecules. The first step of the Solvay process involves reacting sodium chloride, ammonia, water, and this compound. This molecule's relatively low critical temperature of 304 kelvins allows its use as the mobile phase in supercritical chromatography. Its supercritical form is also forced through (*) coffee beans to extract caffeine. Hemoglobin's affinity for oxygen in the blood is inversely related to the concentration of this gas in the Bohr effect. It is the major cause of ocean acidification and is produced, along with water, in combustion reactions. For 10 points, name this molecule whose solid form is dry ice.": {
+    "guess": "Carbon dioxide",
+    "confidence": [
+      [
+        "Carbon",
+        -0.011204027
+      ],
+      [
+        " dioxide",
+        -7.827201e-05
+      ]
+    ]
+  }
+}

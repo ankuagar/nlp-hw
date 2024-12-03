@@ -1,0 +1,59 @@
+{
+  "Gyroscopic precession is also called this induced precession, and Poinsot's ellipsoid models another": {
+    "guess": "Torque-induced precession",
+    "confidence": [
+      [
+        "Torque",
+        -0.016570684
+      ],
+      [
+        "-induced",
+        -0.57947075
+      ],
+      [
+        " pre",
+        -0.008571784
+      ],
+      [
+        "cession",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "Gyroscopic precession is also called this induced precession, and Poinsot's ellipsoid models another kind of precession called this-free. Deformation due to this creates a shearing stress and is called": {
+    "guess": "Torque",
+    "confidence": [
+      [
+        "Torque",
+        -0.3096818
+      ]
+    ]
+  },
+  "Gyroscopic precession is also called this induced precession, and Poinsot's ellipsoid models another kind of precession called this-free. Deformation due to this creates a shearing stress and is called torsion. Equal to the product of the moment of inertia and the angular acceleration, it is also the": {
+    "guess": "Torque",
+    "confidence": [
+      [
+        "Torque",
+        -0.2714867
+      ]
+    ]
+  },
+  "Gyroscopic precession is also called this induced precession, and Poinsot's ellipsoid models another kind of precession called this-free. Deformation due to this creates a shearing stress and is called torsion. Equal to the product of the moment of inertia and the angular acceleration, it is also the time derivative of the angular momentum. For 10 points, identify this pseudo-vector quantity proportional": {
+    "guess": "Torque",
+    "confidence": [
+      [
+        "Torque",
+        -0.010284719
+      ]
+    ]
+  },
+  "Gyroscopic precession is also called this induced precession, and Poinsot's ellipsoid models another kind of precession called this-free. Deformation due to this creates a shearing stress and is called torsion. Equal to the product of the moment of inertia and the angular acceleration, it is also the time derivative of the angular momentum. For 10 points, identify this pseudo-vector quantity proportional to the cross product of the force applied and the lever arm, a rotational analogue of force.": {
+    "guess": "Torque",
+    "confidence": [
+      [
+        "Torque",
+        -0.00037740718
+      ]
+    ]
+  }
+}

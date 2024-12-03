@@ -1,0 +1,55 @@
+{
+  "In C# (c sharp), delegates act as references to these things. Their contents are duplicated for increased": {
+    "guess": "Subroutine",
+    "confidence": [
+      [
+        "Sub",
+        -0.8403403
+      ],
+      [
+        "routine",
+        -1.1756368e-05
+      ]
+    ]
+  },
+  "In C# (c sharp), delegates act as references to these things. Their contents are duplicated for increased performance at the cost of size when they are inlined. Closures are examples of these that can": {
+    "guess": "Subroutine",
+    "confidence": [
+      [
+        "Sub",
+        -0.6723539
+      ],
+      [
+        "routine",
+        -5.5577775e-06
+      ]
+    ]
+  },
+  "In C# (c sharp), delegates act as references to these things. Their contents are duplicated for increased performance at the cost of size when they are inlined. Closures are examples of these that can be treated like objects. Virtual ones can be overridden in object oriented programming. These have a": {
+    "guess": "Method",
+    "confidence": [
+      [
+        "Method",
+        -0.15132673
+      ]
+    ]
+  },
+  "In C# (c sharp), delegates act as references to these things. Their contents are duplicated for increased performance at the cost of size when they are inlined. Closures are examples of these that can be treated like objects. Virtual ones can be overridden in object oriented programming. These have a (*) return type which can be void. For 10 points, name these sections of code that are called to accomplish": {
+    "guess": "Method",
+    "confidence": [
+      [
+        "Method",
+        -0.08657385
+      ]
+    ]
+  },
+  "In C# (c sharp), delegates act as references to these things. Their contents are duplicated for increased performance at the cost of size when they are inlined. Closures are examples of these that can be treated like objects. Virtual ones can be overridden in object oriented programming. These have a (*) return type which can be void. For 10 points, name these sections of code that are called to accomplish a task, such as System dot out dot println in Java.": {
+    "guess": "Method",
+    "confidence": [
+      [
+        "Method",
+        -0.021352883
+      ]
+    ]
+  }
+}

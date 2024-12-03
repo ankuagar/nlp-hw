@@ -1,0 +1,640 @@
+{
+  "In rare cases it may caused by a mutation in the A-I-R-E gene, but more commonly may be caused by HIV,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5365835
+      ]
+    ]
+  },
+  "In rare cases it may caused by a mutation in the A-I-R-E gene, but more commonly may be caused by HIV, tuberculosis, or metastatic cancer, or most commonly autoimmune causes.  Symptoms of this disease": {
+    "guess": "Addison's disease",
+    "confidence": [
+      [
+        "Add",
+        -0.011950405
+      ],
+      [
+        "ison",
+        0.0
+      ],
+      [
+        "'s",
+        -6.6113236e-05
+      ],
+      [
+        " disease",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "In rare cases it may caused by a mutation in the A-I-R-E gene, but more commonly may be caused by HIV, tuberculosis, or metastatic cancer, or most commonly autoimmune causes.  Symptoms of this disease include salt loss and hyperpigmentation, which differentiates it from secondary causes.  Leading to": {
+    "guess": "Addison's disease",
+    "confidence": [
+      [
+        "Add",
+        -0.0007325553
+      ],
+      [
+        "ison",
+        0.0
+      ],
+      [
+        "'s",
+        -1.6762922e-05
+      ],
+      [
+        " disease",
+        -4.012684e-05
+      ]
+    ]
+  },
+  "In rare cases it may caused by a mutation in the A-I-R-E gene, but more commonly may be caused by HIV, tuberculosis, or metastatic cancer, or most commonly autoimmune causes.  Symptoms of this disease include salt loss and hyperpigmentation, which differentiates it from secondary causes.  Leading to atrophy of the zona fasciculata and zona reticularis, in nearly 90 percent of cases, autoantibodies": {
+    "guess": "Addison's disease",
+    "confidence": [
+      [
+        "Add",
+        -0.00010127832
+      ],
+      [
+        "ison",
+        0.0
+      ],
+      [
+        "'s",
+        -3.1305768e-05
+      ],
+      [
+        " disease",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "In rare cases it may caused by a mutation in the A-I-R-E gene, but more commonly may be caused by HIV, tuberculosis, or metastatic cancer, or most commonly autoimmune causes.  Symptoms of this disease include salt loss and hyperpigmentation, which differentiates it from secondary causes.  Leading to atrophy of the zona fasciculata and zona reticularis, in nearly 90 percent of cases, autoantibodies attack the enzyme 21-hydroxylase, interrupting the production of aldosterone and another hormone.  Producing": {
+    "guess": "Addison's disease",
+    "confidence": [
+      [
+        "Add",
+        -0.00016325322
+      ],
+      [
+        "ison",
+        0.0
+      ],
+      [
+        "'s",
+        -4.012684e-05
+      ],
+      [
+        " disease",
+        -4.5491004e-05
+      ]
+    ]
+  },
+  "In rare cases it may caused by a mutation in the A-I-R-E gene, but more commonly may be caused by HIV, tuberculosis, or metastatic cancer, or most commonly autoimmune causes.  Symptoms of this disease include salt loss and hyperpigmentation, which differentiates it from secondary causes.  Leading to atrophy of the zona fasciculata and zona reticularis, in nearly 90 percent of cases, autoantibodies attack the enzyme 21-hydroxylase, interrupting the production of aldosterone and another hormone.  Producing profound weakness and pallor, FTP, name this disease from which John F. Kennedy suffered, an": {
+    "guess": "Addison's disease",
+    "confidence": [
+      [
+        "Add",
+        -4.572941e-05
+      ],
+      [
+        "ison",
+        0.0
+      ],
+      [
+        "'s",
+        -2.1531068e-05
+      ],
+      [
+        " disease",
+        -5.157039e-05
+      ]
+    ]
+  },
+  "In rare cases it may caused by a mutation in the A-I-R-E gene, but more commonly may be caused by HIV, tuberculosis, or metastatic cancer, or most commonly autoimmune causes.  Symptoms of this disease include salt loss and hyperpigmentation, which differentiates it from secondary causes.  Leading to atrophy of the zona fasciculata and zona reticularis, in nearly 90 percent of cases, autoantibodies attack the enzyme 21-hydroxylase, interrupting the production of aldosterone and another hormone.  Producing profound weakness and pallor, FTP, name this disease from which John F. Kennedy suffered, an inability of the adrenal glands to produce cortisol, which is named for the British physician who": {
+    "guess": "Addison's disease",
+    "confidence": [
+      [
+        "Add",
+        -0.00019483852
+      ],
+      [
+        "ison",
+        0.0
+      ],
+      [
+        "'s",
+        -1.6762922e-05
+      ],
+      [
+        " disease",
+        -4.5491004e-05
+      ]
+    ]
+  },
+  "In rare cases it may caused by a mutation in the A-I-R-E gene, but more commonly may be caused by HIV, tuberculosis, or metastatic cancer, or most commonly autoimmune causes.  Symptoms of this disease include salt loss and hyperpigmentation, which differentiates it from secondary causes.  Leading to atrophy of the zona fasciculata and zona reticularis, in nearly 90 percent of cases, autoantibodies attack the enzyme 21-hydroxylase, interrupting the production of aldosterone and another hormone.  Producing profound weakness and pallor, FTP, name this disease from which John F. Kennedy suffered, an inability of the adrenal glands to produce cortisol, which is named for the British physician who first described it.": {
+    "guess": "Addison's disease",
+    "confidence": [
+      [
+        "Add",
+        -7.159661e-05
+      ],
+      [
+        "ison",
+        0.0
+      ],
+      [
+        "'s",
+        -2.4391957e-05
+      ],
+      [
+        " disease",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "It is rarely observed in acid catalyzed hydrations and hypohalous additions, but always results in regioselective": {
+    "guess": "Anti-Markovnikov's rule",
+    "confidence": [
+      [
+        "Anti",
+        -0.20241174
+      ],
+      [
+        "-Mark",
+        -2.8160932e-06
+      ],
+      [
+        "ov",
+        -1.9361265e-07
+      ],
+      [
+        "nikov",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -0.023824645
+      ],
+      [
+        " rule",
+        -8.5543434e-05
+      ]
+    ]
+  },
+  "It is rarely observed in acid catalyzed hydrations and hypohalous additions, but always results in regioselective reactions.  There are several restrictions on its application, including the absence of": {
+    "guess": "Markovnikov's rule",
+    "confidence": [
+      [
+        "Mark",
+        -0.0018271462
+      ],
+      [
+        "ov",
+        -2.3392786e-06
+      ],
+      [
+        "nikov",
+        -3.5313153e-06
+      ],
+      [
+        "'s",
+        -7.79144e-05
+      ],
+      [
+        " rule",
+        -0.3186139
+      ]
+    ]
+  },
+  "It is rarely observed in acid catalyzed hydrations and hypohalous additions, but always results in regioselective reactions.  There are several restrictions on its application, including the absence of peroxides.  In addition, an asymmetric reagent, often a hydrogen halide, and an asymmetric alkene must": {
+    "guess": "Markovnikov's rule",
+    "confidence": [
+      [
+        "Mark",
+        -0.0064847954
+      ],
+      [
+        "ov",
+        -3.4121115e-06
+      ],
+      [
+        "nikov",
+        -2.9352968e-06
+      ],
+      [
+        "'s",
+        -0.0004335301
+      ],
+      [
+        " rule",
+        -0.055294644
+      ]
+    ]
+  },
+  "It is rarely observed in acid catalyzed hydrations and hypohalous additions, but always results in regioselective reactions.  There are several restrictions on its application, including the absence of peroxides.  In addition, an asymmetric reagent, often a hydrogen halide, and an asymmetric alkene must be used.  Stating that the free hydrogen will always add to the double bond carbon that already": {
+    "guess": "Markovnikov's Rule",
+    "confidence": [
+      [
+        "Mark",
+        -0.0021095746
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        "nikov",
+        -3.1281633e-07
+      ],
+      [
+        "'s",
+        -3.4121115e-06
+      ],
+      [
+        " Rule",
+        -0.00010974178
+      ]
+    ]
+  },
+  "It is rarely observed in acid catalyzed hydrations and hypohalous additions, but always results in regioselective reactions.  There are several restrictions on its application, including the absence of peroxides.  In addition, an asymmetric reagent, often a hydrogen halide, and an asymmetric alkene must be used.  Stating that the free hydrogen will always add to the double bond carbon that already has a larger number of hydrogen atoms, FTP, identify this rule of organic chemistry named for the Russian": {
+    "guess": "Markovnikov's Rule",
+    "confidence": [
+      [
+        "Mark",
+        -0.00023822498
+      ],
+      [
+        "ov",
+        -5.5122365e-07
+      ],
+      [
+        "nikov",
+        -8.89548e-06
+      ],
+      [
+        "'s",
+        -1.5928495e-05
+      ],
+      [
+        " Rule",
+        -0.023253981
+      ]
+    ]
+  },
+  "It is rarely observed in acid catalyzed hydrations and hypohalous additions, but always results in regioselective reactions.  There are several restrictions on its application, including the absence of peroxides.  In addition, an asymmetric reagent, often a hydrogen halide, and an asymmetric alkene must be used.  Stating that the free hydrogen will always add to the double bond carbon that already has a larger number of hydrogen atoms, FTP, identify this rule of organic chemistry named for the Russian who proposed it.": {
+    "guess": "Markovnikov's Rule",
+    "confidence": [
+      [
+        "Mark",
+        -9.805982e-05
+      ],
+      [
+        "ov",
+        -4.3202e-07
+      ],
+      [
+        "nikov",
+        -1.5332478e-05
+      ],
+      [
+        "'s",
+        -1.1041146e-05
+      ],
+      [
+        " Rule",
+        -0.016041407
+      ]
+    ]
+  },
+  "One of its rare uses of military force came in the struggle against Valdemar IV, forcing Valdemar to": {
+    "guess": "Hanseatic League",
+    "confidence": [
+      [
+        "H",
+        -0.01841084
+      ],
+      [
+        "anse",
+        -0.001172725
+      ],
+      [
+        "atic",
+        0.0
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "One of its rare uses of military force came in the struggle against Valdemar IV, forcing Valdemar to accept its supremacy in the Peace of Straslund after a decisive 1368 victory over the Danes. It established": {
+    "guess": "Hanseatic League",
+    "confidence": [
+      [
+        "H",
+        -0.0060439818
+      ],
+      [
+        "anse",
+        -1.0921943e-05
+      ],
+      [
+        "atic",
+        0.0
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "One of its rare uses of military force came in the struggle against Valdemar IV, forcing Valdemar to accept its supremacy in the Peace of Straslund after a decisive 1368 victory over the Danes. It established a number of enclaves called Kontore in foreign towns like Novgorod, Bergen, and the Steel Yard": {
+    "guess": "Hanseatic League",
+    "confidence": [
+      [
+        "H",
+        -0.0016392352
+      ],
+      [
+        "anse",
+        -4.3202e-07
+      ],
+      [
+        "atic",
+        0.0
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "One of its rare uses of military force came in the struggle against Valdemar IV, forcing Valdemar to accept its supremacy in the Peace of Straslund after a decisive 1368 victory over the Danes. It established a number of enclaves called Kontore in foreign towns like Novgorod, Bergen, and the Steel Yard in London, but was ultimately unable to compete with the powerful nation states that formed around": {
+    "guess": "Hanseatic League",
+    "confidence": [
+      [
+        "H",
+        -0.00031305922
+      ],
+      [
+        "anse",
+        -3.1281633e-07
+      ],
+      [
+        "atic",
+        0.0
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "One of its rare uses of military force came in the struggle against Valdemar IV, forcing Valdemar to accept its supremacy in the Peace of Straslund after a decisive 1368 victory over the Danes. It established a number of enclaves called Kontore in foreign towns like Novgorod, Bergen, and the Steel Yard in London, but was ultimately unable to compete with the powerful nation states that formed around it, meeting for the last time in 1669. Originating in an alliance between Lubeck and Hamburg, FTP,": {
+    "guess": "Hanseatic League",
+    "confidence": [
+      [
+        "H",
+        -0.006247411
+      ],
+      [
+        "anse",
+        0.0
+      ],
+      [
+        "atic",
+        0.0
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "One of its rare uses of military force came in the struggle against Valdemar IV, forcing Valdemar to accept its supremacy in the Peace of Straslund after a decisive 1368 victory over the Danes. It established a number of enclaves called Kontore in foreign towns like Novgorod, Bergen, and the Steel Yard in London, but was ultimately unable to compete with the powerful nation states that formed around it, meeting for the last time in 1669. Originating in an alliance between Lubeck and Hamburg, FTP, what was this league that dominated trading in northern Europe from the 13th to the 15th century?": {
+    "guess": "Hanseatic League",
+    "confidence": [
+      [
+        "H",
+        -0.0007337473
+      ],
+      [
+        "anse",
+        0.0
+      ],
+      [
+        "atic",
+        0.0
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "In a rare fit of success, the clothing line he modeled for the Blue Marlin clothing company became the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1760473
+      ]
+    ]
+  },
+  "In a rare fit of success, the clothing line he modeled for the Blue Marlin clothing company became the best-selling line for Macys and Lord & Taylor. He's more used to total failure as when he was eliminated": {
+    "guess": "Derek Zoolander",
+    "confidence": [
+      [
+        "D",
+        -0.92247486
+      ],
+      [
+        "erek",
+        -0.02918171
+      ],
+      [
+        " Zool",
+        -6.062987e-05
+      ],
+      [
+        "ander",
+        0.0
+      ]
+    ]
+  },
+  "In a rare fit of success, the clothing line he modeled for the Blue Marlin clothing company became the best-selling line for Macys and Lord & Taylor. He's more used to total failure as when he was eliminated from the Mob on 1 Vs. 100 for not knowing the dish ran away with the spoon.  That brilliant move": {
+    "guess": "Ken Jennings",
+    "confidence": [
+      [
+        "Ken",
+        -0.08497953
+      ],
+      [
+        " Jennings",
+        -0.00011772843
+      ]
+    ]
+  },
+  "In a rare fit of success, the clothing line he modeled for the Blue Marlin clothing company became the best-selling line for Macys and Lord & Taylor. He's more used to total failure as when he was eliminated from the Mob on 1 Vs. 100 for not knowing the dish ran away with the spoon.  That brilliant move was probably nowhere near as bad as his former reality show with his now estranged wife or his debut": {
+    "guess": "Kevin Federline",
+    "confidence": [
+      [
+        "Kevin",
+        -0.18409805
+      ],
+      [
+        " Feder",
+        -3.1544176e-05
+      ],
+      [
+        "line",
+        0.0
+      ]
+    ]
+  },
+  "In a rare fit of success, the clothing line he modeled for the Blue Marlin clothing company became the best-selling line for Macys and Lord & Taylor. He's more used to total failure as when he was eliminated from the Mob on 1 Vs. 100 for not knowing the dish ran away with the spoon.  That brilliant move was probably nowhere near as bad as his former reality show with his now estranged wife or his debut album Playing With Fire which sold only 6,500 copies its first week. PoPoZao (po-po-zow) indeed.": {
+    "guess": "Kevin Federline",
+    "confidence": [
+      [
+        "Kevin",
+        -0.0026534172
+      ],
+      [
+        " Feder",
+        0.0
+      ],
+      [
+        "line",
+        0.0
+      ]
+    ]
+  },
+  "In a rare fit of success, the clothing line he modeled for the Blue Marlin clothing company became the best-selling line for Macys and Lord & Taylor. He's more used to total failure as when he was eliminated from the Mob on 1 Vs. 100 for not knowing the dish ran away with the spoon.  That brilliant move was probably nowhere near as bad as his former reality show with his now estranged wife or his debut album Playing With Fire which sold only 6,500 copies its first week. PoPoZao (po-po-zow) indeed. For 10 points, identify this soon-to-be-former Mr. Britney Spears.": {
+    "guess": "Kevin Federline",
+    "confidence": [
+      [
+        "Kevin",
+        -0.0025065783
+      ],
+      [
+        " Feder",
+        0.0
+      ],
+      [
+        "line",
+        0.0
+      ]
+    ]
+  },
+  "The rarest variety of this is the ds type which, is only found in certain viruses, and it is indistinguishable": {
+    "guess": "RNA",
+    "confidence": [
+      [
+        "RNA",
+        -0.05969928
+      ]
+    ]
+  },
+  "The rarest variety of this is the ds type which, is only found in certain viruses, and it is indistinguishable from another common biological molecule except for the subtraction of a hydroxyl group. More": {
+    "guess": "DNA",
+    "confidence": [
+      [
+        "DNA",
+        -0.011320249
+      ]
+    ]
+  },
+  "The rarest variety of this is the ds type which, is only found in certain viruses, and it is indistinguishable from another common biological molecule except for the subtraction of a hydroxyl group. More common types are t and m, which are essential to DNA translation and transcription, respectively.": {
+    "guess": "RNA",
+    "confidence": [
+      [
+        "RNA",
+        -0.013240115
+      ]
+    ]
+  },
+  "The rarest variety of this is the ds type which, is only found in certain viruses, and it is indistinguishable from another common biological molecule except for the subtraction of a hydroxyl group. More common types are t and m, which are essential to DNA translation and transcription, respectively. Often proposed as the historical precursor to DNA as the carrier of genetic information, for 10 points,": {
+    "guess": "RNA",
+    "confidence": [
+      [
+        "RNA",
+        -0.0010485277
+      ]
+    ]
+  },
+  "The rarest variety of this is the ds type which, is only found in certain viruses, and it is indistinguishable from another common biological molecule except for the subtraction of a hydroxyl group. More common types are t and m, which are essential to DNA translation and transcription, respectively. Often proposed as the historical precursor to DNA as the carrier of genetic information, for 10 points, name this biological molecule that is structurally similar to DNA but uses the base uracil in place": {
+    "guess": "RNA",
+    "confidence": [
+      [
+        "RNA",
+        -0.00036061046
+      ]
+    ]
+  },
+  "The rarest variety of this is the ds type which, is only found in certain viruses, and it is indistinguishable from another common biological molecule except for the subtraction of a hydroxyl group. More common types are t and m, which are essential to DNA translation and transcription, respectively. Often proposed as the historical precursor to DNA as the carrier of genetic information, for 10 points, name this biological molecule that is structurally similar to DNA but uses the base uracil in place of thymine.": {
+    "guess": "RNA",
+    "confidence": [
+      [
+        "RNA",
+        -0.0048059225
+      ]
+    ]
+  },
+  "A rare, green-colored form of this mineral used in jewelry is called prasiolite. This mineral can possess": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.0024305978
+      ]
+    ]
+  },
+  "A rare, green-colored form of this mineral used in jewelry is called prasiolite. This mineral can possess planar deformation features, and one variety of this mineral is called chalcedony. It is at the": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.00031019835
+      ]
+    ]
+  },
+  "A rare, green-colored form of this mineral used in jewelry is called prasiolite. This mineral can possess planar deformation features, and one variety of this mineral is called chalcedony. It is at the bottom of Bowen's Reaction Series, and this mineral exhibits piezoelectricity, making it useful in": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.00079509325
+      ]
+    ]
+  },
+  "A rare, green-colored form of this mineral used in jewelry is called prasiolite. This mineral can possess planar deformation features, and one variety of this mineral is called chalcedony. It is at the bottom of Bowen's Reaction Series, and this mineral exhibits piezoelectricity, making it useful in watches and radio transmitters. It is the second most abundant mineral in the Earth's crust, and varieties": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.00021498026
+      ]
+    ]
+  },
+  "A rare, green-colored form of this mineral used in jewelry is called prasiolite. This mineral can possess planar deformation features, and one variety of this mineral is called chalcedony. It is at the bottom of Bowen's Reaction Series, and this mineral exhibits piezoelectricity, making it useful in watches and radio transmitters. It is the second most abundant mineral in the Earth's crust, and varieties of it include onyx, citrine, and amethyst. For 10 points, name this mineral mainly composed of": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.029954465
+      ]
+    ]
+  },
+  "A rare, green-colored form of this mineral used in jewelry is called prasiolite. This mineral can possess planar deformation features, and one variety of this mineral is called chalcedony. It is at the bottom of Bowen's Reaction Series, and this mineral exhibits piezoelectricity, making it useful in watches and radio transmitters. It is the second most abundant mineral in the Earth's crust, and varieties of it include onyx, citrine, and amethyst. For 10 points, name this mineral mainly composed of silicon dioxide, with a Mohs hardness of 7.": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.048750985
+      ]
+    ]
+  }
+}

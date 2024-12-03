@@ -1,0 +1,905 @@
+{
+  "Brent's method for doing this is sometimes called inverse parabolic interpolation.  The Fletcher-Reeves": {
+    "guess": "Conjugate gradient method",
+    "confidence": [
+      [
+        "Con",
+        -0.30812335
+      ],
+      [
+        "jug",
+        0.0
+      ],
+      [
+        "ate",
+        0.0
+      ],
+      [
+        " gradient",
+        -0.00982645
+      ],
+      [
+        " method",
+        -0.00013047588
+      ]
+    ]
+  },
+  "Brent's method for doing this is sometimes called inverse parabolic interpolation.  The Fletcher-Reeves algorithm and its superior cousin, the Polak-Ribiere algorithm, can also be used to do this, while": {
+    "guess": "Conjugate gradient method",
+    "confidence": [
+      [
+        "Con",
+        -1.3511915
+      ],
+      [
+        "jug",
+        -0.00010402
+      ],
+      [
+        "ate",
+        0.0
+      ],
+      [
+        " gradient",
+        -0.0001693326
+      ],
+      [
+        " method",
+        -0.00023071514
+      ]
+    ]
+  },
+  "Brent's method for doing this is sometimes called inverse parabolic interpolation.  The Fletcher-Reeves algorithm and its superior cousin, the Polak-Ribiere algorithm, can also be used to do this, while the DFP and BFGS algorithms are examples of variable metric methods for doing this.  Powell's algorithm": {
+    "guess": "Optimization",
+    "confidence": [
+      [
+        "Optimization",
+        -0.024927206
+      ]
+    ]
+  },
+  "Brent's method for doing this is sometimes called inverse parabolic interpolation.  The Fletcher-Reeves algorithm and its superior cousin, the Polak-Ribiere algorithm, can also be used to do this, while the DFP and BFGS algorithms are examples of variable metric methods for doing this.  Powell's algorithm is the prototype for direction set methods of doing this.  This can also be done by annealing": {
+    "guess": "Optimization",
+    "confidence": [
+      [
+        "Optimization",
+        -0.0782719
+      ]
+    ]
+  },
+  "Brent's method for doing this is sometimes called inverse parabolic interpolation.  The Fletcher-Reeves algorithm and its superior cousin, the Polak-Ribiere algorithm, can also be used to do this, while the DFP and BFGS algorithms are examples of variable metric methods for doing this.  Powell's algorithm is the prototype for direction set methods of doing this.  This can also be done by annealing or through dynamic programming, whose \"canonical problem\" involves this.  The easiest ways of doing": {
+    "guess": "Optimization",
+    "confidence": [
+      [
+        "Optimization",
+        -0.06349761
+      ]
+    ]
+  },
+  "Brent's method for doing this is sometimes called inverse parabolic interpolation.  The Fletcher-Reeves algorithm and its superior cousin, the Polak-Ribiere algorithm, can also be used to do this, while the DFP and BFGS algorithms are examples of variable metric methods for doing this.  Powell's algorithm is the prototype for direction set methods of doing this.  This can also be done by annealing or through dynamic programming, whose \"canonical problem\" involves this.  The easiest ways of doing it computationally are the golden section search and the simplex method.  For 10 points, name this process": {
+    "guess": "Optimization",
+    "confidence": [
+      [
+        "Optimization",
+        -0.011337585
+      ]
+    ]
+  },
+  "Brent's method for doing this is sometimes called inverse parabolic interpolation.  The Fletcher-Reeves algorithm and its superior cousin, the Polak-Ribiere algorithm, can also be used to do this, while the DFP and BFGS algorithms are examples of variable metric methods for doing this.  Powell's algorithm is the prototype for direction set methods of doing this.  This can also be done by annealing or through dynamic programming, whose \"canonical problem\" involves this.  The easiest ways of doing it computationally are the golden section search and the simplex method.  For 10 points, name this process which involves finding the highest or lowest point of a function.": {
+    "guess": "Optimization",
+    "confidence": [
+      [
+        "Optimization",
+        -0.00978277
+      ]
+    ]
+  },
+  "At a break in this battle, fortifications were built at Great Redoubt, Balcarres Redoubt, and Breymann": {
+    "guess": "Battles of Saratoga",
+    "confidence": [
+      [
+        "Batt",
+        -0.005925005
+      ],
+      [
+        "les",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Sarat",
+        -1.3856493e-06
+      ],
+      [
+        "oga",
+        0.0
+      ]
+    ]
+  },
+  "At a break in this battle, fortifications were built at Great Redoubt, Balcarres Redoubt, and Breymann Redoubt. This battle would have been an even more complete victory had John Paterson's brigade supported": {
+    "guess": "Battles of Saratoga",
+    "confidence": [
+      [
+        "Batt",
+        -0.0119021125
+      ],
+      [
+        "les",
+        -3.1281633e-07
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " Sarat",
+        -1.8624639e-06
+      ],
+      [
+        "oga",
+        0.0
+      ]
+    ]
+  },
+  "At a break in this battle, fortifications were built at Great Redoubt, Balcarres Redoubt, and Breymann Redoubt. This battle would have been an even more complete victory had John Paterson's brigade supported the final charge. The main assault was commanded by a former Colonel at Wolfenbuttel, Friederich": {
+    "guess": "Battles of Saratoga",
+    "confidence": [
+      [
+        "Batt",
+        -0.07720305
+      ],
+      [
+        "les",
+        -4.4849444e-06
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Sarat",
+        -7.89631e-07
+      ],
+      [
+        "oga",
+        0.0
+      ]
+    ]
+  },
+  "At a break in this battle, fortifications were built at Great Redoubt, Balcarres Redoubt, and Breymann Redoubt. This battle would have been an even more complete victory had John Paterson's brigade supported the final charge. The main assault was commanded by a former Colonel at Wolfenbuttel, Friederich von Riedesel. In the final stage, a sniper mortally wounded Simon Fraser on the order of Daniel": {
+    "guess": "Battles of Saratoga",
+    "confidence": [
+      [
+        "Batt",
+        -0.017213231
+      ],
+      [
+        "les",
+        -4.561021e-05
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Sarat",
+        -2.1008714e-06
+      ],
+      [
+        "oga",
+        0.0
+      ]
+    ]
+  },
+  "At a break in this battle, fortifications were built at Great Redoubt, Balcarres Redoubt, and Breymann Redoubt. This battle would have been an even more complete victory had John Paterson's brigade supported the final charge. The main assault was commanded by a former Colonel at Wolfenbuttel, Friederich von Riedesel. In the final stage, a sniper mortally wounded Simon Fraser on the order of Daniel Morgan. This battle was fought in two areas, on Bemis Heights and in Freeman's Farm, and the rebel victory": {
+    "guess": "Battles of Saratoga",
+    "confidence": [
+      [
+        "Batt",
+        -0.0005663762
+      ],
+      [
+        "les",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sarat",
+        0.0
+      ],
+      [
+        "oga",
+        0.0
+      ]
+    ]
+  },
+  "At a break in this battle, fortifications were built at Great Redoubt, Balcarres Redoubt, and Breymann Redoubt. This battle would have been an even more complete victory had John Paterson's brigade supported the final charge. The main assault was commanded by a former Colonel at Wolfenbuttel, Friederich von Riedesel. In the final stage, a sniper mortally wounded Simon Fraser on the order of Daniel Morgan. This battle was fought in two areas, on Bemis Heights and in Freeman's Farm, and the rebel victory might be credited to the tactics of a wounded Benedict Arnold. FTP, identify this Revolutionary": {
+    "guess": "Battles of Saratoga",
+    "confidence": [
+      [
+        "Batt",
+        -0.0020546198
+      ],
+      [
+        "les",
+        -4.365741e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sarat",
+        0.0
+      ],
+      [
+        "oga",
+        0.0
+      ]
+    ]
+  },
+  "At a break in this battle, fortifications were built at Great Redoubt, Balcarres Redoubt, and Breymann Redoubt. This battle would have been an even more complete victory had John Paterson's brigade supported the final charge. The main assault was commanded by a former Colonel at Wolfenbuttel, Friederich von Riedesel. In the final stage, a sniper mortally wounded Simon Fraser on the order of Daniel Morgan. This battle was fought in two areas, on Bemis Heights and in Freeman's Farm, and the rebel victory might be credited to the tactics of a wounded Benedict Arnold. FTP, identify this Revolutionary War battle fought in September and October 1777; a victory for Gates over Burgoyne in upstate New": {
+    "guess": "Battles of Saratoga",
+    "confidence": [
+      [
+        "Batt",
+        -0.0030694567
+      ],
+      [
+        "les",
+        -5.5122365e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sarat",
+        0.0
+      ],
+      [
+        "oga",
+        0.0
+      ]
+    ]
+  },
+  "At a break in this battle, fortifications were built at Great Redoubt, Balcarres Redoubt, and Breymann Redoubt. This battle would have been an even more complete victory had John Paterson's brigade supported the final charge. The main assault was commanded by a former Colonel at Wolfenbuttel, Friederich von Riedesel. In the final stage, a sniper mortally wounded Simon Fraser on the order of Daniel Morgan. This battle was fought in two areas, on Bemis Heights and in Freeman's Farm, and the rebel victory might be credited to the tactics of a wounded Benedict Arnold. FTP, identify this Revolutionary War battle fought in September and October 1777; a victory for Gates over Burgoyne in upstate New York.": {
+    "guess": "Battles of Saratoga",
+    "confidence": [
+      [
+        "Batt",
+        -0.00071362394
+      ],
+      [
+        "les",
+        -7.89631e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sarat",
+        0.0
+      ],
+      [
+        "oga",
+        0.0
+      ]
+    ]
+  },
+  "After the breakdown of the Gastein Convention, this man went to war with Austria in the Seven Weeks'": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.19872954
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " von",
+        -3.1281633e-07
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "After the breakdown of the Gastein Convention, this man went to war with Austria in the Seven Weeks' War. His minister of education, Adalbert Falk, enacted the May Laws, which closed a large number of": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.5285488
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " von",
+        -1.9361265e-07
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "After the breakdown of the Gastein Convention, this man went to war with Austria in the Seven Weeks' War. His minister of education, Adalbert Falk, enacted the May Laws, which closed a large number of seminaries in his country. Those laws were part of this man's anti-Catholic Kulturkampf. This man edited": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.015310171
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " von",
+        -3.1281633e-07
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "After the breakdown of the Gastein Convention, this man went to war with Austria in the Seven Weeks' War. His minister of education, Adalbert Falk, enacted the May Laws, which closed a large number of seminaries in his country. Those laws were part of this man's anti-Catholic Kulturkampf. This man edited a telegram from France called the (*) Ems Dispatch, which resulted in the Franco-Prussian War.": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.00059711613
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " von",
+        0.0
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "After the breakdown of the Gastein Convention, this man went to war with Austria in the Seven Weeks' War. His minister of education, Adalbert Falk, enacted the May Laws, which closed a large number of seminaries in his country. Those laws were part of this man's anti-Catholic Kulturkampf. This man edited a telegram from France called the (*) Ems Dispatch, which resulted in the Franco-Prussian War. For 10 points, name this practitioner of realpolitik who was known as the \"Iron Chancellor\" and founded": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.0024930183
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " von",
+        0.0
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "After the breakdown of the Gastein Convention, this man went to war with Austria in the Seven Weeks' War. His minister of education, Adalbert Falk, enacted the May Laws, which closed a large number of seminaries in his country. Those laws were part of this man's anti-Catholic Kulturkampf. This man edited a telegram from France called the (*) Ems Dispatch, which resulted in the Franco-Prussian War. For 10 points, name this practitioner of realpolitik who was known as the \"Iron Chancellor\" and founded the German Empire under Wilhelm I in 1871.": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.001119023
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " von",
+        -1.9361265e-07
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "Her breasts are depicted as soft and flaccid from nursing, and this goddess wears a necklace made of": {
+    "guess": "Kali",
+    "confidence": [
+      [
+        "K",
+        -0.004877689
+      ],
+      [
+        "ali",
+        -0.00026300468
+      ]
+    ]
+  },
+  "Her breasts are depicted as soft and flaccid from nursing, and this goddess wears a necklace made of human hearts, hands, and skulls, and a skirt of snakes.  One child of this goddess was depicted as a": {
+    "guess": "Coatlicue",
+    "confidence": [
+      [
+        "Co",
+        -0.05468851
+      ],
+      [
+        "at",
+        -2.6968896e-06
+      ],
+      [
+        "lic",
+        0.0
+      ],
+      [
+        "ue",
+        0.0
+      ]
+    ]
+  },
+  "Her breasts are depicted as soft and flaccid from nursing, and this goddess wears a necklace made of human hearts, hands, and skulls, and a skirt of snakes.  One child of this goddess was depicted as a dog-headed monster and accompanied the dead on their journey to Mictlan.  This mother of Xolotl was": {
+    "guess": "Coatlicue",
+    "confidence": [
+      [
+        "Co",
+        -0.0087277945
+      ],
+      [
+        "at",
+        -2.6968896e-06
+      ],
+      [
+        "lic",
+        0.0
+      ],
+      [
+        "ue",
+        0.0
+      ]
+    ]
+  },
+  "Her breasts are depicted as soft and flaccid from nursing, and this goddess wears a necklace made of human hearts, hands, and skulls, and a skirt of snakes.  One child of this goddess was depicted as a dog-headed monster and accompanied the dead on their journey to Mictlan.  This mother of Xolotl was killed by another child of hers who led the Centzonuitznaua against her and whose head was thrown into": {
+    "guess": "Coatlicue",
+    "confidence": [
+      [
+        "Co",
+        -0.017560234
+      ],
+      [
+        "at",
+        -5.6769813e-06
+      ],
+      [
+        "lic",
+        0.0
+      ],
+      [
+        "ue",
+        0.0
+      ]
+    ]
+  },
+  "Her breasts are depicted as soft and flaccid from nursing, and this goddess wears a necklace made of human hearts, hands, and skulls, and a skirt of snakes.  One child of this goddess was depicted as a dog-headed monster and accompanied the dead on their journey to Mictlan.  This mother of Xolotl was killed by another child of hers who led the Centzonuitznaua against her and whose head was thrown into the night sky to become the moon after being killed by another child of this goddess.  That child": {
+    "guess": "Coyolxauhqui",
+    "confidence": [
+      [
+        "Coy",
+        -0.18534404
+      ],
+      [
+        "ol",
+        -5.5122365e-07
+      ],
+      [
+        "x",
+        -4.00813e-06
+      ],
+      [
+        "auh",
+        -0.0015031944
+      ],
+      [
+        "qui",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "Her breasts are depicted as soft and flaccid from nursing, and this goddess wears a necklace made of human hearts, hands, and skulls, and a skirt of snakes.  One child of this goddess was depicted as a dog-headed monster and accompanied the dead on their journey to Mictlan.  This mother of Xolotl was killed by another child of hers who led the Centzonuitznaua against her and whose head was thrown into the night sky to become the moon after being killed by another child of this goddess.  That child was the patron of Tenochtitlan and had a messenger named Paynal.  For 10 points, name this goddess,": {
+    "guess": "Coatlicue",
+    "confidence": [
+      [
+        "Co",
+        -0.04278723
+      ],
+      [
+        "at",
+        -5.7961847e-06
+      ],
+      [
+        "lic",
+        -0.000114748334
+      ],
+      [
+        "ue",
+        0.0
+      ]
+    ]
+  },
+  "Her breasts are depicted as soft and flaccid from nursing, and this goddess wears a necklace made of human hearts, hands, and skulls, and a skirt of snakes.  One child of this goddess was depicted as a dog-headed monster and accompanied the dead on their journey to Mictlan.  This mother of Xolotl was killed by another child of hers who led the Centzonuitznaua against her and whose head was thrown into the night sky to become the moon after being killed by another child of this goddess.  That child was the patron of Tenochtitlan and had a messenger named Paynal.  For 10 points, name this goddess, the patron of women who die in childbirth and who gave birth to Coyolxauhqui and Huitzilopochtli after": {
+    "guess": "Coatlicue",
+    "confidence": [
+      [
+        "Co",
+        -0.115165986
+      ],
+      [
+        "at",
+        -7.58424e-06
+      ],
+      [
+        "lic",
+        -6.2775536e-05
+      ],
+      [
+        "ue",
+        0.0
+      ]
+    ]
+  },
+  "Her breasts are depicted as soft and flaccid from nursing, and this goddess wears a necklace made of human hearts, hands, and skulls, and a skirt of snakes.  One child of this goddess was depicted as a dog-headed monster and accompanied the dead on their journey to Mictlan.  This mother of Xolotl was killed by another child of hers who led the Centzonuitznaua against her and whose head was thrown into the night sky to become the moon after being killed by another child of this goddess.  That child was the patron of Tenochtitlan and had a messenger named Paynal.  For 10 points, name this goddess, the patron of women who die in childbirth and who gave birth to Coyolxauhqui and Huitzilopochtli after being impregnated by a ball of feathers.": {
+    "guess": "Coatlicue",
+    "confidence": [
+      [
+        "Co",
+        -0.017238654
+      ],
+      [
+        "at",
+        -1.50940705e-05
+      ],
+      [
+        "lic",
+        -3.5358695e-05
+      ],
+      [
+        "ue",
+        0.0
+      ]
+    ]
+  },
+  "The Brewer-Dobson circulation explains its distribution away from the tropics, and the Rowland- Molina": {
+    "guess": "Ozone layer",
+    "confidence": [
+      [
+        "O",
+        -0.07570459
+      ],
+      [
+        "zone",
+        -4.3202e-07
+      ],
+      [
+        " layer",
+        -0.45291814
+      ]
+    ]
+  },
+  "The Brewer-Dobson circulation explains its distribution away from the tropics, and the Rowland- Molina hypothesis extends another advanced by Paul Crutzen about nitric acid. Its principle function is carried": {
+    "guess": "Ozone layer",
+    "confidence": [
+      [
+        "O",
+        -0.008863803
+      ],
+      [
+        "zone",
+        -3.1281633e-07
+      ],
+      [
+        " layer",
+        -0.02413388
+      ]
+    ]
+  },
+  "The Brewer-Dobson circulation explains its distribution away from the tropics, and the Rowland- Molina hypothesis extends another advanced by Paul Crutzen about nitric acid. Its principle function is carried out by fixing light energy as kinetic energy and, according to that hypothesis, it is damaged": {
+    "guess": "Ozone layer",
+    "confidence": [
+      [
+        "O",
+        -0.0032231067
+      ],
+      [
+        "zone",
+        0.0
+      ],
+      [
+        " layer",
+        -0.22791567
+      ]
+    ]
+  },
+  "The Brewer-Dobson circulation explains its distribution away from the tropics, and the Rowland- Molina hypothesis extends another advanced by Paul Crutzen about nitric acid. Its principle function is carried out by fixing light energy as kinetic energy and, according to that hypothesis, it is damaged by the free radicals released in large quantities by chlorofluorocarbons. For 10 points, identify this": {
+    "guess": "Ozone layer",
+    "confidence": [
+      [
+        "O",
+        -0.006996916
+      ],
+      [
+        "zone",
+        0.0
+      ],
+      [
+        " layer",
+        -0.70635456
+      ]
+    ]
+  },
+  "The Brewer-Dobson circulation explains its distribution away from the tropics, and the Rowland- Molina hypothesis extends another advanced by Paul Crutzen about nitric acid. Its principle function is carried out by fixing light energy as kinetic energy and, according to that hypothesis, it is damaged by the free radicals released in large quantities by chlorofluorocarbons. For 10 points, identify this essential component of the lower stratosphere, which absorbs a large part of incoming ultraviolet": {
+    "guess": "Ozone layer",
+    "confidence": [
+      [
+        "O",
+        -0.0005787697
+      ],
+      [
+        "zone",
+        -1.9361265e-07
+      ],
+      [
+        " layer",
+        -0.1029471
+      ]
+    ]
+  },
+  "The Brewer-Dobson circulation explains its distribution away from the tropics, and the Rowland- Molina hypothesis extends another advanced by Paul Crutzen about nitric acid. Its principle function is carried out by fixing light energy as kinetic energy and, according to that hypothesis, it is damaged by the free radicals released in large quantities by chlorofluorocarbons. For 10 points, identify this essential component of the lower stratosphere, which absorbs a large part of incoming ultraviolet light, and whose efficacy is at risk due to the development of a hole.": {
+    "guess": "Ozone layer",
+    "confidence": [
+      [
+        "O",
+        -0.003632504
+      ],
+      [
+        "zone",
+        0.0
+      ],
+      [
+        " layer",
+        -0.29585502
+      ]
+    ]
+  },
+  "His breakout performance came with the song \"Scenario,\" a collaboration between A Tribe Called Quest": {
+    "guess": "Busta Rhymes",
+    "confidence": [
+      [
+        "B",
+        -0.17267033
+      ],
+      [
+        "usta",
+        0.0
+      ],
+      [
+        " Rh",
+        0.0
+      ],
+      [
+        "ymes",
+        0.0
+      ]
+    ]
+  },
+  "His breakout performance came with the song \"Scenario,\" a collaboration between A Tribe Called Quest and Leaders of the New School. He first signed as a solo artist to Elektra, and in 1996 released his": {
+    "guess": "Busta Rhymes",
+    "confidence": [
+      [
+        "B",
+        -0.0021948605
+      ],
+      [
+        "usta",
+        0.0
+      ],
+      [
+        " Rh",
+        0.0
+      ],
+      [
+        "ymes",
+        0.0
+      ]
+    ]
+  },
+  "His breakout performance came with the song \"Scenario,\" a collaboration between A Tribe Called Quest and Leaders of the New School. He first signed as a solo artist to Elektra, and in 1996 released his first album, The Coming, which included the single \"Woo-Hah! Got You All in Check\". His blending of": {
+    "guess": "Busta Rhymes",
+    "confidence": [
+      [
+        "B",
+        -0.00011164904
+      ],
+      [
+        "usta",
+        0.0
+      ],
+      [
+        " Rh",
+        0.0
+      ],
+      [
+        "ymes",
+        0.0
+      ]
+    ]
+  },
+  "His breakout performance came with the song \"Scenario,\" a collaboration between A Tribe Called Quest and Leaders of the New School. He first signed as a solo artist to Elektra, and in 1996 released his first album, The Coming, which included the single \"Woo-Hah! Got You All in Check\". His blending of Ragga with hip hop and his rapid delivery are expressed in singles like \"Put Your Eyes Where My Hands": {
+    "guess": "Busta Rhymes",
+    "confidence": [
+      [
+        "B",
+        -0.00012940305
+      ],
+      [
+        "usta",
+        0.0
+      ],
+      [
+        " Rh",
+        0.0
+      ],
+      [
+        "ymes",
+        0.0
+      ]
+    ]
+  },
+  "His breakout performance came with the song \"Scenario,\" a collaboration between A Tribe Called Quest and Leaders of the New School. He first signed as a solo artist to Elektra, and in 1996 released his first album, The Coming, which included the single \"Woo-Hah! Got You All in Check\". His blending of Ragga with hip hop and his rapid delivery are expressed in singles like \"Put Your Eyes Where My Hands Can See\" and \"Gimme Some More,\" which respectively appear on his albums When Disaster Strikes and": {
+    "guess": "Busta Rhymes",
+    "confidence": [
+      [
+        "B",
+        -0.7113103
+      ],
+      [
+        "usta",
+        -1.2664457e-06
+      ],
+      [
+        " Rh",
+        -1.9361265e-07
+      ],
+      [
+        "ymes",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "His breakout performance came with the song \"Scenario,\" a collaboration between A Tribe Called Quest and Leaders of the New School. He first signed as a solo artist to Elektra, and in 1996 released his first album, The Coming, which included the single \"Woo-Hah! Got You All in Check\". His blending of Ragga with hip hop and his rapid delivery are expressed in singles like \"Put Your Eyes Where My Hands Can See\" and \"Gimme Some More,\" which respectively appear on his albums When Disaster Strikes and Extinction Level Event: The Final World Front. He later signed to J Records, where he promoted his": {
+    "guess": "Busta Rhymes",
+    "confidence": [
+      [
+        "B",
+        -0.0007872331
+      ],
+      [
+        "usta",
+        0.0
+      ],
+      [
+        " Rh",
+        0.0
+      ],
+      [
+        "ymes",
+        0.0
+      ]
+    ]
+  },
+  "His breakout performance came with the song \"Scenario,\" a collaboration between A Tribe Called Quest and Leaders of the New School. He first signed as a solo artist to Elektra, and in 1996 released his first album, The Coming, which included the single \"Woo-Hah! Got You All in Check\". His blending of Ragga with hip hop and his rapid delivery are expressed in singles like \"Put Your Eyes Where My Hands Can See\" and \"Gimme Some More,\" which respectively appear on his albums When Disaster Strikes and Extinction Level Event: The Final World Front. He later signed to J Records, where he promoted his group, the Flipmode Squad. For ten points, name this rapper who recently released the single \"Touch": {
+    "guess": "Busta Rhymes",
+    "confidence": [
+      [
+        "B",
+        -0.00020842774
+      ],
+      [
+        "usta",
+        0.0
+      ],
+      [
+        " Rh",
+        0.0
+      ],
+      [
+        "ymes",
+        0.0
+      ]
+    ]
+  },
+  "His breakout performance came with the song \"Scenario,\" a collaboration between A Tribe Called Quest and Leaders of the New School. He first signed as a solo artist to Elektra, and in 1996 released his first album, The Coming, which included the single \"Woo-Hah! Got You All in Check\". His blending of Ragga with hip hop and his rapid delivery are expressed in singles like \"Put Your Eyes Where My Hands Can See\" and \"Gimme Some More,\" which respectively appear on his albums When Disaster Strikes and Extinction Level Event: The Final World Front. He later signed to J Records, where he promoted his group, the Flipmode Squad. For ten points, name this rapper who recently released the single \"Touch It\" from his latest album, The Big Bang.": {
+    "guess": "Busta Rhymes",
+    "confidence": [
+      [
+        "B",
+        -0.06203109
+      ],
+      [
+        "usta",
+        0.0
+      ],
+      [
+        " Rh",
+        0.0
+      ],
+      [
+        "ymes",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,5475 @@
+{
+  "It reacts directly with carbon-carbon double bonds by a 1,3 cycloadditon to form a pentagonal intermediate,": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.28418833
+      ],
+      [
+        "iels",
+        -0.0046559493
+      ],
+      [
+        "-A",
+        -0.20141694
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.038051475
+      ]
+    ]
+  },
+  "It reacts directly with carbon-carbon double bonds by a 1,3 cycloadditon to form a pentagonal intermediate, after which workup reagents can be added to produce carbonyl end products. Its distinctive smell": {
+    "guess": "Ozone",
+    "confidence": [
+      [
+        "O",
+        -0.0012042811
+      ],
+      [
+        "zone",
+        -0.000912298
+      ]
+    ]
+  },
+  "It reacts directly with carbon-carbon double bonds by a 1,3 cycloadditon to form a pentagonal intermediate, after which workup reagents can be added to produce carbonyl end products. Its distinctive smell was specifically noted in 1785, but it was not determined to be a definite chemical compound until": {
+    "guess": "Ozone",
+    "confidence": [
+      [
+        "O",
+        -0.048660945
+      ],
+      [
+        "zone",
+        -0.0011704603
+      ]
+    ]
+  },
+  "It reacts directly with carbon-carbon double bonds by a 1,3 cycloadditon to form a pentagonal intermediate, after which workup reagents can be added to produce carbonyl end products. Its distinctive smell was specifically noted in 1785, but it was not determined to be a definite chemical compound until 1839. Because of its high oxidation potential and ease of production, it is often used as a disinfectant,": {
+    "guess": "Ozone",
+    "confidence": [
+      [
+        "O",
+        -0.014429332
+      ],
+      [
+        "zone",
+        -0.00026169344
+      ]
+    ]
+  },
+  "It reacts directly with carbon-carbon double bonds by a 1,3 cycloadditon to form a pentagonal intermediate, after which workup reagents can be added to produce carbonyl end products. Its distinctive smell was specifically noted in 1785, but it was not determined to be a definite chemical compound until 1839. Because of its high oxidation potential and ease of production, it is often used as a disinfectant, particularly in water treatment plants. More famously, it blocks ultraviolet rays, converting": {
+    "guess": "Ozone",
+    "confidence": [
+      [
+        "O",
+        -0.0033476287
+      ],
+      [
+        "zone",
+        -7.3458323e-06
+      ]
+    ]
+  },
+  "It reacts directly with carbon-carbon double bonds by a 1,3 cycloadditon to form a pentagonal intermediate, after which workup reagents can be added to produce carbonyl end products. Its distinctive smell was specifically noted in 1785, but it was not determined to be a definite chemical compound until 1839. Because of its high oxidation potential and ease of production, it is often used as a disinfectant, particularly in water treatment plants. More famously, it blocks ultraviolet rays, converting them into heat energy in the earth's stratosphere. FTP identify this triatomic compound with a characteristic": {
+    "guess": "Ozone",
+    "confidence": [
+      [
+        "O",
+        -0.0057093087
+      ],
+      [
+        "zone",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "It reacts directly with carbon-carbon double bonds by a 1,3 cycloadditon to form a pentagonal intermediate, after which workup reagents can be added to produce carbonyl end products. Its distinctive smell was specifically noted in 1785, but it was not determined to be a definite chemical compound until 1839. Because of its high oxidation potential and ease of production, it is often used as a disinfectant, particularly in water treatment plants. More famously, it blocks ultraviolet rays, converting them into heat energy in the earth's stratosphere. FTP identify this triatomic compound with a characteristic pale blue color, which is composed entirely of oxygen atoms.": {
+    "guess": "Ozone",
+    "confidence": [
+      [
+        "O",
+        -0.0033645043
+      ],
+      [
+        "zone",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This reaction produces 640 gigajoules per kilogram of material, and is most important at temperatures": {
+    "guess": "Nuclear fusion",
+    "confidence": [
+      [
+        "N",
+        -0.0390378
+      ],
+      [
+        "uclear",
+        -5.5122365e-07
+      ],
+      [
+        " fusion",
+        -0.00057138276
+      ]
+    ]
+  },
+  "This reaction produces 640 gigajoules per kilogram of material, and is most important at temperatures below 15 million Kelvin.  The average time required for the first step is, on average, approximately": {
+    "guess": "Proton-proton chain reaction",
+    "confidence": [
+      [
+        "Pro",
+        -0.0045059617
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        "-pro",
+        -0.061990656
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        " chain",
+        -4.723352e-06
+      ],
+      [
+        " reaction",
+        -0.08281427
+      ]
+    ]
+  },
+  "This reaction produces 640 gigajoules per kilogram of material, and is most important at temperatures below 15 million Kelvin.  The average time required for the first step is, on average, approximately 14 billion years, while the second and third steps take 6 seconds and 1 million years, respectively.": {
+    "guess": "Proton-proton chain reaction",
+    "confidence": [
+      [
+        "Pro",
+        -0.0013461848
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        "-pro",
+        -0.38699356
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        " chain",
+        -9.968313e-06
+      ],
+      [
+        " reaction",
+        -0.011965484
+      ]
+    ]
+  },
+  "This reaction produces 640 gigajoules per kilogram of material, and is most important at temperatures below 15 million Kelvin.  The average time required for the first step is, on average, approximately 14 billion years, while the second and third steps take 6 seconds and 1 million years, respectively.  In the Sun, however, 600 million tons of hydrogen are still reacted every second using this mechanism.": {
+    "guess": "Proton-proton chain reaction",
+    "confidence": [
+      [
+        "Pro",
+        -0.00017052464
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        "-pro",
+        -0.2523592
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        " chain",
+        -5.080963e-06
+      ],
+      [
+        " reaction",
+        -0.08032676
+      ]
+    ]
+  },
+  "This reaction produces 640 gigajoules per kilogram of material, and is most important at temperatures below 15 million Kelvin.  The average time required for the first step is, on average, approximately 14 billion years, while the second and third steps take 6 seconds and 1 million years, respectively.  In the Sun, however, 600 million tons of hydrogen are still reacted every second using this mechanism.  FTP, name this set of reactions responsible for producing energy in average-size stars, so named": {
+    "guess": "Proton-proton chain reaction",
+    "confidence": [
+      [
+        "Pro",
+        -0.00042721233
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        "-pro",
+        -0.3141181
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        " chain",
+        -9.014684e-06
+      ],
+      [
+        " reaction",
+        -0.20376994
+      ]
+    ]
+  },
+  "This reaction produces 640 gigajoules per kilogram of material, and is most important at temperatures below 15 million Kelvin.  The average time required for the first step is, on average, approximately 14 billion years, while the second and third steps take 6 seconds and 1 million years, respectively.  In the Sun, however, 600 million tons of hydrogen are still reacted every second using this mechanism.  FTP, name this set of reactions responsible for producing energy in average-size stars, so named because it starts with the reaction of two hydrogen nuclei.": {
+    "guess": "Proton-proton chain reaction",
+    "confidence": [
+      [
+        "Pro",
+        -0.00020222914
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        "-pro",
+        -0.2523092
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        " chain",
+        -5.6769813e-06
+      ],
+      [
+        " reaction",
+        -0.049560856
+      ]
+    ]
+  },
+  "At a reaction center, it can take the form of either P680 or P700, and the wavelength difference of 20": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.44659913
+      ],
+      [
+        "lor",
+        -4.3202e-07
+      ],
+      [
+        "ophyll",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "At a reaction center, it can take the form of either P680 or P700, and the wavelength difference of 20 nanometers depends on which proteins surround it.  Molecules not at reactions centers are called antenna": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.010815411
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        0.0
+      ]
+    ]
+  },
+  "At a reaction center, it can take the form of either P680 or P700, and the wavelength difference of 20 nanometers depends on which proteins surround it.  Molecules not at reactions centers are called antenna molecules, and are not usually found in the bacterio- type or the E type.  In solution, it gives": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.011194474
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        0.0
+      ]
+    ]
+  },
+  "At a reaction center, it can take the form of either P680 or P700, and the wavelength difference of 20 nanometers depends on which proteins surround it.  Molecules not at reactions centers are called antenna molecules, and are not usually found in the bacterio- type or the E type.  In solution, it gives off a red-orange glow when excited by ultraviolet light.  It contains a phytol side chain attached": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.06377346
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        0.0
+      ]
+    ]
+  },
+  "At a reaction center, it can take the form of either P680 or P700, and the wavelength difference of 20 nanometers depends on which proteins surround it.  Molecules not at reactions centers are called antenna molecules, and are not usually found in the bacterio- type or the E type.  In solution, it gives off a red-orange glow when excited by ultraviolet light.  It contains a phytol side chain attached to a porphyrin head that contains magnesium.  FTP, name this molecule with a characteristic green": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.0015196226
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        0.0
+      ]
+    ]
+  },
+  "At a reaction center, it can take the form of either P680 or P700, and the wavelength difference of 20 nanometers depends on which proteins surround it.  Molecules not at reactions centers are called antenna molecules, and are not usually found in the bacterio- type or the E type.  In solution, it gives off a red-orange glow when excited by ultraviolet light.  It contains a phytol side chain attached to a porphyrin head that contains magnesium.  FTP, name this molecule with a characteristic green color that is crucial to photosynthesis.": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.0067590675
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        0.0
+      ]
+    ]
+  },
+  "Real ones included New York's Henry Tanner, who did it for 40 days, and Giacomo Succi, whose record of": {
+    "guess": "Fasting",
+    "confidence": [
+      [
+        "F",
+        -0.0017824026
+      ],
+      [
+        "asting",
+        -8.89548e-06
+      ]
+    ]
+  },
+  "Real ones included New York's Henry Tanner, who did it for 40 days, and Giacomo Succi, whose record of 46 days stood until 1926.  A 1976 play by Tadeusz Rozewicz is based on the most famous literary example,": {
+    "guess": "Hunger artist",
+    "confidence": [
+      [
+        "H",
+        -0.5928169
+      ],
+      [
+        "unger",
+        0.0
+      ],
+      [
+        " artist",
+        -0.16173226
+      ]
+    ]
+  },
+  "Real ones included New York's Henry Tanner, who did it for 40 days, and Giacomo Succi, whose record of 46 days stood until 1926.  A 1976 play by Tadeusz Rozewicz is based on the most famous literary example, who at the end of his life asks an overseer to forgive him and who is replaced after his death": {
+    "guess": "The Hunger Artist",
+    "confidence": [
+      [
+        "The",
+        -0.49677595
+      ],
+      [
+        " Hunger",
+        -0.0074905655
+      ],
+      [
+        " Artist",
+        -2.0100624e-05
+      ]
+    ]
+  },
+  "Real ones included New York's Henry Tanner, who did it for 40 days, and Giacomo Succi, whose record of 46 days stood until 1926.  A 1976 play by Tadeusz Rozewicz is based on the most famous literary example, who at the end of his life asks an overseer to forgive him and who is replaced after his death by a young panther.  FTP, identify the occupation of the title character of a story published in 1924,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8952007
+      ]
+    ]
+  },
+  "Real ones included New York's Henry Tanner, who did it for 40 days, and Giacomo Succi, whose record of 46 days stood until 1926.  A 1976 play by Tadeusz Rozewicz is based on the most famous literary example, who at the end of his life asks an overseer to forgive him and who is replaced after his death by a young panther.  FTP, identify the occupation of the title character of a story published in 1924, who lives in a cage and ends up in a circus, a work by Franz Kafka.": {
+    "guess": "Hunger Artist",
+    "confidence": [
+      [
+        "H",
+        -0.6844802
+      ],
+      [
+        "unger",
+        -1.9361265e-07
+      ],
+      [
+        " Artist",
+        -0.5233556
+      ]
+    ]
+  },
+  "It reached its summit in its victories over Waldemar IV of Denmark, gaining in the Treaty of Stralsund": {
+    "guess": "Hanseatic League",
+    "confidence": [
+      [
+        "H",
+        -0.00020568605
+      ],
+      [
+        "anse",
+        0.0
+      ],
+      [
+        "atic",
+        0.0
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "It reached its summit in its victories over Waldemar IV of Denmark, gaining in the Treaty of Stralsund a virtual monopoly in Scandinavia, but its hegemony was curbed by a Dutch defeat in 1441.  The last": {
+    "guess": "Hanseatic League",
+    "confidence": [
+      [
+        "H",
+        -0.007890759
+      ],
+      [
+        "anse",
+        -1.9361265e-07
+      ],
+      [
+        "atic",
+        0.0
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "It reached its summit in its victories over Waldemar IV of Denmark, gaining in the Treaty of Stralsund a virtual monopoly in Scandinavia, but its hegemony was curbed by a Dutch defeat in 1441.  The last diet was held in 1669, but this group never formally dissolved.  Originating in a treaty between L?beck": {
+    "guess": "Hanseatic League",
+    "confidence": [
+      [
+        "H",
+        -0.0003927808
+      ],
+      [
+        "anse",
+        0.0
+      ],
+      [
+        "atic",
+        0.0
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "It reached its summit in its victories over Waldemar IV of Denmark, gaining in the Treaty of Stralsund a virtual monopoly in Scandinavia, but its hegemony was curbed by a Dutch defeat in 1441.  The last diet was held in 1669, but this group never formally dissolved.  Originating in a treaty between L?beck and Hamburg in 1241, its goal was to obtain mutual security and exclusive trading rights for its": {
+    "guess": "Hanseatic League",
+    "confidence": [
+      [
+        "H",
+        -9.72254e-05
+      ],
+      [
+        "anse",
+        0.0
+      ],
+      [
+        "atic",
+        0.0
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "It reached its summit in its victories over Waldemar IV of Denmark, gaining in the Treaty of Stralsund a virtual monopoly in Scandinavia, but its hegemony was curbed by a Dutch defeat in 1441.  The last diet was held in 1669, but this group never formally dissolved.  Originating in a treaty between L?beck and Hamburg in 1241, its goal was to obtain mutual security and exclusive trading rights for its members.  FTP, identify this medieval German mercantile league.": {
+    "guess": "Hanseatic League",
+    "confidence": [
+      [
+        "H",
+        -1.7835755e-05
+      ],
+      [
+        "anse",
+        0.0
+      ],
+      [
+        "atic",
+        0.0
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "This realist wrote about individuals driven toward death in such short stories as \"Dreams of Chang,\"": {
+    "guess": "Lu Xun",
+    "confidence": [
+      [
+        "Lu",
+        -0.64668167
+      ],
+      [
+        " X",
+        -0.001396784
+      ],
+      [
+        "un",
+        0.0
+      ]
+    ]
+  },
+  "This realist wrote about individuals driven toward death in such short stories as \"Dreams of Chang,\" about a dog watching its master drink himself to death because of his unfaithful wife, and about doomed": {
+    "guess": "Jack London",
+    "confidence": [
+      [
+        "Jack",
+        -0.65142447
+      ],
+      [
+        " London",
+        -2.6895234e-05
+      ]
+    ]
+  },
+  "This realist wrote about individuals driven toward death in such short stories as \"Dreams of Chang,\" about a dog watching its master drink himself to death because of his unfaithful wife, and about doomed erotic liasons in his collection Dark Avenues.  The story \"Antonov Apples\" is his only work with": {
+    "guess": "Ivan Alekseyevich Bunin",
+    "confidence": [
+      [
+        "Ivan",
+        -0.0076541887
+      ],
+      [
+        " Ale",
+        -0.018220529
+      ],
+      [
+        "k",
+        0.0
+      ],
+      [
+        "se",
+        -3.888926e-06
+      ],
+      [
+        "yev",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ],
+      [
+        " Bun",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "This realist wrote about individuals driven toward death in such short stories as \"Dreams of Chang,\" about a dog watching its master drink himself to death because of his unfaithful wife, and about doomed erotic liasons in his collection Dark Avenues.  The story \"Antonov Apples\" is his only work with an optimistic outlook on life, while 1910's The Village is his only novel.  For 10 points-- identify": {
+    "guess": "Ivan Alekseyevich Bunin",
+    "confidence": [
+      [
+        "Ivan",
+        -0.005768211
+      ],
+      [
+        " Ale",
+        -0.12697442
+      ],
+      [
+        "k",
+        0.0
+      ],
+      [
+        "se",
+        -1.6240566e-06
+      ],
+      [
+        "yev",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ],
+      [
+        " Bun",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "This realist wrote about individuals driven toward death in such short stories as \"Dreams of Chang,\" about a dog watching its master drink himself to death because of his unfaithful wife, and about doomed erotic liasons in his collection Dark Avenues.  The story \"Antonov Apples\" is his only work with an optimistic outlook on life, while 1910's The Village is his only novel.  For 10 points-- identify this author of \"The Gentleman from San Francisco,\" who in 1934 became the first Russian to win a Nobel": {
+    "guess": "Ivan Bunin",
+    "confidence": [
+      [
+        "Ivan",
+        -0.12945044
+      ],
+      [
+        " Bun",
+        -0.00018327577
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "This realist wrote about individuals driven toward death in such short stories as \"Dreams of Chang,\" about a dog watching its master drink himself to death because of his unfaithful wife, and about doomed erotic liasons in his collection Dark Avenues.  The story \"Antonov Apples\" is his only work with an optimistic outlook on life, while 1910's The Village is his only novel.  For 10 points-- identify this author of \"The Gentleman from San Francisco,\" who in 1934 became the first Russian to win a Nobel Prize in Literature.": {
+    "guess": "Ivan Bunin",
+    "confidence": [
+      [
+        "Ivan",
+        -0.018536294
+      ],
+      [
+        " Bun",
+        -0.00043698703
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "He rebutted the moralist views of W.K. Clifford in an essay which categorizes live, forced, and momentous": {
+    "guess": "The Will to Believe",
+    "confidence": [
+      [
+        "The",
+        -0.10181479
+      ],
+      [
+        " Will",
+        -2.2127088e-05
+      ],
+      [
+        " to",
+        0.0
+      ],
+      [
+        " Believe",
+        0.0
+      ]
+    ]
+  },
+  "He rebutted the moralist views of W.K. Clifford in an essay which categorizes live, forced, and momentous options. He's the first namesake of a theory which states that emotions result from the perception": {
+    "guess": "William James",
+    "confidence": [
+      [
+        "William",
+        -0.026449846
+      ],
+      [
+        " James",
+        0.0
+      ]
+    ]
+  },
+  "He rebutted the moralist views of W.K. Clifford in an essay which categorizes live, forced, and momentous options. He's the first namesake of a theory which states that emotions result from the perception of a physiological stimulus, rather than emotions preceding autonomic responses. One of his essays": {
+    "guess": "William James",
+    "confidence": [
+      [
+        "William",
+        -0.62148625
+      ],
+      [
+        " James",
+        0.0
+      ]
+    ]
+  },
+  "He rebutted the moralist views of W.K. Clifford in an essay which categorizes live, forced, and momentous options. He's the first namesake of a theory which states that emotions result from the perception of a physiological stimulus, rather than emotions preceding autonomic responses. One of his essays asks whether a man chasing a squirrel around a tree is by definition \"going round\" the squirrel.": {
+    "guess": "William James",
+    "confidence": [
+      [
+        "William",
+        -0.08933353
+      ],
+      [
+        " James",
+        0.0
+      ]
+    ]
+  },
+  "He rebutted the moralist views of W.K. Clifford in an essay which categorizes live, forced, and momentous options. He's the first namesake of a theory which states that emotions result from the perception of a physiological stimulus, rather than emotions preceding autonomic responses. One of his essays asks whether a man chasing a squirrel around a tree is by definition \"going round\" the squirrel. This author of \"The Will to Believe\" and The Principles of Psychology argued that \"truth\" is only what": {
+    "guess": "Pragmatism (philosophy)",
+    "confidence": [
+      [
+        "Pr",
+        -0.17199285
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "mat",
+        -0.0031792598
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ],
+      [
+        " (",
+        -0.6956603
+      ],
+      [
+        "ph",
+        -0.6993839
+      ],
+      [
+        "ilos",
+        0.0
+      ],
+      [
+        "ophy",
+        -0.023251304
+      ],
+      [
+        ")",
+        -9.3291674e-05
+      ]
+    ]
+  },
+  "He rebutted the moralist views of W.K. Clifford in an essay which categorizes live, forced, and momentous options. He's the first namesake of a theory which states that emotions result from the perception of a physiological stimulus, rather than emotions preceding autonomic responses. One of his essays asks whether a man chasing a squirrel around a tree is by definition \"going round\" the squirrel. This author of \"The Will to Believe\" and The Principles of Psychology argued that \"truth\" is only what is most expedient to believe. He collected his Gifford Lectures at Edinburgh as The Varieties of": {
+    "guess": "William James",
+    "confidence": [
+      [
+        "William",
+        -0.04824562
+      ],
+      [
+        " James",
+        0.0
+      ]
+    ]
+  },
+  "He rebutted the moralist views of W.K. Clifford in an essay which categorizes live, forced, and momentous options. He's the first namesake of a theory which states that emotions result from the perception of a physiological stimulus, rather than emotions preceding autonomic responses. One of his essays asks whether a man chasing a squirrel around a tree is by definition \"going round\" the squirrel. This author of \"The Will to Believe\" and The Principles of Psychology argued that \"truth\" is only what is most expedient to believe. He collected his Gifford Lectures at Edinburgh as The Varieties of Religious Experience, and his Lowell lectures were collected as a work which shares its name with a": {
+    "guess": "William James",
+    "confidence": [
+      [
+        "William",
+        -0.004951001
+      ],
+      [
+        " James",
+        0.0
+      ]
+    ]
+  },
+  "He rebutted the moralist views of W.K. Clifford in an essay which categorizes live, forced, and momentous options. He's the first namesake of a theory which states that emotions result from the perception of a physiological stimulus, rather than emotions preceding autonomic responses. One of his essays asks whether a man chasing a squirrel around a tree is by definition \"going round\" the squirrel. This author of \"The Will to Believe\" and The Principles of Psychology argued that \"truth\" is only what is most expedient to believe. He collected his Gifford Lectures at Edinburgh as The Varieties of Religious Experience, and his Lowell lectures were collected as a work which shares its name with a movement started by C.S. Peirce. For 10 points, name this American philosopher who wrote Pragmatism.": {
+    "guess": "William James",
+    "confidence": [
+      [
+        "William",
+        -0.023221366
+      ],
+      [
+        " James",
+        0.0
+      ]
+    ]
+  },
+  "One reaction named for this man permits an inversion of the normal reactivity of acyl carbon atoms, which": {
+    "guess": "Corey-Seebach reaction",
+    "confidence": [
+      [
+        "Core",
+        -0.18333073
+      ],
+      [
+        "y",
+        -3.1281633e-07
+      ],
+      [
+        "-Se",
+        -0.2026086
+      ],
+      [
+        "eb",
+        0.0
+      ],
+      [
+        "ach",
+        -4.3202e-07
+      ],
+      [
+        " reaction",
+        -0.008897475
+      ]
+    ]
+  },
+  "One reaction named for this man permits an inversion of the normal reactivity of acyl carbon atoms, which combine only with nucleophiles, in a phenomenon known as umpolung.  He is the first namesake of": {
+    "guess": "Corey-Seebach reaction",
+    "confidence": [
+      [
+        "Core",
+        -0.017527437
+      ],
+      [
+        "y",
+        -1.9361265e-07
+      ],
+      [
+        "-Se",
+        -0.4781487
+      ],
+      [
+        "eb",
+        0.0
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.007707062
+      ]
+    ]
+  },
+  "One reaction named for this man permits an inversion of the normal reactivity of acyl carbon atoms, which combine only with nucleophiles, in a phenomenon known as umpolung.  He is the first namesake of another reaction in which an achiral ketone is enantioselectively reduced to produce the corresponding": {
+    "guess": "Corey\u2013Bakshi\u2013Shibata reduction",
+    "confidence": [
+      [
+        "Core",
+        -0.05743829
+      ],
+      [
+        "y",
+        -1.6240566e-06
+      ],
+      [
+        "\u2013",
+        -0.48089668
+      ],
+      [
+        "Bak",
+        -0.1550595
+      ],
+      [
+        "shi",
+        -1.3856493e-06
+      ],
+      [
+        "\u2013",
+        -7.9418505e-06
+      ],
+      [
+        "Sh",
+        -1.0280384e-06
+      ],
+      [
+        "ib",
+        -1.9361265e-07
+      ],
+      [
+        "ata",
+        0.0
+      ],
+      [
+        " reduction",
+        -0.0032605347
+      ]
+    ]
+  },
+  "One reaction named for this man permits an inversion of the normal reactivity of acyl carbon atoms, which combine only with nucleophiles, in a phenomenon known as umpolung.  He is the first namesake of another reaction in which an achiral ketone is enantioselectively reduced to produce the corresponding chiral, non-racemic alcohol. He controversially claimed that he inspired the development of the": {
+    "guess": "Corey\u2013Seebach reaction",
+    "confidence": [
+      [
+        "Core",
+        -0.10154494
+      ],
+      [
+        "y",
+        -1.6240566e-06
+      ],
+      [
+        "\u2013",
+        -0.35779497
+      ],
+      [
+        "Se",
+        -0.26154336
+      ],
+      [
+        "eb",
+        -9.0883464e-07
+      ],
+      [
+        "ach",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.0022673013
+      ]
+    ]
+  },
+  "One reaction named for this man permits an inversion of the normal reactivity of acyl carbon atoms, which combine only with nucleophiles, in a phenomenon known as umpolung.  He is the first namesake of another reaction in which an achiral ketone is enantioselectively reduced to produce the corresponding chiral, non-racemic alcohol. He controversially claimed that he inspired the development of the Woodward-Hoffmann rules, and he won a Nobel Prize for pioneering a method of transforming a molecule": {
+    "guess": "Elias James Corey",
+    "confidence": [
+      [
+        "E",
+        -0.5944286
+      ],
+      [
+        "lias",
+        -0.00051097583
+      ],
+      [
+        " James",
+        -1.3902034e-05
+      ],
+      [
+        " Corey",
+        0.0
+      ]
+    ]
+  },
+  "One reaction named for this man permits an inversion of the normal reactivity of acyl carbon atoms, which combine only with nucleophiles, in a phenomenon known as umpolung.  He is the first namesake of another reaction in which an achiral ketone is enantioselectively reduced to produce the corresponding chiral, non-racemic alcohol. He controversially claimed that he inspired the development of the Woodward-Hoffmann rules, and he won a Nobel Prize for pioneering a method of transforming a molecule into simple precursor structures, retrograde analysis. The earlier mentioned reactions are co-named": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.82682765
+      ]
+    ]
+  },
+  "One reaction named for this man permits an inversion of the normal reactivity of acyl carbon atoms, which combine only with nucleophiles, in a phenomenon known as umpolung.  He is the first namesake of another reaction in which an achiral ketone is enantioselectively reduced to produce the corresponding chiral, non-racemic alcohol. He controversially claimed that he inspired the development of the Woodward-Hoffmann rules, and he won a Nobel Prize for pioneering a method of transforming a molecule into simple precursor structures, retrograde analysis. The earlier mentioned reactions are co-named with Seebach and with Bakshi and Shibata. For ten points, name this man who names a reaction that transforms": {
+    "guess": "Elias James Corey",
+    "confidence": [
+      [
+        "E",
+        -0.16236839
+      ],
+      [
+        "lias",
+        -0.00019042798
+      ],
+      [
+        " James",
+        -1.2664457e-06
+      ],
+      [
+        " Corey",
+        0.0
+      ]
+    ]
+  },
+  "One reaction named for this man permits an inversion of the normal reactivity of acyl carbon atoms, which combine only with nucleophiles, in a phenomenon known as umpolung.  He is the first namesake of another reaction in which an achiral ketone is enantioselectively reduced to produce the corresponding chiral, non-racemic alcohol. He controversially claimed that he inspired the development of the Woodward-Hoffmann rules, and he won a Nobel Prize for pioneering a method of transforming a molecule into simple precursor structures, retrograde analysis. The earlier mentioned reactions are co-named with Seebach and with Bakshi and Shibata. For ten points, name this man who names a reaction that transforms aldehydes into alkynes along with Fuchs.": {
+    "guess": "Elias James Corey",
+    "confidence": [
+      [
+        "E",
+        -0.15334079
+      ],
+      [
+        "lias",
+        -0.0012173788
+      ],
+      [
+        " James",
+        -1.7835755e-05
+      ],
+      [
+        " Corey",
+        0.0
+      ]
+    ]
+  },
+  "After reading continuously for three hours, this character asks her attendant to \"Fold down the leaf": {
+    "guess": "Scheherazade",
+    "confidence": [
+      [
+        "Sche",
+        -1.3130908
+      ],
+      [
+        "her",
+        -0.0001245157
+      ],
+      [
+        "az",
+        -1.9361265e-07
+      ],
+      [
+        "ade",
+        0.0
+      ]
+    ]
+  },
+  "After reading continuously for three hours, this character asks her attendant to \"Fold down the leaf where I have left\" and to wake her up at four. As she is introduced, she cries \"Dissembling courtesy!": {
+    "guess": "Cleopatra VII",
+    "confidence": [
+      [
+        "Cle",
+        -0.6252712
+      ],
+      [
+        "opatra",
+        -3.1281633e-07
+      ],
+      [
+        " VII",
+        -0.37089255
+      ]
+    ]
+  },
+  "After reading continuously for three hours, this character asks her attendant to \"Fold down the leaf where I have left\" and to wake her up at four. As she is introduced, she cries \"Dissembling courtesy! How fine this tyrant / Can tickle where she wounds!\" A jealous man dresses up as her lover and has": {
+    "guess": "Cymbeline",
+    "confidence": [
+      [
+        "C",
+        -0.015784116
+      ],
+      [
+        "ym",
+        -0.001182012
+      ],
+      [
+        "b",
+        -4.3202e-07
+      ],
+      [
+        "eline",
+        0.0
+      ]
+    ]
+  },
+  "After reading continuously for three hours, this character asks her attendant to \"Fold down the leaf where I have left\" and to wake her up at four. As she is introduced, she cries \"Dissembling courtesy! How fine this tyrant / Can tickle where she wounds!\" A jealous man dresses up as her lover and has his head cut off on the way to Milford Haven, where her true love tried to lure her after hearing a": {
+    "guess": "Cymbeline",
+    "confidence": [
+      [
+        "C",
+        -0.48572144
+      ],
+      [
+        "ym",
+        -1.9361265e-07
+      ],
+      [
+        "b",
+        0.0
+      ],
+      [
+        "eline",
+        0.0
+      ]
+    ]
+  },
+  "After reading continuously for three hours, this character asks her attendant to \"Fold down the leaf where I have left\" and to wake her up at four. As she is introduced, she cries \"Dissembling courtesy! How fine this tyrant / Can tickle where she wounds!\" A jealous man dresses up as her lover and has his head cut off on the way to Milford Haven, where her true love tried to lure her after hearing a description of a mole on her left breast as proof that Iachimo had his way with her. Pisanio gives": {
+    "guess": "Imogen (Cymbeline)",
+    "confidence": [
+      [
+        "Im",
+        -0.31424236
+      ],
+      [
+        "ogen",
+        -7.89631e-07
+      ],
+      [
+        " (",
+        -0.4748402
+      ],
+      [
+        "C",
+        -0.89144
+      ],
+      [
+        "ym",
+        -3.1281633e-07
+      ],
+      [
+        "b",
+        0.0
+      ],
+      [
+        "eline",
+        -1.9361265e-07
+      ],
+      [
+        ")",
+        -0.0009927953
+      ]
+    ]
+  },
+  "After reading continuously for three hours, this character asks her attendant to \"Fold down the leaf where I have left\" and to wake her up at four. As she is introduced, she cries \"Dissembling courtesy! How fine this tyrant / Can tickle where she wounds!\" A jealous man dresses up as her lover and has his head cut off on the way to Milford Haven, where her true love tried to lure her after hearing a description of a mole on her left breast as proof that Iachimo had his way with her. Pisanio gives a drug to induce sleep in this woman, who plays dead in the guise of a boy, and she is reunited with": {
+    "guess": "Imogen",
+    "confidence": [
+      [
+        "Im",
+        -0.31726235
+      ],
+      [
+        "ogen",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "After reading continuously for three hours, this character asks her attendant to \"Fold down the leaf where I have left\" and to wake her up at four. As she is introduced, she cries \"Dissembling courtesy! How fine this tyrant / Can tickle where she wounds!\" A jealous man dresses up as her lover and has his head cut off on the way to Milford Haven, where her true love tried to lure her after hearing a description of a mole on her left breast as proof that Iachimo had his way with her. Pisanio gives a drug to induce sleep in this woman, who plays dead in the guise of a boy, and she is reunited with the man who took her diamond ring as part of an oath.  That man was her soldier-lover, Posthumus Leonatus,": {
+    "guess": "Cymbeline",
+    "confidence": [
+      [
+        "C",
+        -0.10146956
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "b",
+        0.0
+      ],
+      [
+        "eline",
+        0.0
+      ]
+    ]
+  },
+  "After reading continuously for three hours, this character asks her attendant to \"Fold down the leaf where I have left\" and to wake her up at four. As she is introduced, she cries \"Dissembling courtesy! How fine this tyrant / Can tickle where she wounds!\" A jealous man dresses up as her lover and has his head cut off on the way to Milford Haven, where her true love tried to lure her after hearing a description of a mole on her left breast as proof that Iachimo had his way with her. Pisanio gives a drug to induce sleep in this woman, who plays dead in the guise of a boy, and she is reunited with the man who took her diamond ring as part of an oath.  That man was her soldier-lover, Posthumus Leonatus, and she is set up with Cloten by her father, the King of Britain. For 10 points, name this Shakespearean": {
+    "guess": "Imogen",
+    "confidence": [
+      [
+        "Im",
+        -0.20162356
+      ],
+      [
+        "ogen",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "After reading continuously for three hours, this character asks her attendant to \"Fold down the leaf where I have left\" and to wake her up at four. As she is introduced, she cries \"Dissembling courtesy! How fine this tyrant / Can tickle where she wounds!\" A jealous man dresses up as her lover and has his head cut off on the way to Milford Haven, where her true love tried to lure her after hearing a description of a mole on her left breast as proof that Iachimo had his way with her. Pisanio gives a drug to induce sleep in this woman, who plays dead in the guise of a boy, and she is reunited with the man who took her diamond ring as part of an oath.  That man was her soldier-lover, Posthumus Leonatus, and she is set up with Cloten by her father, the King of Britain. For 10 points, name this Shakespearean character, the daughter of Cymbeline.": {
+    "guess": "Imogen",
+    "confidence": [
+      [
+        "Im",
+        -0.0001820874
+      ],
+      [
+        "ogen",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This rebellion was sparked by a Doeg raid on the farm of Thomas Matthews. John Ingram led the rebels": {
+    "guess": "Bacon's Rebellion",
+    "confidence": [
+      [
+        "B",
+        -0.00043424533
+      ],
+      [
+        "acon",
+        0.0
+      ],
+      [
+        "'s",
+        -6.9882217e-06
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This rebellion was sparked by a Doeg raid on the farm of Thomas Matthews. John Ingram led the rebels in this conflict once its leader died of dysentery. This rebellion was ended by the Treaty of Middle": {
+    "guess": "Bacon's Rebellion",
+    "confidence": [
+      [
+        "B",
+        -0.062450934
+      ],
+      [
+        "acon",
+        0.0
+      ],
+      [
+        "'s",
+        -1.8624639e-06
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "This rebellion was sparked by a Doeg raid on the farm of Thomas Matthews. John Ingram led the rebels in this conflict once its leader died of dysentery. This rebellion was ended by the Treaty of Middle Plantation after Governor William Berkeley finally regained control of the colony. In this rebellion,": {
+    "guess": "Bacon's Rebellion",
+    "confidence": [
+      [
+        "B",
+        -0.0005563704
+      ],
+      [
+        "acon",
+        0.0
+      ],
+      [
+        "'s",
+        -5.4385737e-06
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "This rebellion was sparked by a Doeg raid on the farm of Thomas Matthews. John Ingram led the rebels in this conflict once its leader died of dysentery. This rebellion was ended by the Treaty of Middle Plantation after Governor William Berkeley finally regained control of the colony. In this rebellion, disgruntled frontiersman took up arms against Native Americans and burned the capital of Jamestown.": {
+    "guess": "Bacon's Rebellion",
+    "confidence": [
+      [
+        "B",
+        -5.1689596e-05
+      ],
+      [
+        "acon",
+        0.0
+      ],
+      [
+        "'s",
+        -4.246537e-06
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This rebellion was sparked by a Doeg raid on the farm of Thomas Matthews. John Ingram led the rebels in this conflict once its leader died of dysentery. This rebellion was ended by the Treaty of Middle Plantation after Governor William Berkeley finally regained control of the colony. In this rebellion, disgruntled frontiersman took up arms against Native Americans and burned the capital of Jamestown. For 10 points, name this rebellion led by the namesake member of the House of Burgesses in 1676 in": {
+    "guess": "Bacon's Rebellion",
+    "confidence": [
+      [
+        "B",
+        -0.003181279
+      ],
+      [
+        "acon",
+        0.0
+      ],
+      [
+        "'s",
+        -1.0206721e-05
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This rebellion was sparked by a Doeg raid on the farm of Thomas Matthews. John Ingram led the rebels in this conflict once its leader died of dysentery. This rebellion was ended by the Treaty of Middle Plantation after Governor William Berkeley finally regained control of the colony. In this rebellion, disgruntled frontiersman took up arms against Native Americans and burned the capital of Jamestown. For 10 points, name this rebellion led by the namesake member of the House of Burgesses in 1676 in Virginia.": {
+    "guess": "Bacon's Rebellion",
+    "confidence": [
+      [
+        "B",
+        -0.25198933
+      ],
+      [
+        "acon",
+        0.0
+      ],
+      [
+        "'s",
+        -4.8425554e-06
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Reactions that do not display this property are preferred at the site of the maximum Fukui functions.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1375086
+      ]
+    ]
+  },
+  "Reactions that do not display this property are preferred at the site of the maximum Fukui functions. Class A ligands, as well as biologically relevant ligands that bond through oxygen, such as carboxylates,": {
+    "guess": "Hard and soft acids and bases",
+    "confidence": [
+      [
+        "Hard",
+        -0.0067135976
+      ],
+      [
+        " and",
+        -0.049985513
+      ],
+      [
+        " soft",
+        -0.10020667
+      ],
+      [
+        " acids",
+        -0.010100158
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " bases",
+        0.0
+      ]
+    ]
+  },
+  "Reactions that do not display this property are preferred at the site of the maximum Fukui functions. Class A ligands, as well as biologically relevant ligands that bond through oxygen, such as carboxylates, are bases that exhibit this property. Among 3d metal ions, this character correlates with an": {
+    "guess": "Hard and soft acids and bases",
+    "confidence": [
+      [
+        "Hard",
+        -0.052597284
+      ],
+      [
+        " and",
+        -0.07852431
+      ],
+      [
+        " soft",
+        -0.47407717
+      ],
+      [
+        " acids",
+        -0.05024651
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " bases",
+        0.0
+      ]
+    ]
+  },
+  "Reactions that do not display this property are preferred at the site of the maximum Fukui functions. Class A ligands, as well as biologically relevant ligands that bond through oxygen, such as carboxylates, are bases that exhibit this property. Among 3d metal ions, this character correlates with an oxidation state of +3. This property can be defined as half of the difference between a molecule's ionization": {
+    "guess": "Hardness",
+    "confidence": [
+      [
+        "Hard",
+        -0.12506367
+      ],
+      [
+        "ness",
+        -0.20595765
+      ]
+    ]
+  },
+  "Reactions that do not display this property are preferred at the site of the maximum Fukui functions. Class A ligands, as well as biologically relevant ligands that bond through oxygen, such as carboxylates, are bases that exhibit this property. Among 3d metal ions, this character correlates with an oxidation state of +3. This property can be defined as half of the difference between a molecule's ionization energy and its activation energy, explaining its correlation to Mulliken electronegativity.": {
+    "guess": "Hardness",
+    "confidence": [
+      [
+        "Hard",
+        -0.036661915
+      ],
+      [
+        "ness",
+        -0.17730807
+      ]
+    ]
+  },
+  "Reactions that do not display this property are preferred at the site of the maximum Fukui functions. Class A ligands, as well as biologically relevant ligands that bond through oxygen, such as carboxylates, are bases that exhibit this property. Among 3d metal ions, this character correlates with an oxidation state of +3. This property can be defined as half of the difference between a molecule's ionization energy and its activation energy, explaining its correlation to Mulliken electronegativity. Acids that exhibit this character have high-energy HOMOs and tend to react readily with hydroxide": {
+    "guess": "Hard and Soft Acids and Bases",
+    "confidence": [
+      [
+        "Hard",
+        -0.1732824
+      ],
+      [
+        " and",
+        -0.10794705
+      ],
+      [
+        " Soft",
+        -0.47407702
+      ],
+      [
+        " Ac",
+        -0.07492626
+      ],
+      [
+        "ids",
+        0.0
+      ],
+      [
+        " and",
+        -1.9361265e-07
+      ],
+      [
+        " Bases",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Reactions that do not display this property are preferred at the site of the maximum Fukui functions. Class A ligands, as well as biologically relevant ligands that bond through oxygen, such as carboxylates, are bases that exhibit this property. Among 3d metal ions, this character correlates with an oxidation state of +3. This property can be defined as half of the difference between a molecule's ionization energy and its activation energy, explaining its correlation to Mulliken electronegativity. Acids that exhibit this character have high-energy HOMOs and tend to react readily with hydroxide and the smaller halides; these acid-base interactions tend to generate soluble, colorless compounds": {
+    "guess": "Hard and Soft Acids and Bases",
+    "confidence": [
+      [
+        "Hard",
+        -0.09530398
+      ],
+      [
+        " and",
+        -0.06608898
+      ],
+      [
+        " Soft",
+        -0.57593954
+      ],
+      [
+        " Ac",
+        -0.03215735
+      ],
+      [
+        "ids",
+        0.0
+      ],
+      [
+        " and",
+        -1.9361265e-07
+      ],
+      [
+        " Bases",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Reactions that do not display this property are preferred at the site of the maximum Fukui functions. Class A ligands, as well as biologically relevant ligands that bond through oxygen, such as carboxylates, are bases that exhibit this property. Among 3d metal ions, this character correlates with an oxidation state of +3. This property can be defined as half of the difference between a molecule's ionization energy and its activation energy, explaining its correlation to Mulliken electronegativity. Acids that exhibit this character have high-energy HOMOs and tend to react readily with hydroxide and the smaller halides; these acid-base interactions tend to generate soluble, colorless compounds and are highly ionogenic. For 10 points, name this property defined by Pearson acid-base theory that": {
+    "guess": "Hardness",
+    "confidence": [
+      [
+        "Hard",
+        -0.38112116
+      ],
+      [
+        "ness",
+        -0.3902278
+      ]
+    ]
+  },
+  "Reactions that do not display this property are preferred at the site of the maximum Fukui functions. Class A ligands, as well as biologically relevant ligands that bond through oxygen, such as carboxylates, are bases that exhibit this property. Among 3d metal ions, this character correlates with an oxidation state of +3. This property can be defined as half of the difference between a molecule's ionization energy and its activation energy, explaining its correlation to Mulliken electronegativity. Acids that exhibit this character have high-energy HOMOs and tend to react readily with hydroxide and the smaller halides; these acid-base interactions tend to generate soluble, colorless compounds and are highly ionogenic. For 10 points, name this property defined by Pearson acid-base theory that characterizes compounds that are small, weakly polarizable, and highly charged.": {
+    "guess": "Hardness (chemistry)",
+    "confidence": [
+      [
+        "Hard",
+        -0.01670656
+      ],
+      [
+        "ness",
+        -0.0322842
+      ],
+      [
+        " (",
+        -0.48057914
+      ],
+      [
+        "chem",
+        -0.80568486
+      ],
+      [
+        "istry",
+        -4.4849444e-06
+      ],
+      [
+        ")",
+        -8.804671e-05
+      ]
+    ]
+  },
+  "This reaction occurs twice, once intramolecularly, in the synthesis of gibberelic acid. Breslow showed": {
+    "guess": "Aldol reaction",
+    "confidence": [
+      [
+        "A",
+        -0.29342097
+      ],
+      [
+        "ld",
+        -0.0013452349
+      ],
+      [
+        "ol",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.006128695
+      ]
+    ]
+  },
+  "This reaction occurs twice, once intramolecularly, in the synthesis of gibberelic acid. Breslow showed an acceleration of this reaction in aqueous solution that is attributed to hydrophobic effects. Like": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.041503888
+      ],
+      [
+        "iels",
+        -2.7729659e-05
+      ],
+      [
+        "-A",
+        -0.061968133
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -8.9119545e-05
+      ]
+    ]
+  },
+  "This reaction occurs twice, once intramolecularly, in the synthesis of gibberelic acid. Breslow showed an acceleration of this reaction in aqueous solution that is attributed to hydrophobic effects. Like aldol reactions, it can be enantioselectively catalyzed by both magnesium and copper(II) chelates": {
+    "guess": "Claisen condensation",
+    "confidence": [
+      [
+        "Cl",
+        -0.07693553
+      ],
+      [
+        "aisen",
+        -2.4584822e-06
+      ],
+      [
+        " condensation",
+        -0.3874903
+      ]
+    ]
+  },
+  "This reaction occurs twice, once intramolecularly, in the synthesis of gibberelic acid. Breslow showed an acceleration of this reaction in aqueous solution that is attributed to hydrophobic effects. Like aldol reactions, it can be enantioselectively catalyzed by both magnesium and copper(II) chelates of bis-oxazolines. Other popular catalysts include scandium triflate and ytterbium triflate, the latter": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.0037275183
+      ],
+      [
+        "iels",
+        -2.9352968e-06
+      ],
+      [
+        "-A",
+        -0.31326258
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -5.8961017e-05
+      ]
+    ]
+  },
+  "This reaction occurs twice, once intramolecularly, in the synthesis of gibberelic acid. Breslow showed an acceleration of this reaction in aqueous solution that is attributed to hydrophobic effects. Like aldol reactions, it can be enantioselectively catalyzed by both magnesium and copper(II) chelates of bis-oxazolines. Other popular catalysts include scandium triflate and ytterbium triflate, the latter of which is commonly used with a compound named after Danishefsky in this reaction's aza- variant.": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.015065606
+      ],
+      [
+        "iels",
+        -6.2729996e-06
+      ],
+      [
+        "-A",
+        -0.04858828
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -3.6073914e-05
+      ]
+    ]
+  },
+  "This reaction occurs twice, once intramolecularly, in the synthesis of gibberelic acid. Breslow showed an acceleration of this reaction in aqueous solution that is attributed to hydrophobic effects. Like aldol reactions, it can be enantioselectively catalyzed by both magnesium and copper(II) chelates of bis-oxazolines. Other popular catalysts include scandium triflate and ytterbium triflate, the latter of which is commonly used with a compound named after Danishefsky in this reaction's aza- variant. One of this reaction's namesakes also names a rule that states that endo addition is preferred in": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.0084449565
+      ],
+      [
+        "iels",
+        -1.147242e-06
+      ],
+      [
+        "-A",
+        -0.048588052
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.00016373003
+      ]
+    ]
+  },
+  "This reaction occurs twice, once intramolecularly, in the synthesis of gibberelic acid. Breslow showed an acceleration of this reaction in aqueous solution that is attributed to hydrophobic effects. Like aldol reactions, it can be enantioselectively catalyzed by both magnesium and copper(II) chelates of bis-oxazolines. Other popular catalysts include scandium triflate and ytterbium triflate, the latter of which is commonly used with a compound named after Danishefsky in this reaction's aza- variant. One of this reaction's namesakes also names a rule that states that endo addition is preferred in this reaction. For 10 points, name this doubly-eponymous pericyclic addition reaction in which a conjugated": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.0020547393
+      ],
+      [
+        "iels",
+        -4.3202e-07
+      ],
+      [
+        "-A",
+        -0.25192934
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.011102767
+      ]
+    ]
+  },
+  "This reaction occurs twice, once intramolecularly, in the synthesis of gibberelic acid. Breslow showed an acceleration of this reaction in aqueous solution that is attributed to hydrophobic effects. Like aldol reactions, it can be enantioselectively catalyzed by both magnesium and copper(II) chelates of bis-oxazolines. Other popular catalysts include scandium triflate and ytterbium triflate, the latter of which is commonly used with a compound named after Danishefsky in this reaction's aza- variant. One of this reaction's namesakes also names a rule that states that endo addition is preferred in this reaction. For 10 points, name this doubly-eponymous pericyclic addition reaction in which a conjugated diene is added to a dienophile.": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.00018649426
+      ],
+      [
+        "iels",
+        -1.9361265e-07
+      ],
+      [
+        "-A",
+        -0.12692831
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.0041372916
+      ]
+    ]
+  },
+  "One rebellion during this ruler's reign was partially put down by Peter Panin following the Battle of": {
+    "guess": "Catherine the Great",
+    "confidence": [
+      [
+        "C",
+        -0.026051547
+      ],
+      [
+        "atherine",
+        -9.0883464e-07
+      ],
+      [
+        " the",
+        -6.682846e-05
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "One rebellion during this ruler's reign was partially put down by Peter Panin following the Battle of Kazan. This monarch issued the Nakaz and established the Hermitage museum. This monarch was called": {
+    "guess": "Catherine the Great",
+    "confidence": [
+      [
+        "C",
+        -0.00091372844
+      ],
+      [
+        "atherine",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -3.1281633e-07
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "One rebellion during this ruler's reign was partially put down by Peter Panin following the Battle of Kazan. This monarch issued the Nakaz and established the Hermitage museum. This monarch was called the \"star of the north\" and supported Stanislaw Poniatowski. Having gained power after the assassination": {
+    "guess": "Catherine the Great",
+    "confidence": [
+      [
+        "C",
+        -9.9490266e-05
+      ],
+      [
+        "atherine",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "One rebellion during this ruler's reign was partially put down by Peter Panin following the Battle of Kazan. This monarch issued the Nakaz and established the Hermitage museum. This monarch was called the \"star of the north\" and supported Stanislaw Poniatowski. Having gained power after the assassination of Peter III, this monarch made a deal with Maria Theresa and Frederick the Great to partition": {
+    "guess": "Catherine the Great",
+    "confidence": [
+      [
+        "C",
+        -1.8431772e-05
+      ],
+      [
+        "atherine",
+        0.0
+      ],
+      [
+        " the",
+        -0.0006382157
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "One rebellion during this ruler's reign was partially put down by Peter Panin following the Battle of Kazan. This monarch issued the Nakaz and established the Hermitage museum. This monarch was called the \"star of the north\" and supported Stanislaw Poniatowski. Having gained power after the assassination of Peter III, this monarch made a deal with Maria Theresa and Frederick the Great to partition Poland. Advisors to this monarch included Gregory Orlov and Gregory Potemkin. This woman was a patron": {
+    "guess": "Catherine the Great",
+    "confidence": [
+      [
+        "C",
+        -4.310693e-05
+      ],
+      [
+        "atherine",
+        0.0
+      ],
+      [
+        " the",
+        -5.3358446e-05
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "One rebellion during this ruler's reign was partially put down by Peter Panin following the Battle of Kazan. This monarch issued the Nakaz and established the Hermitage museum. This monarch was called the \"star of the north\" and supported Stanislaw Poniatowski. Having gained power after the assassination of Peter III, this monarch made a deal with Maria Theresa and Frederick the Great to partition Poland. Advisors to this monarch included Gregory Orlov and Gregory Potemkin. This woman was a patron of both Diderot and Voltaire. For 10 points, name this \"enlightened\" tsaritsa of Russia.": {
+    "guess": "Catherine the Great",
+    "confidence": [
+      [
+        "C",
+        -0.00010175513
+      ],
+      [
+        "atherine",
+        0.0
+      ],
+      [
+        " the",
+        -3.5120287e-05
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "A reaction of this type is coupled with elimination to form the final product after transmetallation": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8719294
+      ]
+    ]
+  },
+  "A reaction of this type is coupled with elimination to form the final product after transmetallation in the Suzuki reaction. Another reaction of this type is often coupled to Friedel-Crafts acylations,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.25349358
+      ]
+    ]
+  },
+  "A reaction of this type is coupled with elimination to form the final product after transmetallation in the Suzuki reaction. Another reaction of this type is often coupled to Friedel-Crafts acylations, to compensate for carbocation rearrangements during Friedel-Crafts alkylations. The most common method": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.24083568
+      ]
+    ]
+  },
+  "A reaction of this type is coupled with elimination to form the final product after transmetallation in the Suzuki reaction. Another reaction of this type is often coupled to Friedel-Crafts acylations, to compensate for carbocation rearrangements during Friedel-Crafts alkylations. The most common method of synthesizing amines forms them from carbonyls in one of these that uses sodium cyanoborohydride.": {
+    "guess": "Reduction",
+    "confidence": [
+      [
+        "Reduction",
+        -0.10701732
+      ]
+    ]
+  },
+  "A reaction of this type is coupled with elimination to form the final product after transmetallation in the Suzuki reaction. Another reaction of this type is often coupled to Friedel-Crafts acylations, to compensate for carbocation rearrangements during Friedel-Crafts alkylations. The most common method of synthesizing amines forms them from carbonyls in one of these that uses sodium cyanoborohydride. LAH commonly catalyzes these reactions. In general, the conversion of aldehydes to alcohols is one": {
+    "guess": "Reduction",
+    "confidence": [
+      [
+        "Reduction",
+        -0.0028425567
+      ]
+    ]
+  },
+  "A reaction of this type is coupled with elimination to form the final product after transmetallation in the Suzuki reaction. Another reaction of this type is often coupled to Friedel-Crafts acylations, to compensate for carbocation rearrangements during Friedel-Crafts alkylations. The most common method of synthesizing amines forms them from carbonyls in one of these that uses sodium cyanoborohydride. LAH commonly catalyzes these reactions. In general, the conversion of aldehydes to alcohols is one of these reactions, in which the oxidation state decreases and the molecule gains electrons. For": {
+    "guess": "Reduction",
+    "confidence": [
+      [
+        "Reduction",
+        -0.0068975934
+      ]
+    ]
+  },
+  "A reaction of this type is coupled with elimination to form the final product after transmetallation in the Suzuki reaction. Another reaction of this type is often coupled to Friedel-Crafts acylations, to compensate for carbocation rearrangements during Friedel-Crafts alkylations. The most common method of synthesizing amines forms them from carbonyls in one of these that uses sodium cyanoborohydride. LAH commonly catalyzes these reactions. In general, the conversion of aldehydes to alcohols is one of these reactions, in which the oxidation state decreases and the molecule gains electrons. For 10 points, name these reactions often contrasted with oxidations.": {
+    "guess": "Reduction reactions",
+    "confidence": [
+      [
+        "Reduction",
+        -0.002417988
+      ],
+      [
+        " reactions",
+        -0.41123235
+      ]
+    ]
+  },
+  "A rebel in this book acquires a mace with a head in the shape of a cow after meeting a man with eighteen": {
+    "guess": "Mahabharata",
+    "confidence": [
+      [
+        "Mah",
+        -0.80150044
+      ],
+      [
+        "abhar",
+        -0.020707602
+      ],
+      [
+        "ata",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "A rebel in this book acquires a mace with a head in the shape of a cow after meeting a man with eighteen sons, seventeen of whom have been killed by the current ruler. One character in this book successfully": {
+    "guess": "Shahnameh",
+    "confidence": [
+      [
+        "Sh",
+        -0.10358325
+      ],
+      [
+        "ah",
+        -0.0453036
+      ],
+      [
+        "name",
+        -6.9882217e-06
+      ],
+      [
+        "h",
+        0.0
+      ]
+    ]
+  },
+  "A rebel in this book acquires a mace with a head in the shape of a cow after meeting a man with eighteen sons, seventeen of whom have been killed by the current ruler. One character in this book successfully undergoes trial by fire after he is accused of rape. A different character in this book spends": {
+    "guess": "The Faerie Queene",
+    "confidence": [
+      [
+        "The",
+        -0.27862918
+      ],
+      [
+        " Fa",
+        -0.82526165
+      ],
+      [
+        "erie",
+        -3.3809047e-05
+      ],
+      [
+        " Que",
+        -0.0001246349
+      ],
+      [
+        "ene",
+        0.0
+      ]
+    ]
+  },
+  "A rebel in this book acquires a mace with a head in the shape of a cow after meeting a man with eighteen sons, seventeen of whom have been killed by the current ruler. One character in this book successfully undergoes trial by fire after he is accused of rape. A different character in this book spends some time imprisoned in a well where his beloved delivers him food every day. A white-haired man named": {
+    "guess": "The Mahabharata",
+    "confidence": [
+      [
+        "The",
+        -0.8848373
+      ],
+      [
+        " Mah",
+        -0.2765979
+      ],
+      [
+        "abhar",
+        -0.00016671013
+      ],
+      [
+        "ata",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A rebel in this book acquires a mace with a head in the shape of a cow after meeting a man with eighteen sons, seventeen of whom have been killed by the current ruler. One character in this book successfully undergoes trial by fire after he is accused of rape. A different character in this book spends some time imprisoned in a well where his beloved delivers him food every day. A white-haired man named Zal in this book uses a magical feather to aid his wife Rudabeh in the birth of his son via a caesarean": {
+    "guess": "Shahnameh",
+    "confidence": [
+      [
+        "Sh",
+        -0.004605638
+      ],
+      [
+        "ah",
+        -0.00016825978
+      ],
+      [
+        "name",
+        -1.9361265e-07
+      ],
+      [
+        "h",
+        0.0
+      ]
+    ]
+  },
+  "A rebel in this book acquires a mace with a head in the shape of a cow after meeting a man with eighteen sons, seventeen of whom have been killed by the current ruler. One character in this book successfully undergoes trial by fire after he is accused of rape. A different character in this book spends some time imprisoned in a well where his beloved delivers him food every day. A white-haired man named Zal in this book uses a magical feather to aid his wife Rudabeh in the birth of his son via a caesarean section. It's not the Quran, but in this book, a horse whose name translates as Lightning can": {
+    "guess": "Shahnameh",
+    "confidence": [
+      [
+        "Sh",
+        -0.0061497847
+      ],
+      [
+        "ah",
+        -0.00021319589
+      ],
+      [
+        "name",
+        -5.5122365e-07
+      ],
+      [
+        "h",
+        0.0
+      ]
+    ]
+  },
+  "A rebel in this book acquires a mace with a head in the shape of a cow after meeting a man with eighteen sons, seventeen of whom have been killed by the current ruler. One character in this book successfully undergoes trial by fire after he is accused of rape. A different character in this book spends some time imprisoned in a well where his beloved delivers him food every day. A white-haired man named Zal in this book uses a magical feather to aid his wife Rudabeh in the birth of his son via a caesarean section. It's not the Quran, but in this book, a horse whose name translates as Lightning can only be tamed by one man, who later executes seven labors. In two famous episodes, Zal is abandoned": {
+    "guess": "Shahnameh",
+    "confidence": [
+      [
+        "Sh",
+        -0.0022387549
+      ],
+      [
+        "ah",
+        -9.0883464e-07
+      ],
+      [
+        "name",
+        0.0
+      ],
+      [
+        "h",
+        0.0
+      ]
+    ]
+  },
+  "A rebel in this book acquires a mace with a head in the shape of a cow after meeting a man with eighteen sons, seventeen of whom have been killed by the current ruler. One character in this book successfully undergoes trial by fire after he is accused of rape. A different character in this book spends some time imprisoned in a well where his beloved delivers him food every day. A white-haired man named Zal in this book uses a magical feather to aid his wife Rudabeh in the birth of his son via a caesarean section. It's not the Quran, but in this book, a horse whose name translates as Lightning can only be tamed by one man, who later executes seven labors. In two famous episodes, Zal is abandoned by his father on a mountain to be raised by the bird Simurgh, and Rostam unknowingly kills his son": {
+    "guess": "Shahnameh",
+    "confidence": [
+      [
+        "Sh",
+        -0.00063368597
+      ],
+      [
+        "ah",
+        -1.2664457e-06
+      ],
+      [
+        "name",
+        -1.9361265e-07
+      ],
+      [
+        "h",
+        0.0
+      ]
+    ]
+  },
+  "A rebel in this book acquires a mace with a head in the shape of a cow after meeting a man with eighteen sons, seventeen of whom have been killed by the current ruler. One character in this book successfully undergoes trial by fire after he is accused of rape. A different character in this book spends some time imprisoned in a well where his beloved delivers him food every day. A white-haired man named Zal in this book uses a magical feather to aid his wife Rudabeh in the birth of his son via a caesarean section. It's not the Quran, but in this book, a horse whose name translates as Lightning can only be tamed by one man, who later executes seven labors. In two famous episodes, Zal is abandoned by his father on a mountain to be raised by the bird Simurgh, and Rostam unknowingly kills his son Sohrab in combat. For 10 points, name this book chronicling tales from Iran, an epic by Ferdowsi.": {
+    "guess": "Shahnameh",
+    "confidence": [
+      [
+        "Sh",
+        -0.0001470452
+      ],
+      [
+        "ah",
+        -1.6643718e-05
+      ],
+      [
+        "name",
+        -1.9361265e-07
+      ],
+      [
+        "h",
+        0.0
+      ]
+    ]
+  },
+  "A rebellion in this province featured a long siege of the Mons Medullius and was led by the chieftains": {
+    "guess": "Cantabrian Wars",
+    "confidence": [
+      [
+        "Cant",
+        -0.7567299
+      ],
+      [
+        "ab",
+        -0.018151112
+      ],
+      [
+        "rian",
+        -0.00015848507
+      ],
+      [
+        " Wars",
+        -0.00014239625
+      ]
+    ]
+  },
+  "A rebellion in this province featured a long siege of the Mons Medullius and was led by the chieftains Gauson and Corocotta. The first Christian to be executed for heresy met that fate for developing the": {
+    "guess": "Priscillianism",
+    "confidence": [
+      [
+        "Pr",
+        -0.25508192
+      ],
+      [
+        "isc",
+        0.0
+      ],
+      [
+        "illian",
+        -2.6968896e-06
+      ],
+      [
+        "ism",
+        -0.012739192
+      ]
+    ]
+  },
+  "A rebellion in this province featured a long siege of the Mons Medullius and was led by the chieftains Gauson and Corocotta. The first Christian to be executed for heresy met that fate for developing the doctrine of Priscillianism in this province. Galba and Otho served as governors in this province,": {
+    "guess": "Hispania",
+    "confidence": [
+      [
+        "H",
+        -0.9057641
+      ],
+      [
+        "isp",
+        -7.89631e-07
+      ],
+      [
+        "ania",
+        0.0
+      ]
+    ]
+  },
+  "A rebellion in this province featured a long siege of the Mons Medullius and was led by the chieftains Gauson and Corocotta. The first Christian to be executed for heresy met that fate for developing the doctrine of Priscillianism in this province. Galba and Otho served as governors in this province, which was long split into \"Citerior\" and (*) \"Ulterior\" regions. At one battle in this province, the": {
+    "guess": "Hispania",
+    "confidence": [
+      [
+        "H",
+        -0.060799047
+      ],
+      [
+        "isp",
+        0.0
+      ],
+      [
+        "ania",
+        0.0
+      ]
+    ]
+  },
+  "A rebellion in this province featured a long siege of the Mons Medullius and was led by the chieftains Gauson and Corocotta. The first Christian to be executed for heresy met that fate for developing the doctrine of Priscillianism in this province. Galba and Otho served as governors in this province, which was long split into \"Citerior\" and (*) \"Ulterior\" regions. At one battle in this province, the winning commander placed his legions on the wings of his concave formation, a tactic referred to as": {
+    "guess": "Cannae",
+    "confidence": [
+      [
+        "C",
+        -0.76266265
+      ],
+      [
+        "anna",
+        -1.27099975e-05
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "A rebellion in this province featured a long siege of the Mons Medullius and was led by the chieftains Gauson and Corocotta. The first Christian to be executed for heresy met that fate for developing the doctrine of Priscillianism in this province. Galba and Otho served as governors in this province, which was long split into \"Citerior\" and (*) \"Ulterior\" regions. At one battle in this province, the winning commander placed his legions on the wings of his concave formation, a tactic referred to as the \"reverse Cannae\". The siege of Saguntum, a city in this province, sparked the Second Punic War,": {
+    "guess": "Hispania",
+    "confidence": [
+      [
+        "H",
+        -0.035543583
+      ],
+      [
+        "isp",
+        0.0
+      ],
+      [
+        "ania",
+        0.0
+      ]
+    ]
+  },
+  "A rebellion in this province featured a long siege of the Mons Medullius and was led by the chieftains Gauson and Corocotta. The first Christian to be executed for heresy met that fate for developing the doctrine of Priscillianism in this province. Galba and Otho served as governors in this province, which was long split into \"Citerior\" and (*) \"Ulterior\" regions. At one battle in this province, the winning commander placed his legions on the wings of his concave formation, a tactic referred to as the \"reverse Cannae\". The siege of Saguntum, a city in this province, sparked the Second Punic War, which also included the aforementioned battle of Ilipa. For 10 points, identify this birthplace of": {
+    "guess": "Hispania",
+    "confidence": [
+      [
+        "H",
+        -0.011826365
+      ],
+      [
+        "isp",
+        0.0
+      ],
+      [
+        "ania",
+        0.0
+      ]
+    ]
+  },
+  "A rebellion in this province featured a long siege of the Mons Medullius and was led by the chieftains Gauson and Corocotta. The first Christian to be executed for heresy met that fate for developing the doctrine of Priscillianism in this province. Galba and Otho served as governors in this province, which was long split into \"Citerior\" and (*) \"Ulterior\" regions. At one battle in this province, the winning commander placed his legions on the wings of his concave formation, a tactic referred to as the \"reverse Cannae\". The siege of Saguntum, a city in this province, sparked the Second Punic War, which also included the aforementioned battle of Ilipa. For 10 points, identify this birthplace of Hadrian and Trajan, a Roman province comprised of most of the Iberian peninsula.": {
+    "guess": "Hispania",
+    "confidence": [
+      [
+        "H",
+        -0.0020004886
+      ],
+      [
+        "isp",
+        0.0
+      ],
+      [
+        "ania",
+        0.0
+      ]
+    ]
+  },
+  "This reaction is catalyzed by many enzymes with a seven-strand twisted beta-sheet binding motif. Enzymes": {
+    "guess": "Aldol reaction",
+    "confidence": [
+      [
+        "A",
+        -0.16043352
+      ],
+      [
+        "ld",
+        -0.0008087906
+      ],
+      [
+        "ol",
+        -5.0616763e-05
+      ],
+      [
+        " reaction",
+        -0.094836794
+      ]
+    ]
+  },
+  "This reaction is catalyzed by many enzymes with a seven-strand twisted beta-sheet binding motif. Enzymes that catalyze this reaction are released by beta elimination after their conserved cysteine residues": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0462165
+      ]
+    ]
+  },
+  "This reaction is catalyzed by many enzymes with a seven-strand twisted beta-sheet binding motif. Enzymes that catalyze this reaction are released by beta elimination after their conserved cysteine residues are deprotonated to form nucleophilic thiolates that attack in a conjugate addition. Azacitidine": {
+    "guess": "Transaldolase reaction",
+    "confidence": [
+      [
+        "Trans",
+        -0.9514106
+      ],
+      [
+        "ald",
+        -1.3962752
+      ],
+      [
+        "ol",
+        -0.0010731808
+      ],
+      [
+        "ase",
+        -2.1008714e-06
+      ],
+      [
+        " reaction",
+        -0.46837997
+      ]
+    ]
+  },
+  "This reaction is catalyzed by many enzymes with a seven-strand twisted beta-sheet binding motif. Enzymes that catalyze this reaction are released by beta elimination after their conserved cysteine residues are deprotonated to form nucleophilic thiolates that attack in a conjugate addition. Azacitidine can reverse this reaction, which was the first known to proceed via base flipping. MTHFR catalyzes": {
+    "guess": "DNA methylation",
+    "confidence": [
+      [
+        "DNA",
+        -0.10517354
+      ],
+      [
+        " methyl",
+        -2.4153549e-05
+      ],
+      [
+        "ation",
+        -0.00012344286
+      ]
+    ]
+  },
+  "This reaction is catalyzed by many enzymes with a seven-strand twisted beta-sheet binding motif. Enzymes that catalyze this reaction are released by beta elimination after their conserved cysteine residues are deprotonated to form nucleophilic thiolates that attack in a conjugate addition. Azacitidine can reverse this reaction, which was the first known to proceed via base flipping. MTHFR catalyzes a reaction of this type that uses a folate derivative as a co-substrate to convert homocysteine to": {
+    "guess": "DNA methylation",
+    "confidence": [
+      [
+        "DNA",
+        -0.037647318
+      ],
+      [
+        " methyl",
+        -1.7478143e-05
+      ],
+      [
+        "ation",
+        -4.5491004e-05
+      ]
+    ]
+  },
+  "This reaction is catalyzed by many enzymes with a seven-strand twisted beta-sheet binding motif. Enzymes that catalyze this reaction are released by beta elimination after their conserved cysteine residues are deprotonated to form nucleophilic thiolates that attack in a conjugate addition. Azacitidine can reverse this reaction, which was the first known to proceed via base flipping. MTHFR catalyzes a reaction of this type that uses a folate derivative as a co-substrate to convert homocysteine to methionine as part of the (*) \"one-carbon\" cycle. Many enzymes that catalyze this reaction attack at": {
+    "guess": "Methylation",
+    "confidence": [
+      [
+        "M",
+        -0.5211635
+      ],
+      [
+        "ethyl",
+        0.0
+      ],
+      [
+        "ation",
+        -0.0028448182
+      ]
+    ]
+  },
+  "This reaction is catalyzed by many enzymes with a seven-strand twisted beta-sheet binding motif. Enzymes that catalyze this reaction are released by beta elimination after their conserved cysteine residues are deprotonated to form nucleophilic thiolates that attack in a conjugate addition. Azacitidine can reverse this reaction, which was the first known to proceed via base flipping. MTHFR catalyzes a reaction of this type that uses a folate derivative as a co-substrate to convert homocysteine to methionine as part of the (*) \"one-carbon\" cycle. Many enzymes that catalyze this reaction attack at the C6 position in order to activate the C5 carbon of pyrimidine derivatives and employ the donor S-adenosylmethionine.": {
+    "guess": "Methylation",
+    "confidence": [
+      [
+        "M",
+        -0.47826737
+      ],
+      [
+        "ethyl",
+        0.0
+      ],
+      [
+        "ation",
+        -0.00028922583
+      ]
+    ]
+  },
+  "This reaction is catalyzed by many enzymes with a seven-strand twisted beta-sheet binding motif. Enzymes that catalyze this reaction are released by beta elimination after their conserved cysteine residues are deprotonated to form nucleophilic thiolates that attack in a conjugate addition. Azacitidine can reverse this reaction, which was the first known to proceed via base flipping. MTHFR catalyzes a reaction of this type that uses a folate derivative as a co-substrate to convert homocysteine to methionine as part of the (*) \"one-carbon\" cycle. Many enzymes that catalyze this reaction attack at the C6 position in order to activate the C5 carbon of pyrimidine derivatives and employ the donor S-adenosylmethionine. Molecules that have undergone this reaction are not converted to uracil in bisulfite": {
+    "guess": "Methylation",
+    "confidence": [
+      [
+        "M",
+        -0.10294185
+      ],
+      [
+        "ethyl",
+        0.0
+      ],
+      [
+        "ation",
+        -8.061054e-06
+      ]
+    ]
+  },
+  "This reaction is catalyzed by many enzymes with a seven-strand twisted beta-sheet binding motif. Enzymes that catalyze this reaction are released by beta elimination after their conserved cysteine residues are deprotonated to form nucleophilic thiolates that attack in a conjugate addition. Azacitidine can reverse this reaction, which was the first known to proceed via base flipping. MTHFR catalyzes a reaction of this type that uses a folate derivative as a co-substrate to convert homocysteine to methionine as part of the (*) \"one-carbon\" cycle. Many enzymes that catalyze this reaction attack at the C6 position in order to activate the C5 carbon of pyrimidine derivatives and employ the donor S-adenosylmethionine. Molecules that have undergone this reaction are not converted to uracil in bisulfite sequencing. For 10 points, name this reaction that occurs at CpG sites and entails the transfer": {
+    "guess": "DNA methylation",
+    "confidence": [
+      [
+        "DNA",
+        -0.049947407
+      ],
+      [
+        " methyl",
+        -0.014165159
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "This reaction is catalyzed by many enzymes with a seven-strand twisted beta-sheet binding motif. Enzymes that catalyze this reaction are released by beta elimination after their conserved cysteine residues are deprotonated to form nucleophilic thiolates that attack in a conjugate addition. Azacitidine can reverse this reaction, which was the first known to proceed via base flipping. MTHFR catalyzes a reaction of this type that uses a folate derivative as a co-substrate to convert homocysteine to methionine as part of the (*) \"one-carbon\" cycle. Many enzymes that catalyze this reaction attack at the C6 position in order to activate the C5 carbon of pyrimidine derivatives and employ the donor S-adenosylmethionine. Molecules that have undergone this reaction are not converted to uracil in bisulfite sequencing. For 10 points, name this reaction that occurs at CpG sites and entails the transfer of a CH3 group.": {
+    "guess": "DNA methylation",
+    "confidence": [
+      [
+        "DNA",
+        -0.0488316
+      ],
+      [
+        " methyl",
+        -0.008615042
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "For very reactive samples, a type of mull known as nujol can be used to prevent sample decomposition.": {
+    "guess": "Infrared spectroscopy",
+    "confidence": [
+      [
+        "Infra",
+        -0.07363894
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " spectroscopy",
+        -0.008614569
+      ]
+    ]
+  },
+  "For very reactive samples, a type of mull known as nujol can be used to prevent sample decomposition. For liquids, a sample can be placed between two sodium chloride disks, and for solids, a sample is": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.32337433
+      ]
+    ]
+  },
+  "For very reactive samples, a type of mull known as nujol can be used to prevent sample decomposition. For liquids, a sample can be placed between two sodium chloride disks, and for solids, a sample is mixed with potassium bromide and pressed into a thin wafer. It works because molecules often have a": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.631722
+      ]
+    ]
+  },
+  "For very reactive samples, a type of mull known as nujol can be used to prevent sample decomposition. For liquids, a sample can be placed between two sodium chloride disks, and for solids, a sample is mixed with potassium bromide and pressed into a thin wafer. It works because molecules often have a large number of distinct vibrations from stretching and bending bonds, and it is useful for analyzing": {
+    "guess": "Infrared spectroscopy",
+    "confidence": [
+      [
+        "Infra",
+        -0.0059078196
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " spectroscopy",
+        -5.288163e-05
+      ]
+    ]
+  },
+  "For very reactive samples, a type of mull known as nujol can be used to prevent sample decomposition. For liquids, a sample can be placed between two sodium chloride disks, and for solids, a sample is mixed with potassium bromide and pressed into a thin wafer. It works because molecules often have a large number of distinct vibrations from stretching and bending bonds, and it is useful for analyzing the functional groups in a molecule. Its rightmost region contains the most varied peaks and is known": {
+    "guess": "Infrared spectroscopy",
+    "confidence": [
+      [
+        "Infra",
+        -0.07669542
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " spectroscopy",
+        -4.20341e-05
+      ]
+    ]
+  },
+  "For very reactive samples, a type of mull known as nujol can be used to prevent sample decomposition. For liquids, a sample can be placed between two sodium chloride disks, and for solids, a sample is mixed with potassium bromide and pressed into a thin wafer. It works because molecules often have a large number of distinct vibrations from stretching and bending bonds, and it is useful for analyzing the functional groups in a molecule. Its rightmost region contains the most varied peaks and is known as the fingerprint region. FTP, name this type of spectroscopy measured in inverse centimeters and": {
+    "guess": "Infrared spectroscopy",
+    "confidence": [
+      [
+        "Infra",
+        -0.008741859
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " spectroscopy",
+        -0.00091348996
+      ]
+    ]
+  },
+  "For very reactive samples, a type of mull known as nujol can be used to prevent sample decomposition. For liquids, a sample can be placed between two sodium chloride disks, and for solids, a sample is mixed with potassium bromide and pressed into a thin wafer. It works because molecules often have a large number of distinct vibrations from stretching and bending bonds, and it is useful for analyzing the functional groups in a molecule. Its rightmost region contains the most varied peaks and is known as the fingerprint region. FTP, name this type of spectroscopy measured in inverse centimeters and named for the spectrum between microwaves and visible light.": {
+    "guess": "Infrared spectroscopy",
+    "confidence": [
+      [
+        "Infra",
+        -4.5848617e-05
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " spectroscopy",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "The real one, known as \u2018Thief-Taker General of Great Britain and Ireland', made a fortune in the 18th": {
+    "guess": "Jonathan Wild",
+    "confidence": [
+      [
+        "Jonathan",
+        -0.03389153
+      ],
+      [
+        " Wild",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "The real one, known as \u2018Thief-Taker General of Great Britain and Ireland', made a fortune in the 18th  century by tricking thieves into stealing for him, then turning them in for a reward and returning": {
+    "guess": "Jonathan Wild",
+    "confidence": [
+      [
+        "Jonathan",
+        -0.014474095
+      ],
+      [
+        " Wild",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "The real one, known as \u2018Thief-Taker General of Great Britain and Ireland', made a fortune in the 18th  century by tricking thieves into stealing for him, then turning them in for a reward and returning the  stolen property through his Lost Property Office for another reward. All told, more than 120 thieves": {
+    "guess": "Jonathan Wild",
+    "confidence": [
+      [
+        "Jonathan",
+        -0.011165371
+      ],
+      [
+        " Wild",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "The real one, known as \u2018Thief-Taker General of Great Britain and Ireland', made a fortune in the 18th  century by tricking thieves into stealing for him, then turning them in for a reward and returning the  stolen property through his Lost Property Office for another reward. All told, more than 120 thieves were  hanged or jailed based upon his evidence, before he himself was hanged for trafficking": {
+    "guess": "Jonathan Wild",
+    "confidence": [
+      [
+        "Jonathan",
+        -0.005440909
+      ],
+      [
+        " Wild",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "The real one, known as \u2018Thief-Taker General of Great Britain and Ireland', made a fortune in the 18th  century by tricking thieves into stealing for him, then turning them in for a reward and returning the  stolen property through his Lost Property Office for another reward. All told, more than 120 thieves were  hanged or jailed based upon his evidence, before he himself was hanged for trafficking in stolen goods.  The 1743 literary character bears little resemble to the man, merely serving as a": {
+    "guess": "Jonathan Wild",
+    "confidence": [
+      [
+        "Jonathan",
+        -0.083409846
+      ],
+      [
+        " Wild",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "The real one, known as \u2018Thief-Taker General of Great Britain and Ireland', made a fortune in the 18th  century by tricking thieves into stealing for him, then turning them in for a reward and returning the  stolen property through his Lost Property Office for another reward. All told, more than 120 thieves were  hanged or jailed based upon his evidence, before he himself was hanged for trafficking in stolen goods.  The 1743 literary character bears little resemble to the man, merely serving as a vehicle to satirize Robert  Walpole's tyranny. For ten points name this man who was the title character": {
+    "guess": "Jonathan Wild",
+    "confidence": [
+      [
+        "Jonathan",
+        -0.0037661132
+      ],
+      [
+        " Wild",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "The real one, known as \u2018Thief-Taker General of Great Britain and Ireland', made a fortune in the 18th  century by tricking thieves into stealing for him, then turning them in for a reward and returning the  stolen property through his Lost Property Office for another reward. All told, more than 120 thieves were  hanged or jailed based upon his evidence, before he himself was hanged for trafficking in stolen goods.  The 1743 literary character bears little resemble to the man, merely serving as a vehicle to satirize Robert  Walpole's tyranny. For ten points name this man who was the title character of Henry Fielding's The Life  of \u2018blank' the Great.": {
+    "guess": "Jonathan Wild",
+    "confidence": [
+      [
+        "Jonathan",
+        -0.0035837954
+      ],
+      [
+        " Wild",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "This reaction makes tertiary alcohols from substituted fluoroolefins, and when combined with NMO-  TPAP": {
+    "guess": "Hydroboration",
+    "confidence": [
+      [
+        "Hyd",
+        -0.580892
+      ],
+      [
+        "ro",
+        -4.4849444e-06
+      ],
+      [
+        "bor",
+        -1.6240566e-06
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "This reaction makes tertiary alcohols from substituted fluoroolefins, and when combined with NMO-  TPAP oxidation can make carbonyls from olefins. One product of this reaction can be used in  Suzuki coupling,": {
+    "guess": "Hydroboration",
+    "confidence": [
+      [
+        "Hyd",
+        -0.023981318
+      ],
+      [
+        "ro",
+        -1.147242e-06
+      ],
+      [
+        "bor",
+        -5.5122365e-07
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "This reaction makes tertiary alcohols from substituted fluoroolefins, and when combined with NMO-  TPAP oxidation can make carbonyls from olefins. One product of this reaction can be used in  Suzuki coupling, while the other is the (*) anti-Markovnikov product. For 10 points-- name this reaction that": {
+    "guess": "Hydroboration-oxidation",
+    "confidence": [
+      [
+        "Hyd",
+        -0.0060640094
+      ],
+      [
+        "ro",
+        -7.89631e-07
+      ],
+      [
+        "bor",
+        -1.9361265e-07
+      ],
+      [
+        "ation",
+        0.0
+      ],
+      [
+        "-",
+        -1.1070502
+      ],
+      [
+        "oxid",
+        -2.8160932e-06
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "This reaction makes tertiary alcohols from substituted fluoroolefins, and when combined with NMO-  TPAP oxidation can make carbonyls from olefins. One product of this reaction can be used in  Suzuki coupling, while the other is the (*) anti-Markovnikov product. For 10 points-- name this reaction that makes alcohols from alkenes using a compound containing a noted fifth element.": {
+    "guess": "Hydroboration-oxidation",
+    "confidence": [
+      [
+        "Hyd",
+        -0.018428985
+      ],
+      [
+        "ro",
+        -7.89631e-07
+      ],
+      [
+        "bor",
+        -3.1281633e-07
+      ],
+      [
+        "ation",
+        0.0
+      ],
+      [
+        "-",
+        -0.37598413
+      ],
+      [
+        "oxid",
+        -4.246537e-06
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "This man reacted to the death of shopkeeper Levi Jones by making a thirty-mile overnight trip to Clinton": {
+    "guess": "Johnny Appleseed",
+    "confidence": [
+      [
+        "Johnny",
+        -0.57728124
+      ],
+      [
+        " Ap",
+        -1.2664457e-06
+      ],
+      [
+        "pl",
+        0.0
+      ],
+      [
+        "ese",
+        0.0
+      ],
+      [
+        "ed",
+        0.0
+      ]
+    ]
+  },
+  "This man reacted to the death of shopkeeper Levi Jones by making a thirty-mile overnight trip to Clinton and Mount Vernon in order to summon help for Mansfield. This man, who entertained children by sticking": {
+    "guess": "Johnny Appleseed",
+    "confidence": [
+      [
+        "Johnny",
+        -0.038531855
+      ],
+      [
+        " Ap",
+        0.0
+      ],
+      [
+        "pl",
+        0.0
+      ],
+      [
+        "ese",
+        0.0
+      ],
+      [
+        "ed",
+        0.0
+      ]
+    ]
+  },
+  "This man reacted to the death of shopkeeper Levi Jones by making a thirty-mile overnight trip to Clinton and Mount Vernon in order to summon help for Mansfield. This man, who entertained children by sticking needles and hot coals into his feet, often accepted a written \"fipenny-bit\" or old clothing as": {
+    "guess": "Johnny Appleseed",
+    "confidence": [
+      [
+        "Johnny",
+        -0.030337323
+      ],
+      [
+        " Ap",
+        0.0
+      ],
+      [
+        "pl",
+        0.0
+      ],
+      [
+        "ese",
+        0.0
+      ],
+      [
+        "ed",
+        0.0
+      ]
+    ]
+  },
+  "This man reacted to the death of shopkeeper Levi Jones by making a thirty-mile overnight trip to Clinton and Mount Vernon in order to summon help for Mansfield. This man, who entertained children by sticking needles and hot coals into his feet, often accepted a written \"fipenny-bit\" or old clothing as payment after appearing dressed in a coffee sack with a cooking pot on his head. This preacher for": {
+    "guess": "Johnny Appleseed",
+    "confidence": [
+      [
+        "Johnny",
+        -0.1679865
+      ],
+      [
+        " Ap",
+        -7.89631e-07
+      ],
+      [
+        "pl",
+        0.0
+      ],
+      [
+        "ese",
+        0.0
+      ],
+      [
+        "ed",
+        0.0
+      ]
+    ]
+  },
+  "This man reacted to the death of shopkeeper Levi Jones by making a thirty-mile overnight trip to Clinton and Mount Vernon in order to summon help for Mansfield. This man, who entertained children by sticking needles and hot coals into his feet, often accepted a written \"fipenny-bit\" or old clothing as payment after appearing dressed in a coffee sack with a cooking pot on his head. This preacher for the Church of the (*) New Jerusalem expounded the teachings of Emmanuel Swedenborg to the Midwest,": {
+    "guess": "Johnny Appleseed",
+    "confidence": [
+      [
+        "Johnny",
+        -0.0055530667
+      ],
+      [
+        " Ap",
+        -1.9361265e-07
+      ],
+      [
+        "pl",
+        0.0
+      ],
+      [
+        "ese",
+        0.0
+      ],
+      [
+        "ed",
+        0.0
+      ]
+    ]
+  },
+  "This man reacted to the death of shopkeeper Levi Jones by making a thirty-mile overnight trip to Clinton and Mount Vernon in order to summon help for Mansfield. This man, who entertained children by sticking needles and hot coals into his feet, often accepted a written \"fipenny-bit\" or old clothing as payment after appearing dressed in a coffee sack with a cooking pot on his head. This preacher for the Church of the (*) New Jerusalem expounded the teachings of Emmanuel Swedenborg to the Midwest, where he sowed tracts of forest with medicinal herbs such as pennyroyal and rattlesnake root.  He also": {
+    "guess": "Johnny Appleseed",
+    "confidence": [
+      [
+        "Johnny",
+        -0.0011545089
+      ],
+      [
+        " Ap",
+        0.0
+      ],
+      [
+        "pl",
+        0.0
+      ],
+      [
+        "ese",
+        0.0
+      ],
+      [
+        "ed",
+        0.0
+      ]
+    ]
+  },
+  "This man reacted to the death of shopkeeper Levi Jones by making a thirty-mile overnight trip to Clinton and Mount Vernon in order to summon help for Mansfield. This man, who entertained children by sticking needles and hot coals into his feet, often accepted a written \"fipenny-bit\" or old clothing as payment after appearing dressed in a coffee sack with a cooking pot on his head. This preacher for the Church of the (*) New Jerusalem expounded the teachings of Emmanuel Swedenborg to the Midwest, where he sowed tracts of forest with medicinal herbs such as pennyroyal and rattlesnake root.  He also anticipated the large market for a product that could be easily distilled into liquor. For 10 points,": {
+    "guess": "Johnny Appleseed",
+    "confidence": [
+      [
+        "Johnny",
+        -0.00028922583
+      ],
+      [
+        " Ap",
+        0.0
+      ],
+      [
+        "pl",
+        0.0
+      ],
+      [
+        "ese",
+        0.0
+      ],
+      [
+        "ed",
+        0.0
+      ]
+    ]
+  },
+  "This man reacted to the death of shopkeeper Levi Jones by making a thirty-mile overnight trip to Clinton and Mount Vernon in order to summon help for Mansfield. This man, who entertained children by sticking needles and hot coals into his feet, often accepted a written \"fipenny-bit\" or old clothing as payment after appearing dressed in a coffee sack with a cooking pot on his head. This preacher for the Church of the (*) New Jerusalem expounded the teachings of Emmanuel Swedenborg to the Midwest, where he sowed tracts of forest with medicinal herbs such as pennyroyal and rattlesnake root.  He also anticipated the large market for a product that could be easily distilled into liquor. For 10 points, name this man who travelled throughout the American frontier planting fruit trees.": {
+    "guess": "Johnny Appleseed",
+    "confidence": [
+      [
+        "Johnny",
+        -0.0007410151
+      ],
+      [
+        " Ap",
+        0.0
+      ],
+      [
+        "pl",
+        0.0
+      ],
+      [
+        "ese",
+        0.0
+      ],
+      [
+        "ed",
+        0.0
+      ]
+    ]
+  },
+  "Reared by Jesuits, he gained his first military experience fighting in a Walloon regiment and at the": {
+    "guess": "Charles de Gaulle",
+    "confidence": [
+      [
+        "Charles",
+        -1.6232226
+      ],
+      [
+        " de",
+        -0.11541657
+      ],
+      [
+        " Gaulle",
+        -0.0010370951
+      ]
+    ]
+  },
+  "Reared by Jesuits, he gained his first military experience fighting in a Walloon regiment and at the 1585 siege of Antwerp under Alessandro Farnese. In 1594, he joined Holy Roman Emperor Rudolf II's army": {
+    "guess": "Peter Ernst I von Mansfeld-Vorderort",
+    "confidence": [
+      [
+        "Peter",
+        -0.64260066
+      ],
+      [
+        " Ernst",
+        -0.009942013
+      ],
+      [
+        " I",
+        -0.52209294
+      ],
+      [
+        " von",
+        -0.00026932248
+      ],
+      [
+        " Mans",
+        -0.0008115323
+      ],
+      [
+        "feld",
+        -5.6769813e-06
+      ],
+      [
+        "-V",
+        -0.00046129356
+      ],
+      [
+        "order",
+        -0.0002974472
+      ],
+      [
+        "ort",
+        -4.739826e-05
+      ]
+    ]
+  },
+  "Reared by Jesuits, he gained his first military experience fighting in a Walloon regiment and at the 1585 siege of Antwerp under Alessandro Farnese. In 1594, he joined Holy Roman Emperor Rudolf II's army campaigning against the Turks. Appointed by Duke Maximilian I of Bavaria to reorganize the Bavarian": {
+    "guess": "Johann Tserclaes, Count of Tilly",
+    "confidence": [
+      [
+        "Joh",
+        -0.86914563
+      ],
+      [
+        "ann",
+        -0.00017994174
+      ],
+      [
+        " T",
+        -0.0015072436
+      ],
+      [
+        "ser",
+        -0.0036650375
+      ],
+      [
+        "cla",
+        -6.062987e-05
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        ",",
+        -1.4855664e-05
+      ],
+      [
+        " Count",
+        -3.5313153e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " T",
+        0.0
+      ],
+      [
+        "illy",
+        0.0
+      ]
+    ]
+  },
+  "Reared by Jesuits, he gained his first military experience fighting in a Walloon regiment and at the 1585 siege of Antwerp under Alessandro Farnese. In 1594, he joined Holy Roman Emperor Rudolf II's army campaigning against the Turks. Appointed by Duke Maximilian I of Bavaria to reorganize the Bavarian army in 1610, he created such an efficient army that it became the backbone and spearhead of the": {
+    "guess": "Johann Tserclaes, Count of Tilly",
+    "confidence": [
+      [
+        "Joh",
+        -0.020067155
+      ],
+      [
+        "ann",
+        -0.00091313245
+      ],
+      [
+        " T",
+        -5.8961017e-05
+      ],
+      [
+        "ser",
+        -0.0047393646
+      ],
+      [
+        "cla",
+        -3.8219583e-05
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        ",",
+        -2.6968896e-06
+      ],
+      [
+        " Count",
+        -1.2664457e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " T",
+        0.0
+      ],
+      [
+        "illy",
+        0.0
+      ]
+    ]
+  },
+  "Reared by Jesuits, he gained his first military experience fighting in a Walloon regiment and at the 1585 siege of Antwerp under Alessandro Farnese. In 1594, he joined Holy Roman Emperor Rudolf II's army campaigning against the Turks. Appointed by Duke Maximilian I of Bavaria to reorganize the Bavarian army in 1610, he created such an efficient army that it became the backbone and spearhead of the Catholic League. FTP, name this man, the preeminent commander of Catholic League forces in the early": {
+    "guess": "Johann Tserclaes, Count of Tilly",
+    "confidence": [
+      [
+        "Joh",
+        -0.05314648
+      ],
+      [
+        "ann",
+        -0.0017233692
+      ],
+      [
+        " T",
+        -7.517272e-05
+      ],
+      [
+        "ser",
+        -0.0015523558
+      ],
+      [
+        "cla",
+        -3.0113732e-05
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        ",",
+        -5.080963e-06
+      ],
+      [
+        " Count",
+        -1.2664457e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " T",
+        0.0
+      ],
+      [
+        "illy",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Reared by Jesuits, he gained his first military experience fighting in a Walloon regiment and at the 1585 siege of Antwerp under Alessandro Farnese. In 1594, he joined Holy Roman Emperor Rudolf II's army campaigning against the Turks. Appointed by Duke Maximilian I of Bavaria to reorganize the Bavarian army in 1610, he created such an efficient army that it became the backbone and spearhead of the Catholic League. FTP, name this man, the preeminent commander of Catholic League forces in the early part of the Thirty Years' War.": {
+    "guess": "Johann Tserclaes, Count of Tilly",
+    "confidence": [
+      [
+        "Joh",
+        -0.0067895013
+      ],
+      [
+        "ann",
+        -0.0011882068
+      ],
+      [
+        " T",
+        -0.00015884268
+      ],
+      [
+        "ser",
+        -0.0019727654
+      ],
+      [
+        "cla",
+        -3.88156e-05
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        ",",
+        -1.1398757e-05
+      ],
+      [
+        " Count",
+        -1.8624639e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " T",
+        0.0
+      ],
+      [
+        "illy",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "He rebelled against his father and deposed him in 985, and he almost immediately began a series of military": {
+    "guess": "Basil II",
+    "confidence": [
+      [
+        "B",
+        -0.7629599
+      ],
+      [
+        "asil",
+        -0.00053897407
+      ],
+      [
+        " II",
+        -1.7954959e-05
+      ]
+    ]
+  },
+  "He rebelled against his father and deposed him in 985, and he almost immediately began a series of military  campaigns. On each occasion he was bought off with ever-increasing amounts of Danegeld, but": {
+    "guess": "Sweyn Forkbeard",
+    "confidence": [
+      [
+        "Sw",
+        -0.019493295
+      ],
+      [
+        "eyn",
+        -1.9361265e-07
+      ],
+      [
+        " Fork",
+        -4.3202e-07
+      ],
+      [
+        "be",
+        0.0
+      ],
+      [
+        "ard",
+        0.0
+      ]
+    ]
+  },
+  "He rebelled against his father and deposed him in 985, and he almost immediately began a series of military  campaigns. On each occasion he was bought off with ever-increasing amounts of Danegeld, but when he  invaded again with his son in 1013, Ethelred the Unready fled to Normandy; this man took the": {
+    "guess": "Sweyn Forkbeard",
+    "confidence": [
+      [
+        "Sw",
+        -0.004518535
+      ],
+      [
+        "eyn",
+        -1.9361265e-07
+      ],
+      [
+        " Fork",
+        -5.5122365e-07
+      ],
+      [
+        "be",
+        0.0
+      ],
+      [
+        "ard",
+        0.0
+      ]
+    ]
+  },
+  "He rebelled against his father and deposed him in 985, and he almost immediately began a series of military  campaigns. On each occasion he was bought off with ever-increasing amounts of Danegeld, but when he  invaded again with his son in 1013, Ethelred the Unready fled to Normandy; this man took the English crown,  but died five weeks later, prompting Ethelred to return and his son to flee. FTP name": {
+    "guess": "Sweyn Forkbeard",
+    "confidence": [
+      [
+        "Sw",
+        -0.0021319445
+      ],
+      [
+        "eyn",
+        0.0
+      ],
+      [
+        " Fork",
+        -7.9418505e-06
+      ],
+      [
+        "be",
+        0.0
+      ],
+      [
+        "ard",
+        0.0
+      ]
+    ]
+  },
+  "He rebelled against his father and deposed him in 985, and he almost immediately began a series of military  campaigns. On each occasion he was bought off with ever-increasing amounts of Danegeld, but when he  invaded again with his son in 1013, Ethelred the Unready fled to Normandy; this man took the English crown,  but died five weeks later, prompting Ethelred to return and his son to flee. FTP name this king of Denmark and  briefly of England, nicknamed \"forkbeard\", the son of Harald Bluetooth": {
+    "guess": "Sweyn Forkbeard",
+    "confidence": [
+      [
+        "Sw",
+        -0.12733541
+      ],
+      [
+        "eyn",
+        0.0
+      ],
+      [
+        " Fork",
+        -7.493431e-05
+      ],
+      [
+        "be",
+        0.0
+      ],
+      [
+        "ard",
+        0.0
+      ]
+    ]
+  },
+  "He rebelled against his father and deposed him in 985, and he almost immediately began a series of military  campaigns. On each occasion he was bought off with ever-increasing amounts of Danegeld, but when he  invaded again with his son in 1013, Ethelred the Unready fled to Normandy; this man took the English crown,  but died five weeks later, prompting Ethelred to return and his son to flee. FTP name this king of Denmark and  briefly of England, nicknamed \"forkbeard\", the son of Harald Bluetooth and father of Canute.": {
+    "guess": "Sweyn Forkbeard",
+    "confidence": [
+      [
+        "Sw",
+        -0.20158347
+      ],
+      [
+        "eyn",
+        0.0
+      ],
+      [
+        " Fork",
+        -4.5491004e-05
+      ],
+      [
+        "be",
+        0.0
+      ],
+      [
+        "ard",
+        0.0
+      ]
+    ]
+  },
+  "Reaction to this historical measure was expressed by the Nashville Convention and Georgia Platform. Originally": {
+    "guess": "Compromise of 1850",
+    "confidence": [
+      [
+        "Comp",
+        -0.0038418754
+      ],
+      [
+        "romise",
+        0.0
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "185",
+        0.0
+      ],
+      [
+        "0",
+        0.0
+      ]
+    ]
+  },
+  "Reaction to this historical measure was expressed by the Nashville Convention and Georgia Platform. Originally known as the Omnibus Bill, measure three fixed the Texas-New Mexico border, measure five abolished": {
+    "guess": "Compromise of 1850",
+    "confidence": [
+      [
+        "Comp",
+        -0.003095839
+      ],
+      [
+        "romise",
+        0.0
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "185",
+        0.0
+      ],
+      [
+        "0",
+        0.0
+      ]
+    ]
+  },
+  "Reaction to this historical measure was expressed by the Nashville Convention and Georgia Platform. Originally known as the Omnibus Bill, measure three fixed the Texas-New Mexico border, measure five abolished slavery in Washington, D.C., measure four was a more stringent Fugitive Slave Law, measure": {
+    "guess": "Compromise of 1850",
+    "confidence": [
+      [
+        "Comp",
+        -0.0018992441
+      ],
+      [
+        "romise",
+        0.0
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "185",
+        0.0
+      ],
+      [
+        "0",
+        0.0
+      ]
+    ]
+  },
+  "Reaction to this historical measure was expressed by the Nashville Convention and Georgia Platform. Originally known as the Omnibus Bill, measure three fixed the Texas-New Mexico border, measure five abolished slavery in Washington, D.C., measure four was a more stringent Fugitive Slave Law, measure two gave New Mexico and Utah the option to authorize slavery, and measure one admitted California to": {
+    "guess": "Compromise of 1850",
+    "confidence": [
+      [
+        "Comp",
+        -0.0046878685
+      ],
+      [
+        "romise",
+        0.0
+      ],
+      [
+        " of",
+        -6.704273e-07
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "185",
+        0.0
+      ],
+      [
+        "0",
+        0.0
+      ]
+    ]
+  },
+  "Reaction to this historical measure was expressed by the Nashville Convention and Georgia Platform. Originally known as the Omnibus Bill, measure three fixed the Texas-New Mexico border, measure five abolished slavery in Washington, D.C., measure four was a more stringent Fugitive Slave Law, measure two gave New Mexico and Utah the option to authorize slavery, and measure one admitted California to the union as a free state. Developed by Henry Clay and divided into five parts by Stephen Douglas,": {
+    "guess": "Compromise of 1850",
+    "confidence": [
+      [
+        "Comp",
+        -0.00023786737
+      ],
+      [
+        "romise",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "185",
+        0.0
+      ],
+      [
+        "0",
+        0.0
+      ]
+    ]
+  },
+  "Reaction to this historical measure was expressed by the Nashville Convention and Georgia Platform. Originally known as the Omnibus Bill, measure three fixed the Texas-New Mexico border, measure five abolished slavery in Washington, D.C., measure four was a more stringent Fugitive Slave Law, measure two gave New Mexico and Utah the option to authorize slavery, and measure one admitted California to the union as a free state. Developed by Henry Clay and divided into five parts by Stephen Douglas, FTP, what was this famous compromise?": {
+    "guess": "Compromise of 1850",
+    "confidence": [
+      [
+        "Comp",
+        -0.00014907165
+      ],
+      [
+        "romise",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "185",
+        0.0
+      ],
+      [
+        "0",
+        0.0
+      ]
+    ]
+  },
+  "A reaction related to this occurs with copper iodide as a catalyst and uses carbon monoxide to produce": {
+    "guess": "Gattermann\u2013Koch reaction",
+    "confidence": [
+      [
+        "G",
+        -0.30852595
+      ],
+      [
+        "atter",
+        -3.3451433e-05
+      ],
+      [
+        "mann",
+        -0.00026133584
+      ],
+      [
+        "\u2013",
+        -0.19713844
+      ],
+      [
+        "K",
+        -7.89631e-07
+      ],
+      [
+        "och",
+        0.0
+      ],
+      [
+        " reaction",
+        -4.8471098e-05
+      ]
+    ]
+  },
+  "A reaction related to this occurs with copper iodide as a catalyst and uses carbon monoxide to produce benzaldehyde, while another can couple two arenes. Those reactions, Gatterman-Koch and Scholl, use": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.06457484
+      ]
+    ]
+  },
+  "A reaction related to this occurs with copper iodide as a catalyst and uses carbon monoxide to produce benzaldehyde, while another can couple two arenes. Those reactions, Gatterman-Koch and Scholl, use the same catalyst that is the hallmark of this class of reactions. A reaction of this type can also": {
+    "guess": "Friedel\u2013Crafts reaction",
+    "confidence": [
+      [
+        "F",
+        -0.6762534
+      ],
+      [
+        "ried",
+        -1.9361265e-07
+      ],
+      [
+        "el",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.0021853535
+      ],
+      [
+        "Craft",
+        0.0
+      ],
+      [
+        "s",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.003180094
+      ]
+    ]
+  },
+  "A reaction related to this occurs with copper iodide as a catalyst and uses carbon monoxide to produce benzaldehyde, while another can couple two arenes. Those reactions, Gatterman-Koch and Scholl, use the same catalyst that is the hallmark of this class of reactions. A reaction of this type can also occur between oxalyl chloride and indole, whose product can be hydrolyzed to a carboxylic acid. In": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5772988
+      ]
+    ]
+  },
+  "A reaction related to this occurs with copper iodide as a catalyst and uses carbon monoxide to produce benzaldehyde, while another can couple two arenes. Those reactions, Gatterman-Koch and Scholl, use the same catalyst that is the hallmark of this class of reactions. A reaction of this type can also occur between oxalyl chloride and indole, whose product can be hydrolyzed to a carboxylic acid. In the more common variety, a Clemmensen reduction can be used to reduce the carbonylated product, providing": {
+    "guess": "Friedel\u2013Crafts reaction",
+    "confidence": [
+      [
+        "F",
+        -0.20175128
+      ],
+      [
+        "ried",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.0011706986
+      ],
+      [
+        "Craft",
+        0.0
+      ],
+      [
+        "s",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.00080569874
+      ]
+    ]
+  },
+  "A reaction related to this occurs with copper iodide as a catalyst and uses carbon monoxide to produce benzaldehyde, while another can couple two arenes. Those reactions, Gatterman-Koch and Scholl, use the same catalyst that is the hallmark of this class of reactions. A reaction of this type can also occur between oxalyl chloride and indole, whose product can be hydrolyzed to a carboxylic acid. In the more common variety, a Clemmensen reduction can be used to reduce the carbonylated product, providing an alternative to reacting with alkyl halides where overalkylation could occur. For 10 points,": {
+    "guess": "Friedel\u2013Crafts reaction",
+    "confidence": [
+      [
+        "F",
+        -0.011823538
+      ],
+      [
+        "ried",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.0010336419
+      ],
+      [
+        "Craft",
+        0.0
+      ],
+      [
+        "s",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.0001243965
+      ]
+    ]
+  },
+  "A reaction related to this occurs with copper iodide as a catalyst and uses carbon monoxide to produce benzaldehyde, while another can couple two arenes. Those reactions, Gatterman-Koch and Scholl, use the same catalyst that is the hallmark of this class of reactions. A reaction of this type can also occur between oxalyl chloride and indole, whose product can be hydrolyzed to a carboxylic acid. In the more common variety, a Clemmensen reduction can be used to reduce the carbonylated product, providing an alternative to reacting with alkyl halides where overalkylation could occur. For 10 points, give this class of reactions that use a Lewis acid like aluminum chloride to either acylate or alkylate": {
+    "guess": "Friedel\u2013Crafts reaction",
+    "confidence": [
+      [
+        "F",
+        -0.0036515105
+      ],
+      [
+        "ried",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.00091194035
+      ],
+      [
+        "Craft",
+        0.0
+      ],
+      [
+        "s",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.0003358198
+      ]
+    ]
+  },
+  "A reaction related to this occurs with copper iodide as a catalyst and uses carbon monoxide to produce benzaldehyde, while another can couple two arenes. Those reactions, Gatterman-Koch and Scholl, use the same catalyst that is the hallmark of this class of reactions. A reaction of this type can also occur between oxalyl chloride and indole, whose product can be hydrolyzed to a carboxylic acid. In the more common variety, a Clemmensen reduction can be used to reduce the carbonylated product, providing an alternative to reacting with alkyl halides where overalkylation could occur. For 10 points, give this class of reactions that use a Lewis acid like aluminum chloride to either acylate or alkylate an aromatic system like benzene.": {
+    "guess": "Friedel\u2013Crafts reaction",
+    "confidence": [
+      [
+        "F",
+        -0.0009218233
+      ],
+      [
+        "ried",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.0009121788
+      ],
+      [
+        "Craft",
+        0.0
+      ],
+      [
+        "s",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.00012403888
+      ]
+    ]
+  },
+  "This reaction is the progenitor and analogue of the metal alkoxide- catalyzed ester formation named for": {
+    "guess": "Cannizzaro reaction",
+    "confidence": [
+      [
+        "Cann",
+        -0.5082651
+      ],
+      [
+        "izz",
+        -0.00015848507
+      ],
+      [
+        "aro",
+        0.0
+      ],
+      [
+        " reaction",
+        -8.299462e-06
+      ]
+    ]
+  },
+  "This reaction is the progenitor and analogue of the metal alkoxide- catalyzed ester formation named for Tischenko and is similar in product to the Meerwein-Ponndorf-Verley reduction; it was recently discovered": {
+    "guess": "Cannizzaro reaction",
+    "confidence": [
+      [
+        "Cann",
+        -0.02433472
+      ],
+      [
+        "izz",
+        -0.029752104
+      ],
+      [
+        "aro",
+        -4.3202e-07
+      ],
+      [
+        " reaction",
+        -0.0010350723
+      ]
+    ]
+  },
+  "This reaction is the progenitor and analogue of the metal alkoxide- catalyzed ester formation named for Tischenko and is similar in product to the Meerwein-Ponndorf-Verley reduction; it was recently discovered that lithium bromide is a near-ideal catalyst for all three, though the traditional form of": {
+    "guess": "Cannizzaro reaction",
+    "confidence": [
+      [
+        "Cann",
+        -0.0028810725
+      ],
+      [
+        "izz",
+        -1.9027791e-05
+      ],
+      [
+        "aro",
+        0.0
+      ],
+      [
+        " reaction",
+        -8.061054e-06
+      ]
+    ]
+  },
+  "This reaction is the progenitor and analogue of the metal alkoxide- catalyzed ester formation named for Tischenko and is similar in product to the Meerwein-Ponndorf-Verley reduction; it was recently discovered that lithium bromide is a near-ideal catalyst for all three, though the traditional form of this reaction uses a metal hydroxide as its catalyst. This reaction begins with nucleophilic addition": {
+    "guess": "Cannizzaro reaction",
+    "confidence": [
+      [
+        "Cann",
+        -0.008839933
+      ],
+      [
+        "izz",
+        -3.5477897e-05
+      ],
+      [
+        "aro",
+        0.0
+      ],
+      [
+        " reaction",
+        -6.670925e-05
+      ]
+    ]
+  },
+  "This reaction is the progenitor and analogue of the metal alkoxide- catalyzed ester formation named for Tischenko and is similar in product to the Meerwein-Ponndorf-Verley reduction; it was recently discovered that lithium bromide is a near-ideal catalyst for all three, though the traditional form of this reaction uses a metal hydroxide as its catalyst. This reaction begins with nucleophilic addition by a hydroxide group, resulting in a namesake tetrahedral intermediate, which then reacts with another": {
+    "guess": "Cannizzaro reaction",
+    "confidence": [
+      [
+        "Cann",
+        -0.0034705903
+      ],
+      [
+        "izz",
+        -3.7697225e-06
+      ],
+      [
+        "aro",
+        0.0
+      ],
+      [
+        " reaction",
+        -1.962381e-05
+      ]
+    ]
+  },
+  "This reaction is the progenitor and analogue of the metal alkoxide- catalyzed ester formation named for Tischenko and is similar in product to the Meerwein-Ponndorf-Verley reduction; it was recently discovered that lithium bromide is a near-ideal catalyst for all three, though the traditional form of this reaction uses a metal hydroxide as its catalyst. This reaction begins with nucleophilic addition by a hydroxide group, resulting in a namesake tetrahedral intermediate, which then reacts with another molecule of reactant in a disproportionation step. Formaldehyde can be used to increase the yield": {
+    "guess": "Cannizzaro reaction",
+    "confidence": [
+      [
+        "Cann",
+        -0.006419887
+      ],
+      [
+        "izz",
+        -8.4947416e-05
+      ],
+      [
+        "aro",
+        0.0
+      ],
+      [
+        " reaction",
+        -5.9080223e-05
+      ]
+    ]
+  },
+  "This reaction is the progenitor and analogue of the metal alkoxide- catalyzed ester formation named for Tischenko and is similar in product to the Meerwein-Ponndorf-Verley reduction; it was recently discovered that lithium bromide is a near-ideal catalyst for all three, though the traditional form of this reaction uses a metal hydroxide as its catalyst. This reaction begins with nucleophilic addition by a hydroxide group, resulting in a namesake tetrahedral intermediate, which then reacts with another molecule of reactant in a disproportionation step. Formaldehyde can be used to increase the yield of one of this reaction's products in its \"crossed\" variant. If the reactant aldehyde has an alpha": {
+    "guess": "Cannizzaro reaction",
+    "confidence": [
+      [
+        "Cann",
+        -0.014395959
+      ],
+      [
+        "izz",
+        -5.157039e-05
+      ],
+      [
+        "aro",
+        0.0
+      ],
+      [
+        " reaction",
+        -3.190179e-05
+      ]
+    ]
+  },
+  "This reaction is the progenitor and analogue of the metal alkoxide- catalyzed ester formation named for Tischenko and is similar in product to the Meerwein-Ponndorf-Verley reduction; it was recently discovered that lithium bromide is a near-ideal catalyst for all three, though the traditional form of this reaction uses a metal hydroxide as its catalyst. This reaction begins with nucleophilic addition by a hydroxide group, resulting in a namesake tetrahedral intermediate, which then reacts with another molecule of reactant in a disproportionation step. Formaldehyde can be used to increase the yield of one of this reaction's products in its \"crossed\" variant. If the reactant aldehyde has an alpha hydrogen, the aldol condensation accomplishes the same thins as this reaction faster. For ten points,": {
+    "guess": "Cannizzaro reaction",
+    "confidence": [
+      [
+        "Cann",
+        -5.8126592e-05
+      ],
+      [
+        "izz",
+        -4.012684e-05
+      ],
+      [
+        "aro",
+        0.0
+      ],
+      [
+        " reaction",
+        -2.1650272e-05
+      ]
+    ]
+  },
+  "This reaction is the progenitor and analogue of the metal alkoxide- catalyzed ester formation named for Tischenko and is similar in product to the Meerwein-Ponndorf-Verley reduction; it was recently discovered that lithium bromide is a near-ideal catalyst for all three, though the traditional form of this reaction uses a metal hydroxide as its catalyst. This reaction begins with nucleophilic addition by a hydroxide group, resulting in a namesake tetrahedral intermediate, which then reacts with another molecule of reactant in a disproportionation step. Formaldehyde can be used to increase the yield of one of this reaction's products in its \"crossed\" variant. If the reactant aldehyde has an alpha hydrogen, the aldol condensation accomplishes the same thins as this reaction faster. For ten points, name this reaction in which an acid and alcohol are formed from aldehydes, and which is named for": {
+    "guess": "Cannizzaro reaction",
+    "confidence": [
+      [
+        "Cann",
+        -0.014239664
+      ],
+      [
+        "izz",
+        -1.3067608e-05
+      ],
+      [
+        "aro",
+        0.0
+      ],
+      [
+        " reaction",
+        -5.8484206e-05
+      ]
+    ]
+  },
+  "This reaction is the progenitor and analogue of the metal alkoxide- catalyzed ester formation named for Tischenko and is similar in product to the Meerwein-Ponndorf-Verley reduction; it was recently discovered that lithium bromide is a near-ideal catalyst for all three, though the traditional form of this reaction uses a metal hydroxide as its catalyst. This reaction begins with nucleophilic addition by a hydroxide group, resulting in a namesake tetrahedral intermediate, which then reacts with another molecule of reactant in a disproportionation step. Formaldehyde can be used to increase the yield of one of this reaction's products in its \"crossed\" variant. If the reactant aldehyde has an alpha hydrogen, the aldol condensation accomplishes the same thins as this reaction faster. For ten points, name this reaction in which an acid and alcohol are formed from aldehydes, and which is named for an Italian chemist.": {
+    "guess": "Cannizzaro reaction",
+    "confidence": [
+      [
+        "Cann",
+        -0.00038479414
+      ],
+      [
+        "izz",
+        -4.8425554e-06
+      ],
+      [
+        "aro",
+        0.0
+      ],
+      [
+        " reaction",
+        -4.561021e-05
+      ]
+    ]
+  },
+  "The reaction of hydroxyl radical with a nitrogen atom was introduced by Lavoie, Heywood, and Keck to": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.43842137
+      ]
+    ]
+  },
+  "The reaction of hydroxyl radical with a nitrogen atom was introduced by Lavoie, Heywood, and Keck to complement this physicist's two reactions he proposed for the formation by electrical discharge of atmospheric": {
+    "guess": "Zeldovich mechanism",
+    "confidence": [
+      [
+        "Z",
+        -0.64509505
+      ],
+      [
+        "eld",
+        -0.005416723
+      ],
+      [
+        "ovich",
+        -7.89631e-07
+      ],
+      [
+        " mechanism",
+        -1.3402009
+      ]
+    ]
+  },
+  "The reaction of hydroxyl radical with a nitrogen atom was introduced by Lavoie, Heywood, and Keck to complement this physicist's two reactions he proposed for the formation by electrical discharge of atmospheric nitric oxide, his namesake mechanism. This physicist makes an approximation that shows that": {
+    "guess": "Zeldovich",
+    "confidence": [
+      [
+        "Z",
+        -0.01777117
+      ],
+      [
+        "eld",
+        -0.0037858237
+      ],
+      [
+        "ovich",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "The reaction of hydroxyl radical with a nitrogen atom was introduced by Lavoie, Heywood, and Keck to complement this physicist's two reactions he proposed for the formation by electrical discharge of atmospheric nitric oxide, his namesake mechanism. This physicist makes an approximation that shows that a super-galactic ellipsoid of gas will collapse on its shortest axis first, and one concept to which": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7495072
+      ]
+    ]
+  },
+  "The reaction of hydroxyl radical with a nitrogen atom was introduced by Lavoie, Heywood, and Keck to complement this physicist's two reactions he proposed for the formation by electrical discharge of atmospheric nitric oxide, his namesake mechanism. This physicist makes an approximation that shows that a super-galactic ellipsoid of gas will collapse on its shortest axis first, and one concept to which he is the second namesake has a second- order component arising from bulk motion named for Ostriker": {
+    "guess": "Zeldovich mechanism",
+    "confidence": [
+      [
+        "Z",
+        -0.32256806
+      ],
+      [
+        "eld",
+        -0.0068709524
+      ],
+      [
+        "ovich",
+        -3.7697225e-06
+      ],
+      [
+        " mechanism",
+        -0.78804445
+      ]
+    ]
+  },
+  "The reaction of hydroxyl radical with a nitrogen atom was introduced by Lavoie, Heywood, and Keck to complement this physicist's two reactions he proposed for the formation by electrical discharge of atmospheric nitric oxide, his namesake mechanism. This physicist makes an approximation that shows that a super-galactic ellipsoid of gas will collapse on its shortest axis first, and one concept to which he is the second namesake has a second- order component arising from bulk motion named for Ostriker and Vishniac; that concept is prominent in an entity that also experiences the Sachs-Wolfe effect.": {
+    "guess": "Zeldovich",
+    "confidence": [
+      [
+        "Z",
+        -0.45527747
+      ],
+      [
+        "eld",
+        -0.005271465
+      ],
+      [
+        "ovich",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "The reaction of hydroxyl radical with a nitrogen atom was introduced by Lavoie, Heywood, and Keck to complement this physicist's two reactions he proposed for the formation by electrical discharge of atmospheric nitric oxide, his namesake mechanism. This physicist makes an approximation that shows that a super-galactic ellipsoid of gas will collapse on its shortest axis first, and one concept to which he is the second namesake has a second- order component arising from bulk motion named for Ostriker and Vishniac; that concept is prominent in an entity that also experiences the Sachs-Wolfe effect. FTP, give this namesake of a \"pancake model\" of galactic formation who is also the second namesake": {
+    "guess": "Yakov Borisovich Zel'dovich",
+    "confidence": [
+      [
+        "Y",
+        -0.5937939
+      ],
+      [
+        "akov",
+        -3.1281633e-07
+      ],
+      [
+        " Boris",
+        -0.004054533
+      ],
+      [
+        "ovich",
+        -1.9816675e-06
+      ],
+      [
+        " Zel",
+        -0.00012344286
+      ],
+      [
+        "'d",
+        -0.00043102686
+      ],
+      [
+        "ovich",
+        0.0
+      ]
+    ]
+  },
+  "The reaction of hydroxyl radical with a nitrogen atom was introduced by Lavoie, Heywood, and Keck to complement this physicist's two reactions he proposed for the formation by electrical discharge of atmospheric nitric oxide, his namesake mechanism. This physicist makes an approximation that shows that a super-galactic ellipsoid of gas will collapse on its shortest axis first, and one concept to which he is the second namesake has a second- order component arising from bulk motion named for Ostriker and Vishniac; that concept is prominent in an entity that also experiences the Sachs-Wolfe effect. FTP, give this namesake of a \"pancake model\" of galactic formation who is also the second namesake of a form of inverse Compton scattering in the cosmic microwave background, along with Sunyaev.": {
+    "guess": "Zeldovich",
+    "confidence": [
+      [
+        "Z",
+        -0.060318507
+      ],
+      [
+        "eld",
+        -0.004078878
+      ],
+      [
+        "ovich",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "His Realist-influenced works include \"The Golden Horseshoe\" and \"The Main Death.\" \"Nightmare Town\" and": {
+    "guess": "James Ellroy",
+    "confidence": [
+      [
+        "James",
+        -0.57600594
+      ],
+      [
+        " Ell",
+        -0.40155408
+      ],
+      [
+        "roy",
+        -1.0087517e-05
+      ]
+    ]
+  },
+  "His Realist-influenced works include \"The Golden Horseshoe\" and \"The Main Death.\" \"Nightmare Town\" and \"Two Sharp Knives\" focus on urban corruption, as does much of Red Harvest. Most of his works deal": {
+    "guess": "Dashiell Hammett",
+    "confidence": [
+      [
+        "D",
+        -0.0015159346
+      ],
+      [
+        "ashi",
+        0.0
+      ],
+      [
+        "ell",
+        0.0
+      ],
+      [
+        " Ham",
+        0.0
+      ],
+      [
+        "mett",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "His Realist-influenced works include \"The Golden Horseshoe\" and \"The Main Death.\" \"Nightmare Town\" and \"Two Sharp Knives\" focus on urban corruption, as does much of Red Harvest. Most of his works deal with threats to a victim, such as \"Night Shots\" and \"Death and Company.\" For 10 points\u2014name this author": {
+    "guess": "Dashiell Hammett",
+    "confidence": [
+      [
+        "D",
+        -0.0059533296
+      ],
+      [
+        "ashi",
+        0.0
+      ],
+      [
+        "ell",
+        0.0
+      ],
+      [
+        " Ham",
+        0.0
+      ],
+      [
+        "mett",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "His Realist-influenced works include \"The Golden Horseshoe\" and \"The Main Death.\" \"Nightmare Town\" and \"Two Sharp Knives\" focus on urban corruption, as does much of Red Harvest. Most of his works deal with threats to a victim, such as \"Night Shots\" and \"Death and Company.\" For 10 points\u2014name this author of hard-boiled fiction who invented Nick and Nora Charles in The Thin Man and Miles Archer and Sam": {
+    "guess": "Dashiell Hammett",
+    "confidence": [
+      [
+        "D",
+        -0.01256086
+      ],
+      [
+        "ashi",
+        0.0
+      ],
+      [
+        "ell",
+        0.0
+      ],
+      [
+        " Ham",
+        -4.3202e-07
+      ],
+      [
+        "mett",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "His Realist-influenced works include \"The Golden Horseshoe\" and \"The Main Death.\" \"Nightmare Town\" and \"Two Sharp Knives\" focus on urban corruption, as does much of Red Harvest. Most of his works deal with threats to a victim, such as \"Night Shots\" and \"Death and Company.\" For 10 points\u2014name this author of hard-boiled fiction who invented Nick and Nora Charles in The Thin Man and Miles Archer and Sam Spade in The Maltese Falcon.": {
+    "guess": "Dashiell Hammett",
+    "confidence": [
+      [
+        "D",
+        -0.022354651
+      ],
+      [
+        "ashi",
+        0.0
+      ],
+      [
+        "ell",
+        0.0
+      ],
+      [
+        " Ham",
+        -1.9361265e-07
+      ],
+      [
+        "mett",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One rebellion in this modern-day country was crushed at the battle of Waterberg and the survivors driven": {
+    "guess": "Namibia",
+    "confidence": [
+      [
+        "Nam",
+        -0.007980997
+      ],
+      [
+        "ibia",
+        -0.0024781544
+      ]
+    ]
+  },
+  "One rebellion in this modern-day country was crushed at the battle of Waterberg and the survivors driven into the desert by Lothar van Trotha, while a rebellion by another tribe sprang up only two months": {
+    "guess": "Namibia",
+    "confidence": [
+      [
+        "Nam",
+        -0.00028767617
+      ],
+      [
+        "ibia",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "One rebellion in this modern-day country was crushed at the battle of Waterberg and the survivors driven into the desert by Lothar van Trotha, while a rebellion by another tribe sprang up only two months after that Herero rebellion and was ended with the signing of the Protection Contracts.  Bounty killings": {
+    "guess": "Namibia",
+    "confidence": [
+      [
+        "Nam",
+        -0.00025251842
+      ],
+      [
+        "ibia",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "One rebellion in this modern-day country was crushed at the battle of Waterberg and the survivors driven into the desert by Lothar van Trotha, while a rebellion by another tribe sprang up only two months after that Herero rebellion and was ended with the signing of the Protection Contracts.  Bounty killings were a staple of the later counter-insurgency unit Koevoet, which killed approximately 25 PLAN": {
+    "guess": "Namibia",
+    "confidence": [
+      [
+        "Nam",
+        -2.5345586e-05
+      ],
+      [
+        "ibia",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "One rebellion in this modern-day country was crushed at the battle of Waterberg and the survivors driven into the desert by Lothar van Trotha, while a rebellion by another tribe sprang up only two months after that Herero rebellion and was ended with the signing of the Protection Contracts.  Bounty killings were a staple of the later counter-insurgency unit Koevoet, which killed approximately 25 PLAN members for every death of their own.  PLAN was the military wing of the Sam Nujoma-led rebel group": {
+    "guess": "Namibia",
+    "confidence": [
+      [
+        "Nam",
+        -1.7239736e-05
+      ],
+      [
+        "ibia",
+        0.0
+      ]
+    ]
+  },
+  "One rebellion in this modern-day country was crushed at the battle of Waterberg and the survivors driven into the desert by Lothar van Trotha, while a rebellion by another tribe sprang up only two months after that Herero rebellion and was ended with the signing of the Protection Contracts.  Bounty killings were a staple of the later counter-insurgency unit Koevoet, which killed approximately 25 PLAN members for every death of their own.  PLAN was the military wing of the Sam Nujoma-led rebel group SWAPO, which sought independence from South Africa.  For 10 points, name this country formerly known": {
+    "guess": "Namibia",
+    "confidence": [
+      [
+        "Nam",
+        -1.4021238e-05
+      ],
+      [
+        "ibia",
+        0.0
+      ]
+    ]
+  },
+  "One rebellion in this modern-day country was crushed at the battle of Waterberg and the survivors driven into the desert by Lothar van Trotha, while a rebellion by another tribe sprang up only two months after that Herero rebellion and was ended with the signing of the Protection Contracts.  Bounty killings were a staple of the later counter-insurgency unit Koevoet, which killed approximately 25 PLAN members for every death of their own.  PLAN was the military wing of the Sam Nujoma-led rebel group SWAPO, which sought independence from South Africa.  For 10 points, name this country formerly known as German South-West Africa, with capital Windhoek.": {
+    "guess": "Namibia",
+    "confidence": [
+      [
+        "Nam",
+        -0.029853119
+      ],
+      [
+        "ibia",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "A reaction named for this man is implicated in the enzyme-catalyzed formation of a phenylalanine precursor": {
+    "guess": "Strecker synthesis",
+    "confidence": [
+      [
+        "St",
+        -1.3372892
+      ],
+      [
+        "re",
+        -0.034868374
+      ],
+      [
+        "cker",
+        -1.7432603e-06
+      ],
+      [
+        " synthesis",
+        -0.07580306
+      ]
+    ]
+  },
+  "A reaction named for this man is implicated in the enzyme-catalyzed formation of a phenylalanine precursor from chorismate in plants. A variant of that reaction produces a gamma,delta-unsaturated ketone": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9844985
+      ]
+    ]
+  },
+  "A reaction named for this man is implicated in the enzyme-catalyzed formation of a phenylalanine precursor from chorismate in plants. A variant of that reaction produces a gamma,delta-unsaturated ketone from an allylic acid, and is named for this man and Ireland. Another reaction named for this man is": {
+    "guess": "Claisen rearrangement",
+    "confidence": [
+      [
+        "Cl",
+        -0.72292215
+      ],
+      [
+        "aisen",
+        -8.3159364e-05
+      ],
+      [
+        " rearr",
+        -0.07386374
+      ],
+      [
+        "angement",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A reaction named for this man is implicated in the enzyme-catalyzed formation of a phenylalanine precursor from chorismate in plants. A variant of that reaction produces a gamma,delta-unsaturated ketone from an allylic acid, and is named for this man and Ireland. Another reaction named for this man is driven to completion by deprotonation of the product, and has an intramolecular variant named for": {
+    "guess": "Claisen rearrangement",
+    "confidence": [
+      [
+        "Cl",
+        -0.21224658
+      ],
+      [
+        "aisen",
+        -1.1994775e-05
+      ],
+      [
+        " rearr",
+        -0.011297264
+      ],
+      [
+        "angement",
+        0.0
+      ]
+    ]
+  },
+  "A reaction named for this man is implicated in the enzyme-catalyzed formation of a phenylalanine precursor from chorismate in plants. A variant of that reaction produces a gamma,delta-unsaturated ketone from an allylic acid, and is named for this man and Ireland. Another reaction named for this man is driven to completion by deprotonation of the product, and has an intramolecular variant named for Dieckmann. The first reaction is essentially irreversible due to the formation of a carbonyl double": {
+    "guess": "Claisen condensation",
+    "confidence": [
+      [
+        "Cl",
+        -0.098207
+      ],
+      [
+        "aisen",
+        -1.2664457e-06
+      ],
+      [
+        " condensation",
+        -0.11675927
+      ]
+    ]
+  },
+  "A reaction named for this man is implicated in the enzyme-catalyzed formation of a phenylalanine precursor from chorismate in plants. A variant of that reaction produces a gamma,delta-unsaturated ketone from an allylic acid, and is named for this man and Ireland. Another reaction named for this man is driven to completion by deprotonation of the product, and has an intramolecular variant named for Dieckmann. The first reaction is essentially irreversible due to the formation of a carbonyl double bond in contrast to a similar pericyclic [3,3] sigmatropic rearrangement named for Cope. FTP identify": {
+    "guess": "Claisen condensation",
+    "confidence": [
+      [
+        "Cl",
+        -0.31667385
+      ],
+      [
+        "aisen",
+        0.0
+      ],
+      [
+        " condensation",
+        -0.04389267
+      ]
+    ]
+  },
+  "A reaction named for this man is implicated in the enzyme-catalyzed formation of a phenylalanine precursor from chorismate in plants. A variant of that reaction produces a gamma,delta-unsaturated ketone from an allylic acid, and is named for this man and Ireland. Another reaction named for this man is driven to completion by deprotonation of the product, and has an intramolecular variant named for Dieckmann. The first reaction is essentially irreversible due to the formation of a carbonyl double bond in contrast to a similar pericyclic [3,3] sigmatropic rearrangement named for Cope. FTP identify this chemist who gives his name to a rearrangement reaction and the production of a beta-keto ester": {
+    "guess": "Rainer Ludwig Claisen",
+    "confidence": [
+      [
+        "R",
+        -0.6980378
+      ],
+      [
+        "ainer",
+        -4.3202e-07
+      ],
+      [
+        " Ludwig",
+        -1.9361265e-07
+      ],
+      [
+        " Cla",
+        -1.9361265e-07
+      ],
+      [
+        "isen",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "A reaction named for this man is implicated in the enzyme-catalyzed formation of a phenylalanine precursor from chorismate in plants. A variant of that reaction produces a gamma,delta-unsaturated ketone from an allylic acid, and is named for this man and Ireland. Another reaction named for this man is driven to completion by deprotonation of the product, and has an intramolecular variant named for Dieckmann. The first reaction is essentially irreversible due to the formation of a carbonyl double bond in contrast to a similar pericyclic [3,3] sigmatropic rearrangement named for Cope. FTP identify this chemist who gives his name to a rearrangement reaction and the production of a beta-keto ester from the condensation of two equivalents of an ester.": {
+    "guess": "Rainer Ludwig Claisen",
+    "confidence": [
+      [
+        "R",
+        -0.57781696
+      ],
+      [
+        "ainer",
+        -5.5122365e-07
+      ],
+      [
+        " Ludwig",
+        -1.9361265e-07
+      ],
+      [
+        " Cla",
+        -4.3202e-07
+      ],
+      [
+        "isen",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "As the reaction proceeds, 6 pi electrons are delocalized above the transition state, which stabilizes": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7982348
+      ]
+    ]
+  },
+  "As the reaction proceeds, 6 pi electrons are delocalized above the transition state, which stabilizes it by the Hammond Postulate. Thus, these reactions have a faster rate and are more stable than two": {
+    "guess": "Aromaticity",
+    "confidence": [
+      [
+        "A",
+        -0.83182657
+      ],
+      [
+        "romatic",
+        -0.00036192173
+      ],
+      [
+        "ity",
+        -0.79901916
+      ]
+    ]
+  },
+  "As the reaction proceeds, 6 pi electrons are delocalized above the transition state, which stabilizes it by the Hammond Postulate. Thus, these reactions have a faster rate and are more stable than two plus two and four plus four cycloaddition reactions. Most of the reactions are not reversible, however": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.004838907
+      ],
+      [
+        "iels",
+        -3.650519e-06
+      ],
+      [
+        "-A",
+        -0.16022535
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.01684395
+      ]
+    ]
+  },
+  "As the reaction proceeds, 6 pi electrons are delocalized above the transition state, which stabilizes it by the Hammond Postulate. Thus, these reactions have a faster rate and are more stable than two plus two and four plus four cycloaddition reactions. Most of the reactions are not reversible, however under a large amount of heat the retro reaction proceeds. The discovers, working at the University": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.001824289
+      ],
+      [
+        "iels",
+        -1.2664457e-06
+      ],
+      [
+        "-A",
+        -0.16022564
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.005479914
+      ]
+    ]
+  },
+  "As the reaction proceeds, 6 pi electrons are delocalized above the transition state, which stabilizes it by the Hammond Postulate. Thus, these reactions have a faster rate and are more stable than two plus two and four plus four cycloaddition reactions. Most of the reactions are not reversible, however under a large amount of heat the retro reaction proceeds. The discovers, working at the University of Cologne, shared the Nobel Prize in Chemistry in 1950 for the discovery of the reaction between": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.012333757
+      ],
+      [
+        "iels",
+        -7.89631e-07
+      ],
+      [
+        "-A",
+        -0.3132629
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.00044246673
+      ]
+    ]
+  },
+  "As the reaction proceeds, 6 pi electrons are delocalized above the transition state, which stabilizes it by the Hammond Postulate. Thus, these reactions have a faster rate and are more stable than two plus two and four plus four cycloaddition reactions. Most of the reactions are not reversible, however under a large amount of heat the retro reaction proceeds. The discovers, working at the University of Cologne, shared the Nobel Prize in Chemistry in 1950 for the discovery of the reaction between a substituted alkene and a conjugated diene. This is, for ten points, which class of reactions that": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.0009877925
+      ],
+      [
+        "iels",
+        -4.3202e-07
+      ],
+      [
+        "-A",
+        -0.16022463
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.015472756
+      ]
+    ]
+  },
+  "As the reaction proceeds, 6 pi electrons are delocalized above the transition state, which stabilizes it by the Hammond Postulate. Thus, these reactions have a faster rate and are more stable than two plus two and four plus four cycloaddition reactions. Most of the reactions are not reversible, however under a large amount of heat the retro reaction proceeds. The discovers, working at the University of Cologne, shared the Nobel Prize in Chemistry in 1950 for the discovery of the reaction between a substituted alkene and a conjugated diene. This is, for ten points, which class of reactions that results in a cyclic alkene?": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.0005749552
+      ],
+      [
+        "iels",
+        -7.89631e-07
+      ],
+      [
+        "-A",
+        -0.16022463
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.0012859484
+      ]
+    ]
+  },
+  "One reaction of this type exposes tosylhydrazones to a strong base to produce a carbenium ion intermediate,": {
+    "guess": "Shapiro reaction",
+    "confidence": [
+      [
+        "Sh",
+        -0.23706271
+      ],
+      [
+        "apiro",
+        -4.5848617e-05
+      ],
+      [
+        " reaction",
+        -0.00044282433
+      ]
+    ]
+  },
+  "One reaction of this type exposes tosylhydrazones to a strong base to produce a carbenium ion intermediate, while in another reaction of this type, alcohols react with a xanthate ester to produce carbonyl": {
+    "guess": "Barton-McCombie deoxygenation",
+    "confidence": [
+      [
+        "B",
+        -0.73410344
+      ],
+      [
+        "arton",
+        -0.023352042
+      ],
+      [
+        "-M",
+        -0.25098172
+      ],
+      [
+        "c",
+        -7.89631e-07
+      ],
+      [
+        "Com",
+        -1.3856493e-06
+      ],
+      [
+        "bie",
+        0.0
+      ],
+      [
+        " de",
+        -0.123843186
+      ],
+      [
+        "oxygen",
+        -5.9153886e-06
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "One reaction of this type exposes tosylhydrazones to a strong base to produce a carbenium ion intermediate, while in another reaction of this type, alcohols react with a xanthate ester to produce carbonyl sulfides. In addition to the Bamford-Stevens and Chugaev reactions, another way of performing this": {
+    "guess": "Elimination reaction",
+    "confidence": [
+      [
+        "El",
+        -0.015029679
+      ],
+      [
+        "imination",
+        -1.8624639e-06
+      ],
+      [
+        " reaction",
+        -1.2948405e-05
+      ]
+    ]
+  },
+  "One reaction of this type exposes tosylhydrazones to a strong base to produce a carbenium ion intermediate, while in another reaction of this type, alcohols react with a xanthate ester to produce carbonyl sulfides. In addition to the Bamford-Stevens and Chugaev reactions, another way of performing this type of reaction uses an excess of methyl iodide to produce a tertiary amine. In addition to that": {
+    "guess": "Elimination reaction",
+    "confidence": [
+      [
+        "El",
+        -0.33003324
+      ],
+      [
+        "imination",
+        -3.0545007e-06
+      ],
+      [
+        " reaction",
+        -3.5120287e-05
+      ]
+    ]
+  },
+  "One reaction of this type exposes tosylhydrazones to a strong base to produce a carbenium ion intermediate, while in another reaction of this type, alcohols react with a xanthate ester to produce carbonyl sulfides. In addition to the Bamford-Stevens and Chugaev reactions, another way of performing this type of reaction uses an excess of methyl iodide to produce a tertiary amine. In addition to that reaction named for (*) Hoffman, alkynes can be produced by performing this type of reaction on vicinal": {
+    "guess": "Elimination reaction",
+    "confidence": [
+      [
+        "El",
+        -0.0052798884
+      ],
+      [
+        "imination",
+        -3.1281633e-07
+      ],
+      [
+        " reaction",
+        -0.0007276826
+      ]
+    ]
+  },
+  "One reaction of this type exposes tosylhydrazones to a strong base to produce a carbenium ion intermediate, while in another reaction of this type, alcohols react with a xanthate ester to produce carbonyl sulfides. In addition to the Bamford-Stevens and Chugaev reactions, another way of performing this type of reaction uses an excess of methyl iodide to produce a tertiary amine. In addition to that reaction named for (*) Hoffman, alkynes can be produced by performing this type of reaction on vicinal dihalides. Zaitsev's Rule applies for this type of reaction, resulting in the more highly substituted": {
+    "guess": "Elimination reaction",
+    "confidence": [
+      [
+        "El",
+        -0.0017168276
+      ],
+      [
+        "imination",
+        -3.1281633e-07
+      ],
+      [
+        " reaction",
+        -0.00029506313
+      ]
+    ]
+  },
+  "One reaction of this type exposes tosylhydrazones to a strong base to produce a carbenium ion intermediate, while in another reaction of this type, alcohols react with a xanthate ester to produce carbonyl sulfides. In addition to the Bamford-Stevens and Chugaev reactions, another way of performing this type of reaction uses an excess of methyl iodide to produce a tertiary amine. In addition to that reaction named for (*) Hoffman, alkynes can be produced by performing this type of reaction on vicinal dihalides. Zaitsev's Rule applies for this type of reaction, resulting in the more highly substituted product, while this reaction's bimolecular variety proceeds in an \"anti-periplanar\" fashion. FTP,": {
+    "guess": "Elimination reaction",
+    "confidence": [
+      [
+        "El",
+        -0.0018562922
+      ],
+      [
+        "imination",
+        -3.1281633e-07
+      ],
+      [
+        " reaction",
+        -0.00028731857
+      ]
+    ]
+  },
+  "One reaction of this type exposes tosylhydrazones to a strong base to produce a carbenium ion intermediate, while in another reaction of this type, alcohols react with a xanthate ester to produce carbonyl sulfides. In addition to the Bamford-Stevens and Chugaev reactions, another way of performing this type of reaction uses an excess of methyl iodide to produce a tertiary amine. In addition to that reaction named for (*) Hoffman, alkynes can be produced by performing this type of reaction on vicinal dihalides. Zaitsev's Rule applies for this type of reaction, resulting in the more highly substituted product, while this reaction's bimolecular variety proceeds in an \"anti-periplanar\" fashion. FTP, name this type of reaction which removes substituents from molecules in order to form pi bonds.": {
+    "guess": "Elimination reaction",
+    "confidence": [
+      [
+        "El",
+        -7.755679e-05
+      ],
+      [
+        "imination",
+        -1.9361265e-07
+      ],
+      [
+        " reaction",
+        -0.00021951001
+      ]
+    ]
+  },
+  "A rebellion in one of this country's colonies was inspired by \"magical\" water mixed with oil and millet": {
+    "guess": "Maji Maji Rebellion",
+    "confidence": [
+      [
+        "M",
+        -0.046226628
+      ],
+      [
+        "aji",
+        -1.9361265e-07
+      ],
+      [
+        " M",
+        -2.3392786e-06
+      ],
+      [
+        "aji",
+        0.0
+      ],
+      [
+        " Re",
+        -3.1281633e-07
+      ],
+      [
+        "bellion",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A rebellion in one of this country's colonies was inspired by \"magical\" water mixed with oil and millet seeds. This nation dealt with the Maji Maji Revolt and recently apologized for its genocide during": {
+    "guess": "Herero Wars",
+    "confidence": [
+      [
+        "Her",
+        -0.3187965
+      ],
+      [
+        "ero",
+        -1.9361265e-07
+      ],
+      [
+        " Wars",
+        -0.2520349
+      ]
+    ]
+  },
+  "A rebellion in one of this country's colonies was inspired by \"magical\" water mixed with oil and millet seeds. This nation dealt with the Maji Maji Revolt and recently apologized for its genocide during the Herero Wars. The Algeciras Conference addressed this country's attempt to stop a rival nation": {
+    "guess": "Algeciras Conference",
+    "confidence": [
+      [
+        "Al",
+        -0.5250555
+      ],
+      [
+        "ge",
+        -2.1531068e-05
+      ],
+      [
+        "c",
+        0.0
+      ],
+      [
+        "iras",
+        0.0
+      ],
+      [
+        " Conference",
+        -7.703444e-06
+      ]
+    ]
+  },
+  "A rebellion in one of this country's colonies was inspired by \"magical\" water mixed with oil and millet seeds. This nation dealt with the Maji Maji Revolt and recently apologized for its genocide during the Herero Wars. The Algeciras Conference addressed this country's attempt to stop a rival nation from establishing a protectorate during the Tangiers Crisis. It lessened its fight for colonies under": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.22387438
+      ]
+    ]
+  },
+  "A rebellion in one of this country's colonies was inspired by \"magical\" water mixed with oil and millet seeds. This nation dealt with the Maji Maji Revolt and recently apologized for its genocide during the Herero Wars. The Algeciras Conference addressed this country's attempt to stop a rival nation from establishing a protectorate during the Tangiers Crisis. It lessened its fight for colonies under Leo von Caprivi. The Congo River was agreed to be a neutral zone at an 1884 meeting in this country": {
+    "guess": "Germany",
+    "confidence": [
+      [
+        "Germany",
+        -0.037767287
+      ]
+    ]
+  },
+  "A rebellion in one of this country's colonies was inspired by \"magical\" water mixed with oil and millet seeds. This nation dealt with the Maji Maji Revolt and recently apologized for its genocide during the Herero Wars. The Algeciras Conference addressed this country's attempt to stop a rival nation from establishing a protectorate during the Tangiers Crisis. It lessened its fight for colonies under Leo von Caprivi. The Congo River was agreed to be a neutral zone at an 1884 meeting in this country during the \"Scramble for Africa\". For 10 points, name this country which colonized Tanzania and Namibia": {
+    "guess": "Germany",
+    "confidence": [
+      [
+        "Germany",
+        -0.0024094235
+      ]
+    ]
+  },
+  "A rebellion in one of this country's colonies was inspired by \"magical\" water mixed with oil and millet seeds. This nation dealt with the Maji Maji Revolt and recently apologized for its genocide during the Herero Wars. The Algeciras Conference addressed this country's attempt to stop a rival nation from establishing a protectorate during the Tangiers Crisis. It lessened its fight for colonies under Leo von Caprivi. The Congo River was agreed to be a neutral zone at an 1884 meeting in this country during the \"Scramble for Africa\". For 10 points, name this country which colonized Tanzania and Namibia and hosted the Berlin Conference.": {
+    "guess": "Germany",
+    "confidence": [
+      [
+        "Germany",
+        -0.00085239357
+      ]
+    ]
+  },
+  "This man reached his then-highest political office with the Peace of Prague, which followed the Fraternal": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.15919216
+      ],
+      [
+        "to",
+        -3.1281633e-07
+      ],
+      [
+        " von",
+        -1.473646e-05
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "This man reached his then-highest political office with the Peace of Prague, which followed the Fraternal War in which Italy acquired Venetia. French reaction to the proposed enthronement of Leopold of": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.3361107
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " von",
+        -2.9352968e-06
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "This man reached his then-highest political office with the Peace of Prague, which followed the Fraternal War in which Italy acquired Venetia. French reaction to the proposed enthronement of Leopold of Hohenzollern as King of Spain impelled this leader to release a doctored telegram, the Ems Dispatch.": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.011945581
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " von",
+        -1.9361265e-07
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "This man reached his then-highest political office with the Peace of Prague, which followed the Fraternal War in which Italy acquired Venetia. French reaction to the proposed enthronement of Leopold of Hohenzollern as King of Spain impelled this leader to release a doctored telegram, the Ems Dispatch. This man created a system of pensions and insurance for his country's workers, the first in the world,": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.0037188423
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " von",
+        0.0
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "This man reached his then-highest political office with the Peace of Prague, which followed the Fraternal War in which Italy acquired Venetia. French reaction to the proposed enthronement of Leopold of Hohenzollern as King of Spain impelled this leader to release a doctored telegram, the Ems Dispatch. This man created a system of pensions and insurance for his country's workers, the first in the world, and acquired eastern New Guinea, part of which was named for him. He served the first German Emperor": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.0072692716
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " von",
+        0.0
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "This man reached his then-highest political office with the Peace of Prague, which followed the Fraternal War in which Italy acquired Venetia. French reaction to the proposed enthronement of Leopold of Hohenzollern as King of Spain impelled this leader to release a doctored telegram, the Ems Dispatch. This man created a system of pensions and insurance for his country's workers, the first in the world, and acquired eastern New Guinea, part of which was named for him. He served the first German Emperor faithfully but was dismissed in 1890 by Wilhelm II. For 10 points, name this fiery proponent of": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.012869239
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " von",
+        0.0
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "This man reached his then-highest political office with the Peace of Prague, which followed the Fraternal War in which Italy acquired Venetia. French reaction to the proposed enthronement of Leopold of Hohenzollern as King of Spain impelled this leader to release a doctored telegram, the Ems Dispatch. This man created a system of pensions and insurance for his country's workers, the first in the world, and acquired eastern New Guinea, part of which was named for him. He served the first German Emperor faithfully but was dismissed in 1890 by Wilhelm II. For 10 points, name this fiery proponent of \"blood and iron,\" the first Chancellor of Germany.": {
+    "guess": "Otto von Bismarck",
+    "confidence": [
+      [
+        "Ot",
+        -0.0020985145
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " von",
+        0.0
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "ismar",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "In a reaction of this type, di-cobalt-octa-carbonyl acts as a source of carbon monoxide to a reacting": {
+    "guess": "Hydroformylation",
+    "confidence": [
+      [
+        "Hyd",
+        -0.37010816
+      ],
+      [
+        "ro",
+        -3.650519e-06
+      ],
+      [
+        "form",
+        -5.9153886e-06
+      ],
+      [
+        "yl",
+        0.0
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "In a reaction of this type, di-cobalt-octa-carbonyl acts as a source of carbon monoxide to a reacting alkyne and alkene. An isoxazolidine results from a reaction of this kind between a nitrone and an alkene.": {
+    "guess": "Pauson\u2013Khand reaction",
+    "confidence": [
+      [
+        "P",
+        -0.45591176
+      ],
+      [
+        "aus",
+        -7.77952e-05
+      ],
+      [
+        "on",
+        -1.9361265e-07
+      ],
+      [
+        "\u2013",
+        -0.038045168
+      ],
+      [
+        "K",
+        0.0
+      ],
+      [
+        "hand",
+        -6.6306106e-06
+      ],
+      [
+        " reaction",
+        -0.00038443657
+      ]
+    ]
+  },
+  "In a reaction of this type, di-cobalt-octa-carbonyl acts as a source of carbon monoxide to a reacting alkyne and alkene. An isoxazolidine results from a reaction of this kind between a nitrone and an alkene. In the first step of ozonolysis, a molozonide forms due to this type of reaction between ozone": {
+    "guess": "Cycloaddition",
+    "confidence": [
+      [
+        "Cycl",
+        -0.02833037
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        "addition",
+        -5.157039e-05
+      ]
+    ]
+  },
+  "In a reaction of this type, di-cobalt-octa-carbonyl acts as a source of carbon monoxide to a reacting alkyne and alkene. An isoxazolidine results from a reaction of this kind between a nitrone and an alkene. In the first step of ozonolysis, a molozonide forms due to this type of reaction between ozone and an alkene. A widely-used reaction of this type, between an alkyne and an azide, is the premier": {
+    "guess": "Cycloaddition",
+    "confidence": [
+      [
+        "Cycl",
+        -0.089035764
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        "addition",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "In a reaction of this type, di-cobalt-octa-carbonyl acts as a source of carbon monoxide to a reacting alkyne and alkene. An isoxazolidine results from a reaction of this kind between a nitrone and an alkene. In the first step of ozonolysis, a molozonide forms due to this type of reaction between ozone and an alkene. A widely-used reaction of this type, between an alkyne and an azide, is the premier example of click chemistry. In their best-known example, the (*) endo transition state is favored.": {
+    "guess": "Cycloaddition",
+    "confidence": [
+      [
+        "Cycl",
+        -0.030927794
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        "addition",
+        -7.9418505e-06
+      ]
+    ]
+  },
+  "In a reaction of this type, di-cobalt-octa-carbonyl acts as a source of carbon monoxide to a reacting alkyne and alkene. An isoxazolidine results from a reaction of this kind between a nitrone and an alkene. In the first step of ozonolysis, a molozonide forms due to this type of reaction between ozone and an alkene. A widely-used reaction of this type, between an alkyne and an azide, is the premier example of click chemistry. In their best-known example, the (*) endo transition state is favored. They are notated by placing, in square brackets, the number of electrons contributed by each reactant,": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.2679489
+      ],
+      [
+        "iels",
+        -6.1537958e-06
+      ],
+      [
+        "-A",
+        -0.38687587
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.0009537405
+      ]
+    ]
+  },
+  "In a reaction of this type, di-cobalt-octa-carbonyl acts as a source of carbon monoxide to a reacting alkyne and alkene. An isoxazolidine results from a reaction of this kind between a nitrone and an alkene. In the first step of ozonolysis, a molozonide forms due to this type of reaction between ozone and an alkene. A widely-used reaction of this type, between an alkyne and an azide, is the premier example of click chemistry. In their best-known example, the (*) endo transition state is favored. They are notated by placing, in square brackets, the number of electrons contributed by each reactant, separated by plus signs. In the most famous reaction of this type, a diene and dienophile react together.": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.18832853
+      ],
+      [
+        "iels",
+        -3.0545007e-06
+      ],
+      [
+        "-A",
+        -0.57594115
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.00058436865
+      ]
+    ]
+  },
+  "In a reaction of this type, di-cobalt-octa-carbonyl acts as a source of carbon monoxide to a reacting alkyne and alkene. An isoxazolidine results from a reaction of this kind between a nitrone and an alkene. In the first step of ozonolysis, a molozonide forms due to this type of reaction between ozone and an alkene. A widely-used reaction of this type, between an alkyne and an azide, is the premier example of click chemistry. In their best-known example, the (*) endo transition state is favored. They are notated by placing, in square brackets, the number of electrons contributed by each reactant, separated by plus signs. In the most famous reaction of this type, a diene and dienophile react together. For 10 points, the Diels-Alder reaction is a reaction of what type, in which the reactants": {
+    "guess": "Cycloaddition",
+    "confidence": [
+      [
+        "Cycl",
+        -0.09141276
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        "addition",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "In a reaction of this type, di-cobalt-octa-carbonyl acts as a source of carbon monoxide to a reacting alkyne and alkene. An isoxazolidine results from a reaction of this kind between a nitrone and an alkene. In the first step of ozonolysis, a molozonide forms due to this type of reaction between ozone and an alkene. A widely-used reaction of this type, between an alkyne and an azide, is the premier example of click chemistry. In their best-known example, the (*) endo transition state is favored. They are notated by placing, in square brackets, the number of electrons contributed by each reactant, separated by plus signs. In the most famous reaction of this type, a diene and dienophile react together. For 10 points, the Diels-Alder reaction is a reaction of what type, in which the reactants join together to form a ring?": {
+    "guess": "Cycloaddition",
+    "confidence": [
+      [
+        "Cycl",
+        -0.0037624286
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        "addition",
+        -1.4855664e-05
+      ]
+    ]
+  },
+  "Reaction with tri-phenyl-phosphine and carbon tetrachloride converts these compounds into alkyl chlorides": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.00667002
+      ]
+    ]
+  },
+  "Reaction with tri-phenyl-phosphine and carbon tetrachloride converts these compounds into alkyl chlorides in the Appel reaction. Tetrabutyl ammonium fluoride can be used to remove silyl ether protecting": {
+    "guess": "Silyl ether",
+    "confidence": [
+      [
+        "S",
+        -0.42731744
+      ],
+      [
+        "ily",
+        -0.00015872349
+      ],
+      [
+        "l",
+        -1.9816675e-06
+      ],
+      [
+        " ether",
+        -0.18589734
+      ]
+    ]
+  },
+  "Reaction with tri-phenyl-phosphine and carbon tetrachloride converts these compounds into alkyl chlorides in the Appel reaction. Tetrabutyl ammonium fluoride can be used to remove silyl ether protecting groups of these compounds. They can be converted to a better leaving group through reaction with tosyl": {
+    "guess": "Alcohols",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.001409878
+      ],
+      [
+        "s",
+        -0.023302311
+      ]
+    ]
+  },
+  "Reaction with tri-phenyl-phosphine and carbon tetrachloride converts these compounds into alkyl chlorides in the Appel reaction. Tetrabutyl ammonium fluoride can be used to remove silyl ether protecting groups of these compounds. They can be converted to a better leaving group through reaction with tosyl chloride to form a tosylate. On an IR spectrum, this functional group displays a strong, broad": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.13011381
+      ]
+    ]
+  },
+  "Reaction with tri-phenyl-phosphine and carbon tetrachloride converts these compounds into alkyl chlorides in the Appel reaction. Tetrabutyl ammonium fluoride can be used to remove silyl ether protecting groups of these compounds. They can be converted to a better leaving group through reaction with tosyl chloride to form a tosylate. On an IR spectrum, this functional group displays a strong, broad peak at 3200 to 3500 inverse centimeters. A solution of zinc chloride and hydrochloric acid is used": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.005350686
+      ]
+    ]
+  },
+  "Reaction with tri-phenyl-phosphine and carbon tetrachloride converts these compounds into alkyl chlorides in the Appel reaction. Tetrabutyl ammonium fluoride can be used to remove silyl ether protecting groups of these compounds. They can be converted to a better leaving group through reaction with tosyl chloride to form a tosylate. On an IR spectrum, this functional group displays a strong, broad peak at 3200 to 3500 inverse centimeters. A solution of zinc chloride and hydrochloric acid is used to determine their presence in the (*) Lucas test. In an E1 mechanism, sulfuric acid dehydrates it to": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.0015614043
+      ]
+    ]
+  },
+  "Reaction with tri-phenyl-phosphine and carbon tetrachloride converts these compounds into alkyl chlorides in the Appel reaction. Tetrabutyl ammonium fluoride can be used to remove silyl ether protecting groups of these compounds. They can be converted to a better leaving group through reaction with tosyl chloride to form a tosylate. On an IR spectrum, this functional group displays a strong, broad peak at 3200 to 3500 inverse centimeters. A solution of zinc chloride and hydrochloric acid is used to determine their presence in the (*) Lucas test. In an E1 mechanism, sulfuric acid dehydrates it to form alkenes. Primary ones can be oxidized to carboxylic acids with Jones's reagent, and to aldehydes": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.00026431592
+      ]
+    ]
+  },
+  "Reaction with tri-phenyl-phosphine and carbon tetrachloride converts these compounds into alkyl chlorides in the Appel reaction. Tetrabutyl ammonium fluoride can be used to remove silyl ether protecting groups of these compounds. They can be converted to a better leaving group through reaction with tosyl chloride to form a tosylate. On an IR spectrum, this functional group displays a strong, broad peak at 3200 to 3500 inverse centimeters. A solution of zinc chloride and hydrochloric acid is used to determine their presence in the (*) Lucas test. In an E1 mechanism, sulfuric acid dehydrates it to form alkenes. Primary ones can be oxidized to carboxylic acids with Jones's reagent, and to aldehydes with PCC. For 10 points, name this functional group characterized by a hydroxyl at the end.": {
+    "guess": "Alcohol",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.000492149
+      ]
+    ]
+  },
+  "One of these reactions relies on the formation of a xanthate followed by a hydride transfer which yields": {
+    "guess": "Chugaev elimination",
+    "confidence": [
+      [
+        "Ch",
+        -0.38725773
+      ],
+      [
+        "uga",
+        -0.0012580878
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        " elimination",
+        -0.07447878
+      ]
+    ]
+  },
+  "One of these reactions relies on the formation of a xanthate followed by a hydride transfer which yields a carbonyl sulfide and methanethiol. A type of this reaction displays a large deuterium isotope": {
+    "guess": "Chugaev elimination",
+    "confidence": [
+      [
+        "Ch",
+        -0.031439435
+      ],
+      [
+        "uga",
+        -0.00025966697
+      ],
+      [
+        "ev",
+        -1.9361265e-07
+      ],
+      [
+        " elimination",
+        -0.10105405
+      ]
+    ]
+  },
+  "One of these reactions relies on the formation of a xanthate followed by a hydride transfer which yields a carbonyl sulfide and methanethiol. A type of this reaction displays a large deuterium isotope effect. The ratelimiting step of the aldol reaction is the (*) \"conjugate base\" form of one of these": {
+    "guess": "Chugaev elimination",
+    "confidence": [
+      [
+        "Ch",
+        -0.09310776
+      ],
+      [
+        "uga",
+        -0.002726656
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        " elimination",
+        -0.024075938
+      ]
+    ]
+  },
+  "One of these reactions relies on the formation of a xanthate followed by a hydride transfer which yields a carbonyl sulfide and methanethiol. A type of this reaction displays a large deuterium isotope effect. The ratelimiting step of the aldol reaction is the (*) \"conjugate base\" form of one of these reactions. A type of this reaction requires substituents with an antiperiplanar orientation. Alkenes": {
+    "guess": "Chugaev elimination",
+    "confidence": [
+      [
+        "Ch",
+        -0.6887989
+      ],
+      [
+        "uga",
+        -0.001351903
+      ],
+      [
+        "ev",
+        0.0
+      ],
+      [
+        " elimination",
+        -0.018782126
+      ]
+    ]
+  },
+  "One of these reactions relies on the formation of a xanthate followed by a hydride transfer which yields a carbonyl sulfide and methanethiol. A type of this reaction displays a large deuterium isotope effect. The ratelimiting step of the aldol reaction is the (*) \"conjugate base\" form of one of these reactions. A type of this reaction requires substituents with an antiperiplanar orientation. Alkenes can be generated from the addition of a strong base to an alkyl halide via one of these reactions.": {
+    "guess": "Elimination reaction",
+    "confidence": [
+      [
+        "El",
+        -0.08484353
+      ],
+      [
+        "imination",
+        -3.1281633e-07
+      ],
+      [
+        " reaction",
+        -3.357064e-05
+      ]
+    ]
+  },
+  "One of these reactions relies on the formation of a xanthate followed by a hydride transfer which yields a carbonyl sulfide and methanethiol. A type of this reaction displays a large deuterium isotope effect. The ratelimiting step of the aldol reaction is the (*) \"conjugate base\" form of one of these reactions. A type of this reaction requires substituents with an antiperiplanar orientation. Alkenes can be generated from the addition of a strong base to an alkyl halide via one of these reactions. For 10 points, name type of reaction where two substituents leave a molecule.": {
+    "guess": "Elimination reaction",
+    "confidence": [
+      [
+        "El",
+        -0.00060224184
+      ],
+      [
+        "imination",
+        -1.0280384e-06
+      ],
+      [
+        " reaction",
+        -3.7697225e-06
+      ]
+    ]
+  }
+}

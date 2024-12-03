@@ -1,0 +1,98 @@
+{
+  "JFK successfully caused a rescission of its 1962 unilateral price increase. A suit was lodged against": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5998506
+      ]
+    ]
+  },
+  "JFK successfully caused a rescission of its 1962 unilateral price increase. A suit was lodged against it in 1911 under the Sherman Anti-Trust Act, but a 1920 Supreme Court decision allowed it to maintain": {
+    "guess": "United States v. U.S. Steel Corp.",
+    "confidence": [
+      [
+        "United",
+        -0.73463416
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " v",
+        -0.12693693
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " U",
+        -0.63415605
+      ],
+      [
+        ".S",
+        -6.873572e-05
+      ],
+      [
+        ".",
+        -3.1281633e-07
+      ],
+      [
+        " Steel",
+        -1.9361265e-07
+      ],
+      [
+        " Corp",
+        -0.38890117
+      ],
+      [
+        ".",
+        -0.0001406082
+      ]
+    ]
+  },
+  "JFK successfully caused a rescission of its 1962 unilateral price increase. A suit was lodged against it in 1911 under the Sherman Anti-Trust Act, but a 1920 Supreme Court decision allowed it to maintain its monopolistic domination. _FOR 10 POINTS_\u2014name this company formed when Andrew Carnegie, John": {
+    "guess": "U.S. Steel",
+    "confidence": [
+      [
+        "U",
+        -0.16237
+      ],
+      [
+        ".S",
+        -2.4391957e-05
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Steel",
+        0.0
+      ]
+    ]
+  },
+  "JFK successfully caused a rescission of its 1962 unilateral price increase. A suit was lodged against it in 1911 under the Sherman Anti-Trust Act, but a 1920 Supreme Court decision allowed it to maintain its monopolistic domination. _FOR 10 POINTS_\u2014name this company formed when Andrew Carnegie, John D. Rockefeller, and others were bought out by J.P. Morgan to form the first billion dollar corporation.": {
+    "guess": "U.S. Steel",
+    "confidence": [
+      [
+        "U",
+        -0.002125161
+      ],
+      [
+        ".S",
+        -1.2664457e-06
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Steel",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "In MLS, the blue mascot for the San Jose Earthquakes went by this name. It is the last name of the singer": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.05750931
+      ]
+    ]
+  },
+  "In MLS, the blue mascot for the San Jose Earthquakes went by this name. It is the last name of the singer Stacey, a one-hit wonder known for the song \"Two of Hearts\". It is one of the names of a 1982 film": {
+    "guess": "Q",
+    "confidence": [
+      [
+        "Q",
+        -0.7378021
+      ]
+    ]
+  },
+  "In MLS, the blue mascot for the San Jose Earthquakes went by this name. It is the last name of the singer Stacey, a one-hit wonder known for the song \"Two of Hearts\". It is one of the names of a 1982 film starring Michael Moriarty and David Carradine about the resurrection of an Aztec god in the form": {
+    "guess": "Stacey Q",
+    "confidence": [
+      [
+        "St",
+        -0.8686209
+      ],
+      [
+        "acey",
+        -0.008219271
+      ],
+      [
+        " Q",
+        -0.0028515905
+      ]
+    ]
+  },
+  "In MLS, the blue mascot for the San Jose Earthquakes went by this name. It is the last name of the singer Stacey, a one-hit wonder known for the song \"Two of Hearts\". It is one of the names of a 1982 film starring Michael Moriarty and David Carradine about the resurrection of an Aztec god in the form of a dragon, also known as The Winged Serpent. It is also the names a masked character from Street": {
+    "guess": "Q",
+    "confidence": [
+      [
+        "Q",
+        -0.7701132
+      ]
+    ]
+  },
+  "In MLS, the blue mascot for the San Jose Earthquakes went by this name. It is the last name of the singer Stacey, a one-hit wonder known for the song \"Two of Hearts\". It is one of the names of a 1982 film starring Michael Moriarty and David Carradine about the resurrection of an Aztec god in the form of a dragon, also known as The Winged Serpent. It is also the names a masked character from Street Fighter III and completes the name of a musical set in Alphabet City and featuring songs like \"The Internet": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.505502
+      ]
+    ]
+  },
+  "In MLS, the blue mascot for the San Jose Earthquakes went by this name. It is the last name of the singer Stacey, a one-hit wonder known for the song \"Two of Hearts\". It is one of the names of a 1982 film starring Michael Moriarty and David Carradine about the resurrection of an Aztec god in the form of a dragon, also known as The Winged Serpent. It is also the names a masked character from Street Fighter III and completes the name of a musical set in Alphabet City and featuring songs like \"The Internet Is for Porn\". FTP, identify this letter, which represents both a character played by John De": {
+    "guess": "Q",
+    "confidence": [
+      [
+        "Q",
+        -0.03306783
+      ]
+    ]
+  },
+  "In MLS, the blue mascot for the San Jose Earthquakes went by this name. It is the last name of the singer Stacey, a one-hit wonder known for the song \"Two of Hearts\". It is one of the names of a 1982 film starring Michael Moriarty and David Carradine about the resurrection of an Aztec god in the form of a dragon, also known as The Winged Serpent. It is also the names a masked character from Street Fighter III and completes the name of a musical set in Alphabet City and featuring songs like \"The Internet Is for Porn\". FTP, identify this letter, which represents both a character played by John De Lancie on Star Trek and the character who provides all of James Bond's gadgets.": {
+    "guess": "Q",
+    "confidence": [
+      [
+        "Q",
+        -0.06243089
+      ]
+    ]
+  }
+}

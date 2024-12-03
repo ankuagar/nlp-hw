@@ -1,0 +1,120 @@
+{
+  "Ian Ritchie added three glass circulation towers to the outside of one of these buildings in Madrid and": {
+    "guess": "Reina Sof\u00eda Museum",
+    "confidence": [
+      [
+        "Re",
+        -0.029909926
+      ],
+      [
+        "ina",
+        -2.1008714e-06
+      ],
+      [
+        " Sof",
+        -0.38687858
+      ],
+      [
+        "\u00eda",
+        0.0
+      ],
+      [
+        " Museum",
+        -0.002646883
+      ]
+    ]
+  },
+  "Ian Ritchie added three glass circulation towers to the outside of one of these buildings in Madrid and Oscar Niemeyer designed a white-concrete one often described as a \"flying saucer\" at Niter\u00f3i. One": {
+    "guess": "Niter\u00f3i Contemporary Art Museum",
+    "confidence": [
+      [
+        "N",
+        -0.88549507
+      ],
+      [
+        "iter",
+        -2.577686e-06
+      ],
+      [
+        "\u00f3i",
+        -3.1424974e-05
+      ],
+      [
+        " Contemporary",
+        -9.0883464e-07
+      ],
+      [
+        " Art",
+        -4.3202e-07
+      ],
+      [
+        " Museum",
+        0.0
+      ]
+    ]
+  },
+  "Ian Ritchie added three glass circulation towers to the outside of one of these buildings in Madrid and Oscar Niemeyer designed a white-concrete one often described as a \"flying saucer\" at Niter\u00f3i. One of these buildings designed by Frank Gehry loosely resembles a ship and is clad in titanium and glass.": {
+    "guess": "Guggenheim Museum Bilbao",
+    "confidence": [
+      [
+        "G",
+        -0.2548653
+      ],
+      [
+        "ug",
+        -6.704273e-07
+      ],
+      [
+        "gen",
+        0.0
+      ],
+      [
+        "heim",
+        0.0
+      ],
+      [
+        " Museum",
+        -0.00030495704
+      ],
+      [
+        " Bilbao",
+        -0.0201813
+      ]
+    ]
+  },
+  "Ian Ritchie added three glass circulation towers to the outside of one of these buildings in Madrid and Oscar Niemeyer designed a white-concrete one often described as a \"flying saucer\" at Niter\u00f3i. One of these buildings designed by Frank Gehry loosely resembles a ship and is clad in titanium and glass. The east wing of one of these buildings is an angular trapezium and was designed by I. M. Pei, who": {
+    "guess": "Art museum",
+    "confidence": [
+      [
+        "Art",
+        -0.5287089
+      ],
+      [
+        " museum",
+        -0.0021435972
+      ]
+    ]
+  },
+  "Ian Ritchie added three glass circulation towers to the outside of one of these buildings in Madrid and Oscar Niemeyer designed a white-concrete one often described as a \"flying saucer\" at Niter\u00f3i. One of these buildings designed by Frank Gehry loosely resembles a ship and is clad in titanium and glass. The east wing of one of these buildings is an angular trapezium and was designed by I. M. Pei, who also added a glass pyramid to another of these buildings. For 10 points, what sort of building is": {
+    "guess": "Art museum",
+    "confidence": [
+      [
+        "Art",
+        -0.21531433
+      ],
+      [
+        " museum",
+        -0.0040870663
+      ]
+    ]
+  },
+  "Ian Ritchie added three glass circulation towers to the outside of one of these buildings in Madrid and Oscar Niemeyer designed a white-concrete one often described as a \"flying saucer\" at Niter\u00f3i. One of these buildings designed by Frank Gehry loosely resembles a ship and is clad in titanium and glass. The east wing of one of these buildings is an angular trapezium and was designed by I. M. Pei, who also added a glass pyramid to another of these buildings. For 10 points, what sort of building is the Louvre?": {
+    "guess": "Museum",
+    "confidence": [
+      [
+        "Museum",
+        -0.4805637
+      ]
+    ]
+  }
+}

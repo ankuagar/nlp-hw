@@ -1,0 +1,93 @@
+{
+  "DVD players use this type of material in their reader lasers. When two of these materials with different": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.016444756
+      ],
+      [
+        "iconductor",
+        -0.014163628
+      ]
+    ]
+  },
+  "DVD players use this type of material in their reader lasers. When two of these materials with different properties come together, a depletion region forms at their common boundary, and the resulting circuit": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.5979829
+      ],
+      [
+        "iconductor",
+        -0.00055327115
+      ]
+    ]
+  },
+  "DVD players use this type of material in their reader lasers. When two of these materials with different properties come together, a depletion region forms at their common boundary, and the resulting circuit element allows current to travel in only one direction. The defining feature of these materials": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.031466123
+      ],
+      [
+        "ode",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "DVD players use this type of material in their reader lasers. When two of these materials with different properties come together, a depletion region forms at their common boundary, and the resulting circuit element allows current to travel in only one direction. The defining feature of these materials is a band gap separating the valence and conduction bands. These materials can be n-doped or p-doped": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.32578823
+      ],
+      [
+        "ode",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "DVD players use this type of material in their reader lasers. When two of these materials with different properties come together, a depletion region forms at their common boundary, and the resulting circuit element allows current to travel in only one direction. The defining feature of these materials is a band gap separating the valence and conduction bands. These materials can be n-doped or p-doped depending on the sign of the dominant charge carrier, and common examples of these materials include": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.4452295
+      ],
+      [
+        "iconductor",
+        -0.00055350957
+      ]
+    ]
+  },
+  "DVD players use this type of material in their reader lasers. When two of these materials with different properties come together, a depletion region forms at their common boundary, and the resulting circuit element allows current to travel in only one direction. The defining feature of these materials is a band gap separating the valence and conduction bands. These materials can be n-doped or p-doped depending on the sign of the dominant charge carrier, and common examples of these materials include gallium arsenide and silicon. For 10 points, name these materials with properties between those": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.0008626267
+      ],
+      [
+        "iconductor",
+        -3.1424974e-05
+      ]
+    ]
+  },
+  "DVD players use this type of material in their reader lasers. When two of these materials with different properties come together, a depletion region forms at their common boundary, and the resulting circuit element allows current to travel in only one direction. The defining feature of these materials is a band gap separating the valence and conduction bands. These materials can be n-doped or p-doped depending on the sign of the dominant charge carrier, and common examples of these materials include gallium arsenide and silicon. For 10 points, name these materials with properties between those of insulators and conductors.": {
+    "guess": "Semiconductor",
+    "confidence": [
+      [
+        "Sem",
+        -0.008753312
+      ],
+      [
+        "iconductor",
+        -0.00043090762
+      ]
+    ]
+  }
+}

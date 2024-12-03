@@ -1,0 +1,47 @@
+{
+  "The Doberai Peninsula is in this nation's easternmost province, and the city of Pontianak in its province": {
+    "guess": "Indonesia",
+    "confidence": [
+      [
+        "Indonesia",
+        -0.00013965457
+      ]
+    ]
+  },
+  "The Doberai Peninsula is in this nation's easternmost province, and the city of Pontianak in its province of West Kalimantan lies on an island shared by two other countries. The Lombok and Sunda Straits": {
+    "guess": "Indonesia",
+    "confidence": [
+      [
+        "Indonesia",
+        -0.00036275614
+      ]
+    ]
+  },
+  "The Doberai Peninsula is in this nation's easternmost province, and the city of Pontianak in its province of West Kalimantan lies on an island shared by two other countries. The Lombok and Sunda Straits are major shipping lanes in the south of this country, and (*) Bali is a major resort island here.": {
+    "guess": "Indonesia",
+    "confidence": [
+      [
+        "Indonesia",
+        -0.0002663424
+      ]
+    ]
+  },
+  "The Doberai Peninsula is in this nation's easternmost province, and the city of Pontianak in its province of West Kalimantan lies on an island shared by two other countries. The Lombok and Sunda Straits are major shipping lanes in the south of this country, and (*) Bali is a major resort island here. Including the islands of Sumatra and Java, for 10 points, name this primarily Muslim archipelagic nation": {
+    "guess": "Indonesia",
+    "confidence": [
+      [
+        "Indonesia",
+        -0.0011878492
+      ]
+    ]
+  },
+  "The Doberai Peninsula is in this nation's easternmost province, and the city of Pontianak in its province of West Kalimantan lies on an island shared by two other countries. The Lombok and Sunda Straits are major shipping lanes in the south of this country, and (*) Bali is a major resort island here. Including the islands of Sumatra and Java, for 10 points, name this primarily Muslim archipelagic nation with capital Jakarta.": {
+    "guess": "Indonesia",
+    "confidence": [
+      [
+        "Indonesia",
+        -0.00033796547
+      ]
+    ]
+  }
+}

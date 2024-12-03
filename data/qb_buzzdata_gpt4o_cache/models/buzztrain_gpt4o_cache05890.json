@@ -1,0 +1,242 @@
+{
+  "The pigment cryptoxanthin is readily converted to this vitamin. A deficiency in this vitamin prevents": {
+    "guess": "Vitamin A",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.0069194958
+      ],
+      [
+        " A",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The pigment cryptoxanthin is readily converted to this vitamin. A deficiency in this vitamin prevents the reformation of rhodopsin. This vitamin binds to nuclear receptors to control gene transcription,": {
+    "guess": "Vitamin A",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.004078282
+      ],
+      [
+        " A",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The pigment cryptoxanthin is readily converted to this vitamin. A deficiency in this vitamin prevents the reformation of rhodopsin. This vitamin binds to nuclear receptors to control gene transcription, though it is better known for being needed for proper retina function. Liver and carrot are the best": {
+    "guess": "Vitamin A",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.0015172384
+      ],
+      [
+        " A",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The pigment cryptoxanthin is readily converted to this vitamin. A deficiency in this vitamin prevents the reformation of rhodopsin. This vitamin binds to nuclear receptors to control gene transcription, though it is better known for being needed for proper retina function. Liver and carrot are the best sources for this vitamin. For 10 points, identify this fat-soluble vitamin, a deficiency of which": {
+    "guess": "Vitamin A",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.0067101624
+      ],
+      [
+        " A",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The pigment cryptoxanthin is readily converted to this vitamin. A deficiency in this vitamin prevents the reformation of rhodopsin. This vitamin binds to nuclear receptors to control gene transcription, though it is better known for being needed for proper retina function. Liver and carrot are the best sources for this vitamin. For 10 points, identify this fat-soluble vitamin, a deficiency of which causes night blindness.": {
+    "guess": "Vitamin A",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.011210274
+      ],
+      [
+        " A",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In pigs, this peptide's eighth amino acid residue is usually a lysine, but in humans, that residue is": {
+    "guess": "Vasopressin",
+    "confidence": [
+      [
+        "V",
+        -0.73308676
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        "op",
+        -5.5122365e-07
+      ],
+      [
+        "ress",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "In pigs, this peptide's eighth amino acid residue is usually a lysine, but in humans, that residue is always arginine. Its receptors are blocked by tolvaptan, and it is sometimes inappropriately produced": {
+    "guess": "Vasopressin",
+    "confidence": [
+      [
+        "V",
+        -0.031277347
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "ress",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "In pigs, this peptide's eighth amino acid residue is usually a lysine, but in humans, that residue is always arginine. Its receptors are blocked by tolvaptan, and it is sometimes inappropriately produced by small cell lung carcinomas. It is synthesized in the magnocellular neurons of the hypothalamus,": {
+    "guess": "Vasopressin",
+    "confidence": [
+      [
+        "V",
+        -0.10865917
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "ress",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "In pigs, this peptide's eighth amino acid residue is usually a lysine, but in humans, that residue is always arginine. Its receptors are blocked by tolvaptan, and it is sometimes inappropriately produced by small cell lung carcinomas. It is synthesized in the magnocellular neurons of the hypothalamus, and underproduction of or insensitivity to this hormone leads to diabetes insipidus. Its most important": {
+    "guess": "Vasopressin",
+    "confidence": [
+      [
+        "V",
+        -0.19008578
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "ress",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "In pigs, this peptide's eighth amino acid residue is usually a lysine, but in humans, that residue is always arginine. Its receptors are blocked by tolvaptan, and it is sometimes inappropriately produced by small cell lung carcinomas. It is synthesized in the magnocellular neurons of the hypothalamus, and underproduction of or insensitivity to this hormone leads to diabetes insipidus. Its most important function sees it induce increased expression of aquaporin-2 in the collecting duct in the nephron,": {
+    "guess": "Vasopressin",
+    "confidence": [
+      [
+        "V",
+        -0.032737695
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "ress",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "In pigs, this peptide's eighth amino acid residue is usually a lysine, but in humans, that residue is always arginine. Its receptors are blocked by tolvaptan, and it is sometimes inappropriately produced by small cell lung carcinomas. It is synthesized in the magnocellular neurons of the hypothalamus, and underproduction of or insensitivity to this hormone leads to diabetes insipidus. Its most important function sees it induce increased expression of aquaporin-2 in the collecting duct in the nephron, thus increasing blood volume. FTP, name this hormone produced by the posterior pituitary gland": {
+    "guess": "Vasopressin",
+    "confidence": [
+      [
+        "V",
+        -0.041235786
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "ress",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "In pigs, this peptide's eighth amino acid residue is usually a lysine, but in humans, that residue is always arginine. Its receptors are blocked by tolvaptan, and it is sometimes inappropriately produced by small cell lung carcinomas. It is synthesized in the magnocellular neurons of the hypothalamus, and underproduction of or insensitivity to this hormone leads to diabetes insipidus. Its most important function sees it induce increased expression of aquaporin-2 in the collecting duct in the nephron, thus increasing blood volume. FTP, name this hormone produced by the posterior pituitary gland that causes water retention in the kidney and decreases the volume of the urine.": {
+    "guess": "Vasopressin",
+    "confidence": [
+      [
+        "V",
+        -0.001486416
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "ress",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  }
+}

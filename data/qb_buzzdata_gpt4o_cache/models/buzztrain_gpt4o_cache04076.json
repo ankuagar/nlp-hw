@@ -1,0 +1,67 @@
+{
+  "The K\u00f6ppen climate classification divides this type of climate into BWh and BWk, depending on the average": {
+    "guess": "Desert",
+    "confidence": [
+      [
+        "Des",
+        -4.2510914e-05
+      ],
+      [
+        "ert",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "The K\u00f6ppen climate classification divides this type of climate into BWh and BWk, depending on the average temperature of the coldest month, but they can also classified by their geographic location, such": {
+    "guess": "Desert",
+    "confidence": [
+      [
+        "Des",
+        -0.00017708084
+      ],
+      [
+        "ert",
+        -4.5491004e-05
+      ]
+    ]
+  },
+  "The K\u00f6ppen climate classification divides this type of climate into BWh and BWk, depending on the average temperature of the coldest month, but they can also classified by their geographic location, such as coastal or polar. The rocky areas in these regions are called hamada, while the regions of (*)": {
+    "guess": "Desert",
+    "confidence": [
+      [
+        "Des",
+        -0.00031055594
+      ],
+      [
+        "ert",
+        -0.0011702254
+      ]
+    ]
+  },
+  "The K\u00f6ppen climate classification divides this type of climate into BWh and BWk, depending on the average temperature of the coldest month, but they can also classified by their geographic location, such as coastal or polar. The rocky areas in these regions are called hamada, while the regions of (*) sand dunes are called ergs. Often formed within the rain shadow of a mountain range, name these dry": {
+    "guess": "Desert",
+    "confidence": [
+      [
+        "Des",
+        -0.00252025
+      ],
+      [
+        "ert",
+        -0.01251059
+      ]
+    ]
+  },
+  "The K\u00f6ppen climate classification divides this type of climate into BWh and BWk, depending on the average temperature of the coldest month, but they can also classified by their geographic location, such as coastal or polar. The rocky areas in these regions are called hamada, while the regions of (*) sand dunes are called ergs. Often formed within the rain shadow of a mountain range, name these dry regions, defined as receiving less than 250 millimeters of precipitation each year.": {
+    "guess": "Desert",
+    "confidence": [
+      [
+        "Des",
+        -0.0069909957
+      ],
+      [
+        "ert",
+        -0.008614808
+      ]
+    ]
+  }
+}

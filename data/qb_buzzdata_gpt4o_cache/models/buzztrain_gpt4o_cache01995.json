@@ -1,0 +1,140 @@
+{
+  "Feynman integrals can be rendered finite by introducing fictitious heavy particles in the regularization": {
+    "guess": "Pauli\u2013Villars regularization",
+    "confidence": [
+      [
+        "Pa",
+        -0.00028600733
+      ],
+      [
+        "uli",
+        -1.9361265e-07
+      ],
+      [
+        "\u2013",
+        -0.07890719
+      ],
+      [
+        "Vill",
+        -7.465036e-06
+      ],
+      [
+        "ars",
+        0.0
+      ],
+      [
+        " regular",
+        -0.00035298144
+      ],
+      [
+        "ization",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "Feynman integrals can be rendered finite by introducing fictitious heavy particles in the regularization named for Villars and this man.  His fundamental theorem guarantees the representation independence": {
+    "guess": "Wolfgang Pauli",
+    "confidence": [
+      [
+        "Wolf",
+        -0.24295355
+      ],
+      [
+        "gang",
+        -3.1281633e-07
+      ],
+      [
+        " Pa",
+        -1.6240566e-06
+      ],
+      [
+        "uli",
+        0.0
+      ]
+    ]
+  },
+  "Feynman integrals can be rendered finite by introducing fictitious heavy particles in the regularization named for Villars and this man.  His fundamental theorem guarantees the representation independence of the gamma matrices, and he lends his name to a set of three 2 by 2 sigma matrices for spin-1/2": {
+    "guess": "Wolfgang Pauli",
+    "confidence": [
+      [
+        "Wolf",
+        -0.53093034
+      ],
+      [
+        "gang",
+        -3.1281633e-07
+      ],
+      [
+        " Pa",
+        -5.5122365e-07
+      ],
+      [
+        "uli",
+        0.0
+      ]
+    ]
+  },
+  "Feynman integrals can be rendered finite by introducing fictitious heavy particles in the regularization named for Villars and this man.  His fundamental theorem guarantees the representation independence of the gamma matrices, and he lends his name to a set of three 2 by 2 sigma matrices for spin-1/2 particles. Another of his results is built into the Slater determinant for multi-electron systems,": {
+    "guess": "Wolfgang Pauli",
+    "confidence": [
+      [
+        "Wolf",
+        -0.18361343
+      ],
+      [
+        "gang",
+        -7.89631e-07
+      ],
+      [
+        " Pa",
+        -6.704273e-07
+      ],
+      [
+        "uli",
+        0.0
+      ]
+    ]
+  },
+  "Feynman integrals can be rendered finite by introducing fictitious heavy particles in the regularization named for Villars and this man.  His fundamental theorem guarantees the representation independence of the gamma matrices, and he lends his name to a set of three 2 by 2 sigma matrices for spin-1/2 particles. Another of his results is built into the Slater determinant for multi-electron systems, which vanishes if two columns are identical. FTP, name this man who stated that two identical fermions": {
+    "guess": "Wolfgang Pauli",
+    "confidence": [
+      [
+        "Wolf",
+        -0.06046552
+      ],
+      [
+        "gang",
+        -1.9361265e-07
+      ],
+      [
+        " Pa",
+        -4.3202e-07
+      ],
+      [
+        "uli",
+        0.0
+      ]
+    ]
+  },
+  "Feynman integrals can be rendered finite by introducing fictitious heavy particles in the regularization named for Villars and this man.  His fundamental theorem guarantees the representation independence of the gamma matrices, and he lends his name to a set of three 2 by 2 sigma matrices for spin-1/2 particles. Another of his results is built into the Slater determinant for multi-electron systems, which vanishes if two columns are identical. FTP, name this man who stated that two identical fermions cannot occupy the same quantum state in his exclusion principle.": {
+    "guess": "Wolfgang Pauli",
+    "confidence": [
+      [
+        "Wolf",
+        -0.41331652
+      ],
+      [
+        "gang",
+        -9.0883464e-07
+      ],
+      [
+        " Pa",
+        -5.5122365e-07
+      ],
+      [
+        "uli",
+        0.0
+      ]
+    ]
+  }
+}

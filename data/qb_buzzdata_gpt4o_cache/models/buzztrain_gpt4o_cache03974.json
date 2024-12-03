@@ -1,0 +1,239 @@
+{
+  "The kiss-and-run mechanism proposes a way that these structures are recycled. Sar1 drives the formation": {
+    "guess": "Vesicle",
+    "confidence": [
+      [
+        "V",
+        -0.3179453
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        "icle",
+        -0.0019292285
+      ]
+    ]
+  },
+  "The kiss-and-run mechanism proposes a way that these structures are recycled. Sar1 drives the formation of buds on these structures, and ADP ribosylation factor localizes to them in order to recruit coatomers.": {
+    "guess": "COPI-coated vesicles",
+    "confidence": [
+      [
+        "COP",
+        -0.1904206
+      ],
+      [
+        "I",
+        -0.31380886
+      ],
+      [
+        "-coated",
+        -0.41892865
+      ],
+      [
+        " ves",
+        -0.0011711754
+      ],
+      [
+        "icles",
+        -0.048588734
+      ]
+    ]
+  },
+  "The kiss-and-run mechanism proposes a way that these structures are recycled. Sar1 drives the formation of buds on these structures, and ADP ribosylation factor localizes to them in order to recruit coatomers. One class of these structures has a triskelion protein surrounding an AP complex. James Rothman": {
+    "guess": "Vesicle (biology)",
+    "confidence": [
+      [
+        "V",
+        -0.020735737
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        "icle",
+        -0.25192946
+      ],
+      [
+        " (",
+        -0.021188684
+      ],
+      [
+        "biology",
+        -0.004854092
+      ],
+      [
+        ")",
+        -6.511407e-06
+      ]
+    ]
+  },
+  "The kiss-and-run mechanism proposes a way that these structures are recycled. Sar1 drives the formation of buds on these structures, and ADP ribosylation factor localizes to them in order to recruit coatomers. One class of these structures has a triskelion protein surrounding an AP complex. James Rothman won the 2013 Nobel Prize in Physiology for his discovery of V-SNAREs and T-SNAREs in the (*) docking": {
+    "guess": "Vesicles",
+    "confidence": [
+      [
+        "V",
+        -0.038537707
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        "icles",
+        -0.4740771
+      ]
+    ]
+  },
+  "The kiss-and-run mechanism proposes a way that these structures are recycled. Sar1 drives the formation of buds on these structures, and ADP ribosylation factor localizes to them in order to recruit coatomers. One class of these structures has a triskelion protein surrounding an AP complex. James Rothman won the 2013 Nobel Prize in Physiology for his discovery of V-SNAREs and T-SNAREs in the (*) docking of these structures. They have a similar shape as liposomes, and are usually coated with COPI,": {
+    "guess": "Vesicles",
+    "confidence": [
+      [
+        "V",
+        -0.02342471
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        "icles",
+        -0.20141333
+      ]
+    ]
+  },
+  "The kiss-and-run mechanism proposes a way that these structures are recycled. Sar1 drives the formation of buds on these structures, and ADP ribosylation factor localizes to them in order to recruit coatomers. One class of these structures has a triskelion protein surrounding an AP complex. James Rothman won the 2013 Nobel Prize in Physiology for his discovery of V-SNAREs and T-SNAREs in the (*) docking of these structures. They have a similar shape as liposomes, and are usually coated with COPI, COPII, or clathrin. One model of the Golgi proposes that these structures move between each stack.": {
+    "guess": "Vesicles",
+    "confidence": [
+      [
+        "V",
+        -0.014248245
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        "icles",
+        -0.47407702
+      ]
+    ]
+  },
+  "The kiss-and-run mechanism proposes a way that these structures are recycled. Sar1 drives the formation of buds on these structures, and ADP ribosylation factor localizes to them in order to recruit coatomers. One class of these structures has a triskelion protein surrounding an AP complex. James Rothman won the 2013 Nobel Prize in Physiology for his discovery of V-SNAREs and T-SNAREs in the (*) docking of these structures. They have a similar shape as liposomes, and are usually coated with COPI, COPII, or clathrin. One model of the Golgi proposes that these structures move between each stack. These objects are formed in axons to release neurotransmitters into the synapse. For 10 points, name": {
+    "guess": "Vesicles",
+    "confidence": [
+      [
+        "V",
+        -0.0004766672
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        "icles",
+        -0.0788899
+      ]
+    ]
+  },
+  "The kiss-and-run mechanism proposes a way that these structures are recycled. Sar1 drives the formation of buds on these structures, and ADP ribosylation factor localizes to them in order to recruit coatomers. One class of these structures has a triskelion protein surrounding an AP complex. James Rothman won the 2013 Nobel Prize in Physiology for his discovery of V-SNAREs and T-SNAREs in the (*) docking of these structures. They have a similar shape as liposomes, and are usually coated with COPI, COPII, or clathrin. One model of the Golgi proposes that these structures move between each stack. These objects are formed in axons to release neurotransmitters into the synapse. For 10 points, name these small \"bubbles\" that transport molecules around cells.": {
+    "guess": "Vesicles",
+    "confidence": [
+      [
+        "V",
+        -0.00039528406
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        "icles",
+        -0.5759394
+      ]
+    ]
+  },
+  "The Kirkwood gaps are predictably empty sub-regions of this region of space, to which the Dawn spacecraft": {
+    "guess": "Asteroid belt",
+    "confidence": [
+      [
+        "Ast",
+        -0.0017309873
+      ],
+      [
+        "eroid",
+        -1.9361265e-07
+      ],
+      [
+        " belt",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Kirkwood gaps are predictably empty sub-regions of this region of space, to which the Dawn spacecraft traveled to study Vesta in 2011. The largest body in this area was classified as a dwarf planet": {
+    "guess": "Ceres",
+    "confidence": [
+      [
+        "C",
+        -0.038270187
+      ],
+      [
+        "eres",
+        0.0
+      ]
+    ]
+  },
+  "The Kirkwood gaps are predictably empty sub-regions of this region of space, to which the Dawn spacecraft traveled to study Vesta in 2011. The largest body in this area was classified as a dwarf planet in 2006; that body, (*) Ceres, is roughly 3 astronomical units from the Sun and is the nearest dwarf": {
+    "guess": "Asteroid belt",
+    "confidence": [
+      [
+        "Ast",
+        -0.014310882
+      ],
+      [
+        "eroid",
+        0.0
+      ],
+      [
+        " belt",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The Kirkwood gaps are predictably empty sub-regions of this region of space, to which the Dawn spacecraft traveled to study Vesta in 2011. The largest body in this area was classified as a dwarf planet in 2006; that body, (*) Ceres, is roughly 3 astronomical units from the Sun and is the nearest dwarf planet to Earth. The inner and outer solar systems are separated by, for 10 points, what region of": {
+    "guess": "Asteroid belt",
+    "confidence": [
+      [
+        "Ast",
+        -0.001334644
+      ],
+      [
+        "eroid",
+        0.0
+      ],
+      [
+        " belt",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The Kirkwood gaps are predictably empty sub-regions of this region of space, to which the Dawn spacecraft traveled to study Vesta in 2011. The largest body in this area was classified as a dwarf planet in 2006; that body, (*) Ceres, is roughly 3 astronomical units from the Sun and is the nearest dwarf planet to Earth. The inner and outer solar systems are separated by, for 10 points, what region of small rocky bodies found between Mars and Jupiter?": {
+    "guess": "Asteroid belt",
+    "confidence": [
+      [
+        "Ast",
+        -0.0011757015
+      ],
+      [
+        "eroid",
+        0.0
+      ],
+      [
+        " belt",
+        -5.5122365e-07
+      ]
+    ]
+  }
+}

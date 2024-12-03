@@ -1,0 +1,769 @@
+{
+  "Dicumarol, a coumarin derivative, inhibits this process by blocking the VKORC enzyme, thereby preventing": {
+    "guess": "Blood coagulation",
+    "confidence": [
+      [
+        "Blood",
+        -0.14616936
+      ],
+      [
+        " coag",
+        -0.018150644
+      ],
+      [
+        "ulation",
+        0.0
+      ]
+    ]
+  },
+  "Dicumarol, a coumarin derivative, inhibits this process by blocking the VKORC enzyme, thereby preventing proper carboxylation of proteins involved in it. Warfarins prevent this process in a similar feedback": {
+    "guess": "Coagulation",
+    "confidence": [
+      [
+        "Co",
+        -0.014730081
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "ulation",
+        0.0
+      ]
+    ]
+  },
+  "Dicumarol, a coumarin derivative, inhibits this process by blocking the VKORC enzyme, thereby preventing proper carboxylation of proteins involved in it. Warfarins prevent this process in a similar feedback system, and it involves a certain factor that binds to exposed collagen in endothelial cells.": {
+    "guess": "Coagulation",
+    "confidence": [
+      [
+        "Co",
+        -0.021668484
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "ulation",
+        0.0
+      ]
+    ]
+  },
+  "Dicumarol, a coumarin derivative, inhibits this process by blocking the VKORC enzyme, thereby preventing proper carboxylation of proteins involved in it. Warfarins prevent this process in a similar feedback system, and it involves a certain factor that binds to exposed collagen in endothelial cells. That von Willebrand factor is deficient in the same-named disease characterized by an abnormality in": {
+    "guess": "Coagulation",
+    "confidence": [
+      [
+        "Co",
+        -0.01043597
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "ulation",
+        0.0
+      ]
+    ]
+  },
+  "Dicumarol, a coumarin derivative, inhibits this process by blocking the VKORC enzyme, thereby preventing proper carboxylation of proteins involved in it. Warfarins prevent this process in a similar feedback system, and it involves a certain factor that binds to exposed collagen in endothelial cells. That von Willebrand factor is deficient in the same-named disease characterized by an abnormality in this process. One of its initiating factors is thrombin, which converts fibrinogen into fibrin to form": {
+    "guess": "Coagulation",
+    "confidence": [
+      [
+        "Co",
+        -0.0009987518
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "ulation",
+        0.0
+      ]
+    ]
+  },
+  "Dicumarol, a coumarin derivative, inhibits this process by blocking the VKORC enzyme, thereby preventing proper carboxylation of proteins involved in it. Warfarins prevent this process in a similar feedback system, and it involves a certain factor that binds to exposed collagen in endothelial cells. That von Willebrand factor is deficient in the same-named disease characterized by an abnormality in this process. One of its initiating factors is thrombin, which converts fibrinogen into fibrin to form a thrombus. This process is characterized by fibrin polymerization to form a mesh-like framework": {
+    "guess": "Coagulation",
+    "confidence": [
+      [
+        "Co",
+        -0.00088632625
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "ulation",
+        0.0
+      ]
+    ]
+  },
+  "Dicumarol, a coumarin derivative, inhibits this process by blocking the VKORC enzyme, thereby preventing proper carboxylation of proteins involved in it. Warfarins prevent this process in a similar feedback system, and it involves a certain factor that binds to exposed collagen in endothelial cells. That von Willebrand factor is deficient in the same-named disease characterized by an abnormality in this process. One of its initiating factors is thrombin, which converts fibrinogen into fibrin to form a thrombus. This process is characterized by fibrin polymerization to form a mesh-like framework together with platelets at the site of a wound. For 10 points, identify this deficiency of hemophiliacs,": {
+    "guess": "Coagulation",
+    "confidence": [
+      [
+        "Co",
+        -0.024440356
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "ulation",
+        0.0
+      ]
+    ]
+  },
+  "Dicumarol, a coumarin derivative, inhibits this process by blocking the VKORC enzyme, thereby preventing proper carboxylation of proteins involved in it. Warfarins prevent this process in a similar feedback system, and it involves a certain factor that binds to exposed collagen in endothelial cells. That von Willebrand factor is deficient in the same-named disease characterized by an abnormality in this process. One of its initiating factors is thrombin, which converts fibrinogen into fibrin to form a thrombus. This process is characterized by fibrin polymerization to form a mesh-like framework together with platelets at the site of a wound. For 10 points, identify this deficiency of hemophiliacs, the process by which blood clots.": {
+    "guess": "Coagulation",
+    "confidence": [
+      [
+        "Co",
+        -0.00047571355
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "ulation",
+        0.0
+      ]
+    ]
+  },
+  "This dictator came to power after the death of his predecessor, Gheorghe Gheorghiu-Dej (GAY-or-gay GAY-or-gay-OO-DAY).": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -0.14374433
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        -4.8425554e-06
+      ],
+      [
+        "au",
+        -1.9361265e-07
+      ],
+      [
+        "\u0219",
+        -2.6968896e-06
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "This dictator came to power after the death of his predecessor, Gheorghe Gheorghiu-Dej (GAY-or-gay GAY-or-gay-OO-DAY). In the 1970's, this dictator released his \"July Theses,\" a speech that started a miniature": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -0.022906723
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        -8.061054e-06
+      ],
+      [
+        "au",
+        -1.9361265e-07
+      ],
+      [
+        "\u0219",
+        -1.0206721e-05
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "This dictator came to power after the death of his predecessor, Gheorghe Gheorghiu-Dej (GAY-or-gay GAY-or-gay-OO-DAY). In the 1970's, this dictator released his \"July Theses,\" a speech that started a miniature version of the (+) Cultural Revolution in his country. In an attempt to create a race of super-children,": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -0.06181574
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        -6.392203e-06
+      ],
+      [
+        "au",
+        0.0
+      ],
+      [
+        "\u0219",
+        -2.6968896e-06
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "This dictator came to power after the death of his predecessor, Gheorghe Gheorghiu-Dej (GAY-or-gay GAY-or-gay-OO-DAY). In the 1970's, this dictator released his \"July Theses,\" a speech that started a miniature version of the (+) Cultural Revolution in his country. In an attempt to create a race of super-children, this ruler gave blood transfusions to infants in the 1980's, leading to a generation of": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -0.016389407
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        -1.0325924e-05
+      ],
+      [
+        "au",
+        0.0
+      ],
+      [
+        "\u0219",
+        -1.6240566e-06
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "This dictator came to power after the death of his predecessor, Gheorghe Gheorghiu-Dej (GAY-or-gay GAY-or-gay-OO-DAY). In the 1970's, this dictator released his \"July Theses,\" a speech that started a miniature version of the (+) Cultural Revolution in his country. In an attempt to create a race of super-children, this ruler gave blood transfusions to infants in the 1980's, leading to a generation of HIV-positive children. Over time, this man adopted a more nationalistic policy and distanced himself": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -0.049407244
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        -2.9352968e-06
+      ],
+      [
+        "au",
+        -1.9361265e-07
+      ],
+      [
+        "\u0219",
+        -1.0206721e-05
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "This dictator came to power after the death of his predecessor, Gheorghe Gheorghiu-Dej (GAY-or-gay GAY-or-gay-OO-DAY). In the 1970's, this dictator released his \"July Theses,\" a speech that started a miniature version of the (+) Cultural Revolution in his country. In an attempt to create a race of super-children, this ruler gave blood transfusions to infants in the 1980's, leading to a generation of HIV-positive children. Over time, this man adopted a more nationalistic policy and distanced himself from the Soviet Union, though he did not (*) break with it like Yugoslavia or get invaded like Hungary": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -0.001466177
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        -5.4385737e-06
+      ],
+      [
+        "au",
+        -1.9361265e-07
+      ],
+      [
+        "\u0219",
+        -7.9418505e-06
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "This dictator came to power after the death of his predecessor, Gheorghe Gheorghiu-Dej (GAY-or-gay GAY-or-gay-OO-DAY). In the 1970's, this dictator released his \"July Theses,\" a speech that started a miniature version of the (+) Cultural Revolution in his country. In an attempt to create a race of super-children, this ruler gave blood transfusions to infants in the 1980's, leading to a generation of HIV-positive children. Over time, this man adopted a more nationalistic policy and distanced himself from the Soviet Union, though he did not (*) break with it like Yugoslavia or get invaded like Hungary or Czechoslovakia. For 10 points, name this Communist dictator of Romania, executed along with": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -0.00039349604
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        0.0
+      ],
+      [
+        "au",
+        0.0
+      ],
+      [
+        "\u0219",
+        -4.3202e-07
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "This dictator came to power after the death of his predecessor, Gheorghe Gheorghiu-Dej (GAY-or-gay GAY-or-gay-OO-DAY). In the 1970's, this dictator released his \"July Theses,\" a speech that started a miniature version of the (+) Cultural Revolution in his country. In an attempt to create a race of super-children, this ruler gave blood transfusions to infants in the 1980's, leading to a generation of HIV-positive children. Over time, this man adopted a more nationalistic policy and distanced himself from the Soviet Union, though he did not (*) break with it like Yugoslavia or get invaded like Hungary or Czechoslovakia. For 10 points, name this Communist dictator of Romania, executed along with his wife Elena on national television in December 1989.": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -0.3877237
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        0.0
+      ],
+      [
+        "au",
+        0.0
+      ],
+      [
+        "\u0219",
+        -1.147242e-06
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "Under this dictator's rule, Lavrenti Beria (\"lahv-REN-tee BARE-ee-uh\") led the NKVD secret police during": {
+    "guess": "Joseph Stalin",
+    "confidence": [
+      [
+        "Joseph",
+        -0.0046848995
+      ],
+      [
+        " Stalin",
+        0.0
+      ]
+    ]
+  },
+  "Under this dictator's rule, Lavrenti Beria (\"lahv-REN-tee BARE-ee-uh\") led the NKVD secret police during the Great Purges. He ordered the creation of Five-Year Plans and the killing of his rival, Leon": {
+    "guess": "Joseph Stalin",
+    "confidence": [
+      [
+        "Joseph",
+        -0.01615707
+      ],
+      [
+        " Stalin",
+        0.0
+      ]
+    ]
+  },
+  "Under this dictator's rule, Lavrenti Beria (\"lahv-REN-tee BARE-ee-uh\") led the NKVD secret police during the Great Purges. He ordered the creation of Five-Year Plans and the killing of his rival, Leon Trotsky. For 10 points, control of the Soviet Union passed from Vladimir Lenin to what Georgian whose": {
+    "guess": "Joseph Stalin",
+    "confidence": [
+      [
+        "Joseph",
+        -0.0010261394
+      ],
+      [
+        " Stalin",
+        0.0
+      ]
+    ]
+  },
+  "Under this dictator's rule, Lavrenti Beria (\"lahv-REN-tee BARE-ee-uh\") led the NKVD secret police during the Great Purges. He ordered the creation of Five-Year Plans and the killing of his rival, Leon Trotsky. For 10 points, control of the Soviet Union passed from Vladimir Lenin to what Georgian whose name means \"man of steel\"?": {
+    "guess": "Joseph Stalin",
+    "confidence": [
+      [
+        "Joseph",
+        -0.0006034302
+      ],
+      [
+        " Stalin",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In Dictyostelium, RegA controls the concentration of this molecule, and oscillations in environmental": {
+    "guess": "cAMP",
+    "confidence": [
+      [
+        "c",
+        -0.00031615852
+      ],
+      [
+        "AMP",
+        -6.511407e-06
+      ]
+    ]
+  },
+  "In Dictyostelium, RegA controls the concentration of this molecule, and oscillations in environmental concentrations of this molecule direct Dictyostelium aggregation. Forskolin triggers increased concentrations": {
+    "guess": "cAMP",
+    "confidence": [
+      [
+        "c",
+        -0.0015333089
+      ],
+      [
+        "AMP",
+        -6.749814e-06
+      ]
+    ]
+  },
+  "In Dictyostelium, RegA controls the concentration of this molecule, and oscillations in environmental concentrations of this molecule direct Dictyostelium aggregation. Forskolin triggers increased concentrations of this molecule. This molecule directly activates proteins called EPACs, which are guanine": {
+    "guess": "cAMP",
+    "confidence": [
+      [
+        "c",
+        -0.07932166
+      ],
+      [
+        "AMP",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "In Dictyostelium, RegA controls the concentration of this molecule, and oscillations in environmental concentrations of this molecule direct Dictyostelium aggregation. Forskolin triggers increased concentrations of this molecule. This molecule directly activates proteins called EPACs, which are guanine nucleotide exchange factors. Bordetella pertussis interferes with the immune system by causing the": {
+    "guess": "cAMP",
+    "confidence": [
+      [
+        "c",
+        -0.16862239
+      ],
+      [
+        "AMP",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "In Dictyostelium, RegA controls the concentration of this molecule, and oscillations in environmental concentrations of this molecule direct Dictyostelium aggregation. Forskolin triggers increased concentrations of this molecule. This molecule directly activates proteins called EPACs, which are guanine nucleotide exchange factors. Bordetella pertussis interferes with the immune system by causing the immune cells to increase production of this molecule. When glucose levels are low, it binds to the": {
+    "guess": "cAMP",
+    "confidence": [
+      [
+        "c",
+        -0.0008600079
+      ],
+      [
+        "AMP",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "In Dictyostelium, RegA controls the concentration of this molecule, and oscillations in environmental concentrations of this molecule direct Dictyostelium aggregation. Forskolin triggers increased concentrations of this molecule. This molecule directly activates proteins called EPACs, which are guanine nucleotide exchange factors. Bordetella pertussis interferes with the immune system by causing the immune cells to increase production of this molecule. When glucose levels are low, it binds to the Catabolite Activator Protein in the lac operon, helping RNA polymerase bind to promoter sites during": {
+    "guess": "Cyclic adenosine monophosphate",
+    "confidence": [
+      [
+        "C",
+        -0.024676949
+      ],
+      [
+        "yclic",
+        -1.504853e-06
+      ],
+      [
+        " ad",
+        -0.00034416403
+      ],
+      [
+        "enos",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " mon",
+        0.0
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "osphate",
+        0.0
+      ]
+    ]
+  },
+  "In Dictyostelium, RegA controls the concentration of this molecule, and oscillations in environmental concentrations of this molecule direct Dictyostelium aggregation. Forskolin triggers increased concentrations of this molecule. This molecule directly activates proteins called EPACs, which are guanine nucleotide exchange factors. Bordetella pertussis interferes with the immune system by causing the immune cells to increase production of this molecule. When glucose levels are low, it binds to the Catabolite Activator Protein in the lac operon, helping RNA polymerase bind to promoter sites during lac operon transcription. This molecule binds to and activates Protein Kinase A. It is cleaved by": {
+    "guess": "Cyclic adenosine monophosphate",
+    "confidence": [
+      [
+        "C",
+        -0.010319171
+      ],
+      [
+        "yclic",
+        -6.704273e-07
+      ],
+      [
+        " ad",
+        -0.00010998019
+      ],
+      [
+        "enos",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " mon",
+        0.0
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "osphate",
+        0.0
+      ]
+    ]
+  },
+  "In Dictyostelium, RegA controls the concentration of this molecule, and oscillations in environmental concentrations of this molecule direct Dictyostelium aggregation. Forskolin triggers increased concentrations of this molecule. This molecule directly activates proteins called EPACs, which are guanine nucleotide exchange factors. Bordetella pertussis interferes with the immune system by causing the immune cells to increase production of this molecule. When glucose levels are low, it binds to the Catabolite Activator Protein in the lac operon, helping RNA polymerase bind to promoter sites during lac operon transcription. This molecule binds to and activates Protein Kinase A. It is cleaved by phosphodiesterase, and it is synthesized by adenylate cyclase. For 10 points, name this cyclic second": {
+    "guess": "Cyclic adenosine monophosphate",
+    "confidence": [
+      [
+        "C",
+        -0.003463106
+      ],
+      [
+        "yclic",
+        -2.1008714e-06
+      ],
+      [
+        " ad",
+        -0.0006593001
+      ],
+      [
+        "enos",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " mon",
+        0.0
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "osphate",
+        0.0
+      ]
+    ]
+  },
+  "In Dictyostelium, RegA controls the concentration of this molecule, and oscillations in environmental concentrations of this molecule direct Dictyostelium aggregation. Forskolin triggers increased concentrations of this molecule. This molecule directly activates proteins called EPACs, which are guanine nucleotide exchange factors. Bordetella pertussis interferes with the immune system by causing the immune cells to increase production of this molecule. When glucose levels are low, it binds to the Catabolite Activator Protein in the lac operon, helping RNA polymerase bind to promoter sites during lac operon transcription. This molecule binds to and activates Protein Kinase A. It is cleaved by phosphodiesterase, and it is synthesized by adenylate cyclase. For 10 points, name this cyclic second messenger that is derived from ATP.": {
+    "guess": "Cyclic adenosine monophosphate",
+    "confidence": [
+      [
+        "C",
+        -0.002044506
+      ],
+      [
+        "yclic",
+        -1.9361265e-07
+      ],
+      [
+        " ad",
+        -0.00012654216
+      ],
+      [
+        "enos",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " mon",
+        0.0
+      ],
+      [
+        "oph",
+        0.0
+      ],
+      [
+        "osphate",
+        0.0
+      ]
+    ]
+  },
+  "Dictys the fisherman once found this man and a relative washed ashore. This man's most famous action": {
+    "guess": "Perseus",
+    "confidence": [
+      [
+        "Per",
+        -0.08412126
+      ],
+      [
+        "se",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Dictys the fisherman once found this man and a relative washed ashore. This man's most famous action required a knapsack given by the Hesperides and resulted in the birth of Chrysaor. In another adventure,": {
+    "guess": "Perseus",
+    "confidence": [
+      [
+        "Per",
+        -0.028878205
+      ],
+      [
+        "se",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Dictys the fisherman once found this man and a relative washed ashore. This man's most famous action required a knapsack given by the Hesperides and resulted in the birth of Chrysaor. In another adventure, he would defeat the sea-monster Cetus to rescue the daughter of Cassiopeia, Andromeda. His grandfather": {
+    "guess": "Perseus",
+    "confidence": [
+      [
+        "Per",
+        -0.0013885662
+      ],
+      [
+        "se",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Dictys the fisherman once found this man and a relative washed ashore. This man's most famous action required a knapsack given by the Hesperides and resulted in the birth of Chrysaor. In another adventure, he would defeat the sea-monster Cetus to rescue the daughter of Cassiopeia, Andromeda. His grandfather had put his mother and him in a chest out of fear of a prophecy saying he would be killed by": {
+    "guess": "Perseus",
+    "confidence": [
+      [
+        "Per",
+        -0.002734263
+      ],
+      [
+        "se",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Dictys the fisherman once found this man and a relative washed ashore. This man's most famous action required a knapsack given by the Hesperides and resulted in the birth of Chrysaor. In another adventure, he would defeat the sea-monster Cetus to rescue the daughter of Cassiopeia, Andromeda. His grandfather had put his mother and him in a chest out of fear of a prophecy saying he would be killed by his daughter's son. Born when his mother Danae was seduced in the form of a shower of gold, for 10": {
+    "guess": "Perseus",
+    "confidence": [
+      [
+        "Per",
+        -0.00068109966
+      ],
+      [
+        "se",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Dictys the fisherman once found this man and a relative washed ashore. This man's most famous action required a knapsack given by the Hesperides and resulted in the birth of Chrysaor. In another adventure, he would defeat the sea-monster Cetus to rescue the daughter of Cassiopeia, Andromeda. His grandfather had put his mother and him in a chest out of fear of a prophecy saying he would be killed by his daughter's son. Born when his mother Danae was seduced in the form of a shower of gold, for 10 points, name this founder of Mycenae and killer of the Medusa.": {
+    "guess": "Perseus",
+    "confidence": [
+      [
+        "Per",
+        -0.0005020392
+      ],
+      [
+        "se",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  }
+}

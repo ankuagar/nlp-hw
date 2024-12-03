@@ -1,0 +1,169 @@
+{
+  "The Egyptian fertility goddess Heqmet is usually depicted as or with the head of this type of creature.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.21769561
+      ]
+    ]
+  },
+  "The Egyptian fertility goddess Heqmet is usually depicted as or with the head of this type of creature. In Greek myth, Leto, after birthing Artemis and Apollo, was forbidden to drink from a lake by some": {
+    "guess": "Frog",
+    "confidence": [
+      [
+        "F",
+        -0.17535977
+      ],
+      [
+        "rog",
+        -0.0007100478
+      ]
+    ]
+  },
+  "The Egyptian fertility goddess Heqmet is usually depicted as or with the head of this type of creature. In Greek myth, Leto, after birthing Artemis and Apollo, was forbidden to drink from a lake by some Lycian peasants, whom she turned into these creatures as punishment. In a tale sometimes attributed": {
+    "guess": "Frog",
+    "confidence": [
+      [
+        "F",
+        -0.016036833
+      ],
+      [
+        "rog",
+        -0.10020753
+      ]
+    ]
+  },
+  "The Egyptian fertility goddess Heqmet is usually depicted as or with the head of this type of creature. In Greek myth, Leto, after birthing Artemis and Apollo, was forbidden to drink from a lake by some Lycian peasants, whom she turned into these creatures as punishment. In a tale sometimes attributed to Homer, one of these creatures accidentally drowns a mouse it is carrying on its back, leading to": {
+    "guess": "Frog",
+    "confidence": [
+      [
+        "F",
+        -0.002698832
+      ],
+      [
+        "rog",
+        -0.005234002
+      ]
+    ]
+  },
+  "The Egyptian fertility goddess Heqmet is usually depicted as or with the head of this type of creature. In Greek myth, Leto, after birthing Artemis and Apollo, was forbidden to drink from a lake by some Lycian peasants, whom she turned into these creatures as punishment. In a tale sometimes attributed to Homer, one of these creatures accidentally drowns a mouse it is carrying on its back, leading to a war between the mice and these creatures. FTP what are these amphibians, one of which turns into": {
+    "guess": "FROG",
+    "confidence": [
+      [
+        "F",
+        -0.0040193954
+      ],
+      [
+        "RO",
+        -0.10024334
+      ],
+      [
+        "G",
+        -9.674858e-05
+      ]
+    ]
+  },
+  "The Egyptian fertility goddess Heqmet is usually depicted as or with the head of this type of creature. In Greek myth, Leto, after birthing Artemis and Apollo, was forbidden to drink from a lake by some Lycian peasants, whom she turned into these creatures as punishment. In a tale sometimes attributed to Homer, one of these creatures accidentally drowns a mouse it is carrying on its back, leading to a war between the mice and these creatures. FTP what are these amphibians, one of which turns into a handsome prince after being kissed by a princess in a common fairy tale?": {
+    "guess": "Frog",
+    "confidence": [
+      [
+        "F",
+        -0.00036667887
+      ],
+      [
+        "rog",
+        -0.31328472
+      ]
+    ]
+  },
+  "Egypt, Iraq, and Lebanon, after Israel invaded the Suez Canal. The Netherlands, Spain, and Switzerland,": {
+    "guess": "Suez Crisis",
+    "confidence": [
+      [
+        "S",
+        -0.48097512
+      ],
+      [
+        "uez",
+        -5.5122365e-07
+      ],
+      [
+        " Crisis",
+        -0.0009169359
+      ]
+    ]
+  },
+  "Egypt, Iraq, and Lebanon, after Israel invaded the Suez Canal. The Netherlands, Spain, and Switzerland, after the Soviet Union invaded Hungary. Some 22 African nations, after New Zealand competed in a": {
+    "guess": "1981 Rugby Tour of South Africa",
+    "confidence": [
+      [
+        "198",
+        -0.6788853
+      ],
+      [
+        "1",
+        -0.0005328983
+      ],
+      [
+        " Rugby",
+        -0.54007775
+      ],
+      [
+        " Tour",
+        -0.28435683
+      ],
+      [
+        " of",
+        -0.021887768
+      ],
+      [
+        " South",
+        -8.418666e-06
+      ],
+      [
+        " Africa",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Egypt, Iraq, and Lebanon, after Israel invaded the Suez Canal. The Netherlands, Spain, and Switzerland, after the Soviet Union invaded Hungary. Some 22 African nations, after New Zealand competed in a [*]  rugby tournament in South Africa. For 10 points\u2014all of these nations carried out what political": {
+    "guess": "Boycott",
+    "confidence": [
+      [
+        "Boy",
+        -0.050295606
+      ],
+      [
+        "cott",
+        -0.023247223
+      ]
+    ]
+  },
+  "Egypt, Iraq, and Lebanon, after Israel invaded the Suez Canal. The Netherlands, Spain, and Switzerland, after the Soviet Union invaded Hungary. Some 22 African nations, after New Zealand competed in a [*]  rugby tournament in South Africa. For 10 points\u2014all of these nations carried out what political tactic, which the United States and 64 other nations did in 1980 to protest the Soviet invasion of": {
+    "guess": "Boycott",
+    "confidence": [
+      [
+        "Boy",
+        -0.73406434
+      ],
+      [
+        "cott",
+        -0.011048054
+      ]
+    ]
+  },
+  "Egypt, Iraq, and Lebanon, after Israel invaded the Suez Canal. The Netherlands, Spain, and Switzerland, after the Soviet Union invaded Hungary. Some 22 African nations, after New Zealand competed in a [*]  rugby tournament in South Africa. For 10 points\u2014all of these nations carried out what political tactic, which the United States and 64 other nations did in 1980 to protest the Soviet invasion of Afghanistan?": {
+    "guess": "Boycott",
+    "confidence": [
+      [
+        "Boy",
+        -0.02876795
+      ],
+      [
+        "cott",
+        -0.018149942
+      ]
+    ]
+  }
+}

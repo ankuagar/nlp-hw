@@ -1,0 +1,70 @@
+{
+  "Dr. Maxwell Edison; Roger Cobb; Neal Page; Newton Davis; Charlie Duell; Dr. Frank Sangster; Peter Sanderson;": {
+    "guess": "Steve Martin filmography",
+    "confidence": [
+      [
+        "Steve",
+        -0.0042631268
+      ],
+      [
+        " Martin",
+        0.0
+      ],
+      [
+        " film",
+        -0.060658038
+      ],
+      [
+        "ography",
+        -8.418666e-06
+      ]
+    ]
+  },
+  "Dr. Maxwell Edison; Roger Cobb; Neal Page; Newton Davis; Charlie Duell; Dr. Frank Sangster; Peter Sanderson; Ray Porter; Jonas Nightingale; Harris Telemacher; Gil Buckman; Lucky Day; Rigby Reardon; Orrin": {
+    "guess": "Steve Martin filmography",
+    "confidence": [
+      [
+        "Steve",
+        -0.121141054
+      ],
+      [
+        " Martin",
+        0.0
+      ],
+      [
+        " film",
+        -0.040452335
+      ],
+      [
+        "ography",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Dr. Maxwell Edison; Roger Cobb; Neal Page; Newton Davis; Charlie Duell; Dr. Frank Sangster; Peter Sanderson; Ray Porter; Jonas Nightingale; Harris Telemacher; Gil Buckman; Lucky Day; Rigby Reardon; Orrin Scrivello, D.D.S.; Freddy Benson; Dr. Michael Hfuhruhrr; George Banks. FTP, these are all roles played": {
+    "guess": "Steve Martin",
+    "confidence": [
+      [
+        "Steve",
+        -0.011245521
+      ],
+      [
+        " Martin",
+        0.0
+      ]
+    ]
+  },
+  "Dr. Maxwell Edison; Roger Cobb; Neal Page; Newton Davis; Charlie Duell; Dr. Frank Sangster; Peter Sanderson; Ray Porter; Jonas Nightingale; Harris Telemacher; Gil Buckman; Lucky Day; Rigby Reardon; Orrin Scrivello, D.D.S.; Freddy Benson; Dr. Michael Hfuhruhrr; George Banks. FTP, these are all roles played by what comedian, best known for his \"Two Wild and Crazy Guys\" skit alongside Dan Aykroyd?": {
+    "guess": "Steve Martin",
+    "confidence": [
+      [
+        "Steve",
+        -9.698699e-05
+      ],
+      [
+        " Martin",
+        0.0
+      ]
+    ]
+  }
+}

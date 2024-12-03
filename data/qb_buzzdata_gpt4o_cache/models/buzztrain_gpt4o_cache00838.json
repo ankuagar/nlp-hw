@@ -1,0 +1,953 @@
+{
+  "Certain cells in the stomach are responsible for secreting neurotensin and this substance, and when it": {
+    "guess": "Gastrin",
+    "confidence": [
+      [
+        "G",
+        -0.25680783
+      ],
+      [
+        "astr",
+        -0.0067156097
+      ],
+      [
+        "in",
+        -0.00248315
+      ]
+    ]
+  },
+  "Certain cells in the stomach are responsible for secreting neurotensin and this substance, and when it is in the bloodstream, it is typically stored in platelets. Along with niacin and melatonin, tryptophan": {
+    "guess": "Serotonin",
+    "confidence": [
+      [
+        "Ser",
+        -0.62262857
+      ],
+      [
+        "oton",
+        -3.1281633e-07
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "Certain cells in the stomach are responsible for secreting neurotensin and this substance, and when it is in the bloodstream, it is typically stored in platelets. Along with niacin and melatonin, tryptophan synthesizes this substance, the presence of which notably contributes to feelings of contentment.": {
+    "guess": "Serotonin",
+    "confidence": [
+      [
+        "Ser",
+        -3.6669935e-05
+      ],
+      [
+        "oton",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "Certain cells in the stomach are responsible for secreting neurotensin and this substance, and when it is in the bloodstream, it is typically stored in platelets. Along with niacin and melatonin, tryptophan synthesizes this substance, the presence of which notably contributes to feelings of contentment. For ten points, name this neurotransmitter whose reuptake is commonly inhibited by antidepressants.": {
+    "guess": "Serotonin",
+    "confidence": [
+      [
+        "Ser",
+        -0.002620847
+      ],
+      [
+        "oton",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "A ceremony dedicated to this god involved striking a pig with a piece of flintstone taken from a temple": {
+    "guess": "Osiris",
+    "confidence": [
+      [
+        "Os",
+        -0.7374615
+      ],
+      [
+        "iris",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "A ceremony dedicated to this god involved striking a pig with a piece of flintstone taken from a temple dedicated to his Feretrius aspect, and was performed by a collegium of priests called the fetials.": {
+    "guess": "Jupiter Feretrius",
+    "confidence": [
+      [
+        "J",
+        -0.002284907
+      ],
+      [
+        "upiter",
+        -0.000115463554
+      ],
+      [
+        " Fer",
+        -0.31502727
+      ],
+      [
+        "etri",
+        -1.4021238e-05
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "A ceremony dedicated to this god involved striking a pig with a piece of flintstone taken from a temple dedicated to his Feretrius aspect, and was performed by a collegium of priests called the fetials. Feasts dedicated to this deity took place on the ides of September and November. Oaths were sworn": {
+    "guess": "Jupiter (mythology)",
+    "confidence": [
+      [
+        "J",
+        -0.0077794683
+      ],
+      [
+        "upiter",
+        -7.89631e-07
+      ],
+      [
+        " (",
+        -0.3519815
+      ],
+      [
+        "my",
+        -0.0010080388
+      ],
+      [
+        "th",
+        -3.1305768e-05
+      ],
+      [
+        "ology",
+        -1.9361265e-07
+      ],
+      [
+        ")",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "A ceremony dedicated to this god involved striking a pig with a piece of flintstone taken from a temple dedicated to his Feretrius aspect, and was performed by a collegium of priests called the fetials. Feasts dedicated to this deity took place on the ides of September and November. Oaths were sworn on a stone dedicated to this deity, his namesake \"lapis\", and his other epithets included Stator and": {
+    "guess": "Jupiter",
+    "confidence": [
+      [
+        "J",
+        -0.0042405664
+      ],
+      [
+        "upiter",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "A ceremony dedicated to this god involved striking a pig with a piece of flintstone taken from a temple dedicated to his Feretrius aspect, and was performed by a collegium of priests called the fetials. Feasts dedicated to this deity took place on the ides of September and November. Oaths were sworn on a stone dedicated to this deity, his namesake \"lapis\", and his other epithets included Stator and Tonans. The high priest of this deity was only allowed to undress indoors, was the only one allowed": {
+    "guess": "Jupiter",
+    "confidence": [
+      [
+        "J",
+        -0.0011479564
+      ],
+      [
+        "upiter",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "A ceremony dedicated to this god involved striking a pig with a piece of flintstone taken from a temple dedicated to his Feretrius aspect, and was performed by a collegium of priests called the fetials. Feasts dedicated to this deity took place on the ides of September and November. Oaths were sworn on a stone dedicated to this deity, his namesake \"lapis\", and his other epithets included Stator and Tonans. The high priest of this deity was only allowed to undress indoors, was the only one allowed to wear a conical white cap called the albogalerus, and was known as the (*) Flamen Dialis. He was": {
+    "guess": "Jupiter",
+    "confidence": [
+      [
+        "J",
+        -0.0023173688
+      ],
+      [
+        "upiter",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A ceremony dedicated to this god involved striking a pig with a piece of flintstone taken from a temple dedicated to his Feretrius aspect, and was performed by a collegium of priests called the fetials. Feasts dedicated to this deity took place on the ides of September and November. Oaths were sworn on a stone dedicated to this deity, his namesake \"lapis\", and his other epithets included Stator and Tonans. The high priest of this deity was only allowed to undress indoors, was the only one allowed to wear a conical white cap called the albogalerus, and was known as the (*) Flamen Dialis. He was a member of the Archaic Triad with Quirinus and Mars, and later made up the Capitoline Triad with Minerva": {
+    "guess": "Jupiter",
+    "confidence": [
+      [
+        "J",
+        -0.00045998234
+      ],
+      [
+        "upiter",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A ceremony dedicated to this god involved striking a pig with a piece of flintstone taken from a temple dedicated to his Feretrius aspect, and was performed by a collegium of priests called the fetials. Feasts dedicated to this deity took place on the ides of September and November. Oaths were sworn on a stone dedicated to this deity, his namesake \"lapis\", and his other epithets included Stator and Tonans. The high priest of this deity was only allowed to undress indoors, was the only one allowed to wear a conical white cap called the albogalerus, and was known as the (*) Flamen Dialis. He was a member of the Archaic Triad with Quirinus and Mars, and later made up the Capitoline Triad with Minerva and his wife Juno. For 10 points, name this thunderbolt-slinging chief Roman deity.": {
+    "guess": "Jupiter",
+    "confidence": [
+      [
+        "J",
+        -8.947716e-05
+      ],
+      [
+        "upiter",
+        0.0
+      ]
+    ]
+  },
+  "For certain special cases, this quantity is proportional to the cross product of a particles position": {
+    "guess": "Magnetic moment",
+    "confidence": [
+      [
+        "Mag",
+        -0.53229845
+      ],
+      [
+        "netic",
+        -9.615256e-05
+      ],
+      [
+        " moment",
+        -0.07030796
+      ]
+    ]
+  },
+  "For certain special cases, this quantity is proportional to the cross product of a particles position r with the gradient operator. For an electron, this quantity is determined by its azimuthal quantum": {
+    "guess": "Magnetic Quantum Number",
+    "confidence": [
+      [
+        "Mag",
+        -1.0859745
+      ],
+      [
+        "netic",
+        -7.9418505e-06
+      ],
+      [
+        " Quantum",
+        -0.03357366
+      ],
+      [
+        " Number",
+        -2.0815847e-05
+      ]
+    ]
+  },
+  "For certain special cases, this quantity is proportional to the cross product of a particles position r with the gradient operator. For an electron, this quantity is determined by its azimuthal quantum number. In quantum mechanics, values of this quantity are equal to whole number multiples of the reduced": {
+    "guess": "Magnetic quantum number",
+    "confidence": [
+      [
+        "Mag",
+        -0.52588654
+      ],
+      [
+        "netic",
+        -6.2729996e-06
+      ],
+      [
+        " quantum",
+        -0.6569804
+      ],
+      [
+        " number",
+        -2.2723105e-05
+      ]
+    ]
+  },
+  "For certain special cases, this quantity is proportional to the cross product of a particles position r with the gradient operator. For an electron, this quantity is determined by its azimuthal quantum number. In quantum mechanics, values of this quantity are equal to whole number multiples of the reduced Planck's constant. The time derivative of this quantity is torque, and this quantity can be defined": {
+    "guess": "Angular momentum",
+    "confidence": [
+      [
+        "Angular",
+        -0.016101237
+      ],
+      [
+        " momentum",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "For certain special cases, this quantity is proportional to the cross product of a particles position r with the gradient operator. For an electron, this quantity is determined by its azimuthal quantum number. In quantum mechanics, values of this quantity are equal to whole number multiples of the reduced Planck's constant. The time derivative of this quantity is torque, and this quantity can be defined as the product of the moment of inertia with angular velocity or the cross product of position": {
+    "guess": "Angular momentum",
+    "confidence": [
+      [
+        "Angular",
+        -0.06611923
+      ],
+      [
+        " momentum",
+        -8.876193e-05
+      ]
+    ]
+  },
+  "For certain special cases, this quantity is proportional to the cross product of a particles position r with the gradient operator. For an electron, this quantity is determined by its azimuthal quantum number. In quantum mechanics, values of this quantity are equal to whole number multiples of the reduced Planck's constant. The time derivative of this quantity is torque, and this quantity can be defined as the product of the moment of inertia with angular velocity or the cross product of position with mass times velocity. For 10 points, name this quantity associated with rotational motion whose": {
+    "guess": "Angular momentum",
+    "confidence": [
+      [
+        "Angular",
+        -0.02225847
+      ],
+      [
+        " momentum",
+        -4.5848617e-05
+      ]
+    ]
+  },
+  "For certain special cases, this quantity is proportional to the cross product of a particles position r with the gradient operator. For an electron, this quantity is determined by its azimuthal quantum number. In quantum mechanics, values of this quantity are equal to whole number multiples of the reduced Planck's constant. The time derivative of this quantity is torque, and this quantity can be defined as the product of the moment of inertia with angular velocity or the cross product of position with mass times velocity. For 10 points, name this quantity associated with rotational motion whose conservation forms the basis of Kepler's second law.": {
+    "guess": "Angular momentum",
+    "confidence": [
+      [
+        "Angular",
+        -0.006474372
+      ],
+      [
+        " momentum",
+        -1.5332478e-05
+      ]
+    ]
+  },
+  "In a ceremony dedicated to this deity, a handsome war prisoner was chosen to live in luxury with four": {
+    "guess": "Tezcatlipoca",
+    "confidence": [
+      [
+        "Te",
+        -0.20154315
+      ],
+      [
+        "z",
+        -7.89631e-07
+      ],
+      [
+        "cat",
+        -1.9027791e-05
+      ],
+      [
+        "lip",
+        -3.1281633e-07
+      ],
+      [
+        "oca",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "In a ceremony dedicated to this deity, a handsome war prisoner was chosen to live in luxury with four women for a year, after which he was sacrificed to this deity. The Great Bear constellation is said": {
+    "guess": "Tezcatlipoca",
+    "confidence": [
+      [
+        "Te",
+        -0.00018494461
+      ],
+      [
+        "z",
+        -1.9361265e-07
+      ],
+      [
+        "cat",
+        -1.6882126e-05
+      ],
+      [
+        "lip",
+        -4.3202e-07
+      ],
+      [
+        "oca",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In a ceremony dedicated to this deity, a handsome war prisoner was chosen to live in luxury with four women for a year, after which he was sacrificed to this deity. The Great Bear constellation is said to be the footprints of this god, who presided over district schools known as the telpochcalli. The": {
+    "guess": "Tezcatlipoca",
+    "confidence": [
+      [
+        "Te",
+        -0.0072024087
+      ],
+      [
+        "z",
+        0.0
+      ],
+      [
+        "cat",
+        0.0
+      ],
+      [
+        "lip",
+        0.0
+      ],
+      [
+        "oca",
+        0.0
+      ]
+    ]
+  },
+  "In a ceremony dedicated to this deity, a handsome war prisoner was chosen to live in luxury with four women for a year, after which he was sacrificed to this deity. The Great Bear constellation is said to be the footprints of this god, who presided over district schools known as the telpochcalli. The earth was created after this god successfully lured out a primordial monster that was part fish, part": {
+    "guess": "Tezcatlipoca",
+    "confidence": [
+      [
+        "Te",
+        -0.292961
+      ],
+      [
+        "z",
+        0.0
+      ],
+      [
+        "cat",
+        0.0
+      ],
+      [
+        "lip",
+        0.0
+      ],
+      [
+        "oca",
+        0.0
+      ]
+    ]
+  },
+  "In a ceremony dedicated to this deity, a handsome war prisoner was chosen to live in luxury with four women for a year, after which he was sacrificed to this deity. The Great Bear constellation is said to be the footprints of this god, who presided over district schools known as the telpochcalli. The earth was created after this god successfully lured out a primordial monster that was part fish, part crocodile, and perpetually hungry; that monster was known as Cipactli, and the lure used by this": {
+    "guess": "Tezcatlipoca",
+    "confidence": [
+      [
+        "Te",
+        -0.0001273766
+      ],
+      [
+        "z",
+        0.0
+      ],
+      [
+        "cat",
+        0.0
+      ],
+      [
+        "lip",
+        0.0
+      ],
+      [
+        "oca",
+        0.0
+      ]
+    ]
+  },
+  "In a ceremony dedicated to this deity, a handsome war prisoner was chosen to live in luxury with four women for a year, after which he was sacrificed to this deity. The Great Bear constellation is said to be the footprints of this god, who presided over district schools known as the telpochcalli. The earth was created after this god successfully lured out a primordial monster that was part fish, part crocodile, and perpetually hungry; that monster was known as Cipactli, and the lure used by this god was his own foot, which he replaced with a piece of obsidian. For 10 points, name this Aztec god": {
+    "guess": "Tezcatlipoca",
+    "confidence": [
+      [
+        "Te",
+        -0.00023357604
+      ],
+      [
+        "z",
+        0.0
+      ],
+      [
+        "cat",
+        0.0
+      ],
+      [
+        "lip",
+        0.0
+      ],
+      [
+        "oca",
+        0.0
+      ]
+    ]
+  },
+  "In a ceremony dedicated to this deity, a handsome war prisoner was chosen to live in luxury with four women for a year, after which he was sacrificed to this deity. The Great Bear constellation is said to be the footprints of this god, who presided over district schools known as the telpochcalli. The earth was created after this god successfully lured out a primordial monster that was part fish, part crocodile, and perpetually hungry; that monster was known as Cipactli, and the lure used by this god was his own foot, which he replaced with a piece of obsidian. For 10 points, name this Aztec god known as the Lord of the Smoking Mirror, who drove away his rival Quetzalcoatl.": {
+    "guess": "Tezcatlipoca",
+    "confidence": [
+      [
+        "Te",
+        -0.0009983942
+      ],
+      [
+        "z",
+        0.0
+      ],
+      [
+        "cat",
+        0.0
+      ],
+      [
+        "lip",
+        0.0
+      ],
+      [
+        "oca",
+        0.0
+      ]
+    ]
+  },
+  "A certain quantity for spherical objects of this type is inversely proportional to the difference in": {
+    "guess": "Lens (optics)",
+    "confidence": [
+      [
+        "Lens",
+        -0.07159961
+      ],
+      [
+        " (",
+        -0.59831
+      ],
+      [
+        "opt",
+        -0.06713467
+      ],
+      [
+        "ics",
+        -0.000386463
+      ],
+      [
+        ")",
+        -0.00019173922
+      ]
+    ]
+  },
+  "A certain quantity for spherical objects of this type is inversely proportional to the difference in reciprocals of the radii. These objects stop working when the breakdown voltage is reached. The time": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.16355482
+      ]
+    ]
+  },
+  "A certain quantity for spherical objects of this type is inversely proportional to the difference in reciprocals of the radii. These objects stop working when the breakdown voltage is reached. The time constant in systems with one of these objects and a resistor is equal to the resistance times a namesake": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.020389708
+      ],
+      [
+        "ac",
+        -5.8365e-05
+      ],
+      [
+        "itor",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "A certain quantity for spherical objects of this type is inversely proportional to the difference in reciprocals of the radii. These objects stop working when the breakdown voltage is reached. The time constant in systems with one of these objects and a resistor is equal to the resistance times a namesake quantity. That quantity is equal to permittivity times area divided by distance for a (*) parallel-plate": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.002214608
+      ],
+      [
+        "ac",
+        -0.00055303273
+      ],
+      [
+        "itor",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "A certain quantity for spherical objects of this type is inversely proportional to the difference in reciprocals of the radii. These objects stop working when the breakdown voltage is reached. The time constant in systems with one of these objects and a resistor is equal to the resistance times a namesake quantity. That quantity is equal to permittivity times area divided by distance for a (*) parallel-plate one, is measured in farads, and can be increased by inserting a dielectric. For ten points,": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.0043788557
+      ],
+      [
+        "ac",
+        -0.00026133584
+      ],
+      [
+        "itor",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "A certain quantity for spherical objects of this type is inversely proportional to the difference in reciprocals of the radii. These objects stop working when the breakdown voltage is reached. The time constant in systems with one of these objects and a resistor is equal to the resistance times a namesake quantity. That quantity is equal to permittivity times area divided by distance for a (*) parallel-plate one, is measured in farads, and can be increased by inserting a dielectric. For ten points, identify these circuit elements whose namesake unit equals charge over voltage, which store energy": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.00020175234
+      ],
+      [
+        "ac",
+        -2.7610455e-05
+      ],
+      [
+        "itor",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "A certain quantity for spherical objects of this type is inversely proportional to the difference in reciprocals of the radii. These objects stop working when the breakdown voltage is reached. The time constant in systems with one of these objects and a resistor is equal to the resistance times a namesake quantity. That quantity is equal to permittivity times area divided by distance for a (*) parallel-plate one, is measured in farads, and can be increased by inserting a dielectric. For ten points, identify these circuit elements whose namesake unit equals charge over voltage, which store energy in an electric field.": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.00029768562
+      ],
+      [
+        "ac",
+        -1.4855664e-05
+      ],
+      [
+        "itor",
+        -5.4385737e-06
+      ]
+    ]
+  },
+  "The Cerro Mac\u00e1 stratovolcano can be found north of the Ays\u00e9n Fjord in this country, and the Chonos Archipelago": {
+    "guess": "Chile",
+    "confidence": [
+      [
+        "Chile",
+        -0.0024890956
+      ]
+    ]
+  },
+  "The Cerro Mac\u00e1 stratovolcano can be found north of the Ays\u00e9n Fjord in this country, and the Chonos Archipelago is separated from the mainland of this country by the Moraleda Channel. Rivers in this country": {
+    "guess": "Chile",
+    "confidence": [
+      [
+        "Chile",
+        -0.0011774895
+      ]
+    ]
+  },
+  "The Cerro Mac\u00e1 stratovolcano can be found north of the Ays\u00e9n Fjord in this country, and the Chonos Archipelago is separated from the mainland of this country by the Moraleda Channel. Rivers in this country include the Biob\u00edo and the Petrohu\u00e9 rivers, the latter of which drains into Todos los Santos Lake.": {
+    "guess": "Chile",
+    "confidence": [
+      [
+        "Chile",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "The Cerro Mac\u00e1 stratovolcano can be found north of the Ays\u00e9n Fjord in this country, and the Chonos Archipelago is separated from the mainland of this country by the Moraleda Channel. Rivers in this country include the Biob\u00edo and the Petrohu\u00e9 rivers, the latter of which drains into Todos los Santos Lake. Lying atop the Nazca Plate and containing the port city of Antofagasta, it has sovereignty over": {
+    "guess": "Chile",
+    "confidence": [
+      [
+        "Chile",
+        -5.669615e-05
+      ]
+    ]
+  },
+  "The Cerro Mac\u00e1 stratovolcano can be found north of the Ays\u00e9n Fjord in this country, and the Chonos Archipelago is separated from the mainland of this country by the Moraleda Channel. Rivers in this country include the Biob\u00edo and the Petrohu\u00e9 rivers, the latter of which drains into Todos los Santos Lake. Lying atop the Nazca Plate and containing the port city of Antofagasta, it has sovereignty over both Easter Island and the Wollaston group, one island of which contains Cape Horn, and this country": {
+    "guess": "Chile",
+    "confidence": [
+      [
+        "Chile",
+        -0.00013381359
+      ]
+    ]
+  },
+  "The Cerro Mac\u00e1 stratovolcano can be found north of the Ays\u00e9n Fjord in this country, and the Chonos Archipelago is separated from the mainland of this country by the Moraleda Channel. Rivers in this country include the Biob\u00edo and the Petrohu\u00e9 rivers, the latter of which drains into Todos los Santos Lake. Lying atop the Nazca Plate and containing the port city of Antofagasta, it has sovereignty over both Easter Island and the Wollaston group, one island of which contains Cape Horn, and this country is also home to Punta Arenas, the world's southernmost city. The Andes covers a third of, FTP, which": {
+    "guess": "Chile",
+    "confidence": [
+      [
+        "Chile",
+        -0.00872259
+      ]
+    ]
+  },
+  "The Cerro Mac\u00e1 stratovolcano can be found north of the Ays\u00e9n Fjord in this country, and the Chonos Archipelago is separated from the mainland of this country by the Moraleda Channel. Rivers in this country include the Biob\u00edo and the Petrohu\u00e9 rivers, the latter of which drains into Todos los Santos Lake. Lying atop the Nazca Plate and containing the port city of Antofagasta, it has sovereignty over both Easter Island and the Wollaston group, one island of which contains Cape Horn, and this country is also home to Punta Arenas, the world's southernmost city. The Andes covers a third of, FTP, which country, bordered by Bolivia and Argentina to the west, that is home to most of the Atacama Desert": {
+    "guess": "Chile",
+    "confidence": [
+      [
+        "Chile",
+        -0.023725579
+      ]
+    ]
+  },
+  "The Cerro Mac\u00e1 stratovolcano can be found north of the Ays\u00e9n Fjord in this country, and the Chonos Archipelago is separated from the mainland of this country by the Moraleda Channel. Rivers in this country include the Biob\u00edo and the Petrohu\u00e9 rivers, the latter of which drains into Todos los Santos Lake. Lying atop the Nazca Plate and containing the port city of Antofagasta, it has sovereignty over both Easter Island and the Wollaston group, one island of which contains Cape Horn, and this country is also home to Punta Arenas, the world's southernmost city. The Andes covers a third of, FTP, which country, bordered by Bolivia and Argentina to the west, that is home to most of the Atacama Desert and has its capital at Quito? (move Antofagasta to later)": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.064483866
+      ]
+    ]
+  },
+  "A certain Aristotles takes the place of one main character for the second part of this work, which contains": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5771732
+      ]
+    ]
+  },
+  "A certain Aristotles takes the place of one main character for the second part of this work, which contains the earliest instance of the third man argument, that of infinite sequences of telescoping Forms,": {
+    "guess": "Parmenides",
+    "confidence": [
+      [
+        "Par",
+        -0.001866168
+      ],
+      [
+        "men",
+        -1.9816675e-06
+      ],
+      [
+        "ides",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A certain Aristotles takes the place of one main character for the second part of this work, which contains the earliest instance of the third man argument, that of infinite sequences of telescoping Forms, which can seemingly be resolved by the understanding that forms do not participate in themselves": {
+    "guess": "Parmenides (dialogue)",
+    "confidence": [
+      [
+        "Par",
+        -0.007215184
+      ],
+      [
+        "men",
+        -5.5577775e-06
+      ],
+      [
+        "ides",
+        0.0
+      ],
+      [
+        " (",
+        -0.47435796
+      ],
+      [
+        "dialog",
+        -0.00015622021
+      ],
+      [
+        "ue",
+        -5.5122365e-07
+      ],
+      [
+        ")",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "A certain Aristotles takes the place of one main character for the second part of this work, which contains the earliest instance of the third man argument, that of infinite sequences of telescoping Forms, which can seemingly be resolved by the understanding that forms do not participate in themselves present in a later work. One side seeks to resolve an apparent paradox by positing that objects may": {
+    "guess": "Parmenides",
+    "confidence": [
+      [
+        "Par",
+        -0.009131987
+      ],
+      [
+        "men",
+        -2.6299214e-05
+      ],
+      [
+        "ides",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "A certain Aristotles takes the place of one main character for the second part of this work, which contains the earliest instance of the third man argument, that of infinite sequences of telescoping Forms, which can seemingly be resolved by the understanding that forms do not participate in themselves present in a later work. One side seeks to resolve an apparent paradox by positing that objects may participate in both the forms of Unity and Plurality, the latter of which was claimed not to exist": {
+    "guess": "Parmenides (dialogue)",
+    "confidence": [
+      [
+        "Par",
+        -0.006126799
+      ],
+      [
+        "men",
+        -1.9361265e-07
+      ],
+      [
+        "ides",
+        0.0
+      ],
+      [
+        " (",
+        -0.69332296
+      ],
+      [
+        "dialog",
+        -0.00024894232
+      ],
+      [
+        "ue",
+        -4.3202e-07
+      ],
+      [
+        ")",
+        -5.7961847e-06
+      ]
+    ]
+  },
+  "A certain Aristotles takes the place of one main character for the second part of this work, which contains the earliest instance of the third man argument, that of infinite sequences of telescoping Forms, which can seemingly be resolved by the understanding that forms do not participate in themselves present in a later work. One side seeks to resolve an apparent paradox by positing that objects may participate in both the forms of Unity and Plurality, the latter of which was claimed not to exist by the other side in the beginning. For 10 points, name this Platonic dialogue in which Socrates debates": {
+    "guess": "Parmenides",
+    "confidence": [
+      [
+        "Par",
+        -0.0008612
+      ],
+      [
+        "men",
+        -1.9361265e-07
+      ],
+      [
+        "ides",
+        0.0
+      ]
+    ]
+  },
+  "A certain Aristotles takes the place of one main character for the second part of this work, which contains the earliest instance of the third man argument, that of infinite sequences of telescoping Forms, which can seemingly be resolved by the understanding that forms do not participate in themselves present in a later work. One side seeks to resolve an apparent paradox by positing that objects may participate in both the forms of Unity and Plurality, the latter of which was claimed not to exist by the other side in the beginning. For 10 points, name this Platonic dialogue in which Socrates debates Zeno and his master, the titular Eleatic philosopher.": {
+    "guess": "Parmenides",
+    "confidence": [
+      [
+        "Par",
+        -0.0031526461
+      ],
+      [
+        "men",
+        0.0
+      ],
+      [
+        "ides",
+        0.0
+      ]
+    ]
+  },
+  "A certain pair of coupled differential equations relates the time derivative of this quantity to a competition": {
+    "guess": "Lotka-Volterra equations",
+    "confidence": [
+      [
+        "Lot",
+        -0.7112813
+      ],
+      [
+        "ka",
+        -6.704273e-07
+      ],
+      [
+        "-",
+        -0.25193316
+      ],
+      [
+        "Vol",
+        0.0
+      ],
+      [
+        "terra",
+        -1.9361265e-07
+      ],
+      [
+        " equations",
+        -0.017764028
+      ]
+    ]
+  },
+  "A certain pair of coupled differential equations relates the time derivative of this quantity to a competition coefficient and an intrinsic rate of increase, as well as a quantity denoted \"K\". One technique": {
+    "guess": "Lotka\u2013Volterra equations",
+    "confidence": [
+      [
+        "Lot",
+        -0.019749058
+      ],
+      [
+        "ka",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.023245595
+      ],
+      [
+        "Vol",
+        0.0
+      ],
+      [
+        "terra",
+        -1.9361265e-07
+      ],
+      [
+        " equations",
+        -0.0003973032
+      ]
+    ]
+  },
+  "A certain pair of coupled differential equations relates the time derivative of this quantity to a competition coefficient and an intrinsic rate of increase, as well as a quantity denoted \"K\". One technique for estimating this extrinsic quantity is mark-and-recapture. Genetic drift occurs because this": {
+    "guess": "Population size",
+    "confidence": [
+      [
+        "Population",
+        -0.15500772
+      ],
+      [
+        " size",
+        -0.019015728
+      ]
+    ]
+  },
+  "A certain pair of coupled differential equations relates the time derivative of this quantity to a competition coefficient and an intrinsic rate of increase, as well as a quantity denoted \"K\". One technique for estimating this extrinsic quantity is mark-and-recapture. Genetic drift occurs because this quantity is always finite. As may have happened to humankind after the Toba event, bottleneck events": {
+    "guess": "Population size",
+    "confidence": [
+      [
+        "Population",
+        -0.33745417
+      ],
+      [
+        " size",
+        -0.019163221
+      ]
+    ]
+  },
+  "A certain pair of coupled differential equations relates the time derivative of this quantity to a competition coefficient and an intrinsic rate of increase, as well as a quantity denoted \"K\". One technique for estimating this extrinsic quantity is mark-and-recapture. Genetic drift occurs because this quantity is always finite. As may have happened to humankind after the Toba event, bottleneck events occur when it suddenly decreases. When it overshoots an environment's carrying capacity, it is likely": {
+    "guess": "Logistic equation",
+    "confidence": [
+      [
+        "Log",
+        -0.9444845
+      ],
+      [
+        "istic",
+        -2.9352968e-06
+      ],
+      [
+        " equation",
+        -0.3244846
+      ]
+    ]
+  },
+  "A certain pair of coupled differential equations relates the time derivative of this quantity to a competition coefficient and an intrinsic rate of increase, as well as a quantity denoted \"K\". One technique for estimating this extrinsic quantity is mark-and-recapture. Genetic drift occurs because this quantity is always finite. As may have happened to humankind after the Toba event, bottleneck events occur when it suddenly decreases. When it overshoots an environment's carrying capacity, it is likely to sharply decline thereafter. For 10 points, give this property of a population which, when divided": {
+    "guess": "Population size",
+    "confidence": [
+      [
+        "Population",
+        -0.079029575
+      ],
+      [
+        " size",
+        -2.1054253e-05
+      ]
+    ]
+  },
+  "A certain pair of coupled differential equations relates the time derivative of this quantity to a competition coefficient and an intrinsic rate of increase, as well as a quantity denoted \"K\". One technique for estimating this extrinsic quantity is mark-and-recapture. Genetic drift occurs because this quantity is always finite. As may have happened to humankind after the Toba event, bottleneck events occur when it suddenly decreases. When it overshoots an environment's carrying capacity, it is likely to sharply decline thereafter. For 10 points, give this property of a population which, when divided by the area it occupies, gives the population's density.": {
+    "guess": "Population size",
+    "confidence": [
+      [
+        "Population",
+        -0.008798925
+      ],
+      [
+        " size",
+        -1.6643718e-05
+      ]
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "Egorov's theorem relates two types of this property for measurable functions. A theorem named for Vitali": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.33612368
+      ]
+    ]
+  },
+  "Egorov's theorem relates two types of this property for measurable functions. A theorem named for Vitali applies when a dominating function cannot be found; when one can, Lebesgue's dominated this theorem": {
+    "guess": "Convergence",
+    "confidence": [
+      [
+        "Con",
+        -0.025269931
+      ],
+      [
+        "vergence",
+        -1.0445127e-05
+      ]
+    ]
+  },
+  "Egorov's theorem relates two types of this property for measurable functions. A theorem named for Vitali applies when a dominating function cannot be found; when one can, Lebesgue's dominated this theorem applies. This property also makes Fatou's lemma reduce to that theorem. The pointwise type of this": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.63243514
+      ]
+    ]
+  },
+  "Egorov's theorem relates two types of this property for measurable functions. A theorem named for Vitali applies when a dominating function cannot be found; when one can, Lebesgue's dominated this theorem applies. This property also makes Fatou's lemma reduce to that theorem. The pointwise type of this property is weaker than the uniform type. On the complex plane, this condition's equivalent is named": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.2323195
+      ],
+      [
+        ".",
+        -0.3868859
+      ]
+    ]
+  },
+  "Egorov's theorem relates two types of this property for measurable functions. A theorem named for Vitali applies when a dominating function cannot be found; when one can, Lebesgue's dominated this theorem applies. This property also makes Fatou's lemma reduce to that theorem. The pointwise type of this property is weaker than the uniform type. On the complex plane, this condition's equivalent is named for Cauchy, since there, it's possible for each element past some point to be arbitrarily close,": {
+    "guess": "Convergence",
+    "confidence": [
+      [
+        "Con",
+        -0.27715462
+      ],
+      [
+        "vergence",
+        -6.392203e-06
+      ]
+    ]
+  },
+  "Egorov's theorem relates two types of this property for measurable functions. A theorem named for Vitali applies when a dominating function cannot be found; when one can, Lebesgue's dominated this theorem applies. This property also makes Fatou's lemma reduce to that theorem. The pointwise type of this property is weaker than the uniform type. On the complex plane, this condition's equivalent is named for Cauchy, since there, it's possible for each element past some point to be arbitrarily close, without approaching a unique value. For 10 points, name this property lacked by the partial sums of": {
+    "guess": "Convergence",
+    "confidence": [
+      [
+        "Con",
+        -0.16844895
+      ],
+      [
+        "vergence",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "Egorov's theorem relates two types of this property for measurable functions. A theorem named for Vitali applies when a dominating function cannot be found; when one can, Lebesgue's dominated this theorem applies. This property also makes Fatou's lemma reduce to that theorem. The pointwise type of this property is weaker than the uniform type. On the complex plane, this condition's equivalent is named for Cauchy, since there, it's possible for each element past some point to be arbitrarily close, without approaching a unique value. For 10 points, name this property lacked by the partial sums of the harmonic series, which requires that a sequence has a limit.": {
+    "guess": "Convergence",
+    "confidence": [
+      [
+        "Con",
+        -0.08013368
+      ],
+      [
+        "vergence",
+        -7.9418505e-06
+      ]
+    ]
+  }
+}

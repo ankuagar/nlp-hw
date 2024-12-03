@@ -1,0 +1,54 @@
+{
+  "In 612 B.C., it was captured and destroyed by a combined army of Medes and Babylonians. In the 1800s,": {
+    "guess": "Nineveh",
+    "confidence": [
+      [
+        "Nine",
+        -0.018231068
+      ],
+      [
+        "veh",
+        0.0
+      ]
+    ]
+  },
+  "In 612 B.C., it was captured and destroyed by a combined army of Medes and Babylonians. In the 1800s, archaeologists unearthed the site and discovered the great library of King Ashurbanipal. For 10 points,": {
+    "guess": "Nineveh",
+    "confidence": [
+      [
+        "Nine",
+        -0.009886649
+      ],
+      [
+        "veh",
+        0.0
+      ]
+    ]
+  },
+  "In 612 B.C., it was captured and destroyed by a combined army of Medes and Babylonians. In the 1800s, archaeologists unearthed the site and discovered the great library of King Ashurbanipal. For 10 points, name this ancient city, located in the east bank of the Tigris River--the last capital of the ancient": {
+    "guess": "Nineveh",
+    "confidence": [
+      [
+        "Nine",
+        -0.10211825
+      ],
+      [
+        "veh",
+        0.0
+      ]
+    ]
+  },
+  "In 612 B.C., it was captured and destroyed by a combined army of Medes and Babylonians. In the 1800s, archaeologists unearthed the site and discovered the great library of King Ashurbanipal. For 10 points, name this ancient city, located in the east bank of the Tigris River--the last capital of the ancient Assyrian Empire.": {
+    "guess": "Nineveh",
+    "confidence": [
+      [
+        "Nine",
+        -0.011206143
+      ],
+      [
+        "veh",
+        0.0
+      ]
+    ]
+  }
+}

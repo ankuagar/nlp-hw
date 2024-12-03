@@ -1,0 +1,3780 @@
+{
+  "This must decrease as rival firms' aggregate output increases in order for Cournot competition to hold,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8135011
+      ]
+    ]
+  },
+  "This must decrease as rival firms' aggregate output increases in order for Cournot competition to hold, and if a strictly positive subsistence level is introduced to a CES function, this quantity becomes": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.18784161
+      ]
+    ]
+  },
+  "This must decrease as rival firms' aggregate output increases in order for Cournot competition to hold, and if a strictly positive subsistence level is introduced to a CES function, this quantity becomes non-monotonic. It is given by price times the quantity 1 minus 1 over demand elasticity, showing": {
+    "guess": "Markup",
+    "confidence": [
+      [
+        "Markup",
+        -0.18626924
+      ]
+    ]
+  },
+  "This must decrease as rival firms' aggregate output increases in order for Cournot competition to hold, and if a strictly positive subsistence level is introduced to a CES function, this quantity becomes non-monotonic. It is given by price times the quantity 1 minus 1 over demand elasticity, showing that its sign is an indicator of elasticity. In oligopolies, this curve has a jump due to the kinked": {
+    "guess": "Marginal revenue",
+    "confidence": [
+      [
+        "Marg",
+        -0.72925645
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " revenue",
+        -0.46246314
+      ]
+    ]
+  },
+  "This must decrease as rival firms' aggregate output increases in order for Cournot competition to hold, and if a strictly positive subsistence level is introduced to a CES function, this quantity becomes non-monotonic. It is given by price times the quantity 1 minus 1 over demand elasticity, showing that its sign is an indicator of elasticity. In oligopolies, this curve has a jump due to the kinked demand curve, and in monopolies, a deadweight loss is caused because this curve, and not demand, determines": {
+    "guess": "Marginal revenue",
+    "confidence": [
+      [
+        "Marg",
+        -0.20523468
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " revenue",
+        -0.6630547
+      ]
+    ]
+  },
+  "This must decrease as rival firms' aggregate output increases in order for Cournot competition to hold, and if a strictly positive subsistence level is introduced to a CES function, this quantity becomes non-monotonic. It is given by price times the quantity 1 minus 1 over demand elasticity, showing that its sign is an indicator of elasticity. In oligopolies, this curve has a jump due to the kinked demand curve, and in monopolies, a deadweight loss is caused because this curve, and not demand, determines quantity sold. For 10 points, name this curve that generally marks equilibrium where it meets": {
+    "guess": "Marginal Revenue",
+    "confidence": [
+      [
+        "Marg",
+        -0.5265595
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " Revenue",
+        -0.35079196
+      ]
+    ]
+  },
+  "This must decrease as rival firms' aggregate output increases in order for Cournot competition to hold, and if a strictly positive subsistence level is introduced to a CES function, this quantity becomes non-monotonic. It is given by price times the quantity 1 minus 1 over demand elasticity, showing that its sign is an indicator of elasticity. In oligopolies, this curve has a jump due to the kinked demand curve, and in monopolies, a deadweight loss is caused because this curve, and not demand, determines quantity sold. For 10 points, name this curve that generally marks equilibrium where it meets marginal cost, and which measures the added revenue of an additional unit sold.": {
+    "guess": "Marginal Revenue Curve",
+    "confidence": [
+      [
+        "Marg",
+        -0.065944135
+      ],
+      [
+        "inal",
+        -9.0883464e-07
+      ],
+      [
+        " Revenue",
+        -0.0024785085
+      ],
+      [
+        " Curve",
+        -0.6932389
+      ]
+    ]
+  },
+  "In this musical, Anita sings \"A boy like that / Who'd kill your brother / Forget that boy and find another!\"": {
+    "guess": "West Side Story",
+    "confidence": [
+      [
+        "West",
+        -0.00037204305
+      ],
+      [
+        " Side",
+        0.0
+      ],
+      [
+        " Story",
+        0.0
+      ]
+    ]
+  },
+  "In this musical, Anita sings \"A boy like that / Who'd kill your brother / Forget that boy and find another!\" In Act I, a male character sings \"Something's Coming\" while imagining a different and better": {
+    "guess": "West Side Story",
+    "confidence": [
+      [
+        "West",
+        -1.1756368e-05
+      ],
+      [
+        " Side",
+        0.0
+      ],
+      [
+        " Story",
+        0.0
+      ]
+    ]
+  },
+  "In this musical, Anita sings \"A boy like that / Who'd kill your brother / Forget that boy and find another!\" In Act I, a male character sings \"Something's Coming\" while imagining a different and better future, and in Act II, a female character sings \"I Feel Pretty.\" Those two characters engage in a mock": {
+    "guess": "West Side Story",
+    "confidence": [
+      [
+        "West",
+        -0.00013023747
+      ],
+      [
+        " Side",
+        0.0
+      ],
+      [
+        " Story",
+        0.0
+      ]
+    ]
+  },
+  "In this musical, Anita sings \"A boy like that / Who'd kill your brother / Forget that boy and find another!\" In Act I, a male character sings \"Something's Coming\" while imagining a different and better future, and in Act II, a female character sings \"I Feel Pretty.\" Those two characters engage in a mock marriage ceremony while singing \"One Hand, One Heart.\" Those characters, Tony and Maria, are members": {
+    "guess": "West Side Story",
+    "confidence": [
+      [
+        "West",
+        -0.00021521868
+      ],
+      [
+        " Side",
+        0.0
+      ],
+      [
+        " Story",
+        0.0
+      ]
+    ]
+  },
+  "In this musical, Anita sings \"A boy like that / Who'd kill your brother / Forget that boy and find another!\" In Act I, a male character sings \"Something's Coming\" while imagining a different and better future, and in Act II, a female character sings \"I Feel Pretty.\" Those two characters engage in a mock marriage ceremony while singing \"One Hand, One Heart.\" Those characters, Tony and Maria, are members of opposite gangss, the Jets and the Sharks. FTP, name this musical based on Romeo and Juliet.": {
+    "guess": "West Side Story",
+    "confidence": [
+      [
+        "West",
+        -8.530503e-05
+      ],
+      [
+        " Side",
+        0.0
+      ],
+      [
+        " Story",
+        0.0
+      ]
+    ]
+  },
+  "It must have a positive slope, and because the factor it measures cannot be negative it must be concave": {
+    "guess": "Convex function",
+    "confidence": [
+      [
+        "Conv",
+        -0.31697065
+      ],
+      [
+        "ex",
+        0.0
+      ],
+      [
+        " function",
+        -0.00047869363
+      ]
+    ]
+  },
+  "It must have a positive slope, and because the factor it measures cannot be negative it must be concave up and cannot rise above the line y = x, known as the line of perfect equality.  The area between": {
+    "guess": "Lorenz curve",
+    "confidence": [
+      [
+        "Lor",
+        -0.16703199
+      ],
+      [
+        "enz",
+        -5.8365e-05
+      ],
+      [
+        " curve",
+        -0.0003802681
+      ]
+    ]
+  },
+  "It must have a positive slope, and because the factor it measures cannot be negative it must be concave up and cannot rise above the line y = x, known as the line of perfect equality.  The area between it and the line of perfect equality is known as the Gini coefficient, and at each point its y-value": {
+    "guess": "Lorenz curve",
+    "confidence": [
+      [
+        "Lor",
+        -0.00020807012
+      ],
+      [
+        "enz",
+        -3.5477897e-05
+      ],
+      [
+        " curve",
+        -0.0019287518
+      ]
+    ]
+  },
+  "It must have a positive slope, and because the factor it measures cannot be negative it must be concave up and cannot rise above the line y = x, known as the line of perfect equality.  The area between it and the line of perfect equality is known as the Gini coefficient, and at each point its y-value shows the cumulative percentage of a given asset owned by the bottom x percent of the sample.  First": {
+    "guess": "Lorenz curve",
+    "confidence": [
+      [
+        "Lor",
+        -0.003672164
+      ],
+      [
+        "enz",
+        -1.6762922e-05
+      ],
+      [
+        " curve",
+        -0.003177833
+      ]
+    ]
+  },
+  "It must have a positive slope, and because the factor it measures cannot be negative it must be concave up and cannot rise above the line y = x, known as the line of perfect equality.  The area between it and the line of perfect equality is known as the Gini coefficient, and at each point its y-value shows the cumulative percentage of a given asset owned by the bottom x percent of the sample.  First developed by its namesake American economist during the early-20th century, FTP, identify this construct": {
+    "guess": "Lorenz curve",
+    "confidence": [
+      [
+        "Lor",
+        -0.0005580356
+      ],
+      [
+        "enz",
+        -3.7697225e-06
+      ],
+      [
+        " curve",
+        -0.0059286784
+      ]
+    ]
+  },
+  "It must have a positive slope, and because the factor it measures cannot be negative it must be concave up and cannot rise above the line y = x, known as the line of perfect equality.  The area between it and the line of perfect equality is known as the Gini coefficient, and at each point its y-value shows the cumulative percentage of a given asset owned by the bottom x percent of the sample.  First developed by its namesake American economist during the early-20th century, FTP, identify this construct from welfare economics used to illustrate income inequality.": {
+    "guess": "Lorenz curve",
+    "confidence": [
+      [
+        "Lor",
+        -0.00010664248
+      ],
+      [
+        "enz",
+        -2.9352968e-06
+      ],
+      [
+        " curve",
+        -0.0031777136
+      ]
+    ]
+  },
+  "This musician got his start replacing the legendary King Oliver in Kid Ory's band, and after serving": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.0042931535
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musician got his start replacing the legendary King Oliver in Kid Ory's band, and after serving as lead cornet soloist for Fletcher Henderson's band recorded his early masterpieces, the Hot Five and": {
+    "guess": "Louis Armstrong Hot Five and Hot Seven Sessions",
+    "confidence": [
+      [
+        "Louis",
+        -0.41204447
+      ],
+      [
+        " Armstrong",
+        -1.9361265e-07
+      ],
+      [
+        " Hot",
+        -0.5150744
+      ],
+      [
+        " Five",
+        -0.0833084
+      ],
+      [
+        " and",
+        -0.00011617878
+      ],
+      [
+        " Hot",
+        -0.0013470192
+      ],
+      [
+        " Seven",
+        -3.1281633e-07
+      ],
+      [
+        " Sessions",
+        -0.33207378
+      ]
+    ]
+  },
+  "This musician got his start replacing the legendary King Oliver in Kid Ory's band, and after serving as lead cornet soloist for Fletcher Henderson's band recorded his early masterpieces, the Hot Five and Hot Seven recordings, which included songs like \"Potato Head Blues\". He abandoned the cornet for": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.26706168
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musician got his start replacing the legendary King Oliver in Kid Ory's band, and after serving as lead cornet soloist for Fletcher Henderson's band recorded his early masterpieces, the Hot Five and Hot Seven recordings, which included songs like \"Potato Head Blues\". He abandoned the cornet for his trademark instrument, and after forming his \"All-Star\" sextet became renown for both his non-stop": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.030820532
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musician got his start replacing the legendary King Oliver in Kid Ory's band, and after serving as lead cornet soloist for Fletcher Henderson's band recorded his early masterpieces, the Hot Five and Hot Seven recordings, which included songs like \"Potato Head Blues\". He abandoned the cornet for his trademark instrument, and after forming his \"All-Star\" sextet became renown for both his non-stop tour schedule and for his command of the high registers and melodic inventiveness, which contrasted": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.009218221
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musician got his start replacing the legendary King Oliver in Kid Ory's band, and after serving as lead cornet soloist for Fletcher Henderson's band recorded his early masterpieces, the Hot Five and Hot Seven recordings, which included songs like \"Potato Head Blues\". He abandoned the cornet for his trademark instrument, and after forming his \"All-Star\" sextet became renown for both his non-stop tour schedule and for his command of the high registers and melodic inventiveness, which contrasted with the gruff voice he used to became the first great jazz singer, incorporating scat singing on": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.06375735
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musician got his start replacing the legendary King Oliver in Kid Ory's band, and after serving as lead cornet soloist for Fletcher Henderson's band recorded his early masterpieces, the Hot Five and Hot Seven recordings, which included songs like \"Potato Head Blues\". He abandoned the cornet for his trademark instrument, and after forming his \"All-Star\" sextet became renown for both his non-stop tour schedule and for his command of the high registers and melodic inventiveness, which contrasted with the gruff voice he used to became the first great jazz singer, incorporating scat singing on recordings of \"Hello, Dolly!\" and \"Mack the Knife\". FTP, who was this great trumpeter known as \"Satchmo\"?": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.0024909992
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "His music was banned by Nazi Germany since he was a public advocate of aiding Jewish refugees.  His musical": {
+    "guess": "Paul Hindemith",
+    "confidence": [
+      [
+        "Paul",
+        -0.34510198
+      ],
+      [
+        " Hind",
+        -0.011085193
+      ],
+      [
+        "em",
+        0.0
+      ],
+      [
+        "ith",
+        0.0
+      ]
+    ]
+  },
+  "His music was banned by Nazi Germany since he was a public advocate of aiding Jewish refugees.  His musical education continued with Max Bruch in Berlin and Maurice Ravel in Paris.  His output includes": {
+    "guess": "Erich Wolfgang Korngold",
+    "confidence": [
+      [
+        "Er",
+        -1.1040303
+      ],
+      [
+        "ich",
+        -0.3075849
+      ],
+      [
+        " Wolfgang",
+        -0.026301226
+      ],
+      [
+        " Kor",
+        -7.89631e-07
+      ],
+      [
+        "ng",
+        0.0
+      ],
+      [
+        "old",
+        0.0
+      ]
+    ]
+  },
+  "His music was banned by Nazi Germany since he was a public advocate of aiding Jewish refugees.  His musical education continued with Max Bruch in Berlin and Maurice Ravel in Paris.  His output includes nine symphonies, incidental music for Aristophanes' The Wasps, and Fantasia on Greensleves, the latter": {
+    "guess": "Ralph Vaughan Williams",
+    "confidence": [
+      [
+        "R",
+        -0.48513523
+      ],
+      [
+        "alph",
+        -1.9361265e-07
+      ],
+      [
+        " Vaughan",
+        0.0
+      ],
+      [
+        " Williams",
+        0.0
+      ]
+    ]
+  },
+  "His music was banned by Nazi Germany since he was a public advocate of aiding Jewish refugees.  His musical education continued with Max Bruch in Berlin and Maurice Ravel in Paris.  His output includes nine symphonies, incidental music for Aristophanes' The Wasps, and Fantasia on Greensleves, the latter being one of his many incorporations of English folk music in his compositions.  FTP, name this": {
+    "guess": "Ralph Vaughan Williams",
+    "confidence": [
+      [
+        "R",
+        -0.039594486
+      ],
+      [
+        "alph",
+        0.0
+      ],
+      [
+        " Vaughan",
+        0.0
+      ],
+      [
+        " Williams",
+        0.0
+      ]
+    ]
+  },
+  "His music was banned by Nazi Germany since he was a public advocate of aiding Jewish refugees.  His musical education continued with Max Bruch in Berlin and Maurice Ravel in Paris.  His output includes nine symphonies, incidental music for Aristophanes' The Wasps, and Fantasia on Greensleves, the latter being one of his many incorporations of English folk music in his compositions.  FTP, name this composer who, despite being an atheist, used strong religious themes in revising the English Hymnal": {
+    "guess": "Ralph Vaughan Williams",
+    "confidence": [
+      [
+        "R",
+        -0.0011915372
+      ],
+      [
+        "alph",
+        0.0
+      ],
+      [
+        " Vaughan",
+        0.0
+      ],
+      [
+        " Williams",
+        0.0
+      ]
+    ]
+  },
+  "His music was banned by Nazi Germany since he was a public advocate of aiding Jewish refugees.  His musical education continued with Max Bruch in Berlin and Maurice Ravel in Paris.  His output includes nine symphonies, incidental music for Aristophanes' The Wasps, and Fantasia on Greensleves, the latter being one of his many incorporations of English folk music in his compositions.  FTP, name this composer who, despite being an atheist, used strong religious themes in revising the English Hymnal and composing Fantasia on a Theme of Thomas Tallis.": {
+    "guess": "Ralph Vaughan Williams",
+    "confidence": [
+      [
+        "R",
+        -0.0034225932
+      ],
+      [
+        "alph",
+        0.0
+      ],
+      [
+        " Vaughan",
+        0.0
+      ],
+      [
+        " Williams",
+        0.0
+      ]
+    ]
+  },
+  "One musical set aboard a ship that departs from this country includes the songs \"It's De-Lovely\" and": {
+    "guess": "Anything Goes",
+    "confidence": [
+      [
+        "Anything",
+        -0.15389206
+      ],
+      [
+        " Goes",
+        0.0
+      ]
+    ]
+  },
+  "One musical set aboard a ship that departs from this country includes the songs \"It's De-Lovely\" and \"I Get a Kick out of You.\" That work is Anything Goes by Cole Porter. On the Town by Leonard Bernstein": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6214695
+      ]
+    ]
+  },
+  "One musical set aboard a ship that departs from this country includes the songs \"It's De-Lovely\" and \"I Get a Kick out of You.\" That work is Anything Goes by Cole Porter. On the Town by Leonard Bernstein is about sailors from this country. One person from this country goes to Paris in a Gershwin musical.": {
+    "guess": "United States",
+    "confidence": [
+      [
+        "United",
+        -0.51108795
+      ],
+      [
+        " States",
+        0.0
+      ]
+    ]
+  },
+  "One musical set aboard a ship that departs from this country includes the songs \"It's De-Lovely\" and \"I Get a Kick out of You.\" That work is Anything Goes by Cole Porter. On the Town by Leonard Bernstein is about sailors from this country. One person from this country goes to Paris in a Gershwin musical. One musical set in this country includes the song \"You're the One That I Want\" and is entitled": {
+    "guess": "Greece",
+    "confidence": [
+      [
+        "G",
+        -0.015095082
+      ],
+      [
+        "reece",
+        -6.511407e-06
+      ]
+    ]
+  },
+  "One musical set aboard a ship that departs from this country includes the songs \"It's De-Lovely\" and \"I Get a Kick out of You.\" That work is Anything Goes by Cole Porter. On the Town by Leonard Bernstein is about sailors from this country. One person from this country goes to Paris in a Gershwin musical. One musical set in this country includes the song \"You're the One That I Want\" and is entitled Grease. For 10 points, name this country that is the home of composer George M. Cohan, who wrote the": {
+    "guess": "United States",
+    "confidence": [
+      [
+        "United",
+        -0.0072550736
+      ],
+      [
+        " States",
+        0.0
+      ]
+    ]
+  },
+  "One musical set aboard a ship that departs from this country includes the songs \"It's De-Lovely\" and \"I Get a Kick out of You.\" That work is Anything Goes by Cole Porter. On the Town by Leonard Bernstein is about sailors from this country. One person from this country goes to Paris in a Gershwin musical. One musical set in this country includes the song \"You're the One That I Want\" and is entitled Grease. For 10 points, name this country that is the home of composer George M. Cohan, who wrote the song \"Yankee Doodle Boy,\" and where musicals are often performed on Broadway.": {
+    "guess": "United States",
+    "confidence": [
+      [
+        "United",
+        -0.016791904
+      ],
+      [
+        " States",
+        0.0
+      ]
+    ]
+  },
+  "Mutations in dardarin have been linked to some hereditary cases of this disease. One drug used to treat": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.42129683
+      ]
+    ]
+  },
+  "Mutations in dardarin have been linked to some hereditary cases of this disease. One drug used to treat this disease is administered with a peripheral decarboxylase inhibitor in order to increase its half-life.": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.0056787226
+      ],
+      [
+        "inson",
+        0.0
+      ],
+      [
+        "'s",
+        -4.8425554e-06
+      ],
+      [
+        " disease",
+        -1.1637165e-05
+      ]
+    ]
+  },
+  "Mutations in dardarin have been linked to some hereditary cases of this disease. One drug used to treat this disease is administered with a peripheral decarboxylase inhibitor in order to increase its half-life. One new treatment for this disease is deep brain stimulation of the subthalamic nucleus and": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.02886339
+      ],
+      [
+        "inson",
+        0.0
+      ],
+      [
+        "'s",
+        -1.8624639e-06
+      ],
+      [
+        " disease",
+        -2.5107178e-05
+      ]
+    ]
+  },
+  "Mutations in dardarin have been linked to some hereditary cases of this disease. One drug used to treat this disease is administered with a peripheral decarboxylase inhibitor in order to increase its half-life. One new treatment for this disease is deep brain stimulation of the subthalamic nucleus and globus pallidus interna. MPTP was linked to several instances of this disease in opiate addicts, and": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.036624797
+      ],
+      [
+        "inson",
+        0.0
+      ],
+      [
+        "'s",
+        -5.5122365e-07
+      ],
+      [
+        " disease",
+        -2.8160932e-06
+      ]
+    ]
+  },
+  "Mutations in dardarin have been linked to some hereditary cases of this disease. One drug used to treat this disease is administered with a peripheral decarboxylase inhibitor in order to increase its half-life. One new treatment for this disease is deep brain stimulation of the subthalamic nucleus and globus pallidus interna. MPTP was linked to several instances of this disease in opiate addicts, and this disease is caused by a buildup of ubiquitin and alpha-synuclein-containing Lewy Bodies, which": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.0068870536
+      ],
+      [
+        "inson",
+        0.0
+      ],
+      [
+        "'s",
+        -6.704273e-07
+      ],
+      [
+        " disease",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Mutations in dardarin have been linked to some hereditary cases of this disease. One drug used to treat this disease is administered with a peripheral decarboxylase inhibitor in order to increase its half-life. One new treatment for this disease is deep brain stimulation of the subthalamic nucleus and globus pallidus interna. MPTP was linked to several instances of this disease in opiate addicts, and this disease is caused by a buildup of ubiquitin and alpha-synuclein-containing Lewy Bodies, which destroy the substantia nigra. Important symptoms of this disease include micrographia, cogwheel rigidity,": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.0030787215
+      ],
+      [
+        "inson",
+        0.0
+      ],
+      [
+        "'s",
+        -1.8624639e-06
+      ],
+      [
+        " disease",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "Mutations in dardarin have been linked to some hereditary cases of this disease. One drug used to treat this disease is administered with a peripheral decarboxylase inhibitor in order to increase its half-life. One new treatment for this disease is deep brain stimulation of the subthalamic nucleus and globus pallidus interna. MPTP was linked to several instances of this disease in opiate addicts, and this disease is caused by a buildup of ubiquitin and alpha-synuclein-containing Lewy Bodies, which destroy the substantia nigra. Important symptoms of this disease include micrographia, cogwheel rigidity, and a mask-like facial expression. Commonly treated by L-Dopa, for 10 points, name this neurological": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.0042016287
+      ],
+      [
+        "inson",
+        0.0
+      ],
+      [
+        "'s",
+        -4.246537e-06
+      ],
+      [
+        " disease",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "Mutations in dardarin have been linked to some hereditary cases of this disease. One drug used to treat this disease is administered with a peripheral decarboxylase inhibitor in order to increase its half-life. One new treatment for this disease is deep brain stimulation of the subthalamic nucleus and globus pallidus interna. MPTP was linked to several instances of this disease in opiate addicts, and this disease is caused by a buildup of ubiquitin and alpha-synuclein-containing Lewy Bodies, which destroy the substantia nigra. Important symptoms of this disease include micrographia, cogwheel rigidity, and a mask-like facial expression. Commonly treated by L-Dopa, for 10 points, name this neurological disorder which causes impaired motor skills and eventually dementia, named for a British scientist.": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.00095183693
+      ],
+      [
+        "inson",
+        0.0
+      ],
+      [
+        "'s",
+        -3.4121115e-06
+      ],
+      [
+        " disease",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "One music video for this artist featured Jeffrey Tambor as a disgruntled theater director who is persuaded": {
+    "guess": "H.A.M. (song)",
+    "confidence": [
+      [
+        "H",
+        -1.2035514
+      ],
+      [
+        ".A",
+        -1.3539002
+      ],
+      [
+        ".M",
+        -0.010905037
+      ],
+      [
+        ".",
+        -0.0018438017
+      ],
+      [
+        " (",
+        -0.3242872
+      ],
+      [
+        "song",
+        -0.44531244
+      ],
+      [
+        ")",
+        -1.8074163e-05
+      ]
+    ]
+  },
+  "One music video for this artist featured Jeffrey Tambor as a disgruntled theater director who is persuaded by Eric Clapton to let this artist sing, and opens with \"You know I never meant to see you again.\"": {
+    "guess": "Tears in Heaven",
+    "confidence": [
+      [
+        "T",
+        -0.03497567
+      ],
+      [
+        "ears",
+        -3.202099e-05
+      ],
+      [
+        " in",
+        -0.038377907
+      ],
+      [
+        " Heaven",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "One music video for this artist featured Jeffrey Tambor as a disgruntled theater director who is persuaded by Eric Clapton to let this artist sing, and opens with \"You know I never meant to see you again.\" Another song states that \"You can tell from the lines on her face\" and asks you to \"think twice\"": {
+    "guess": "Eric Clapton",
+    "confidence": [
+      [
+        "Eric",
+        -0.49438086
+      ],
+      [
+        " Clap",
+        -9.0883464e-07
+      ],
+      [
+        "ton",
+        0.0
+      ]
+    ]
+  },
+  "One music video for this artist featured Jeffrey Tambor as a disgruntled theater director who is persuaded by Eric Clapton to let this artist sing, and opens with \"You know I never meant to see you again.\" Another song states that \"You can tell from the lines on her face\" and asks you to \"think twice\" on the titular day. Both of those songs were featured on the 1989 album But Seriously..., the follow-up": {
+    "guess": "Phil Collins",
+    "confidence": [
+      [
+        "Phil",
+        -0.00017743846
+      ],
+      [
+        " Collins",
+        0.0
+      ]
+    ]
+  },
+  "One music video for this artist featured Jeffrey Tambor as a disgruntled theater director who is persuaded by Eric Clapton to let this artist sing, and opens with \"You know I never meant to see you again.\" Another song states that \"You can tell from the lines on her face\" and asks you to \"think twice\" on the titular day. Both of those songs were featured on the 1989 album But Seriously..., the follow-up to his most successful record, No Jacket Required. Eminem's \"Stan\" sees the title figure note": {
+    "guess": "Phil Collins",
+    "confidence": [
+      [
+        "Phil",
+        -4.4179764e-05
+      ],
+      [
+        " Collins",
+        0.0
+      ]
+    ]
+  },
+  "One music video for this artist featured Jeffrey Tambor as a disgruntled theater director who is persuaded by Eric Clapton to let this artist sing, and opens with \"You know I never meant to see you again.\" Another song states that \"You can tell from the lines on her face\" and asks you to \"think twice\" on the titular day. Both of those songs were featured on the 1989 album But Seriously..., the follow-up to his most successful record, No Jacket Required. Eminem's \"Stan\" sees the title figure note \"you could have saved me from drowning,\" a reference to this man's most famous song, which notes that": {
+    "guess": "Phil Collins",
+    "confidence": [
+      [
+        "Phil",
+        -0.0016200728
+      ],
+      [
+        " Collins",
+        0.0
+      ]
+    ]
+  },
+  "One music video for this artist featured Jeffrey Tambor as a disgruntled theater director who is persuaded by Eric Clapton to let this artist sing, and opens with \"You know I never meant to see you again.\" Another song states that \"You can tell from the lines on her face\" and asks you to \"think twice\" on the titular day. Both of those songs were featured on the 1989 album But Seriously..., the follow-up to his most successful record, No Jacket Required. Eminem's \"Stan\" sees the title figure note \"you could have saved me from drowning,\" a reference to this man's most famous song, which notes that pain is \"no stranger to you and me\" just before launching into the drum fill. For 10 points, name": {
+    "guess": "Phil Collins",
+    "confidence": [
+      [
+        "Phil",
+        -0.0016664924
+      ],
+      [
+        " Collins",
+        0.0
+      ]
+    ]
+  },
+  "One music video for this artist featured Jeffrey Tambor as a disgruntled theater director who is persuaded by Eric Clapton to let this artist sing, and opens with \"You know I never meant to see you again.\" Another song states that \"You can tell from the lines on her face\" and asks you to \"think twice\" on the titular day. Both of those songs were featured on the 1989 album But Seriously..., the follow-up to his most successful record, No Jacket Required. Eminem's \"Stan\" sees the title figure note \"you could have saved me from drowning,\" a reference to this man's most famous song, which notes that pain is \"no stranger to you and me\" just before launching into the drum fill. For 10 points, name this artist responsible for \"I Wish It Would Rain Down\" and \"Another Day In Paradise,\" the former drummer": {
+    "guess": "Phil Collins",
+    "confidence": [
+      [
+        "Phil",
+        -0.0010303078
+      ],
+      [
+        " Collins",
+        0.0
+      ]
+    ]
+  },
+  "One music video for this artist featured Jeffrey Tambor as a disgruntled theater director who is persuaded by Eric Clapton to let this artist sing, and opens with \"You know I never meant to see you again.\" Another song states that \"You can tell from the lines on her face\" and asks you to \"think twice\" on the titular day. Both of those songs were featured on the 1989 album But Seriously..., the follow-up to his most successful record, No Jacket Required. Eminem's \"Stan\" sees the title figure note \"you could have saved me from drowning,\" a reference to this man's most famous song, which notes that pain is \"no stranger to you and me\" just before launching into the drum fill. For 10 points, name this artist responsible for \"I Wish It Would Rain Down\" and \"Another Day In Paradise,\" the former drummer of Genesis best known for \"In the Air Tonight\".": {
+    "guess": "Phil Collins",
+    "confidence": [
+      [
+        "Phil",
+        -0.001174271
+      ],
+      [
+        " Collins",
+        0.0
+      ]
+    ]
+  },
+  "This musician sang duets like \"Let's Call the Whole Thing Off\" with Ella Fitzgerald and recorded albums": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.001955514
+      ],
+      [
+        " Armstrong",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "This musician sang duets like \"Let's Call the Whole Thing Off\" with Ella Fitzgerald and recorded albums with his \"Hot Five\" and \"Hot Seven\" bands. He sang \"It's so nice to have you back where you belong\"": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.013326112
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musician sang duets like \"Let's Call the Whole Thing Off\" with Ella Fitzgerald and recorded albums with his \"Hot Five\" and \"Hot Seven\" bands. He sang \"It's so nice to have you back where you belong\" in one song, and described \"Bright blessed days\" and \"dark sacred nights\" in another song. (*) For": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.17297511
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musician sang duets like \"Let's Call the Whole Thing Off\" with Ella Fitzgerald and recorded albums with his \"Hot Five\" and \"Hot Seven\" bands. He sang \"It's so nice to have you back where you belong\" in one song, and described \"Bright blessed days\" and \"dark sacred nights\" in another song. (*) For 10 points, what jazz trumpeter, nicknamed \"Satchmo\" sang \"Hello, Dolly!\" and \"What a Wonderful World\"?": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.023305457
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "A museum branch located in this city's Fort Tryon Park containing medieval art is known as The Cloisters.": {
+    "guess": "New York City",
+    "confidence": [
+      [
+        "New",
+        -0.03032657
+      ],
+      [
+        " York",
+        0.0
+      ],
+      [
+        " City",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "A museum branch located in this city's Fort Tryon Park containing medieval art is known as The Cloisters. One of its straits, which includes Roosevelt Island and Rikers Island, is the East River. Some": {
+    "guess": "New York City",
+    "confidence": [
+      [
+        "New",
+        -0.006870595
+      ],
+      [
+        " York",
+        0.0
+      ],
+      [
+        " City",
+        -9.674858e-05
+      ]
+    ]
+  },
+  "A museum branch located in this city's Fort Tryon Park containing medieval art is known as The Cloisters. One of its straits, which includes Roosevelt Island and Rikers Island, is the East River. Some of its neighborhoods are Bensonhurst and Flatbush, and its Turtle Bay neighborhood includes the headquarters": {
+    "guess": "New York City",
+    "confidence": [
+      [
+        "New",
+        -1.2233183e-05
+      ],
+      [
+        " York",
+        0.0
+      ],
+      [
+        " City",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "A museum branch located in this city's Fort Tryon Park containing medieval art is known as The Cloisters. One of its straits, which includes Roosevelt Island and Rikers Island, is the East River. Some of its neighborhoods are Bensonhurst and Flatbush, and its Turtle Bay neighborhood includes the headquarters of the (*) United Nations. For 10 points, name this city whose boroughs include Queens, Staten": {
+    "guess": "New York City",
+    "confidence": [
+      [
+        "New",
+        -0.004447328
+      ],
+      [
+        " York",
+        0.0
+      ],
+      [
+        " City",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A museum branch located in this city's Fort Tryon Park containing medieval art is known as The Cloisters. One of its straits, which includes Roosevelt Island and Rikers Island, is the East River. Some of its neighborhoods are Bensonhurst and Flatbush, and its Turtle Bay neighborhood includes the headquarters of the (*) United Nations. For 10 points, name this city whose boroughs include Queens, Staten Island, and Manhattan.": {
+    "guess": "New York City",
+    "confidence": [
+      [
+        "New",
+        -0.012081741
+      ],
+      [
+        " York",
+        0.0
+      ],
+      [
+        " City",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "One of these musical works features a harpsichord cadenza that was probably played by J.S. Bach at its": {
+    "guess": "Brandenburg Concertos",
+    "confidence": [
+      [
+        "Br",
+        -0.0010363836
+      ],
+      [
+        "andenburg",
+        -3.1281633e-07
+      ],
+      [
+        " Concert",
+        -0.0031780712
+      ],
+      [
+        "os",
+        0.0
+      ]
+    ]
+  },
+  "One of these musical works features a harpsichord cadenza that was probably played by J.S. Bach at its premiere. Bela Bartok wrote one of these works for Orchestra. Vivaldi's hundreds of these works include": {
+    "guess": "Concerto",
+    "confidence": [
+      [
+        "Conc",
+        -0.22552945
+      ],
+      [
+        "erto",
+        0.0
+      ]
+    ]
+  },
+  "One of these musical works features a harpsichord cadenza that was probably played by J.S. Bach at its premiere. Bela Bartok wrote one of these works for Orchestra. Vivaldi's hundreds of these works include The Four Seasons, and Mozart wrote a (*) double one for flute and harp. For 10 points, name this": {
+    "guess": "Concerto",
+    "confidence": [
+      [
+        "Conc",
+        -0.04534018
+      ],
+      [
+        "erto",
+        0.0
+      ]
+    ]
+  },
+  "One of these musical works features a harpsichord cadenza that was probably played by J.S. Bach at its premiere. Bela Bartok wrote one of these works for Orchestra. Vivaldi's hundreds of these works include The Four Seasons, and Mozart wrote a (*) double one for flute and harp. For 10 points, name this type of musical work in which a solo instrument is accompanied by an orchestra or other group of": {
+    "guess": "Concerto",
+    "confidence": [
+      [
+        "Conc",
+        -4.143808e-05
+      ],
+      [
+        "erto",
+        0.0
+      ]
+    ]
+  },
+  "One of these musical works features a harpsichord cadenza that was probably played by J.S. Bach at its premiere. Bela Bartok wrote one of these works for Orchestra. Vivaldi's hundreds of these works include The Four Seasons, and Mozart wrote a (*) double one for flute and harp. For 10 points, name this type of musical work in which a solo instrument is accompanied by an orchestra or other group of supporting instruments.": {
+    "guess": "Concerto",
+    "confidence": [
+      [
+        "Conc",
+        -1.60477e-05
+      ],
+      [
+        "erto",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's albums features Hermeto Pascoal's early compositions such as \"Nem Um Talvez.\"": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.94176996
+      ]
+    ]
+  },
+  "One of this musician's albums features Hermeto Pascoal's early compositions such as \"Nem Um Talvez.\" In his later career, this artist often collaborated with the electric guitarist John McLaughlin, who": {
+    "guess": "Miles Davis",
+    "confidence": [
+      [
+        "Miles",
+        -0.109380744
+      ],
+      [
+        " Davis",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's albums features Hermeto Pascoal's early compositions such as \"Nem Um Talvez.\" In his later career, this artist often collaborated with the electric guitarist John McLaughlin, who is the subject of this artist's song \"Go Ahead John,\" which appears on Big Fun. This man's second namesake": {
+    "guess": "Miles Davis",
+    "confidence": [
+      [
+        "Miles",
+        -0.703252
+      ],
+      [
+        " Davis",
+        -3.5597102e-05
+      ]
+    ]
+  },
+  "One of this musician's albums features Hermeto Pascoal's early compositions such as \"Nem Um Talvez.\" In his later career, this artist often collaborated with the electric guitarist John McLaughlin, who is the subject of this artist's song \"Go Ahead John,\" which appears on Big Fun. This man's second namesake quintet featured Wayne Shorter and Herbie Hancock, and his earlier quintet featured John Coltrane": {
+    "guess": "Miles Davis",
+    "confidence": [
+      [
+        "Miles",
+        -3.202099e-05
+      ],
+      [
+        " Davis",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's albums features Hermeto Pascoal's early compositions such as \"Nem Um Talvez.\" In his later career, this artist often collaborated with the electric guitarist John McLaughlin, who is the subject of this artist's song \"Go Ahead John,\" which appears on Big Fun. This man's second namesake quintet featured Wayne Shorter and Herbie Hancock, and his earlier quintet featured John Coltrane and was expanded to a (*) sextet with the addition of Cannonball Adderley. An arrangement of Joaquin": {
+    "guess": "Miles Davis",
+    "confidence": [
+      [
+        "Miles",
+        -0.0003809833
+      ],
+      [
+        " Davis",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's albums features Hermeto Pascoal's early compositions such as \"Nem Um Talvez.\" In his later career, this artist often collaborated with the electric guitarist John McLaughlin, who is the subject of this artist's song \"Go Ahead John,\" which appears on Big Fun. This man's second namesake quintet featured Wayne Shorter and Herbie Hancock, and his earlier quintet featured John Coltrane and was expanded to a (*) sextet with the addition of Cannonball Adderley. An arrangement of Joaquin Rodrigo's Concierto de Aranjuez opens this artist's album Sketches of Spain. He collaborated": {
+    "guess": "Miles Davis",
+    "confidence": [
+      [
+        "Miles",
+        -0.0003150857
+      ],
+      [
+        " Davis",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's albums features Hermeto Pascoal's early compositions such as \"Nem Um Talvez.\" In his later career, this artist often collaborated with the electric guitarist John McLaughlin, who is the subject of this artist's song \"Go Ahead John,\" which appears on Big Fun. This man's second namesake quintet featured Wayne Shorter and Herbie Hancock, and his earlier quintet featured John Coltrane and was expanded to a (*) sextet with the addition of Cannonball Adderley. An arrangement of Joaquin Rodrigo's Concierto de Aranjuez opens this artist's album Sketches of Spain. He collaborated with Gil Evans on \"Boplicity\", which appeared on his seminal album Birth of the Cool. For 10 points,": {
+    "guess": "Miles Davis",
+    "confidence": [
+      [
+        "Miles",
+        -9.960947e-05
+      ],
+      [
+        " Davis",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's albums features Hermeto Pascoal's early compositions such as \"Nem Um Talvez.\" In his later career, this artist often collaborated with the electric guitarist John McLaughlin, who is the subject of this artist's song \"Go Ahead John,\" which appears on Big Fun. This man's second namesake quintet featured Wayne Shorter and Herbie Hancock, and his earlier quintet featured John Coltrane and was expanded to a (*) sextet with the addition of Cannonball Adderley. An arrangement of Joaquin Rodrigo's Concierto de Aranjuez opens this artist's album Sketches of Spain. He collaborated with Gil Evans on \"Boplicity\", which appeared on his seminal album Birth of the Cool. For 10 points, name this jazz trumpeter whose \"Freddie Freeloader\" and \"So What\" appeared on the album Kind of Blue.": {
+    "guess": "Miles Davis",
+    "confidence": [
+      [
+        "Miles",
+        -0.00059092115
+      ],
+      [
+        " Davis",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's early recordings, which is named after a slang term for marijuana popular among": {
+    "guess": "Cab Calloway",
+    "confidence": [
+      [
+        "Cab",
+        -0.53198534
+      ],
+      [
+        " Call",
+        -4.3202e-07
+      ],
+      [
+        "ow",
+        0.0
+      ],
+      [
+        "ay",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's early recordings, which is named after a slang term for marijuana popular among jazz musicians, was \"Muggles.\" In honor of the Karnofsky family, who gave him money that allowed him": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.00022010603
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's early recordings, which is named after a slang term for marijuana popular among jazz musicians, was \"Muggles.\" In honor of the Karnofsky family, who gave him money that allowed him to buy his first instrument, he always wore a Star of David. Ensembles led by this man include his": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.0032454433
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's early recordings, which is named after a slang term for marijuana popular among jazz musicians, was \"Muggles.\" In honor of the Karnofsky family, who gave him money that allowed him to buy his first instrument, he always wore a Star of David. Ensembles led by this man include his All Stars, his Hot Seven, and his Hot Five, and he collaborated on the single \"Weatherbird\" with pianist": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.0034300773
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's early recordings, which is named after a slang term for marijuana popular among jazz musicians, was \"Muggles.\" In honor of the Karnofsky family, who gave him money that allowed him to buy his first instrument, he always wore a Star of David. Ensembles led by this man include his All Stars, his Hot Seven, and his Hot Five, and he collaborated on the single \"Weatherbird\" with pianist Earl Hines. An apocryphal story claims that he dropped the lyric sheet while recording his version": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.012905253
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's early recordings, which is named after a slang term for marijuana popular among jazz musicians, was \"Muggles.\" In honor of the Karnofsky family, who gave him money that allowed him to buy his first instrument, he always wore a Star of David. Ensembles led by this man include his All Stars, his Hot Seven, and his Hot Five, and he collaborated on the single \"Weatherbird\" with pianist Earl Hines. An apocryphal story claims that he dropped the lyric sheet while recording his version of \"Heebie Jeebies,\" so he invented scat singing. He made the first recording of a song whose": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.030273492
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's early recordings, which is named after a slang term for marijuana popular among jazz musicians, was \"Muggles.\" In honor of the Karnofsky family, who gave him money that allowed him to buy his first instrument, he always wore a Star of David. Ensembles led by this man include his All Stars, his Hot Seven, and his Hot Five, and he collaborated on the single \"Weatherbird\" with pianist Earl Hines. An apocryphal story claims that he dropped the lyric sheet while recording his version of \"Heebie Jeebies,\" so he invented scat singing. He made the first recording of a song whose singer reflects on \"the colors of the rainbow so pretty in the sky\" and \"trees of green, red roses too,\"": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.13849689
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "One of this musician's early recordings, which is named after a slang term for marijuana popular among jazz musicians, was \"Muggles.\" In honor of the Karnofsky family, who gave him money that allowed him to buy his first instrument, he always wore a Star of David. Ensembles led by this man include his All Stars, his Hot Seven, and his Hot Five, and he collaborated on the single \"Weatherbird\" with pianist Earl Hines. An apocryphal story claims that he dropped the lyric sheet while recording his version of \"Heebie Jeebies,\" so he invented scat singing. He made the first recording of a song whose singer reflects on \"the colors of the rainbow so pretty in the sky\" and \"trees of green, red roses too,\" \"What a Wonderful World.\" For 10 points, name this jazz trumpeter and singer nicknamed \"Satchmo.\"": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.030035911
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musical piece's third act bizarrely depicts \"the feast of lights.\" Beethoven composed 12 variations": {
+    "guess": "Judas Maccabeus",
+    "confidence": [
+      [
+        "J",
+        -0.01827578
+      ],
+      [
+        "udas",
+        -3.1281633e-07
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "acc",
+        0.0
+      ],
+      [
+        "abe",
+        -0.0002036596
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This musical piece's third act bizarrely depicts \"the feast of lights.\" Beethoven composed 12 variations on one song in this musical work for cello and piano. The libretto for this piece, which was written": {
+    "guess": "Judas Maccabeus",
+    "confidence": [
+      [
+        "J",
+        -0.048772562
+      ],
+      [
+        "udas",
+        -3.1281633e-07
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "acc",
+        0.0
+      ],
+      [
+        "abe",
+        -0.0052341213
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This musical piece's third act bizarrely depicts \"the feast of lights.\" Beethoven composed 12 variations on one song in this musical work for cello and piano. The libretto for this piece, which was written by Thomas Morell, includes \"Sound the Alarm\" and \"We Will Never Bow Down.\" It ends with a chorus": {
+    "guess": "Judas Maccabeus",
+    "confidence": [
+      [
+        "J",
+        -0.0012639251
+      ],
+      [
+        "udas",
+        -2.1008714e-06
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "acc",
+        0.0
+      ],
+      [
+        "abe",
+        -0.16022514
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This musical piece's third act bizarrely depicts \"the feast of lights.\" Beethoven composed 12 variations on one song in this musical work for cello and piano. The libretto for this piece, which was written by Thomas Morell, includes \"Sound the Alarm\" and \"We Will Never Bow Down.\" It ends with a chorus singing the words \"Amen\" and \"Hallelujah.\" Characters depicted in this work include the Seleucid commander": {
+    "guess": "Judas Maccabeus",
+    "confidence": [
+      [
+        "J",
+        -0.0012590414
+      ],
+      [
+        "udas",
+        -1.8624639e-06
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "acc",
+        0.0
+      ],
+      [
+        "abe",
+        -0.16022433
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This musical piece's third act bizarrely depicts \"the feast of lights.\" Beethoven composed 12 variations on one song in this musical work for cello and piano. The libretto for this piece, which was written by Thomas Morell, includes \"Sound the Alarm\" and \"We Will Never Bow Down.\" It ends with a chorus singing the words \"Amen\" and \"Hallelujah.\" Characters depicted in this work include the Seleucid commander Gorgias. It was composed after the Duke of Cumberland returned victorious from the Battle of": {
+    "guess": "Judas Maccabeus",
+    "confidence": [
+      [
+        "J",
+        -0.0041941484
+      ],
+      [
+        "udas",
+        -9.0883464e-07
+      ],
+      [
+        " M",
+        -1.9361265e-07
+      ],
+      [
+        "acc",
+        0.0
+      ],
+      [
+        "abe",
+        -0.018150061
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This musical piece's third act bizarrely depicts \"the feast of lights.\" Beethoven composed 12 variations on one song in this musical work for cello and piano. The libretto for this piece, which was written by Thomas Morell, includes \"Sound the Alarm\" and \"We Will Never Bow Down.\" It ends with a chorus singing the words \"Amen\" and \"Hallelujah.\" Characters depicted in this work include the Seleucid commander Gorgias. It was composed after the Duke of Cumberland returned victorious from the Battle of Culloden. This oratorio's \"See the Conqu'ring Hero Come\" inspired variations by Beethoven and was": {
+    "guess": "Judas Maccabeus",
+    "confidence": [
+      [
+        "J",
+        -0.0010153028
+      ],
+      [
+        "udas",
+        -2.9352968e-06
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "acc",
+        0.0
+      ],
+      [
+        "abe",
+        -0.014163864
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This musical piece's third act bizarrely depicts \"the feast of lights.\" Beethoven composed 12 variations on one song in this musical work for cello and piano. The libretto for this piece, which was written by Thomas Morell, includes \"Sound the Alarm\" and \"We Will Never Bow Down.\" It ends with a chorus singing the words \"Amen\" and \"Hallelujah.\" Characters depicted in this work include the Seleucid commander Gorgias. It was composed after the Duke of Cumberland returned victorious from the Battle of Culloden. This oratorio's \"See the Conqu'ring Hero Come\" inspired variations by Beethoven and was the basis for Edmond Budry's hymn \"Thine be the Glory.\" For 10 points, name this religious work by Handel": {
+    "guess": "Judas Maccabeus",
+    "confidence": [
+      [
+        "J",
+        -0.00016480287
+      ],
+      [
+        "udas",
+        -1.0280384e-06
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "acc",
+        0.0
+      ],
+      [
+        "abe",
+        -0.014163747
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This musical piece's third act bizarrely depicts \"the feast of lights.\" Beethoven composed 12 variations on one song in this musical work for cello and piano. The libretto for this piece, which was written by Thomas Morell, includes \"Sound the Alarm\" and \"We Will Never Bow Down.\" It ends with a chorus singing the words \"Amen\" and \"Hallelujah.\" Characters depicted in this work include the Seleucid commander Gorgias. It was composed after the Duke of Cumberland returned victorious from the Battle of Culloden. This oratorio's \"See the Conqu'ring Hero Come\" inspired variations by Beethoven and was the basis for Edmond Budry's hymn \"Thine be the Glory.\" For 10 points, name this religious work by Handel about a Jewish hero.": {
+    "guess": "Judas Maccabeus",
+    "confidence": [
+      [
+        "J",
+        -8.542423e-05
+      ],
+      [
+        "udas",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "acc",
+        0.0
+      ],
+      [
+        "abe",
+        -0.0024756587
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "A mutation in one component of this structure results in Shwachman-Bodian-Diamond Syndrome, a major cause": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -0.008069099
+      ],
+      [
+        "ib",
+        0.0
+      ],
+      [
+        "osome",
+        0.0
+      ]
+    ]
+  },
+  "A mutation in one component of this structure results in Shwachman-Bodian-Diamond Syndrome, a major cause of exocrine pancreatic insufficiency in children. An important molecule that interacts with this": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.22985214
+      ]
+    ]
+  },
+  "A mutation in one component of this structure results in Shwachman-Bodian-Diamond Syndrome, a major cause of exocrine pancreatic insufficiency in children. An important molecule that interacts with this structure is mimicked by this structure's namesake \"recycling factor.\" This structure recognizes either": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -0.16332087
+      ],
+      [
+        "ib",
+        -1.504853e-06
+      ],
+      [
+        "osome",
+        -2.8802491e-05
+      ]
+    ]
+  },
+  "A mutation in one component of this structure results in Shwachman-Bodian-Diamond Syndrome, a major cause of exocrine pancreatic insufficiency in children. An important molecule that interacts with this structure is mimicked by this structure's namesake \"recycling factor.\" This structure recognizes either the Kozak or (*) Shine-Dalgarno sequences. Different parts of this structure are named for their": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -0.0076392787
+      ],
+      [
+        "ib",
+        0.0
+      ],
+      [
+        "osome",
+        -0.00012344286
+      ]
+    ]
+  },
+  "A mutation in one component of this structure results in Shwachman-Bodian-Diamond Syndrome, a major cause of exocrine pancreatic insufficiency in children. An important molecule that interacts with this structure is mimicked by this structure's namesake \"recycling factor.\" This structure recognizes either the Kozak or (*) Shine-Dalgarno sequences. Different parts of this structure are named for their rates of sedimentation, measured in Svedberg units. This organelle contains the A, P, and E binding": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -0.0011766551
+      ],
+      [
+        "ib",
+        0.0
+      ],
+      [
+        "osome",
+        0.0
+      ]
+    ]
+  },
+  "A mutation in one component of this structure results in Shwachman-Bodian-Diamond Syndrome, a major cause of exocrine pancreatic insufficiency in children. An important molecule that interacts with this structure is mimicked by this structure's namesake \"recycling factor.\" This structure recognizes either the Kozak or (*) Shine-Dalgarno sequences. Different parts of this structure are named for their rates of sedimentation, measured in Svedberg units. This organelle contains the A, P, and E binding sites and is synthesized in the nucleolus. Found in the rough endoplasmic reticulum and cytoplasm,": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -0.0011745095
+      ],
+      [
+        "ib",
+        0.0
+      ],
+      [
+        "osome",
+        0.0
+      ]
+    ]
+  },
+  "A mutation in one component of this structure results in Shwachman-Bodian-Diamond Syndrome, a major cause of exocrine pancreatic insufficiency in children. An important molecule that interacts with this structure is mimicked by this structure's namesake \"recycling factor.\" This structure recognizes either the Kozak or (*) Shine-Dalgarno sequences. Different parts of this structure are named for their rates of sedimentation, measured in Svedberg units. This organelle contains the A, P, and E binding sites and is synthesized in the nucleolus. Found in the rough endoplasmic reticulum and cytoplasm, this organelle starts at methionine and stops at a stop codon. For 10 points, name this organelle": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -9.253091e-06
+      ],
+      [
+        "ib",
+        0.0
+      ],
+      [
+        "osome",
+        0.0
+      ]
+    ]
+  },
+  "A mutation in one component of this structure results in Shwachman-Bodian-Diamond Syndrome, a major cause of exocrine pancreatic insufficiency in children. An important molecule that interacts with this structure is mimicked by this structure's namesake \"recycling factor.\" This structure recognizes either the Kozak or (*) Shine-Dalgarno sequences. Different parts of this structure are named for their rates of sedimentation, measured in Svedberg units. This organelle contains the A, P, and E binding sites and is synthesized in the nucleolus. Found in the rough endoplasmic reticulum and cytoplasm, this organelle starts at methionine and stops at a stop codon. For 10 points, name this organelle which interacts with tRNA during translation.": {
+    "guess": "Ribosome",
+    "confidence": [
+      [
+        "R",
+        -8.89548e-06
+      ],
+      [
+        "ib",
+        0.0
+      ],
+      [
+        "osome",
+        0.0
+      ]
+    ]
+  },
+  "This musician added the lyrics, \"Oh, memory,\" to his version of Carmichael's song, \"Stardust,\" and worked": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.39661616
+      ],
+      [
+        ".",
+        -0.57594776
+      ]
+    ]
+  },
+  "This musician added the lyrics, \"Oh, memory,\" to his version of Carmichael's song, \"Stardust,\" and worked with pianist Earl Hines for the Weatherbird duet. He worked for Okeh Records with his Hot Seven": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.03451016
+      ],
+      [
+        " Armstrong",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This musician added the lyrics, \"Oh, memory,\" to his version of Carmichael's song, \"Stardust,\" and worked with pianist Earl Hines for the Weatherbird duet. He worked for Okeh Records with his Hot Seven group to produce \"Potato Head Blues\" and is regarded as one of the first (*) scat singers after the": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.00922838
+      ],
+      [
+        " Armstrong",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This musician added the lyrics, \"Oh, memory,\" to his version of Carmichael's song, \"Stardust,\" and worked with pianist Earl Hines for the Weatherbird duet. He worked for Okeh Records with his Hot Seven group to produce \"Potato Head Blues\" and is regarded as one of the first (*) scat singers after the release of \"Heebie Jeebies.\" In his most famous composition, he sings that he \"hear[s] babies cry\"": {
+    "guess": "What a Wonderful World",
+    "confidence": [
+      [
+        "What",
+        -0.064610824
+      ],
+      [
+        " a",
+        -1.9361265e-07
+      ],
+      [
+        " Wonderful",
+        0.0
+      ],
+      [
+        " World",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This musician added the lyrics, \"Oh, memory,\" to his version of Carmichael's song, \"Stardust,\" and worked with pianist Earl Hines for the Weatherbird duet. He worked for Okeh Records with his Hot Seven group to produce \"Potato Head Blues\" and is regarded as one of the first (*) scat singers after the release of \"Heebie Jeebies.\" In his most famous composition, he sings that he \"hear[s] babies cry\" and sees \"trees of green, red roses too.\" For ten points, identify this African American jazz musician": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.15209465
+      ],
+      [
+        " Armstrong",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This musician added the lyrics, \"Oh, memory,\" to his version of Carmichael's song, \"Stardust,\" and worked with pianist Earl Hines for the Weatherbird duet. He worked for Okeh Records with his Hot Seven group to produce \"Potato Head Blues\" and is regarded as one of the first (*) scat singers after the release of \"Heebie Jeebies.\" In his most famous composition, he sings that he \"hear[s] babies cry\" and sees \"trees of green, red roses too.\" For ten points, identify this African American jazz musician who was nicknamed \"Satchmo\" and sang \"What a Wonderful World.\"": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.026327236
+      ],
+      [
+        " Armstrong",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One musical composition of this kind presented an A, B-flat, A motif in its seventh movement, which ends": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.3147229
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "iem",
+        0.0
+      ]
+    ]
+  },
+  "One musical composition of this kind presented an A, B-flat, A motif in its seventh movement, which ends with the \"Hostias.\" In addition to that one by Hector Berlioz, another composition of this type": {
+    "guess": "Requiem (Berlioz)",
+    "confidence": [
+      [
+        "Re",
+        -1.0161184
+      ],
+      [
+        "qu",
+        -7.89631e-07
+      ],
+      [
+        "iem",
+        -1.147242e-06
+      ],
+      [
+        " (",
+        -0.13288476
+      ],
+      [
+        "B",
+        -0.043895867
+      ],
+      [
+        "erl",
+        -7.89631e-07
+      ],
+      [
+        "io",
+        0.0
+      ],
+      [
+        "z",
+        0.0
+      ],
+      [
+        ")",
+        -0.0007017072
+      ]
+    ]
+  },
+  "One musical composition of this kind presented an A, B-flat, A motif in its seventh movement, which ends with the \"Hostias.\" In addition to that one by Hector Berlioz, another composition of this type by Gabriel Faure has a solo soprano in its fourth movement. One written by another composer honored": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.629149
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "iem",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One musical composition of this kind presented an A, B-flat, A motif in its seventh movement, which ends with the \"Hostias.\" In addition to that one by Hector Berlioz, another composition of this type by Gabriel Faure has a solo soprano in its fourth movement. One written by another composer honored Alessandro Manzoni and ends with a (*) \"Libera me\" segment. Franz Sussmayr completed a D-minor composition": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.0010858054
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "iem",
+        0.0
+      ]
+    ]
+  },
+  "One musical composition of this kind presented an A, B-flat, A motif in its seventh movement, which ends with the \"Hostias.\" In addition to that one by Hector Berlioz, another composition of this type by Gabriel Faure has a solo soprano in its fourth movement. One written by another composer honored Alessandro Manzoni and ends with a (*) \"Libera me\" segment. Franz Sussmayr completed a D-minor composition of this kind, which commonly includes sections like \"Pie Jesu,\" \"Kyrie,\" and \"Dies Irae.\" For": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.018362394
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "iem",
+        0.0
+      ]
+    ]
+  },
+  "One musical composition of this kind presented an A, B-flat, A motif in its seventh movement, which ends with the \"Hostias.\" In addition to that one by Hector Berlioz, another composition of this type by Gabriel Faure has a solo soprano in its fourth movement. One written by another composer honored Alessandro Manzoni and ends with a (*) \"Libera me\" segment. Franz Sussmayr completed a D-minor composition of this kind, which commonly includes sections like \"Pie Jesu,\" \"Kyrie,\" and \"Dies Irae.\" For ten points, identify this \"mass for the dead,\" an unfinished one of which was written by Mozart.": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.0059747775
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "iem",
+        0.0
+      ]
+    ]
+  },
+  "This musical term first appeared frequently in lute tablature books in the 16th century for works conceived": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.624367
+      ]
+    ]
+  },
+  "This musical term first appeared frequently in lute tablature books in the 16th century for works conceived originally for the lute. Froberger wrote polyphonic ones, Zemlinsky's The Mermaid is one for": {
+    "guess": "Fantasia",
+    "confidence": [
+      [
+        "Fant",
+        -0.97925884
+      ],
+      [
+        "asia",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "This musical term first appeared frequently in lute tablature books in the 16th century for works conceived originally for the lute. Froberger wrote polyphonic ones, Zemlinsky's The Mermaid is one for orchestra, and Erik Satie wrote a \"serious\" one for orchestra called La Belle Excentrique. In the 19th": {
+    "guess": "Suite",
+    "confidence": [
+      [
+        "Suite",
+        -0.05408913
+      ]
+    ]
+  },
+  "This musical term first appeared frequently in lute tablature books in the 16th century for works conceived originally for the lute. Froberger wrote polyphonic ones, Zemlinsky's The Mermaid is one for orchestra, and Erik Satie wrote a \"serious\" one for orchestra called La Belle Excentrique. In the 19th century, it came to refer to a potpourri of themes from operas, but Henry Wood composed one based": {
+    "guess": "Suite",
+    "confidence": [
+      [
+        "Suite",
+        -0.14128669
+      ]
+    ]
+  },
+  "This musical term first appeared frequently in lute tablature books in the 16th century for works conceived originally for the lute. Froberger wrote polyphonic ones, Zemlinsky's The Mermaid is one for orchestra, and Erik Satie wrote a \"serious\" one for orchestra called La Belle Excentrique. In the 19th century, it came to refer to a potpourri of themes from operas, but Henry Wood composed one based on British Sea Songs for the 1905 centenary celebration of Trafalgar, and Busoni later used the name": {
+    "guess": "Fantasia",
+    "confidence": [
+      [
+        "Fant",
+        -0.49270573
+      ],
+      [
+        "asia",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "This musical term first appeared frequently in lute tablature books in the 16th century for works conceived originally for the lute. Froberger wrote polyphonic ones, Zemlinsky's The Mermaid is one for orchestra, and Erik Satie wrote a \"serious\" one for orchestra called La Belle Excentrique. In the 19th century, it came to refer to a potpourri of themes from operas, but Henry Wood composed one based on British Sea Songs for the 1905 centenary celebration of Trafalgar, and Busoni later used the name in a long piano work based on the final incomplete fugue from Bach's Art of the Fugue. Often given": {
+    "guess": "Fantasia",
+    "confidence": [
+      [
+        "Fant",
+        -0.3053636
+      ],
+      [
+        "asia",
+        -2.4391957e-05
+      ]
+    ]
+  },
+  "This musical term first appeared frequently in lute tablature books in the 16th century for works conceived originally for the lute. Froberger wrote polyphonic ones, Zemlinsky's The Mermaid is one for orchestra, and Erik Satie wrote a \"serious\" one for orchestra called La Belle Excentrique. In the 19th century, it came to refer to a potpourri of themes from operas, but Henry Wood composed one based on British Sea Songs for the 1905 centenary celebration of Trafalgar, and Busoni later used the name in a long piano work based on the final incomplete fugue from Bach's Art of the Fugue. Often given to musical pieces of no fixed form, FTP, name this type of composition one which was written on a theme": {
+    "guess": "Fantasia",
+    "confidence": [
+      [
+        "Fant",
+        -0.21769819
+      ],
+      [
+        "asia",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "This musical term first appeared frequently in lute tablature books in the 16th century for works conceived originally for the lute. Froberger wrote polyphonic ones, Zemlinsky's The Mermaid is one for orchestra, and Erik Satie wrote a \"serious\" one for orchestra called La Belle Excentrique. In the 19th century, it came to refer to a potpourri of themes from operas, but Henry Wood composed one based on British Sea Songs for the 1905 centenary celebration of Trafalgar, and Busoni later used the name in a long piano work based on the final incomplete fugue from Bach's Art of the Fugue. Often given to musical pieces of no fixed form, FTP, name this type of composition one which was written on a theme of Thomas Tallis by Ralph Vaughan Williams.": {
+    "guess": "Fantasia",
+    "confidence": [
+      [
+        "Fant",
+        -0.05241563
+      ],
+      [
+        "asia",
+        0.0
+      ]
+    ]
+  },
+  "A mutation in the A form of this protein can cause Brunner syndrome, characterized by slight mental retardation": {
+    "guess": "Monoamine oxidase A",
+    "confidence": [
+      [
+        "Mono",
+        -0.43233186
+      ],
+      [
+        "amine",
+        -3.1281633e-07
+      ],
+      [
+        " oxid",
+        -0.00026824963
+      ],
+      [
+        "ase",
+        0.0
+      ],
+      [
+        " A",
+        -0.12904514
+      ]
+    ]
+  },
+  "A mutation in the A form of this protein can cause Brunner syndrome, characterized by slight mental retardation and aggressiveness, while a shorter variant of the A form gene found especially in Maori": {
+    "guess": "MAOA",
+    "confidence": [
+      [
+        "MA",
+        -0.22996326
+      ],
+      [
+        "OA",
+        -0.16022423
+      ]
+    ]
+  },
+  "A mutation in the A form of this protein can cause Brunner syndrome, characterized by slight mental retardation and aggressiveness, while a shorter variant of the A form gene found especially in Maori people has been dubbed the \"Warrior gene.\" The genes for the A and B forms are found next to each other": {
+    "guess": "Monoamine oxidase",
+    "confidence": [
+      [
+        "Mono",
+        -0.5771941
+      ],
+      [
+        "amine",
+        0.0
+      ],
+      [
+        " oxid",
+        -0.0009138476
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "A mutation in the A form of this protein can cause Brunner syndrome, characterized by slight mental retardation and aggressiveness, while a shorter variant of the A form gene found especially in Maori people has been dubbed the \"Warrior gene.\" The genes for the A and B forms are found next to each other on the X chromosome, and both use FAD as a co-factor, but differ in their affinities for the substances": {
+    "guess": "Monoamine oxidase",
+    "confidence": [
+      [
+        "Mono",
+        -0.122498564
+      ],
+      [
+        "amine",
+        0.0
+      ],
+      [
+        " oxid",
+        -0.00026217024
+      ],
+      [
+        "ase",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A mutation in the A form of this protein can cause Brunner syndrome, characterized by slight mental retardation and aggressiveness, while a shorter variant of the A form gene found especially in Maori people has been dubbed the \"Warrior gene.\" The genes for the A and B forms are found next to each other on the X chromosome, and both use FAD as a co-factor, but differ in their affinities for the substances on which they act. Substances that antagonize these enzymes, including clorgiline and moclobemide,": {
+    "guess": "Monoamine oxidase",
+    "confidence": [
+      [
+        "Mono",
+        -0.04606761
+      ],
+      [
+        "amine",
+        0.0
+      ],
+      [
+        " oxid",
+        -0.00020616286
+      ],
+      [
+        "ase",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A mutation in the A form of this protein can cause Brunner syndrome, characterized by slight mental retardation and aggressiveness, while a shorter variant of the A form gene found especially in Maori people has been dubbed the \"Warrior gene.\" The genes for the A and B forms are found next to each other on the X chromosome, and both use FAD as a co-factor, but differ in their affinities for the substances on which they act. Substances that antagonize these enzymes, including clorgiline and moclobemide, can lead to the so-called cheese syndrome, which is a hypertensive crisis caused by eating tyramine,": {
+    "guess": "Monoamine oxidase",
+    "confidence": [
+      [
+        "Mono",
+        -0.04928163
+      ],
+      [
+        "amine",
+        0.0
+      ],
+      [
+        " oxid",
+        -6.635165e-05
+      ],
+      [
+        "ase",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A mutation in the A form of this protein can cause Brunner syndrome, characterized by slight mental retardation and aggressiveness, while a shorter variant of the A form gene found especially in Maori people has been dubbed the \"Warrior gene.\" The genes for the A and B forms are found next to each other on the X chromosome, and both use FAD as a co-factor, but differ in their affinities for the substances on which they act. Substances that antagonize these enzymes, including clorgiline and moclobemide, can lead to the so-called cheese syndrome, which is a hypertensive crisis caused by eating tyramine, or to serotonin syndrome. FTP identify this enzyme that forms an aldehyde in place of the namesake": {
+    "guess": "Monoamine oxidase",
+    "confidence": [
+      [
+        "Mono",
+        -0.0069001936
+      ],
+      [
+        "amine",
+        0.0
+      ],
+      [
+        " oxid",
+        -0.00055315194
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "A mutation in the A form of this protein can cause Brunner syndrome, characterized by slight mental retardation and aggressiveness, while a shorter variant of the A form gene found especially in Maori people has been dubbed the \"Warrior gene.\" The genes for the A and B forms are found next to each other on the X chromosome, and both use FAD as a co-factor, but differ in their affinities for the substances on which they act. Substances that antagonize these enzymes, including clorgiline and moclobemide, can lead to the so-called cheese syndrome, which is a hypertensive crisis caused by eating tyramine, or to serotonin syndrome. FTP identify this enzyme that forms an aldehyde in place of the namesake lone NH2 group to deactivate several neurotransmitters, inhibitors of which can be used to treat": {
+    "guess": "Monoamine oxidase",
+    "confidence": [
+      [
+        "Mono",
+        -0.0012264199
+      ],
+      [
+        "amine",
+        0.0
+      ],
+      [
+        " oxid",
+        -0.00026133584
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "A mutation in the A form of this protein can cause Brunner syndrome, characterized by slight mental retardation and aggressiveness, while a shorter variant of the A form gene found especially in Maori people has been dubbed the \"Warrior gene.\" The genes for the A and B forms are found next to each other on the X chromosome, and both use FAD as a co-factor, but differ in their affinities for the substances on which they act. Substances that antagonize these enzymes, including clorgiline and moclobemide, can lead to the so-called cheese syndrome, which is a hypertensive crisis caused by eating tyramine, or to serotonin syndrome. FTP identify this enzyme that forms an aldehyde in place of the namesake lone NH2 group to deactivate several neurotransmitters, inhibitors of which can be used to treat depression and are contra-indicated for use with many other types of drugs.": {
+    "guess": "Monoamine oxidase",
+    "confidence": [
+      [
+        "Mono",
+        -0.00059806975
+      ],
+      [
+        "amine",
+        0.0
+      ],
+      [
+        " oxid",
+        -0.0002036596
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "A mutation of the FMR1 gene can result in Martin-Bell syndrome, also named for the \"fragile\" form of": {
+    "guess": "X chromosome",
+    "confidence": [
+      [
+        "X",
+        -0.015892535
+      ],
+      [
+        " chromosome",
+        -4.85903e-05
+      ]
+    ]
+  },
+  "A mutation of the FMR1 gene can result in Martin-Bell syndrome, also named for the \"fragile\" form of this structure. These are inactivated in females in a process called lyonization, resulting in the formation": {
+    "guess": "X chromosome",
+    "confidence": [
+      [
+        "X",
+        -0.079529986
+      ],
+      [
+        " chromosome",
+        -2.4630364e-05
+      ]
+    ]
+  },
+  "A mutation of the FMR1 gene can result in Martin-Bell syndrome, also named for the \"fragile\" form of this structure. These are inactivated in females in a process called lyonization, resulting in the formation of Barr bodies.  Klinefelter syndrome sees the presence of one or more extra copies of this": {
+    "guess": "X chromosome",
+    "confidence": [
+      [
+        "X",
+        -0.0059904167
+      ],
+      [
+        " chromosome",
+        -1.3306016e-05
+      ]
+    ]
+  },
+  "A mutation of the FMR1 gene can result in Martin-Bell syndrome, also named for the \"fragile\" form of this structure. These are inactivated in females in a process called lyonization, resulting in the formation of Barr bodies.  Klinefelter syndrome sees the presence of one or more extra copies of this chromosome in males, resulting in reduced levels of testosterone. Turner syndrome is a condition in": {
+    "guess": "X chromosome",
+    "confidence": [
+      [
+        "X",
+        -0.52779186
+      ],
+      [
+        " chromosome",
+        -1.0445127e-05
+      ]
+    ]
+  },
+  "A mutation of the FMR1 gene can result in Martin-Bell syndrome, also named for the \"fragile\" form of this structure. These are inactivated in females in a process called lyonization, resulting in the formation of Barr bodies.  Klinefelter syndrome sees the presence of one or more extra copies of this chromosome in males, resulting in reduced levels of testosterone. Turner syndrome is a condition in which females may only have one of these chromosomes. For 10 points, identify this sex chromosome that": {
+    "guess": "X chromosome",
+    "confidence": [
+      [
+        "X",
+        -0.025098113
+      ],
+      [
+        " chromosome",
+        -3.655073e-05
+      ]
+    ]
+  },
+  "A mutation of the FMR1 gene can result in Martin-Bell syndrome, also named for the \"fragile\" form of this structure. These are inactivated in females in a process called lyonization, resulting in the formation of Barr bodies.  Klinefelter syndrome sees the presence of one or more extra copies of this chromosome in males, resulting in reduced levels of testosterone. Turner syndrome is a condition in which females may only have one of these chromosomes. For 10 points, identify this sex chromosome that is present in both males and females.": {
+    "guess": "X chromosome",
+    "confidence": [
+      [
+        "X",
+        -0.012862294
+      ],
+      [
+        " chromosome",
+        -5.9080223e-05
+      ]
+    ]
+  },
+  "This musician got his start as a soloist in the touring bands of Jay McShann, Earl Hines, and Billy Eckstine,": {
+    "guess": "Charlie Parker",
+    "confidence": [
+      [
+        "Charlie",
+        -0.022012211
+      ],
+      [
+        " Parker",
+        0.0
+      ]
+    ]
+  },
+  "This musician got his start as a soloist in the touring bands of Jay McShann, Earl Hines, and Billy Eckstine, and later joined Dizzy Gillespie in creating the \"bebop\" style of jazz. From 1947 he fronted": {
+    "guess": "Charlie Parker",
+    "confidence": [
+      [
+        "Charlie",
+        -0.007860831
+      ],
+      [
+        " Parker",
+        0.0
+      ]
+    ]
+  },
+  "This musician got his start as a soloist in the touring bands of Jay McShann, Earl Hines, and Billy Eckstine, and later joined Dizzy Gillespie in creating the \"bebop\" style of jazz. From 1947 he fronted a series of small groups that featured sidemen like Max Roach and Miles Davis. He was known for his": {
+    "guess": "Charlie Parker",
+    "confidence": [
+      [
+        "Charlie",
+        -0.03564114
+      ],
+      [
+        " Parker",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This musician got his start as a soloist in the touring bands of Jay McShann, Earl Hines, and Billy Eckstine, and later joined Dizzy Gillespie in creating the \"bebop\" style of jazz. From 1947 he fronted a series of small groups that featured sidemen like Max Roach and Miles Davis. He was known for his endlessly evolving melodies and incorporation of quotations from unrelated songs, seen in recordings": {
+    "guess": "Charlie Parker",
+    "confidence": [
+      [
+        "Charlie",
+        -0.0019627707
+      ],
+      [
+        " Parker",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This musician got his start as a soloist in the touring bands of Jay McShann, Earl Hines, and Billy Eckstine, and later joined Dizzy Gillespie in creating the \"bebop\" style of jazz. From 1947 he fronted a series of small groups that featured sidemen like Max Roach and Miles Davis. He was known for his endlessly evolving melodies and incorporation of quotations from unrelated songs, seen in recordings like Yardbird Suite and Ornithology. FTP, who was this great alto saxophonist known for his drug": {
+    "guess": "Charlie Parker",
+    "confidence": [
+      [
+        "Charlie",
+        -0.03832203
+      ],
+      [
+        " Parker",
+        0.0
+      ]
+    ]
+  },
+  "This musician got his start as a soloist in the touring bands of Jay McShann, Earl Hines, and Billy Eckstine, and later joined Dizzy Gillespie in creating the \"bebop\" style of jazz. From 1947 he fronted a series of small groups that featured sidemen like Max Roach and Miles Davis. He was known for his endlessly evolving melodies and incorporation of quotations from unrelated songs, seen in recordings like Yardbird Suite and Ornithology. FTP, who was this great alto saxophonist known for his drug addiction and his nickname \"Bird\"?": {
+    "guess": "Charlie Parker",
+    "confidence": [
+      [
+        "Charlie",
+        -0.0010417404
+      ],
+      [
+        " Parker",
+        0.0
+      ]
+    ]
+  },
+  "This musical includes the songs \"Don't tell Mama,\" \"The Telephone Song,\" and \"Perfectly Marvellous\" after": {
+    "guess": "Cabaret (musical)",
+    "confidence": [
+      [
+        "Cab",
+        -3.9769227e-05
+      ],
+      [
+        "aret",
+        0.0
+      ],
+      [
+        " (",
+        -0.01819056
+      ],
+      [
+        "mus",
+        -3.166338e-05
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        ")",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "This musical includes the songs \"Don't tell Mama,\" \"The Telephone Song,\" and \"Perfectly Marvellous\" after we meet the Vivacious Sally Bowles, the leading Kit Kat Girl and the Kit Kat Klub. After the song": {
+    "guess": "Cabaret",
+    "confidence": [
+      [
+        "Cab",
+        -0.0003087679
+      ],
+      [
+        "aret",
+        0.0
+      ]
+    ]
+  },
+  "This musical includes the songs \"Don't tell Mama,\" \"The Telephone Song,\" and \"Perfectly Marvellous\" after we meet the Vivacious Sally Bowles, the leading Kit Kat Girl and the Kit Kat Klub. After the song \"Two Ladies,\" we meet Fraulein Schneider whose uncertain future with Herr Schultz forms the subplot": {
+    "guess": "Cabaret",
+    "confidence": [
+      [
+        "Cab",
+        -5.407367e-05
+      ],
+      [
+        "aret",
+        0.0
+      ]
+    ]
+  },
+  "This musical includes the songs \"Don't tell Mama,\" \"The Telephone Song,\" and \"Perfectly Marvellous\" after we meet the Vivacious Sally Bowles, the leading Kit Kat Girl and the Kit Kat Klub. After the song \"Two Ladies,\" we meet Fraulein Schneider whose uncertain future with Herr Schultz forms the subplot of this musical. Based on the diaries of Christopher Isherwood, this work features Fraulein Kost": {
+    "guess": "Cabaret",
+    "confidence": [
+      [
+        "Cab",
+        -0.0001724319
+      ],
+      [
+        "aret",
+        0.0
+      ]
+    ]
+  },
+  "This musical includes the songs \"Don't tell Mama,\" \"The Telephone Song,\" and \"Perfectly Marvellous\" after we meet the Vivacious Sally Bowles, the leading Kit Kat Girl and the Kit Kat Klub. After the song \"Two Ladies,\" we meet Fraulein Schneider whose uncertain future with Herr Schultz forms the subplot of this musical. Based on the diaries of Christopher Isherwood, this work features Fraulein Kost and Clifford Bradshaw. For 10 points, name this musical by John Kander, set in pre-World War II Berlin": {
+    "guess": "Cabaret",
+    "confidence": [
+      [
+        "Cab",
+        -5.705376e-05
+      ],
+      [
+        "aret",
+        0.0
+      ]
+    ]
+  },
+  "This musical includes the songs \"Don't tell Mama,\" \"The Telephone Song,\" and \"Perfectly Marvellous\" after we meet the Vivacious Sally Bowles, the leading Kit Kat Girl and the Kit Kat Klub. After the song \"Two Ladies,\" we meet Fraulein Schneider whose uncertain future with Herr Schultz forms the subplot of this musical. Based on the diaries of Christopher Isherwood, this work features Fraulein Kost and Clifford Bradshaw. For 10 points, name this musical by John Kander, set in pre-World War II Berlin and based on I am a Camera.": {
+    "guess": "Cabaret",
+    "confidence": [
+      [
+        "Cab",
+        -2.7610455e-05
+      ],
+      [
+        "aret",
+        0.0
+      ]
+    ]
+  },
+  "Mutations in the sixth type of this molecule causes Bethlem myopathy and Ullrich myopathy. Mutations": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.00019519613
+      ],
+      [
+        "agen",
+        0.0
+      ]
+    ]
+  },
+  "Mutations in the sixth type of this molecule causes Bethlem myopathy and Ullrich myopathy. Mutations in another version of this molecule causes Ehlers- Danlos syndrome, while another mutation in this molecule": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -7.226629e-06
+      ],
+      [
+        "agen",
+        0.0
+      ]
+    ]
+  },
+  "Mutations in the sixth type of this molecule causes Bethlem myopathy and Ullrich myopathy. Mutations in another version of this molecule causes Ehlers- Danlos syndrome, while another mutation in this molecule causes Alports's syndrome.  This molecule is stained by Masson's Trichrome, and it is modified": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.0007063562
+      ],
+      [
+        "agen",
+        0.0
+      ]
+    ]
+  },
+  "Mutations in the sixth type of this molecule causes Bethlem myopathy and Ullrich myopathy. Mutations in another version of this molecule causes Ehlers- Danlos syndrome, while another mutation in this molecule causes Alports's syndrome.  This molecule is stained by Masson's Trichrome, and it is modified by prolyl hydroxylase in the ER during synthesis, which requires vitamin C as a cofactor.  Every": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.00024382756
+      ],
+      [
+        "agen",
+        0.0
+      ]
+    ]
+  },
+  "Mutations in the sixth type of this molecule causes Bethlem myopathy and Ullrich myopathy. Mutations in another version of this molecule causes Ehlers- Danlos syndrome, while another mutation in this molecule causes Alports's syndrome.  This molecule is stained by Masson's Trichrome, and it is modified by prolyl hydroxylase in the ER during synthesis, which requires vitamin C as a cofactor.  Every third residue in this protein is glycine, which allows it to stabilize into a characteristic triple": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.00043364934
+      ],
+      [
+        "agen",
+        0.0
+      ]
+    ]
+  },
+  "Mutations in the sixth type of this molecule causes Bethlem myopathy and Ullrich myopathy. Mutations in another version of this molecule causes Ehlers- Danlos syndrome, while another mutation in this molecule causes Alports's syndrome.  This molecule is stained by Masson's Trichrome, and it is modified by prolyl hydroxylase in the ER during synthesis, which requires vitamin C as a cofactor.  Every third residue in this protein is glycine, which allows it to stabilize into a characteristic triple helix.  FTP, name this fibrous connective tissue protein found in tendons, bones, teeth, and skin, the": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -0.0013796407
+      ],
+      [
+        "agen",
+        0.0
+      ]
+    ]
+  },
+  "Mutations in the sixth type of this molecule causes Bethlem myopathy and Ullrich myopathy. Mutations in another version of this molecule causes Ehlers- Danlos syndrome, while another mutation in this molecule causes Alports's syndrome.  This molecule is stained by Masson's Trichrome, and it is modified by prolyl hydroxylase in the ER during synthesis, which requires vitamin C as a cofactor.  Every third residue in this protein is glycine, which allows it to stabilize into a characteristic triple helix.  FTP, name this fibrous connective tissue protein found in tendons, bones, teeth, and skin, the most abundant protein in mammals.": {
+    "guess": "Collagen",
+    "confidence": [
+      [
+        "Coll",
+        -9.253091e-06
+      ],
+      [
+        "agen",
+        0.0
+      ]
+    ]
+  },
+  "In muscles, calcium is stored in this organelle, and in the adrenal cortex this organelle synthesizes": {
+    "guess": "Smooth Endoplasmic Reticulum",
+    "confidence": [
+      [
+        "Smooth",
+        -0.31010538
+      ],
+      [
+        " End",
+        -0.59751683
+      ],
+      [
+        "oplas",
+        -1.8624639e-06
+      ],
+      [
+        "mic",
+        -2.577686e-06
+      ],
+      [
+        " Ret",
+        -1.9361265e-07
+      ],
+      [
+        "iculum",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "In muscles, calcium is stored in this organelle, and in the adrenal cortex this organelle synthesizes steroids. ERAD is a process in which misfolded proteins are degraded in these structures, where they": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.0029106697
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -0.11161982
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "In muscles, calcium is stored in this organelle, and in the adrenal cortex this organelle synthesizes steroids. ERAD is a process in which misfolded proteins are degraded in these structures, where they are usually folded with the help of chaperones.  One type of this organelle forms transport vescicles": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.11011427
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -0.00020842774
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "In muscles, calcium is stored in this organelle, and in the adrenal cortex this organelle synthesizes steroids. ERAD is a process in which misfolded proteins are degraded in these structures, where they are usually folded with the help of chaperones.  One type of this organelle forms transport vescicles to the (*) golgi apparatus and is prominant in hepatocytes, while the site of mRNA translation,": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.0035679925
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -2.1769476e-05
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "In muscles, calcium is stored in this organelle, and in the adrenal cortex this organelle synthesizes steroids. ERAD is a process in which misfolded proteins are degraded in these structures, where they are usually folded with the help of chaperones.  One type of this organelle forms transport vescicles to the (*) golgi apparatus and is prominant in hepatocytes, while the site of mRNA translation, ribosomes, occur in another.  For 10 points, name this system of membrane enclosed tubes and sacs that": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.0002258278
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -3.297462e-05
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "In muscles, calcium is stored in this organelle, and in the adrenal cortex this organelle synthesizes steroids. ERAD is a process in which misfolded proteins are degraded in these structures, where they are usually folded with the help of chaperones.  One type of this organelle forms transport vescicles to the (*) golgi apparatus and is prominant in hepatocytes, while the site of mRNA translation, ribosomes, occur in another.  For 10 points, name this system of membrane enclosed tubes and sacs that synthesizes proteins and lipids and comes in smooth and rough varieties.": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.00019901065
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -8.959636e-05
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "In the music video for this song the artists are occasionally featured as wooden bobble-head puppets": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.6691928
+      ]
+    ]
+  },
+  "In the music video for this song the artists are occasionally featured as wooden bobble-head puppets singing and playing instruments. One of the guest artists on this song claims that she's \"Flying first": {
+    "guess": "\"Feel Good Inc.\"",
+    "confidence": [
+      [
+        "\"",
+        -0.96546686
+      ],
+      [
+        "Feel",
+        -1.1730994
+      ],
+      [
+        " Good",
+        -0.05802553
+      ],
+      [
+        " Inc",
+        -6.704273e-07
+      ],
+      [
+        ".\"",
+        -0.0008321399
+      ]
+    ]
+  },
+  "In the music video for this song the artists are occasionally featured as wooden bobble-head puppets singing and playing instruments. One of the guest artists on this song claims that she's \"Flying first class from New York to\" the band's namesake locale, while another giving honeys \"eargasms\" with his": {
+    "guess": "Feel Good Inc.",
+    "confidence": [
+      [
+        "Feel",
+        -0.22403419
+      ],
+      [
+        " Good",
+        -0.0045536617
+      ],
+      [
+        " Inc",
+        -7.58424e-06
+      ],
+      [
+        ".",
+        -0.00045557914
+      ]
+    ]
+  },
+  "In the music video for this song the artists are occasionally featured as wooden bobble-head puppets singing and playing instruments. One of the guest artists on this song claims that she's \"Flying first class from New York to\" the band's namesake locale, while another giving honeys \"eargasms\" with his mellow accent. The primary singer tells us that \"Curve's the words, spin's the verbs,\" hoping that": {
+    "guess": "Where's the Love?",
+    "confidence": [
+      [
+        "Where",
+        -1.4042772
+      ],
+      [
+        "'s",
+        -0.13167162
+      ],
+      [
+        " the",
+        -0.00020842774
+      ],
+      [
+        " Love",
+        -5.7961847e-06
+      ],
+      [
+        "?",
+        -0.58702934
+      ]
+    ]
+  },
+  "In the music video for this song the artists are occasionally featured as wooden bobble-head puppets singing and playing instruments. One of the guest artists on this song claims that she's \"Flying first class from New York to\" the band's namesake locale, while another giving honeys \"eargasms\" with his mellow accent. The primary singer tells us that \"Curve's the words, spin's the verbs,\" hoping that \"maybe in time, baby, I can get you in my ride.\" He tells \"baby\" that \"you gotta pay to play,\" and": {
+    "guess": "Virtual Insanity",
+    "confidence": [
+      [
+        "Virtual",
+        -0.9904598
+      ],
+      [
+        " Ins",
+        -5.5577775e-06
+      ],
+      [
+        "anity",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In the music video for this song the artists are occasionally featured as wooden bobble-head puppets singing and playing instruments. One of the guest artists on this song claims that she's \"Flying first class from New York to\" the band's namesake locale, while another giving honeys \"eargasms\" with his mellow accent. The primary singer tells us that \"Curve's the words, spin's the verbs,\" hoping that \"maybe in time, baby, I can get you in my ride.\" He tells \"baby\" that \"you gotta pay to play,\" and that \"I like the way you work it.\" FTP name this song featuring Queen Pen, Dr. Dre, and a verse in": {
+    "guess": "No Diggity",
+    "confidence": [
+      [
+        "No",
+        -0.03958635
+      ],
+      [
+        " Dig",
+        -1.147242e-06
+      ],
+      [
+        "g",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "In the music video for this song the artists are occasionally featured as wooden bobble-head puppets singing and playing instruments. One of the guest artists on this song claims that she's \"Flying first class from New York to\" the band's namesake locale, while another giving honeys \"eargasms\" with his mellow accent. The primary singer tells us that \"Curve's the words, spin's the verbs,\" hoping that \"maybe in time, baby, I can get you in my ride.\" He tells \"baby\" that \"you gotta pay to play,\" and that \"I like the way you work it.\" FTP name this song featuring Queen Pen, Dr. Dre, and a verse in which the phrase \"hey yo\" is repeated 17 times, the best-known song by Blackstreet.": {
+    "guess": "No Diggity",
+    "confidence": [
+      [
+        "No",
+        -0.0002419203
+      ],
+      [
+        " Dig",
+        -5.5122365e-07
+      ],
+      [
+        "g",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "In the music video to this song, one speaker raps from a couch in front of an impressionist painting": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.30085924
+      ]
+    ]
+  },
+  "In the music video to this song, one speaker raps from a couch in front of an impressionist painting of a naked woman with a wine bottle covering her head, while another speaker wears a white dress with": {
+    "guess": "Thrift Shop",
+    "confidence": [
+      [
+        "Th",
+        -0.7201721
+      ],
+      [
+        "rift",
+        -0.119404085
+      ],
+      [
+        " Shop",
+        -6.6306106e-06
+      ]
+    ]
+  },
+  "In the music video to this song, one speaker raps from a couch in front of an impressionist painting of a naked woman with a wine bottle covering her head, while another speaker wears a white dress with a woman's head on it. Lyrics sung by the main speaker include \"watch me, I'm intoxicated,\" \"watch": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7158354
+      ]
+    ]
+  },
+  "In the music video to this song, one speaker raps from a couch in front of an impressionist painting of a naked woman with a wine bottle covering her head, while another speaker wears a white dress with a woman's head on it. Lyrics sung by the main speaker include \"watch me, I'm intoxicated,\" \"watch me getting physical and out of control\", and \"I like to move it / come and give me some more.\" That": {
+    "guess": "I Gotta Feeling",
+    "confidence": [
+      [
+        "I",
+        -1.055616
+      ],
+      [
+        " G",
+        -0.006772688
+      ],
+      [
+        "otta",
+        -5.5122365e-07
+      ],
+      [
+        " Feeling",
+        -0.00012618455
+      ]
+    ]
+  },
+  "In the music video to this song, one speaker raps from a couch in front of an impressionist painting of a naked woman with a wine bottle covering her head, while another speaker wears a white dress with a woman's head on it. Lyrics sung by the main speaker include \"watch me, I'm intoxicated,\" \"watch me getting physical and out of control\", and \"I like to move it / come and give me some more.\" That singer, whose temperature is rising and about to explode, exhorts the listener to steal the night, kill": {
+    "guess": "The Black Eyed Peas",
+    "confidence": [
+      [
+        "The",
+        -1.3888494
+      ],
+      [
+        " Black",
+        -0.21650808
+      ],
+      [
+        " Ey",
+        -1.4259645e-05
+      ],
+      [
+        "ed",
+        0.0
+      ],
+      [
+        " Pe",
+        -1.9361265e-07
+      ],
+      [
+        "as",
+        0.0
+      ]
+    ]
+  },
+  "In the music video to this song, one speaker raps from a couch in front of an impressionist painting of a naked woman with a wine bottle covering her head, while another speaker wears a white dress with a woman's head on it. Lyrics sung by the main speaker include \"watch me, I'm intoxicated,\" \"watch me getting physical and out of control\", and \"I like to move it / come and give me some more.\" That singer, whose temperature is rising and about to explode, exhorts the listener to steal the night, kill the lights, and feel it under your skin. She's also infected by the sound and being killed by the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8527007
+      ]
+    ]
+  },
+  "In the music video to this song, one speaker raps from a couch in front of an impressionist painting of a naked woman with a wine bottle covering her head, while another speaker wears a white dress with a woman's head on it. Lyrics sung by the main speaker include \"watch me, I'm intoxicated,\" \"watch me getting physical and out of control\", and \"I like to move it / come and give me some more.\" That singer, whose temperature is rising and about to explode, exhorts the listener to steal the night, kill the lights, and feel it under your skin. She's also infected by the sound and being killed by the beat, necessitating the title public health measure. FTP, name this summer 2009 hit by Cascada, whose": {
+    "guess": "Evacuate the Dancefloor",
+    "confidence": [
+      [
+        "Ev",
+        -0.002733786
+      ],
+      [
+        "acu",
+        -1.9361265e-07
+      ],
+      [
+        "ate",
+        0.0
+      ],
+      [
+        " the",
+        -2.7610455e-05
+      ],
+      [
+        " Dance",
+        -1.9361265e-07
+      ],
+      [
+        "floor",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "In the music video to this song, one speaker raps from a couch in front of an impressionist painting of a naked woman with a wine bottle covering her head, while another speaker wears a white dress with a woman's head on it. Lyrics sung by the main speaker include \"watch me, I'm intoxicated,\" \"watch me getting physical and out of control\", and \"I like to move it / come and give me some more.\" That singer, whose temperature is rising and about to explode, exhorts the listener to steal the night, kill the lights, and feel it under your skin. She's also infected by the sound and being killed by the beat, necessitating the title public health measure. FTP, name this summer 2009 hit by Cascada, whose refrain implores that part of a club be cleared of people.": {
+    "guess": "Evacuate the Dancefloor",
+    "confidence": [
+      [
+        "Ev",
+        -0.0044340356
+      ],
+      [
+        "acu",
+        0.0
+      ],
+      [
+        "ate",
+        0.0
+      ],
+      [
+        " the",
+        -1.3067608e-05
+      ],
+      [
+        " Dance",
+        -2.577686e-06
+      ],
+      [
+        "floor",
+        -5.1689596e-05
+      ]
+    ]
+  },
+  "His music for the radio play The City Wears a Slouch Hat was written entirely for percussion, while another": {
+    "guess": "John Cage",
+    "confidence": [
+      [
+        "John",
+        -0.0043425295
+      ],
+      [
+        " Cage",
+        -8.299462e-06
+      ]
+    ]
+  },
+  "His music for the radio play The City Wears a Slouch Hat was written entirely for percussion, while another work portrayed the tendency towards tranquility found in Indian aesthetic thought. His most notable": {
+    "guess": "John Cage",
+    "confidence": [
+      [
+        "John",
+        -0.007908966
+      ],
+      [
+        " Cage",
+        -3.0545007e-06
+      ]
+    ]
+  },
+  "His music for the radio play The City Wears a Slouch Hat was written entirely for percussion, while another work portrayed the tendency towards tranquility found in Indian aesthetic thought. His most notable collection of writings, dedicated \"To Whom it May Concern\", includes a section in which he heard": {
+    "guess": "Silence (John Cage)",
+    "confidence": [
+      [
+        "Sil",
+        -0.024286436
+      ],
+      [
+        "ence",
+        -5.2001665e-06
+      ],
+      [
+        " (",
+        -0.21641813
+      ],
+      [
+        "John",
+        -0.38390106
+      ],
+      [
+        " Cage",
+        -4.3202e-07
+      ],
+      [
+        ")",
+        -0.1432318
+      ]
+    ]
+  },
+  "His music for the radio play The City Wears a Slouch Hat was written entirely for percussion, while another work portrayed the tendency towards tranquility found in Indian aesthetic thought. His most notable collection of writings, dedicated \"To Whom it May Concern\", includes a section in which he heard a high-pitched whine in a soundless room, while the notes of his Music for Piano were determined": {
+    "guess": "John Cage",
+    "confidence": [
+      [
+        "John",
+        -0.00504376
+      ],
+      [
+        " Cage",
+        0.0
+      ]
+    ]
+  },
+  "His music for the radio play The City Wears a Slouch Hat was written entirely for percussion, while another work portrayed the tendency towards tranquility found in Indian aesthetic thought. His most notable collection of writings, dedicated \"To Whom it May Concern\", includes a section in which he heard a high-pitched whine in a soundless room, while the notes of his Music for Piano were determined by imperfections in the (*) staff paper. This composer of Sonatas and Interludes wrote a work for twelve": {
+    "guess": "John Cage",
+    "confidence": [
+      [
+        "John",
+        -0.0011576045
+      ],
+      [
+        " Cage",
+        0.0
+      ]
+    ]
+  },
+  "His music for the radio play The City Wears a Slouch Hat was written entirely for percussion, while another work portrayed the tendency towards tranquility found in Indian aesthetic thought. His most notable collection of writings, dedicated \"To Whom it May Concern\", includes a section in which he heard a high-pitched whine in a soundless room, while the notes of his Music for Piano were determined by imperfections in the (*) staff paper. This composer of Sonatas and Interludes wrote a work for twelve radios but may be best known for a three-movement work for solo piano in which the sections are": {
+    "guess": "John Cage",
+    "confidence": [
+      [
+        "John",
+        -0.39497852
+      ],
+      [
+        " Cage",
+        0.0
+      ]
+    ]
+  },
+  "His music for the radio play The City Wears a Slouch Hat was written entirely for percussion, while another work portrayed the tendency towards tranquility found in Indian aesthetic thought. His most notable collection of writings, dedicated \"To Whom it May Concern\", includes a section in which he heard a high-pitched whine in a soundless room, while the notes of his Music for Piano were determined by imperfections in the (*) staff paper. This composer of Sonatas and Interludes wrote a work for twelve radios but may be best known for a three-movement work for solo piano in which the sections are delineated by a stopwatch. For 10 points, identify this author of Silence who used the I Ching to": {
+    "guess": "John Cage",
+    "confidence": [
+      [
+        "John",
+        -0.020770539
+      ],
+      [
+        " Cage",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "His music for the radio play The City Wears a Slouch Hat was written entirely for percussion, while another work portrayed the tendency towards tranquility found in Indian aesthetic thought. His most notable collection of writings, dedicated \"To Whom it May Concern\", includes a section in which he heard a high-pitched whine in a soundless room, while the notes of his Music for Piano were determined by imperfections in the (*) staff paper. This composer of Sonatas and Interludes wrote a work for twelve radios but may be best known for a three-movement work for solo piano in which the sections are delineated by a stopwatch. For 10 points, identify this author of Silence who used the I Ching to introduce chance effects into compositions such as Imaginary Landscape and Music of Changes but may": {
+    "guess": "John Cage",
+    "confidence": [
+      [
+        "John",
+        -0.02822074
+      ],
+      [
+        " Cage",
+        0.0
+      ]
+    ]
+  },
+  "His music for the radio play The City Wears a Slouch Hat was written entirely for percussion, while another work portrayed the tendency towards tranquility found in Indian aesthetic thought. His most notable collection of writings, dedicated \"To Whom it May Concern\", includes a section in which he heard a high-pitched whine in a soundless room, while the notes of his Music for Piano were determined by imperfections in the (*) staff paper. This composer of Sonatas and Interludes wrote a work for twelve radios but may be best known for a three-movement work for solo piano in which the sections are delineated by a stopwatch. For 10 points, identify this author of Silence who used the I Ching to introduce chance effects into compositions such as Imaginary Landscape and Music of Changes but may be best known for his entirely silent 4'33\".": {
+    "guess": "John Cage",
+    "confidence": [
+      [
+        "John",
+        -0.007542023
+      ],
+      [
+        " Cage",
+        0.0
+      ]
+    ]
+  },
+  "The mutagen ethylmethane sulfonate uses this reaction to alter base pairing in DNA, as do some chemotherapies.": {
+    "guess": "Alkylation",
+    "confidence": [
+      [
+        "Al",
+        -0.0032245333
+      ],
+      [
+        "k",
+        0.0
+      ],
+      [
+        "yl",
+        -6.704273e-07
+      ],
+      [
+        "ation",
+        -0.018149942
+      ]
+    ]
+  },
+  "The mutagen ethylmethane sulfonate uses this reaction to alter base pairing in DNA, as do some chemotherapies. In this nucleophilic substitution reaction, a group consisting of an alkane minus a hydrogen": {
+    "guess": "Alkylation",
+    "confidence": [
+      [
+        "Al",
+        -0.5724051
+      ],
+      [
+        "k",
+        0.0
+      ],
+      [
+        "yl",
+        -3.7697225e-06
+      ],
+      [
+        "ation",
+        -0.0003551271
+      ]
+    ]
+  },
+  "The mutagen ethylmethane sulfonate uses this reaction to alter base pairing in DNA, as do some chemotherapies. In this nucleophilic substitution reaction, a group consisting of an alkane minus a hydrogen is added to a compound. FTP, identify this chemical reaction, one example of which is the Friedel-Crafts": {
+    "guess": "Alkylation",
+    "confidence": [
+      [
+        "Al",
+        -0.008908463
+      ],
+      [
+        "k",
+        0.0
+      ],
+      [
+        "yl",
+        -3.1281633e-07
+      ],
+      [
+        "ation",
+        -2.7848862e-05
+      ]
+    ]
+  },
+  "The mutagen ethylmethane sulfonate uses this reaction to alter base pairing in DNA, as do some chemotherapies. In this nucleophilic substitution reaction, a group consisting of an alkane minus a hydrogen is added to a compound. FTP, identify this chemical reaction, one example of which is the Friedel-Crafts process.": {
+    "guess": "Alkylation",
+    "confidence": [
+      [
+        "Al",
+        -0.004596507
+      ],
+      [
+        "k",
+        0.0
+      ],
+      [
+        "yl",
+        -3.1281633e-07
+      ],
+      [
+        "ation",
+        -9.133887e-06
+      ]
+    ]
+  },
+  "This musician headed the Hot Five, which featured his wife Lil Hardin on piano. That group expanded into": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.011975264
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musician headed the Hot Five, which featured his wife Lil Hardin on piano. That group expanded into the Hot Seven and recorded his song \"Potato Head Blues\". He worked with Duke Ellington on the albums": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.12794282
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musician headed the Hot Five, which featured his wife Lil Hardin on piano. That group expanded into the Hot Seven and recorded his song \"Potato Head Blues\". He worked with Duke Ellington on the albums Together For The First Time and The Great Reunion, which were combined to make The Great Summit.": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.07907242
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musician headed the Hot Five, which featured his wife Lil Hardin on piano. That group expanded into the Hot Seven and recorded his song \"Potato Head Blues\". He worked with Duke Ellington on the albums Together For The First Time and The Great Reunion, which were combined to make The Great Summit. He appeared in and recorded the title song for Barbra Streisand's film Hello, Dolly!  and he made": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.05161077
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musician headed the Hot Five, which featured his wife Lil Hardin on piano. That group expanded into the Hot Seven and recorded his song \"Potato Head Blues\". He worked with Duke Ellington on the albums Together For The First Time and The Great Reunion, which were combined to make The Great Summit. He appeared in and recorded the title song for Barbra Streisand's film Hello, Dolly!  and he made the first and most successful recording of  \"What A Wonderful World\". Name this cornet- and trumpet-": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.5762183
+      ],
+      [
+        " Armstrong",
+        0.0
+      ]
+    ]
+  },
+  "This musician headed the Hot Five, which featured his wife Lil Hardin on piano. That group expanded into the Hot Seven and recorded his song \"Potato Head Blues\". He worked with Duke Ellington on the albums Together For The First Time and The Great Reunion, which were combined to make The Great Summit. He appeared in and recorded the title song for Barbra Streisand's film Hello, Dolly!  and he made the first and most successful recording of  \"What A Wonderful World\". Name this cornet- and trumpet- playing musician whose nickname, derived from his ever present wide smile, was often shortened from": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.02113091
+      ],
+      [
+        " Armstrong",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This musician headed the Hot Five, which featured his wife Lil Hardin on piano. That group expanded into the Hot Seven and recorded his song \"Potato Head Blues\". He worked with Duke Ellington on the albums Together For The First Time and The Great Reunion, which were combined to make The Great Summit. He appeared in and recorded the title song for Barbra Streisand's film Hello, Dolly!  and he made the first and most successful recording of  \"What A Wonderful World\". Name this cornet- and trumpet- playing musician whose nickname, derived from his ever present wide smile, was often shortened from \"Satchelmouth\" to \"Satchmo\".": {
+    "guess": "Louis Armstrong",
+    "confidence": [
+      [
+        "Louis",
+        -0.006208786
+      ],
+      [
+        " Armstrong",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A mutation in RUNX2 can cause this structure to fail to develop in a condition called Marie-Sainton syndrome.": {
+    "guess": "Clavicle",
+    "confidence": [
+      [
+        "Cl",
+        -0.00085583574
+      ],
+      [
+        "av",
+        0.0
+      ],
+      [
+        "icle",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "A mutation in RUNX2 can cause this structure to fail to develop in a condition called Marie-Sainton syndrome. One end of this structure develops intramembranously while other end develops endochondrally.": {
+    "guess": "Clavicle",
+    "confidence": [
+      [
+        "Cl",
+        -0.00025287605
+      ],
+      [
+        "av",
+        0.0
+      ],
+      [
+        "icle",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "A mutation in RUNX2 can cause this structure to fail to develop in a condition called Marie-Sainton syndrome. One end of this structure develops intramembranously while other end develops endochondrally. This structure is the first of its type to begin ossification, but is usually the last to finish.": {
+    "guess": "Clavicle",
+    "confidence": [
+      [
+        "Cl",
+        -3.4524266e-05
+      ],
+      [
+        "av",
+        0.0
+      ],
+      [
+        "icle",
+        0.0
+      ]
+    ]
+  },
+  "A mutation in RUNX2 can cause this structure to fail to develop in a condition called Marie-Sainton syndrome. One end of this structure develops intramembranously while other end develops endochondrally. This structure is the first of its type to begin ossification, but is usually the last to finish. Medially this bone articulates at a synovial joint with an intra- articular disc and laterally this": {
+    "guess": "Clavicle",
+    "confidence": [
+      [
+        "Cl",
+        -3.5954712e-05
+      ],
+      [
+        "av",
+        0.0
+      ],
+      [
+        "icle",
+        0.0
+      ]
+    ]
+  },
+  "A mutation in RUNX2 can cause this structure to fail to develop in a condition called Marie-Sainton syndrome. One end of this structure develops intramembranously while other end develops endochondrally. This structure is the first of its type to begin ossification, but is usually the last to finish. Medially this bone articulates at a synovial joint with an intra- articular disc and laterally this bone articulates with the acromion of the scapula. For ten points, give the name of this sigmoid shaped": {
+    "guess": "Clavicle",
+    "confidence": [
+      [
+        "Cl",
+        -1.3663626e-05
+      ],
+      [
+        "av",
+        0.0
+      ],
+      [
+        "icle",
+        0.0
+      ]
+    ]
+  },
+  "A mutation in RUNX2 can cause this structure to fail to develop in a condition called Marie-Sainton syndrome. One end of this structure develops intramembranously while other end develops endochondrally. This structure is the first of its type to begin ossification, but is usually the last to finish. Medially this bone articulates at a synovial joint with an intra- articular disc and laterally this bone articulates with the acromion of the scapula. For ten points, give the name of this sigmoid shaped structure which is known as the collar bone.": {
+    "guess": "Clavicle",
+    "confidence": [
+      [
+        "Cl",
+        -1.147242e-06
+      ],
+      [
+        "av",
+        0.0
+      ],
+      [
+        "icle",
+        0.0
+      ]
+    ]
+  },
+  "The Mutiny of Aranjuez saw one king of this name stage a coup against his father, who fled to France": {
+    "guess": "Ferdinand VII of Spain",
+    "confidence": [
+      [
+        "F",
+        -0.032640792
+      ],
+      [
+        "erd",
+        0.0
+      ],
+      [
+        "inand",
+        0.0
+      ],
+      [
+        " VII",
+        -0.0009769559
+      ],
+      [
+        " of",
+        -0.00092968706
+      ],
+      [
+        " Spain",
+        0.0
+      ]
+    ]
+  },
+  "The Mutiny of Aranjuez saw one king of this name stage a coup against his father, who fled to France with his minister Manuel de Godoy. That king was restored to the throne through the Treaty of Valencay,": {
+    "guess": "Ferdinand VII",
+    "confidence": [
+      [
+        "F",
+        -0.22704217
+      ],
+      [
+        "erd",
+        0.0
+      ],
+      [
+        "inand",
+        0.0
+      ],
+      [
+        " VII",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The Mutiny of Aranjuez saw one king of this name stage a coup against his father, who fled to France with his minister Manuel de Godoy. That king was restored to the throne through the Treaty of Valencay, which concluded the Peninsular War. In addition to that son of Charles IV, this name belonged to": {
+    "guess": "Ferdinand VII of Spain",
+    "confidence": [
+      [
+        "F",
+        -0.09390921
+      ],
+      [
+        "erd",
+        -9.0883464e-07
+      ],
+      [
+        "inand",
+        -1.9361265e-07
+      ],
+      [
+        " VII",
+        -0.38010353
+      ],
+      [
+        " of",
+        -0.000121542944
+      ],
+      [
+        " Spain",
+        0.0
+      ]
+    ]
+  },
+  "The Mutiny of Aranjuez saw one king of this name stage a coup against his father, who fled to France with his minister Manuel de Godoy. That king was restored to the throne through the Treaty of Valencay, which concluded the Peninsular War. In addition to that son of Charles IV, this name belonged to a man who married Germaine of Foix after the death of his first wife, with whom he had defeated Boabdil": {
+    "guess": "Ferdinand VII of Spain",
+    "confidence": [
+      [
+        "F",
+        -0.09620406
+      ],
+      [
+        "erd",
+        0.0
+      ],
+      [
+        "inand",
+        -1.9361265e-07
+      ],
+      [
+        " VII",
+        -0.16804595
+      ],
+      [
+        " of",
+        -0.0003540543
+      ],
+      [
+        " Spain",
+        0.0
+      ]
+    ]
+  },
+  "The Mutiny of Aranjuez saw one king of this name stage a coup against his father, who fled to France with his minister Manuel de Godoy. That king was restored to the throne through the Treaty of Valencay, which concluded the Peninsular War. In addition to that son of Charles IV, this name belonged to a man who married Germaine of Foix after the death of his first wife, with whom he had defeated Boabdil at the Battle of Grenada and issued the Alhambra Decree that expelled the Jews from his country.": {
+    "guess": "Ferdinand",
+    "confidence": [
+      [
+        "F",
+        -0.06306725
+      ],
+      [
+        "erd",
+        0.0
+      ],
+      [
+        "inand",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Mutiny of Aranjuez saw one king of this name stage a coup against his father, who fled to France with his minister Manuel de Godoy. That king was restored to the throne through the Treaty of Valencay, which concluded the Peninsular War. In addition to that son of Charles IV, this name belonged to a man who married Germaine of Foix after the death of his first wife, with whom he had defeated Boabdil at the Battle of Grenada and issued the Alhambra Decree that expelled the Jews from his country. That king had also funded the expeditions of Christopher Columbus. For 10 points, give this name belonging": {
+    "guess": "Ferdinand",
+    "confidence": [
+      [
+        "F",
+        -0.0067493585
+      ],
+      [
+        "erd",
+        0.0
+      ],
+      [
+        "inand",
+        0.0
+      ]
+    ]
+  },
+  "The Mutiny of Aranjuez saw one king of this name stage a coup against his father, who fled to France with his minister Manuel de Godoy. That king was restored to the throne through the Treaty of Valencay, which concluded the Peninsular War. In addition to that son of Charles IV, this name belonged to a man who married Germaine of Foix after the death of his first wife, with whom he had defeated Boabdil at the Battle of Grenada and issued the Alhambra Decree that expelled the Jews from his country. That king had also funded the expeditions of Christopher Columbus. For 10 points, give this name belonging to seven Spanish rulers, including the husband of Isabella I.": {
+    "guess": "Ferdinand VII of Spain",
+    "confidence": [
+      [
+        "F",
+        -0.0002422779
+      ],
+      [
+        "erd",
+        0.0
+      ],
+      [
+        "inand",
+        0.0
+      ],
+      [
+        " VII",
+        -0.066477336
+      ],
+      [
+        " of",
+        -0.0033489398
+      ],
+      [
+        " Spain",
+        0.0
+      ]
+    ]
+  },
+  "This musician performed \"Festival Junction\" and other pieces alongside Paul Gonsalves and Johnny Hodges": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.576544
+      ]
+    ]
+  },
+  "This musician performed \"Festival Junction\" and other pieces alongside Paul Gonsalves and Johnny Hodges at the 1956 Newport Jazz Festival. One song by this musician tells how the singer always gets the": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.2539504
+      ],
+      [
+        ".",
+        -0.6931551
+      ]
+    ]
+  },
+  "This musician performed \"Festival Junction\" and other pieces alongside Paul Gonsalves and Johnny Hodges at the 1956 Newport Jazz Festival. One song by this musician tells how the singer always gets the title feeling, which he attributes to a color, ever since his \"baby said goodbye.\" One of this musician's": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.33603865
+      ]
+    ]
+  },
+  "This musician performed \"Festival Junction\" and other pieces alongside Paul Gonsalves and Johnny Hodges at the 1956 Newport Jazz Festival. One song by this musician tells how the singer always gets the title feeling, which he attributes to a color, ever since his \"baby said goodbye.\" One of this musician's pieces was inspired by a trip to his collaborator's house in New York. This man's band recorded": {
+    "guess": "Duke Ellington",
+    "confidence": [
+      [
+        "D",
+        -0.69660145
+      ],
+      [
+        "uke",
+        0.0
+      ],
+      [
+        " Ell",
+        0.0
+      ],
+      [
+        "ington",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This musician performed \"Festival Junction\" and other pieces alongside Paul Gonsalves and Johnny Hodges at the 1956 Newport Jazz Festival. One song by this musician tells how the singer always gets the title feeling, which he attributes to a color, ever since his \"baby said goodbye.\" One of this musician's pieces was inspired by a trip to his collaborator's house in New York. This man's band recorded a version of the song \"Caravan.\" This composer of \"Mood Indigo\" frequently wrote his pieces with": {
+    "guess": "Duke Ellington",
+    "confidence": [
+      [
+        "D",
+        -0.023882609
+      ],
+      [
+        "uke",
+        0.0
+      ],
+      [
+        " Ell",
+        0.0
+      ],
+      [
+        "ington",
+        0.0
+      ]
+    ]
+  },
+  "This musician performed \"Festival Junction\" and other pieces alongside Paul Gonsalves and Johnny Hodges at the 1956 Newport Jazz Festival. One song by this musician tells how the singer always gets the title feeling, which he attributes to a color, ever since his \"baby said goodbye.\" One of this musician's pieces was inspired by a trip to his collaborator's house in New York. This man's band recorded a version of the song \"Caravan.\" This composer of \"Mood Indigo\" frequently wrote his pieces with Billy Strayhorn, including his most famous piece, and this man's band played at the Cotton Club. For": {
+    "guess": "Duke Ellington",
+    "confidence": [
+      [
+        "D",
+        -0.13073823
+      ],
+      [
+        "uke",
+        0.0
+      ],
+      [
+        " Ell",
+        0.0
+      ],
+      [
+        "ington",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This musician performed \"Festival Junction\" and other pieces alongside Paul Gonsalves and Johnny Hodges at the 1956 Newport Jazz Festival. One song by this musician tells how the singer always gets the title feeling, which he attributes to a color, ever since his \"baby said goodbye.\" One of this musician's pieces was inspired by a trip to his collaborator's house in New York. This man's band recorded a version of the song \"Caravan.\" This composer of \"Mood Indigo\" frequently wrote his pieces with Billy Strayhorn, including his most famous piece, and this man's band played at the Cotton Club. For 10 points, name this pianist and bandleader who wrote \"Take the 'A' Train.\"": {
+    "guess": "Duke Ellington",
+    "confidence": [
+      [
+        "D",
+        -0.008789942
+      ],
+      [
+        "uke",
+        0.0
+      ],
+      [
+        " Ell",
+        0.0
+      ],
+      [
+        "ington",
+        0.0
+      ]
+    ]
+  },
+  "In the music video to this song, the book Skylar's Outlaw appears on a wooden desk as the central character": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.4796823
+      ]
+    ]
+  },
+  "In the music video to this song, the book Skylar's Outlaw appears on a wooden desk as the central character puts on high heels. The speaker of this song has \"foresight and it's real\" and claims \"I beg,": {
+    "guess": "Call Me Maybe",
+    "confidence": [
+      [
+        "Call",
+        -0.029809851
+      ],
+      [
+        " Me",
+        0.0
+      ],
+      [
+        " Maybe",
+        0.0
+      ]
+    ]
+  },
+  "In the music video to this song, the book Skylar's Outlaw appears on a wooden desk as the central character puts on high heels. The speaker of this song has \"foresight and it's real\" and claims \"I beg, and borrow and steal.\" Mentioning how \"all the other boys/ Try to (*) chase me,\" the speaker of this": {
+    "guess": "Call Me Maybe",
+    "confidence": [
+      [
+        "Call",
+        -0.029988594
+      ],
+      [
+        " Me",
+        0.0
+      ],
+      [
+        " Maybe",
+        0.0
+      ]
+    ]
+  },
+  "In the music video to this song, the book Skylar's Outlaw appears on a wooden desk as the central character puts on high heels. The speaker of this song has \"foresight and it's real\" and claims \"I beg, and borrow and steal.\" Mentioning how \"all the other boys/ Try to (*) chase me,\" the speaker of this song also laments how \"Before you came into my life/ I missed you so bad,\" prior to noticing how her": {
+    "guess": "Call Me Maybe",
+    "confidence": [
+      [
+        "Call",
+        -0.029869432
+      ],
+      [
+        " Me",
+        0.0
+      ],
+      [
+        " Maybe",
+        0.0
+      ]
+    ]
+  },
+  "In the music video to this song, the book Skylar's Outlaw appears on a wooden desk as the central character puts on high heels. The speaker of this song has \"foresight and it's real\" and claims \"I beg, and borrow and steal.\" Mentioning how \"all the other boys/ Try to (*) chase me,\" the speaker of this song also laments how \"Before you came into my life/ I missed you so bad,\" prior to noticing how her tattooed neighbor has \"ripped jeans\" and \"skin [that] was showing.\" The singer realizes how it's": {
+    "guess": "Call Me Maybe",
+    "confidence": [
+      [
+        "Call",
+        -0.1619537
+      ],
+      [
+        " Me",
+        0.0
+      ],
+      [
+        " Maybe",
+        0.0
+      ]
+    ]
+  },
+  "In the music video to this song, the book Skylar's Outlaw appears on a wooden desk as the central character puts on high heels. The speaker of this song has \"foresight and it's real\" and claims \"I beg, and borrow and steal.\" Mentioning how \"all the other boys/ Try to (*) chase me,\" the speaker of this song also laments how \"Before you came into my life/ I missed you so bad,\" prior to noticing how her tattooed neighbor has \"ripped jeans\" and \"skin [that] was showing.\" The singer realizes how it's crazy that she \"just met\" him and then offers him her phone number. For ten points, name this Canadian": {
+    "guess": "Call Me Maybe",
+    "confidence": [
+      [
+        "Call",
+        -0.60343677
+      ],
+      [
+        " Me",
+        0.0
+      ],
+      [
+        " Maybe",
+        0.0
+      ]
+    ]
+  },
+  "In the music video to this song, the book Skylar's Outlaw appears on a wooden desk as the central character puts on high heels. The speaker of this song has \"foresight and it's real\" and claims \"I beg, and borrow and steal.\" Mentioning how \"all the other boys/ Try to (*) chase me,\" the speaker of this song also laments how \"Before you came into my life/ I missed you so bad,\" prior to noticing how her tattooed neighbor has \"ripped jeans\" and \"skin [that] was showing.\" The singer realizes how it's crazy that she \"just met\" him and then offers him her phone number. For ten points, name this Canadian song recorded by Carly Rae Jepsen.": {
+    "guess": "Call Me Maybe",
+    "confidence": [
+      [
+        "Call",
+        -0.0060208724
+      ],
+      [
+        " Me",
+        0.0
+      ],
+      [
+        " Maybe",
+        0.0
+      ]
+    ]
+  }
+}

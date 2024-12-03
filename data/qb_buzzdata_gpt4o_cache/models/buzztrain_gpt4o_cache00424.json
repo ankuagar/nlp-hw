@@ -1,0 +1,67 @@
+{
+  "After 250 BC, this state took over policing the seas against pirates from Egypt, but saw its independence": {
+    "guess": "Rhodes",
+    "confidence": [
+      [
+        "Rh",
+        -0.05596454
+      ],
+      [
+        "odes",
+        -1.92662e-05
+      ]
+    ]
+  },
+  "After 250 BC, this state took over policing the seas against pirates from Egypt, but saw its independence ended in 43 BC by the sacking of Cassius. Around 407 BC its three city-states, Camirus, Lindus,": {
+    "guess": "Rhodes",
+    "confidence": [
+      [
+        "Rh",
+        -0.0007313779
+      ],
+      [
+        "odes",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "After 250 BC, this state took over policing the seas against pirates from Egypt, but saw its independence ended in 43 BC by the sacking of Cassius. Around 407 BC its three city-states, Camirus, Lindus, and Ialysus, merged to form a single state that thrived due to its excellent location for trade. The": {
+    "guess": "Rhodes",
+    "confidence": [
+      [
+        "Rh",
+        -0.005456678
+      ],
+      [
+        "odes",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "After 250 BC, this state took over policing the seas against pirates from Egypt, but saw its independence ended in 43 BC by the sacking of Cassius. Around 407 BC its three city-states, Camirus, Lindus, and Ialysus, merged to form a single state that thrived due to its excellent location for trade. The unsuccessful siege led by Demetrius I Poliorcetes inspired the construction of its most famous landmark": {
+    "guess": "Rhodes",
+    "confidence": [
+      [
+        "Rh",
+        -0.024922794
+      ],
+      [
+        "odes",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "After 250 BC, this state took over policing the seas against pirates from Egypt, but saw its independence ended in 43 BC by the sacking of Cassius. Around 407 BC its three city-states, Camirus, Lindus, and Ialysus, merged to form a single state that thrived due to its excellent location for trade. The unsuccessful siege led by Demetrius I Poliorcetes inspired the construction of its most famous landmark by Chares of Lindus. FTP, what was this island nation off the coast of Turkey known for its colossus?": {
+    "guess": "Rhodes",
+    "confidence": [
+      [
+        "Rh",
+        -0.07952117
+      ],
+      [
+        "odes",
+        -1.504853e-06
+      ]
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6761979
+      ]
+    ]
+  },
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra , which is called this phenomenon's namesake edge. At higher frequency, its differential cross section": {
+    "guess": "Compton edge",
+    "confidence": [
+      [
+        "Com",
+        -0.1372238
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " edge",
+        -0.07125045
+      ]
+    ]
+  },
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra , which is called this phenomenon's namesake edge. At higher frequency, its differential cross section is calculable by the Klein-Nishina formula. Planck's constant divided by rest mass times speed": {
+    "guess": "Compton edge",
+    "confidence": [
+      [
+        "Com",
+        -0.40566584
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " edge",
+        -0.065247715
+      ]
+    ]
+  },
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra , which is called this phenomenon's namesake edge. At higher frequency, its differential cross section is calculable by the Klein-Nishina formula. Planck's constant divided by rest mass times speed of light gives the wavelength named for this effect. That wavelength is multiplied by 1 minus cosine": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.00019996427
+      ],
+      [
+        "pton",
+        -4.3202e-07
+      ],
+      [
+        " scattering",
+        -0.051728398
+      ]
+    ]
+  },
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra , which is called this phenomenon's namesake edge. At higher frequency, its differential cross section is calculable by the Klein-Nishina formula. Planck's constant divided by rest mass times speed of light gives the wavelength named for this effect. That wavelength is multiplied by 1 minus cosine of the angle of scattered photons to give the shift in wavelength following this type of scattering.": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.00044687724
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " scattering",
+        -0.037397236
+      ]
+    ]
+  },
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra , which is called this phenomenon's namesake edge. At higher frequency, its differential cross section is calculable by the Klein-Nishina formula. Planck's constant divided by rest mass times speed of light gives the wavelength named for this effect. That wavelength is multiplied by 1 minus cosine of the angle of scattered photons to give the shift in wavelength following this type of scattering. For 10 points, name this phenomenon, a photon's decrease in wavelength and increase in energy when": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.00010247036
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " scattering",
+        -0.038367234
+      ]
+    ]
+  },
+  "Sodium iodide scintillators are often used to counter the appearance of false peaks in gamma ray spectra , which is called this phenomenon's namesake edge. At higher frequency, its differential cross section is calculable by the Klein-Nishina formula. Planck's constant divided by rest mass times speed of light gives the wavelength named for this effect. That wavelength is multiplied by 1 minus cosine of the angle of scattered photons to give the shift in wavelength following this type of scattering. For 10 points, name this phenomenon, a photon's decrease in wavelength and increase in energy when it collides with an electron, named after an American physicist.": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.043096595
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " scattering",
+        -0.038737956
+      ]
+    ]
+  }
+}

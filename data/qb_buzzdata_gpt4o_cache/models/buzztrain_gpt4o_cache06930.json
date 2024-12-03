@@ -1,0 +1,115 @@
+{
+  "In Sanskrit, any sequence of ganas can be classified as an example of this. When this structure is used": {
+    "guess": "Chandas",
+    "confidence": [
+      [
+        "Ch",
+        -0.72825104
+      ],
+      [
+        "andas",
+        -0.047362838
+      ]
+    ]
+  },
+  "In Sanskrit, any sequence of ganas can be classified as an example of this. When this structure is used incompletely it is called a catalexis (cat-uh-LEX-us). A pause in this structure is known as a caesura": {
+    "guess": "Meter (poetry)",
+    "confidence": [
+      [
+        "Meter",
+        -0.39879107
+      ],
+      [
+        " (",
+        -1.569009e-05
+      ],
+      [
+        "po",
+        -0.00032974407
+      ],
+      [
+        "etry",
+        -4.9617593e-06
+      ],
+      [
+        ")",
+        -2.8160932e-06
+      ]
+    ]
+  },
+  "In Sanskrit, any sequence of ganas can be classified as an example of this. When this structure is used incompletely it is called a catalexis (cat-uh-LEX-us). A pause in this structure is known as a caesura (SAY-zoo-rah). Varieties of this structure include dactylic hexameter and iambic pentameter, and": {
+    "guess": "Meter (poetry)",
+    "confidence": [
+      [
+        "Meter",
+        -0.17614435
+      ],
+      [
+        " (",
+        -8.537869e-06
+      ],
+      [
+        "po",
+        -0.00016802136
+      ],
+      [
+        "etry",
+        -1.6240566e-06
+      ],
+      [
+        ")",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "In Sanskrit, any sequence of ganas can be classified as an example of this. When this structure is used incompletely it is called a catalexis (cat-uh-LEX-us). A pause in this structure is known as a caesura (SAY-zoo-rah). Varieties of this structure include dactylic hexameter and iambic pentameter, and this structure is usually divided into feet. For 10 points, name this literary term that refers to": {
+    "guess": "Meter (poetry)",
+    "confidence": [
+      [
+        "Meter",
+        -0.046827655
+      ],
+      [
+        " (",
+        -3.4121115e-06
+      ],
+      [
+        "po",
+        -5.6100132e-05
+      ],
+      [
+        "etry",
+        -3.1281633e-07
+      ],
+      [
+        ")",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "In Sanskrit, any sequence of ganas can be classified as an example of this. When this structure is used incompletely it is called a catalexis (cat-uh-LEX-us). A pause in this structure is known as a caesura (SAY-zoo-rah). Varieties of this structure include dactylic hexameter and iambic pentameter, and this structure is usually divided into feet. For 10 points, name this literary term that refers to the basic rhythmic structure of poems.": {
+    "guess": "Meter (poetry)",
+    "confidence": [
+      [
+        "Meter",
+        -0.20699643
+      ],
+      [
+        " (",
+        -1.3856493e-06
+      ],
+      [
+        "po",
+        -6.909333e-05
+      ],
+      [
+        "etry",
+        -4.3202e-07
+      ],
+      [
+        ")",
+        -1.0280384e-06
+      ]
+    ]
+  }
+}

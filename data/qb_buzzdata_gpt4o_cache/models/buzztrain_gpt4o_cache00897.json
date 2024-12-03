@@ -1,0 +1,212 @@
+{
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance": {
+    "guess": "Apothem",
+    "confidence": [
+      [
+        "Ap",
+        -1.3094192
+      ],
+      [
+        "ot",
+        -2.4034345e-05
+      ],
+      [
+        "hem",
+        -8.180258e-06
+      ]
+    ]
+  },
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance from the center of the circle to the midpoint of that chord. For other shapes, this equals the side": {
+    "guess": "Apothem",
+    "confidence": [
+      [
+        "Ap",
+        -0.0610855
+      ],
+      [
+        "ot",
+        -4.0842064e-05
+      ],
+      [
+        "hem",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance from the center of the circle to the midpoint of that chord. For other shapes, this equals the side length divided by twice the tangent of the quantity pi over n, where n is the number of sides, so, for": {
+    "guess": "Apothem",
+    "confidence": [
+      [
+        "Ap",
+        -0.052745108
+      ],
+      [
+        "ot",
+        -1.1637165e-05
+      ],
+      [
+        "hem",
+        -2.577686e-06
+      ]
+    ]
+  },
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance from the center of the circle to the midpoint of that chord. For other shapes, this equals the side length divided by twice the tangent of the quantity pi over n, where n is the number of sides, so, for example, it equals the side length times root three over two for a regular hexagon. For any regular": {
+    "guess": "Apothem",
+    "confidence": [
+      [
+        "Ap",
+        -0.01575443
+      ],
+      [
+        "ot",
+        -5.5122365e-07
+      ],
+      [
+        "hem",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance from the center of the circle to the midpoint of that chord. For other shapes, this equals the side length divided by twice the tangent of the quantity pi over n, where n is the number of sides, so, for example, it equals the side length times root three over two for a regular hexagon. For any regular polygon, this distance is twice the area divided by the perimeter. Contrasted with the radius of": {
+    "guess": "Apothem",
+    "confidence": [
+      [
+        "Ap",
+        -0.024895344
+      ],
+      [
+        "ot",
+        -4.3202e-07
+      ],
+      [
+        "hem",
+        -5.6769813e-06
+      ]
+    ]
+  },
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance from the center of the circle to the midpoint of that chord. For other shapes, this equals the side length divided by twice the tangent of the quantity pi over n, where n is the number of sides, so, for example, it equals the side length times root three over two for a regular hexagon. For any regular polygon, this distance is twice the area divided by the perimeter. Contrasted with the radius of a polygon, name this distance, or segment, from the center of a regular polygon to the midpoint of one": {
+    "guess": "Apothem",
+    "confidence": [
+      [
+        "Ap",
+        -0.0064663137
+      ],
+      [
+        "ot",
+        -3.1281633e-07
+      ],
+      [
+        "hem",
+        -5.6769813e-06
+      ]
+    ]
+  },
+  "In a circle, this distance equals the radius minus the sagitta of a chord, which equals the distance from the center of the circle to the midpoint of that chord. For other shapes, this equals the side length divided by twice the tangent of the quantity pi over n, where n is the number of sides, so, for example, it equals the side length times root three over two for a regular hexagon. For any regular polygon, this distance is twice the area divided by the perimeter. Contrasted with the radius of a polygon, name this distance, or segment, from the center of a regular polygon to the midpoint of one of its edges.": {
+    "guess": "Apothem",
+    "confidence": [
+      [
+        "Ap",
+        -0.0075071296
+      ],
+      [
+        "ot",
+        -1.9361265e-07
+      ],
+      [
+        "hem",
+        -5.6769813e-06
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw": {
+    "guess": "Hall effect",
+    "confidence": [
+      [
+        "Hall",
+        -0.008073946
+      ],
+      [
+        " effect",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw method. Used in a type of spacecraft thruster, two versions of it differ in whether the filling factor": {
+    "guess": "Hall effect",
+    "confidence": [
+      [
+        "Hall",
+        -0.11325009
+      ],
+      [
+        " effect",
+        -0.00024631983
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw method. Used in a type of spacecraft thruster, two versions of it differ in whether the filling factor nu is integral or rational. A thin copper film can be used as a namesake probe, to measure large": {
+    "guess": "Hall effect",
+    "confidence": [
+      [
+        "Hall",
+        -0.04676361
+      ],
+      [
+        " effect",
+        -8.542423e-05
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw method. Used in a type of spacecraft thruster, two versions of it differ in whether the filling factor nu is integral or rational. A thin copper film can be used as a namesake probe, to measure large magnetic fields on the order of one tesla. With thermal, spin, and quantum varieties, it occurs because": {
+    "guess": "Hall effect",
+    "confidence": [
+      [
+        "Hall",
+        -0.021336079
+      ],
+      [
+        " effect",
+        -8.4947416e-05
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw method. Used in a type of spacecraft thruster, two versions of it differ in whether the filling factor nu is integral or rational. A thin copper film can be used as a namesake probe, to measure large magnetic fields on the order of one tesla. With thermal, spin, and quantum varieties, it occurs because the Lorentz force pushes charge carriers to one side of the conductor, producing a measurable voltage.": {
+    "guess": "Hall effect",
+    "confidence": [
+      [
+        "Hall",
+        -0.0002905334
+      ],
+      [
+        " effect",
+        -0.00014001218
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw method. Used in a type of spacecraft thruster, two versions of it differ in whether the filling factor nu is integral or rational. A thin copper film can be used as a namesake probe, to measure large magnetic fields on the order of one tesla. With thermal, spin, and quantum varieties, it occurs because the Lorentz force pushes charge carriers to one side of the conductor, producing a measurable voltage. Used to determine the sign of the charge carriers, for 10 points, name this effect in which a": {
+    "guess": "Hall Effect",
+    "confidence": [
+      [
+        "Hall",
+        -0.004532062
+      ],
+      [
+        " Effect",
+        -0.02054224
+      ]
+    ]
+  },
+  "A circular version of it is called the Corbino effect, and it can be measured using the Van der Pauw method. Used in a type of spacecraft thruster, two versions of it differ in whether the filling factor nu is integral or rational. A thin copper film can be used as a namesake probe, to measure large magnetic fields on the order of one tesla. With thermal, spin, and quantum varieties, it occurs because the Lorentz force pushes charge carriers to one side of the conductor, producing a measurable voltage. Used to determine the sign of the charge carriers, for 10 points, name this effect in which a perpendicular potential difference arises in a current-carrying conductor placed in a magnetic field.": {
+    "guess": "Hall effect",
+    "confidence": [
+      [
+        "Hall",
+        -0.00057578966
+      ],
+      [
+        " effect",
+        -0.5759398
+      ]
+    ]
+  }
+}

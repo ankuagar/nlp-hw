@@ -1,0 +1,415 @@
+{
+  "The Wagner equation is a four-parameter extension of the Antoine (ANN-twahn) equation used to model this": {
+    "guess": "Vapor pressure",
+    "confidence": [
+      [
+        "V",
+        -0.12704854
+      ],
+      [
+        "apor",
+        -9.615256e-05
+      ],
+      [
+        " pressure",
+        -0.00012332367
+      ]
+    ]
+  },
+  "The Wagner equation is a four-parameter extension of the Antoine (ANN-twahn) equation used to model this quantity with fitted parameters. When there are multiple substances present, the mole fraction of": {
+    "guess": "Vapor pressure",
+    "confidence": [
+      [
+        "V",
+        -0.007298026
+      ],
+      [
+        "apor",
+        -2.3392786e-06
+      ],
+      [
+        " pressure",
+        -0.0014849856
+      ]
+    ]
+  },
+  "The Wagner equation is a four-parameter extension of the Antoine (ANN-twahn) equation used to model this quantity with fitted parameters. When there are multiple substances present, the mole fraction of each substance is multiplied by this quantity for each substance; the sum is equal to this quantity": {
+    "guess": "Vapor pressure",
+    "confidence": [
+      [
+        "V",
+        -0.0025256032
+      ],
+      [
+        "apor",
+        -1.9361265e-07
+      ],
+      [
+        " pressure",
+        -5.2001665e-06
+      ]
+    ]
+  },
+  "The Wagner equation is a four-parameter extension of the Antoine (ANN-twahn) equation used to model this quantity with fitted parameters. When there are multiple substances present, the mole fraction of each substance is multiplied by this quantity for each substance; the sum is equal to this quantity for the total mixture by (*) Raoult's (rah-OOLT'S) Law. When it equals the atmospheric pressure, boiling": {
+    "guess": "Vapor pressure",
+    "confidence": [
+      [
+        "V",
+        -0.0029343178
+      ],
+      [
+        "apor",
+        -6.704273e-07
+      ],
+      [
+        " pressure",
+        -4.0961266e-05
+      ]
+    ]
+  },
+  "The Wagner equation is a four-parameter extension of the Antoine (ANN-twahn) equation used to model this quantity with fitted parameters. When there are multiple substances present, the mole fraction of each substance is multiplied by this quantity for each substance; the sum is equal to this quantity for the total mixture by (*) Raoult's (rah-OOLT'S) Law. When it equals the atmospheric pressure, boiling occurs. For 10 points, name this equilibrium force per area exerted by an evaporated substance": {
+    "guess": "Vapor pressure",
+    "confidence": [
+      [
+        "V",
+        -8.9119545e-05
+      ],
+      [
+        "apor",
+        -4.3202e-07
+      ],
+      [
+        " pressure",
+        -1.6882126e-05
+      ]
+    ]
+  },
+  "The Wagner equation is a four-parameter extension of the Antoine (ANN-twahn) equation used to model this quantity with fitted parameters. When there are multiple substances present, the mole fraction of each substance is multiplied by this quantity for each substance; the sum is equal to this quantity for the total mixture by (*) Raoult's (rah-OOLT'S) Law. When it equals the atmospheric pressure, boiling occurs. For 10 points, name this equilibrium force per area exerted by an evaporated substance over its liquid, which is measured in torr or pascals.": {
+    "guess": "Vapor pressure",
+    "confidence": [
+      [
+        "V",
+        -0.00011450992
+      ],
+      [
+        "apor",
+        -5.5122365e-07
+      ],
+      [
+        " pressure",
+        -2.5226382e-05
+      ]
+    ]
+  },
+  "Wagner designed the bass version of this instrument, which is pitched an octave below the version tuned": {
+    "guess": "Tuba",
+    "confidence": [
+      [
+        "T",
+        -0.5040295
+      ],
+      [
+        "uba",
+        -0.004099297
+      ]
+    ]
+  },
+  "Wagner designed the bass version of this instrument, which is pitched an octave below the version tuned in F. This instrument plays a solo in Charles Ives's The Unanswered Question. Variants of this instrument": {
+    "guess": "Trumpet",
+    "confidence": [
+      [
+        "Trump",
+        -1.0152142
+      ],
+      [
+        "et",
+        -0.00017982253
+      ]
+    ]
+  },
+  "Wagner designed the bass version of this instrument, which is pitched an octave below the version tuned in F. This instrument plays a solo in Charles Ives's The Unanswered Question. Variants of this instrument are the flugelhorn and cornet. (*) Fanfares often employ this instrument, which has three valves.": {
+    "guess": "Trumpet",
+    "confidence": [
+      [
+        "Trump",
+        -0.019463481
+      ],
+      [
+        "et",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "Wagner designed the bass version of this instrument, which is pitched an octave below the version tuned in F. This instrument plays a solo in Charles Ives's The Unanswered Question. Variants of this instrument are the flugelhorn and cornet. (*) Fanfares often employ this instrument, which has three valves. This instrument was performed by Ornette Coleman, Dizzy Gillespie, and Louis Armstrong. For 10": {
+    "guess": "Trumpet",
+    "confidence": [
+      [
+        "Trump",
+        -0.008871132
+      ],
+      [
+        "et",
+        0.0
+      ]
+    ]
+  },
+  "Wagner designed the bass version of this instrument, which is pitched an octave below the version tuned in F. This instrument plays a solo in Charles Ives's The Unanswered Question. Variants of this instrument are the flugelhorn and cornet. (*) Fanfares often employ this instrument, which has three valves. This instrument was performed by Ornette Coleman, Dizzy Gillespie, and Louis Armstrong. For 10 points, name this brass instrument that is neither the trombone nor the French horn.": {
+    "guess": "Trumpet",
+    "confidence": [
+      [
+        "Trump",
+        -0.0015078397
+      ],
+      [
+        "et",
+        0.0
+      ]
+    ]
+  },
+  "He waged war from 1621-29 against his cousin Zygmunt III, king of Poland, who maintained a claim to his": {
+    "guess": "Gustavus Adolphus of Sweden",
+    "confidence": [
+      [
+        "G",
+        -0.0012495198
+      ],
+      [
+        "ust",
+        -4.20341e-05
+      ],
+      [
+        "av",
+        -7.5411124e-05
+      ],
+      [
+        "us",
+        -0.008615635
+      ],
+      [
+        " Ad",
+        -4.1318875e-05
+      ],
+      [
+        "olph",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " of",
+        -0.0019950126
+      ],
+      [
+        " Sweden",
+        0.0
+      ]
+    ]
+  },
+  "He waged war from 1621-29 against his cousin Zygmunt III, king of Poland, who maintained a claim to his country's throne. He secured the Treaty of Stolbova, saving a stranded army in Russia, and allied": {
+    "guess": "Gustavus Adolphus of Sweden",
+    "confidence": [
+      [
+        "G",
+        -0.01027374
+      ],
+      [
+        "ust",
+        -4.3202e-07
+      ],
+      [
+        "av",
+        -1.0206721e-05
+      ],
+      [
+        "us",
+        -1.9027791e-05
+      ],
+      [
+        " Ad",
+        -4.3202e-07
+      ],
+      [
+        "olph",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " of",
+        -0.062073
+      ],
+      [
+        " Sweden",
+        0.0
+      ]
+    ]
+  },
+  "He waged war from 1621-29 against his cousin Zygmunt III, king of Poland, who maintained a claim to his country's throne. He secured the Treaty of Stolbova, saving a stranded army in Russia, and allied with the French in the Thirty Years' War by the Treaty of Altmark. His chancellor Count Oxenstierna": {
+    "guess": "Gustavus Adolphus of Sweden",
+    "confidence": [
+      [
+        "G",
+        -0.007362999
+      ],
+      [
+        "ust",
+        0.0
+      ],
+      [
+        "av",
+        -5.5122365e-07
+      ],
+      [
+        "us",
+        -2.3392786e-06
+      ],
+      [
+        " Ad",
+        -1.9361265e-07
+      ],
+      [
+        "olph",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " of",
+        -0.005260203
+      ],
+      [
+        " Sweden",
+        0.0
+      ]
+    ]
+  },
+  "He waged war from 1621-29 against his cousin Zygmunt III, king of Poland, who maintained a claim to his country's throne. He secured the Treaty of Stolbova, saving a stranded army in Russia, and allied with the French in the Thirty Years' War by the Treaty of Altmark. His chancellor Count Oxenstierna led diplomatic affairs while he warred, occupying Bavaria and Bohemia after victory at the 1631 Battle": {
+    "guess": "Gustavus Adolphus of Sweden",
+    "confidence": [
+      [
+        "G",
+        -0.020457562
+      ],
+      [
+        "ust",
+        -1.9361265e-07
+      ],
+      [
+        "av",
+        -4.3202e-07
+      ],
+      [
+        "us",
+        -1.6240566e-06
+      ],
+      [
+        " Ad",
+        -4.3202e-07
+      ],
+      [
+        "olph",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " of",
+        -0.001955633
+      ],
+      [
+        " Sweden",
+        0.0
+      ]
+    ]
+  },
+  "He waged war from 1621-29 against his cousin Zygmunt III, king of Poland, who maintained a claim to his country's throne. He secured the Treaty of Stolbova, saving a stranded army in Russia, and allied with the French in the Thirty Years' War by the Treaty of Altmark. His chancellor Count Oxenstierna led diplomatic affairs while he warred, occupying Bavaria and Bohemia after victory at the 1631 Battle of Breitenfeld. The son of Charles IX, he was succeeded by his daughter Christina after dying at": {
+    "guess": "Gustavus Adolphus of Sweden",
+    "confidence": [
+      [
+        "G",
+        -0.0075315055
+      ],
+      [
+        "ust",
+        -1.9361265e-07
+      ],
+      [
+        "av",
+        -7.89631e-07
+      ],
+      [
+        "us",
+        -5.5122365e-07
+      ],
+      [
+        " Ad",
+        -4.3202e-07
+      ],
+      [
+        "olph",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " of",
+        -0.0012388024
+      ],
+      [
+        " Sweden",
+        0.0
+      ]
+    ]
+  },
+  "He waged war from 1621-29 against his cousin Zygmunt III, king of Poland, who maintained a claim to his country's throne. He secured the Treaty of Stolbova, saving a stranded army in Russia, and allied with the French in the Thirty Years' War by the Treaty of Altmark. His chancellor Count Oxenstierna led diplomatic affairs while he warred, occupying Bavaria and Bohemia after victory at the 1631 Battle of Breitenfeld. The son of Charles IX, he was succeeded by his daughter Christina after dying at the 1632 Battle of L\u00fctzen. FTP, identify this Lion of the North and 17th century Swedish king.": {
+    "guess": "Gustavus Adolphus of Sweden",
+    "confidence": [
+      [
+        "G",
+        -5.085517e-05
+      ],
+      [
+        "ust",
+        0.0
+      ],
+      [
+        "av",
+        0.0
+      ],
+      [
+        "us",
+        -1.8624639e-06
+      ],
+      [
+        " Ad",
+        0.0
+      ],
+      [
+        "olph",
+        -3.1281633e-07
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " of",
+        -0.16153663
+      ],
+      [
+        " Sweden",
+        0.0
+      ]
+    ]
+  }
+}

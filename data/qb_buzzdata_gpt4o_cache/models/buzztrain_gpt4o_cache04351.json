@@ -1,0 +1,458 @@
+{
+  "In 1955, Lifshitz used them as the microscopic description of the Casimir effect's bulk property for": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.23209287
+      ]
+    ]
+  },
+  "In 1955, Lifshitz used them as the microscopic description of the Casimir effect's bulk property for dielectric media.  The Lennard-Jones potential allows a good approximation of their strengths as a function": {
+    "guess": "Van der Waals forces",
+    "confidence": [
+      [
+        "Van",
+        -0.54348314
+      ],
+      [
+        " der",
+        -1.9816675e-06
+      ],
+      [
+        " Wa",
+        -3.1281633e-07
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " forces",
+        -0.38717955
+      ]
+    ]
+  },
+  "In 1955, Lifshitz used them as the microscopic description of the Casimir effect's bulk property for dielectric media.  The Lennard-Jones potential allows a good approximation of their strengths as a function of distance.  Including both Keesom and Debye forces, this class of intermolecular forces arises": {
+    "guess": "Van der Waals force",
+    "confidence": [
+      [
+        "Van",
+        -0.3736361
+      ],
+      [
+        " der",
+        -1.9361265e-07
+      ],
+      [
+        " Wa",
+        0.0
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " force",
+        -0.07889937
+      ]
+    ]
+  },
+  "In 1955, Lifshitz used them as the microscopic description of the Casimir effect's bulk property for dielectric media.  The Lennard-Jones potential allows a good approximation of their strengths as a function of distance.  Including both Keesom and Debye forces, this class of intermolecular forces arises from the polarization of molecules into dipoles.  They share their name with an equation that corrects": {
+    "guess": "Van der Waals force",
+    "confidence": [
+      [
+        "Van",
+        -0.02587686
+      ],
+      [
+        " der",
+        -3.1281633e-07
+      ],
+      [
+        " Wa",
+        0.0
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " force",
+        -0.25196764
+      ]
+    ]
+  },
+  "In 1955, Lifshitz used them as the microscopic description of the Casimir effect's bulk property for dielectric media.  The Lennard-Jones potential allows a good approximation of their strengths as a function of distance.  Including both Keesom and Debye forces, this class of intermolecular forces arises from the polarization of molecules into dipoles.  They share their name with an equation that corrects the ideal gas law and are sometimes called London dispersion forces.  FTP, name this set of": {
+    "guess": "Van der Waals force",
+    "confidence": [
+      [
+        "Van",
+        -0.00014358829
+      ],
+      [
+        " der",
+        0.0
+      ],
+      [
+        " Wa",
+        0.0
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " force",
+        -0.004078878
+      ]
+    ]
+  },
+  "In 1955, Lifshitz used them as the microscopic description of the Casimir effect's bulk property for dielectric media.  The Lennard-Jones potential allows a good approximation of their strengths as a function of distance.  Including both Keesom and Debye forces, this class of intermolecular forces arises from the polarization of molecules into dipoles.  They share their name with an equation that corrects the ideal gas law and are sometimes called London dispersion forces.  FTP, name this set of intermolecular forces named after the Dutch scientist who received the 1910 Nobel Prize in physics.": {
+    "guess": "Van der Waals force",
+    "confidence": [
+      [
+        "Van",
+        -0.0067398814
+      ],
+      [
+        " der",
+        -4.3202e-07
+      ],
+      [
+        " Wa",
+        0.0
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " force",
+        -0.0021867838
+      ]
+    ]
+  },
+  "Lieschen [lee-shen] is addicted to coffee in a cantata by this composer of the Notebook for Anna Magdalena.": {
+    "guess": "Coffee Cantata",
+    "confidence": [
+      [
+        "Coffee",
+        -0.3314852
+      ],
+      [
+        " Cant",
+        -8.299462e-06
+      ],
+      [
+        "ata",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Lieschen [lee-shen] is addicted to coffee in a cantata by this composer of the Notebook for Anna Magdalena. Gounod's [goo-noh's] Ave Maria is based on a prelude from this composer's Well-Tempered Clavier,": {
+    "guess": "J. S. Bach",
+    "confidence": [
+      [
+        "J",
+        -0.20637496
+      ],
+      [
+        ".",
+        -2.4391957e-05
+      ],
+      [
+        " S",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Bach",
+        0.0
+      ]
+    ]
+  },
+  "Lieschen [lee-shen] is addicted to coffee in a cantata by this composer of the Notebook for Anna Magdalena. Gounod's [goo-noh's] Ave Maria is based on a prelude from this composer's Well-Tempered Clavier, and Mendelssohn revived his setting of the St. Matthew Passion. The Art of Fugue was composed by,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.04885282
+      ]
+    ]
+  },
+  "Lieschen [lee-shen] is addicted to coffee in a cantata by this composer of the Notebook for Anna Magdalena. Gounod's [goo-noh's] Ave Maria is based on a prelude from this composer's Well-Tempered Clavier, and Mendelssohn revived his setting of the St. Matthew Passion. The Art of Fugue was composed by, for 10 points, what German Baroque composer of the Goldberg Variations and the Brandenburg Concertos?": {
+    "guess": "Johann Sebastian Bach",
+    "confidence": [
+      [
+        "Joh",
+        -0.030430647
+      ],
+      [
+        "ann",
+        0.0
+      ],
+      [
+        " Sebastian",
+        -4.3202e-07
+      ],
+      [
+        " Bach",
+        0.0
+      ]
+    ]
+  },
+  "The \"lift and strike\" strategy was utilized during this war in which the VOPP peace plan was rejected.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9015982
+      ]
+    ]
+  },
+  "The \"lift and strike\" strategy was utilized during this war in which the VOPP peace plan was rejected. The Markale massacres occurred during this conflict. Its last episode was Operation Sana, which captured": {
+    "guess": "Bosnian War",
+    "confidence": [
+      [
+        "Bos",
+        -0.000115701965
+      ],
+      [
+        "nian",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The \"lift and strike\" strategy was utilized during this war in which the VOPP peace plan was rejected. The Markale massacres occurred during this conflict. Its last episode was Operation Sana, which captured the city of Sanski Most after the lifting of the Siege of Biha\u0107 by Operation Storm. This war": {
+    "guess": "Bosnian War",
+    "confidence": [
+      [
+        "Bos",
+        -0.0009245613
+      ],
+      [
+        "nian",
+        -1.9361265e-07
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The \"lift and strike\" strategy was utilized during this war in which the VOPP peace plan was rejected. The Markale massacres occurred during this conflict. Its last episode was Operation Sana, which captured the city of Sanski Most after the lifting of the Siege of Biha\u0107 by Operation Storm. This war also included the NATO operations Deny Flight and Deliberate Force, the former of which resulted in": {
+    "guess": "Bosnian War",
+    "confidence": [
+      [
+        "Bos",
+        -0.0019437458
+      ],
+      [
+        "nian",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The \"lift and strike\" strategy was utilized during this war in which the VOPP peace plan was rejected. The Markale massacres occurred during this conflict. Its last episode was Operation Sana, which captured the city of Sanski Most after the lifting of the Siege of Biha\u0107 by Operation Storm. This war also included the NATO operations Deny Flight and Deliberate Force, the former of which resulted in the Banja Luka incident. One city in this conflict became known for its \"sniper (*) alleys.\" During": {
+    "guess": "Bosnian War",
+    "confidence": [
+      [
+        "Bos",
+        -0.0015191457
+      ],
+      [
+        "nian",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The \"lift and strike\" strategy was utilized during this war in which the VOPP peace plan was rejected. The Markale massacres occurred during this conflict. Its last episode was Operation Sana, which captured the city of Sanski Most after the lifting of the Siege of Biha\u0107 by Operation Storm. This war also included the NATO operations Deny Flight and Deliberate Force, the former of which resulted in the Banja Luka incident. One city in this conflict became known for its \"sniper (*) alleys.\" During this conflict, Ratko Mladi\u0107's Army of Republika Srpska killed over 8,000 men and boys at Srebrenica.": {
+    "guess": "Bosnian War",
+    "confidence": [
+      [
+        "Bos",
+        -8.537869e-06
+      ],
+      [
+        "nian",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The \"lift and strike\" strategy was utilized during this war in which the VOPP peace plan was rejected. The Markale massacres occurred during this conflict. Its last episode was Operation Sana, which captured the city of Sanski Most after the lifting of the Siege of Biha\u0107 by Operation Storm. This war also included the NATO operations Deny Flight and Deliberate Force, the former of which resulted in the Banja Luka incident. One city in this conflict became known for its \"sniper (*) alleys.\" During this conflict, Ratko Mladi\u0107's Army of Republika Srpska killed over 8,000 men and boys at Srebrenica. The peace treaty that ended this conflict was signed by Alija Izetbegovi\u0107, Franjo Tu\u0111man, and Bill": {
+    "guess": "Bosnian War",
+    "confidence": [
+      [
+        "Bos",
+        -0.0012614254
+      ],
+      [
+        "nian",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The \"lift and strike\" strategy was utilized during this war in which the VOPP peace plan was rejected. The Markale massacres occurred during this conflict. Its last episode was Operation Sana, which captured the city of Sanski Most after the lifting of the Siege of Biha\u0107 by Operation Storm. This war also included the NATO operations Deny Flight and Deliberate Force, the former of which resulted in the Banja Luka incident. One city in this conflict became known for its \"sniper (*) alleys.\" During this conflict, Ratko Mladi\u0107's Army of Republika Srpska killed over 8,000 men and boys at Srebrenica. The peace treaty that ended this conflict was signed by Alija Izetbegovi\u0107, Franjo Tu\u0111man, and Bill Clinton. For 10 points, name this Balkan civil war of the 1990s that ended with the Dayton Accords and": {
+    "guess": "Bosnian War",
+    "confidence": [
+      [
+        "Bos",
+        -0.014220271
+      ],
+      [
+        "nian",
+        -1.9361265e-07
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "The \"lift and strike\" strategy was utilized during this war in which the VOPP peace plan was rejected. The Markale massacres occurred during this conflict. Its last episode was Operation Sana, which captured the city of Sanski Most after the lifting of the Siege of Biha\u0107 by Operation Storm. This war also included the NATO operations Deny Flight and Deliberate Force, the former of which resulted in the Banja Luka incident. One city in this conflict became known for its \"sniper (*) alleys.\" During this conflict, Ratko Mladi\u0107's Army of Republika Srpska killed over 8,000 men and boys at Srebrenica. The peace treaty that ended this conflict was signed by Alija Izetbegovi\u0107, Franjo Tu\u0111man, and Bill Clinton. For 10 points, name this Balkan civil war of the 1990s that ended with the Dayton Accords and included the Siege of Sarajevo.": {
+    "guess": "Bosnian War",
+    "confidence": [
+      [
+        "Bos",
+        -0.03368858
+      ],
+      [
+        "nian",
+        -1.9361265e-07
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "On Life and Letters, Marguerite, The Human Tragedy, The White Stone, and Mother of Pearl are lesser known": {
+    "guess": "Anatole France",
+    "confidence": [
+      [
+        "An",
+        -0.0032837098
+      ],
+      [
+        "at",
+        -3.1281633e-07
+      ],
+      [
+        "ole",
+        0.0
+      ],
+      [
+        " France",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "On Life and Letters, Marguerite, The Human Tragedy, The White Stone, and Mother of Pearl are lesser known works of this author. Born in 1844, he was elected to the French Academy in 1896, and he is known": {
+    "guess": "Anatole France",
+    "confidence": [
+      [
+        "An",
+        -0.00044783088
+      ],
+      [
+        "at",
+        -3.1281633e-07
+      ],
+      [
+        "ole",
+        0.0
+      ],
+      [
+        " France",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "On Life and Letters, Marguerite, The Human Tragedy, The White Stone, and Mother of Pearl are lesser known works of this author. Born in 1844, he was elected to the French Academy in 1896, and he is known as a skillful humorist and satirist. He is perhaps better known for The Gods are Athirst and The": {
+    "guess": "Anatole France",
+    "confidence": [
+      [
+        "An",
+        -0.000350955
+      ],
+      [
+        "at",
+        -3.1281633e-07
+      ],
+      [
+        "ole",
+        0.0
+      ],
+      [
+        " France",
+        0.0
+      ]
+    ]
+  },
+  "On Life and Letters, Marguerite, The Human Tragedy, The White Stone, and Mother of Pearl are lesser known works of this author. Born in 1844, he was elected to the French Academy in 1896, and he is known as a skillful humorist and satirist. He is perhaps better known for The Gods are Athirst and The Revolt of the Angels. FTP, name this author of Penguin Island, the winner of the 1921 Nobel Prize in": {
+    "guess": "Anatole France",
+    "confidence": [
+      [
+        "An",
+        -0.0008454834
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ole",
+        0.0
+      ],
+      [
+        " France",
+        0.0
+      ]
+    ]
+  },
+  "On Life and Letters, Marguerite, The Human Tragedy, The White Stone, and Mother of Pearl are lesser known works of this author. Born in 1844, he was elected to the French Academy in 1896, and he is known as a skillful humorist and satirist. He is perhaps better known for The Gods are Athirst and The Revolt of the Angels. FTP, name this author of Penguin Island, the winner of the 1921 Nobel Prize in Literature.": {
+    "guess": "Anatole France",
+    "confidence": [
+      [
+        "An",
+        -0.043105952
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ole",
+        0.0
+      ],
+      [
+        " France",
+        0.0
+      ]
+    ]
+  }
+}

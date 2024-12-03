@@ -1,0 +1,308 @@
+{
+  "The Schaeffer-Bergmann variety of this phenomenon arises in interactions with sounds that take place": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.5903563
+      ],
+      [
+        "raction",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "The Schaeffer-Bergmann variety of this phenomenon arises in interactions with sounds that take place in crystals, and the Kirchhoff formalism derives this phenomenon from a scalar differential wave theory.": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.0047113644
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The Schaeffer-Bergmann variety of this phenomenon arises in interactions with sounds that take place in crystals, and the Kirchhoff formalism derives this phenomenon from a scalar differential wave theory. The Cornu spiral is a graphical depiction of Fresnel integrals, which characterize the near-field": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.0010754421
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The Schaeffer-Bergmann variety of this phenomenon arises in interactions with sounds that take place in crystals, and the Kirchhoff formalism derives this phenomenon from a scalar differential wave theory. The Cornu spiral is a graphical depiction of Fresnel integrals, which characterize the near-field variety of this process, while the far-field variety is known as the Fraunhoffer type. For a circular": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.0005294414
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The Schaeffer-Bergmann variety of this phenomenon arises in interactions with sounds that take place in crystals, and the Kirchhoff formalism derives this phenomenon from a scalar differential wave theory. The Cornu spiral is a graphical depiction of Fresnel integrals, which characterize the near-field variety of this process, while the far-field variety is known as the Fraunhoffer type. For a circular aperture, this phenomenon results in Airy discs, and the Rayleigh criterion represents the maximum": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.0006498866
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The Schaeffer-Bergmann variety of this phenomenon arises in interactions with sounds that take place in crystals, and the Kirchhoff formalism derives this phenomenon from a scalar differential wave theory. The Cornu spiral is a graphical depiction of Fresnel integrals, which characterize the near-field variety of this process, while the far-field variety is known as the Fraunhoffer type. For a circular aperture, this phenomenon results in Airy discs, and the Rayleigh criterion represents the maximum resolvability of a lens known as this phenomenon's namesake limit. Governed in x-ray crystallography": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.0010994918
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The Schaeffer-Bergmann variety of this phenomenon arises in interactions with sounds that take place in crystals, and the Kirchhoff formalism derives this phenomenon from a scalar differential wave theory. The Cornu spiral is a graphical depiction of Fresnel integrals, which characterize the near-field variety of this process, while the far-field variety is known as the Fraunhoffer type. For a circular aperture, this phenomenon results in Airy discs, and the Rayleigh criterion represents the maximum resolvability of a lens known as this phenomenon's namesake limit. Governed in x-ray crystallography by Bragg's law, FTP, identify this optical effect in which light bends around the edges of an aperture.": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -4.978234e-05
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The Schaffer-Bergman form of this phenomenon is caused by light interacting with sound propagating through": {
+    "guess": "Acousto-optic effect",
+    "confidence": [
+      [
+        "Ac",
+        -0.53052396
+      ],
+      [
+        "ou",
+        -0.032060843
+      ],
+      [
+        "sto",
+        -4.5491004e-05
+      ],
+      [
+        "-opt",
+        -0.00012642296
+      ],
+      [
+        "ic",
+        -0.12701283
+      ],
+      [
+        " effect",
+        -0.0013680962
+      ]
+    ]
+  },
+  "The Schaffer-Bergman form of this phenomenon is caused by light interacting with sound propagating through a medium.  In transmission electron microscopy, accelerated electrons undergo this phenomenon,": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.04578447
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The Schaffer-Bergman form of this phenomenon is caused by light interacting with sound propagating through a medium.  In transmission electron microscopy, accelerated electrons undergo this phenomenon, resulting in a reflection of the sample crystal's reciprocal lattice.  In optics, it leads to the appearance": {
+    "guess": "Bragg diffraction",
+    "confidence": [
+      [
+        "Br",
+        -0.21628332
+      ],
+      [
+        "agg",
+        -5.3596854e-05
+      ],
+      [
+        " diffraction",
+        -0.10326474
+      ]
+    ]
+  },
+  "The Schaffer-Bergman form of this phenomenon is caused by light interacting with sound propagating through a medium.  In transmission electron microscopy, accelerated electrons undergo this phenomenon, resulting in a reflection of the sample crystal's reciprocal lattice.  In optics, it leads to the appearance of an Airy disc, which determines the Rayleigh criterion for the focusing power of telescopes.": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.00047654795
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The Schaffer-Bergman form of this phenomenon is caused by light interacting with sound propagating through a medium.  In transmission electron microscopy, accelerated electrons undergo this phenomenon, resulting in a reflection of the sample crystal's reciprocal lattice.  In optics, it leads to the appearance of an Airy disc, which determines the Rayleigh criterion for the focusing power of telescopes.  Bragg's law specifies the geometry required for this type of interaction of x-rays with a crystal": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.0017519378
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The Schaffer-Bergman form of this phenomenon is caused by light interacting with sound propagating through a medium.  In transmission electron microscopy, accelerated electrons undergo this phenomenon, resulting in a reflection of the sample crystal's reciprocal lattice.  In optics, it leads to the appearance of an Airy disc, which determines the Rayleigh criterion for the focusing power of telescopes.  Bragg's law specifies the geometry required for this type of interaction of x-rays with a crystal lattice.  A more familiar display of this property involves a laser beam passing through a thin": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.03225915
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The Schaffer-Bergman form of this phenomenon is caused by light interacting with sound propagating through a medium.  In transmission electron microscopy, accelerated electrons undergo this phenomenon, resulting in a reflection of the sample crystal's reciprocal lattice.  In optics, it leads to the appearance of an Airy disc, which determines the Rayleigh criterion for the focusing power of telescopes.  Bragg's law specifies the geometry required for this type of interaction of x-rays with a crystal lattice.  A more familiar display of this property involves a laser beam passing through a thin slit.  FTP, name this wave phenomenon that describes the interference of waves upon interaction with": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.0032737295
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The Schaffer-Bergman form of this phenomenon is caused by light interacting with sound propagating through a medium.  In transmission electron microscopy, accelerated electrons undergo this phenomenon, resulting in a reflection of the sample crystal's reciprocal lattice.  In optics, it leads to the appearance of an Airy disc, which determines the Rayleigh criterion for the focusing power of telescopes.  Bragg's law specifies the geometry required for this type of interaction of x-rays with a crystal lattice.  A more familiar display of this property involves a laser beam passing through a thin slit.  FTP, name this wave phenomenon that describes the interference of waves upon interaction with a barrier, taking its name from the Latin for \"to break into pieces\".": {
+    "guess": "Diffraction",
+    "confidence": [
+      [
+        "Diff",
+        -0.00035072025
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "A Schatzki ring is the narrowing of the lower part of this organ. Bleeding occurs in tears in the lower": {
+    "guess": "Esophagus",
+    "confidence": [
+      [
+        "Es",
+        -0.00020771251
+      ],
+      [
+        "ophagus",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A Schatzki ring is the narrowing of the lower part of this organ. Bleeding occurs in tears in the lower epithelium of this organ in Mallory-Weiss syndrome. Redifferentiation of cells in the lower end of": {
+    "guess": "Esophagus",
+    "confidence": [
+      [
+        "Es",
+        -0.00012058931
+      ],
+      [
+        "ophagus",
+        0.0
+      ]
+    ]
+  },
+  "A Schatzki ring is the narrowing of the lower part of this organ. Bleeding occurs in tears in the lower epithelium of this organ in Mallory-Weiss syndrome. Redifferentiation of cells in the lower end of this organ is caused by Barrett's disease. GERD occurs when this organ is exposed to increasingly": {
+    "guess": "Esophagus",
+    "confidence": [
+      [
+        "Es",
+        -6.384837e-05
+      ],
+      [
+        "ophagus",
+        0.0
+      ]
+    ]
+  },
+  "A Schatzki ring is the narrowing of the lower part of this organ. Bleeding occurs in tears in the lower epithelium of this organ in Mallory-Weiss syndrome. Redifferentiation of cells in the lower end of this organ is caused by Barrett's disease. GERD occurs when this organ is exposed to increasingly acidic conditions. The cardiac sphincter separates this organ from the stomach, and failure of that": {
+    "guess": "Esophagus",
+    "confidence": [
+      [
+        "Es",
+        -4.7159858e-05
+      ],
+      [
+        "ophagus",
+        0.0
+      ]
+    ]
+  },
+  "A Schatzki ring is the narrowing of the lower part of this organ. Bleeding occurs in tears in the lower epithelium of this organ in Mallory-Weiss syndrome. Redifferentiation of cells in the lower end of this organ is caused by Barrett's disease. GERD occurs when this organ is exposed to increasingly acidic conditions. The cardiac sphincter separates this organ from the stomach, and failure of that sphincter to close properly may lead to the reflux of acid into this organ. This organ's muscles move": {
+    "guess": "Esophagus",
+    "confidence": [
+      [
+        "Es",
+        -4.7040652e-05
+      ],
+      [
+        "ophagus",
+        0.0
+      ]
+    ]
+  },
+  "A Schatzki ring is the narrowing of the lower part of this organ. Bleeding occurs in tears in the lower epithelium of this organ in Mallory-Weiss syndrome. Redifferentiation of cells in the lower end of this organ is caused by Barrett's disease. GERD occurs when this organ is exposed to increasingly acidic conditions. The cardiac sphincter separates this organ from the stomach, and failure of that sphincter to close properly may lead to the reflux of acid into this organ. This organ's muscles move in a wavelike motion called peristalsis to transport boluses down to the stomach. For 10 points, name": {
+    "guess": "Esophagus",
+    "confidence": [
+      [
+        "Es",
+        -0.00016504127
+      ],
+      [
+        "ophagus",
+        0.0
+      ]
+    ]
+  },
+  "A Schatzki ring is the narrowing of the lower part of this organ. Bleeding occurs in tears in the lower epithelium of this organ in Mallory-Weiss syndrome. Redifferentiation of cells in the lower end of this organ is caused by Barrett's disease. GERD occurs when this organ is exposed to increasingly acidic conditions. The cardiac sphincter separates this organ from the stomach, and failure of that sphincter to close properly may lead to the reflux of acid into this organ. This organ's muscles move in a wavelike motion called peristalsis to transport boluses down to the stomach. For 10 points, name this tube-like organ that transfers food from the mouth to the stomach.": {
+    "guess": "Esophagus",
+    "confidence": [
+      [
+        "Es",
+        -6.253713e-05
+      ],
+      [
+        "ophagus",
+        0.0
+      ]
+    ]
+  }
+}

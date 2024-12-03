@@ -1,0 +1,352 @@
+{
+  "The oxo variant of this reaction is used to construct dihydropyran from carbonyl groups. The stereo-": {
+    "guess": "Prins reaction",
+    "confidence": [
+      [
+        "Pr",
+        -0.39770144
+      ],
+      [
+        "ins",
+        -1.9504607e-05
+      ],
+      [
+        " reaction",
+        -0.00012546933
+      ]
+    ]
+  },
+  "The oxo variant of this reaction is used to construct dihydropyran from carbonyl groups. The stereo- and regiochemistry of this reaction can be predicted using rules named for one of its namesakes and": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7277492
+      ]
+    ]
+  },
+  "The oxo variant of this reaction is used to construct dihydropyran from carbonyl groups. The stereo- and regiochemistry of this reaction can be predicted using rules named for one of its namesakes and Stein, which is also known as the cis principle. This is definitely the most famous name reaction for": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.17002332
+      ],
+      [
+        "iels",
+        -4.2153304e-05
+      ],
+      [
+        "-A",
+        -0.100208715
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.00872259
+      ]
+    ]
+  },
+  "The oxo variant of this reaction is used to construct dihydropyran from carbonyl groups. The stereo- and regiochemistry of this reaction can be predicted using rules named for one of its namesakes and Stein, which is also known as the cis principle. This is definitely the most famous name reaction for which the selection rules of Woodward and Hoffmann apply. Interestingly, this reaction involves the": {
+    "guess": "Diels\u2013Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.026539933
+      ],
+      [
+        "iels",
+        -2.3392786e-06
+      ],
+      [
+        "\u2013",
+        -0.0003357006
+      ],
+      [
+        "A",
+        0.0
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "The oxo variant of this reaction is used to construct dihydropyran from carbonyl groups. The stereo- and regiochemistry of this reaction can be predicted using rules named for one of its namesakes and Stein, which is also known as the cis principle. This is definitely the most famous name reaction for which the selection rules of Woodward and Hoffmann apply. Interestingly, this reaction involves the interaction of the HOMO of one reactant and the LUMO of the other, a situation that is reversed in": {
+    "guess": "Diels\u2013Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.0068441923
+      ],
+      [
+        "iels",
+        -4.3202e-07
+      ],
+      [
+        "\u2013",
+        -2.1531068e-05
+      ],
+      [
+        "A",
+        0.0
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The oxo variant of this reaction is used to construct dihydropyran from carbonyl groups. The stereo- and regiochemistry of this reaction can be predicted using rules named for one of its namesakes and Stein, which is also known as the cis principle. This is definitely the most famous name reaction for which the selection rules of Woodward and Hoffmann apply. Interestingly, this reaction involves the interaction of the HOMO of one reactant and the LUMO of the other, a situation that is reversed in its \"inverse demand\" form. Danishefsky's reagent and maleic anhydride are commonly used reactants for": {
+    "guess": "Diels\u2013Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -8.876193e-05
+      ],
+      [
+        "iels",
+        0.0
+      ],
+      [
+        "\u2013",
+        -3.1305768e-05
+      ],
+      [
+        "A",
+        0.0
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The oxo variant of this reaction is used to construct dihydropyran from carbonyl groups. The stereo- and regiochemistry of this reaction can be predicted using rules named for one of its namesakes and Stein, which is also known as the cis principle. This is definitely the most famous name reaction for which the selection rules of Woodward and Hoffmann apply. Interestingly, this reaction involves the interaction of the HOMO of one reactant and the LUMO of the other, a situation that is reversed in its \"inverse demand\" form. Danishefsky's reagent and maleic anhydride are commonly used reactants for this reaction. Because the stereoisomer in this concerted/pericyclic reaction depends on whether": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.0009873193
+      ],
+      [
+        "iels",
+        -5.5122365e-07
+      ],
+      [
+        "-A",
+        -0.5759406
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.0012727352
+      ]
+    ]
+  },
+  "The oxo variant of this reaction is used to construct dihydropyran from carbonyl groups. The stereo- and regiochemistry of this reaction can be predicted using rules named for one of its namesakes and Stein, which is also known as the cis principle. This is definitely the most famous name reaction for which the selection rules of Woodward and Hoffmann apply. Interestingly, this reaction involves the interaction of the HOMO of one reactant and the LUMO of the other, a situation that is reversed in its \"inverse demand\" form. Danishefsky's reagent and maleic anhydride are commonly used reactants for this reaction. Because the stereoisomer in this concerted/pericyclic reaction depends on whether the reactants are aligned or staggered in the transition state, the endo state is kinetically favored.": {
+    "guess": "Diels\u2013Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.0041914177
+      ],
+      [
+        "iels",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.0024762547
+      ],
+      [
+        "A",
+        0.0
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "The oxo variant of this reaction is used to construct dihydropyran from carbonyl groups. The stereo- and regiochemistry of this reaction can be predicted using rules named for one of its namesakes and Stein, which is also known as the cis principle. This is definitely the most famous name reaction for which the selection rules of Woodward and Hoffmann apply. Interestingly, this reaction involves the interaction of the HOMO of one reactant and the LUMO of the other, a situation that is reversed in its \"inverse demand\" form. Danishefsky's reagent and maleic anhydride are commonly used reactants for this reaction. Because the stereoisomer in this concerted/pericyclic reaction depends on whether the reactants are aligned or staggered in the transition state, the endo state is kinetically favored. For 10 points, identify this doubly-eponymous reaction in which a cyclohexene is produced from the": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.00023965542
+      ],
+      [
+        "iels",
+        -1.6240566e-06
+      ],
+      [
+        "-A",
+        -0.31326205
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.008719763
+      ]
+    ]
+  },
+  "The oxo variant of this reaction is used to construct dihydropyran from carbonyl groups. The stereo- and regiochemistry of this reaction can be predicted using rules named for one of its namesakes and Stein, which is also known as the cis principle. This is definitely the most famous name reaction for which the selection rules of Woodward and Hoffmann apply. Interestingly, this reaction involves the interaction of the HOMO of one reactant and the LUMO of the other, a situation that is reversed in its \"inverse demand\" form. Danishefsky's reagent and maleic anhydride are commonly used reactants for this reaction. Because the stereoisomer in this concerted/pericyclic reaction depends on whether the reactants are aligned or staggered in the transition state, the endo state is kinetically favored. For 10 points, identify this doubly-eponymous reaction in which a cyclohexene is produced from the cycloaddition of a conjugated diene and an alkene, or dienophile": {
+    "guess": "Diels-Alder reaction",
+    "confidence": [
+      [
+        "D",
+        -0.00012678056
+      ],
+      [
+        "iels",
+        -5.5122365e-07
+      ],
+      [
+        "-A",
+        -0.31326213
+      ],
+      [
+        "lder",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.005392534
+      ]
+    ]
+  },
+  "The oxo process uses a catalyst containing this metal bonded to four carbonyl groups, which is useful": {
+    "guess": "Rhodium",
+    "confidence": [
+      [
+        "R",
+        -0.39970016
+      ],
+      [
+        "hod",
+        -0.00053933164
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "The oxo process uses a catalyst containing this metal bonded to four carbonyl groups, which is useful for hydroformylations. To prove parity violation, the Wu experiment used atoms of this element. The": {
+    "guess": "Cobalt",
+    "confidence": [
+      [
+        "C",
+        -0.0013173815
+      ],
+      [
+        "obalt",
+        0.0
+      ]
+    ]
+  },
+  "The oxo process uses a catalyst containing this metal bonded to four carbonyl groups, which is useful for hydroformylations. To prove parity violation, the Wu experiment used atoms of this element. The first Werner coordination complex contained this metal bonded to four ammines. This element's chloride": {
+    "guess": "Cobalt",
+    "confidence": [
+      [
+        "C",
+        -0.018848352
+      ],
+      [
+        "obalt",
+        0.0
+      ]
+    ]
+  },
+  "The oxo process uses a catalyst containing this metal bonded to four carbonyl groups, which is useful for hydroformylations. To prove parity violation, the Wu experiment used atoms of this element. The first Werner coordination complex contained this metal bonded to four ammines. This element's chloride forms a hexahydrate that is purple in color, but is blue when desiccated. This element is found": {
+    "guess": "Cobalt",
+    "confidence": [
+      [
+        "C",
+        -0.009407186
+      ],
+      [
+        "obalt",
+        0.0
+      ]
+    ]
+  },
+  "The oxo process uses a catalyst containing this metal bonded to four carbonyl groups, which is useful for hydroformylations. To prove parity violation, the Wu experiment used atoms of this element. The first Werner coordination complex contained this metal bonded to four ammines. This element's chloride forms a hexahydrate that is purple in color, but is blue when desiccated. This element is found in a (*) corrin ring in a biological compound required for the synthesis of odd-chain fatty acids. That": {
+    "guess": "Cobalt",
+    "confidence": [
+      [
+        "C",
+        -0.0029014014
+      ],
+      [
+        "obalt",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The oxo process uses a catalyst containing this metal bonded to four carbonyl groups, which is useful for hydroformylations. To prove parity violation, the Wu experiment used atoms of this element. The first Werner coordination complex contained this metal bonded to four ammines. This element's chloride forms a hexahydrate that is purple in color, but is blue when desiccated. This element is found in a (*) corrin ring in a biological compound required for the synthesis of odd-chain fatty acids. That vitamin, which requires intrinsic factor for its absorption, is B12. This element, iron, and nickel": {
+    "guess": "Cobalt",
+    "confidence": [
+      [
+        "C",
+        -8.10137e-05
+      ],
+      [
+        "obalt",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The oxo process uses a catalyst containing this metal bonded to four carbonyl groups, which is useful for hydroformylations. To prove parity violation, the Wu experiment used atoms of this element. The first Werner coordination complex contained this metal bonded to four ammines. This element's chloride forms a hexahydrate that is purple in color, but is blue when desiccated. This element is found in a (*) corrin ring in a biological compound required for the synthesis of odd-chain fatty acids. That vitamin, which requires intrinsic factor for its absorption, is B12. This element, iron, and nickel are ferromagnetic. For 10 points, name this transition metal which forms a namesake blue glass,": {
+    "guess": "Cobalt",
+    "confidence": [
+      [
+        "C",
+        -0.0018019152
+      ],
+      [
+        "obalt",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The oxo process uses a catalyst containing this metal bonded to four carbonyl groups, which is useful for hydroformylations. To prove parity violation, the Wu experiment used atoms of this element. The first Werner coordination complex contained this metal bonded to four ammines. This element's chloride forms a hexahydrate that is purple in color, but is blue when desiccated. This element is found in a (*) corrin ring in a biological compound required for the synthesis of odd-chain fatty acids. That vitamin, which requires intrinsic factor for its absorption, is B12. This element, iron, and nickel are ferromagnetic. For 10 points, name this transition metal which forms a namesake blue glass, and which lies right after iron on the Periodic Table.": {
+    "guess": "Cobalt",
+    "confidence": [
+      [
+        "C",
+        -0.003032494
+      ],
+      [
+        "obalt",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,3495 @@
+{
+  "When this function is divided by its input, a new function results that acts as the ideal reconstruction": {
+    "guess": "Sinc function",
+    "confidence": [
+      [
+        "S",
+        -0.17301181
+      ],
+      [
+        "inc",
+        -0.0003460713
+      ],
+      [
+        " function",
+        -0.03264656
+      ]
+    ]
+  },
+  "When this function is divided by its input, a new function results that acts as the ideal reconstruction filter. That filter exhibits the Gibbs phenomenon, and this function is used in Fourier series representations": {
+    "guess": "Sinc function",
+    "confidence": [
+      [
+        "S",
+        -0.005765015
+      ],
+      [
+        "inc",
+        -0.008616346
+      ],
+      [
+        " function",
+        -0.0016048403
+      ]
+    ]
+  },
+  "When this function is divided by its input, a new function results that acts as the ideal reconstruction filter. That filter exhibits the Gibbs phenomenon, and this function is used in Fourier series representations of odd functions.  In Euler's formula, this function represents the imaginary part and": {
+    "guess": "Sinc function",
+    "confidence": [
+      [
+        "S",
+        -0.013541116
+      ],
+      [
+        "inc",
+        -0.31326318
+      ],
+      [
+        " function",
+        -0.0014072555
+      ]
+    ]
+  },
+  "When this function is divided by its input, a new function results that acts as the ideal reconstruction filter. That filter exhibits the Gibbs phenomenon, and this function is used in Fourier series representations of odd functions.  In Euler's formula, this function represents the imaginary part and as such is multiplied by i. The Taylor series for this function consist of alternating terms of the": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.014091218
+      ],
+      [
+        "ine",
+        -0.00015848507
+      ]
+    ]
+  },
+  "When this function is divided by its input, a new function results that acts as the ideal reconstruction filter. That filter exhibits the Gibbs phenomenon, and this function is used in Fourier series representations of odd functions.  In Euler's formula, this function represents the imaginary part and as such is multiplied by i. The Taylor series for this function consist of alternating terms of the form X to N where N is odd, divided by N factorial. Its derivative is cosine, a function that is this": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.0069825947
+      ],
+      [
+        "ine",
+        -0.00043066923
+      ]
+    ]
+  },
+  "When this function is divided by its input, a new function results that acts as the ideal reconstruction filter. That filter exhibits the Gibbs phenomenon, and this function is used in Fourier series representations of odd functions.  In Euler's formula, this function represents the imaginary part and as such is multiplied by i. The Taylor series for this function consist of alternating terms of the form X to N where N is odd, divided by N factorial. Its derivative is cosine, a function that is this function shifted by 90 degrees.  For 10 points, name this trigonometric function that for an angle": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.00018518302
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "When this function is divided by its input, a new function results that acts as the ideal reconstruction filter. That filter exhibits the Gibbs phenomenon, and this function is used in Fourier series representations of odd functions.  In Euler's formula, this function represents the imaginary part and as such is multiplied by i. The Taylor series for this function consist of alternating terms of the form X to N where N is odd, divided by N factorial. Its derivative is cosine, a function that is this function shifted by 90 degrees.  For 10 points, name this trigonometric function that for an angle is equal to the length of the opposite side divided by the hypotenuse.": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.0028279386
+      ],
+      [
+        "ine",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "This functional group is the product of the Petasis reaction, which combines a carbonyl compound with": {
+    "guess": "Amine",
+    "confidence": [
+      [
+        "Am",
+        -0.16617027
+      ],
+      [
+        "ine",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "This functional group is the product of the Petasis reaction, which combines a carbonyl compound with one of these to create a more complicated one. The Kabachnik-Fields reaction combines one of these": {
+    "guess": "Amine",
+    "confidence": [
+      [
+        "Am",
+        -0.00233902
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is the product of the Petasis reaction, which combines a carbonyl compound with one of these to create a more complicated one. The Kabachnik-Fields reaction combines one of these with a carbonyl and a hydro-phosphoryl in a reaction that is often the first step in creating peptidomimetic": {
+    "guess": "Amine",
+    "confidence": [
+      [
+        "Am",
+        -0.0008864454
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is the product of the Petasis reaction, which combines a carbonyl compound with one of these to create a more complicated one. The Kabachnik-Fields reaction combines one of these with a carbonyl and a hydro-phosphoryl in a reaction that is often the first step in creating peptidomimetic compounds. The Mannich reaction creates a secondary or tertiary one, while the product of the": {
+    "guess": "Amine",
+    "confidence": [
+      [
+        "Am",
+        -0.0022838379
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is the product of the Petasis reaction, which combines a carbonyl compound with one of these to create a more complicated one. The Kabachnik-Fields reaction combines one of these with a carbonyl and a hydro-phosphoryl in a reaction that is often the first step in creating peptidomimetic compounds. The Mannich reaction creates a secondary or tertiary one, while the product of the Strecker synthesis includes one of these and a carboxylic acid.  Often created by the reaction of": {
+    "guess": "Amine",
+    "confidence": [
+      [
+        "Am",
+        -0.00067418953
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is the product of the Petasis reaction, which combines a carbonyl compound with one of these to create a more complicated one. The Kabachnik-Fields reaction combines one of these with a carbonyl and a hydro-phosphoryl in a reaction that is often the first step in creating peptidomimetic compounds. The Mannich reaction creates a secondary or tertiary one, while the product of the Strecker synthesis includes one of these and a carboxylic acid.  Often created by the reaction of an imine and sodium cyano-borohydride, this is, FTP, what functional group that consists of three hydrogen": {
+    "guess": "Amine",
+    "confidence": [
+      [
+        "Am",
+        -0.0003242607
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is the product of the Petasis reaction, which combines a carbonyl compound with one of these to create a more complicated one. The Kabachnik-Fields reaction combines one of these with a carbonyl and a hydro-phosphoryl in a reaction that is often the first step in creating peptidomimetic compounds. The Mannich reaction creates a secondary or tertiary one, while the product of the Strecker synthesis includes one of these and a carboxylic acid.  Often created by the reaction of an imine and sodium cyano-borohydride, this is, FTP, what functional group that consists of three hydrogen or carbon atoms singly bonded to one nitrogen atom?": {
+    "guess": "Amine",
+    "confidence": [
+      [
+        "Am",
+        -0.00014764121
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "This functional group can prove toxic by inhibiting the function of cytochrome c oxidase and binding": {
+    "guess": "Cyanide",
+    "confidence": [
+      [
+        "C",
+        -0.1566838
+      ],
+      [
+        "yan",
+        0.0
+      ],
+      [
+        "ide",
+        -5.4385737e-06
+      ]
+    ]
+  },
+  "This functional group can prove toxic by inhibiting the function of cytochrome c oxidase and binding irreversibly to the heme cofactor.  In the Schmidt reaction, this group reacts with an alkene to form": {
+    "guess": "Azide",
+    "confidence": [
+      [
+        "Az",
+        -0.092029326
+      ],
+      [
+        "ide",
+        -3.2497806e-05
+      ]
+    ]
+  },
+  "This functional group can prove toxic by inhibiting the function of cytochrome c oxidase and binding irreversibly to the heme cofactor.  In the Schmidt reaction, this group reacts with an alkene to form a compound that can rearrange to form an imine (\"IM-een\").  Both the Staudinger ligation and the Curtius": {
+    "guess": "Azide",
+    "confidence": [
+      [
+        "Az",
+        -0.014410642
+      ],
+      [
+        "ide",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "This functional group can prove toxic by inhibiting the function of cytochrome c oxidase and binding irreversibly to the heme cofactor.  In the Schmidt reaction, this group reacts with an alkene to form a compound that can rearrange to form an imine (\"IM-een\").  Both the Staudinger ligation and the Curtius rearrangement take advantage of this group's propensity to extrude diatomic nitrogen.  FTP, name": {
+    "guess": "Azide",
+    "confidence": [
+      [
+        "Az",
+        -0.007855746
+      ],
+      [
+        "ide",
+        -2.8160932e-06
+      ]
+    ]
+  },
+  "This functional group can prove toxic by inhibiting the function of cytochrome c oxidase and binding irreversibly to the heme cofactor.  In the Schmidt reaction, this group reacts with an alkene to form a compound that can rearrange to form an imine (\"IM-een\").  Both the Staudinger ligation and the Curtius rearrangement take advantage of this group's propensity to extrude diatomic nitrogen.  FTP, name this functional group consisting of three nitrogen atoms connected by double bonds and represented": {
+    "guess": "Azide",
+    "confidence": [
+      [
+        "Az",
+        -0.006286387
+      ],
+      [
+        "ide",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "This functional group can prove toxic by inhibiting the function of cytochrome c oxidase and binding irreversibly to the heme cofactor.  In the Schmidt reaction, this group reacts with an alkene to form a compound that can rearrange to form an imine (\"IM-een\").  Both the Staudinger ligation and the Curtius rearrangement take advantage of this group's propensity to extrude diatomic nitrogen.  FTP, name this functional group consisting of three nitrogen atoms connected by double bonds and represented as N-3-minus.": {
+    "guess": "Azide",
+    "confidence": [
+      [
+        "Az",
+        -0.011090033
+      ],
+      [
+        "ide",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "It is a fundamental constituent in the processes that produce the breast cancer drug Tamoxifen and the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5255571
+      ]
+    ]
+  },
+  "It is a fundamental constituent in the processes that produce the breast cancer drug Tamoxifen and the anti-inflammatory Naproxen.  Reactions involving it are governed by the Schlenk equilibrium, and these": {
+    "guess": "Grignard reagent",
+    "confidence": [
+      [
+        "Gr",
+        -0.3851107
+      ],
+      [
+        "ign",
+        0.0
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " reagent",
+        -0.29304415
+      ]
+    ]
+  },
+  "It is a fundamental constituent in the processes that produce the breast cancer drug Tamoxifen and the anti-inflammatory Naproxen.  Reactions involving it are governed by the Schlenk equilibrium, and these reactions often take place in diethyl ether or tetrahydrofuran.  The addition of mercuric chloride": {
+    "guess": "Grignard reaction",
+    "confidence": [
+      [
+        "Gr",
+        -0.024039969
+      ],
+      [
+        "ign",
+        0.0
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.020932931
+      ]
+    ]
+  },
+  "It is a fundamental constituent in the processes that produce the breast cancer drug Tamoxifen and the anti-inflammatory Naproxen.  Reactions involving it are governed by the Schlenk equilibrium, and these reactions often take place in diethyl ether or tetrahydrofuran.  The addition of mercuric chloride amalgamates can help to speed up the normally sluggish reactions that form these compounds, which": {
+    "guess": "Grignard reagent",
+    "confidence": [
+      [
+        "Gr",
+        -0.023980387
+      ],
+      [
+        "ign",
+        0.0
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " reagent",
+        -0.04871738
+      ]
+    ]
+  },
+  "It is a fundamental constituent in the processes that produce the breast cancer drug Tamoxifen and the anti-inflammatory Naproxen.  Reactions involving it are governed by the Schlenk equilibrium, and these reactions often take place in diethyl ether or tetrahydrofuran.  The addition of mercuric chloride amalgamates can help to speed up the normally sluggish reactions that form these compounds, which involve adding an alkyl or aryl halide to magnesium.  FTP, identify this reagent used in a namesake": {
+    "guess": "Grignard reagent",
+    "confidence": [
+      [
+        "Gr",
+        -0.0042590885
+      ],
+      [
+        "ign",
+        0.0
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " reagent",
+        -0.00079283566
+      ]
+    ]
+  },
+  "It is a fundamental constituent in the processes that produce the breast cancer drug Tamoxifen and the anti-inflammatory Naproxen.  Reactions involving it are governed by the Schlenk equilibrium, and these reactions often take place in diethyl ether or tetrahydrofuran.  The addition of mercuric chloride amalgamates can help to speed up the normally sluggish reactions that form these compounds, which involve adding an alkyl or aryl halide to magnesium.  FTP, identify this reagent used in a namesake organometallic reaction to form carbon-carbon bonds, which is named after a French chemist.": {
+    "guess": "Grignard reagent",
+    "confidence": [
+      [
+        "Gr",
+        -0.0019707426
+      ],
+      [
+        "ign",
+        0.0
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        " reagent",
+        -0.0010517461
+      ]
+    ]
+  },
+  "Functional divisions of this organ include the lateral lobes, the flocculonodular (FLOCK you low NOD": {
+    "guess": "Cerebellum",
+    "confidence": [
+      [
+        "C",
+        -0.001861165
+      ],
+      [
+        "ere",
+        0.0
+      ],
+      [
+        "bell",
+        0.0
+      ],
+      [
+        "um",
+        0.0
+      ]
+    ]
+  },
+  "Functional divisions of this organ include the lateral lobes, the flocculonodular (FLOCK you low NOD you lar) node, and the vermis.  Within this organ, mossy and climbing fibers modulate the activity of": {
+    "guess": "Cerebellum",
+    "confidence": [
+      [
+        "C",
+        -0.009703099
+      ],
+      [
+        "ere",
+        0.0
+      ],
+      [
+        "bell",
+        0.0
+      ],
+      [
+        "um",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "Functional divisions of this organ include the lateral lobes, the flocculonodular (FLOCK you low NOD you lar) node, and the vermis.  Within this organ, mossy and climbing fibers modulate the activity of Purkinje (per KIN gee) cells, which receive an efference copy of a voluntary movement signal and modulate": {
+    "guess": "Cerebellum",
+    "confidence": [
+      [
+        "C",
+        -0.00011534435
+      ],
+      [
+        "ere",
+        0.0
+      ],
+      [
+        "bell",
+        0.0
+      ],
+      [
+        "um",
+        0.0
+      ]
+    ]
+  },
+  "Functional divisions of this organ include the lateral lobes, the flocculonodular (FLOCK you low NOD you lar) node, and the vermis.  Within this organ, mossy and climbing fibers modulate the activity of Purkinje (per KIN gee) cells, which receive an efference copy of a voluntary movement signal and modulate that movement.  A part of the central nervous system involved in motor learning, FTP, what is": {
+    "guess": "Cerebellum",
+    "confidence": [
+      [
+        "C",
+        -0.0002667
+      ],
+      [
+        "ere",
+        0.0
+      ],
+      [
+        "bell",
+        0.0
+      ],
+      [
+        "um",
+        0.0
+      ]
+    ]
+  },
+  "Functional divisions of this organ include the lateral lobes, the flocculonodular (FLOCK you low NOD you lar) node, and the vermis.  Within this organ, mossy and climbing fibers modulate the activity of Purkinje (per KIN gee) cells, which receive an efference copy of a voluntary movement signal and modulate that movement.  A part of the central nervous system involved in motor learning, FTP, what is this part of the brain found below the occipital lobe of the cerebrum, whose name means \"little brain\"?": {
+    "guess": "Cerebellum",
+    "confidence": [
+      [
+        "C",
+        -6.8616515e-05
+      ],
+      [
+        "ere",
+        0.0
+      ],
+      [
+        "bell",
+        0.0
+      ],
+      [
+        "um",
+        0.0
+      ]
+    ]
+  },
+  "In 1921, its functional significance was determined.  Otto Loewi took fluid from a frog's heart, whose": {
+    "guess": "Vagusstoff",
+    "confidence": [
+      [
+        "V",
+        -0.5179339
+      ],
+      [
+        "agus",
+        -1.9816675e-06
+      ],
+      [
+        "stoff",
+        -0.31360012
+      ]
+    ]
+  },
+  "In 1921, its functional significance was determined.  Otto Loewi took fluid from a frog's heart, whose contractions had been slowed, and let it perfuse a second, unstimulated heart, slowing its beating": {
+    "guess": "Vagus nerve",
+    "confidence": [
+      [
+        "V",
+        -0.44466227
+      ],
+      [
+        "agus",
+        -3.5313153e-06
+      ],
+      [
+        " nerve",
+        -0.1271172
+      ]
+    ]
+  },
+  "In 1921, its functional significance was determined.  Otto Loewi took fluid from a frog's heart, whose contractions had been slowed, and let it perfuse a second, unstimulated heart, slowing its beating as well.  Mimicked by nicotine, this neurotransmitter plays a major role in memory as well as muscle": {
+    "guess": "Acetylcholine",
+    "confidence": [
+      [
+        "Ac",
+        -2.5345586e-05
+      ],
+      [
+        "et",
+        0.0
+      ],
+      [
+        "ylch",
+        0.0
+      ],
+      [
+        "oline",
+        0.0
+      ]
+    ]
+  },
+  "In 1921, its functional significance was determined.  Otto Loewi took fluid from a frog's heart, whose contractions had been slowed, and let it perfuse a second, unstimulated heart, slowing its beating as well.  Mimicked by nicotine, this neurotransmitter plays a major role in memory as well as muscle control.  FTP, name this primary neurotransmitter between neurons and muscles.": {
+    "guess": "Acetylcholine",
+    "confidence": [
+      [
+        "Ac",
+        -8.9357956e-05
+      ],
+      [
+        "et",
+        0.0
+      ],
+      [
+        "ylch",
+        0.0
+      ],
+      [
+        "oline",
+        0.0
+      ]
+    ]
+  },
+  "Its functions include inhibiting seed germination and halting transpiration in droughts.  Mediating the": {
+    "guess": "Abscisic acid",
+    "confidence": [
+      [
+        "Ab",
+        -0.00012999907
+      ],
+      [
+        "sc",
+        -1.9361265e-07
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " acid",
+        -0.018152287
+      ]
+    ]
+  },
+  "Its functions include inhibiting seed germination and halting transpiration in droughts.  Mediating the plant's reaction during times of stress, it is found in the stem, root cap, and older leaves. FTP,": {
+    "guess": "Abscisic acid",
+    "confidence": [
+      [
+        "Ab",
+        -0.0021112398
+      ],
+      [
+        "sc",
+        0.0
+      ],
+      [
+        "is",
+        -1.9361265e-07
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " acid",
+        -0.005247276
+      ]
+    ]
+  },
+  "Its functions include inhibiting seed germination and halting transpiration in droughts.  Mediating the plant's reaction during times of stress, it is found in the stem, root cap, and older leaves. FTP, name this plant hormone which, in contrast to auxins, promotes the falling, or abscission, of leaves": {
+    "guess": "Abscisic acid",
+    "confidence": [
+      [
+        "Ab",
+        -0.0003185426
+      ],
+      [
+        "sc",
+        0.0
+      ],
+      [
+        "is",
+        -1.9361265e-07
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " acid",
+        -0.00132738
+      ]
+    ]
+  },
+  "Its functions include inhibiting seed germination and halting transpiration in droughts.  Mediating the plant's reaction during times of stress, it is found in the stem, root cap, and older leaves. FTP, name this plant hormone which, in contrast to auxins, promotes the falling, or abscission, of leaves before winter dormancy,": {
+    "guess": "Abscisic acid",
+    "confidence": [
+      [
+        "Ab",
+        -0.0014329778
+      ],
+      [
+        "sc",
+        0.0
+      ],
+      [
+        "is",
+        -1.9361265e-07
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " acid",
+        -9.133887e-06
+      ]
+    ]
+  },
+  "This functional group can be formed by a reaction named for Steglich. In the Fries rearrangement, one": {
+    "guess": "Ester",
+    "confidence": [
+      [
+        "E",
+        -0.008563868
+      ],
+      [
+        "ster",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This functional group can be formed by a reaction named for Steglich. In the Fries rearrangement, one of them is reacted with a Lewis acid. A cyclic one is known as a lactone, and ethyl formate is one": {
+    "guess": "Ester",
+    "confidence": [
+      [
+        "E",
+        -0.00027885512
+      ],
+      [
+        "ster",
+        0.0
+      ]
+    ]
+  },
+  "This functional group can be formed by a reaction named for Steglich. In the Fries rearrangement, one of them is reacted with a Lewis acid. A cyclic one is known as a lactone, and ethyl formate is one example of this functional group. The Claisen condensation occurs between two of them, or one of them": {
+    "guess": "Ester",
+    "confidence": [
+      [
+        "E",
+        -0.0003392767
+      ],
+      [
+        "ster",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This functional group can be formed by a reaction named for Steglich. In the Fries rearrangement, one of them is reacted with a Lewis acid. A cyclic one is known as a lactone, and ethyl formate is one example of this functional group. The Claisen condensation occurs between two of them, or one of them and a carbonyl. It can be formed by reacting an oxoacid with an alcohol. For 10 points, name this": {
+    "guess": "Ester",
+    "confidence": [
+      [
+        "E",
+        -0.0013109555
+      ],
+      [
+        "ster",
+        0.0
+      ]
+    ]
+  },
+  "This functional group can be formed by a reaction named for Steglich. In the Fries rearrangement, one of them is reacted with a Lewis acid. A cyclic one is known as a lactone, and ethyl formate is one example of this functional group. The Claisen condensation occurs between two of them, or one of them and a carbonyl. It can be formed by reacting an oxoacid with an alcohol. For 10 points, name this functional group which gives many fruits their distinctive smells.": {
+    "guess": "Ester",
+    "confidence": [
+      [
+        "E",
+        -0.00043460296
+      ],
+      [
+        "ster",
+        0.0
+      ]
+    ]
+  },
+  "A fundamental disagreement between Keynesian and monetarist economics is the question of what this value": {
+    "guess": "Velocity of money",
+    "confidence": [
+      [
+        "Velocity",
+        -0.2234896
+      ],
+      [
+        " of",
+        -1.1756368e-05
+      ],
+      [
+        " money",
+        -0.12692937
+      ]
+    ]
+  },
+  "A fundamental disagreement between Keynesian and monetarist economics is the question of what this value is for the LM curve; for Keynesians it is very high, but for monetarists it is nearly zero. The": {
+    "guess": "Interest rate elasticity of money demand",
+    "confidence": [
+      [
+        "Interest",
+        -0.7197926
+      ],
+      [
+        " rate",
+        -0.57800466
+      ],
+      [
+        " elasticity",
+        -0.0070342124
+      ],
+      [
+        " of",
+        -0.0007275634
+      ],
+      [
+        " money",
+        -0.007700203
+      ],
+      [
+        " demand",
+        -0.00018744789
+      ]
+    ]
+  },
+  "A fundamental disagreement between Keynesian and monetarist economics is the question of what this value is for the LM curve; for Keynesians it is very high, but for monetarists it is nearly zero. The \"arc\" kind of this quantity eliminates biases caused by the choice of the start point in the traditional": {
+    "guess": "Price elasticity of demand",
+    "confidence": [
+      [
+        "Price",
+        -0.34524217
+      ],
+      [
+        " elasticity",
+        -0.0007332705
+      ],
+      [
+        " of",
+        -0.011373177
+      ],
+      [
+        " demand",
+        -0.0024773201
+      ]
+    ]
+  },
+  "A fundamental disagreement between Keynesian and monetarist economics is the question of what this value is for the LM curve; for Keynesians it is very high, but for monetarists it is nearly zero. The \"arc\" kind of this quantity eliminates biases caused by the choice of the start point in the traditional formula for the \"cross\" kind of it, which measures the relationship between one good's price and": {
+    "guess": "Price elasticity of demand",
+    "confidence": [
+      [
+        "Price",
+        -0.34043553
+      ],
+      [
+        " elasticity",
+        -0.0024807698
+      ],
+      [
+        " of",
+        -0.006749716
+      ],
+      [
+        " demand",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "A fundamental disagreement between Keynesian and monetarist economics is the question of what this value is for the LM curve; for Keynesians it is very high, but for monetarists it is nearly zero. The \"arc\" kind of this quantity eliminates biases caused by the choice of the start point in the traditional formula for the \"cross\" kind of it, which measures the relationship between one good's price and the demand for a second good. Goods which one cannot live without have a low value of this quantity.": {
+    "guess": "Price elasticity of demand",
+    "confidence": [
+      [
+        "Price",
+        -0.017770935
+      ],
+      [
+        " elasticity",
+        -0.00029732802
+      ],
+      [
+        " of",
+        -2.8444882e-05
+      ],
+      [
+        " demand",
+        0.0
+      ]
+    ]
+  },
+  "A fundamental disagreement between Keynesian and monetarist economics is the question of what this value is for the LM curve; for Keynesians it is very high, but for monetarists it is nearly zero. The \"arc\" kind of this quantity eliminates biases caused by the choice of the start point in the traditional formula for the \"cross\" kind of it, which measures the relationship between one good's price and the demand for a second good. Goods which one cannot live without have a low value of this quantity. For 10 points, identify this economic quantity that measures how much some curve, such as demand,": {
+    "guess": "Elasticity",
+    "confidence": [
+      [
+        "Elastic",
+        -0.25210625
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "A fundamental disagreement between Keynesian and monetarist economics is the question of what this value is for the LM curve; for Keynesians it is very high, but for monetarists it is nearly zero. The \"arc\" kind of this quantity eliminates biases caused by the choice of the start point in the traditional formula for the \"cross\" kind of it, which measures the relationship between one good's price and the demand for a second good. Goods which one cannot live without have a low value of this quantity. For 10 points, identify this economic quantity that measures how much some curve, such as demand, can change in response to various conditions.": {
+    "guess": "Elasticity",
+    "confidence": [
+      [
+        "Elastic",
+        -0.038138002
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "The fundamental theorem of arithmetic states that every positive integer can be uniquely represented": {
+    "guess": "Prime Numbers",
+    "confidence": [
+      [
+        "Prime",
+        -0.30673707
+      ],
+      [
+        " Numbers",
+        -0.217824
+      ]
+    ]
+  },
+  "The fundamental theorem of arithmetic states that every positive integer can be uniquely represented as a product of these numbers. Special types of these numbers are named after Fermat (\"fur-MAHT\") and": {
+    "guess": "Fermat Number",
+    "confidence": [
+      [
+        "F",
+        -0.77544314
+      ],
+      [
+        "erm",
+        -0.00023131118
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        " Number",
+        -0.6653094
+      ]
+    ]
+  },
+  "The fundamental theorem of arithmetic states that every positive integer can be uniquely represented as a product of these numbers. Special types of these numbers are named after Fermat (\"fur-MAHT\") and Mersenne (\"mur-SEN\"). To find these numbers, one may use the Sieve of Eratosthenes (air-uh-TOSS- then-eez\"),": {
+    "guess": "Prime Numbers",
+    "confidence": [
+      [
+        "Prime",
+        -5.5265704e-05
+      ],
+      [
+        " Numbers",
+        -0.023564797
+      ]
+    ]
+  },
+  "The fundamental theorem of arithmetic states that every positive integer can be uniquely represented as a product of these numbers. Special types of these numbers are named after Fermat (\"fur-MAHT\") and Mersenne (\"mur-SEN\"). To find these numbers, one may use the Sieve of Eratosthenes (air-uh-TOSS- then-eez\"), in which one crosses off all multiples of two, then all multiples of three, and so on. For": {
+    "guess": "Prime Numbers",
+    "confidence": [
+      [
+        "Prime",
+        -0.00021200384
+      ],
+      [
+        " Numbers",
+        -0.05052604
+      ]
+    ]
+  },
+  "The fundamental theorem of arithmetic states that every positive integer can be uniquely represented as a product of these numbers. Special types of these numbers are named after Fermat (\"fur-MAHT\") and Mersenne (\"mur-SEN\"). To find these numbers, one may use the Sieve of Eratosthenes (air-uh-TOSS- then-eez\"), in which one crosses off all multiples of two, then all multiples of three, and so on. For 10 points, give these numbers whose only factors are one and themselves.": {
+    "guess": "Prime numbers",
+    "confidence": [
+      [
+        "Prime",
+        -0.0024923033
+      ],
+      [
+        " numbers",
+        -0.51560503
+      ]
+    ]
+  },
+  "When this function is applied to the natural logarithm of the golden mean it returns one half. The derivative": {
+    "guess": "Cosine",
+    "confidence": [
+      [
+        "Cos",
+        -0.8748228
+      ],
+      [
+        "ine",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "When this function is applied to the natural logarithm of the golden mean it returns one half. The derivative of this function's inverse is the reciprocal of the square root of the quantity x squared plus": {
+    "guess": "Arctangent",
+    "confidence": [
+      [
+        "Ar",
+        -0.61075807
+      ],
+      [
+        "ct",
+        -0.48738024
+      ],
+      [
+        "angent",
+        -0.00012058931
+      ]
+    ]
+  },
+  "When this function is applied to the natural logarithm of the golden mean it returns one half. The derivative of this function's inverse is the reciprocal of the square root of the quantity x squared plus one, and any solution with ini- tial condition y equals zero to the differential equation of y double-prime": {
+    "guess": "Hyperbolic function",
+    "confidence": [
+      [
+        "Hyper",
+        -0.5205498
+      ],
+      [
+        "bol",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " function",
+        -1.466394
+      ]
+    ]
+  },
+  "When this function is applied to the natural logarithm of the golden mean it returns one half. The derivative of this function's inverse is the reciprocal of the square root of the quantity x squared plus one, and any solution with ini- tial condition y equals zero to the differential equation of y double-prime equals y must be a multiple of this function. For small values of x, this function can be": {
+    "guess": "Hyperbolic sine",
+    "confidence": [
+      [
+        "Hyper",
+        -0.049196746
+      ],
+      [
+        "bol",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " sine",
+        -0.26087028
+      ]
+    ]
+  },
+  "When this function is applied to the natural logarithm of the golden mean it returns one half. The derivative of this function's inverse is the reciprocal of the square root of the quantity x squared plus one, and any solution with ini- tial condition y equals zero to the differential equation of y double-prime equals y must be a multiple of this function. For small values of x, this function can be approximated by x plus x cubed over six. This function itself is given by the formula one half times": {
+    "guess": "Hyperbolic sine",
+    "confidence": [
+      [
+        "Hyper",
+        -0.5682405
+      ],
+      [
+        "bol",
+        -1.9361265e-07
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " sine",
+        -0.4775809
+      ]
+    ]
+  },
+  "When this function is applied to the natural logarithm of the golden mean it returns one half. The derivative of this function's inverse is the reciprocal of the square root of the quantity x squared plus one, and any solution with ini- tial condition y equals zero to the differential equation of y double-prime equals y must be a multiple of this function. For small values of x, this function can be approximated by x plus x cubed over six. This function itself is given by the formula one half times the quantity e to the x, minus e to the negative x. Name this function that, when it is inputted": {
+    "guess": "Hyperbolic sine",
+    "confidence": [
+      [
+        "Hyper",
+        -0.058508888
+      ],
+      [
+        "bol",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " sine",
+        -0.57643133
+      ]
+    ]
+  },
+  "When this function is applied to the natural logarithm of the golden mean it returns one half. The derivative of this function's inverse is the reciprocal of the square root of the quantity x squared plus one, and any solution with ini- tial condition y equals zero to the differential equation of y double-prime equals y must be a multiple of this function. For small values of x, this function can be approximated by x plus x cubed over six. This function itself is given by the formula one half times the quantity e to the x, minus e to the negative x. Name this function that, when it is inputted half of the area confined by the x-axis, the right half of the curve x squared minus y squared equals": {
+    "guess": "Hyperbolic sine",
+    "confidence": [
+      [
+        "Hyper",
+        -0.014429212
+      ],
+      [
+        "bol",
+        -1.9361265e-07
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " sine",
+        -0.024358928
+      ]
+    ]
+  },
+  "When this function is applied to the natural logarithm of the golden mean it returns one half. The derivative of this function's inverse is the reciprocal of the square root of the quantity x squared plus one, and any solution with ini- tial condition y equals zero to the differential equation of y double-prime equals y must be a multiple of this function. For small values of x, this function can be approximated by x plus x cubed over six. This function itself is given by the formula one half times the quantity e to the x, minus e to the negative x. Name this function that, when it is inputted half of the area confined by the x-axis, the right half of the curve x squared minus y squared equals one, and a segment connecting the origin to that curve, returns the y-coordinate of the point of intersection.": {
+    "guess": "Hyperbolic sine",
+    "confidence": [
+      [
+        "Hyper",
+        -0.0071773063
+      ],
+      [
+        "bol",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " sine",
+        -0.019153155
+      ]
+    ]
+  },
+  "Functions of the critical value specified by this theorem approximate Bastiaan's dual function, while": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6560116
+      ]
+    ]
+  },
+  "Functions of the critical value specified by this theorem approximate Bastiaan's dual function, while if rates increase from critical, they are better modeled via Gabor analysis. In practice, this expression": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1042447
+      ]
+    ]
+  },
+  "Functions of the critical value specified by this theorem approximate Bastiaan's dual function, while if rates increase from critical, they are better modeled via Gabor analysis. In practice, this expression may be implemented using a K\u00fcpfm\u00fcller Integralsinus filter, and part of the purpose for imaging": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.041967634
+      ]
+    ]
+  },
+  "Functions of the critical value specified by this theorem approximate Bastiaan's dual function, while if rates increase from critical, they are better modeled via Gabor analysis. In practice, this expression may be implemented using a K\u00fcpfm\u00fcller Integralsinus filter, and part of the purpose for imaging programming involving it is to avoid the formation of moir\u00e9 patterns, (*) which in cameras is accomplished": {
+    "guess": "Nyquist\u2013Shannon sampling theorem",
+    "confidence": [
+      [
+        "Ny",
+        -0.048500832
+      ],
+      [
+        "quist",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.16087104
+      ],
+      [
+        "Sh",
+        0.0
+      ],
+      [
+        "annon",
+        0.0
+      ],
+      [
+        " sampling",
+        -0.023735126
+      ],
+      [
+        " theorem",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "Functions of the critical value specified by this theorem approximate Bastiaan's dual function, while if rates increase from critical, they are better modeled via Gabor analysis. In practice, this expression may be implemented using a K\u00fcpfm\u00fcller Integralsinus filter, and part of the purpose for imaging programming involving it is to avoid the formation of moir\u00e9 patterns, (*) which in cameras is accomplished with a lithium niobate 2-layer. Its logarithmic extension to channel capacity is known as": {
+    "guess": "Shannon's theorem",
+    "confidence": [
+      [
+        "Sh",
+        -0.5767927
+      ],
+      [
+        "annon",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -0.14149056
+      ],
+      [
+        " theorem",
+        -0.3877775
+      ]
+    ]
+  },
+  "Functions of the critical value specified by this theorem approximate Bastiaan's dual function, while if rates increase from critical, they are better modeled via Gabor analysis. In practice, this expression may be implemented using a K\u00fcpfm\u00fcller Integralsinus filter, and part of the purpose for imaging programming involving it is to avoid the formation of moir\u00e9 patterns, (*) which in cameras is accomplished with a lithium niobate 2-layer. Its logarithmic extension to channel capacity is known as Hartley's Law, and both expressions satisfy the Raabe condition. It may be best demonstrated using a": {
+    "guess": "Nyquist\u2013Shannon sampling theorem",
+    "confidence": [
+      [
+        "Ny",
+        -0.6413875
+      ],
+      [
+        "quist",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.097588375
+      ],
+      [
+        "Sh",
+        0.0
+      ],
+      [
+        "annon",
+        0.0
+      ],
+      [
+        " sampling",
+        -0.0034541916
+      ],
+      [
+        " theorem",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "Functions of the critical value specified by this theorem approximate Bastiaan's dual function, while if rates increase from critical, they are better modeled via Gabor analysis. In practice, this expression may be implemented using a K\u00fcpfm\u00fcller Integralsinus filter, and part of the purpose for imaging programming involving it is to avoid the formation of moir\u00e9 patterns, (*) which in cameras is accomplished with a lithium niobate 2-layer. Its logarithmic extension to channel capacity is known as Hartley's Law, and both expressions satisfy the Raabe condition. It may be best demonstrated using a Dirac comb and any simple continuous signal, although Whittaker and Kotel'nikov filters may also be": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.3501018
+      ]
+    ]
+  },
+  "Functions of the critical value specified by this theorem approximate Bastiaan's dual function, while if rates increase from critical, they are better modeled via Gabor analysis. In practice, this expression may be implemented using a K\u00fcpfm\u00fcller Integralsinus filter, and part of the purpose for imaging programming involving it is to avoid the formation of moir\u00e9 patterns, (*) which in cameras is accomplished with a lithium niobate 2-layer. Its logarithmic extension to channel capacity is known as Hartley's Law, and both expressions satisfy the Raabe condition. It may be best demonstrated using a Dirac comb and any simple continuous signal, although Whittaker and Kotel'nikov filters may also be employed to reduce unwanted noise. For 10 points, name this theorem which describes the minimum necessary": {
+    "guess": "Nyquist\u2013Shannon sampling theorem",
+    "confidence": [
+      [
+        "Ny",
+        -0.11694826
+      ],
+      [
+        "quist",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.31334057
+      ],
+      [
+        "Sh",
+        0.0
+      ],
+      [
+        "annon",
+        0.0
+      ],
+      [
+        " sampling",
+        -0.3273869
+      ],
+      [
+        " theorem",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "Functions of the critical value specified by this theorem approximate Bastiaan's dual function, while if rates increase from critical, they are better modeled via Gabor analysis. In practice, this expression may be implemented using a K\u00fcpfm\u00fcller Integralsinus filter, and part of the purpose for imaging programming involving it is to avoid the formation of moir\u00e9 patterns, (*) which in cameras is accomplished with a lithium niobate 2-layer. Its logarithmic extension to channel capacity is known as Hartley's Law, and both expressions satisfy the Raabe condition. It may be best demonstrated using a Dirac comb and any simple continuous signal, although Whittaker and Kotel'nikov filters may also be employed to reduce unwanted noise. For 10 points, name this theorem which describes the minimum necessary frequency for analog-to-digital conversions as at least twice the input bandwidth, a sampling": {
+    "guess": "Nyquist\u2013Shannon sampling theorem",
+    "confidence": [
+      [
+        "Ny",
+        -1.4259645e-05
+      ],
+      [
+        "quist",
+        0.0
+      ],
+      [
+        "\u2013",
+        -1.4974867e-05
+      ],
+      [
+        "Sh",
+        0.0
+      ],
+      [
+        "annon",
+        0.0
+      ],
+      [
+        " sampling",
+        -3.650519e-06
+      ],
+      [
+        " theorem",
+        0.0
+      ]
+    ]
+  },
+  "Functions of the critical value specified by this theorem approximate Bastiaan's dual function, while if rates increase from critical, they are better modeled via Gabor analysis. In practice, this expression may be implemented using a K\u00fcpfm\u00fcller Integralsinus filter, and part of the purpose for imaging programming involving it is to avoid the formation of moir\u00e9 patterns, (*) which in cameras is accomplished with a lithium niobate 2-layer. Its logarithmic extension to channel capacity is known as Hartley's Law, and both expressions satisfy the Raabe condition. It may be best demonstrated using a Dirac comb and any simple continuous signal, although Whittaker and Kotel'nikov filters may also be employed to reduce unwanted noise. For 10 points, name this theorem which describes the minimum necessary frequency for analog-to-digital conversions as at least twice the input bandwidth, a sampling theorem named for two information scientists.": {
+    "guess": "Nyquist\u2013Shannon sampling theorem",
+    "confidence": [
+      [
+        "Ny",
+        -9.0883464e-07
+      ],
+      [
+        "quist",
+        0.0
+      ],
+      [
+        "\u2013",
+        -3.7697225e-06
+      ],
+      [
+        "Sh",
+        0.0
+      ],
+      [
+        "annon",
+        0.0
+      ],
+      [
+        " sampling",
+        -2.577686e-06
+      ],
+      [
+        " theorem",
+        0.0
+      ]
+    ]
+  },
+  "One function exhibiting the \"mu\" type of this technique that isn't also of the \"primitive\" type is the": {
+    "guess": "Ackermann function",
+    "confidence": [
+      [
+        "Ack",
+        -0.36012855
+      ],
+      [
+        "ermann",
+        0.0
+      ],
+      [
+        " function",
+        -0.0006365468
+      ]
+    ]
+  },
+  "One function exhibiting the \"mu\" type of this technique that isn't also of the \"primitive\" type is the Ackermann function. The stack space used by this technique can be decreased by using the \"tail\" type": {
+    "guess": "Recursion",
+    "confidence": [
+      [
+        "Rec",
+        -0.022285873
+      ],
+      [
+        "ursion",
+        0.0
+      ]
+    ]
+  },
+  "One function exhibiting the \"mu\" type of this technique that isn't also of the \"primitive\" type is the Ackermann function. The stack space used by this technique can be decreased by using the \"tail\" type of it. It is often used to implement the factorial function, solve the Towers of Hanoi problem, and": {
+    "guess": "Recursion",
+    "confidence": [
+      [
+        "Rec",
+        -0.0051330654
+      ],
+      [
+        "ursion",
+        0.0
+      ]
+    ]
+  },
+  "One function exhibiting the \"mu\" type of this technique that isn't also of the \"primitive\" type is the Ackermann function. The stack space used by this technique can be decreased by using the \"tail\" type of it. It is often used to implement the factorial function, solve the Towers of Hanoi problem, and calculate the Fibonacci sequence. For 10 points, name this programming technique, often contrasted": {
+    "guess": "Recursion",
+    "confidence": [
+      [
+        "Rec",
+        -0.0011015183
+      ],
+      [
+        "ursion",
+        0.0
+      ]
+    ]
+  },
+  "One function exhibiting the \"mu\" type of this technique that isn't also of the \"primitive\" type is the Ackermann function. The stack space used by this technique can be decreased by using the \"tail\" type of it. It is often used to implement the factorial function, solve the Towers of Hanoi problem, and calculate the Fibonacci sequence. For 10 points, name this programming technique, often contrasted with iteration, in which a function calls itself.": {
+    "guess": "Recursion",
+    "confidence": [
+      [
+        "Rec",
+        -0.0013859512
+      ],
+      [
+        "ursion",
+        0.0
+      ]
+    ]
+  },
+  "This man funded a military corps known as the streltsy, which led to the annexations of Kazan and Astrakhan.": {
+    "guess": "Ivan the Terrible",
+    "confidence": [
+      [
+        "Ivan",
+        -0.055435065
+      ],
+      [
+        " the",
+        -7.107425e-06
+      ],
+      [
+        " Terr",
+        -1.0206721e-05
+      ],
+      [
+        "ible",
+        0.0
+      ]
+    ]
+  },
+  "This man funded a military corps known as the streltsy, which led to the annexations of Kazan and Astrakhan. At one point during this man's rule, he abdicated the throne and was replaced by Simeon Bekbulatovich.": {
+    "guess": "Ivan the Terrible",
+    "confidence": [
+      [
+        "Ivan",
+        -0.00044759247
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Terr",
+        0.0
+      ],
+      [
+        "ible",
+        0.0
+      ]
+    ]
+  },
+  "This man funded a military corps known as the streltsy, which led to the annexations of Kazan and Astrakhan. At one point during this man's rule, he abdicated the throne and was replaced by Simeon Bekbulatovich. Difficulties in his later years included a botched military campaign to retake western Slavic": {
+    "guess": "Ivan the Terrible",
+    "confidence": [
+      [
+        "Ivan",
+        -0.0007574542
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Terr",
+        0.0
+      ],
+      [
+        "ible",
+        0.0
+      ]
+    ]
+  },
+  "This man funded a military corps known as the streltsy, which led to the annexations of Kazan and Astrakhan. At one point during this man's rule, he abdicated the throne and was replaced by Simeon Bekbulatovich. Difficulties in his later years included a botched military campaign to retake western Slavic lands in the Livonian War, and the harsh government he created called the oprichnina, a far cry": {
+    "guess": "Ivan the Terrible",
+    "confidence": [
+      [
+        "Ivan",
+        -0.0071107945
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Terr",
+        0.0
+      ],
+      [
+        "ible",
+        0.0
+      ]
+    ]
+  },
+  "This man funded a military corps known as the streltsy, which led to the annexations of Kazan and Astrakhan. At one point during this man's rule, he abdicated the throne and was replaced by Simeon Bekbulatovich. Difficulties in his later years included a botched military campaign to retake western Slavic lands in the Livonian War, and the harsh government he created called the oprichnina, a far cry from his earlier Chosen Council. He killed his own son, bringing about the downfall of the Rurik Dynasty.": {
+    "guess": "Ivan the Terrible",
+    "confidence": [
+      [
+        "Ivan",
+        -0.0006522707
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Terr",
+        0.0
+      ],
+      [
+        "ible",
+        0.0
+      ]
+    ]
+  },
+  "This man funded a military corps known as the streltsy, which led to the annexations of Kazan and Astrakhan. At one point during this man's rule, he abdicated the throne and was replaced by Simeon Bekbulatovich. Difficulties in his later years included a botched military campaign to retake western Slavic lands in the Livonian War, and the harsh government he created called the oprichnina, a far cry from his earlier Chosen Council. He killed his own son, bringing about the downfall of the Rurik Dynasty. For 10 points, identify this Russian leader who served as the first man to take the title tsar": {
+    "guess": "Ivan the Terrible",
+    "confidence": [
+      [
+        "Ivan",
+        -0.0011829656
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Terr",
+        0.0
+      ],
+      [
+        "ible",
+        0.0
+      ]
+    ]
+  },
+  "This man funded a military corps known as the streltsy, which led to the annexations of Kazan and Astrakhan. At one point during this man's rule, he abdicated the throne and was replaced by Simeon Bekbulatovich. Difficulties in his later years included a botched military campaign to retake western Slavic lands in the Livonian War, and the harsh government he created called the oprichnina, a far cry from his earlier Chosen Council. He killed his own son, bringing about the downfall of the Rurik Dynasty. For 10 points, identify this Russian leader who served as the first man to take the title tsar and is best known for his rampant acts of cruelty.": {
+    "guess": "Ivan the Terrible",
+    "confidence": [
+      [
+        "Ivan",
+        -0.0004001641
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Terr",
+        0.0
+      ],
+      [
+        "ible",
+        0.0
+      ]
+    ]
+  },
+  "This function's hyperbolic version is given by \"e to the x plus e to the negative x, all over 2,\" which": {
+    "guess": "Cosine",
+    "confidence": [
+      [
+        "Cos",
+        -0.05172851
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "This function's hyperbolic version is given by \"e to the x plus e to the negative x, all over 2,\" which can be used to describe catenaries. The first two terms of its Taylor series are \"1 minus x squared": {
+    "guess": "Cosine",
+    "confidence": [
+      [
+        "Cos",
+        -0.0019721694
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "This function's hyperbolic version is given by \"e to the x plus e to the negative x, all over 2,\" which can be used to describe catenaries. The first two terms of its Taylor series are \"1 minus x squared over 2,\" and the natural log of this function is found in the integral of the tangent. Its namesake": {
+    "guess": "Cosine",
+    "confidence": [
+      [
+        "Cos",
+        -0.00037526153
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "This function's hyperbolic version is given by \"e to the x plus e to the negative x, all over 2,\" which can be used to describe catenaries. The first two terms of its Taylor series are \"1 minus x squared over 2,\" and the natural log of this function is found in the integral of the tangent. Its namesake law states \"c squared equals a squared plus b squared minus 2ab\" times this function applied to gamma.": {
+    "guess": "Cosine",
+    "confidence": [
+      [
+        "Cos",
+        -4.1557283e-05
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "This function's hyperbolic version is given by \"e to the x plus e to the negative x, all over 2,\" which can be used to describe catenaries. The first two terms of its Taylor series are \"1 minus x squared over 2,\" and the natural log of this function is found in the integral of the tangent. Its namesake law states \"c squared equals a squared plus b squared minus 2ab\" times this function applied to gamma. The dot product is defined in terms of, for 10 points, what trigonometric function that is the": {
+    "guess": "Cosine",
+    "confidence": [
+      [
+        "Cos",
+        -6.146429e-05
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "This function's hyperbolic version is given by \"e to the x plus e to the negative x, all over 2,\" which can be used to describe catenaries. The first two terms of its Taylor series are \"1 minus x squared over 2,\" and the natural log of this function is found in the integral of the tangent. Its namesake law states \"c squared equals a squared plus b squared minus 2ab\" times this function applied to gamma. The dot product is defined in terms of, for 10 points, what trigonometric function that is the reciprocal of the secant, and is given by adjacent over hypotenuse.": {
+    "guess": "Cosine",
+    "confidence": [
+      [
+        "Cos",
+        -0.000500132
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "A function named after this quantity was modeled as a power law with an exponential cut-off by Paul Schechter.": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.035292175
+      ],
+      [
+        "inos",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "A function named after this quantity was modeled as a power law with an exponential cut-off by Paul Schechter. Ernst Opik calculated the distance to the Andromeda Galaxy by assuming that the ratio between": {
+    "guess": "Absolute magnitude",
+    "confidence": [
+      [
+        "Absolute",
+        -0.33411977
+      ],
+      [
+        " magnitude",
+        -0.038050678
+      ]
+    ]
+  },
+  "A function named after this quantity was modeled as a power law with an exponential cut-off by Paul Schechter. Ernst Opik calculated the distance to the Andromeda Galaxy by assuming that the ratio between its mass and this quantity was constant. It is a power function of rotation rate, according to the": {
+    "guess": "Mass-to-light ratio",
+    "confidence": [
+      [
+        "Mass",
+        -0.8610379
+      ],
+      [
+        "-to",
+        -0.012033216
+      ],
+      [
+        "-light",
+        -0.06570359
+      ],
+      [
+        " ratio",
+        -0.0004972711
+      ]
+    ]
+  },
+  "A function named after this quantity was modeled as a power law with an exponential cut-off by Paul Schechter. Ernst Opik calculated the distance to the Andromeda Galaxy by assuming that the ratio between its mass and this quantity was constant. It is a power function of rotation rate, according to the Tully-Fisher relation. The value of this quantity for which a star's gravitational pressure equals": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.0814301
+      ],
+      [
+        "inos",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "A function named after this quantity was modeled as a power law with an exponential cut-off by Paul Schechter. Ernst Opik calculated the distance to the Andromeda Galaxy by assuming that the ratio between its mass and this quantity was constant. It is a power function of rotation rate, according to the Tully-Fisher relation. The value of this quantity for which a star's gravitational pressure equals its radiation pressure is known as the Eddington limit. Standard candles have a known value for this": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.01788359
+      ],
+      [
+        "inos",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "A function named after this quantity was modeled as a power law with an exponential cut-off by Paul Schechter. Ernst Opik calculated the distance to the Andromeda Galaxy by assuming that the ratio between its mass and this quantity was constant. It is a power function of rotation rate, according to the Tully-Fisher relation. The value of this quantity for which a star's gravitational pressure equals its radiation pressure is known as the Eddington limit. Standard candles have a known value for this quantity, which equals the total amount of energy produced in one second. It is plotted against temperature": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.07803498
+      ],
+      [
+        "inos",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "A function named after this quantity was modeled as a power law with an exponential cut-off by Paul Schechter. Ernst Opik calculated the distance to the Andromeda Galaxy by assuming that the ratio between its mass and this quantity was constant. It is a power function of rotation rate, according to the Tully-Fisher relation. The value of this quantity for which a star's gravitational pressure equals its radiation pressure is known as the Eddington limit. Standard candles have a known value for this quantity, which equals the total amount of energy produced in one second. It is plotted against temperature in a Hertzsprung-Russell diagram. For 10 points, name this measure of brightness from which": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.018125363
+      ],
+      [
+        "inos",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "A function named after this quantity was modeled as a power law with an exponential cut-off by Paul Schechter. Ernst Opik calculated the distance to the Andromeda Galaxy by assuming that the ratio between its mass and this quantity was constant. It is a power function of rotation rate, according to the Tully-Fisher relation. The value of this quantity for which a star's gravitational pressure equals its radiation pressure is known as the Eddington limit. Standard candles have a known value for this quantity, which equals the total amount of energy produced in one second. It is plotted against temperature in a Hertzsprung-Russell diagram. For 10 points, name this measure of brightness from which one can compute a star's apparent magnitude, and which can be measured in lux or lumens.": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.00909891
+      ],
+      [
+        "inos",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "The functional of which a system's evolution is a stationary point is equal to this operation applied": {
+    "guess": "Euler-Lagrange equation",
+    "confidence": [
+      [
+        "Euler",
+        -0.6431612
+      ],
+      [
+        "-L",
+        -0.3868827
+      ],
+      [
+        "agr",
+        0.0
+      ],
+      [
+        "ange",
+        0.0
+      ],
+      [
+        " equation",
+        -0.07895875
+      ]
+    ]
+  },
+  "The functional of which a system's evolution is a stationary point is equal to this operation applied to the difference between kinetic and potential energies. The voltage across a capacitor is given the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.34658504
+      ]
+    ]
+  },
+  "The functional of which a system's evolution is a stationary point is equal to this operation applied to the difference between kinetic and potential energies. The voltage across a capacitor is given the inverse of its capacitance times this operation applied to the current across it, since charge can": {
+    "guess": "Action (physics)",
+    "confidence": [
+      [
+        "Action",
+        -0.25901988
+      ],
+      [
+        " (",
+        -0.38380417
+      ],
+      [
+        "physics",
+        -0.05084606
+      ],
+      [
+        ")",
+        -0.00035262384
+      ]
+    ]
+  },
+  "The functional of which a system's evolution is a stationary point is equal to this operation applied to the difference between kinetic and potential energies. The voltage across a capacitor is given the inverse of its capacitance times this operation applied to the current across it, since charge can be calculated by applying this operation to current. Applying this operation to the Lagrangian gives": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6635866
+      ]
+    ]
+  },
+  "The functional of which a system's evolution is a stationary point is equal to this operation applied to the difference between kinetic and potential energies. The voltage across a capacitor is given the inverse of its capacitance times this operation applied to the current across it, since charge can be calculated by applying this operation to current. Applying this operation to the Lagrangian gives the (*) action, while applying it to power gives energy and applying it to force gives impulse. For": {
+    "guess": "Integral",
+    "confidence": [
+      [
+        "Integral",
+        -0.014842369
+      ]
+    ]
+  },
+  "The functional of which a system's evolution is a stationary point is equal to this operation applied to the difference between kinetic and potential energies. The voltage across a capacitor is given the inverse of its capacitance times this operation applied to the current across it, since charge can be calculated by applying this operation to current. Applying this operation to the Lagrangian gives the (*) action, while applying it to power gives energy and applying it to force gives impulse. For 10 points, name this operation which can be applied to acceleration to get velocity and to velocity": {
+    "guess": "Integral",
+    "confidence": [
+      [
+        "Integral",
+        -0.11608835
+      ]
+    ]
+  },
+  "The functional of which a system's evolution is a stationary point is equal to this operation applied to the difference between kinetic and potential energies. The voltage across a capacitor is given the inverse of its capacitance times this operation applied to the current across it, since charge can be calculated by applying this operation to current. Applying this operation to the Lagrangian gives the (*) action, while applying it to power gives energy and applying it to force gives impulse. For 10 points, name this operation which can be applied to acceleration to get velocity and to velocity to get displacement, an operation which corresponds to finding the area under a curve of functions": {
+    "guess": "Integral",
+    "confidence": [
+      [
+        "Integral",
+        -0.06424343
+      ]
+    ]
+  },
+  "The functional of which a system's evolution is a stationary point is equal to this operation applied to the difference between kinetic and potential energies. The voltage across a capacitor is given the inverse of its capacitance times this operation applied to the current across it, since charge can be calculated by applying this operation to current. Applying this operation to the Lagrangian gives the (*) action, while applying it to power gives energy and applying it to force gives impulse. For 10 points, name this operation which can be applied to acceleration to get velocity and to velocity to get displacement, an operation which corresponds to finding the area under a curve of functions of a certain quantity.": {
+    "guess": "Integral",
+    "confidence": [
+      [
+        "Integral",
+        -0.06802035
+      ]
+    ]
+  },
+  "A fundamental Micro-Economic concept, it is defined as the  rate at which a person will give up good": {
+    "guess": "Marginal rate of substitution",
+    "confidence": [
+      [
+        "Marg",
+        -0.0009923185
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " rate",
+        -0.0010332842
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " substitution",
+        0.0
+      ]
+    ]
+  },
+  "A fundamental Micro-Economic concept, it is defined as the  rate at which a person will give up good Y to get more of good X,  while their total utility remains constant. Graphically  represented, it is": {
+    "guess": "Marginal rate of substitution",
+    "confidence": [
+      [
+        "Marg",
+        -0.23031253
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " rate",
+        -0.6931595
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " substitution",
+        0.0
+      ]
+    ]
+  },
+  "A fundamental Micro-Economic concept, it is defined as the  rate at which a person will give up good Y to get more of good X,  while their total utility remains constant. Graphically  represented, it is depicted as the slope of an indifference  curve. FTP, give this term, another of those ubiquitous": {
+    "guess": "Marginal Rate of Substitution",
+    "confidence": [
+      [
+        "Marg",
+        -0.0012194052
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " Rate",
+        -0.03804161
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Sub",
+        0.0
+      ],
+      [
+        "stitution",
+        0.0
+      ]
+    ]
+  },
+  "A fundamental Micro-Economic concept, it is defined as the  rate at which a person will give up good Y to get more of good X,  while their total utility remains constant. Graphically  represented, it is depicted as the slope of an indifference  curve. FTP, give this term, another of those ubiquitous  Mariginalist ideas?": {
+    "guess": "Marginal Rate of Substitution",
+    "confidence": [
+      [
+        "Marg",
+        -0.0006732359
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " Rate",
+        -0.023245595
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Sub",
+        0.0
+      ],
+      [
+        "stitution",
+        0.0
+      ]
+    ]
+  },
+  "This function, with argument 1 plus x, is equal to the sum of [pause] negative one raised to the n plus": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.36143073
+      ]
+    ]
+  },
+  "This function, with argument 1 plus x, is equal to the sum of [pause] negative one raised to the n plus one [pause] times x raised to the n [pause] all over n from [pause] n equals one to infinity. This": {
+    "guess": "Natural logarithm",
+    "confidence": [
+      [
+        "Natural",
+        -0.645175
+      ],
+      [
+        " logarith",
+        -0.00034332962
+      ],
+      [
+        "m",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This function, with argument 1 plus x, is equal to the sum of [pause] negative one raised to the n plus one [pause] times x raised to the n [pause] all over n from [pause] n equals one to infinity. This function's integral is equal to x times this function minus x. This function is equal to the definite": {
+    "guess": "Logarithm",
+    "confidence": [
+      [
+        "Log",
+        -0.52993244
+      ],
+      [
+        "arith",
+        -1.2664457e-06
+      ],
+      [
+        "m",
+        -0.02976033
+      ]
+    ]
+  },
+  "This function, with argument 1 plus x, is equal to the sum of [pause] negative one raised to the n plus one [pause] times x raised to the n [pause] all over n from [pause] n equals one to infinity. This function's integral is equal to x times this function minus x. This function is equal to the definite integral of 1 over t from 1 to x, which implies that the derivative of this function is (*) 1 over": {
+    "guess": "Logarithm",
+    "confidence": [
+      [
+        "Log",
+        -0.19638528
+      ],
+      [
+        "arith",
+        -6.704273e-07
+      ],
+      [
+        "m",
+        -0.0052375486
+      ]
+    ]
+  },
+  "This function, with argument 1 plus x, is equal to the sum of [pause] negative one raised to the n plus one [pause] times x raised to the n [pause] all over n from [pause] n equals one to infinity. This function's integral is equal to x times this function minus x. This function is equal to the definite integral of 1 over t from 1 to x, which implies that the derivative of this function is (*) 1 over x. Multiplying the argument of this function by a constant is equivalent to adding a constant to": {
+    "guess": "Logarithm",
+    "confidence": [
+      [
+        "Log",
+        -0.30089867
+      ],
+      [
+        "arith",
+        -4.3202e-07
+      ],
+      [
+        "m",
+        -0.01110548
+      ]
+    ]
+  },
+  "This function, with argument 1 plus x, is equal to the sum of [pause] negative one raised to the n plus one [pause] times x raised to the n [pause] all over n from [pause] n equals one to infinity. This function's integral is equal to x times this function minus x. This function is equal to the definite integral of 1 over t from 1 to x, which implies that the derivative of this function is (*) 1 over x. Multiplying the argument of this function by a constant is equivalent to adding a constant to the value of this function, and one often uses the change of base formula on this function. For 10 points,": {
+    "guess": "Natural Logarithm",
+    "confidence": [
+      [
+        "Natural",
+        -0.1605585
+      ],
+      [
+        " Log",
+        -0.00029685118
+      ],
+      [
+        "arith",
+        0.0
+      ],
+      [
+        "m",
+        0.0
+      ]
+    ]
+  },
+  "This function, with argument 1 plus x, is equal to the sum of [pause] negative one raised to the n plus one [pause] times x raised to the n [pause] all over n from [pause] n equals one to infinity. This function's integral is equal to x times this function minus x. This function is equal to the definite integral of 1 over t from 1 to x, which implies that the derivative of this function is (*) 1 over x. Multiplying the argument of this function by a constant is equivalent to adding a constant to the value of this function, and one often uses the change of base formula on this function. For 10 points, name this function, the inverse of exponentiation, whose base is Euler's number, e.": {
+    "guess": "Natural Logarithm",
+    "confidence": [
+      [
+        "Natural",
+        -0.30680066
+      ],
+      [
+        " Log",
+        -0.0067463936
+      ],
+      [
+        "arith",
+        0.0
+      ],
+      [
+        "m",
+        0.0
+      ]
+    ]
+  },
+  "If a function f is of this type, Jensen's (YEN-sens) inequality states that in measure theory the Lebesgue": {
+    "guess": "Convex function",
+    "confidence": [
+      [
+        "Conv",
+        -0.0027197604
+      ],
+      [
+        "ex",
+        0.0
+      ],
+      [
+        " function",
+        -7.58424e-06
+      ]
+    ]
+  },
+  "If a function f is of this type, Jensen's (YEN-sens) inequality states that in measure theory the Lebesgue (luh-BEG) integral over f of some other function g is less than or equal to f of the integral": {
+    "guess": "Convex function",
+    "confidence": [
+      [
+        "Conv",
+        -0.02506953
+      ],
+      [
+        "ex",
+        0.0
+      ],
+      [
+        " function",
+        -0.0007721053
+      ]
+    ]
+  },
+  "If a function f is of this type, Jensen's (YEN-sens) inequality states that in measure theory the Lebesgue (luh-BEG) integral over f of some other function g is less than or equal to f of the integral over g. A simpler version of the inequality states that a secant drawn in a function of this type always": {
+    "guess": "Convex function",
+    "confidence": [
+      [
+        "Conv",
+        -0.011726459
+      ],
+      [
+        "ex",
+        0.0
+      ],
+      [
+        " function",
+        -0.0010174485
+      ]
+    ]
+  },
+  "If a function f is of this type, Jensen's (YEN-sens) inequality states that in measure theory the Lebesgue (luh-BEG) integral over f of some other function g is less than or equal to f of the integral over g. A simpler version of the inequality states that a secant drawn in a function of this type always lies below the graph of the function. A lens of this type can be used to treat myopia, and symmetric": {
+    "guess": "Convex Function",
+    "confidence": [
+      [
+        "Conv",
+        -0.002707154
+      ],
+      [
+        "ex",
+        0.0
+      ],
+      [
+        " Function",
+        -0.013216589
+      ]
+    ]
+  },
+  "If a function f is of this type, Jensen's (YEN-sens) inequality states that in measure theory the Lebesgue (luh-BEG) integral over f of some other function g is less than or equal to f of the integral over g. A simpler version of the inequality states that a secant drawn in a function of this type always lies below the graph of the function. A lens of this type can be used to treat myopia, and symmetric double lenses of this type will always make upright virtual images with smaller size. FTP, name": {
+    "guess": "Convex",
+    "confidence": [
+      [
+        "Conv",
+        -0.062330987
+      ],
+      [
+        "ex",
+        0.0
+      ]
+    ]
+  },
+  "If a function f is of this type, Jensen's (YEN-sens) inequality states that in measure theory the Lebesgue (luh-BEG) integral over f of some other function g is less than or equal to f of the integral over g. A simpler version of the inequality states that a secant drawn in a function of this type always lies below the graph of the function. A lens of this type can be used to treat myopia, and symmetric double lenses of this type will always make upright virtual images with smaller size. FTP, name this term that describes polygons with at least one angle greater than 180 degrees.          |": {
+    "guess": "Concave",
+    "confidence": [
+      [
+        "Conc",
+        -0.015478029
+      ],
+      [
+        "ave",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "This function is approximated for large numbers by Stirling's approximation. The traveling salesman problem": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.10634756
+      ]
+    ]
+  },
+  "This function is approximated for large numbers by Stirling's approximation. The traveling salesman problem can be solved in Big O of this function. The pi function and gamma function extend this function": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.0017607441
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "This function is approximated for large numbers by Stirling's approximation. The traveling salesman problem can be solved in Big O of this function. The pi function and gamma function extend this function to complex numbers. This function appears in the denominator of the Taylor series of polynomials,": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.00043722545
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "This function is approximated for large numbers by Stirling's approximation. The traveling salesman problem can be solved in Big O of this function. The pi function and gamma function extend this function to complex numbers. This function appears in the denominator of the Taylor series of polynomials, and this function is said to grow faster than all polynomial and exponential functions. Often used": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.0027560224
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "This function is approximated for large numbers by Stirling's approximation. The traveling salesman problem can be solved in Big O of this function. The pi function and gamma function extend this function to complex numbers. This function appears in the denominator of the Taylor series of polynomials, and this function is said to grow faster than all polynomial and exponential functions. Often used with combinations and permutations, for 10  points, name this mathematical function, defined as the": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.0017853716
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "This function is approximated for large numbers by Stirling's approximation. The traveling salesman problem can be solved in Big O of this function. The pi function and gamma function extend this function to complex numbers. This function appears in the denominator of the Taylor series of polynomials, and this function is said to grow faster than all polynomial and exponential functions. Often used with combinations and permutations, for 10  points, name this mathematical function, defined as the product of all positive integers less than or equal to n, denoted by an exclamation point.": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.00077055563
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is often added to estradiol agonists to make orally active contraceptives. Hydroboration": {
+    "guess": "Ethynyl",
+    "confidence": [
+      [
+        "Eth",
+        -0.20777284
+      ],
+      [
+        "yn",
+        -0.004090036
+      ],
+      [
+        "yl",
+        -0.006717029
+      ]
+    ]
+  },
+  "This functional group is often added to estradiol agonists to make orally active contraceptives. Hydroboration produces either an aldehyde or ketone via tautomerization from an enol intermediate, while": {
+    "guess": "Ester",
+    "confidence": [
+      [
+        "E",
+        -0.6472022
+      ],
+      [
+        "ster",
+        -0.87446064
+      ]
+    ]
+  },
+  "This functional group is often added to estradiol agonists to make orally active contraceptives. Hydroboration produces either an aldehyde or ketone via tautomerization from an enol intermediate, while an acidic potassium permanganate solution cleaves them and forms two carboxylic acids. When found terminally": {
+    "guess": "Alkyne",
+    "confidence": [
+      [
+        "Al",
+        -0.024888368
+      ],
+      [
+        "ky",
+        -0.00020556684
+      ],
+      [
+        "ne",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is often added to estradiol agonists to make orally active contraceptives. Hydroboration produces either an aldehyde or ketone via tautomerization from an enol intermediate, while an acidic potassium permanganate solution cleaves them and forms two carboxylic acids. When found terminally on a carbon chain, they are very weakly acidic and form highly nucleophilic anions in the": {
+    "guess": "Alkyne",
+    "confidence": [
+      [
+        "Al",
+        -0.0050245444
+      ],
+      [
+        "ky",
+        -1.700133e-05
+      ],
+      [
+        "ne",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is often added to estradiol agonists to make orally active contraceptives. Hydroboration produces either an aldehyde or ketone via tautomerization from an enol intermediate, while an acidic potassium permanganate solution cleaves them and forms two carboxylic acids. When found terminally on a carbon chain, they are very weakly acidic and form highly nucleophilic anions in the presence of sodium amide; these are often used to lengthen a carbon chain in a synthesis. In a dissolving": {
+    "guess": "Alkyne",
+    "confidence": [
+      [
+        "Al",
+        -0.015188314
+      ],
+      [
+        "ky",
+        -1.7120534e-05
+      ],
+      [
+        "ne",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is often added to estradiol agonists to make orally active contraceptives. Hydroboration produces either an aldehyde or ketone via tautomerization from an enol intermediate, while an acidic potassium permanganate solution cleaves them and forms two carboxylic acids. When found terminally on a carbon chain, they are very weakly acidic and form highly nucleophilic anions in the presence of sodium amide; these are often used to lengthen a carbon chain in a synthesis. In a dissolving metal solution, they can be reduced to trans-alkenes, while hydrogenation in the presence of Lindlar's": {
+    "guess": "Alkyne",
+    "confidence": [
+      [
+        "Al",
+        -0.01853887
+      ],
+      [
+        "ky",
+        -3.0545007e-06
+      ],
+      [
+        "ne",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is often added to estradiol agonists to make orally active contraceptives. Hydroboration produces either an aldehyde or ketone via tautomerization from an enol intermediate, while an acidic potassium permanganate solution cleaves them and forms two carboxylic acids. When found terminally on a carbon chain, they are very weakly acidic and form highly nucleophilic anions in the presence of sodium amide; these are often used to lengthen a carbon chain in a synthesis. In a dissolving metal solution, they can be reduced to trans-alkenes, while hydrogenation in the presence of Lindlar's catalyst can reduce them to cis-alkenes. FTP, name this functional group composed of two carbons": {
+    "guess": "Alkyne",
+    "confidence": [
+      [
+        "Al",
+        -0.0016035328
+      ],
+      [
+        "ky",
+        -5.5122365e-07
+      ],
+      [
+        "ne",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is often added to estradiol agonists to make orally active contraceptives. Hydroboration produces either an aldehyde or ketone via tautomerization from an enol intermediate, while an acidic potassium permanganate solution cleaves them and forms two carboxylic acids. When found terminally on a carbon chain, they are very weakly acidic and form highly nucleophilic anions in the presence of sodium amide; these are often used to lengthen a carbon chain in a synthesis. In a dissolving metal solution, they can be reduced to trans-alkenes, while hydrogenation in the presence of Lindlar's catalyst can reduce them to cis-alkenes. FTP, name this functional group composed of two carbons connected by a triple bond.": {
+    "guess": "Alkyne",
+    "confidence": [
+      [
+        "Al",
+        -0.0013945228
+      ],
+      [
+        "ky",
+        -5.5122365e-07
+      ],
+      [
+        "ne",
+        0.0
+      ]
+    ]
+  },
+  "A function named for this person was the subject of the Poly\u00e1 conjecture and oscillates infinitely often.": {
+    "guess": "Liouville function",
+    "confidence": [
+      [
+        "Li",
+        -0.18329611
+      ],
+      [
+        "ou",
+        -4.596782e-05
+      ],
+      [
+        "ville",
+        0.0
+      ],
+      [
+        " function",
+        -0.0011311669
+      ]
+    ]
+  },
+  "A function named for this person was the subject of the Poly\u00e1 conjecture and oscillates infinitely often. This scientist names the measure that is the product the differentials of a Hamiltonian system's": {
+    "guess": "Poincar\u00e9 recurrence theorem",
+    "confidence": [
+      [
+        "P",
+        -0.40751606
+      ],
+      [
+        "oin",
+        -1.6240566e-06
+      ],
+      [
+        "car",
+        -1.0206721e-05
+      ],
+      [
+        "\u00e9",
+        0.0
+      ],
+      [
+        " recurrence",
+        -0.33654284
+      ],
+      [
+        " theorem",
+        -0.00019817622
+      ]
+    ]
+  },
+  "A function named for this person was the subject of the Poly\u00e1 conjecture and oscillates infinitely often. This scientist names the measure that is the product the differentials of a Hamiltonian system's coordinates, and a theorem named for him says that the integral of that measure is constant, which": {
+    "guess": "Liouville's theorem",
+    "confidence": [
+      [
+        "Li",
+        -0.10657132
+      ],
+      [
+        "ou",
+        -4.8425554e-06
+      ],
+      [
+        "ville",
+        0.0
+      ],
+      [
+        "'s",
+        -0.38469368
+      ],
+      [
+        " theorem",
+        -0.011377775
+      ]
+    ]
+  },
+  "A function named for this person was the subject of the Poly\u00e1 conjecture and oscillates infinitely often. This scientist names the measure that is the product the differentials of a Hamiltonian system's coordinates, and a theorem named for him says that the integral of that measure is constant, which implies that the phase space density is constant for a Hamiltonian system. The numbers named for this": {
+    "guess": "Liouville",
+    "confidence": [
+      [
+        "Li",
+        -0.2835933
+      ],
+      [
+        "ou",
+        -3.0545007e-06
+      ],
+      [
+        "ville",
+        0.0
+      ]
+    ]
+  },
+  "A function named for this person was the subject of the Poly\u00e1 conjecture and oscillates infinitely often. This scientist names the measure that is the product the differentials of a Hamiltonian system's coordinates, and a theorem named for him says that the integral of that measure is constant, which implies that the phase space density is constant for a Hamiltonian system. The numbers named for this thinker are transcendental, but arbitrarily close to rationals. A better-known result due to this": {
+    "guess": "Liouville",
+    "confidence": [
+      [
+        "Li",
+        -0.13091625
+      ],
+      [
+        "ou",
+        -2.3392786e-06
+      ],
+      [
+        "ville",
+        0.0
+      ]
+    ]
+  },
+  "A function named for this person was the subject of the Poly\u00e1 conjecture and oscillates infinitely often. This scientist names the measure that is the product the differentials of a Hamiltonian system's coordinates, and a theorem named for him says that the integral of that measure is constant, which implies that the phase space density is constant for a Hamiltonian system. The numbers named for this thinker are transcendental, but arbitrarily close to rationals. A better-known result due to this mathematician which is often used to prove the fundamental theorem of algebra, states that bounded,": {
+    "guess": "Liouville's Theorem",
+    "confidence": [
+      [
+        "Li",
+        -0.23044337
+      ],
+      [
+        "ou",
+        -5.5122365e-07
+      ],
+      [
+        "ville",
+        0.0
+      ],
+      [
+        "'s",
+        -0.4271943
+      ],
+      [
+        " The",
+        -0.12108507
+      ],
+      [
+        "orem",
+        -0.0024788661
+      ]
+    ]
+  },
+  "A function named for this person was the subject of the Poly\u00e1 conjecture and oscillates infinitely often. This scientist names the measure that is the product the differentials of a Hamiltonian system's coordinates, and a theorem named for him says that the integral of that measure is constant, which implies that the phase space density is constant for a Hamiltonian system. The numbers named for this thinker are transcendental, but arbitrarily close to rationals. A better-known result due to this mathematician which is often used to prove the fundamental theorem of algebra, states that bounded, analytic functions are constant. This man proved the completeness as basis of the solutions to the": {
+    "guess": "Liouville's Theorem",
+    "confidence": [
+      [
+        "Li",
+        -0.6241552
+      ],
+      [
+        "ou",
+        -1.504853e-06
+      ],
+      [
+        "ville",
+        0.0
+      ],
+      [
+        "'s",
+        -0.032945685
+      ],
+      [
+        " The",
+        -0.037423648
+      ],
+      [
+        "orem",
+        -0.0019304205
+      ]
+    ]
+  },
+  "A function named for this person was the subject of the Poly\u00e1 conjecture and oscillates infinitely often. This scientist names the measure that is the product the differentials of a Hamiltonian system's coordinates, and a theorem named for him says that the integral of that measure is constant, which implies that the phase space density is constant for a Hamiltonian system. The numbers named for this thinker are transcendental, but arbitrarily close to rationals. A better-known result due to this mathematician which is often used to prove the fundamental theorem of algebra, states that bounded, analytic functions are constant. This man proved the completeness as basis of the solutions to the equation for which he is best known as second namesake. For 10 points, name this mathematician best": {
+    "guess": "Liouville's Theorem",
+    "confidence": [
+      [
+        "Li",
+        -0.5951927
+      ],
+      [
+        "ou",
+        -3.1281633e-07
+      ],
+      [
+        "ville",
+        0.0
+      ],
+      [
+        "'s",
+        -0.60037774
+      ],
+      [
+        " The",
+        -0.09067758
+      ],
+      [
+        "orem",
+        -0.0067285146
+      ]
+    ]
+  },
+  "A function named for this person was the subject of the Poly\u00e1 conjecture and oscillates infinitely often. This scientist names the measure that is the product the differentials of a Hamiltonian system's coordinates, and a theorem named for him says that the integral of that measure is constant, which implies that the phase space density is constant for a Hamiltonian system. The numbers named for this thinker are transcendental, but arbitrarily close to rationals. A better-known result due to this mathematician which is often used to prove the fundamental theorem of algebra, states that bounded, analytic functions are constant. This man proved the completeness as basis of the solutions to the equation for which he is best known as second namesake. For 10 points, name this mathematician best known as the second namesake of a second-order differential eigenvalue problem along Jacques Sturm.": {
+    "guess": "Joseph Liouville",
+    "confidence": [
+      [
+        "Joseph",
+        -0.22194296
+      ],
+      [
+        " Li",
+        -3.1281633e-07
+      ],
+      [
+        "ou",
+        0.0
+      ],
+      [
+        "ville",
+        0.0
+      ]
+    ]
+  },
+  "One of the fundamental parameters of this system is given by the complete elliptic integral of the first": {
+    "guess": "Elliptic integral",
+    "confidence": [
+      [
+        "Ell",
+        -0.6716425
+      ],
+      [
+        "ipt",
+        -0.05023438
+      ],
+      [
+        "ic",
+        -0.004079113
+      ],
+      [
+        " integral",
+        -0.90688306
+      ]
+    ]
+  },
+  "One of the fundamental parameters of this system is given by the complete elliptic integral of the first kind with modulus sine half maximum displacement and upper bound maximum displacement, times the": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.03179193
+      ],
+      [
+        "ulum",
+        0.0
+      ]
+    ]
+  },
+  "One of the fundamental parameters of this system is given by the complete elliptic integral of the first kind with modulus sine half maximum displacement and upper bound maximum displacement, times the inverse of the natural frequency. A seperatrix in the phase space of these systems exists at maximum": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.049371846
+      ],
+      [
+        "ulum",
+        0.0
+      ]
+    ]
+  },
+  "One of the fundamental parameters of this system is given by the complete elliptic integral of the first kind with modulus sine half maximum displacement and upper bound maximum displacement, times the inverse of the natural frequency. A seperatrix in the phase space of these systems exists at maximum displacement pi. The aforementioned expression for a fundamental parameter of these may be obtained": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.05774832
+      ],
+      [
+        "ulum",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "One of the fundamental parameters of this system is given by the complete elliptic integral of the first kind with modulus sine half maximum displacement and upper bound maximum displacement, times the inverse of the natural frequency. A seperatrix in the phase space of these systems exists at maximum displacement pi. The aforementioned expression for a fundamental parameter of these may be obtained by separating the equation of motion's first integral, which contains a squared time derivative of": {
+    "guess": "Simple harmonic oscillator",
+    "confidence": [
+      [
+        "Simple",
+        -1.2286562
+      ],
+      [
+        " harmonic",
+        -0.25560942
+      ],
+      [
+        " oscillator",
+        -0.38969707
+      ]
+    ]
+  },
+  "One of the fundamental parameters of this system is given by the complete elliptic integral of the first kind with modulus sine half maximum displacement and upper bound maximum displacement, times the inverse of the natural frequency. A seperatrix in the phase space of these systems exists at maximum displacement pi. The aforementioned expression for a fundamental parameter of these may be obtained by separating the equation of motion's first integral, which contains a squared time derivative of position; that expression gives the (*) period. Two of these attached to one another is an archetypical": {
+    "guess": "Double pendulum",
+    "confidence": [
+      [
+        "Double",
+        -0.18924035
+      ],
+      [
+        " pend",
+        -0.0021861878
+      ],
+      [
+        "ulum",
+        -6.6306106e-06
+      ]
+    ]
+  },
+  "One of the fundamental parameters of this system is given by the complete elliptic integral of the first kind with modulus sine half maximum displacement and upper bound maximum displacement, times the inverse of the natural frequency. A seperatrix in the phase space of these systems exists at maximum displacement pi. The aforementioned expression for a fundamental parameter of these may be obtained by separating the equation of motion's first integral, which contains a squared time derivative of position; that expression gives the (*) period. Two of these attached to one another is an archetypical chaotic system. For small maximum displacements, the sine term in the equation of motion for this": {
+    "guess": "Double pendulum",
+    "confidence": [
+      [
+        "Double",
+        -0.28319123
+      ],
+      [
+        " pend",
+        -0.0024773201
+      ],
+      [
+        "ulum",
+        -0.0025215612
+      ]
+    ]
+  },
+  "One of the fundamental parameters of this system is given by the complete elliptic integral of the first kind with modulus sine half maximum displacement and upper bound maximum displacement, times the inverse of the natural frequency. A seperatrix in the phase space of these systems exists at maximum displacement pi. The aforementioned expression for a fundamental parameter of these may be obtained by separating the equation of motion's first integral, which contains a squared time derivative of position; that expression gives the (*) period. Two of these attached to one another is an archetypical chaotic system. For small maximum displacements, the sine term in the equation of motion for this system can be approximated as linear, which allows these systems to be modeled as harmonic oscillators.": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.28504705
+      ],
+      [
+        "ulum",
+        -0.038061116
+      ]
+    ]
+  },
+  "One of the fundamental parameters of this system is given by the complete elliptic integral of the first kind with modulus sine half maximum displacement and upper bound maximum displacement, times the inverse of the natural frequency. A seperatrix in the phase space of these systems exists at maximum displacement pi. The aforementioned expression for a fundamental parameter of these may be obtained by separating the equation of motion's first integral, which contains a squared time derivative of position; that expression gives the (*) period. Two of these attached to one another is an archetypical chaotic system. For small maximum displacements, the sine term in the equation of motion for this system can be approximated as linear, which allows these systems to be modeled as harmonic oscillators. For 10 points, name these exceeding common physical model systems.": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.1307373
+      ],
+      [
+        "ulum",
+        -0.062024258
+      ]
+    ]
+  },
+  "The functions of this protein are inhibited by toxins such as cytochalasins and phalloidin. The proteins": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.13544385
+      ],
+      [
+        "in",
+        -8.061054e-06
+      ]
+    ]
+  },
+  "The functions of this protein are inhibited by toxins such as cytochalasins and phalloidin. The proteins fimbrin and villin bind to this protein in filopodia and microvilli, and this protein forms structures": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.0036357078
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The functions of this protein are inhibited by toxins such as cytochalasins and phalloidin. The proteins fimbrin and villin bind to this protein in filopodia and microvilli, and this protein forms structures with a pointed end and a barbed end. This protein has a magnesium ion and an ATP molecule bound": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.014255179
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The functions of this protein are inhibited by toxins such as cytochalasins and phalloidin. The proteins fimbrin and villin bind to this protein in filopodia and microvilli, and this protein forms structures with a pointed end and a barbed end. This protein has a magnesium ion and an ATP molecule bound to it in its globular form, which is converted to its fibrous form, and this protein composes structures": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.009783477
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The functions of this protein are inhibited by toxins such as cytochalasins and phalloidin. The proteins fimbrin and villin bind to this protein in filopodia and microvilli, and this protein forms structures with a pointed end and a barbed end. This protein has a magnesium ion and an ATP molecule bound to it in its globular form, which is converted to its fibrous form, and this protein composes structures in which calcium binds to troponin so that cross bridges can form, the thin myofilaments. For": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.0036906935
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The functions of this protein are inhibited by toxins such as cytochalasins and phalloidin. The proteins fimbrin and villin bind to this protein in filopodia and microvilli, and this protein forms structures with a pointed end and a barbed end. This protein has a magnesium ion and an ATP molecule bound to it in its globular form, which is converted to its fibrous form, and this protein composes structures in which calcium binds to troponin so that cross bridges can form, the thin myofilaments. For 10 points, name this protein which is paired with myosin in the sarcomeres of muscle tissue.": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.0015811628
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "This is the fundamental equation of the quantity theory. It states that the product of the amount of": {
+    "guess": "Equation of exchange",
+    "confidence": [
+      [
+        "Equation",
+        -0.037394024
+      ],
+      [
+        " of",
+        -9.849109e-06
+      ],
+      [
+        " exchange",
+        -0.20141344
+      ]
+    ]
+  },
+  "This is the fundamental equation of the quantity theory. It states that the product of the amount of money in an economy and the velocity of money is equal to the mean price level times the purchase frequency,": {
+    "guess": "Equation of exchange",
+    "confidence": [
+      [
+        "Equation",
+        -0.0011717714
+      ],
+      [
+        " of",
+        -5.5122365e-07
+      ],
+      [
+        " exchange",
+        -6.6113236e-05
+      ]
+    ]
+  },
+  "This is the fundamental equation of the quantity theory. It states that the product of the amount of money in an economy and the velocity of money is equal to the mean price level times the purchase frequency, or MV = PQ. It dictates, for example, that the inflation rate grows as the money supply, all": {
+    "guess": "Equation of exchange",
+    "confidence": [
+      [
+        "Equation",
+        -0.2561904
+      ],
+      [
+        " of",
+        -2.6968896e-06
+      ],
+      [
+        " exchange",
+        -0.38687104
+      ]
+    ]
+  },
+  "This is the fundamental equation of the quantity theory. It states that the product of the amount of money in an economy and the velocity of money is equal to the mean price level times the purchase frequency, or MV = PQ. It dictates, for example, that the inflation rate grows as the money supply, all else equal.": {
+    "guess": "Equation of exchange",
+    "confidence": [
+      [
+        "Equation",
+        -0.10136357
+      ],
+      [
+        " of",
+        -1.2664457e-06
+      ],
+      [
+        " exchange",
+        -0.38687104
+      ]
+    ]
+  },
+  "This functional group may decompose to a reactive species that can rearrange or dimerize more rapidly": {
+    "guess": "Diazo compound",
+    "confidence": [
+      [
+        "Dia",
+        -0.20247737
+      ],
+      [
+        "zo",
+        -0.20241603
+      ],
+      [
+        " compound",
+        -0.067278236
+      ]
+    ]
+  },
+  "This functional group may decompose to a reactive species that can rearrange or dimerize more rapidly than carbenes. The reaction of nitrous acid with a reagent used in Wolff-Kishner reduction can produce": {
+    "guess": "Diazonium salt",
+    "confidence": [
+      [
+        "Dia",
+        -0.009372937
+      ],
+      [
+        "zon",
+        -0.05169228
+      ],
+      [
+        "ium",
+        -1.9361265e-07
+      ],
+      [
+        " salt",
+        -0.59480965
+      ]
+    ]
+  },
+  "This functional group may decompose to a reactive species that can rearrange or dimerize more rapidly than carbenes. The reaction of nitrous acid with a reagent used in Wolff-Kishner reduction can produce it, as does a reaction involving triphenylphosphine and the production of an iminophosphorane intermediate,": {
+    "guess": "Diazo compound",
+    "confidence": [
+      [
+        "Dia",
+        -0.009429269
+      ],
+      [
+        "zo",
+        -0.26670155
+      ],
+      [
+        " compound",
+        -0.0015305745
+      ]
+    ]
+  },
+  "This functional group may decompose to a reactive species that can rearrange or dimerize more rapidly than carbenes. The reaction of nitrous acid with a reagent used in Wolff-Kishner reduction can produce it, as does a reaction involving triphenylphosphine and the production of an iminophosphorane intermediate, known as the Staudinger reaction. Reactions named for Curtius and Schmidt feature this functional": {
+    "guess": "Isocyanate",
+    "confidence": [
+      [
+        "Is",
+        -0.40579933
+      ],
+      [
+        "oc",
+        -1.9361265e-07
+      ],
+      [
+        "yan",
+        0.0
+      ],
+      [
+        "ate",
+        -3.1737043e-06
+      ]
+    ]
+  },
+  "This functional group may decompose to a reactive species that can rearrange or dimerize more rapidly than carbenes. The reaction of nitrous acid with a reagent used in Wolff-Kishner reduction can produce it, as does a reaction involving triphenylphosphine and the production of an iminophosphorane intermediate, known as the Staudinger reaction. Reactions named for Curtius and Schmidt feature this functional group rearranging to an isocyanate group. Lithium aluminum hydride reacts with it to produce": {
+    "guess": "Azide",
+    "confidence": [
+      [
+        "Az",
+        -0.020088073
+      ],
+      [
+        "ide",
+        -5.9153886e-06
+      ]
+    ]
+  },
+  "This functional group may decompose to a reactive species that can rearrange or dimerize more rapidly than carbenes. The reaction of nitrous acid with a reagent used in Wolff-Kishner reduction can produce it, as does a reaction involving triphenylphosphine and the production of an iminophosphorane intermediate, known as the Staudinger reaction. Reactions named for Curtius and Schmidt feature this functional group rearranging to an isocyanate group. Lithium aluminum hydride reacts with it to produce primary amines via reduction. Consisting of three atoms of the same element double bonded to each": {
+    "guess": "Azide",
+    "confidence": [
+      [
+        "Az",
+        -0.36224306
+      ],
+      [
+        "ide",
+        -1.1041146e-05
+      ]
+    ]
+  },
+  "This functional group may decompose to a reactive species that can rearrange or dimerize more rapidly than carbenes. The reaction of nitrous acid with a reagent used in Wolff-Kishner reduction can produce it, as does a reaction involving triphenylphosphine and the production of an iminophosphorane intermediate, known as the Staudinger reaction. Reactions named for Curtius and Schmidt feature this functional group rearranging to an isocyanate group. Lithium aluminum hydride reacts with it to produce primary amines via reduction. Consisting of three atoms of the same element double bonded to each other and with a net minus-one charge, FTP identify this functional group that when heated releases": {
+    "guess": "Azide",
+    "confidence": [
+      [
+        "Az",
+        -0.7839749
+      ],
+      [
+        "ide",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "This functional group may decompose to a reactive species that can rearrange or dimerize more rapidly than carbenes. The reaction of nitrous acid with a reagent used in Wolff-Kishner reduction can produce it, as does a reaction involving triphenylphosphine and the production of an iminophosphorane intermediate, known as the Staudinger reaction. Reactions named for Curtius and Schmidt feature this functional group rearranging to an isocyanate group. Lithium aluminum hydride reacts with it to produce primary amines via reduction. Consisting of three atoms of the same element double bonded to each other and with a net minus-one charge, FTP identify this functional group that when heated releases nitrogen gas.": {
+    "guess": "Azide",
+    "confidence": [
+      [
+        "Az",
+        -0.054013684
+      ],
+      [
+        "ide",
+        -3.5477897e-05
+      ]
+    ]
+  },
+  "This fundamental principle is attributed to Guldberg and Waage, though Berthollet came close to formulating": {
+    "guess": "Law of mass action",
+    "confidence": [
+      [
+        "Law",
+        -0.1610046
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " mass",
+        -0.38687104
+      ],
+      [
+        " action",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This fundamental principle is attributed to Guldberg and Waage, though Berthollet came close to formulating it before making an incorrect conclusion that led to the Law of Definite Proportions. The unknown": {
+    "guess": "Law of Mass Action",
+    "confidence": [
+      [
+        "Law",
+        -0.21721075
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Mass",
+        -0.00043078844
+      ],
+      [
+        " Action",
+        0.0
+      ]
+    ]
+  },
+  "This fundamental principle is attributed to Guldberg and Waage, though Berthollet came close to formulating it before making an incorrect conclusion that led to the Law of Definite Proportions. The unknown exponents in this law were later found to correspond to the number of molecules of each reactant": {
+    "guess": "Law of Mass Action",
+    "confidence": [
+      [
+        "Law",
+        -0.07054361
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Mass",
+        -0.20141333
+      ],
+      [
+        " Action",
+        0.0
+      ]
+    ]
+  },
+  "This fundamental principle is attributed to Guldberg and Waage, though Berthollet came close to formulating it before making an incorrect conclusion that led to the Law of Definite Proportions. The unknown exponents in this law were later found to correspond to the number of molecules of each reactant participating in the reaction, and its constant of proportionality is known as the velocity constant.": {
+    "guess": "Law of Mass Action",
+    "confidence": [
+      [
+        "Law",
+        -0.10302617
+      ],
+      [
+        " of",
+        -4.3202e-07
+      ],
+      [
+        " Mass",
+        -0.25192907
+      ],
+      [
+        " Action",
+        0.0
+      ]
+    ]
+  },
+  "This fundamental principle is attributed to Guldberg and Waage, though Berthollet came close to formulating it before making an incorrect conclusion that led to the Law of Definite Proportions. The unknown exponents in this law were later found to correspond to the number of molecules of each reactant participating in the reaction, and its constant of proportionality is known as the velocity constant. For 10 points, name the chemical law that may be integrated to provide the equilibrium concentration": {
+    "guess": "Law of Mass Action",
+    "confidence": [
+      [
+        "Law",
+        -0.09135619
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Mass",
+        -0.0052337637
+      ],
+      [
+        " Action",
+        0.0
+      ]
+    ]
+  },
+  "This fundamental principle is attributed to Guldberg and Waage, though Berthollet came close to formulating it before making an incorrect conclusion that led to the Law of Definite Proportions. The unknown exponents in this law were later found to correspond to the number of molecules of each reactant participating in the reaction, and its constant of proportionality is known as the velocity constant. For 10 points, name the chemical law that may be integrated to provide the equilibrium concentration of a species, which states that the rate of a simple chemical reaction is proportional to the product": {
+    "guess": "Law of Mass Action",
+    "confidence": [
+      [
+        "Law",
+        -0.268764
+      ],
+      [
+        " of",
+        -2.9352968e-06
+      ],
+      [
+        " Mass",
+        -0.07888979
+      ],
+      [
+        " Action",
+        0.0
+      ]
+    ]
+  },
+  "This fundamental principle is attributed to Guldberg and Waage, though Berthollet came close to formulating it before making an incorrect conclusion that led to the Law of Definite Proportions. The unknown exponents in this law were later found to correspond to the number of molecules of each reactant participating in the reaction, and its constant of proportionality is known as the velocity constant. For 10 points, name the chemical law that may be integrated to provide the equilibrium concentration of a species, which states that the rate of a simple chemical reaction is proportional to the product of the exponents of the masses of the reactants.": {
+    "guess": "Law of Mass Action",
+    "confidence": [
+      [
+        "Law",
+        -0.020927215
+      ],
+      [
+        " of",
+        -7.89631e-07
+      ],
+      [
+        " Mass",
+        -0.04858737
+      ],
+      [
+        " Action",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is produced in a condensation reaction which sees the addition of an alcohol in": {
+    "guess": "Ester",
+    "confidence": [
+      [
+        "E",
+        -0.65918267
+      ],
+      [
+        "ster",
+        -5.3193703e-06
+      ]
+    ]
+  },
+  "This functional group is produced in a condensation reaction which sees the addition of an alcohol in the presence of a catalytic amount of a strong acid which is sometimes named for Speier. This type": {
+    "guess": "Ester",
+    "confidence": [
+      [
+        "E",
+        -0.10290453
+      ],
+      [
+        "ster",
+        0.0
+      ]
+    ]
+  },
+  "This functional group is produced in a condensation reaction which sees the addition of an alcohol in the presence of a catalytic amount of a strong acid which is sometimes named for Speier. This type of compound is broken down by water in a reaction catalyzed by bases, the saponification reaction, and": {
+    "guess": "Ester",
+    "confidence": [
+      [
+        "E",
+        -0.046657808
+      ],
+      [
+        "ster",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This functional group is produced in a condensation reaction which sees the addition of an alcohol in the presence of a catalytic amount of a strong acid which is sometimes named for Speier. This type of compound is broken down by water in a reaction catalyzed by bases, the saponification reaction, and three of them are found on a glycerol backbone in fats. Consisting of a two R groups bonded to a": {
+    "guess": "Ester",
+    "confidence": [
+      [
+        "E",
+        -0.004580246
+      ],
+      [
+        "ster",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This functional group is produced in a condensation reaction which sees the addition of an alcohol in the presence of a catalytic amount of a strong acid which is sometimes named for Speier. This type of compound is broken down by water in a reaction catalyzed by bases, the saponification reaction, and three of them are found on a glycerol backbone in fats. Consisting of a two R groups bonded to a carbon double bonded to an oxygen and single bonded to another oxygen, for 10 points, name this class": {
+    "guess": "Ester",
+    "confidence": [
+      [
+        "E",
+        -0.002055812
+      ],
+      [
+        "ster",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This functional group is produced in a condensation reaction which sees the addition of an alcohol in the presence of a catalytic amount of a strong acid which is sometimes named for Speier. This type of compound is broken down by water in a reaction catalyzed by bases, the saponification reaction, and three of them are found on a glycerol backbone in fats. Consisting of a two R groups bonded to a carbon double bonded to an oxygen and single bonded to another oxygen, for 10 points, name this class of fruity smelling organic compounds.": {
+    "guess": "Ester",
+    "confidence": [
+      [
+        "E",
+        -0.07186658
+      ],
+      [
+        "ster",
+        0.0
+      ]
+    ]
+  },
+  "This function's Taylor series begins x plus one-third x cubed plus two-fifteenths x to the fifth, and": {
+    "guess": "Tangent",
+    "confidence": [
+      [
+        "T",
+        -0.016150614
+      ],
+      [
+        "angent",
+        -3.5477897e-05
+      ]
+    ]
+  },
+  "This function's Taylor series begins x plus one-third x cubed plus two-fifteenths x to the fifth, and its derivative is secant squared. Its Pythagorean identity says that it squared plus one equals the": {
+    "guess": "Secant",
+    "confidence": [
+      [
+        "Sec",
+        -0.8703835
+      ],
+      [
+        "ant",
+        0.0
+      ]
+    ]
+  },
+  "This function's Taylor series begins x plus one-third x cubed plus two-fifteenths x to the fifth, and its derivative is secant squared. Its Pythagorean identity says that it squared plus one equals the secant squared. Like its reciprocal, this function has period (*) pi and equals 1 for an input of 45": {
+    "guess": "Tangent",
+    "confidence": [
+      [
+        "T",
+        -0.009894797
+      ],
+      [
+        "angent",
+        0.0
+      ]
+    ]
+  },
+  "This function's Taylor series begins x plus one-third x cubed plus two-fifteenths x to the fifth, and its derivative is secant squared. Its Pythagorean identity says that it squared plus one equals the secant squared. Like its reciprocal, this function has period (*) pi and equals 1 for an input of 45 degrees. For 10 points, name this trig function equal to sine over cosine, or in a right triangle,": {
+    "guess": "Tangent",
+    "confidence": [
+      [
+        "T",
+        -0.014201708
+      ],
+      [
+        "angent",
+        0.0
+      ]
+    ]
+  },
+  "This function's Taylor series begins x plus one-third x cubed plus two-fifteenths x to the fifth, and its derivative is secant squared. Its Pythagorean identity says that it squared plus one equals the secant squared. Like its reciprocal, this function has period (*) pi and equals 1 for an input of 45 degrees. For 10 points, name this trig function equal to sine over cosine, or in a right triangle, the opposite side over the adjacent side.": {
+    "guess": "Tangent",
+    "confidence": [
+      [
+        "T",
+        -0.026371477
+      ],
+      [
+        "angent",
+        0.0
+      ]
+    ]
+  },
+  "This functional group has an adjacent methylene group inserted in the Arndt-Eistert homologation. A molecule": {
+    "guess": "Carboxylic acid",
+    "confidence": [
+      [
+        "Car",
+        -0.30295712
+      ],
+      [
+        "box",
+        -9.0883464e-07
+      ],
+      [
+        "y",
+        -0.00043078844
+      ],
+      [
+        "lic",
+        -1.9361265e-07
+      ],
+      [
+        " acid",
+        -0.01883373
+      ]
+    ]
+  },
+  "This functional group has an adjacent methylene group inserted in the Arndt-Eistert homologation. A molecule containing this functional group is produced along with phenol in the Dakin reaction. The infrared": {
+    "guess": "Acyl chloride",
+    "confidence": [
+      [
+        "Ac",
+        -0.84824514
+      ],
+      [
+        "yl",
+        -4.246537e-06
+      ],
+      [
+        " chloride",
+        -0.33325103
+      ]
+    ]
+  },
+  "This functional group has an adjacent methylene group inserted in the Arndt-Eistert homologation. A molecule containing this functional group is produced along with phenol in the Dakin reaction. The infrared spectra of them shows three peaks: a strong 1710, a medium 1200, and a strong, broad 2700 peak.": {
+    "guess": "Aldehyde",
+    "confidence": [
+      [
+        "A",
+        -0.005437351
+      ],
+      [
+        "ld",
+        -2.1008714e-06
+      ],
+      [
+        "eh",
+        0.0
+      ],
+      [
+        "y",
+        -1.3186812e-05
+      ],
+      [
+        "de",
+        0.0
+      ]
+    ]
+  },
+  "This functional group has an adjacent methylene group inserted in the Arndt-Eistert homologation. A molecule containing this functional group is produced along with phenol in the Dakin reaction. The infrared spectra of them shows three peaks: a strong 1710, a medium 1200, and a strong, broad 2700 peak. A mixture of sulfuric acid and chromium trioxide will convert a primary alcohol to this functional": {
+    "guess": "Aldehyde",
+    "confidence": [
+      [
+        "A",
+        -0.07036652
+      ],
+      [
+        "ld",
+        -6.749814e-06
+      ],
+      [
+        "eh",
+        0.0
+      ],
+      [
+        "y",
+        -0.061974294
+      ],
+      [
+        "de",
+        0.0
+      ]
+    ]
+  },
+  "This functional group has an adjacent methylene group inserted in the Arndt-Eistert homologation. A molecule containing this functional group is produced along with phenol in the Dakin reaction. The infrared spectra of them shows three peaks: a strong 1710, a medium 1200, and a strong, broad 2700 peak. A mixture of sulfuric acid and chromium trioxide will convert a primary alcohol to this functional group. Simple, dry heating of them reduces them to an alkane, evolving carbon dioxide. For 10 points,": {
+    "guess": "Aldehyde",
+    "confidence": [
+      [
+        "A",
+        -0.14555863
+      ],
+      [
+        "ld",
+        -6.869018e-06
+      ],
+      [
+        "eh",
+        0.0
+      ],
+      [
+        "y",
+        -0.34846833
+      ],
+      [
+        "de",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This functional group has an adjacent methylene group inserted in the Arndt-Eistert homologation. A molecule containing this functional group is produced along with phenol in the Dakin reaction. The infrared spectra of them shows three peaks: a strong 1710, a medium 1200, and a strong, broad 2700 peak. A mixture of sulfuric acid and chromium trioxide will convert a primary alcohol to this functional group. Simple, dry heating of them reduces them to an alkane, evolving carbon dioxide. For 10 points, identify this functional group which combines with an alcohol to form an ester in the Fischer esterification.": {
+    "guess": "Carboxylic acid",
+    "confidence": [
+      [
+        "Car",
+        -0.003049366
+      ],
+      [
+        "box",
+        0.0
+      ],
+      [
+        "y",
+        -7.493431e-05
+      ],
+      [
+        "lic",
+        0.0
+      ],
+      [
+        " acid",
+        -0.030790016
+      ]
+    ]
+  },
+  "A function named for this letter is defined as the partial derivative of g with respect to the natural": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.95342475
+      ]
+    ]
+  },
+  "A function named for this letter is defined as the partial derivative of g with respect to the natural log of mu, and gives the dependence of a coupling parameter on the energy scale. Another quantity": {
+    "guess": "Beta",
+    "confidence": [
+      [
+        "Beta",
+        -0.026362307
+      ]
+    ]
+  },
+  "A function named for this letter is defined as the partial derivative of g with respect to the natural log of mu, and gives the dependence of a coupling parameter on the energy scale. Another quantity denoted by this letter is equal to the derivative of the natural log of the number of microstates with": {
+    "guess": "Z",
+    "confidence": [
+      [
+        "Z",
+        -0.13613689
+      ]
+    ]
+  },
+  "A function named for this letter is defined as the partial derivative of g with respect to the natural log of mu, and gives the dependence of a coupling parameter on the energy scale. Another quantity denoted by this letter is equal to the derivative of the natural log of the number of microstates with respect to energy. That quantity named for this letter is the inverse of (*) kT. In a phenomenon": {
+    "guess": "Beta",
+    "confidence": [
+      [
+        "Beta",
+        -0.76465076
+      ]
+    ]
+  },
+  "A function named for this letter is defined as the partial derivative of g with respect to the natural log of mu, and gives the dependence of a coupling parameter on the energy scale. Another quantity denoted by this letter is equal to the derivative of the natural log of the number of microstates with respect to energy. That quantity named for this letter is the inverse of (*) kT. In a phenomenon named for it, a W boson transforms an up quark to a down quark, changing the atomic number by 1. For": {
+    "guess": "Beta",
+    "confidence": [
+      [
+        "Beta",
+        -0.3524895
+      ]
+    ]
+  },
+  "A function named for this letter is defined as the partial derivative of g with respect to the natural log of mu, and gives the dependence of a coupling parameter on the energy scale. Another quantity denoted by this letter is equal to the derivative of the natural log of the number of microstates with respect to energy. That quantity named for this letter is the inverse of (*) kT. In a phenomenon named for it, a W boson transforms an up quark to a down quark, changing the atomic number by 1. For 10 points, name this form of nuclear decay that produces an antineutrino and electron.": {
+    "guess": "Beta",
+    "confidence": [
+      [
+        "Beta",
+        -0.0012351145
+      ]
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "They swung brazen pestles to good effect during the revolt of the giants against Olympus, and they gave": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1299685
+      ]
+    ]
+  },
+  "They swung brazen pestles to good effect during the revolt of the giants against Olympus, and they gave ephemeral fruits to Typhon, guaranteeing his death. According to one story, Apollo got them drunk": {
+    "guess": "Corybantes",
+    "confidence": [
+      [
+        "C",
+        -0.19520825
+      ],
+      [
+        "ory",
+        -0.07893694
+      ],
+      [
+        "b",
+        -5.1689596e-05
+      ],
+      [
+        "antes",
+        -0.00012546933
+      ]
+    ]
+  },
+  "They swung brazen pestles to good effect during the revolt of the giants against Olympus, and they gave ephemeral fruits to Typhon, guaranteeing his death. According to one story, Apollo got them drunk to save his friend Admetus from death. Their names are typically given as Clotho, Lachesis, and Atropos,": {
+    "guess": "Fates",
+    "confidence": [
+      [
+        "F",
+        -0.2999937
+      ],
+      [
+        "ates",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "They swung brazen pestles to good effect during the revolt of the giants against Olympus, and they gave ephemeral fruits to Typhon, guaranteeing his death. According to one story, Apollo got them drunk to save his friend Admetus from death. Their names are typically given as Clotho, Lachesis, and Atropos, and symbols associated with them include a rod, a spindle, and a pair of shears. For 10 points,": {
+    "guess": "Fates",
+    "confidence": [
+      [
+        "F",
+        -0.14100616
+      ],
+      [
+        "ates",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "They swung brazen pestles to good effect during the revolt of the giants against Olympus, and they gave ephemeral fruits to Typhon, guaranteeing his death. According to one story, Apollo got them drunk to save his friend Admetus from death. Their names are typically given as Clotho, Lachesis, and Atropos, and symbols associated with them include a rod, a spindle, and a pair of shears. For 10 points, name this trio from Greek myth who were given charge of measuring out the spans of mortal lives.": {
+    "guess": "Fates",
+    "confidence": [
+      [
+        "F",
+        -0.008706753
+      ],
+      [
+        "ates",
+        0.0
+      ]
+    ]
+  }
+}

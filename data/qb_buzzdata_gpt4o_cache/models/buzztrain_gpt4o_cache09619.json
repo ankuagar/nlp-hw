@@ -1,0 +1,104 @@
+{
+  "Zaitsev's rule holds that if elimination reactions can form various examples of these substances, then": {
+    "guess": "Alkene",
+    "confidence": [
+      [
+        "Al",
+        -0.002978649
+      ],
+      [
+        "k",
+        -5.8365e-05
+      ],
+      [
+        "ene",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Zaitsev's rule holds that if elimination reactions can form various examples of these substances, then the more stable one is the major product. Their hydrohalogenation is expressed in Markovnikov's rule.": {
+    "guess": "Alkene",
+    "confidence": [
+      [
+        "Al",
+        -0.00081034034
+      ],
+      [
+        "k",
+        -0.0024757776
+      ],
+      [
+        "ene",
+        -3.650519e-06
+      ]
+    ]
+  },
+  "Zaitsev's rule holds that if elimination reactions can form various examples of these substances, then the more stable one is the major product. Their hydrohalogenation is expressed in Markovnikov's rule. \"E\" and \"Z\" denote two (*) isomers that they possess, while ketones and aldehydes can be used to": {
+    "guess": "Alkene",
+    "confidence": [
+      [
+        "Al",
+        -0.005315701
+      ],
+      [
+        "k",
+        -0.0009114635
+      ],
+      [
+        "ene",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Zaitsev's rule holds that if elimination reactions can form various examples of these substances, then the more stable one is the major product. Their hydrohalogenation is expressed in Markovnikov's rule. \"E\" and \"Z\" denote two (*) isomers that they possess, while ketones and aldehydes can be used to form these substances in Wittig reactions. Unlike a similar substance, they are not saturated and can": {
+    "guess": "Alkene",
+    "confidence": [
+      [
+        "Al",
+        -0.0030459275
+      ],
+      [
+        "k",
+        -3.5477897e-05
+      ],
+      [
+        "ene",
+        0.0
+      ]
+    ]
+  },
+  "Zaitsev's rule holds that if elimination reactions can form various examples of these substances, then the more stable one is the major product. Their hydrohalogenation is expressed in Markovnikov's rule. \"E\" and \"Z\" denote two (*) isomers that they possess, while ketones and aldehydes can be used to form these substances in Wittig reactions. Unlike a similar substance, they are not saturated and can be referred to as olefins. With general formula CnH2n, name, for 10 points, these substances that": {
+    "guess": "Alkene",
+    "confidence": [
+      [
+        "Al",
+        -7.851042e-05
+      ],
+      [
+        "k",
+        -1.3067608e-05
+      ],
+      [
+        "ene",
+        0.0
+      ]
+    ]
+  },
+  "Zaitsev's rule holds that if elimination reactions can form various examples of these substances, then the more stable one is the major product. Their hydrohalogenation is expressed in Markovnikov's rule. \"E\" and \"Z\" denote two (*) isomers that they possess, while ketones and aldehydes can be used to form these substances in Wittig reactions. Unlike a similar substance, they are not saturated and can be referred to as olefins. With general formula CnH2n, name, for 10 points, these substances that have carbon-carbon double bonds and include butene and ethylene.": {
+    "guess": "Alkene",
+    "confidence": [
+      [
+        "Al",
+        -0.001339647
+      ],
+      [
+        "k",
+        -1.6240566e-06
+      ],
+      [
+        "ene",
+        0.0
+      ]
+    ]
+  }
+}

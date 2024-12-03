@@ -1,0 +1,246 @@
+{
+  "The sacred nature of this structure predates the religion of which it is the holiest site. Traditionally": {
+    "guess": "Kaaba",
+    "confidence": [
+      [
+        "Ka",
+        -0.056675564
+      ],
+      [
+        "aba",
+        -2.8160932e-06
+      ]
+    ]
+  },
+  "The sacred nature of this structure predates the religion of which it is the holiest site. Traditionally it was first constructed by Adam, and it was first used as the shelter of the marital deity Hubal": {
+    "guess": "Kaaba",
+    "confidence": [
+      [
+        "Ka",
+        -0.00015264409
+      ],
+      [
+        "aba",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "The sacred nature of this structure predates the religion of which it is the holiest site. Traditionally it was first constructed by Adam, and it was first used as the shelter of the marital deity Hubal as well as the idols Manat, al-Uzza and al-Lat, known as the daughters of God. Surrounded by the haram,": {
+    "guess": "Kaaba",
+    "confidence": [
+      [
+        "Ka",
+        -6.15835e-05
+      ],
+      [
+        "aba",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "The sacred nature of this structure predates the religion of which it is the holiest site. Traditionally it was first constructed by Adam, and it was first used as the shelter of the marital deity Hubal as well as the idols Manat, al-Uzza and al-Lat, known as the daughters of God. Surrounded by the haram, it contains a sacred meteorite held together by a silver band. FTP, name this center of circumambulations": {
+    "guess": "Kaaba",
+    "confidence": [
+      [
+        "Ka",
+        -3.1424974e-05
+      ],
+      [
+        "aba",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "The sacred nature of this structure predates the religion of which it is the holiest site. Traditionally it was first constructed by Adam, and it was first used as the shelter of the marital deity Hubal as well as the idols Manat, al-Uzza and al-Lat, known as the daughters of God. Surrounded by the haram, it contains a sacred meteorite held together by a silver band. FTP, name this center of circumambulations during the Hajj located in Mecca, the holiest site in Islam.": {
+    "guess": "Kaaba",
+    "confidence": [
+      [
+        "Ka",
+        -0.00030721823
+      ],
+      [
+        "aba",
+        0.0
+      ]
+    ]
+  },
+  "The sacred book of this religion includes the Gathas, Yashts, and the Vendidad. Praying in Fire Temples,": {
+    "guess": "Zoroastrianism",
+    "confidence": [
+      [
+        "Z",
+        -0.00030793346
+      ],
+      [
+        "oro",
+        0.0
+      ],
+      [
+        "astr",
+        -3.1281633e-07
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        "ism",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "The sacred book of this religion includes the Gathas, Yashts, and the Vendidad. Praying in Fire Temples, these believers observe the rituals of the Yasna and Nirang-din ceremony, which creates the Holy": {
+    "guess": "Zoroastrianism",
+    "confidence": [
+      [
+        "Z",
+        -6.921253e-05
+      ],
+      [
+        "oro",
+        0.0
+      ],
+      [
+        "astr",
+        -1.9361265e-07
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "The sacred book of this religion includes the Gathas, Yashts, and the Vendidad. Praying in Fire Temples, these believers observe the rituals of the Yasna and Nirang-din ceremony, which creates the Holy Nirang. Although the Parsees, the largest modern group of practitioners, live in India, this religion": {
+    "guess": "Zoroastrianism",
+    "confidence": [
+      [
+        "Z",
+        -0.00020842774
+      ],
+      [
+        "oro",
+        0.0
+      ],
+      [
+        "astr",
+        -1.9361265e-07
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "The sacred book of this religion includes the Gathas, Yashts, and the Vendidad. Praying in Fire Temples, these believers observe the rituals of the Yasna and Nirang-din ceremony, which creates the Holy Nirang. Although the Parsees, the largest modern group of practitioners, live in India, this religion originated in Iran. FTP, what is this religion of ancient Persia founded by the prophet also known": {
+    "guess": "Zoroastrianism",
+    "confidence": [
+      [
+        "Z",
+        -0.00012546933
+      ],
+      [
+        "oro",
+        0.0
+      ],
+      [
+        "astr",
+        -1.9027791e-05
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "The sacred book of this religion includes the Gathas, Yashts, and the Vendidad. Praying in Fire Temples, these believers observe the rituals of the Yasna and Nirang-din ceremony, which creates the Holy Nirang. Although the Parsees, the largest modern group of practitioners, live in India, this religion originated in Iran. FTP, what is this religion of ancient Persia founded by the prophet also known as Zarathustra?": {
+    "guess": "Zoroastrianism",
+    "confidence": [
+      [
+        "Z",
+        -0.0028229433
+      ],
+      [
+        "oro",
+        0.0
+      ],
+      [
+        "astr",
+        -2.1008714e-06
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "The Sackur-Tetrode equation describes this quantity for a monatomic ideal gas. A reversible adiabatic": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.2630106
+      ]
+    ]
+  },
+  "The Sackur-Tetrode equation describes this quantity for a monatomic ideal gas. A reversible adiabatic process occurs without change in this quantity, which is equal to Boltzmann's constant times the natural": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -6.194111e-05
+      ]
+    ]
+  },
+  "The Sackur-Tetrode equation describes this quantity for a monatomic ideal gas. A reversible adiabatic process occurs without change in this quantity, which is equal to Boltzmann's constant times the natural log of the number of(*) microstates in the system. The Gibbs free energy change for a reaction": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.01265574
+      ]
+    ]
+  },
+  "The Sackur-Tetrode equation describes this quantity for a monatomic ideal gas. A reversible adiabatic process occurs without change in this quantity, which is equal to Boltzmann's constant times the natural log of the number of(*) microstates in the system. The Gibbs free energy change for a reaction is the enthalpy change minus temperature times the change in this quantity, which is given in units": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.000866918
+      ]
+    ]
+  },
+  "The Sackur-Tetrode equation describes this quantity for a monatomic ideal gas. A reversible adiabatic process occurs without change in this quantity, which is equal to Boltzmann's constant times the natural log of the number of(*) microstates in the system. The Gibbs free energy change for a reaction is the enthalpy change minus temperature times the change in this quantity, which is given in units of Joules per Kelvin. The Second Law of Thermodynamics requires increases in, for 10 points, what state": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.0007601959
+      ]
+    ]
+  },
+  "The Sackur-Tetrode equation describes this quantity for a monatomic ideal gas. A reversible adiabatic process occurs without change in this quantity, which is equal to Boltzmann's constant times the natural log of the number of(*) microstates in the system. The Gibbs free energy change for a reaction is the enthalpy change minus temperature times the change in this quantity, which is given in units of Joules per Kelvin. The Second Law of Thermodynamics requires increases in, for 10 points, what state function, a measure of a system's disorder?": {
+    "guess": "Entropy",
+    "confidence": [
+      [
+        "Entropy",
+        -0.0018036998
+      ]
+    ]
+  }
+}

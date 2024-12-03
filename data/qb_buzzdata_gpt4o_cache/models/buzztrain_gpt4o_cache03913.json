@@ -1,0 +1,293 @@
+{
+  "The Kepler mission will use a digital camera that will take pictures every 15 minutes of this constellation": {
+    "guess": "Cygnus",
+    "confidence": [
+      [
+        "Cy",
+        -0.0737499
+      ],
+      [
+        "gn",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "The Kepler mission will use a digital camera that will take pictures every 15 minutes of this constellation for at least 4 years. It contains the North American Nebula, and the blue and gold double star": {
+    "guess": "Cygnus (constellation)",
+    "confidence": [
+      [
+        "Cy",
+        -0.00029959288
+      ],
+      [
+        "gn",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " (",
+        -0.0011572469
+      ],
+      [
+        "const",
+        -2.3392786e-06
+      ],
+      [
+        "ellation",
+        0.0
+      ],
+      [
+        ")",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The Kepler mission will use a digital camera that will take pictures every 15 minutes of this constellation for at least 4 years. It contains the North American Nebula, and the blue and gold double star system Albireo can be seen at the opposite end from the alpha star, whose name is Arabic for \"tail.\"": {
+    "guess": "Cygnus (constellation)",
+    "confidence": [
+      [
+        "Cy",
+        -0.00021319589
+      ],
+      [
+        "gn",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " (",
+        -0.0014027405
+      ],
+      [
+        "const",
+        -1.3856493e-06
+      ],
+      [
+        "ellation",
+        0.0
+      ],
+      [
+        ")",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "The Kepler mission will use a digital camera that will take pictures every 15 minutes of this constellation for at least 4 years. It contains the North American Nebula, and the blue and gold double star system Albireo can be seen at the opposite end from the alpha star, whose name is Arabic for \"tail.\" It also contains the X-ray source X-1, a binary system including the first strong candidate for a": {
+    "guess": "Cygnus (constellation)",
+    "confidence": [
+      [
+        "Cy",
+        -0.0009026461
+      ],
+      [
+        "gn",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " (",
+        -4.310693e-05
+      ],
+      [
+        "const",
+        -1.9816675e-06
+      ],
+      [
+        "ellation",
+        -1.9361265e-07
+      ],
+      [
+        ")",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "The Kepler mission will use a digital camera that will take pictures every 15 minutes of this constellation for at least 4 years. It contains the North American Nebula, and the blue and gold double star system Albireo can be seen at the opposite end from the alpha star, whose name is Arabic for \"tail.\" It also contains the X-ray source X-1, a binary system including the first strong candidate for a black hole. It is also called the Northern Cross, and the long arm points into the Summer Triangle": {
+    "guess": "Cygnus (constellation)",
+    "confidence": [
+      [
+        "Cy",
+        -2.7610455e-05
+      ],
+      [
+        "gn",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " (",
+        -1.962381e-05
+      ],
+      [
+        "const",
+        -7.89631e-07
+      ],
+      [
+        "ellation",
+        0.0
+      ],
+      [
+        ")",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The Kepler mission will use a digital camera that will take pictures every 15 minutes of this constellation for at least 4 years. It contains the North American Nebula, and the blue and gold double star system Albireo can be seen at the opposite end from the alpha star, whose name is Arabic for \"tail.\" It also contains the X-ray source X-1, a binary system including the first strong candidate for a black hole. It is also called the Northern Cross, and the long arm points into the Summer Triangle asterism, with the alpha star Deneb at the top of the cross. For ten points, name this constellation": {
+    "guess": "Cygnus (constellation)",
+    "confidence": [
+      [
+        "Cy",
+        -6.9882217e-06
+      ],
+      [
+        "gn",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " (",
+        -0.00053575553
+      ],
+      [
+        "const",
+        -1.504853e-06
+      ],
+      [
+        "ellation",
+        0.0
+      ],
+      [
+        ")",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The Kepler mission will use a digital camera that will take pictures every 15 minutes of this constellation for at least 4 years. It contains the North American Nebula, and the blue and gold double star system Albireo can be seen at the opposite end from the alpha star, whose name is Arabic for \"tail.\" It also contains the X-ray source X-1, a binary system including the first strong candidate for a black hole. It is also called the Northern Cross, and the long arm points into the Summer Triangle asterism, with the alpha star Deneb at the top of the cross. For ten points, name this constellation of a swan.": {
+    "guess": "Cygnus (constellation)",
+    "confidence": [
+      [
+        "Cy",
+        -4.406056e-05
+      ],
+      [
+        "gn",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " (",
+        -0.04985101
+      ],
+      [
+        "const",
+        -1.7432603e-06
+      ],
+      [
+        "ellation",
+        0.0
+      ],
+      [
+        ")",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "Kepler's Conjecture postulates that these objects can be packed with a density of approximately 74%.": {
+    "guess": "Sphere packing",
+    "confidence": [
+      [
+        "Sphere",
+        -0.001364997
+      ],
+      [
+        " packing",
+        -0.017560234
+      ]
+    ]
+  },
+  "Kepler's Conjecture postulates that these objects can be packed with a density of approximately 74%. The Banach-Tarski paradox states that a solid one of these objects can be cut into finitely many pieces": {
+    "guess": "Sphere",
+    "confidence": [
+      [
+        "Sphere",
+        -0.0018399908
+      ]
+    ]
+  },
+  "Kepler's Conjecture postulates that these objects can be packed with a density of approximately 74%. The Banach-Tarski paradox states that a solid one of these objects can be cut into finitely many pieces and re-assembled into two copies of the same size as the original. For a  non-Euclidean geometry": {
+    "guess": "Sphere",
+    "confidence": [
+      [
+        "Sphere",
+        -0.09602776
+      ]
+    ]
+  },
+  "Kepler's Conjecture postulates that these objects can be packed with a density of approximately 74%. The Banach-Tarski paradox states that a solid one of these objects can be cut into finitely many pieces and re-assembled into two copies of the same size as the original. For a  non-Euclidean geometry occurring on these objects, triangles have angle sum greater than 180 degrees. (*) Archimedes derived": {
+    "guess": "Sphere",
+    "confidence": [
+      [
+        "Sphere",
+        -0.00815116
+      ]
+    ]
+  },
+  "Kepler's Conjecture postulates that these objects can be packed with a density of approximately 74%. The Banach-Tarski paradox states that a solid one of these objects can be cut into finitely many pieces and re-assembled into two copies of the same size as the original. For a  non-Euclidean geometry occurring on these objects, triangles have angle sum greater than 180 degrees. (*) Archimedes derived the formula for the volume of this figure by noting that it occupied two-thirds of the volume of": {
+    "guess": "Sphere",
+    "confidence": [
+      [
+        "Sphere",
+        -0.0006388117
+      ]
+    ]
+  },
+  "Kepler's Conjecture postulates that these objects can be packed with a density of approximately 74%. The Banach-Tarski paradox states that a solid one of these objects can be cut into finitely many pieces and re-assembled into two copies of the same size as the original. For a  non-Euclidean geometry occurring on these objects, triangles have angle sum greater than 180 degrees. (*) Archimedes derived the formula for the volume of this figure by noting that it occupied two-thirds of the volume of its circumscribed cylinder. This figure has surface area equal to four pi times the radius squared,": {
+    "guess": "Sphere",
+    "confidence": [
+      [
+        "Sphere",
+        -0.00054838747
+      ]
+    ]
+  },
+  "Kepler's Conjecture postulates that these objects can be packed with a density of approximately 74%. The Banach-Tarski paradox states that a solid one of these objects can be cut into finitely many pieces and re-assembled into two copies of the same size as the original. For a  non-Euclidean geometry occurring on these objects, triangles have angle sum greater than 180 degrees. (*) Archimedes derived the formula for the volume of this figure by noting that it occupied two-thirds of the volume of its circumscribed cylinder. This figure has surface area equal to four pi times the radius squared, and volume four-thirds pi times radius cubed. For ten points, name this three-dimensional analogue of": {
+    "guess": "Sphere",
+    "confidence": [
+      [
+        "Sphere",
+        -0.00022868869
+      ]
+    ]
+  },
+  "Kepler's Conjecture postulates that these objects can be packed with a density of approximately 74%. The Banach-Tarski paradox states that a solid one of these objects can be cut into finitely many pieces and re-assembled into two copies of the same size as the original. For a  non-Euclidean geometry occurring on these objects, triangles have angle sum greater than 180 degrees. (*) Archimedes derived the formula for the volume of this figure by noting that it occupied two-thirds of the volume of its circumscribed cylinder. This figure has surface area equal to four pi times the radius squared, and volume four-thirds pi times radius cubed. For ten points, name this three-dimensional analogue of a circle, the outer surface of a ball.": {
+    "guess": "Sphere",
+    "confidence": [
+      [
+        "Sphere",
+        -6.897413e-05
+      ]
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "In the Mabinogion, Cuhlwich ultimately has to consult one of these creatures to find Mabon, a great hunter": {
+    "guess": "Boar",
+    "confidence": [
+      [
+        "Bo",
+        -0.23595892
+      ],
+      [
+        "ar",
+        -0.00012892624
+      ]
+    ]
+  },
+  "In the Mabinogion, Cuhlwich ultimately has to consult one of these creatures to find Mabon, a great hunter needed to fulfill a quest. The best known one of these creatures in myth gained its namesake quality": {
+    "guess": "Salmon of Wisdom",
+    "confidence": [
+      [
+        "Sal",
+        -0.51772505
+      ],
+      [
+        "mon",
+        -2.3392786e-06
+      ],
+      [
+        " of",
+        -1.3544423e-05
+      ],
+      [
+        " Wisdom",
+        -0.31354228
+      ]
+    ]
+  },
+  "In the Mabinogion, Cuhlwich ultimately has to consult one of these creatures to find Mabon, a great hunter needed to fulfill a quest. The best known one of these creatures in myth gained its namesake quality by eating hazelnuts that fell into Connla's Well, where this creature was finally caught by the": {
+    "guess": "Salmon of Knowledge",
+    "confidence": [
+      [
+        "Sal",
+        -0.046263967
+      ],
+      [
+        "mon",
+        0.0
+      ],
+      [
+        " of",
+        -6.1821906e-05
+      ],
+      [
+        " Knowledge",
+        -0.693169
+      ]
+    ]
+  },
+  "In the Mabinogion, Cuhlwich ultimately has to consult one of these creatures to find Mabon, a great hunter needed to fulfill a quest. The best known one of these creatures in myth gained its namesake quality by eating hazelnuts that fell into Connla's Well, where this creature was finally caught by the poet Finnegas, who asked his boy servant to prepare it for him, whereupon he burned his thumb touching": {
+    "guess": "Salmon of Knowledge",
+    "confidence": [
+      [
+        "Sal",
+        -0.019095626
+      ],
+      [
+        "mon",
+        0.0
+      ],
+      [
+        " of",
+        -3.888926e-06
+      ],
+      [
+        " Knowledge",
+        -0.16023347
+      ]
+    ]
+  },
+  "In the Mabinogion, Cuhlwich ultimately has to consult one of these creatures to find Mabon, a great hunter needed to fulfill a quest. The best known one of these creatures in myth gained its namesake quality by eating hazelnuts that fell into Connla's Well, where this creature was finally caught by the poet Finnegas, who asked his boy servant to prepare it for him, whereupon he burned his thumb touching it while it cooked. FTP what is this piscine creature that when inadvertently touched by Finn": {
+    "guess": "Salmon",
+    "confidence": [
+      [
+        "Sal",
+        -0.023464307
+      ],
+      [
+        "mon",
+        0.0
+      ]
+    ]
+  },
+  "In the Mabinogion, Cuhlwich ultimately has to consult one of these creatures to find Mabon, a great hunter needed to fulfill a quest. The best known one of these creatures in myth gained its namesake quality by eating hazelnuts that fell into Connla's Well, where this creature was finally caught by the poet Finnegas, who asked his boy servant to prepare it for him, whereupon he burned his thumb touching it while it cooked. FTP what is this piscine creature that when inadvertently touched by Finn MacCool granted him deep insight?": {
+    "guess": "SALMON",
+    "confidence": [
+      [
+        "SAL",
+        -0.0037903388
+      ],
+      [
+        "MON",
+        0.0
+      ]
+    ]
+  },
+  "Maarten de Vos painted the holy figures for this artist in his early paintings. A group of Spanish soldiers": {
+    "guess": "Peter Paul Rubens",
+    "confidence": [
+      [
+        "Peter",
+        -0.047140658
+      ],
+      [
+        " Paul",
+        -3.1737043e-06
+      ],
+      [
+        " Rub",
+        -3.4121115e-06
+      ],
+      [
+        "ens",
+        0.0
+      ]
+    ]
+  },
+  "Maarten de Vos painted the holy figures for this artist in his early paintings. A group of Spanish soldiers attack a helpless village in his The Massacre of the Innocents, and the cultivation of a ripe": {
+    "guess": "Pieter Bruegel the Elder",
+    "confidence": [
+      [
+        "P",
+        -0.45000163
+      ],
+      [
+        "ieter",
+        -3.2855416e-05
+      ],
+      [
+        " Br",
+        -1.5213274e-05
+      ],
+      [
+        "ue",
+        0.0
+      ],
+      [
+        "gel",
+        -0.00033546583
+      ],
+      [
+        " the",
+        -3.888926e-06
+      ],
+      [
+        " Elder",
+        -1.3186812e-05
+      ]
+    ]
+  },
+  "Maarten de Vos painted the holy figures for this artist in his early paintings. A group of Spanish soldiers attack a helpless village in his The Massacre of the Innocents, and the cultivation of a ripe field of wheat is depicted in his The Harvesters. A skeleton army attacks a group of people in one": {
+    "guess": "Pieter Bruegel the Elder",
+    "confidence": [
+      [
+        "P",
+        -0.91496277
+      ],
+      [
+        "ieter",
+        -3.1281633e-07
+      ],
+      [
+        " Br",
+        0.0
+      ],
+      [
+        "ue",
+        0.0
+      ],
+      [
+        "gel",
+        -3.5477897e-05
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Elder",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Maarten de Vos painted the holy figures for this artist in his early paintings. A group of Spanish soldiers attack a helpless village in his The Massacre of the Innocents, and the cultivation of a ripe field of wheat is depicted in his The Harvesters. A skeleton army attacks a group of people in one of his paintings, and he painted two figures with a pack of dogs gazing at a village in Hunters in the": {
+    "guess": "Pieter Bruegel the Elder",
+    "confidence": [
+      [
+        "P",
+        -0.056639627
+      ],
+      [
+        "ieter",
+        -1.7432603e-06
+      ],
+      [
+        " Br",
+        -1.9361265e-07
+      ],
+      [
+        "ue",
+        0.0
+      ],
+      [
+        "gel",
+        -1.3067608e-05
+      ],
+      [
+        " the",
+        -1.7432603e-06
+      ],
+      [
+        " Elder",
+        0.0
+      ]
+    ]
+  },
+  "Maarten de Vos painted the holy figures for this artist in his early paintings. A group of Spanish soldiers attack a helpless village in his The Massacre of the Innocents, and the cultivation of a ripe field of wheat is depicted in his The Harvesters. A skeleton army attacks a group of people in one of his paintings, and he painted two figures with a pack of dogs gazing at a village in Hunters in the Snow. In another of his works, a pair of legs flails in the sea below a passing ship. For 10 points,": {
+    "guess": "Pieter Bruegel the Elder",
+    "confidence": [
+      [
+        "P",
+        -0.043824106
+      ],
+      [
+        "ieter",
+        -4.3202e-07
+      ],
+      [
+        " Br",
+        0.0
+      ],
+      [
+        "ue",
+        0.0
+      ],
+      [
+        "gel",
+        -6.2729996e-06
+      ],
+      [
+        " the",
+        -1.6240566e-06
+      ],
+      [
+        " Elder",
+        0.0
+      ]
+    ]
+  },
+  "Maarten de Vos painted the holy figures for this artist in his early paintings. A group of Spanish soldiers attack a helpless village in his The Massacre of the Innocents, and the cultivation of a ripe field of wheat is depicted in his The Harvesters. A skeleton army attacks a group of people in one of his paintings, and he painted two figures with a pack of dogs gazing at a village in Hunters in the Snow. In another of his works, a pair of legs flails in the sea below a passing ship. For 10 points, name this Flemish artist of The Triumph of Death and Landscape with the Fall of Icarus.": {
+    "guess": "Pieter Bruegel the Elder",
+    "confidence": [
+      [
+        "P",
+        -0.003322319
+      ],
+      [
+        "ieter",
+        0.0
+      ],
+      [
+        " Br",
+        0.0
+      ],
+      [
+        "ue",
+        0.0
+      ],
+      [
+        "gel",
+        -4.3202e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Elder",
+        -3.1281633e-07
+      ]
+    ]
+  }
+}

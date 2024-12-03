@@ -1,0 +1,95 @@
+{
+  "Ludwig van Beethoven's Diabelli Variations were based on a work of this form by Anton Diabelli, and its": {
+    "guess": "Diabelli Variations",
+    "confidence": [
+      [
+        "Di",
+        -0.10450846
+      ],
+      [
+        "ab",
+        0.0
+      ],
+      [
+        "elli",
+        0.0
+      ],
+      [
+        " Vari",
+        -0.0002385826
+      ],
+      [
+        "ations",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Ludwig van Beethoven's Diabelli Variations were based on a work of this form by Anton Diabelli, and its ancestor was the L\u00e4ndler (LAND-luhr). This dance in triple meter features an \"oom-pah-pah\" accompaniment,": {
+    "guess": "Waltz",
+    "confidence": [
+      [
+        "W",
+        -0.0016977953
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        "z",
+        0.0
+      ]
+    ]
+  },
+  "Ludwig van Beethoven's Diabelli Variations were based on a work of this form by Anton Diabelli, and its ancestor was the L\u00e4ndler (LAND-luhr). This dance in triple meter features an \"oom-pah-pah\" accompaniment, and examples written by its \"king\" include \"Wine, Women, and Song\" and (*) \"Tales From The": {
+    "guess": "Waltz",
+    "confidence": [
+      [
+        "W",
+        -0.0017262301
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        "z",
+        0.0
+      ]
+    ]
+  },
+  "Ludwig van Beethoven's Diabelli Variations were based on a work of this form by Anton Diabelli, and its ancestor was the L\u00e4ndler (LAND-luhr). This dance in triple meter features an \"oom-pah-pah\" accompaniment, and examples written by its \"king\" include \"Wine, Women, and Song\" and (*) \"Tales From The Vienna Woods\". For 10 points, name this Austrian dance associated with both the elder and younger Johann": {
+    "guess": "Waltz",
+    "confidence": [
+      [
+        "W",
+        -0.00020795093
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        "z",
+        0.0
+      ]
+    ]
+  },
+  "Ludwig van Beethoven's Diabelli Variations were based on a work of this form by Anton Diabelli, and its ancestor was the L\u00e4ndler (LAND-luhr). This dance in triple meter features an \"oom-pah-pah\" accompaniment, and examples written by its \"king\" include \"Wine, Women, and Song\" and (*) \"Tales From The Vienna Woods\". For 10 points, name this Austrian dance associated with both the elder and younger Johann Strauss, the most famous of which is \"The Beautiful Blue Danube\".": {
+    "guess": "Waltz",
+    "confidence": [
+      [
+        "W",
+        -0.00016492206
+      ],
+      [
+        "alt",
+        0.0
+      ],
+      [
+        "z",
+        0.0
+      ]
+    ]
+  }
+}

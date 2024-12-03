@@ -1,0 +1,116 @@
+{
+  "In the 1970s, the Bilger report contradicted the NIH's wishes to disband all research related to this": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.52258193
+      ]
+    ]
+  },
+  "In the 1970s, the Bilger report contradicted the NIH's wishes to disband all research related to this technology, and in the 1980s the NIH gave a grant to Australia's Graham Clark to further develop the": {
+    "guess": "Cochlear implant",
+    "confidence": [
+      [
+        "C",
+        -2.3795938e-05
+      ],
+      [
+        "och",
+        0.0
+      ],
+      [
+        "lear",
+        0.0
+      ],
+      [
+        " implant",
+        -0.016160471
+      ]
+    ]
+  },
+  "In the 1970s, the Bilger report contradicted the NIH's wishes to disband all research related to this technology, and in the 1980s the NIH gave a grant to Australia's Graham Clark to further develop the multi-channel version of this device. It can be traced back to Volta's description of sensations evoked": {
+    "guess": "Cochlear implant",
+    "confidence": [
+      [
+        "C",
+        -1.3856493e-06
+      ],
+      [
+        "och",
+        0.0
+      ],
+      [
+        "lear",
+        0.0
+      ],
+      [
+        " implant",
+        -0.009786547
+      ]
+    ]
+  },
+  "In the 1970s, the Bilger report contradicted the NIH's wishes to disband all research related to this technology, and in the 1980s the NIH gave a grant to Australia's Graham Clark to further develop the multi-channel version of this device. It can be traced back to Volta's description of sensations evoked by electrically stimulating his ears, and current manufacturers include Med-El and Advanced Bionics.": {
+    "guess": "Cochlear implant",
+    "confidence": [
+      [
+        "C",
+        -2.4584822e-06
+      ],
+      [
+        "och",
+        0.0
+      ],
+      [
+        "lear",
+        0.0
+      ],
+      [
+        " implant",
+        -0.0046675764
+      ]
+    ]
+  },
+  "In the 1970s, the Bilger report contradicted the NIH's wishes to disband all research related to this technology, and in the 1980s the NIH gave a grant to Australia's Graham Clark to further develop the multi-channel version of this device. It can be traced back to Volta's description of sensations evoked by electrically stimulating his ears, and current manufacturers include Med-El and Advanced Bionics. Sometimes called the \"bionic ear\", for 10 points, name this device that restores hearing to deaf": {
+    "guess": "Cochlear implant",
+    "confidence": [
+      [
+        "C",
+        -1.1398757e-05
+      ],
+      [
+        "och",
+        0.0
+      ],
+      [
+        "lear",
+        0.0
+      ],
+      [
+        " implant",
+        -0.008625687
+      ]
+    ]
+  },
+  "In the 1970s, the Bilger report contradicted the NIH's wishes to disband all research related to this technology, and in the 1980s the NIH gave a grant to Australia's Graham Clark to further develop the multi-channel version of this device. It can be traced back to Volta's description of sensations evoked by electrically stimulating his ears, and current manufacturers include Med-El and Advanced Bionics. Sometimes called the \"bionic ear\", for 10 points, name this device that restores hearing to deaf people, an implant in the part of the ear containing hair cells.": {
+    "guess": "Cochlear implant",
+    "confidence": [
+      [
+        "C",
+        -0.0011864188
+      ],
+      [
+        "och",
+        0.0
+      ],
+      [
+        "lear",
+        -6.704273e-07
+      ],
+      [
+        " implant",
+        -0.011061027
+      ]
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "NGC 3582 is of interest to astronomers due to the presence of polycyclic aromatic hydrocarbons, which": {
+    "guess": "H II region",
+    "confidence": [
+      [
+        "H",
+        -0.58423895
+      ],
+      [
+        " II",
+        -0.05155099
+      ],
+      [
+        " region",
+        -0.0070126634
+      ]
+    ]
+  },
+  "NGC 3582 is of interest to astronomers due to the presence of polycyclic aromatic hydrocarbons, which could lead to the emergence of this. The Gosper glider gun was the first pattern to grow indefinitely": {
+    "guess": "Life",
+    "confidence": [
+      [
+        "Life",
+        -0.49345326
+      ]
+    ]
+  },
+  "NGC 3582 is of interest to astronomers due to the presence of polycyclic aromatic hydrocarbons, which could lead to the emergence of this. The Gosper glider gun was the first pattern to grow indefinitely in a game named after this, which is the most notable cellular automaton. The Miller-Urey experiment": {
+    "guess": "Conway's Game of Life",
+    "confidence": [
+      [
+        "Con",
+        -0.26832253
+      ],
+      [
+        "way",
+        -3.1281633e-07
+      ],
+      [
+        "'s",
+        -4.8425554e-06
+      ],
+      [
+        " Game",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Life",
+        0.0
+      ]
+    ]
+  },
+  "NGC 3582 is of interest to astronomers due to the presence of polycyclic aromatic hydrocarbons, which could lead to the emergence of this. The Gosper glider gun was the first pattern to grow indefinitely in a game named after this, which is the most notable cellular automaton. The Miller-Urey experiment proved that spontaneous abiogenesis is a viable theory for the emergence of this, while viruses": {
+    "guess": "Life",
+    "confidence": [
+      [
+        "Life",
+        -0.0017204001
+      ]
+    ]
+  },
+  "NGC 3582 is of interest to astronomers due to the presence of polycyclic aromatic hydrocarbons, which could lead to the emergence of this. The Gosper glider gun was the first pattern to grow indefinitely in a game named after this, which is the most notable cellular automaton. The Miller-Urey experiment proved that spontaneous abiogenesis is a viable theory for the emergence of this, while viruses are generally not considered a form of this due to their need for host cells and lack of metabolism.": {
+    "guess": "Life",
+    "confidence": [
+      [
+        "Life",
+        -1.5928495e-05
+      ]
+    ]
+  },
+  "NGC 3582 is of interest to astronomers due to the presence of polycyclic aromatic hydrocarbons, which could lead to the emergence of this. The Gosper glider gun was the first pattern to grow indefinitely in a game named after this, which is the most notable cellular automaton. The Miller-Urey experiment proved that spontaneous abiogenesis is a viable theory for the emergence of this, while viruses are generally not considered a form of this due to their need for host cells and lack of metabolism. SETI searches for intelligent forms of this. Identify this characteristic which ceases upon death.": {
+    "guess": "Life",
+    "confidence": [
+      [
+        "Life",
+        -1.92662e-05
+      ]
+    ]
+  }
+}

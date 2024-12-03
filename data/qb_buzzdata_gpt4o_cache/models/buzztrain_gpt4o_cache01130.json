@@ -1,0 +1,74 @@
+{
+  "They are cylindrical dielectric waveguides composed of a central cylinder, surrounded by an annulus with": {
+    "guess": "Optical Fiber",
+    "confidence": [
+      [
+        "Opt",
+        -0.024341933
+      ],
+      [
+        "ical",
+        -6.704273e-07
+      ],
+      [
+        " Fiber",
+        -0.0003032882
+      ]
+    ]
+  },
+  "They are cylindrical dielectric waveguides composed of a central cylinder, surrounded by an annulus with a lower refractive index. Due to signal losses through optical attenuation and dispersion, repeaters": {
+    "guess": "Optical fiber",
+    "confidence": [
+      [
+        "Opt",
+        -0.017311532
+      ],
+      [
+        "ical",
+        -5.5122365e-07
+      ],
+      [
+        " fiber",
+        -0.0007507825
+      ]
+    ]
+  },
+  "They are cylindrical dielectric waveguides composed of a central cylinder, surrounded by an annulus with a lower refractive index. Due to signal losses through optical attenuation and dispersion, repeaters must be used in these networks to keep signals clean.  For ten points, name this technology that": {
+    "guess": "Optical fiber",
+    "confidence": [
+      [
+        "Opt",
+        -0.5782211
+      ],
+      [
+        "ical",
+        -3.1281633e-07
+      ],
+      [
+        " fiber",
+        -0.0003551271
+      ]
+    ]
+  },
+  "They are cylindrical dielectric waveguides composed of a central cylinder, surrounded by an annulus with a lower refractive index. Due to signal losses through optical attenuation and dispersion, repeaters must be used in these networks to keep signals clean.  For ten points, name this technology that uses total internal reflection to transfer light signals.": {
+    "guess": "Fiber Optic Cable",
+    "confidence": [
+      [
+        "Fiber",
+        -0.47430146
+      ],
+      [
+        " Opt",
+        -0.012093523
+      ],
+      [
+        "ic",
+        -0.5759394
+      ],
+      [
+        " Cable",
+        -0.2904804
+      ]
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "It was voted on and defeated for a final time after Congress passed the English Bill, requiring a referendum": {
+    "guess": "Puerto Rico statehood movement",
+    "confidence": [
+      [
+        "Puerto",
+        -0.38933927
+      ],
+      [
+        " Rico",
+        -0.0015029559
+      ],
+      [
+        " state",
+        -0.3834611
+      ],
+      [
+        "hood",
+        -1.3856493e-06
+      ],
+      [
+        " movement",
+        -0.17059128
+      ]
+    ]
+  },
+  "It was voted on and defeated for a final time after Congress passed the English Bill, requiring a referendum on the document as a whole and promising over 5,000,000 acres of land if ratified. Its drafters": {
+    "guess": "Lecompton Constitution",
+    "confidence": [
+      [
+        "Le",
+        -0.00078258786
+      ],
+      [
+        "com",
+        -3.1281633e-07
+      ],
+      [
+        "pton",
+        -1.9361265e-07
+      ],
+      [
+        " Constitution",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "It was voted on and defeated for a final time after Congress passed the English Bill, requiring a referendum on the document as a whole and promising over 5,000,000 acres of land if ratified. Its drafters did not allow a vote on the entire document, and only offered a choice between two versions, each": {
+    "guess": "Lecompton Constitution",
+    "confidence": [
+      [
+        "Le",
+        -0.0037427214
+      ],
+      [
+        "com",
+        -1.9361265e-07
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " Constitution",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "It was voted on and defeated for a final time after Congress passed the English Bill, requiring a referendum on the document as a whole and promising over 5,000,000 acres of land if ratified. Its drafters did not allow a vote on the entire document, and only offered a choice between two versions, each unacceptable to the drafters' opponents. After new elections brought Free Soilers to power in the": {
+    "guess": "Lecompton Constitution",
+    "confidence": [
+      [
+        "Le",
+        -0.004032926
+      ],
+      [
+        "com",
+        -1.9361265e-07
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " Constitution",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "It was voted on and defeated for a final time after Congress passed the English Bill, requiring a referendum on the document as a whole and promising over 5,000,000 acres of land if ratified. Its drafters did not allow a vote on the entire document, and only offered a choice between two versions, each unacceptable to the drafters' opponents. After new elections brought Free Soilers to power in the legislature, it was voted on and rejected, but nevertheless Buchanan recommended statehood be granted": {
+    "guess": "Lecompton Constitution",
+    "confidence": [
+      [
+        "Le",
+        -0.000115582756
+      ],
+      [
+        "com",
+        -3.1281633e-07
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " Constitution",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "It was voted on and defeated for a final time after Congress passed the English Bill, requiring a referendum on the document as a whole and promising over 5,000,000 acres of land if ratified. Its drafters did not allow a vote on the entire document, and only offered a choice between two versions, each unacceptable to the drafters' opponents. After new elections brought Free Soilers to power in the legislature, it was voted on and rejected, but nevertheless Buchanan recommended statehood be granted under its terms. FTP, what was this 1857 pro-slavery proposal for the constitution of Kansas?": {
+    "guess": "Lecompton Constitution",
+    "confidence": [
+      [
+        "Le",
+        -0.0008335704
+      ],
+      [
+        "com",
+        0.0
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " Constitution",
+        -1.504853e-06
+      ]
+    ]
+  }
+}

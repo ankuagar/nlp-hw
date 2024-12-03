@@ -1,0 +1,820 @@
+{
+  "Some sea slugs have the klepto type of these. They contain translocons called Tic and Toc, which transport": {
+    "guess": "Chloroplast",
+    "confidence": [
+      [
+        "Ch",
+        -0.21142079
+      ],
+      [
+        "lor",
+        -4.3202e-07
+      ],
+      [
+        "oplast",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Some sea slugs have the klepto type of these. They contain translocons called Tic and Toc, which transport essential proteins into them from the cytoplasm. Multiple ones can function as a network when": {
+    "guess": "Chloroplast",
+    "confidence": [
+      [
+        "Ch",
+        -0.1692747
+      ],
+      [
+        "lor",
+        -4.3202e-07
+      ],
+      [
+        "oplast",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Some sea slugs have the klepto type of these. They contain translocons called Tic and Toc, which transport essential proteins into them from the cytoplasm. Multiple ones can function as a network when interconnected by stromules. When electromagnetic radiation enters one of these, an electron transport": {
+    "guess": "Chloroplast",
+    "confidence": [
+      [
+        "Ch",
+        -0.011663657
+      ],
+      [
+        "lor",
+        -4.3202e-07
+      ],
+      [
+        "oplast",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Some sea slugs have the klepto type of these. They contain translocons called Tic and Toc, which transport essential proteins into them from the cytoplasm. Multiple ones can function as a network when interconnected by stromules. When electromagnetic radiation enters one of these, an electron transport chain is set off, resulting in NADPH. Made up of stacks of thylakoids called grana, they are filled": {
+    "guess": "Chloroplast",
+    "confidence": [
+      [
+        "Ch",
+        -0.001743843
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "oplast",
+        0.0
+      ]
+    ]
+  },
+  "Some sea slugs have the klepto type of these. They contain translocons called Tic and Toc, which transport essential proteins into them from the cytoplasm. Multiple ones can function as a network when interconnected by stromules. When electromagnetic radiation enters one of these, an electron transport chain is set off, resulting in NADPH. Made up of stacks of thylakoids called grana, they are filled with a liquid containing ions and enzymes, including RuBisCO. Found in bacteria, algae, and plants,": {
+    "guess": "Chloroplast",
+    "confidence": [
+      [
+        "Ch",
+        -0.0013579712
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "oplast",
+        0.0
+      ]
+    ]
+  },
+  "Some sea slugs have the klepto type of these. They contain translocons called Tic and Toc, which transport essential proteins into them from the cytoplasm. Multiple ones can function as a network when interconnected by stromules. When electromagnetic radiation enters one of these, an electron transport chain is set off, resulting in NADPH. Made up of stacks of thylakoids called grana, they are filled with a liquid containing ions and enzymes, including RuBisCO. Found in bacteria, algae, and plants, their distinctive color comes from the a and b types of chlorophyll. For 10 points, name these green": {
+    "guess": "Chloroplast",
+    "confidence": [
+      [
+        "Ch",
+        -6.575563e-05
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "oplast",
+        0.0
+      ]
+    ]
+  },
+  "Some sea slugs have the klepto type of these. They contain translocons called Tic and Toc, which transport essential proteins into them from the cytoplasm. Multiple ones can function as a network when interconnected by stromules. When electromagnetic radiation enters one of these, an electron transport chain is set off, resulting in NADPH. Made up of stacks of thylakoids called grana, they are filled with a liquid containing ions and enzymes, including RuBisCO. Found in bacteria, algae, and plants, their distinctive color comes from the a and b types of chlorophyll. For 10 points, name these green organelles where photosynthesis takes place in plants.": {
+    "guess": "Chloroplast",
+    "confidence": [
+      [
+        "Ch",
+        -5.1689596e-05
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "oplast",
+        0.0
+      ]
+    ]
+  },
+  "Seamus Heaney called her one of the \"guerillas of imagination,\" which seems odd because most of her novels": {
+    "guess": "Iris Murdoch",
+    "confidence": [
+      [
+        "I",
+        -0.26869836
+      ],
+      [
+        "ris",
+        -6.873572e-05
+      ],
+      [
+        " Mur",
+        -1.9361265e-07
+      ],
+      [
+        "doch",
+        0.0
+      ]
+    ]
+  },
+  "Seamus Heaney called her one of the \"guerillas of imagination,\" which seems odd because most of her novels deal with true to life troubles. The oppressive government banned many of her novels, including": {
+    "guess": "Nadine Gordimer",
+    "confidence": [
+      [
+        "N",
+        -0.2472137
+      ],
+      [
+        "adine",
+        -0.0010375719
+      ],
+      [
+        " Gord",
+        0.0
+      ],
+      [
+        "imer",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Seamus Heaney called her one of the \"guerillas of imagination,\" which seems odd because most of her novels deal with true to life troubles. The oppressive government banned many of her novels, including 1981's July's People, because they dealt with relationships between whites and blacks. More recently,": {
+    "guess": "Nadine Gordimer",
+    "confidence": [
+      [
+        "N",
+        -0.0041707642
+      ],
+      [
+        "adine",
+        -7.89631e-07
+      ],
+      [
+        " Gord",
+        0.0
+      ],
+      [
+        "imer",
+        0.0
+      ]
+    ]
+  },
+  "Seamus Heaney called her one of the \"guerillas of imagination,\" which seems odd because most of her novels deal with true to life troubles. The oppressive government banned many of her novels, including 1981's July's People, because they dealt with relationships between whites and blacks. More recently, she has been very involved in raising awareness for HIV/AIDS in Africa. She worked with Woody Allen": {
+    "guess": "Nadine Gordimer",
+    "confidence": [
+      [
+        "N",
+        -0.0012177364
+      ],
+      [
+        "adine",
+        -2.1008714e-06
+      ],
+      [
+        " Gord",
+        0.0
+      ],
+      [
+        "imer",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Seamus Heaney called her one of the \"guerillas of imagination,\" which seems odd because most of her novels deal with true to life troubles. The oppressive government banned many of her novels, including 1981's July's People, because they dealt with relationships between whites and blacks. More recently, she has been very involved in raising awareness for HIV/AIDS in Africa. She worked with Woody Allen and Chinua Achebe on a 2004 short story book Telling Tales, which was an attempt to get government": {
+    "guess": "Nadine Gordimer",
+    "confidence": [
+      [
+        "N",
+        -0.0034871046
+      ],
+      [
+        "adine",
+        -5.5122365e-07
+      ],
+      [
+        " Gord",
+        0.0
+      ],
+      [
+        "imer",
+        0.0
+      ]
+    ]
+  },
+  "Seamus Heaney called her one of the \"guerillas of imagination,\" which seems odd because most of her novels deal with true to life troubles. The oppressive government banned many of her novels, including 1981's July's People, because they dealt with relationships between whites and blacks. More recently, she has been very involved in raising awareness for HIV/AIDS in Africa. She worked with Woody Allen and Chinua Achebe on a 2004 short story book Telling Tales, which was an attempt to get government funding for HIV/AIDS research. FTP, name this 1991 Nobel Laureate, the first South African to win": {
+    "guess": "Nadine Gordimer",
+    "confidence": [
+      [
+        "N",
+        -0.20441276
+      ],
+      [
+        "adine",
+        -1.8624639e-06
+      ],
+      [
+        " Gord",
+        0.0
+      ],
+      [
+        "imer",
+        0.0
+      ]
+    ]
+  },
+  "Seamus Heaney called her one of the \"guerillas of imagination,\" which seems odd because most of her novels deal with true to life troubles. The oppressive government banned many of her novels, including 1981's July's People, because they dealt with relationships between whites and blacks. More recently, she has been very involved in raising awareness for HIV/AIDS in Africa. She worked with Woody Allen and Chinua Achebe on a 2004 short story book Telling Tales, which was an attempt to get government funding for HIV/AIDS research. FTP, name this 1991 Nobel Laureate, the first South African to win the prize.          |": {
+    "guess": "Nadine Gordimer",
+    "confidence": [
+      [
+        "N",
+        -0.2039992
+      ],
+      [
+        "adine",
+        -2.3392786e-06
+      ],
+      [
+        " Gord",
+        0.0
+      ],
+      [
+        "imer",
+        0.0
+      ]
+    ]
+  },
+  "While searching for a tourist site he could develop, Alexander Campbell discovered this place in 1878": {
+    "guess": "Mammoth Cave National Park",
+    "confidence": [
+      [
+        "M",
+        -0.019639773
+      ],
+      [
+        "amm",
+        -1.2664457e-06
+      ],
+      [
+        "oth",
+        0.0
+      ],
+      [
+        " Cave",
+        -1.9361265e-07
+      ],
+      [
+        " National",
+        -0.31342664
+      ],
+      [
+        " Park",
+        0.0
+      ]
+    ]
+  },
+  "While searching for a tourist site he could develop, Alexander Campbell discovered this place in 1878 when air rushing out from a sinkhole accidentally blew out his candle. This place boasts impressive": {
+    "guess": "Mammoth Cave National Park",
+    "confidence": [
+      [
+        "M",
+        -0.00039409203
+      ],
+      [
+        "amm",
+        -1.0280384e-06
+      ],
+      [
+        "oth",
+        0.0
+      ],
+      [
+        " Cave",
+        0.0
+      ],
+      [
+        " National",
+        -0.07903663
+      ],
+      [
+        " Park",
+        0.0
+      ]
+    ]
+  },
+  "While searching for a tourist site he could develop, Alexander Campbell discovered this place in 1878 when air rushing out from a sinkhole accidentally blew out his candle. This place boasts impressive structures including \"Pluto's Ghost or Chasm,\" \"Dream Lake,\" and \"Saracen's Tent\" amidst the limestone": {
+    "guess": "Luray Caverns",
+    "confidence": [
+      [
+        "L",
+        -4.9067115e-05
+      ],
+      [
+        "ur",
+        0.0
+      ],
+      [
+        "ay",
+        0.0
+      ],
+      [
+        " Cav",
+        0.0
+      ],
+      [
+        "erns",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "While searching for a tourist site he could develop, Alexander Campbell discovered this place in 1878 when air rushing out from a sinkhole accidentally blew out his candle. This place boasts impressive structures including \"Pluto's Ghost or Chasm,\" \"Dream Lake,\" and \"Saracen's Tent\" amidst the limestone walls and formations. The Great Stalacpipe Organ produces symphonic tones when struck with electronic": {
+    "guess": "Luray Caverns",
+    "confidence": [
+      [
+        "L",
+        -4.7159858e-05
+      ],
+      [
+        "ur",
+        0.0
+      ],
+      [
+        "ay",
+        0.0
+      ],
+      [
+        " Cav",
+        0.0
+      ],
+      [
+        "erns",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "While searching for a tourist site he could develop, Alexander Campbell discovered this place in 1878 when air rushing out from a sinkhole accidentally blew out his candle. This place boasts impressive structures including \"Pluto's Ghost or Chasm,\" \"Dream Lake,\" and \"Saracen's Tent\" amidst the limestone walls and formations. The Great Stalacpipe Organ produces symphonic tones when struck with electronic mallets; this stalactite organ is also the world's largest musical instrument. Located in the": {
+    "guess": "Luray Caverns",
+    "confidence": [
+      [
+        "L",
+        -2.3438328e-05
+      ],
+      [
+        "ur",
+        0.0
+      ],
+      [
+        "ay",
+        0.0
+      ],
+      [
+        " Cav",
+        0.0
+      ],
+      [
+        "erns",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "While searching for a tourist site he could develop, Alexander Campbell discovered this place in 1878 when air rushing out from a sinkhole accidentally blew out his candle. This place boasts impressive structures including \"Pluto's Ghost or Chasm,\" \"Dream Lake,\" and \"Saracen's Tent\" amidst the limestone walls and formations. The Great Stalacpipe Organ produces symphonic tones when struck with electronic mallets; this stalactite organ is also the world's largest musical instrument. Located in the Shenandoah Valley, for ten points, name this Virginian cave system, the largest cavern in the Eastern": {
+    "guess": "Luray Caverns",
+    "confidence": [
+      [
+        "L",
+        -5.538491e-05
+      ],
+      [
+        "ur",
+        0.0
+      ],
+      [
+        "ay",
+        0.0
+      ],
+      [
+        " Cav",
+        0.0
+      ],
+      [
+        "erns",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "While searching for a tourist site he could develop, Alexander Campbell discovered this place in 1878 when air rushing out from a sinkhole accidentally blew out his candle. This place boasts impressive structures including \"Pluto's Ghost or Chasm,\" \"Dream Lake,\" and \"Saracen's Tent\" amidst the limestone walls and formations. The Great Stalacpipe Organ produces symphonic tones when struck with electronic mallets; this stalactite organ is also the world's largest musical instrument. Located in the Shenandoah Valley, for ten points, name this Virginian cave system, the largest cavern in the Eastern US.": {
+    "guess": "Luray Caverns",
+    "confidence": [
+      [
+        "L",
+        -2.9636918e-05
+      ],
+      [
+        "ur",
+        0.0
+      ],
+      [
+        "ay",
+        0.0
+      ],
+      [
+        " Cav",
+        0.0
+      ],
+      [
+        "erns",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Sean O'Casey's autobiography, comprising such volumes as Pictures in the Hallway and Sunset and Evening": {
+    "guess": "Mirror in My House",
+    "confidence": [
+      [
+        "Mirror",
+        -0.052591514
+      ],
+      [
+        " in",
+        -2.4584822e-06
+      ],
+      [
+        " My",
+        -0.009759864
+      ],
+      [
+        " House",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Sean O'Casey's autobiography, comprising such volumes as Pictures in the Hallway and Sunset and Evening Star, is titled after the one \"in My House.\" In a story by Jorge Luis Borges, Adolfo Bioy Casares": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.34071904
+      ]
+    ]
+  },
+  "Sean O'Casey's autobiography, comprising such volumes as Pictures in the Hallway and Sunset and Evening Star, is titled after the one \"in My House.\" In a story by Jorge Luis Borges, Adolfo Bioy Casares is reminded of the land of Uqbar after seeing one of these objects, while in Nathaniel Hawthorne's": {
+    "guess": "Mirror",
+    "confidence": [
+      [
+        "Mirror",
+        -0.14083168
+      ]
+    ]
+  },
+  "Sean O'Casey's autobiography, comprising such volumes as Pictures in the Hallway and Sunset and Evening Star, is titled after the one \"in My House.\" In a story by Jorge Luis Borges, Adolfo Bioy Casares is reminded of the land of Uqbar after seeing one of these objects, while in Nathaniel Hawthorne's short story \"Dr. Heidegger's Experiment,\" the souls of the doctor's dead patients are believed to dwell": {
+    "guess": "Mirror",
+    "confidence": [
+      [
+        "Mirror",
+        -0.10521283
+      ]
+    ]
+  },
+  "Sean O'Casey's autobiography, comprising such volumes as Pictures in the Hallway and Sunset and Evening Star, is titled after the one \"in My House.\" In a story by Jorge Luis Borges, Adolfo Bioy Casares is reminded of the land of Uqbar after seeing one of these objects, while in Nathaniel Hawthorne's short story \"Dr. Heidegger's Experiment,\" the souls of the doctor's dead patients are believed to dwell in one of these. In Hans Christian Andersen's The Snow Queen, a piece of one of these objects pierces": {
+    "guess": "Mirror",
+    "confidence": [
+      [
+        "Mirror",
+        -0.030810593
+      ]
+    ]
+  },
+  "Sean O'Casey's autobiography, comprising such volumes as Pictures in the Hallway and Sunset and Evening Star, is titled after the one \"in My House.\" In a story by Jorge Luis Borges, Adolfo Bioy Casares is reminded of the land of Uqbar after seeing one of these objects, while in Nathaniel Hawthorne's short story \"Dr. Heidegger's Experiment,\" the souls of the doctor's dead patients are believed to dwell in one of these. In Hans Christian Andersen's The Snow Queen, a piece of one of these objects pierces the heart of Kay, and in another work, this object is utilized to properly read the poem Jabberwocky": {
+    "guess": "Mirror",
+    "confidence": [
+      [
+        "Mirror",
+        -0.037139867
+      ]
+    ]
+  },
+  "Sean O'Casey's autobiography, comprising such volumes as Pictures in the Hallway and Sunset and Evening Star, is titled after the one \"in My House.\" In a story by Jorge Luis Borges, Adolfo Bioy Casares is reminded of the land of Uqbar after seeing one of these objects, while in Nathaniel Hawthorne's short story \"Dr. Heidegger's Experiment,\" the souls of the doctor's dead patients are believed to dwell in one of these. In Hans Christian Andersen's The Snow Queen, a piece of one of these objects pierces the heart of Kay, and in another work, this object is utilized to properly read the poem Jabberwocky after the protagonist passes through one of these. For ten points, John Berryman wrote a poem": {
+    "guess": "Mirror",
+    "confidence": [
+      [
+        "Mirror",
+        -0.009320617
+      ]
+    ]
+  },
+  "Sean O'Casey's autobiography, comprising such volumes as Pictures in the Hallway and Sunset and Evening Star, is titled after the one \"in My House.\" In a story by Jorge Luis Borges, Adolfo Bioy Casares is reminded of the land of Uqbar after seeing one of these objects, while in Nathaniel Hawthorne's short story \"Dr. Heidegger's Experiment,\" the souls of the doctor's dead patients are believed to dwell in one of these. In Hans Christian Andersen's The Snow Queen, a piece of one of these objects pierces the heart of Kay, and in another work, this object is utilized to properly read the poem Jabberwocky after the protagonist passes through one of these. For ten points, John Berryman wrote a poem about a self-portrait in a convex variety of what common household object which reflects light?": {
+    "guess": "Mirror",
+    "confidence": [
+      [
+        "Mirror",
+        -0.000435795
+      ]
+    ]
+  },
+  "This sea's most active oilfield is the Bouri field, and studies utilizing seafloor spreading have shown": {
+    "guess": "Mediterranean Sea",
+    "confidence": [
+      [
+        "Medit",
+        -0.01162914
+      ],
+      [
+        "err",
+        0.0
+      ],
+      [
+        "anean",
+        0.0
+      ],
+      [
+        " Sea",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This sea's most active oilfield is the Bouri field, and studies utilizing seafloor spreading have shown that this sea was not a remnant of the Tethys Sea. Winds such as the mistral and sirocco create high": {
+    "guess": "Mediterranean Sea",
+    "confidence": [
+      [
+        "Medit",
+        -0.009989929
+      ],
+      [
+        "err",
+        0.0
+      ],
+      [
+        "anean",
+        0.0
+      ],
+      [
+        " Sea",
+        0.0
+      ]
+    ]
+  },
+  "This sea's most active oilfield is the Bouri field, and studies utilizing seafloor spreading have shown that this sea was not a remnant of the Tethys Sea. Winds such as the mistral and sirocco create high evaporation rates in this sea during the summer. Dams such as those on the Ebro led to increased": {
+    "guess": "Mediterranean Sea",
+    "confidence": [
+      [
+        "Medit",
+        -0.0020579502
+      ],
+      [
+        "err",
+        0.0
+      ],
+      [
+        "anean",
+        0.0
+      ],
+      [
+        " Sea",
+        0.0
+      ]
+    ]
+  },
+  "This sea's most active oilfield is the Bouri field, and studies utilizing seafloor spreading have shown that this sea was not a remnant of the Tethys Sea. Winds such as the mistral and sirocco create high evaporation rates in this sea during the summer. Dams such as those on the Ebro led to increased salinity levels in this sea, and the Barcelona Convention was put in place to protect this sea's environment.": {
+    "guess": "Mediterranean Sea",
+    "confidence": [
+      [
+        "Medit",
+        -0.00047774
+      ],
+      [
+        "err",
+        0.0
+      ],
+      [
+        "anean",
+        0.0
+      ],
+      [
+        " Sea",
+        0.0
+      ]
+    ]
+  },
+  "This sea's most active oilfield is the Bouri field, and studies utilizing seafloor spreading have shown that this sea was not a remnant of the Tethys Sea. Winds such as the mistral and sirocco create high evaporation rates in this sea during the summer. Dams such as those on the Ebro led to increased salinity levels in this sea, and the Barcelona Convention was put in place to protect this sea's environment. For 10 points, name this sea which is connected by the Sea of Marmara and the Bosporus to": {
+    "guess": "Mediterranean Sea",
+    "confidence": [
+      [
+        "Medit",
+        -0.002650094
+      ],
+      [
+        "err",
+        0.0
+      ],
+      [
+        "anean",
+        0.0
+      ],
+      [
+        " Sea",
+        0.0
+      ]
+    ]
+  },
+  "This sea's most active oilfield is the Bouri field, and studies utilizing seafloor spreading have shown that this sea was not a remnant of the Tethys Sea. Winds such as the mistral and sirocco create high evaporation rates in this sea during the summer. Dams such as those on the Ebro led to increased salinity levels in this sea, and the Barcelona Convention was put in place to protect this sea's environment. For 10 points, name this sea which is connected by the Sea of Marmara and the Bosporus to the Black Sea, bounded to the north by Europe and to the south by Africa.": {
+    "guess": "Mediterranean Sea",
+    "confidence": [
+      [
+        "Medit",
+        -0.0001437075
+      ],
+      [
+        "err",
+        0.0
+      ],
+      [
+        "anean",
+        0.0
+      ],
+      [
+        " Sea",
+        0.0
+      ]
+    ]
+  },
+  "This seat of Douglas County was founded at the site of the Lone Tree Ferry.  Ranked by Kiplinger's as": {
+    "guess": "Omaha",
+    "confidence": [
+      [
+        "O",
+        -9.698699e-05
+      ],
+      [
+        "ma",
+        0.0
+      ],
+      [
+        "ha",
+        0.0
+      ]
+    ]
+  },
+  "This seat of Douglas County was founded at the site of the Lone Tree Ferry.  Ranked by Kiplinger's as one of the 10 best U.S. cities, Offut Air Force Base is located 20 miles south of its center. Attractions": {
+    "guess": "Omaha",
+    "confidence": [
+      [
+        "O",
+        -0.00010318558
+      ],
+      [
+        "ma",
+        0.0
+      ],
+      [
+        "ha",
+        0.0
+      ]
+    ]
+  },
+  "This seat of Douglas County was founded at the site of the Lone Tree Ferry.  Ranked by Kiplinger's as one of the 10 best U.S. cities, Offut Air Force Base is located 20 miles south of its center. Attractions in this city, served by Eppley Airfield, include a namesake Community Playhouse and the Henry": {
+    "guess": "Omaha, Nebraska",
+    "confidence": [
+      [
+        "O",
+        -0.0032144266
+      ],
+      [
+        "ma",
+        -1.9361265e-07
+      ],
+      [
+        "ha",
+        0.0
+      ],
+      [
+        ",",
+        -0.0007373235
+      ],
+      [
+        " Nebraska",
+        0.0
+      ]
+    ]
+  },
+  "This seat of Douglas County was founded at the site of the Lone Tree Ferry.  Ranked by Kiplinger's as one of the 10 best U.S. cities, Offut Air Force Base is located 20 miles south of its center. Attractions in this city, served by Eppley Airfield, include a namesake Community Playhouse and the Henry Doorly Zoo. The Qwest Center here hosts the annual meeting of Berkshire Hathaway, and is home to Creighton's": {
+    "guess": "Omaha, Nebraska",
+    "confidence": [
+      [
+        "O",
+        -0.0040735323
+      ],
+      [
+        "ma",
+        0.0
+      ],
+      [
+        "ha",
+        0.0
+      ],
+      [
+        ",",
+        -0.0019463683
+      ],
+      [
+        " Nebraska",
+        0.0
+      ]
+    ]
+  },
+  "This seat of Douglas County was founded at the site of the Lone Tree Ferry.  Ranked by Kiplinger's as one of the 10 best U.S. cities, Offut Air Force Base is located 20 miles south of its center. Attractions in this city, served by Eppley Airfield, include a namesake Community Playhouse and the Henry Doorly Zoo. The Qwest Center here hosts the annual meeting of Berkshire Hathaway, and is home to Creighton's men's basketball team.  Baseball fans know this city because it hosts the Collegiate World": {
+    "guess": "Omaha, Nebraska",
+    "confidence": [
+      [
+        "O",
+        -0.00018828231
+      ],
+      [
+        "ma",
+        0.0
+      ],
+      [
+        "ha",
+        0.0
+      ],
+      [
+        ",",
+        -4.2868523e-05
+      ],
+      [
+        " Nebraska",
+        0.0
+      ]
+    ]
+  },
+  "This seat of Douglas County was founded at the site of the Lone Tree Ferry.  Ranked by Kiplinger's as one of the 10 best U.S. cities, Offut Air Force Base is located 20 miles south of its center. Attractions in this city, served by Eppley Airfield, include a namesake Community Playhouse and the Henry Doorly Zoo. The Qwest Center here hosts the annual meeting of Berkshire Hathaway, and is home to Creighton's men's basketball team.  Baseball fans know this city because it hosts the Collegiate World Series.  Located near the junction of the Platte and Missouri Rivers, this is, for 10 points, what": {
+    "guess": "Omaha, Nebraska",
+    "confidence": [
+      [
+        "O",
+        -0.0015768787
+      ],
+      [
+        "ma",
+        0.0
+      ],
+      [
+        "ha",
+        0.0
+      ],
+      [
+        ",",
+        -9.253091e-06
+      ],
+      [
+        " Nebraska",
+        0.0
+      ]
+    ]
+  },
+  "This seat of Douglas County was founded at the site of the Lone Tree Ferry.  Ranked by Kiplinger's as one of the 10 best U.S. cities, Offut Air Force Base is located 20 miles south of its center. Attractions in this city, served by Eppley Airfield, include a namesake Community Playhouse and the Henry Doorly Zoo. The Qwest Center here hosts the annual meeting of Berkshire Hathaway, and is home to Creighton's men's basketball team.  Baseball fans know this city because it hosts the Collegiate World Series.  Located near the junction of the Platte and Missouri Rivers, this is, for 10 points, what largest city in Nebraska?": {
+    "guess": "Omaha, Nebraska",
+    "confidence": [
+      [
+        "O",
+        -0.0036789328
+      ],
+      [
+        "ma",
+        0.0
+      ],
+      [
+        "ha",
+        0.0
+      ],
+      [
+        ",",
+        -0.002663289
+      ],
+      [
+        " Nebraska",
+        0.0
+      ]
+    ]
+  }
+}

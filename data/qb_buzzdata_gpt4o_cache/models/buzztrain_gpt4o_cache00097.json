@@ -1,0 +1,127 @@
+{
+  "In the 1460's, Agostino di Duccio began work on a sculpture commission from the board of works of Florence": {
+    "guess": "David (Michelangelo)",
+    "confidence": [
+      [
+        "David",
+        -0.2571039
+      ],
+      [
+        " (",
+        -0.0032581617
+      ],
+      [
+        "Michel",
+        -0.0011111628
+      ],
+      [
+        "angelo",
+        -7.89631e-07
+      ],
+      [
+        ")",
+        -0.00072827865
+      ]
+    ]
+  },
+  "In the 1460's, Agostino di Duccio began work on a sculpture commission from the board of works of Florence Cathedral.  He gave up after mutilating the stone, but this work was executed by a different artist": {
+    "guess": "David (Michelangelo)",
+    "confidence": [
+      [
+        "David",
+        -0.008081278
+      ],
+      [
+        " (",
+        -0.0046844264
+      ],
+      [
+        "Michel",
+        -1.2829201e-05
+      ],
+      [
+        "angelo",
+        -3.1281633e-07
+      ],
+      [
+        ")",
+        -0.001997512
+      ]
+    ]
+  },
+  "In the 1460's, Agostino di Duccio began work on a sculpture commission from the board of works of Florence Cathedral.  He gave up after mutilating the stone, but this work was executed by a different artist and set up on the steps of the Palazzo Vecchio in 1504.  After being broken by a chair thrown": {
+    "guess": "David (Michelangelo)",
+    "confidence": [
+      [
+        "David",
+        -0.31514296
+      ],
+      [
+        " (",
+        -0.005315462
+      ],
+      [
+        "Michel",
+        -2.4630364e-05
+      ],
+      [
+        "angelo",
+        0.0
+      ],
+      [
+        ")",
+        -6.749814e-06
+      ]
+    ]
+  },
+  "In the 1460's, Agostino di Duccio began work on a sculpture commission from the board of works of Florence Cathedral.  He gave up after mutilating the stone, but this work was executed by a different artist and set up on the steps of the Palazzo Vecchio in 1504.  After being broken by a chair thrown out of a window of the Palazzo, it was moved to the Accademia museum.  FTP, name this symbol of Florentine": {
+    "guess": "David (Michelangelo)",
+    "confidence": [
+      [
+        "David",
+        -0.0019968005
+      ],
+      [
+        " (",
+        -0.02978648
+      ],
+      [
+        "Michel",
+        -1.0280384e-06
+      ],
+      [
+        "angelo",
+        0.0
+      ],
+      [
+        ")",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "In the 1460's, Agostino di Duccio began work on a sculpture commission from the board of works of Florence Cathedral.  He gave up after mutilating the stone, but this work was executed by a different artist and set up on the steps of the Palazzo Vecchio in 1504.  After being broken by a chair thrown out of a window of the Palazzo, it was moved to the Accademia museum.  FTP, name this symbol of Florentine civic virtue, a 14-foot tall contrapposto figure by Michelangelo.": {
+    "guess": "David (Michelangelo)",
+    "confidence": [
+      [
+        "David",
+        -0.00049619825
+      ],
+      [
+        " (",
+        -0.01817698
+      ],
+      [
+        "Michel",
+        -3.1281633e-07
+      ],
+      [
+        "angelo",
+        0.0
+      ],
+      [
+        ")",
+        -1.147242e-06
+      ]
+    ]
+  }
+}

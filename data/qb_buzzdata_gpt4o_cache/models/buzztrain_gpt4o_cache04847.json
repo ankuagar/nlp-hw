@@ -1,0 +1,80 @@
+{
+  "MPSS and SAGE are two techniques for surveying a population of these entities. AU-rich elements can decrease": {
+    "guess": "mRNA",
+    "confidence": [
+      [
+        "m",
+        -0.0038913998
+      ],
+      [
+        "RNA",
+        -0.00043066923
+      ]
+    ]
+  },
+  "MPSS and SAGE are two techniques for surveying a population of these entities. AU-rich elements can decrease their half-lives, and they are the target of nonsense-mediated decay.  In bacteria, they can": {
+    "guess": "mRNA",
+    "confidence": [
+      [
+        "m",
+        -0.12777036
+      ],
+      [
+        "RNA",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "MPSS and SAGE are two techniques for surveying a population of these entities. AU-rich elements can decrease their half-lives, and they are the target of nonsense-mediated decay.  In bacteria, they can be polycistronic.  RISCs that are already bound to one substrate can target these, causing them to": {
+    "guess": "mRNA",
+    "confidence": [
+      [
+        "m",
+        -0.04154471
+      ],
+      [
+        "RNA",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "MPSS and SAGE are two techniques for surveying a population of these entities. AU-rich elements can decrease their half-lives, and they are the target of nonsense-mediated decay.  In bacteria, they can be polycistronic.  RISCs that are already bound to one substrate can target these, causing them to be degraded.  They contain untranslated regions, and precursor ones are modified to have a poly-A tail": {
+    "guess": "mRNA",
+    "confidence": [
+      [
+        "m",
+        -0.011461687
+      ],
+      [
+        "RNA",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "MPSS and SAGE are two techniques for surveying a population of these entities. AU-rich elements can decrease their half-lives, and they are the target of nonsense-mediated decay.  In bacteria, they can be polycistronic.  RISCs that are already bound to one substrate can target these, causing them to be degraded.  They contain untranslated regions, and precursor ones are modified to have a poly-A tail and a five prime cap.  For 10 points, name these RNA molecules that are transcribed from DNA and": {
+    "guess": "Messenger RNA",
+    "confidence": [
+      [
+        "Messenger",
+        -0.48002726
+      ],
+      [
+        " RNA",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "MPSS and SAGE are two techniques for surveying a population of these entities. AU-rich elements can decrease their half-lives, and they are the target of nonsense-mediated decay.  In bacteria, they can be polycistronic.  RISCs that are already bound to one substrate can target these, causing them to be degraded.  They contain untranslated regions, and precursor ones are modified to have a poly-A tail and a five prime cap.  For 10 points, name these RNA molecules that are transcribed from DNA and carry the protein blueprint to the ribosome.": {
+    "guess": "Messenger RNA",
+    "confidence": [
+      [
+        "Messenger",
+        -0.13974734
+      ],
+      [
+        " RNA",
+        -1.9361265e-07
+      ]
+    ]
+  }
+}

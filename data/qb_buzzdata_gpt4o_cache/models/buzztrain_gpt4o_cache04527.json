@@ -1,0 +1,429 @@
+{
+  "The Lucas-Lehmer test can determine if one of them is of interest. All even perfect numbers are the product": {
+    "guess": "Perfect number",
+    "confidence": [
+      [
+        "Perfect",
+        -0.36857384
+      ],
+      [
+        " number",
+        -0.004467862
+      ]
+    ]
+  },
+  "The Lucas-Lehmer test can determine if one of them is of interest. All even perfect numbers are the product of a power of 2 and a prime one; for example, 28 is \"2 squared times 7\" and 496 is \"2 to the": {
+    "guess": "Perfect number",
+    "confidence": [
+      [
+        "Perfect",
+        -0.067565076
+      ],
+      [
+        " number",
+        -0.011037921
+      ]
+    ]
+  },
+  "The Lucas-Lehmer test can determine if one of them is of interest. All even perfect numbers are the product of a power of 2 and a prime one; for example, 28 is \"2 squared times 7\" and 496 is \"2 to the fourth times 31\".  For ten points, what are these numbers named for a Minim friar which are of the form": {
+    "guess": "Mersenne prime",
+    "confidence": [
+      [
+        "M",
+        -0.00050418125
+      ],
+      [
+        "ers",
+        0.0
+      ],
+      [
+        "enne",
+        0.0
+      ],
+      [
+        " prime",
+        -0.0017518185
+      ]
+    ]
+  },
+  "The Lucas-Lehmer test can determine if one of them is of interest. All even perfect numbers are the product of a power of 2 and a prime one; for example, 28 is \"2 squared times 7\" and 496 is \"2 to the fourth times 31\".  For ten points, what are these numbers named for a Minim friar which are of the form \"2 to the nth minus one\"?": {
+    "guess": "Mersenne prime",
+    "confidence": [
+      [
+        "M",
+        -0.0002352449
+      ],
+      [
+        "ers",
+        0.0
+      ],
+      [
+        "enne",
+        0.0
+      ],
+      [
+        " prime",
+        -0.0037452138
+      ]
+    ]
+  },
+  "The Lucas circles can be drawn by inscribing a square in this other geometric shape. Clark Kimberling": {
+    "guess": "Nine-point circle",
+    "confidence": [
+      [
+        "Nine",
+        -0.8741232
+      ],
+      [
+        "-point",
+        -0.00016063073
+      ],
+      [
+        " circle",
+        -0.00025073037
+      ]
+    ]
+  },
+  "The Lucas circles can be drawn by inscribing a square in this other geometric shape. Clark Kimberling has catalogued over three thousand centers of this shape, some of which include the Nagel point and": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.0008252298
+      ]
+    ]
+  },
+  "The Lucas circles can be drawn by inscribing a square in this other geometric shape. Clark Kimberling has catalogued over three thousand centers of this shape, some of which include the Nagel point and the nine-point center. Kimberling center X1 refers to the point at which the angular bisectors intersect;": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.010263356
+      ]
+    ]
+  },
+  "The Lucas circles can be drawn by inscribing a square in this other geometric shape. Clark Kimberling has catalogued over three thousand centers of this shape, some of which include the Nagel point and the nine-point center. Kimberling center X1 refers to the point at which the angular bisectors intersect; that point does not necessary lie on the Euler line, unlike the (*) circumcenter, orthocenter,": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.01584807
+      ]
+    ]
+  },
+  "The Lucas circles can be drawn by inscribing a square in this other geometric shape. Clark Kimberling has catalogued over three thousand centers of this shape, some of which include the Nagel point and the nine-point center. Kimberling center X1 refers to the point at which the angular bisectors intersect; that point does not necessary lie on the Euler line, unlike the (*) circumcenter, orthocenter, and centroid. For 10 points, name this geometric shape whose angles add up to one hundred eighty degrees": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.020937484
+      ]
+    ]
+  },
+  "The Lucas circles can be drawn by inscribing a square in this other geometric shape. Clark Kimberling has catalogued over three thousand centers of this shape, some of which include the Nagel point and the nine-point center. Kimberling center X1 refers to the point at which the angular bisectors intersect; that point does not necessary lie on the Euler line, unlike the (*) circumcenter, orthocenter, and centroid. For 10 points, name this geometric shape whose angles add up to one hundred eighty degrees and has three sides.": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.029799318
+      ]
+    ]
+  },
+  "The \"lucky survivors\" model of this process was described by one of its original developers and aims": {
+    "guess": "MALDI",
+    "confidence": [
+      [
+        "M",
+        -0.017052459
+      ],
+      [
+        "AL",
+        0.0
+      ],
+      [
+        "DI",
+        0.0
+      ]
+    ]
+  },
+  "The \"lucky survivors\" model of this process was described by one of its original developers and aims to explain the observation fast metastable fragmentation as an outcome of partial neutralization. Knoechnmuss": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7573416
+      ]
+    ]
+  },
+  "The \"lucky survivors\" model of this process was described by one of its original developers and aims to explain the observation fast metastable fragmentation as an outcome of partial neutralization. Knoechnmuss and colleagues have studied the roles of secondary reactions within the plume on the final": {
+    "guess": "MALDI-TOF",
+    "confidence": [
+      [
+        "M",
+        -0.4967533
+      ],
+      [
+        "AL",
+        -0.00012106613
+      ],
+      [
+        "DI",
+        -7.89631e-07
+      ],
+      [
+        "-",
+        -0.6161638
+      ],
+      [
+        "TO",
+        -2.5941605e-05
+      ],
+      [
+        "F",
+        0.0
+      ]
+    ]
+  },
+  "The \"lucky survivors\" model of this process was described by one of its original developers and aims to explain the observation fast metastable fragmentation as an outcome of partial neutralization. Knoechnmuss and colleagues have studied the roles of secondary reactions within the plume on the final spectra yielded by this technique. The laser pulse used in this technique is usually in the ultraviolet": {
+    "guess": "Matrix-assisted laser desorption/ionization",
+    "confidence": [
+      [
+        "Matrix",
+        -0.23042017
+      ],
+      [
+        "-assisted",
+        -0.00027456743
+      ],
+      [
+        " laser",
+        -4.012684e-05
+      ],
+      [
+        " des",
+        -6.704273e-07
+      ],
+      [
+        "orption",
+        0.0
+      ],
+      [
+        "/",
+        -0.001171533
+      ],
+      [
+        "ion",
+        0.0
+      ],
+      [
+        "ization",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The \"lucky survivors\" model of this process was described by one of its original developers and aims to explain the observation fast metastable fragmentation as an outcome of partial neutralization. Knoechnmuss and colleagues have studied the roles of secondary reactions within the plume on the final spectra yielded by this technique. The laser pulse used in this technique is usually in the ultraviolet range, where DHB, sialic acid, and other reagents used to embed the analyte in this process can": {
+    "guess": "MALDI",
+    "confidence": [
+      [
+        "M",
+        -0.11539904
+      ],
+      [
+        "AL",
+        -1.1756368e-05
+      ],
+      [
+        "DI",
+        0.0
+      ]
+    ]
+  },
+  "The \"lucky survivors\" model of this process was described by one of its original developers and aims to explain the observation fast metastable fragmentation as an outcome of partial neutralization. Knoechnmuss and colleagues have studied the roles of secondary reactions within the plume on the final spectra yielded by this technique. The laser pulse used in this technique is usually in the ultraviolet range, where DHB, sialic acid, and other reagents used to embed the analyte in this process can strongly absorb. Developed roughly simultaneously by Tanaka and by Karas and Hillenkamp, this technique": {
+    "guess": "MALDI",
+    "confidence": [
+      [
+        "M",
+        -0.00016969022
+      ],
+      [
+        "AL",
+        -1.9361265e-07
+      ],
+      [
+        "DI",
+        0.0
+      ]
+    ]
+  },
+  "The \"lucky survivors\" model of this process was described by one of its original developers and aims to explain the observation fast metastable fragmentation as an outcome of partial neutralization. Knoechnmuss and colleagues have studied the roles of secondary reactions within the plume on the final spectra yielded by this technique. The laser pulse used in this technique is usually in the ultraviolet range, where DHB, sialic acid, and other reagents used to embed the analyte in this process can strongly absorb. Developed roughly simultaneously by Tanaka and by Karas and Hillenkamp, this technique yields mainly singly charged ions with minimal fragmentation, unlike a similar soft ionization": {
+    "guess": "MALDI-TOF",
+    "confidence": [
+      [
+        "M",
+        -0.0003647826
+      ],
+      [
+        "AL",
+        -1.9361265e-07
+      ],
+      [
+        "DI",
+        0.0
+      ],
+      [
+        "-",
+        -0.110181116
+      ],
+      [
+        "TO",
+        0.0
+      ],
+      [
+        "F",
+        0.0
+      ]
+    ]
+  },
+  "The \"lucky survivors\" model of this process was described by one of its original developers and aims to explain the observation fast metastable fragmentation as an outcome of partial neutralization. Knoechnmuss and colleagues have studied the roles of secondary reactions within the plume on the final spectra yielded by this technique. The laser pulse used in this technique is usually in the ultraviolet range, where DHB, sialic acid, and other reagents used to embed the analyte in this process can strongly absorb. Developed roughly simultaneously by Tanaka and by Karas and Hillenkamp, this technique yields mainly singly charged ions with minimal fragmentation, unlike a similar soft ionization technique, electrospray ionization. Like ESI, it is typically coupled to a time-of-flight mass analyzer": {
+    "guess": "MALDI",
+    "confidence": [
+      [
+        "M",
+        -0.00021903319
+      ],
+      [
+        "AL",
+        0.0
+      ],
+      [
+        "DI",
+        0.0
+      ]
+    ]
+  },
+  "The \"lucky survivors\" model of this process was described by one of its original developers and aims to explain the observation fast metastable fragmentation as an outcome of partial neutralization. Knoechnmuss and colleagues have studied the roles of secondary reactions within the plume on the final spectra yielded by this technique. The laser pulse used in this technique is usually in the ultraviolet range, where DHB, sialic acid, and other reagents used to embed the analyte in this process can strongly absorb. Developed roughly simultaneously by Tanaka and by Karas and Hillenkamp, this technique yields mainly singly charged ions with minimal fragmentation, unlike a similar soft ionization technique, electrospray ionization. Like ESI, it is typically coupled to a time-of-flight mass analyzer for analysis of protein size. For 10 points, name this ion generation technique often used to analyze": {
+    "guess": "MALDI",
+    "confidence": [
+      [
+        "M",
+        -0.0004397287
+      ],
+      [
+        "AL",
+        -1.9361265e-07
+      ],
+      [
+        "DI",
+        0.0
+      ]
+    ]
+  },
+  "The \"lucky survivors\" model of this process was described by one of its original developers and aims to explain the observation fast metastable fragmentation as an outcome of partial neutralization. Knoechnmuss and colleagues have studied the roles of secondary reactions within the plume on the final spectra yielded by this technique. The laser pulse used in this technique is usually in the ultraviolet range, where DHB, sialic acid, and other reagents used to embed the analyte in this process can strongly absorb. Developed roughly simultaneously by Tanaka and by Karas and Hillenkamp, this technique yields mainly singly charged ions with minimal fragmentation, unlike a similar soft ionization technique, electrospray ionization. Like ESI, it is typically coupled to a time-of-flight mass analyzer for analysis of protein size. For 10 points, name this ion generation technique often used to analyze protein molecular weight, in which the analyte is embedded in a organic acid matrix.": {
+    "guess": "MALDI",
+    "confidence": [
+      [
+        "M",
+        -0.000645003
+      ],
+      [
+        "AL",
+        -3.1281633e-07
+      ],
+      [
+        "DI",
+        0.0
+      ]
+    ]
+  },
+  "Lucius Sulla ordered this man to recover Sicily and Africa from the Marians, and this man crushed a revolt": {
+    "guess": "Pompey",
+    "confidence": [
+      [
+        "Pom",
+        -0.0025235803
+      ],
+      [
+        "pey",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "Lucius Sulla ordered this man to recover Sicily and Africa from the Marians, and this man crushed a revolt led by the consul Marcus Lepidus. He helped Metellus fight against Sertorius in Spain, and his": {
+    "guess": "Pompey",
+    "confidence": [
+      [
+        "Pom",
+        -0.010303948
+      ],
+      [
+        "pey",
+        -7.505351e-05
+      ]
+    ]
+  },
+  "Lucius Sulla ordered this man to recover Sicily and Africa from the Marians, and this man crushed a revolt led by the consul Marcus Lepidus. He helped Metellus fight against Sertorius in Spain, and his son Sextus became a pirate after losing at the Battle of Munda. Aulus Gabinius granted this man powers": {
+    "guess": "Pompey",
+    "confidence": [
+      [
+        "Pom",
+        -0.0021576376
+      ],
+      [
+        "pey",
+        -0.00012344286
+      ]
+    ]
+  },
+  "Lucius Sulla ordered this man to recover Sicily and Africa from the Marians, and this man crushed a revolt led by the consul Marcus Lepidus. He helped Metellus fight against Sertorius in Spain, and his son Sextus became a pirate after losing at the Battle of Munda. Aulus Gabinius granted this man powers to fight off the Cilician pirates in Lex Gabinia, and he helped end the slave rebellion led by Spartacus.": {
+    "guess": "Pompey",
+    "confidence": [
+      [
+        "Pom",
+        -0.012670687
+      ],
+      [
+        "pey",
+        -2.1650272e-05
+      ]
+    ]
+  },
+  "Lucius Sulla ordered this man to recover Sicily and Africa from the Marians, and this man crushed a revolt led by the consul Marcus Lepidus. He helped Metellus fight against Sertorius in Spain, and his son Sextus became a pirate after losing at the Battle of Munda. Aulus Gabinius granted this man powers to fight off the Cilician pirates in Lex Gabinia, and he helped end the slave rebellion led by Spartacus. Ptolemy XIII ordered the assassination of this man in Egypt, and he was defeated at the Battle": {
+    "guess": "Pompey",
+    "confidence": [
+      [
+        "Pom",
+        -0.0020804321
+      ],
+      [
+        "pey",
+        -0.0001594387
+      ]
+    ]
+  },
+  "Lucius Sulla ordered this man to recover Sicily and Africa from the Marians, and this man crushed a revolt led by the consul Marcus Lepidus. He helped Metellus fight against Sertorius in Spain, and his son Sextus became a pirate after losing at the Battle of Munda. Aulus Gabinius granted this man powers to fight off the Cilician pirates in Lex Gabinia, and he helped end the slave rebellion led by Spartacus. Ptolemy XIII ordered the assassination of this man in Egypt, and he was defeated at the Battle of Pharsalus. For 10 points, name this member of the First Triumvirate who fought Julius Caesar": {
+    "guess": "Pompey",
+    "confidence": [
+      [
+        "Pom",
+        -0.0023764847
+      ],
+      [
+        "pey",
+        -4.9617593e-06
+      ]
+    ]
+  },
+  "Lucius Sulla ordered this man to recover Sicily and Africa from the Marians, and this man crushed a revolt led by the consul Marcus Lepidus. He helped Metellus fight against Sertorius in Spain, and his son Sextus became a pirate after losing at the Battle of Munda. Aulus Gabinius granted this man powers to fight off the Cilician pirates in Lex Gabinia, and he helped end the slave rebellion led by Spartacus. Ptolemy XIII ordered the assassination of this man in Egypt, and he was defeated at the Battle of Pharsalus. For 10 points, name this member of the First Triumvirate who fought Julius Caesar in a civil war.": {
+    "guess": "Pompey",
+    "confidence": [
+      [
+        "Pom",
+        -0.0007389923
+      ],
+      [
+        "pey",
+        -1.342522e-05
+      ]
+    ]
+  }
+}

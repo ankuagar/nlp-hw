@@ -1,0 +1,104 @@
+{
+  "The F-type of this molecule was recently discovered in Western Australia and is able to utilize lower": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.14969952
+      ],
+      [
+        "lor",
+        -3.261701e-05
+      ],
+      [
+        "ophyll",
+        -8.9834764e-05
+      ]
+    ]
+  },
+  "The F-type of this molecule was recently discovered in Western Australia and is able to utilize lower energies then its more common counterparts. This compound's central pyrrol-derivative ring is often": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.0026719724
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "The F-type of this molecule was recently discovered in Western Australia and is able to utilize lower energies then its more common counterparts. This compound's central pyrrol-derivative ring is often esterified to include a phytol substituent, and this molecule's central ring surrounds a magnesium": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.024202194
+      ],
+      [
+        "lor",
+        -7.89631e-07
+      ],
+      [
+        "ophyll",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "The F-type of this molecule was recently discovered in Western Australia and is able to utilize lower energies then its more common counterparts. This compound's central pyrrol-derivative ring is often esterified to include a phytol substituent, and this molecule's central ring surrounds a magnesium ion. The more common A-type of this molecule is a primary electron acceptor in the electron transport": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.0002576442
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        0.0
+      ]
+    ]
+  },
+  "The F-type of this molecule was recently discovered in Western Australia and is able to utilize lower energies then its more common counterparts. This compound's central pyrrol-derivative ring is often esterified to include a phytol substituent, and this molecule's central ring surrounds a magnesium ion. The more common A-type of this molecule is a primary electron acceptor in the electron transport chain and absorbs light at 680 or 700 nanometers in photosystems I and II. For 10 points, name this": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -4.5848617e-05
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        0.0
+      ]
+    ]
+  },
+  "The F-type of this molecule was recently discovered in Western Australia and is able to utilize lower energies then its more common counterparts. This compound's central pyrrol-derivative ring is often esterified to include a phytol substituent, and this molecule's central ring surrounds a magnesium ion. The more common A-type of this molecule is a primary electron acceptor in the electron transport chain and absorbs light at 680 or 700 nanometers in photosystems I and II. For 10 points, name this green pigment used in photosynthesis that is found in all plants.": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.018254833
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        0.0
+      ]
+    ]
+  }
+}

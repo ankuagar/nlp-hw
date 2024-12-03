@@ -1,0 +1,129 @@
+{
+  "Mylar and Kapton are films used in these objects at low frequencies. Their failure in motherboards is": {
+    "guess": "Capacitor Plague",
+    "confidence": [
+      [
+        "Cap",
+        -0.0028804764
+      ],
+      [
+        "ac",
+        -1.0206721e-05
+      ],
+      [
+        "itor",
+        -0.02054224
+      ],
+      [
+        " Pl",
+        -0.010533993
+      ],
+      [
+        "ague",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "Mylar and Kapton are films used in these objects at low frequencies. Their failure in motherboards is called their namesake \"plague\", and the mica types of these objects have the advantage of being highly": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.00023250321
+      ],
+      [
+        "ac",
+        -1.9361265e-07
+      ],
+      [
+        "itor",
+        -0.00048799152
+      ]
+    ]
+  },
+  "Mylar and Kapton are films used in these objects at low frequencies. Their failure in motherboards is called their namesake \"plague\", and the mica types of these objects have the advantage of being highly stable over time and at varying temperatures. For a spherical one of these, its associated quantity": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.00023274162
+      ],
+      [
+        "ac",
+        -6.704273e-07
+      ],
+      [
+        "itor",
+        -0.00013989297
+      ]
+    ]
+  },
+  "Mylar and Kapton are films used in these objects at low frequencies. Their failure in motherboards is called their namesake \"plague\", and the mica types of these objects have the advantage of being highly stable over time and at varying temperatures. For a spherical one of these, its associated quantity is defined as four-pi times the permittivity of free space divided by the difference in the inverses": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.00036227933
+      ],
+      [
+        "ac",
+        -0.00070992863
+      ],
+      [
+        "itor",
+        -0.0019286326
+      ]
+    ]
+  },
+  "Mylar and Kapton are films used in these objects at low frequencies. Their failure in motherboards is called their namesake \"plague\", and the mica types of these objects have the advantage of being highly stable over time and at varying temperatures. For a spherical one of these, its associated quantity is defined as four-pi times the permittivity of free space divided by the difference in the inverses of the sphere's inner and outer radii. That quantity is simply defined as charge over voltage for": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.06773632
+      ],
+      [
+        "ac",
+        -4.3202e-07
+      ],
+      [
+        "itor",
+        -0.0009114635
+      ]
+    ]
+  },
+  "Mylar and Kapton are films used in these objects at low frequencies. Their failure in motherboards is called their namesake \"plague\", and the mica types of these objects have the advantage of being highly stable over time and at varying temperatures. For a spherical one of these, its associated quantity is defined as four-pi times the permittivity of free space divided by the difference in the inverses of the sphere's inner and outer radii. That quantity is simply defined as charge over voltage for the parallel plate type of this device. It is often symbolized by two parallel lines in circuits.": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.00016647171
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        "itor",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "Mylar and Kapton are films used in these objects at low frequencies. Their failure in motherboards is called their namesake \"plague\", and the mica types of these objects have the advantage of being highly stable over time and at varying temperatures. For a spherical one of these, its associated quantity is defined as four-pi times the permittivity of free space divided by the difference in the inverses of the sphere's inner and outer radii. That quantity is simply defined as charge over voltage for the parallel plate type of this device. It is often symbolized by two parallel lines in circuits. For 10 points, name these devices with the ability to store charge.": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.0004539103
+      ],
+      [
+        "ac",
+        -1.9361265e-07
+      ],
+      [
+        "itor",
+        -0.012509774
+      ]
+    ]
+  }
+}

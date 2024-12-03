@@ -1,0 +1,71 @@
+{
+  "Galileo may have seen it in December 1512, but he didn't follow  up on his observation and it remained": {
+    "guess": "Neptune",
+    "confidence": [
+      [
+        "Ne",
+        -0.023775985
+      ],
+      [
+        "ptune",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "Galileo may have seen it in December 1512, but he didn't follow  up on his observation and it remained undiscovered for another 234  years. After it was finally sighted again by Johann Galle, an ugly ": {
+    "guess": "Discovery of Neptune",
+    "confidence": [
+      [
+        "Discovery",
+        -0.6128314
+      ],
+      [
+        " of",
+        -1.0280384e-06
+      ],
+      [
+        " Neptune",
+        -0.00073173555
+      ]
+    ]
+  },
+  "Galileo may have seen it in December 1512, but he didn't follow  up on his observation and it remained undiscovered for another 234  years. After it was finally sighted again by Johann Galle, an ugly  international dispute broke out over the credit for its discovery,  since its position had been predicted": {
+    "guess": "Neptune",
+    "confidence": [
+      [
+        "Ne",
+        -0.0015041481
+      ],
+      [
+        "ptune",
+        0.0
+      ]
+    ]
+  },
+  "Galileo may have seen it in December 1512, but he didn't follow  up on his observation and it remained undiscovered for another 234  years. After it was finally sighted again by Johann Galle, an ugly  international dispute broke out over the credit for its discovery,  since its position had been predicted independently by British  mathematician John Adams and French astronomer Urbain Leverrier.  FTP,": {
+    "guess": "Neptune",
+    "confidence": [
+      [
+        "Ne",
+        -0.00091979676
+      ],
+      [
+        "ptune",
+        0.0
+      ]
+    ]
+  },
+  "Galileo may have seen it in December 1512, but he didn't follow  up on his observation and it remained undiscovered for another 234  years. After it was finally sighted again by Johann Galle, an ugly  international dispute broke out over the credit for its discovery,  since its position had been predicted independently by British  mathematician John Adams and French astronomer Urbain Leverrier.  FTP, name this currently-outermost planet of the solar system.": {
+    "guess": "Neptune",
+    "confidence": [
+      [
+        "Ne",
+        -0.0002700377
+      ],
+      [
+        "ptune",
+        0.0
+      ]
+    ]
+  }
+}

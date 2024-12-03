@@ -1,0 +1,448 @@
+{
+  "Sloane and Plouffe defined the \"super\" version of this function, while the number of un-rooted binary": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0178435
+      ]
+    ]
+  },
+  "Sloane and Plouffe defined the \"super\" version of this function, while the number of un-rooted binary trees with a given number of leaves can be found using the \"double\" version of this function. Brute-force-searching": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.22334574
+      ]
+    ]
+  },
+  "Sloane and Plouffe defined the \"super\" version of this function, while the number of un-rooted binary trees with a given number of leaves can be found using the \"double\" version of this function. Brute-force-searching the travelling salesman problem can be done in big O of this function. This function": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.5797151
+      ],
+      [
+        ".",
+        -0.57595
+      ]
+    ]
+  },
+  "Sloane and Plouffe defined the \"super\" version of this function, while the number of un-rooted binary trees with a given number of leaves can be found using the \"double\" version of this function. Brute-force-searching the travelling salesman problem can be done in big O of this function. This function can be approximated as equal to the square root of two pi n times n to the n divided by e to the n,": {
+    "guess": "Stirling's approximation",
+    "confidence": [
+      [
+        "St",
+        -0.08784695
+      ],
+      [
+        "irling",
+        -4.3202e-07
+      ],
+      [
+        "'s",
+        -9.0788395e-05
+      ],
+      [
+        " approximation",
+        -0.0040799472
+      ]
+    ]
+  },
+  "Sloane and Plouffe defined the \"super\" version of this function, while the number of un-rooted binary trees with a given number of leaves can be found using the \"double\" version of this function. Brute-force-searching the travelling salesman problem can be done in big O of this function. This function can be approximated as equal to the square root of two pi n times n to the n divided by e to the n, a method devised by Stirling. This function, which is applied to p minus 1 in Wilson's theorem, is": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.073377006
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "Sloane and Plouffe defined the \"super\" version of this function, while the number of un-rooted binary trees with a given number of leaves can be found using the \"double\" version of this function. Brute-force-searching the travelling salesman problem can be done in big O of this function. This function can be approximated as equal to the square root of two pi n times n to the n divided by e to the n, a method devised by Stirling. This function, which is applied to p minus 1 in Wilson's theorem, is most commonly used to find the number of permutations of n objects. Generalized by the gamma function,": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.018295556
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "Sloane and Plouffe defined the \"super\" version of this function, while the number of un-rooted binary trees with a given number of leaves can be found using the \"double\" version of this function. Brute-force-searching the travelling salesman problem can be done in big O of this function. This function can be approximated as equal to the square root of two pi n times n to the n divided by e to the n, a method devised by Stirling. This function, which is applied to p minus 1 in Wilson's theorem, is most commonly used to find the number of permutations of n objects. Generalized by the gamma function, for 10 points, name this function symbolized by an exclamation point, equal to the product of all": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.10089801
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "Sloane and Plouffe defined the \"super\" version of this function, while the number of un-rooted binary trees with a given number of leaves can be found using the \"double\" version of this function. Brute-force-searching the travelling salesman problem can be done in big O of this function. This function can be approximated as equal to the square root of two pi n times n to the n divided by e to the n, a method devised by Stirling. This function, which is applied to p minus 1 in Wilson's theorem, is most commonly used to find the number of permutations of n objects. Generalized by the gamma function, for 10 points, name this function symbolized by an exclamation point, equal to the product of all integers between 1 and the operand.": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.020616513
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "Under the slogan \"fifty years of progress in five,\" this country experienced rapid economic growth during": {
+    "guess": "Brazil",
+    "confidence": [
+      [
+        "Brazil",
+        -0.035156947
+      ]
+    ]
+  },
+  "Under the slogan \"fifty years of progress in five,\" this country experienced rapid economic growth during the 1950s rule of Juscelino Kubitschek (JOO-cell-EE-no COO-bit-CHECK). This country's monarchy": {
+    "guess": "Brazilian monarchy",
+    "confidence": [
+      [
+        "Brazil",
+        -0.596717
+      ],
+      [
+        "ian",
+        -0.35661256
+      ],
+      [
+        " monarchy",
+        -0.16730703
+      ]
+    ]
+  },
+  "Under the slogan \"fifty years of progress in five,\" this country experienced rapid economic growth during the 1950s rule of Juscelino Kubitschek (JOO-cell-EE-no COO-bit-CHECK). This country's monarchy was overthrown in a coup led by Deodoro da Fonseca, who became its first president. The Great Depression": {
+    "guess": "Brazil",
+    "confidence": [
+      [
+        "Brazil",
+        -0.603269
+      ]
+    ]
+  },
+  "Under the slogan \"fifty years of progress in five,\" this country experienced rapid economic growth during the 1950s rule of Juscelino Kubitschek (JOO-cell-EE-no COO-bit-CHECK). This country's monarchy was overthrown in a coup led by Deodoro da Fonseca, who became its first president. The Great Depression helped this country's longtime dictator (*) Getulio Vargas take power. In 1822, this country's": {
+    "guess": "Brazil",
+    "confidence": [
+      [
+        "Brazil",
+        -0.111392155
+      ]
+    ]
+  },
+  "Under the slogan \"fifty years of progress in five,\" this country experienced rapid economic growth during the 1950s rule of Juscelino Kubitschek (JOO-cell-EE-no COO-bit-CHECK). This country's monarchy was overthrown in a coup led by Deodoro da Fonseca, who became its first president. The Great Depression helped this country's longtime dictator (*) Getulio Vargas take power. In 1822, this country's first emperor, Pedro I, declared its independence from Portugal. For 10 points, name this South American": {
+    "guess": "Brazil",
+    "confidence": [
+      [
+        "Brazil",
+        -0.0020436752
+      ]
+    ]
+  },
+  "Under the slogan \"fifty years of progress in five,\" this country experienced rapid economic growth during the 1950s rule of Juscelino Kubitschek (JOO-cell-EE-no COO-bit-CHECK). This country's monarchy was overthrown in a coup led by Deodoro da Fonseca, who became its first president. The Great Depression helped this country's longtime dictator (*) Getulio Vargas take power. In 1822, this country's first emperor, Pedro I, declared its independence from Portugal. For 10 points, name this South American country discovered by Pedro Cabral.": {
+    "guess": "Brazil",
+    "confidence": [
+      [
+        "Brazil",
+        -0.014266227
+      ]
+    ]
+  },
+  "The slow first section of this work was intended to introduce its characters accompanied by suffused": {
+    "guess": "Verkl\u00e4rte Nacht",
+    "confidence": [
+      [
+        "Ver",
+        -0.3885296
+      ],
+      [
+        "kl\u00e4r",
+        -0.009632836
+      ],
+      [
+        "te",
+        0.0
+      ],
+      [
+        " Nacht",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The slow first section of this work was intended to introduce its characters accompanied by suffused light on stage, and is interrupted by unison strings playing A major octaves and arpeggios. It premiered": {
+    "guess": "Appalachian Spring",
+    "confidence": [
+      [
+        "App",
+        -0.25388974
+      ],
+      [
+        "alach",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Spring",
+        0.0
+      ]
+    ]
+  },
+  "The slow first section of this work was intended to introduce its characters accompanied by suffused light on stage, and is interrupted by unison strings playing A major octaves and arpeggios. It premiered on a set designed by Isamu Noguchi, and included such dancers as Erick Hawkins and (*) Martha Graham.": {
+    "guess": "Appalachian Spring",
+    "confidence": [
+      [
+        "App",
+        -0.004406263
+      ],
+      [
+        "alach",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Spring",
+        0.0
+      ]
+    ]
+  },
+  "The slow first section of this work was intended to introduce its characters accompanied by suffused light on stage, and is interrupted by unison strings playing A major octaves and arpeggios. It premiered on a set designed by Isamu Noguchi, and included such dancers as Erick Hawkins and (*) Martha Graham. One melody in this work is first played by the clarinet and depicts a newlywed couple. It was": {
+    "guess": "Appalachian Spring",
+    "confidence": [
+      [
+        "App",
+        -0.032660063
+      ],
+      [
+        "alach",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Spring",
+        0.0
+      ]
+    ]
+  },
+  "The slow first section of this work was intended to introduce its characters accompanied by suffused light on stage, and is interrupted by unison strings playing A major octaves and arpeggios. It premiered on a set designed by Isamu Noguchi, and included such dancers as Erick Hawkins and (*) Martha Graham. One melody in this work is first played by the clarinet and depicts a newlywed couple. It was preceded by its composer's Billy the Kid, and it incorporates the shaker hymn\"Simple Gifts\". For ten": {
+    "guess": "Appalachian Spring",
+    "confidence": [
+      [
+        "App",
+        -0.019589506
+      ],
+      [
+        "alach",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Spring",
+        0.0
+      ]
+    ]
+  },
+  "The slow first section of this work was intended to introduce its characters accompanied by suffused light on stage, and is interrupted by unison strings playing A major octaves and arpeggios. It premiered on a set designed by Isamu Noguchi, and included such dancers as Erick Hawkins and (*) Martha Graham. One melody in this work is first played by the clarinet and depicts a newlywed couple. It was preceded by its composer's Billy the Kid, and it incorporates the shaker hymn\"Simple Gifts\". For ten points, name this ballet depicting a celebration of Pennsylvanian pioneers, composed by Aaron Copland.": {
+    "guess": "Appalachian Spring",
+    "confidence": [
+      [
+        "App",
+        -0.0041203117
+      ],
+      [
+        "alach",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Spring",
+        0.0
+      ]
+    ]
+  },
+  "One of these is slowly forming under Yellowstone National Park. This term was first applied to a large": {
+    "guess": "Caldera",
+    "confidence": [
+      [
+        "Cal",
+        -0.63778996
+      ],
+      [
+        "dera",
+        -3.1737043e-06
+      ]
+    ]
+  },
+  "One of these is slowly forming under Yellowstone National Park. This term was first applied to a large pit in the Canary Islands, which was about five kilometers in diameter. It is used to describe such": {
+    "guess": "Caldera",
+    "confidence": [
+      [
+        "Cal",
+        -0.0030260794
+      ],
+      [
+        "dera",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "One of these is slowly forming under Yellowstone National Park. This term was first applied to a large pit in the Canary Islands, which was about five kilometers in diameter. It is used to describe such natural features as Kilauea and Mauna Loa in Hawaii, and, when filled with water, can form a lake": {
+    "guess": "Caldera",
+    "confidence": [
+      [
+        "Cal",
+        -0.0028746538
+      ],
+      [
+        "dera",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "One of these is slowly forming under Yellowstone National Park. This term was first applied to a large pit in the Canary Islands, which was about five kilometers in diameter. It is used to describe such natural features as Kilauea and Mauna Loa in Hawaii, and, when filled with water, can form a lake such as Crater Lake. _FOR TEN POINTS_\u2014name these broad, shallow craters, whose name is Spanish for \"cauldron.\"": {
+    "guess": "Caldera",
+    "confidence": [
+      [
+        "Cal",
+        -0.00023345684
+      ],
+      [
+        "dera",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One slogan during this war was \"remember Majuba Hill\". The Battle of Colenso occurred during Black Week": {
+    "guess": "Second Boer War",
+    "confidence": [
+      [
+        "Second",
+        -0.008632415
+      ],
+      [
+        " Boer",
+        -1.9361265e-07
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "One slogan during this war was \"remember Majuba Hill\". The Battle of Colenso occurred during Black Week before Lord Roberts took command, and the later founder of the Boy Scouts, Robert Baden-Powell, defended": {
+    "guess": "Second Boer War",
+    "confidence": [
+      [
+        "Second",
+        -0.014467978
+      ],
+      [
+        " Boer",
+        -1.0280384e-06
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "One slogan during this war was \"remember Majuba Hill\". The Battle of Colenso occurred during Black Week before Lord Roberts took command, and the later founder of the Boy Scouts, Robert Baden-Powell, defended Mafeking during this war. The Jameson Raid helped lead to this war, and Lord Kitchener used": {
+    "guess": "Second Boer War",
+    "confidence": [
+      [
+        "Second",
+        -0.004133492
+      ],
+      [
+        " Boer",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "One slogan during this war was \"remember Majuba Hill\". The Battle of Colenso occurred during Black Week before Lord Roberts took command, and the later founder of the Boy Scouts, Robert Baden-Powell, defended Mafeking during this war. The Jameson Raid helped lead to this war, and Lord Kitchener used a scorched earth policy to combat the guerrila warfare of Generals Jan Smuts and Louis Botha. Ending": {
+    "guess": "Second Boer War",
+    "confidence": [
+      [
+        "Second",
+        -0.049445488
+      ],
+      [
+        " Boer",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "One slogan during this war was \"remember Majuba Hill\". The Battle of Colenso occurred during Black Week before Lord Roberts took command, and the later founder of the Boy Scouts, Robert Baden-Powell, defended Mafeking during this war. The Jameson Raid helped lead to this war, and Lord Kitchener used a scorched earth policy to combat the guerrila warfare of Generals Jan Smuts and Louis Botha. Ending the independence of the Transvaal and the Orange Free State, For 10 points, name this war between the": {
+    "guess": "Second Boer War",
+    "confidence": [
+      [
+        "Second",
+        -0.0015773557
+      ],
+      [
+        " Boer",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  },
+  "One slogan during this war was \"remember Majuba Hill\". The Battle of Colenso occurred during Black Week before Lord Roberts took command, and the later founder of the Boy Scouts, Robert Baden-Powell, defended Mafeking during this war. The Jameson Raid helped lead to this war, and Lord Kitchener used a scorched earth policy to combat the guerrila warfare of Generals Jan Smuts and Louis Botha. Ending the independence of the Transvaal and the Orange Free State, For 10 points, name this war between the namesake farmers of Dutch descent and the British in South Africa.": {
+    "guess": "Second Boer War",
+    "confidence": [
+      [
+        "Second",
+        -0.00035608074
+      ],
+      [
+        " Boer",
+        0.0
+      ],
+      [
+        " War",
+        0.0
+      ]
+    ]
+  }
+}

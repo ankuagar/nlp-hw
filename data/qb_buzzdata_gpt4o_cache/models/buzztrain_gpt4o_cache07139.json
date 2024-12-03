@@ -1,0 +1,93 @@
+{
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.04019484
+      ],
+      [
+        "imestone",
+        -0.10020796
+      ]
+    ]
+  },
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes contains inclusions of chalcedony and chert. The deficiency of magnesium distinguishes it from": {
+    "guess": "Calcite",
+    "confidence": [
+      [
+        "Calc",
+        -0.38393956
+      ],
+      [
+        "ite",
+        0.0
+      ]
+    ]
+  },
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes contains inclusions of chalcedony and chert. The deficiency of magnesium distinguishes it from dolomite, and one type of this rock is travertine and contains aragonite. It is most commonly formed": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.00012987986
+      ],
+      [
+        "imestone",
+        0.0
+      ]
+    ]
+  },
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes contains inclusions of chalcedony and chert. The deficiency of magnesium distinguishes it from dolomite, and one type of this rock is travertine and contains aragonite. It is most commonly formed through the deposition of the calcareous shells of mollusks and diatoms and is the most common flux": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.00026968008
+      ],
+      [
+        "imestone",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes contains inclusions of chalcedony and chert. The deficiency of magnesium distinguishes it from dolomite, and one type of this rock is travertine and contains aragonite. It is most commonly formed through the deposition of the calcareous shells of mollusks and diatoms and is the most common flux component of blast furnaces. This mineral found in Karst topography makes up stalagmites and stalactites.": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.003411797
+      ],
+      [
+        "imestone",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes contains inclusions of chalcedony and chert. The deficiency of magnesium distinguishes it from dolomite, and one type of this rock is travertine and contains aragonite. It is most commonly formed through the deposition of the calcareous shells of mollusks and diatoms and is the most common flux component of blast furnaces. This mineral found in Karst topography makes up stalagmites and stalactites. For 10 points, name this sedimentary rock that often metamorphoses into marble and is mostly": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.0002491807
+      ],
+      [
+        "imestone",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A sorbent made of this mineral can remove sulfur dioxide from gaseous pollution, and this mineral sometimes contains inclusions of chalcedony and chert. The deficiency of magnesium distinguishes it from dolomite, and one type of this rock is travertine and contains aragonite. It is most commonly formed through the deposition of the calcareous shells of mollusks and diatoms and is the most common flux component of blast furnaces. This mineral found in Karst topography makes up stalagmites and stalactites. For 10 points, name this sedimentary rock that often metamorphoses into marble and is mostly made up of calcium carbonate.": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.00025645216
+      ],
+      [
+        "imestone",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "He was the cup bearer for Artaxerxes Longimanus, who appointed him governor of Jerusalem in 444 B. C.": {
+    "guess": "Nehemiah",
+    "confidence": [
+      [
+        "Ne",
+        -2.4272753e-05
+      ],
+      [
+        "hem",
+        0.0
+      ],
+      [
+        "iah",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "He was the cup bearer for Artaxerxes Longimanus, who appointed him governor of Jerusalem in 444 B. C. After rebuilding the city walls, he repopulated the city by forcing residents of the neighboring districts": {
+    "guess": "Nehemiah",
+    "confidence": [
+      [
+        "Ne",
+        -0.00040922358
+      ],
+      [
+        "hem",
+        0.0
+      ],
+      [
+        "iah",
+        0.0
+      ]
+    ]
+  },
+  "He was the cup bearer for Artaxerxes Longimanus, who appointed him governor of Jerusalem in 444 B. C. After rebuilding the city walls, he repopulated the city by forcing residents of the neighboring districts to live there. FTP, identify this Biblic  al prophet, who returned to Jerusalem in 432, and": {
+    "guess": "Nehemiah",
+    "confidence": [
+      [
+        "Ne",
+        -0.00022296692
+      ],
+      [
+        "hem",
+        0.0
+      ],
+      [
+        "iah",
+        0.0
+      ]
+    ]
+  },
+  "He was the cup bearer for Artaxerxes Longimanus, who appointed him governor of Jerusalem in 444 B. C. After rebuilding the city walls, he repopulated the city by forcing residents of the neighboring districts to live there. FTP, identify this Biblic  al prophet, who returned to Jerusalem in 432, and whose book of the Bible is often paired with that of Ezra.": {
+    "guess": "Nehemiah",
+    "confidence": [
+      [
+        "Ne",
+        -0.00010127832
+      ],
+      [
+        "hem",
+        0.0
+      ],
+      [
+        "iah",
+        0.0
+      ]
+    ]
+  }
+}

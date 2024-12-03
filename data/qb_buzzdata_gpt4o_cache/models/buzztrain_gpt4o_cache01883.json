@@ -1,0 +1,1551 @@
+{
+  "The existence of this property was first theorized by Victor Veselago and confirmed in 2000 by John Pendry.": {
+    "guess": "Negative index metamaterials",
+    "confidence": [
+      [
+        "Negative",
+        -0.055454798
+      ],
+      [
+        " index",
+        -0.012735432
+      ],
+      [
+        " metam",
+        -0.00057733926
+      ],
+      [
+        "aterials",
+        -0.10020667
+      ]
+    ]
+  },
+  "The existence of this property was first theorized by Victor Veselago and confirmed in 2000 by John Pendry. Following Pendy, Smith et al. realized this property through the use of a controllable plasma": {
+    "guess": "Metamaterial",
+    "confidence": [
+      [
+        "Met",
+        -0.6636335
+      ],
+      [
+        "am",
+        0.0
+      ],
+      [
+        "aterial",
+        -0.10020689
+      ]
+    ]
+  },
+  "The existence of this property was first theorized by Victor Veselago and confirmed in 2000 by John Pendry. Following Pendy, Smith et al. realized this property through the use of a controllable plasma frequency in a double split ring resonator. In a two-dimensional network of LC circuits, this property": {
+    "guess": "Refractive index",
+    "confidence": [
+      [
+        "Re",
+        -0.8897133
+      ],
+      [
+        "fr",
+        -1.2664457e-06
+      ],
+      [
+        "active",
+        -1.9361265e-07
+      ],
+      [
+        " index",
+        -6.869018e-06
+      ]
+    ]
+  },
+  "The existence of this property was first theorized by Victor Veselago and confirmed in 2000 by John Pendry. Following Pendy, Smith et al. realized this property through the use of a controllable plasma frequency in a double split ring resonator. In a two-dimensional network of LC circuits, this property can be induced in the microwave regime by creating a Poynting vector antiparallel to the wave vector.": {
+    "guess": "Negative index metamaterials",
+    "confidence": [
+      [
+        "Negative",
+        -0.08033303
+      ],
+      [
+        " index",
+        -0.03618799
+      ],
+      [
+        " metam",
+        -0.00035417348
+      ],
+      [
+        "aterials",
+        -0.048587486
+      ]
+    ]
+  },
+  "The existence of this property was first theorized by Victor Veselago and confirmed in 2000 by John Pendry. Following Pendy, Smith et al. realized this property through the use of a controllable plasma frequency in a double split ring resonator. In a two-dimensional network of LC circuits, this property can be induced in the microwave regime by creating a Poynting vector antiparallel to the wave vector. This property can also be realized by inducing complex Bragg scattering in a photonic crystal,": {
+    "guess": "Negative index metamaterials",
+    "confidence": [
+      [
+        "Negative",
+        -0.17673902
+      ],
+      [
+        " index",
+        -0.18718225
+      ],
+      [
+        " metam",
+        -0.0006511979
+      ],
+      [
+        "aterials",
+        -0.07888979
+      ]
+    ]
+  },
+  "The existence of this property was first theorized by Victor Veselago and confirmed in 2000 by John Pendry. Following Pendy, Smith et al. realized this property through the use of a controllable plasma frequency in a double split ring resonator. In a two-dimensional network of LC circuits, this property can be induced in the microwave regime by creating a Poynting vector antiparallel to the wave vector. This property can also be realized by inducing complex Bragg scattering in a photonic crystal, and one application for materials of this property is the construction of superlenses. In materials": {
+    "guess": "Negative index metamaterials",
+    "confidence": [
+      [
+        "Negative",
+        -0.06840852
+      ],
+      [
+        " index",
+        -0.07619604
+      ],
+      [
+        " metam",
+        -0.00057388237
+      ],
+      [
+        "aterials",
+        -0.10020667
+      ]
+    ]
+  },
+  "The existence of this property was first theorized by Victor Veselago and confirmed in 2000 by John Pendry. Following Pendy, Smith et al. realized this property through the use of a controllable plasma frequency in a double split ring resonator. In a two-dimensional network of LC circuits, this property can be induced in the microwave regime by creating a Poynting vector antiparallel to the wave vector. This property can also be realized by inducing complex Bragg scattering in a photonic crystal, and one application for materials of this property is the construction of superlenses. In materials with this property, the phase and energy velocities move in opposite directions relative to each other,": {
+    "guess": "Negative index metamaterials",
+    "confidence": [
+      [
+        "Negative",
+        -0.0017450349
+      ],
+      [
+        " index",
+        -0.052664135
+      ],
+      [
+        " metam",
+        -0.0013773758
+      ],
+      [
+        "aterials",
+        -0.38687113
+      ]
+    ]
+  },
+  "The existence of this property was first theorized by Victor Veselago and confirmed in 2000 by John Pendry. Following Pendy, Smith et al. realized this property through the use of a controllable plasma frequency in a double split ring resonator. In a two-dimensional network of LC circuits, this property can be induced in the microwave regime by creating a Poynting vector antiparallel to the wave vector. This property can also be realized by inducing complex Bragg scattering in a photonic crystal, and one application for materials of this property is the construction of superlenses. In materials with this property, the phase and energy velocities move in opposite directions relative to each other, and a material with this property can be created if both the permittivity and the permeability": {
+    "guess": "Negative index metamaterials",
+    "confidence": [
+      [
+        "Negative",
+        -0.045848787
+      ],
+      [
+        " index",
+        -0.017259048
+      ],
+      [
+        " metam",
+        -0.0032401013
+      ],
+      [
+        "aterials",
+        -0.38687137
+      ]
+    ]
+  },
+  "The existence of this property was first theorized by Victor Veselago and confirmed in 2000 by John Pendry. Following Pendy, Smith et al. realized this property through the use of a controllable plasma frequency in a double split ring resonator. In a two-dimensional network of LC circuits, this property can be induced in the microwave regime by creating a Poynting vector antiparallel to the wave vector. This property can also be realized by inducing complex Bragg scattering in a photonic crystal, and one application for materials of this property is the construction of superlenses. In materials with this property, the phase and energy velocities move in opposite directions relative to each other, and a material with this property can be created if both the permittivity and the permeability are made to be less than zero. Sometimes known as the \"left-handed\" property, for ten points, identify": {
+    "guess": "Negative index metamaterials",
+    "confidence": [
+      [
+        "Negative",
+        -0.068501584
+      ],
+      [
+        " index",
+        -0.015941339
+      ],
+      [
+        " metam",
+        -0.009866109
+      ],
+      [
+        "aterials",
+        -0.25192934
+      ]
+    ]
+  },
+  "The existence of this property was first theorized by Victor Veselago and confirmed in 2000 by John Pendry. Following Pendy, Smith et al. realized this property through the use of a controllable plasma frequency in a double split ring resonator. In a two-dimensional network of LC circuits, this property can be induced in the microwave regime by creating a Poynting vector antiparallel to the wave vector. This property can also be realized by inducing complex Bragg scattering in a photonic crystal, and one application for materials of this property is the construction of superlenses. In materials with this property, the phase and energy velocities move in opposite directions relative to each other, and a material with this property can be created if both the permittivity and the permeability are made to be less than zero. Sometimes known as the \"left-handed\" property, for ten points, identify this property, present in many metamaterials, in which the direction of the outgoing beam predicted": {
+    "guess": "Negative index metamaterial",
+    "confidence": [
+      [
+        "Negative",
+        -0.007638448
+      ],
+      [
+        " index",
+        -0.025454959
+      ],
+      [
+        " metam",
+        -0.2522491
+      ],
+      [
+        "aterial",
+        -0.47407743
+      ]
+    ]
+  },
+  "The existence of this property was first theorized by Victor Veselago and confirmed in 2000 by John Pendry. Following Pendy, Smith et al. realized this property through the use of a controllable plasma frequency in a double split ring resonator. In a two-dimensional network of LC circuits, this property can be induced in the microwave regime by creating a Poynting vector antiparallel to the wave vector. This property can also be realized by inducing complex Bragg scattering in a photonic crystal, and one application for materials of this property is the construction of superlenses. In materials with this property, the phase and energy velocities move in opposite directions relative to each other, and a material with this property can be created if both the permittivity and the permeability are made to be less than zero. Sometimes known as the \"left-handed\" property, for ten points, identify this property, present in many metamaterials, in which the direction of the outgoing beam predicted by Snell's Law is reversed.": {
+    "guess": "Negative index metamaterial",
+    "confidence": [
+      [
+        "Negative",
+        -0.003365335
+      ],
+      [
+        " index",
+        -0.03169574
+      ],
+      [
+        " metam",
+        -0.20168307
+      ],
+      [
+        "aterial",
+        -0.47407722
+      ]
+    ]
+  },
+  "The exiled Dante Alighieri did in this city after spending his last three years there. Julius Caesar": {
+    "guess": "Ravenna",
+    "confidence": [
+      [
+        "R",
+        -0.03390743
+      ],
+      [
+        "aven",
+        -9.73446e-05
+      ],
+      [
+        "na",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The exiled Dante Alighieri did in this city after spending his last three years there. Julius Caesar massed\n his forces in this city before crossing the Rubicon. Despite the death of their commander Gaston": {
+    "guess": "Ravenna",
+    "confidence": [
+      [
+        "R",
+        -0.00036359057
+      ],
+      [
+        "aven",
+        0.0
+      ],
+      [
+        "na",
+        0.0
+      ]
+    ]
+  },
+  "The exiled Dante Alighieri did in this city after spending his last three years there. Julius Caesar massed\n his forces in this city before crossing the Rubicon. Despite the death of their commander Gaston de Foix,\n the French sacked this city in 1512 after winning a War of the League of Cambrai battle": {
+    "guess": "Ravenna",
+    "confidence": [
+      [
+        "R",
+        -4.143808e-05
+      ],
+      [
+        "aven",
+        0.0
+      ],
+      [
+        "na",
+        0.0
+      ]
+    ]
+  },
+  "The exiled Dante Alighieri did in this city after spending his last three years there. Julius Caesar massed\n his forces in this city before crossing the Rubicon. Despite the death of their commander Gaston de Foix,\n the French sacked this city in 1512 after winning a War of the League of Cambrai battle here. After holding\n out for three years, Odoacer was finally killed in the siege of this city by": {
+    "guess": "Ravenna",
+    "confidence": [
+      [
+        "R",
+        -0.0015260485
+      ],
+      [
+        "aven",
+        0.0
+      ],
+      [
+        "na",
+        0.0
+      ]
+    ]
+  },
+  "The exiled Dante Alighieri did in this city after spending his last three years there. Julius Caesar massed\n his forces in this city before crossing the Rubicon. Despite the death of their commander Gaston de Foix,\n the French sacked this city in 1512 after winning a War of the League of Cambrai battle here. After holding\n out for three years, Odoacer was finally killed in the siege of this city by Theodoric. Honorius made this\n city the official Western capital in 402, and served as the capital": {
+    "guess": "Ravenna",
+    "confidence": [
+      [
+        "R",
+        -4.632543e-05
+      ],
+      [
+        "aven",
+        0.0
+      ],
+      [
+        "na",
+        0.0
+      ]
+    ]
+  },
+  "The exiled Dante Alighieri did in this city after spending his last three years there. Julius Caesar massed\n his forces in this city before crossing the Rubicon. Despite the death of their commander Gaston de Foix,\n the French sacked this city in 1512 after winning a War of the League of Cambrai battle here. After holding\n out for three years, Odoacer was finally killed in the siege of this city by Theodoric. Honorius made this\n city the official Western capital in 402, and served as the capital of Ostrogoth and Byzantine rule of Italy.\n For 10 points, name this city in Northern Italy.": {
+    "guess": "Ravenna",
+    "confidence": [
+      [
+        "R",
+        -0.001687797
+      ],
+      [
+        "aven",
+        0.0
+      ],
+      [
+        "na",
+        0.0
+      ]
+    ]
+  },
+  "This man was exiled by Clodius Pulcher, prompting his defense of Titus Milo for the murder of Clodius,": {
+    "guess": "Cicero",
+    "confidence": [
+      [
+        "C",
+        -0.0029897091
+      ],
+      [
+        "ic",
+        -5.5122365e-07
+      ],
+      [
+        "ero",
+        0.0
+      ]
+    ]
+  },
+  "This man was exiled by Clodius Pulcher, prompting his defense of Titus Milo for the murder of Clodius, Pro Milonem. This consul, uncovered the Catiline conspiracy and drove Cataline out of the city. This": {
+    "guess": "Cicero",
+    "confidence": [
+      [
+        "C",
+        -0.002969142
+      ],
+      [
+        "ic",
+        -1.9361265e-07
+      ],
+      [
+        "ero",
+        0.0
+      ]
+    ]
+  },
+  "This man was exiled by Clodius Pulcher, prompting his defense of Titus Milo for the murder of Clodius, Pro Milonem. This consul, uncovered the Catiline conspiracy and drove Cataline out of the city. This man critiqued Marc Antony as a debaucher, for which he was killed, and his hands and tongue removed.": {
+    "guess": "Cicero",
+    "confidence": [
+      [
+        "C",
+        -0.0005467186
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "ero",
+        0.0
+      ]
+    ]
+  },
+  "This man was exiled by Clodius Pulcher, prompting his defense of Titus Milo for the murder of Clodius, Pro Milonem. This consul, uncovered the Catiline conspiracy and drove Cataline out of the city. This man critiqued Marc Antony as a debaucher, for which he was killed, and his hands and tongue removed. For 10 points, name this proponent of the senate during Caesar's civil war, a noted orator.": {
+    "guess": "Cicero",
+    "confidence": [
+      [
+        "C",
+        -0.00017040544
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "ero",
+        0.0
+      ]
+    ]
+  },
+  "This man was exiled after he threw a cup at Attalus for calling him a bastard at a banquet. He poured": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7874652
+      ]
+    ]
+  },
+  "This man was exiled after he threw a cup at Attalus for calling him a bastard at a banquet. He poured rocks into the sea to build a bridge over the Mediterranean and besiege the island city of Tyre. This": {
+    "guess": "Alexander the Great",
+    "confidence": [
+      [
+        "Alexander",
+        -0.17879032
+      ],
+      [
+        " the",
+        -1.504853e-06
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man was exiled after he threw a cup at Attalus for calling him a bastard at a banquet. He poured rocks into the sea to build a bridge over the Mediterranean and besiege the island city of Tyre. This man's army defeated King Porus at the Battle of the Hydaspes during his conquest of Punjab. After": {
+    "guess": "Alexander the Great",
+    "confidence": [
+      [
+        "Alexander",
+        -0.01375677
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man was exiled after he threw a cup at Attalus for calling him a bastard at a banquet. He poured rocks into the sea to build a bridge over the Mediterranean and besiege the island city of Tyre. This man's army defeated King Porus at the Battle of the Hydaspes during his conquest of Punjab. After his death, this man's generals fought over his holdings in the Wars of the Diadochi. He won great victories": {
+    "guess": "Alexander the Great",
+    "confidence": [
+      [
+        "Alexander",
+        -0.0010189945
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man was exiled after he threw a cup at Attalus for calling him a bastard at a banquet. He poured rocks into the sea to build a bridge over the Mediterranean and besiege the island city of Tyre. This man's army defeated King Porus at the Battle of the Hydaspes during his conquest of Punjab. After his death, this man's generals fought over his holdings in the Wars of the Diadochi. He won great victories at Issus and Gaugamela, where he defeated Darius III to take over the Persian Empire. For 10": {
+    "guess": "Alexander the Great",
+    "confidence": [
+      [
+        "Alexander",
+        -0.00012666137
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man was exiled after he threw a cup at Attalus for calling him a bastard at a banquet. He poured rocks into the sea to build a bridge over the Mediterranean and besiege the island city of Tyre. This man's army defeated King Porus at the Battle of the Hydaspes during his conquest of Punjab. After his death, this man's generals fought over his holdings in the Wars of the Diadochi. He won great victories at Issus and Gaugamela, where he defeated Darius III to take over the Persian Empire. For 10 points, name this son of Philip II, a ruler of Macedon known for his vast Asian conquests.": {
+    "guess": "Alexander the Great",
+    "confidence": [
+      [
+        "Alexander",
+        -0.00021617231
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "The existence of this organization was notably opposed by Clifton Woodrum, and a failed amendment proposed": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.18560211
+      ]
+    ]
+  },
+  "The existence of this organization was notably opposed by Clifton Woodrum, and a failed amendment proposed by James Byrnes sought to correct what Byrnes saw as the regional unevenness of this organization's": {
+    "guess": "Tennessee Valley Authority",
+    "confidence": [
+      [
+        "T",
+        -0.007798495
+      ],
+      [
+        "ennessee",
+        -1.2664457e-06
+      ],
+      [
+        " Valley",
+        -1.9361265e-07
+      ],
+      [
+        " Authority",
+        0.0
+      ]
+    ]
+  },
+  "The existence of this organization was notably opposed by Clifton Woodrum, and a failed amendment proposed by James Byrnes sought to correct what Byrnes saw as the regional unevenness of this organization's financial impact. Funds distributed by this organization were used as leverage by Secretary of": {
+    "guess": "WPA",
+    "confidence": [
+      [
+        "W",
+        -0.97958773
+      ],
+      [
+        "PA",
+        -4.596782e-05
+      ]
+    ]
+  },
+  "The existence of this organization was notably opposed by Clifton Woodrum, and a failed amendment proposed by James Byrnes sought to correct what Byrnes saw as the regional unevenness of this organization's financial impact. Funds distributed by this organization were used as leverage by Secretary of War George Dern in an argument with House Military Affairs Committee chair John McSwain. One branch": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.96749514
+      ]
+    ]
+  },
+  "The existence of this organization was notably opposed by Clifton Woodrum, and a failed amendment proposed by James Byrnes sought to correct what Byrnes saw as the regional unevenness of this organization's financial impact. Funds distributed by this organization were used as leverage by Secretary of War George Dern in an argument with House Military Affairs Committee chair John McSwain. One branch of this organization was led by Hallie Flanagan, under whose leadership that branch undertook news": {
+    "guess": "Federal Theatre Project",
+    "confidence": [
+      [
+        "Federal",
+        -0.5042979
+      ],
+      [
+        " Theatre",
+        -0.0010872321
+      ],
+      [
+        " Project",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The existence of this organization was notably opposed by Clifton Woodrum, and a failed amendment proposed by James Byrnes sought to correct what Byrnes saw as the regional unevenness of this organization's financial impact. Funds distributed by this organization were used as leverage by Secretary of War George Dern in an argument with House Military Affairs Committee chair John McSwain. One branch of this organization was led by Hallie Flanagan, under whose leadership that branch undertook news reenactments called the \"Living Newspaper,\" series, while another branch of this organization was responsible": {
+    "guess": "Works Progress Administration",
+    "confidence": [
+      [
+        "Works",
+        -0.05528359
+      ],
+      [
+        " Progress",
+        -1.9361265e-07
+      ],
+      [
+        " Administration",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The existence of this organization was notably opposed by Clifton Woodrum, and a failed amendment proposed by James Byrnes sought to correct what Byrnes saw as the regional unevenness of this organization's financial impact. Funds distributed by this organization were used as leverage by Secretary of War George Dern in an argument with House Military Affairs Committee chair John McSwain. One branch of this organization was led by Hallie Flanagan, under whose leadership that branch undertook news reenactments called the \"Living Newspaper,\" series, while another branch of this organization was responsible for producing the American Guide Series. Led, like its predecessor the FERA, by Harry Hopkins,": {
+    "guess": "Works Progress Administration",
+    "confidence": [
+      [
+        "Works",
+        -0.044428498
+      ],
+      [
+        " Progress",
+        -3.1281633e-07
+      ],
+      [
+        " Administration",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The existence of this organization was notably opposed by Clifton Woodrum, and a failed amendment proposed by James Byrnes sought to correct what Byrnes saw as the regional unevenness of this organization's financial impact. Funds distributed by this organization were used as leverage by Secretary of War George Dern in an argument with House Military Affairs Committee chair John McSwain. One branch of this organization was led by Hallie Flanagan, under whose leadership that branch undertook news reenactments called the \"Living Newspaper,\" series, while another branch of this organization was responsible for producing the American Guide Series. Led, like its predecessor the FERA, by Harry Hopkins, this agency oversaw such programs as the Federal Theater Project and the Writers' Project. Lasting": {
+    "guess": "Works Progress Administration",
+    "confidence": [
+      [
+        "Works",
+        -0.039903805
+      ],
+      [
+        " Progress",
+        -4.3202e-07
+      ],
+      [
+        " Administration",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The existence of this organization was notably opposed by Clifton Woodrum, and a failed amendment proposed by James Byrnes sought to correct what Byrnes saw as the regional unevenness of this organization's financial impact. Funds distributed by this organization were used as leverage by Secretary of War George Dern in an argument with House Military Affairs Committee chair John McSwain. One branch of this organization was led by Hallie Flanagan, under whose leadership that branch undertook news reenactments called the \"Living Newspaper,\" series, while another branch of this organization was responsible for producing the American Guide Series. Led, like its predecessor the FERA, by Harry Hopkins, this agency oversaw such programs as the Federal Theater Project and the Writers' Project. Lasting from its 1935 creation via the Emergency Relief Appropriations act until 1943, for 10 points, identify": {
+    "guess": "Works Progress Administration",
+    "confidence": [
+      [
+        "Works",
+        -0.04629253
+      ],
+      [
+        " Progress",
+        -1.9361265e-07
+      ],
+      [
+        " Administration",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The existence of this organization was notably opposed by Clifton Woodrum, and a failed amendment proposed by James Byrnes sought to correct what Byrnes saw as the regional unevenness of this organization's financial impact. Funds distributed by this organization were used as leverage by Secretary of War George Dern in an argument with House Military Affairs Committee chair John McSwain. One branch of this organization was led by Hallie Flanagan, under whose leadership that branch undertook news reenactments called the \"Living Newspaper,\" series, while another branch of this organization was responsible for producing the American Guide Series. Led, like its predecessor the FERA, by Harry Hopkins, this agency oversaw such programs as the Federal Theater Project and the Writers' Project. Lasting from its 1935 creation via the Emergency Relief Appropriations act until 1943, for 10 points, identify this massive relief and public works program championed by Roosevelt.": {
+    "guess": "Works Progress Administration",
+    "confidence": [
+      [
+        "Works",
+        -0.020799605
+      ],
+      [
+        " Progress",
+        -4.3202e-07
+      ],
+      [
+        " Administration",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The existence of Arnold diffusion in this problem was shown by Zhihong Xia. A theorem first put forth": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6932066
+      ]
+    ]
+  },
+  "The existence of Arnold diffusion in this problem was shown by Zhihong Xia. A theorem first put forth with respect to this problem states that a conformal one-to-one transformation from an annulus to itself": {
+    "guess": "N-body problem",
+    "confidence": [
+      [
+        "N",
+        -1.2317141
+      ],
+      [
+        "-body",
+        -0.003688436
+      ],
+      [
+        " problem",
+        -1.3544423e-05
+      ]
+    ]
+  },
+  "The existence of Arnold diffusion in this problem was shown by Zhihong Xia. A theorem first put forth with respect to this problem states that a conformal one-to-one transformation from an annulus to itself that advances points on the outer edge positively and inner edge negatively has at least two fixed": {
+    "guess": "KAM theorem",
+    "confidence": [
+      [
+        "K",
+        -0.7771832
+      ],
+      [
+        "AM",
+        -0.0012073767
+      ],
+      [
+        " theorem",
+        -0.20305891
+      ]
+    ]
+  },
+  "The existence of Arnold diffusion in this problem was shown by Zhihong Xia. A theorem first put forth with respect to this problem states that a conformal one-to-one transformation from an annulus to itself that advances points on the outer edge positively and inner edge negatively has at least two fixed points. That theorem was proposed by Poincar\u00e9 and proven by Birkhoff. Karl Sundman found a solution": {
+    "guess": "Three-body problem",
+    "confidence": [
+      [
+        "Three",
+        -0.004657019
+      ],
+      [
+        "-body",
+        -5.6769813e-06
+      ],
+      [
+        " problem",
+        -4.604148e-06
+      ]
+    ]
+  },
+  "The existence of Arnold diffusion in this problem was shown by Zhihong Xia. A theorem first put forth with respect to this problem states that a conformal one-to-one transformation from an annulus to itself that advances points on the outer edge positively and inner edge negatively has at least two fixed points. That theorem was proposed by Poincar\u00e9 and proven by Birkhoff. Karl Sundman found a solution to this problem in terms of a uniformly convergent infinite series. Jacobi's work on it yielded": {
+    "guess": "Three-Body Problem",
+    "confidence": [
+      [
+        "Three",
+        -0.0680973
+      ],
+      [
+        "-",
+        -0.0040794704
+      ],
+      [
+        "Body",
+        0.0
+      ],
+      [
+        " Problem",
+        0.0
+      ]
+    ]
+  },
+  "The existence of Arnold diffusion in this problem was shown by Zhihong Xia. A theorem first put forth with respect to this problem states that a conformal one-to-one transformation from an annulus to itself that advances points on the outer edge positively and inner edge negatively has at least two fixed points. That theorem was proposed by Poincar\u00e9 and proven by Birkhoff. Karl Sundman found a solution to this problem in terms of a uniformly convergent infinite series. Jacobi's work on it yielded his namesake integral. One of the first solutions to this problem is applied to the Trojan asteroids": {
+    "guess": "Three-body problem",
+    "confidence": [
+      [
+        "Three",
+        -0.0010112536
+      ],
+      [
+        "-body",
+        -9.901345e-05
+      ],
+      [
+        " problem",
+        -0.0007214877
+      ]
+    ]
+  },
+  "The existence of Arnold diffusion in this problem was shown by Zhihong Xia. A theorem first put forth with respect to this problem states that a conformal one-to-one transformation from an annulus to itself that advances points on the outer edge positively and inner edge negatively has at least two fixed points. That theorem was proposed by Poincar\u00e9 and proven by Birkhoff. Karl Sundman found a solution to this problem in terms of a uniformly convergent infinite series. Jacobi's work on it yielded his namesake integral. One of the first solutions to this problem is applied to the Trojan asteroids located at the Lagrange points of Jupiter. It is often considered in a version where one mass is negligible": {
+    "guess": "Three-body problem",
+    "confidence": [
+      [
+        "Three",
+        -0.0017293256
+      ],
+      [
+        "-body",
+        -3.9411618e-05
+      ],
+      [
+        " problem",
+        -0.0004324573
+      ]
+    ]
+  },
+  "The existence of Arnold diffusion in this problem was shown by Zhihong Xia. A theorem first put forth with respect to this problem states that a conformal one-to-one transformation from an annulus to itself that advances points on the outer edge positively and inner edge negatively has at least two fixed points. That theorem was proposed by Poincar\u00e9 and proven by Birkhoff. Karl Sundman found a solution to this problem in terms of a uniformly convergent infinite series. Jacobi's work on it yielded his namesake integral. One of the first solutions to this problem is applied to the Trojan asteroids located at the Lagrange points of Jupiter. It is often considered in a version where one mass is negligible and all masses are moving in the same plane, which is the circular restricted version. For": {
+    "guess": "N-body problem",
+    "confidence": [
+      [
+        "N",
+        -0.9189721
+      ],
+      [
+        "-body",
+        -0.07108747
+      ],
+      [
+        " problem",
+        -0.179774
+      ]
+    ]
+  },
+  "The existence of Arnold diffusion in this problem was shown by Zhihong Xia. A theorem first put forth with respect to this problem states that a conformal one-to-one transformation from an annulus to itself that advances points on the outer edge positively and inner edge negatively has at least two fixed points. That theorem was proposed by Poincar\u00e9 and proven by Birkhoff. Karl Sundman found a solution to this problem in terms of a uniformly convergent infinite series. Jacobi's work on it yielded his namesake integral. One of the first solutions to this problem is applied to the Trojan asteroids located at the Lagrange points of Jupiter. It is often considered in a version where one mass is negligible and all masses are moving in the same plane, which is the circular restricted version. For 10 points, name this unsolved problem first considered by Newton with respect to the movement of the": {
+    "guess": "Three-body problem",
+    "confidence": [
+      [
+        "Three",
+        -0.0005215776
+      ],
+      [
+        "-body",
+        -2.188868e-05
+      ],
+      [
+        " problem",
+        -0.0010786605
+      ]
+    ]
+  },
+  "The existence of Arnold diffusion in this problem was shown by Zhihong Xia. A theorem first put forth with respect to this problem states that a conformal one-to-one transformation from an annulus to itself that advances points on the outer edge positively and inner edge negatively has at least two fixed points. That theorem was proposed by Poincar\u00e9 and proven by Birkhoff. Karl Sundman found a solution to this problem in terms of a uniformly convergent infinite series. Jacobi's work on it yielded his namesake integral. One of the first solutions to this problem is applied to the Trojan asteroids located at the Lagrange points of Jupiter. It is often considered in a version where one mass is negligible and all masses are moving in the same plane, which is the circular restricted version. For 10 points, name this unsolved problem first considered by Newton with respect to the movement of the Moon under the influences of the Sun and Earth.": {
+    "guess": "Three-body problem",
+    "confidence": [
+      [
+        "Three",
+        -0.00053957006
+      ],
+      [
+        "-body",
+        -1.2113979e-05
+      ],
+      [
+        " problem",
+        -0.0005645882
+      ]
+    ]
+  },
+  "It existed from the beginning in the North, in endless cold and  ever-lasting night. It was ruled over": {
+    "guess": "Niflheim",
+    "confidence": [
+      [
+        "N",
+        -0.004701988
+      ],
+      [
+        "ifl",
+        -3.1737043e-06
+      ],
+      [
+        "heim",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "It existed from the beginning in the North, in endless cold and  ever-lasting night. It was ruled over by Hela, and in its center  was the well Hvergelmir, from which twelve rivers flowed. Unlike  Valhalla,": {
+    "guess": "Niflheim",
+    "confidence": [
+      [
+        "N",
+        -0.0060558286
+      ],
+      [
+        "ifl",
+        -1.2352386e-05
+      ],
+      [
+        "heim",
+        -0.0008046258
+      ]
+    ]
+  },
+  "It existed from the beginning in the North, in endless cold and  ever-lasting night. It was ruled over by Hela, and in its center  was the well Hvergelmir, from which twelve rivers flowed. Unlike  Valhalla, the home of fallen warriors, this region received all  those who died of disease or old age. For": {
+    "guess": "Niflheim",
+    "confidence": [
+      [
+        "N",
+        -0.039228678
+      ],
+      [
+        "ifl",
+        -1.5928495e-05
+      ],
+      [
+        "heim",
+        -0.0011704603
+      ]
+    ]
+  },
+  "It existed from the beginning in the North, in endless cold and  ever-lasting night. It was ruled over by Hela, and in its center  was the well Hvergelmir, from which twelve rivers flowed. Unlike  Valhalla, the home of fallen warriors, this region received all  those who died of disease or old age. For ten points, name this  realm of Norse mythology.": {
+    "guess": "Hel",
+    "confidence": [
+      [
+        "Hel",
+        -0.22679792
+      ]
+    ]
+  },
+  "Its existence was originally theorized in 1932 by Estonian astronomer Ernst \u00d6pik. The theory was revised": {
+    "guess": "Oort cloud",
+    "confidence": [
+      [
+        "O",
+        -0.032946374
+      ],
+      [
+        "ort",
+        -1.6240566e-06
+      ],
+      [
+        " cloud",
+        -0.0008046258
+      ]
+    ]
+  },
+  "Its existence was originally theorized in 1932 by Estonian astronomer Ernst \u00d6pik. The theory was revised and proposed again by the namesake Dutch astronomer to explain the continued presence of comets": {
+    "guess": "Oort cloud",
+    "confidence": [
+      [
+        "O",
+        -0.005686311
+      ],
+      [
+        "ort",
+        0.0
+      ],
+      [
+        " cloud",
+        -0.005928797
+      ]
+    ]
+  },
+  "Its existence was originally theorized in 1932 by Estonian astronomer Ernst \u00d6pik. The theory was revised and proposed again by the namesake Dutch astronomer to explain the continued presence of comets in the solar system despite each comet being destroyed after several journeys through the inner solar": {
+    "guess": "Oort cloud",
+    "confidence": [
+      [
+        "O",
+        -0.012846064
+      ],
+      [
+        "ort",
+        0.0
+      ],
+      [
+        " cloud",
+        -0.023253169
+      ]
+    ]
+  },
+  "Its existence was originally theorized in 1932 by Estonian astronomer Ernst \u00d6pik. The theory was revised and proposed again by the namesake Dutch astronomer to explain the continued presence of comets in the solar system despite each comet being destroyed after several journeys through the inner solar system. This group of comets is situated roughly one light year from the Sun. FTP, name this grouping": {
+    "guess": "Oort cloud",
+    "confidence": [
+      [
+        "O",
+        -0.00771239
+      ],
+      [
+        "ort",
+        0.0
+      ],
+      [
+        " cloud",
+        -0.0040789973
+      ]
+    ]
+  },
+  "Its existence was originally theorized in 1932 by Estonian astronomer Ernst \u00d6pik. The theory was revised and proposed again by the namesake Dutch astronomer to explain the continued presence of comets in the solar system despite each comet being destroyed after several journeys through the inner solar system. This group of comets is situated roughly one light year from the Sun. FTP, name this grouping of comets that is believed to be the source of most of or all comets that enter the inner solar": {
+    "guess": "Oort cloud",
+    "confidence": [
+      [
+        "O",
+        -0.0015222414
+      ],
+      [
+        "ort",
+        0.0
+      ],
+      [
+        " cloud",
+        -0.0040786397
+      ]
+    ]
+  },
+  "Its existence was originally theorized in 1932 by Estonian astronomer Ernst \u00d6pik. The theory was revised and proposed again by the namesake Dutch astronomer to explain the continued presence of comets in the solar system despite each comet being destroyed after several journeys through the inner solar system. This group of comets is situated roughly one light year from the Sun. FTP, name this grouping of comets that is believed to be the source of most of or all comets that enter the inner solar system.": {
+    "guess": "Oort cloud",
+    "confidence": [
+      [
+        "O",
+        -0.004108677
+      ],
+      [
+        "ort",
+        0.0
+      ],
+      [
+        " cloud",
+        -0.0024757776
+      ]
+    ]
+  },
+  "It exists because the metric tensor has a covariant derivative of zero; therefore it is also a candidate": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.49672133
+      ]
+    ]
+  },
+  "It exists because the metric tensor has a covariant derivative of zero; therefore it is also a candidate to appear in the metric part of Einstein's field equation. In the weak field approximation, it is": {
+    "guess": "Stress\u2013energy tensor",
+    "confidence": [
+      [
+        "Stress",
+        -0.8330447
+      ],
+      [
+        "\u2013",
+        -0.47426572
+      ],
+      [
+        "energy",
+        -2.1531068e-05
+      ],
+      [
+        " tensor",
+        -0.0013857128
+      ]
+    ]
+  },
+  "It exists because the metric tensor has a covariant derivative of zero; therefore it is also a candidate to appear in the metric part of Einstein's field equation. In the weak field approximation, it is proportional to a constant mass density throughout all space. Normally set to zero in planetary and": {
+    "guess": "Cosmological constant",
+    "confidence": [
+      [
+        "Cos",
+        -0.46483046
+      ],
+      [
+        "m",
+        -1.9361265e-07
+      ],
+      [
+        "ological",
+        0.0
+      ],
+      [
+        " constant",
+        -0.0006301135
+      ]
+    ]
+  },
+  "It exists because the metric tensor has a covariant derivative of zero; therefore it is also a candidate to appear in the metric part of Einstein's field equation. In the weak field approximation, it is proportional to a constant mass density throughout all space. Normally set to zero in planetary and galactic situations, FTP, what is this quantity, denoted by a capital lambda, which Einstein called": {
+    "guess": "Cosmological constant",
+    "confidence": [
+      [
+        "Cos",
+        -0.003663849
+      ],
+      [
+        "m",
+        0.0
+      ],
+      [
+        "ological",
+        0.0
+      ],
+      [
+        " constant",
+        -0.05488454
+      ]
+    ]
+  },
+  "It exists because the metric tensor has a covariant derivative of zero; therefore it is also a candidate to appear in the metric part of Einstein's field equation. In the weak field approximation, it is proportional to a constant mass density throughout all space. Normally set to zero in planetary and galactic situations, FTP, what is this quantity, denoted by a capital lambda, which Einstein called \"the biggest blunder of my life\"?": {
+    "guess": "Cosmological constant",
+    "confidence": [
+      [
+        "Cos",
+        -0.009054842
+      ],
+      [
+        "m",
+        0.0
+      ],
+      [
+        "ological",
+        0.0
+      ],
+      [
+        " constant",
+        -0.0003392767
+      ]
+    ]
+  },
+  "After his exile, he lived with his son-in-law at Tusculum and was wounded in battle at Lake Regillus.": {
+    "guess": "Tarquinius Superbus",
+    "confidence": [
+      [
+        "T",
+        -0.6426619
+      ],
+      [
+        "arqu",
+        -0.000115701965
+      ],
+      [
+        "inius",
+        -4.723352e-06
+      ],
+      [
+        " Super",
+        -1.504853e-06
+      ],
+      [
+        "bus",
+        0.0
+      ]
+    ]
+  },
+  "After his exile, he lived with his son-in-law at Tusculum and was wounded in battle at Lake Regillus. Both he and his brother Aruns were married to women named Tullia, the daughters of Servius Tullius,": {
+    "guess": "Lucius Tarquinius Superbus",
+    "confidence": [
+      [
+        "Luc",
+        -0.100722015
+      ],
+      [
+        "ius",
+        0.0
+      ],
+      [
+        " Tar",
+        -1.4855664e-05
+      ],
+      [
+        "qu",
+        -0.00023059595
+      ],
+      [
+        "inius",
+        -1.6240566e-06
+      ],
+      [
+        " Super",
+        -1.6240566e-06
+      ],
+      [
+        "bus",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "After his exile, he lived with his son-in-law at Tusculum and was wounded in battle at Lake Regillus. Both he and his brother Aruns were married to women named Tullia, the daughters of Servius Tullius, but his sister-in-law arranged for the murders of her husband and his wife and married this man, who": {
+    "guess": "Lucius Tarquinius Superbus",
+    "confidence": [
+      [
+        "Luc",
+        -0.13059294
+      ],
+      [
+        "ius",
+        0.0
+      ],
+      [
+        " Tar",
+        -2.220075e-06
+      ],
+      [
+        "qu",
+        -0.00015848507
+      ],
+      [
+        "inius",
+        -1.7432603e-06
+      ],
+      [
+        " Super",
+        -1.2664457e-06
+      ],
+      [
+        "bus",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "After his exile, he lived with his son-in-law at Tusculum and was wounded in battle at Lake Regillus. Both he and his brother Aruns were married to women named Tullia, the daughters of Servius Tullius, but his sister-in-law arranged for the murders of her husband and his wife and married this man, who received his nickname by disregarding the Senate as he fought the Gabini and Volsci. FTP, identify": {
+    "guess": "Lucius Tarquinius Superbus",
+    "confidence": [
+      [
+        "Luc",
+        -0.075968914
+      ],
+      [
+        "ius",
+        0.0
+      ],
+      [
+        " Tar",
+        -1.3856493e-06
+      ],
+      [
+        "qu",
+        -9.615256e-05
+      ],
+      [
+        "inius",
+        -2.3392786e-06
+      ],
+      [
+        " Super",
+        -2.4584822e-06
+      ],
+      [
+        "bus",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "After his exile, he lived with his son-in-law at Tusculum and was wounded in battle at Lake Regillus. Both he and his brother Aruns were married to women named Tullia, the daughters of Servius Tullius, but his sister-in-law arranged for the murders of her husband and his wife and married this man, who received his nickname by disregarding the Senate as he fought the Gabini and Volsci. FTP, identify this ruler of Rome, whose son Sextus ravished Lucretia, and who, upon his expulsion by the people in": {
+    "guess": "Tarquin the Proud",
+    "confidence": [
+      [
+        "Tar",
+        -0.06844258
+      ],
+      [
+        "quin",
+        -1.2664457e-06
+      ],
+      [
+        " the",
+        -1.504853e-06
+      ],
+      [
+        " Proud",
+        0.0
+      ]
+    ]
+  },
+  "After his exile, he lived with his son-in-law at Tusculum and was wounded in battle at Lake Regillus. Both he and his brother Aruns were married to women named Tullia, the daughters of Servius Tullius, but his sister-in-law arranged for the murders of her husband and his wife and married this man, who received his nickname by disregarding the Senate as he fought the Gabini and Volsci. FTP, identify this ruler of Rome, whose son Sextus ravished Lucretia, and who, upon his expulsion by the people in 510 BC, became the last king of Rome.": {
+    "guess": "Lucius Tarquinius Superbus",
+    "confidence": [
+      [
+        "Luc",
+        -0.6059576
+      ],
+      [
+        "ius",
+        0.0
+      ],
+      [
+        " Tar",
+        -5.5577775e-06
+      ],
+      [
+        "qu",
+        -0.00015848507
+      ],
+      [
+        "inius",
+        -3.650519e-06
+      ],
+      [
+        " Super",
+        -2.4584822e-06
+      ],
+      [
+        "bus",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "While exiled to Suma, this novel's protagonist seduces the daughter of a rich man, and the result is": {
+    "guess": "The Tale of Genji",
+    "confidence": [
+      [
+        "The",
+        -0.13151813
+      ],
+      [
+        " Tale",
+        -0.00018053775
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Gen",
+        -5.5122365e-07
+      ],
+      [
+        "ji",
+        0.0
+      ]
+    ]
+  },
+  "While exiled to Suma, this novel's protagonist seduces the daughter of a rich man, and the result is his only daughter. One chapter, left blank, is titled \"Vanished into the Clouds,\" marking the protagonist's": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.078976266
+      ]
+    ]
+  },
+  "While exiled to Suma, this novel's protagonist seduces the daughter of a rich man, and the result is his only daughter. One chapter, left blank, is titled \"Vanished into the Clouds,\" marking the protagonist's death, while the last ten chapters take place at Uji and concern Kaoru, the \"son\" of the protagonist,": {
+    "guess": "The Tale of Genji",
+    "confidence": [
+      [
+        "The",
+        -0.0019314934
+      ],
+      [
+        " Tale",
+        -7.89631e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Gen",
+        0.0
+      ],
+      [
+        "ji",
+        0.0
+      ]
+    ]
+  },
+  "While exiled to Suma, this novel's protagonist seduces the daughter of a rich man, and the result is his only daughter. One chapter, left blank, is titled \"Vanished into the Clouds,\" marking the protagonist's death, while the last ten chapters take place at Uji and concern Kaoru, the \"son\" of the protagonist, who loves the same woman as his friend Niou. The title prince is married to Lady Aoi, but": {
+    "guess": "The Tale of Genji",
+    "confidence": [
+      [
+        "The",
+        -0.6931571
+      ],
+      [
+        " Tale",
+        -3.1281633e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Gen",
+        0.0
+      ],
+      [
+        "ji",
+        0.0
+      ]
+    ]
+  },
+  "While exiled to Suma, this novel's protagonist seduces the daughter of a rich man, and the result is his only daughter. One chapter, left blank, is titled \"Vanished into the Clouds,\" marking the protagonist's death, while the last ten chapters take place at Uji and concern Kaoru, the \"son\" of the protagonist, who loves the same woman as his friend Niou. The title prince is married to Lady Aoi, but has numerous affairs with other women of the court. FTP, name this Heian-age novel by Lady Murasaki.": {
+    "guess": "The Tale of Genji",
+    "confidence": [
+      [
+        "The",
+        -0.0052361256
+      ],
+      [
+        " Tale",
+        -6.704273e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Gen",
+        0.0
+      ],
+      [
+        "ji",
+        0.0
+      ]
+    ]
+  },
+  "Their existence is vehemently denied by a group known as the  autodynamicists, who call them \"the ether": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.06718483
+      ]
+    ]
+  },
+  "Their existence is vehemently denied by a group known as the  autodynamicists, who call them \"the ether of the 20th century.\"  Cowan and Reines managed to detect their unmistakable signature in  1956,": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -0.0001659949
+      ],
+      [
+        "utr",
+        -1.0445127e-05
+      ],
+      [
+        "ino",
+        -0.029750485
+      ]
+    ]
+  },
+  "Their existence is vehemently denied by a group known as the  autodynamicists, who call them \"the ether of the 20th century.\"  Cowan and Reines managed to detect their unmistakable signature in  1956, an difficult task because they because they only interact  with matter via the weak force. This finally": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -0.0052968427
+      ],
+      [
+        "utr",
+        -1.6882126e-05
+      ],
+      [
+        "ino",
+        -0.0011702254
+      ]
+    ]
+  },
+  "Their existence is vehemently denied by a group known as the  autodynamicists, who call them \"the ether of the 20th century.\"  Cowan and Reines managed to detect their unmistakable signature in  1956, an difficult task because they because they only interact  with matter via the weak force. This finally confirmed a  hypothesis advanced 25 years earlier by Wolfgang Pauli. FTP, name  this nearly massless": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -4.298773e-05
+      ],
+      [
+        "utr",
+        -5.5122365e-07
+      ],
+      [
+        "ino",
+        -0.0011702254
+      ]
+    ]
+  },
+  "Their existence is vehemently denied by a group known as the  autodynamicists, who call them \"the ether of the 20th century.\"  Cowan and Reines managed to detect their unmistakable signature in  1956, an difficult task because they because they only interact  with matter via the weak force. This finally confirmed a  hypothesis advanced 25 years earlier by Wolfgang Pauli. FTP, name  this nearly massless particle emitted in nuclear decays.": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -0.043067817
+      ],
+      [
+        "utr",
+        -1.504853e-06
+      ],
+      [
+        "ino",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "There exist chiral, countercurrent, simulated moving-bed, and reversed- phase versions of this scientific": {
+    "guess": "Chromatography",
+    "confidence": [
+      [
+        "Chrom",
+        -8.625866e-05
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ography",
+        0.0
+      ]
+    ]
+  },
+  "There exist chiral, countercurrent, simulated moving-bed, and reversed- phase versions of this scientific technique. More common varieties include the gas type, which uses a detector, a carrier gas, and": {
+    "guess": "Chromatography",
+    "confidence": [
+      [
+        "Chrom",
+        -0.2586124
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ography",
+        0.0
+      ]
+    ]
+  },
+  "There exist chiral, countercurrent, simulated moving-bed, and reversed- phase versions of this scientific technique. More common varieties include the gas type, which uses a detector, a carrier gas, and a column, the size- exclusion type in  which larger molecules avoid pores in the stationary phase,": {
+    "guess": "Chromatography",
+    "confidence": [
+      [
+        "Chrom",
+        -5.0020742e-05
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ography",
+        0.0
+      ]
+    ]
+  },
+  "There exist chiral, countercurrent, simulated moving-bed, and reversed- phase versions of this scientific technique. More common varieties include the gas type, which uses a detector, a carrier gas, and a column, the size- exclusion type in  which larger molecules avoid pores in the stationary phase, and the thin-layer type, which relies on capillary action. The paper variety of this technique is often": {
+    "guess": "Chromatography",
+    "confidence": [
+      [
+        "Chrom",
+        -0.0017205193
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ography",
+        0.0
+      ]
+    ]
+  },
+  "There exist chiral, countercurrent, simulated moving-bed, and reversed- phase versions of this scientific technique. More common varieties include the gas type, which uses a detector, a carrier gas, and a column, the size- exclusion type in  which larger molecules avoid pores in the stationary phase, and the thin-layer type, which relies on capillary action. The paper variety of this technique is often used to separate pigments, and along with the thin-layer variety, calls for the calculation of": {
+    "guess": "Chromatography",
+    "confidence": [
+      [
+        "Chrom",
+        -0.004968205
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ography",
+        0.0
+      ]
+    ]
+  },
+  "There exist chiral, countercurrent, simulated moving-bed, and reversed- phase versions of this scientific technique. More common varieties include the gas type, which uses a detector, a carrier gas, and a column, the size- exclusion type in  which larger molecules avoid pores in the stationary phase, and the thin-layer type, which relies on capillary action. The paper variety of this technique is often used to separate pigments, and along with the thin-layer variety, calls for the calculation of Rf values. FTP, name this technique for separating the parts of a mixture that commonly employs both": {
+    "guess": "Chromatography",
+    "confidence": [
+      [
+        "Chrom",
+        -0.00043341093
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ography",
+        0.0
+      ]
+    ]
+  },
+  "There exist chiral, countercurrent, simulated moving-bed, and reversed- phase versions of this scientific technique. More common varieties include the gas type, which uses a detector, a carrier gas, and a column, the size- exclusion type in  which larger molecules avoid pores in the stationary phase, and the thin-layer type, which relies on capillary action. The paper variety of this technique is often used to separate pigments, and along with the thin-layer variety, calls for the calculation of Rf values. FTP, name this technique for separating the parts of a mixture that commonly employs both  stationary and mobile phases.": {
+    "guess": "Chromatography",
+    "confidence": [
+      [
+        "Chrom",
+        -0.00018149138
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ography",
+        0.0
+      ]
+    ]
+  }
+}

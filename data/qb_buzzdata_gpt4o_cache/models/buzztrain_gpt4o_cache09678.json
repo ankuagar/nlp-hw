@@ -1,0 +1,51 @@
+{
+  "The Zeisel test can be used to detect them, and the compound THF is a very polar example of  one. The": {
+    "guess": "Ethers",
+    "confidence": [
+      [
+        "E",
+        -0.6957404
+      ],
+      [
+        "thers",
+        -4.036525e-05
+      ]
+    ]
+  },
+  "The Zeisel test can be used to detect them, and the compound THF is a very polar example of  one. The \"crown\" varieties are cyclic and can be used as solvents in Grignard reagents due to  their low reactivity.": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.002147643
+      ]
+    ]
+  },
+  "The Zeisel test can be used to detect them, and the compound THF is a very polar example of  one. The \"crown\" varieties are cyclic and can be used as solvents in Grignard reagents due to  their low reactivity. These compounds can be produced by the Williamson synthesis or by the  dehydration of alcohols.": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.0011468872
+      ]
+    ]
+  },
+  "The Zeisel test can be used to detect them, and the compound THF is a very polar example of  one. The \"crown\" varieties are cyclic and can be used as solvents in Grignard reagents due to  their low reactivity. These compounds can be produced by the Williamson synthesis or by the  dehydration of alcohols. For 10 points, identify these chemical compounds, characterized by two  alkyl groups single bonded": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.0015065284
+      ]
+    ]
+  },
+  "The Zeisel test can be used to detect them, and the compound THF is a very polar example of  one. The \"crown\" varieties are cyclic and can be used as solvents in Grignard reagents due to  their low reactivity. These compounds can be produced by the Williamson synthesis or by the  dehydration of alcohols. For 10 points, identify these chemical compounds, characterized by two  alkyl groups single bonded to an oxygen, whose diethyl version used to be used as an anesthetic.": {
+    "guess": "Ether",
+    "confidence": [
+      [
+        "Ether",
+        -0.00060474145
+      ]
+    ]
+  }
+}

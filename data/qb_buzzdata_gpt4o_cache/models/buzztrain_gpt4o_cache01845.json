@@ -1,0 +1,97 @@
+{
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of": {
+    "guess": "Melting point",
+    "confidence": [
+      [
+        "Mel",
+        -0.029898131
+      ],
+      [
+        "ting",
+        -1.9361265e-07
+      ],
+      [
+        " point",
+        -0.0003867014
+      ]
+    ]
+  },
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of its substituents. Clarence Birdseye developed a technology that induces this process in certain substances.": {
+    "guess": "Freezing",
+    "confidence": [
+      [
+        "Free",
+        -0.00048310417
+      ],
+      [
+        "zing",
+        0.0
+      ]
+    ]
+  },
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of its substituents. Clarence Birdseye developed a technology that induces this process in certain substances. Most substances perform this transition through crystallization of their molecules, and amorphous": {
+    "guess": "Freezing",
+    "confidence": [
+      [
+        "Free",
+        -8.900034e-05
+      ],
+      [
+        "zing",
+        0.0
+      ]
+    ]
+  },
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of its substituents. Clarence Birdseye developed a technology that induces this process in certain substances. Most substances perform this transition through crystallization of their molecules, and amorphous substances do so without forming regular structures. Supercooled substances have not undergone": {
+    "guess": "Freezing",
+    "confidence": [
+      [
+        "Free",
+        -0.00035310065
+      ],
+      [
+        "zing",
+        0.0
+      ]
+    ]
+  },
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of its substituents. Clarence Birdseye developed a technology that induces this process in certain substances. Most substances perform this transition through crystallization of their molecules, and amorphous substances do so without forming regular structures. Supercooled substances have not undergone this transition but are under the appropriate conditions to do so. Water notably expands when it": {
+    "guess": "Freezing",
+    "confidence": [
+      [
+        "Free",
+        -0.0011418844
+      ],
+      [
+        "zing",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of its substituents. Clarence Birdseye developed a technology that induces this process in certain substances. Most substances perform this transition through crystallization of their molecules, and amorphous substances do so without forming regular structures. Supercooled substances have not undergone this transition but are under the appropriate conditions to do so. Water notably expands when it undergoes this process. For 10 points, name this phase transition from a liquid to a solid, which for": {
+    "guess": "Freezing",
+    "confidence": [
+      [
+        "Free",
+        -0.0003737119
+      ],
+      [
+        "zing",
+        0.0
+      ]
+    ]
+  },
+  "A eutectic system consists of a mixture that performs this process at a lower temperature than each of its substituents. Clarence Birdseye developed a technology that induces this process in certain substances. Most substances perform this transition through crystallization of their molecules, and amorphous substances do so without forming regular structures. Supercooled substances have not undergone this transition but are under the appropriate conditions to do so. Water notably expands when it undergoes this process. For 10 points, name this phase transition from a liquid to a solid, which for water occurs at zero degrees Celsius.": {
+    "guess": "Freezing",
+    "confidence": [
+      [
+        "Free",
+        -0.00038753584
+      ],
+      [
+        "zing",
+        0.0
+      ]
+    ]
+  }
+}

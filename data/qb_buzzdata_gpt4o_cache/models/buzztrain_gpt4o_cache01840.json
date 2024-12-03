@@ -1,0 +1,180 @@
+{
+  "The Euler (\"OIL-er\") line passes through the orthocenter (\"OR-tho-SEN-ter\"), circumcenter, and centroid": {
+    "guess": "Euler line",
+    "confidence": [
+      [
+        "Euler",
+        -0.31522942
+      ],
+      [
+        " line",
+        -0.00023286081
+      ]
+    ]
+  },
+  "The Euler (\"OIL-er\") line passes through the orthocenter (\"OR-tho-SEN-ter\"), circumcenter, and centroid (\"SEN-troyd\") in this figure. The area of this polygon can be found by halving the product of two": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.40462458
+      ]
+    ]
+  },
+  "The Euler (\"OIL-er\") line passes through the orthocenter (\"OR-tho-SEN-ter\"), circumcenter, and centroid (\"SEN-troyd\") in this figure. The area of this polygon can be found by halving the product of two sides and the sine of the angle opposite of the third side or by simply using Heron's formula. It is": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.014213106
+      ]
+    ]
+  },
+  "The Euler (\"OIL-er\") line passes through the orthocenter (\"OR-tho-SEN-ter\"), circumcenter, and centroid (\"SEN-troyd\") in this figure. The area of this polygon can be found by halving the product of two sides and the sine of the angle opposite of the third side or by simply using Heron's formula. It is the only polygon that cannot be concave, because its angles must add to 180 degrees. For 10 points,": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.00043424533
+      ]
+    ]
+  },
+  "The Euler (\"OIL-er\") line passes through the orthocenter (\"OR-tho-SEN-ter\"), circumcenter, and centroid (\"SEN-troyd\") in this figure. The area of this polygon can be found by halving the product of two sides and the sine of the angle opposite of the third side or by simply using Heron's formula. It is the only polygon that cannot be concave, because its angles must add to 180 degrees. For 10 points, name this polygon with three sides.": {
+    "guess": "Triangle",
+    "confidence": [
+      [
+        "Triangle",
+        -0.25195298
+      ]
+    ]
+  },
+  "In Euler's formula, this function is multiplied by i. This function's namesake wave is integral to Fourier": {
+    "guess": "Sine function",
+    "confidence": [
+      [
+        "S",
+        -0.17020795
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " function",
+        -0.050864525
+      ]
+    ]
+  },
+  "In Euler's formula, this function is multiplied by i. This function's namesake wave is integral to Fourier analysis and represents constant, periodic oscillations. On the unit circle, this function is": {
+    "guess": "Sine function",
+    "confidence": [
+      [
+        "S",
+        -0.15276416
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " function",
+        -0.24599169
+      ]
+    ]
+  },
+  "In Euler's formula, this function is multiplied by i. This function's namesake wave is integral to Fourier analysis and represents constant, periodic oscillations. On the unit circle, this function is positive in the first and second quadrants. Additionally, this function is used to represent the y-value": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.2208532
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "In Euler's formula, this function is multiplied by i. This function's namesake wave is integral to Fourier analysis and represents constant, periodic oscillations. On the unit circle, this function is positive in the first and second quadrants. Additionally, this function is used to represent the y-value of a unit circle arc. For 10 points, identify this trigonometric function that is the inverse of": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.018347766
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "In Euler's formula, this function is multiplied by i. This function's namesake wave is integral to Fourier analysis and represents constant, periodic oscillations. On the unit circle, this function is positive in the first and second quadrants. Additionally, this function is used to represent the y-value of a unit circle arc. For 10 points, identify this trigonometric function that is the inverse of cosecant and, for a right triangle, gives the ratio of the opposite side over the hypotenuse.": {
+    "guess": "Sine",
+    "confidence": [
+      [
+        "S",
+        -0.0002421587
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "Eulogized by Henry Longfellow, Matthew Arnold, and William Morris, he's often seen as a sign of Chrisitan": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5466778
+      ]
+    ]
+  },
+  "Eulogized by Henry Longfellow, Matthew Arnold, and William Morris, he's often seen as a sign of Chrisitan influence. One legend his him killed in a lovers' quarrel by the sword of Miming, but the better": {
+    "guess": "Beowulf",
+    "confidence": [
+      [
+        "Be",
+        -0.85207933
+      ],
+      [
+        "ow",
+        -3.650519e-06
+      ],
+      [
+        "ulf",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Eulogized by Henry Longfellow, Matthew Arnold, and William Morris, he's often seen as a sign of Chrisitan influence. One legend his him killed in a lovers' quarrel by the sword of Miming, but the better known one has this denizen of Breidhablik in Asgard slain by an arrow armed with mistletoe. FTP identify": {
+    "guess": "Baldur",
+    "confidence": [
+      [
+        "B",
+        -0.6944875
+      ],
+      [
+        "ald",
+        -1.147242e-06
+      ],
+      [
+        "ur",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Eulogized by Henry Longfellow, Matthew Arnold, and William Morris, he's often seen as a sign of Chrisitan influence. One legend his him killed in a lovers' quarrel by the sword of Miming, but the better known one has this denizen of Breidhablik in Asgard slain by an arrow armed with mistletoe. FTP identify this Norse deity, the god of light, purity, and \"the good.\"": {
+    "guess": "Baldr",
+    "confidence": [
+      [
+        "Bal",
+        -0.01194982
+      ],
+      [
+        "dr",
+        -5.5122365e-07
+      ]
+    ]
+  }
+}

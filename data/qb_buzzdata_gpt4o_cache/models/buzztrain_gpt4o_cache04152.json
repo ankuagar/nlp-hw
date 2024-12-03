@@ -1,0 +1,165 @@
+{
+  "The Kutta-Joukowski theorem is derived from this result, and Ludwig Prandtl used Euler's equation to": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.6433428
+      ],
+      [
+        ".",
+        -0.4740937
+      ]
+    ]
+  },
+  "The Kutta-Joukowski theorem is derived from this result, and Ludwig Prandtl used Euler's equation to expand it to non-ideal states. Pitot tubes measure velocity and are based on this result, and the Venturi": {
+    "guess": "Bernoulli's principle",
+    "confidence": [
+      [
+        "Bern",
+        -0.000103662394
+      ],
+      [
+        "ou",
+        0.0
+      ],
+      [
+        "lli",
+        0.0
+      ],
+      [
+        "'s",
+        -3.7697225e-06
+      ],
+      [
+        " principle",
+        -7.326546e-05
+      ]
+    ]
+  },
+  "The Kutta-Joukowski theorem is derived from this result, and Ludwig Prandtl used Euler's equation to expand it to non-ideal states. Pitot tubes measure velocity and are based on this result, and the Venturi Effect is essentially an expression of this law for an incompressible fluid bottlenecked in a": {
+    "guess": "Bernoulli's principle",
+    "confidence": [
+      [
+        "Bern",
+        -2.808727e-05
+      ],
+      [
+        "ou",
+        0.0
+      ],
+      [
+        "lli",
+        0.0
+      ],
+      [
+        "'s",
+        -1.2664457e-06
+      ],
+      [
+        " principle",
+        -3.4762674e-05
+      ]
+    ]
+  },
+  "The Kutta-Joukowski theorem is derived from this result, and Ludwig Prandtl used Euler's equation to expand it to non-ideal states. Pitot tubes measure velocity and are based on this result, and the Venturi Effect is essentially an expression of this law for an incompressible fluid bottlenecked in a pipe. During a hurricane, windows tend to explode outwards than inwards because of this. Due to the": {
+    "guess": "Bernoulli's principle",
+    "confidence": [
+      [
+        "Bern",
+        -0.00027921272
+      ],
+      [
+        "ou",
+        0.0
+      ],
+      [
+        "lli",
+        0.0
+      ],
+      [
+        "'s",
+        -1.504853e-06
+      ],
+      [
+        " principle",
+        -1.2590794e-05
+      ]
+    ]
+  },
+  "The Kutta-Joukowski theorem is derived from this result, and Ludwig Prandtl used Euler's equation to expand it to non-ideal states. Pitot tubes measure velocity and are based on this result, and the Venturi Effect is essentially an expression of this law for an incompressible fluid bottlenecked in a pipe. During a hurricane, windows tend to explode outwards than inwards because of this. Due to the conservation of energy, an increase in kinetic energy necessarily causes a decrease in pressure energy.": {
+    "guess": "Bernoulli's principle",
+    "confidence": [
+      [
+        "Bern",
+        -7.946405e-05
+      ],
+      [
+        "ou",
+        0.0
+      ],
+      [
+        "lli",
+        0.0
+      ],
+      [
+        "'s",
+        -2.1008714e-06
+      ],
+      [
+        " principle",
+        -2.451116e-05
+      ]
+    ]
+  },
+  "The Kutta-Joukowski theorem is derived from this result, and Ludwig Prandtl used Euler's equation to expand it to non-ideal states. Pitot tubes measure velocity and are based on this result, and the Venturi Effect is essentially an expression of this law for an incompressible fluid bottlenecked in a pipe. During a hurricane, windows tend to explode outwards than inwards because of this. Due to the conservation of energy, an increase in kinetic energy necessarily causes a decrease in pressure energy. For 10 points, name this principle, named after a Swiss mathematician, which explains the lift which": {
+    "guess": "Bernoulli's principle",
+    "confidence": [
+      [
+        "Bern",
+        -0.000562327
+      ],
+      [
+        "ou",
+        0.0
+      ],
+      [
+        "lli",
+        0.0
+      ],
+      [
+        "'s",
+        -1.6240566e-06
+      ],
+      [
+        " principle",
+        -1.3186812e-05
+      ]
+    ]
+  },
+  "The Kutta-Joukowski theorem is derived from this result, and Ludwig Prandtl used Euler's equation to expand it to non-ideal states. Pitot tubes measure velocity and are based on this result, and the Venturi Effect is essentially an expression of this law for an incompressible fluid bottlenecked in a pipe. During a hurricane, windows tend to explode outwards than inwards because of this. Due to the conservation of energy, an increase in kinetic energy necessarily causes a decrease in pressure energy. For 10 points, name this principle, named after a Swiss mathematician, which explains the lift which allows airplanes to operate.": {
+    "guess": "Bernoulli's principle",
+    "confidence": [
+      [
+        "Bern",
+        -0.0005556552
+      ],
+      [
+        "ou",
+        0.0
+      ],
+      [
+        "lli",
+        0.0
+      ],
+      [
+        "'s",
+        -1.504853e-06
+      ],
+      [
+        " principle",
+        -9.372295e-06
+      ]
+    ]
+  }
+}

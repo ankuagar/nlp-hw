@@ -1,0 +1,522 @@
+{
+  "The Cry of Ipiranga declared this country's independence, and its Golden Law freed slaves under Dom Pedro": {
+    "guess": "Brazil",
+    "confidence": [
+      [
+        "Brazil",
+        -0.00980154
+      ]
+    ]
+  },
+  "The Cry of Ipiranga declared this country's independence, and its Golden Law freed slaves under Dom Pedro II. Juscelino Kubitschek began to build its capital, designed largely by Oscar Niemeyer. It joined": {
+    "guess": "Brazil",
+    "confidence": [
+      [
+        "Brazil",
+        -0.48463887
+      ]
+    ]
+  },
+  "The Cry of Ipiranga declared this country's independence, and its Golden Law freed slaves under Dom Pedro II. Juscelino Kubitschek began to build its capital, designed largely by Oscar Niemeyer. It joined with Argentina and Uruguay in the War of the Triple Alliance, and explorer Pedro Cabral sighted": {
+    "guess": "Brazil",
+    "confidence": [
+      [
+        "Brazil",
+        -0.00701906
+      ]
+    ]
+  },
+  "The Cry of Ipiranga declared this country's independence, and its Golden Law freed slaves under Dom Pedro II. Juscelino Kubitschek began to build its capital, designed largely by Oscar Niemeyer. It joined with Argentina and Uruguay in the War of the Triple Alliance, and explorer Pedro Cabral sighted this country where Getulio Vargas later ran the Estado Novo. For 10 points, name this country once colonized": {
+    "guess": "Brazil",
+    "confidence": [
+      [
+        "Brazil",
+        -0.10194033
+      ]
+    ]
+  },
+  "The Cry of Ipiranga declared this country's independence, and its Golden Law freed slaves under Dom Pedro II. Juscelino Kubitschek began to build its capital, designed largely by Oscar Niemeyer. It joined with Argentina and Uruguay in the War of the Triple Alliance, and explorer Pedro Cabral sighted this country where Getulio Vargas later ran the Estado Novo. For 10 points, name this country once colonized by Portugal, with major city Rio de Janiero.": {
+    "guess": "Brazil",
+    "confidence": [
+      [
+        "Brazil",
+        -0.014262702
+      ]
+    ]
+  },
+  "Its crystals belong to the rhombohedral class of the of the hexagonal system which differentiates it": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.4792594
+      ]
+    ]
+  },
+  "Its crystals belong to the rhombohedral class of the of the hexagonal system which differentiates it from aragonite which has the same chemical composition but forms orthorhombic crystals. This mineral": {
+    "guess": "Calcite",
+    "confidence": [
+      [
+        "Calc",
+        -0.0014404731
+      ],
+      [
+        "ite",
+        0.0
+      ]
+    ]
+  },
+  "Its crystals belong to the rhombohedral class of the of the hexagonal system which differentiates it from aragonite which has the same chemical composition but forms orthorhombic crystals. This mineral which is composed of anhydrous calcium carbonate figures into the production of lime, cement, fertilizers,": {
+    "guess": "Calcite",
+    "confidence": [
+      [
+        "Calc",
+        -0.00070707133
+      ],
+      [
+        "ite",
+        0.0
+      ]
+    ]
+  },
+  "Its crystals belong to the rhombohedral class of the of the hexagonal system which differentiates it from aragonite which has the same chemical composition but forms orthorhombic crystals. This mineral which is composed of anhydrous calcium carbonate figures into the production of lime, cement, fertilizers, crayons, and building materials. FTP, name this mineral whose pure transparent form exhibits": {
+    "guess": "Calcite",
+    "confidence": [
+      [
+        "Calc",
+        -0.0005113298
+      ],
+      [
+        "ite",
+        0.0
+      ]
+    ]
+  },
+  "Its crystals belong to the rhombohedral class of the of the hexagonal system which differentiates it from aragonite which has the same chemical composition but forms orthorhombic crystals. This mineral which is composed of anhydrous calcium carbonate figures into the production of lime, cement, fertilizers, crayons, and building materials. FTP, name this mineral whose pure transparent form exhibits double refraction and is therefore used in making polarizing prisms.": {
+    "guess": "Calcite",
+    "confidence": [
+      [
+        "Calc",
+        -5.6576944e-05
+      ],
+      [
+        "ite",
+        0.0
+      ]
+    ]
+  },
+  "For crystalline solids with less than cubic symmetry, this quantity is not uniform in all directions": {
+    "guess": "Refractive index",
+    "confidence": [
+      [
+        "Re",
+        -0.39889827
+      ],
+      [
+        "fr",
+        -3.888926e-06
+      ],
+      [
+        "active",
+        -3.1281633e-07
+      ],
+      [
+        " index",
+        -0.008631111
+      ]
+    ]
+  },
+  "For crystalline solids with less than cubic symmetry, this quantity is not uniform in all directions and must be replaced with a tensor with more than one independent variable for proper description. Technically": {
+    "guess": "Anisotropy",
+    "confidence": [
+      [
+        "An",
+        -0.6170289
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "ot",
+        -0.0015025985
+      ],
+      [
+        "ropy",
+        0.0
+      ]
+    ]
+  },
+  "For crystalline solids with less than cubic symmetry, this quantity is not uniform in all directions and must be replaced with a tensor with more than one independent variable for proper description. Technically a thermodynamic quantity, in gases it is the product of pressure and adiabatic index and": {
+    "guess": "Elastic modulus",
+    "confidence": [
+      [
+        "Elastic",
+        -1.0147569
+      ],
+      [
+        " modulus",
+        -0.38991505
+      ]
+    ]
+  },
+  "For crystalline solids with less than cubic symmetry, this quantity is not uniform in all directions and must be replaced with a tensor with more than one independent variable for proper description. Technically a thermodynamic quantity, in gases it is the product of pressure and adiabatic index and in fluids, density and this quantity determine the speed of sound. Unlike the shear type, this quantity": {
+    "guess": "Bulk modulus",
+    "confidence": [
+      [
+        "Bulk",
+        -0.07794786
+      ],
+      [
+        " modulus",
+        -0.00013989297
+      ]
+    ]
+  },
+  "For crystalline solids with less than cubic symmetry, this quantity is not uniform in all directions and must be replaced with a tensor with more than one independent variable for proper description. Technically a thermodynamic quantity, in gases it is the product of pressure and adiabatic index and in fluids, density and this quantity determine the speed of sound. Unlike the shear type, this quantity describes the material's response to uniform compression, so its inverse is compressibility. For": {
+    "guess": "Bulk modulus",
+    "confidence": [
+      [
+        "Bulk",
+        -0.010328605
+      ],
+      [
+        " modulus",
+        -8.4947416e-05
+      ]
+    ]
+  },
+  "For crystalline solids with less than cubic symmetry, this quantity is not uniform in all directions and must be replaced with a tensor with more than one independent variable for proper description. Technically a thermodynamic quantity, in gases it is the product of pressure and adiabatic index and in fluids, density and this quantity determine the speed of sound. Unlike the shear type, this quantity describes the material's response to uniform compression, so its inverse is compressibility. For 10 points, name this elastic modulus, defined as the pressure necessary to produce a given relative": {
+    "guess": "Bulk modulus",
+    "confidence": [
+      [
+        "Bulk",
+        -0.000110457004
+      ],
+      [
+        " modulus",
+        -0.31326196
+      ]
+    ]
+  },
+  "For crystalline solids with less than cubic symmetry, this quantity is not uniform in all directions and must be replaced with a tensor with more than one independent variable for proper description. Technically a thermodynamic quantity, in gases it is the product of pressure and adiabatic index and in fluids, density and this quantity determine the speed of sound. Unlike the shear type, this quantity describes the material's response to uniform compression, so its inverse is compressibility. For 10 points, name this elastic modulus, defined as the pressure necessary to produce a given relative decrease in volume, which is notably not Young's.": {
+    "guess": "Bulk modulus",
+    "confidence": [
+      [
+        "Bulk",
+        -3.4047454e-05
+      ],
+      [
+        " modulus",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "The crystal structure of this protein reveals that upon binding to its receptor, its C-epsilon-2 domain": {
+    "guess": "IgE",
+    "confidence": [
+      [
+        "Ig",
+        -0.90689754
+      ],
+      [
+        "E",
+        -0.0042002057
+      ]
+    ]
+  },
+  "The crystal structure of this protein reveals that upon binding to its receptor, its C-epsilon-2 domain must change confirmation because this protein is oddly bent. Mutations in STAT3 cause a disease characterized": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9530986
+      ]
+    ]
+  },
+  "The crystal structure of this protein reveals that upon binding to its receptor, its C-epsilon-2 domain must change confirmation because this protein is oddly bent. Mutations in STAT3 cause a disease characterized by high levels of this protein in the blood, known as \"Hyper\"-this protein-\"syndrome\",": {
+    "guess": "IgE",
+    "confidence": [
+      [
+        "Ig",
+        -0.05622061
+      ],
+      [
+        "E",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The crystal structure of this protein reveals that upon binding to its receptor, its C-epsilon-2 domain must change confirmation because this protein is oddly bent. Mutations in STAT3 cause a disease characterized by high levels of this protein in the blood, known as \"Hyper\"-this protein-\"syndrome\", and its levels also inversely correlate with Th-17 cell counts. The monoclonal antibody omalizumab,": {
+    "guess": "IgE",
+    "confidence": [
+      [
+        "Ig",
+        -0.0229143
+      ],
+      [
+        "E",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The crystal structure of this protein reveals that upon binding to its receptor, its C-epsilon-2 domain must change confirmation because this protein is oddly bent. Mutations in STAT3 cause a disease characterized by high levels of this protein in the blood, known as \"Hyper\"-this protein-\"syndrome\", and its levels also inversely correlate with Th-17 cell counts. The monoclonal antibody omalizumab, or Xolair, targets these proteins. These proteins, which bind to F-c-epsilon-RI or CD23 receptors, are": {
+    "guess": "IgE",
+    "confidence": [
+      [
+        "Ig",
+        -0.004699138
+      ],
+      [
+        "E",
+        0.0
+      ]
+    ]
+  },
+  "The crystal structure of this protein reveals that upon binding to its receptor, its C-epsilon-2 domain must change confirmation because this protein is oddly bent. Mutations in STAT3 cause a disease characterized by high levels of this protein in the blood, known as \"Hyper\"-this protein-\"syndrome\", and its levels also inversely correlate with Th-17 cell counts. The monoclonal antibody omalizumab, or Xolair, targets these proteins. These proteins, which bind to F-c-epsilon-RI or CD23 receptors, are created by IL-4-induced class-switching resulting in incorporation of the epsilon heavy chain. These": {
+    "guess": "IgE",
+    "confidence": [
+      [
+        "Ig",
+        -0.0072948434
+      ],
+      [
+        "E",
+        0.0
+      ]
+    ]
+  },
+  "The crystal structure of this protein reveals that upon binding to its receptor, its C-epsilon-2 domain must change confirmation because this protein is oddly bent. Mutations in STAT3 cause a disease characterized by high levels of this protein in the blood, known as \"Hyper\"-this protein-\"syndrome\", and its levels also inversely correlate with Th-17 cell counts. The monoclonal antibody omalizumab, or Xolair, targets these proteins. These proteins, which bind to F-c-epsilon-RI or CD23 receptors, are created by IL-4-induced class-switching resulting in incorporation of the epsilon heavy chain. These proteins, which are important in the defense against certain parasites and in the pathogenesis of": {
+    "guess": "IgE",
+    "confidence": [
+      [
+        "Ig",
+        -0.009539206
+      ],
+      [
+        "E",
+        0.0
+      ]
+    ]
+  },
+  "The crystal structure of this protein reveals that upon binding to its receptor, its C-epsilon-2 domain must change confirmation because this protein is oddly bent. Mutations in STAT3 cause a disease characterized by high levels of this protein in the blood, known as \"Hyper\"-this protein-\"syndrome\", and its levels also inversely correlate with Th-17 cell counts. The monoclonal antibody omalizumab, or Xolair, targets these proteins. These proteins, which bind to F-c-epsilon-RI or CD23 receptors, are created by IL-4-induced class-switching resulting in incorporation of the epsilon heavy chain. These proteins, which are important in the defense against certain parasites and in the pathogenesis of asthma, achieve their most notable function during Type I hypersensitivity reactions. They bind to": {
+    "guess": "IgE",
+    "confidence": [
+      [
+        "Ig",
+        -0.0034349428
+      ],
+      [
+        "E",
+        0.0
+      ]
+    ]
+  },
+  "The crystal structure of this protein reveals that upon binding to its receptor, its C-epsilon-2 domain must change confirmation because this protein is oddly bent. Mutations in STAT3 cause a disease characterized by high levels of this protein in the blood, known as \"Hyper\"-this protein-\"syndrome\", and its levels also inversely correlate with Th-17 cell counts. The monoclonal antibody omalizumab, or Xolair, targets these proteins. These proteins, which bind to F-c-epsilon-RI or CD23 receptors, are created by IL-4-induced class-switching resulting in incorporation of the epsilon heavy chain. These proteins, which are important in the defense against certain parasites and in the pathogenesis of asthma, achieve their most notable function during Type I hypersensitivity reactions. They bind to mast cells, resulting in degranulation and histamine release. For 10 points, name this isotype of immunoglobulin": {
+    "guess": "IgE",
+    "confidence": [
+      [
+        "Ig",
+        -0.011602154
+      ],
+      [
+        "E",
+        0.0
+      ]
+    ]
+  },
+  "The crystal structure of this protein reveals that upon binding to its receptor, its C-epsilon-2 domain must change confirmation because this protein is oddly bent. Mutations in STAT3 cause a disease characterized by high levels of this protein in the blood, known as \"Hyper\"-this protein-\"syndrome\", and its levels also inversely correlate with Th-17 cell counts. The monoclonal antibody omalizumab, or Xolair, targets these proteins. These proteins, which bind to F-c-epsilon-RI or CD23 receptors, are created by IL-4-induced class-switching resulting in incorporation of the epsilon heavy chain. These proteins, which are important in the defense against certain parasites and in the pathogenesis of asthma, achieve their most notable function during Type I hypersensitivity reactions. They bind to mast cells, resulting in degranulation and histamine release. For 10 points, name this isotype of immunoglobulin important in allergic reactions.": {
+    "guess": "IgE",
+    "confidence": [
+      [
+        "Ig",
+        -0.011385674
+      ],
+      [
+        "E",
+        0.0
+      ]
+    ]
+  },
+  "In crystals, this process can occur via adatom hopping or quantum tunneling, which is an example of its": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.2019356
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "In crystals, this process can occur via adatom hopping or quantum tunneling, which is an example of its \"surface\" variety observed in heterogenous catalysts. Uranium hexafluoride undergoes this process": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.71835846
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "In crystals, this process can occur via adatom hopping or quantum tunneling, which is an example of its \"surface\" variety observed in heterogenous catalysts. Uranium hexafluoride undergoes this process during enrichment. Its namesake coefficient is equal to the product of mean free path and velocity.": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.08644232
+      ],
+      [
+        "usion",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "In crystals, this process can occur via adatom hopping or quantum tunneling, which is an example of its \"surface\" variety observed in heterogenous catalysts. Uranium hexafluoride undergoes this process during enrichment. Its namesake coefficient is equal to the product of mean free path and velocity. Its flux is equal to the negative of the (*) concentration gradient in a law named after Fick, and": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.050271463
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "In crystals, this process can occur via adatom hopping or quantum tunneling, which is an example of its \"surface\" variety observed in heterogenous catalysts. Uranium hexafluoride undergoes this process during enrichment. Its namesake coefficient is equal to the product of mean free path and velocity. Its flux is equal to the negative of the (*) concentration gradient in a law named after Fick, and this process is observed as water moves across a semipermeable membrane through osmosis. For ten points,": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.00024953834
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "In crystals, this process can occur via adatom hopping or quantum tunneling, which is an example of its \"surface\" variety observed in heterogenous catalysts. Uranium hexafluoride undergoes this process during enrichment. Its namesake coefficient is equal to the product of mean free path and velocity. Its flux is equal to the negative of the (*) concentration gradient in a law named after Fick, and this process is observed as water moves across a semipermeable membrane through osmosis. For ten points, identify this process by which molecules move from a higher concentration to a lower one.": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.00046391605
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "In cryptography, this term describes useful logarithms defined with respect to multiplicative cyclic": {
+    "guess": "Discrete logarithm",
+    "confidence": [
+      [
+        "Discrete",
+        -0.023290548
+      ],
+      [
+        " logarith",
+        -0.00024263552
+      ],
+      [
+        "m",
+        -0.0006286831
+      ]
+    ]
+  },
+  "In cryptography, this term describes useful logarithms defined with respect to multiplicative cyclic groups. A probability mass function is defined for random variables described by this term. Random variable": {
+    "guess": "Discrete logarithm",
+    "confidence": [
+      [
+        "Discrete",
+        -0.008706164
+      ],
+      [
+        " logarith",
+        -0.26647574
+      ],
+      [
+        "m",
+        -1.6882126e-05
+      ]
+    ]
+  },
+  "In cryptography, this term describes useful logarithms defined with respect to multiplicative cyclic groups. A probability mass function is defined for random variables described by this term. Random variable of this type must have an associated sample space that is finite or countably infinite. Sampling": {
+    "guess": "Discrete random variable",
+    "confidence": [
+      [
+        "Discrete",
+        -0.01430418
+      ],
+      [
+        " random",
+        -0.16593571
+      ],
+      [
+        " variable",
+        -0.00014013138
+      ]
+    ]
+  },
+  "In cryptography, this term describes useful logarithms defined with respect to multiplicative cyclic groups. A probability mass function is defined for random variables described by this term. Random variable of this type must have an associated sample space that is finite or countably infinite. Sampling is used to obtain a signal in this type of time domain. The (*) Poisson, Bernoulli, and binomial": {
+    "guess": "Discrete random variable",
+    "confidence": [
+      [
+        "Discrete",
+        -0.0016236489
+      ],
+      [
+        " random",
+        -0.2615834
+      ],
+      [
+        " variable",
+        -0.0003807449
+      ]
+    ]
+  },
+  "In cryptography, this term describes useful logarithms defined with respect to multiplicative cyclic groups. A probability mass function is defined for random variables described by this term. Random variable of this type must have an associated sample space that is finite or countably infinite. Sampling is used to obtain a signal in this type of time domain. The (*) Poisson, Bernoulli, and binomial probability distributions are all described by this term. The field of mathematics denoted by this": {
+    "guess": "Discrete variable",
+    "confidence": [
+      [
+        "Discrete",
+        -0.0019012707
+      ],
+      [
+        " variable",
+        -0.42162064
+      ]
+    ]
+  },
+  "In cryptography, this term describes useful logarithms defined with respect to multiplicative cyclic groups. A probability mass function is defined for random variables described by this term. Random variable of this type must have an associated sample space that is finite or countably infinite. Sampling is used to obtain a signal in this type of time domain. The (*) Poisson, Bernoulli, and binomial probability distributions are all described by this term. The field of mathematics denoted by this term includes the fields of combinatorics and graph theory. For 10 points, name this term which describes": {
+    "guess": "Discrete",
+    "confidence": [
+      [
+        "Discrete",
+        -0.0001978186
+      ]
+    ]
+  },
+  "In cryptography, this term describes useful logarithms defined with respect to multiplicative cyclic groups. A probability mass function is defined for random variables described by this term. Random variable of this type must have an associated sample space that is finite or countably infinite. Sampling is used to obtain a signal in this type of time domain. The (*) Poisson, Bernoulli, and binomial probability distributions are all described by this term. The field of mathematics denoted by this term includes the fields of combinatorics and graph theory. For 10 points, name this term which describes random variables that take on distinct and separated values, as opposed to \"continuous\".": {
+    "guess": "Discrete mathematics",
+    "confidence": [
+      [
+        "Discrete",
+        -0.00074768317
+      ],
+      [
+        " mathematics",
+        -0.1120429
+      ]
+    ]
+  }
+}

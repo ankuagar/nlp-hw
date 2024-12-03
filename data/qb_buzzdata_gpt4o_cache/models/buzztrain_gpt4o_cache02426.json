@@ -1,0 +1,841 @@
+{
+  "The Gibbs-Bogoliubov inequality can be used in conjunction with a trial state to give an upper bound": {
+    "guess": "Helmholtz free energy",
+    "confidence": [
+      [
+        "Hel",
+        -0.60802156
+      ],
+      [
+        "m",
+        0.0
+      ],
+      [
+        "hol",
+        0.0
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        " free",
+        -6.704273e-07
+      ],
+      [
+        " energy",
+        0.0
+      ]
+    ]
+  },
+  "The Gibbs-Bogoliubov inequality can be used in conjunction with a trial state to give an upper bound on this quantity, while Weekes-Chandler-Andersen perturbation has been applied to Lennard-Jones fluids": {
+    "guess": "Helmholtz free energy",
+    "confidence": [
+      [
+        "Hel",
+        -0.0029016396
+      ],
+      [
+        "m",
+        0.0
+      ],
+      [
+        "hol",
+        0.0
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        " free",
+        0.0
+      ],
+      [
+        " energy",
+        0.0
+      ]
+    ]
+  },
+  "The Gibbs-Bogoliubov inequality can be used in conjunction with a trial state to give an upper bound on this quantity, while Weekes-Chandler-Andersen perturbation has been applied to Lennard-Jones fluids to give an analytic solution. Proportional to Boltzmann's constant and the natural logarithm of a": {
+    "guess": "Helmholtz free energy",
+    "confidence": [
+      [
+        "Hel",
+        -0.02054761
+      ],
+      [
+        "m",
+        -1.9361265e-07
+      ],
+      [
+        "hol",
+        0.0
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        " free",
+        -1.147242e-06
+      ],
+      [
+        " energy",
+        0.0
+      ]
+    ]
+  },
+  "The Gibbs-Bogoliubov inequality can be used in conjunction with a trial state to give an upper bound on this quantity, while Weekes-Chandler-Andersen perturbation has been applied to Lennard-Jones fluids to give an analytic solution. Proportional to Boltzmann's constant and the natural logarithm of a system's equilibrium constant at constant volume, a system in thermal equilibrium minimizes it. Defined": {
+    "guess": "Helmholtz free energy",
+    "confidence": [
+      [
+        "Hel",
+        -0.123267844
+      ],
+      [
+        "m",
+        0.0
+      ],
+      [
+        "hol",
+        -7.89631e-07
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        " free",
+        -1.1637165e-05
+      ],
+      [
+        " energy",
+        0.0
+      ]
+    ]
+  },
+  "The Gibbs-Bogoliubov inequality can be used in conjunction with a trial state to give an upper bound on this quantity, while Weekes-Chandler-Andersen perturbation has been applied to Lennard-Jones fluids to give an analytic solution. Proportional to Boltzmann's constant and the natural logarithm of a system's equilibrium constant at constant volume, a system in thermal equilibrium minimizes it. Defined as the internal energy of a system minus the product of its absolute temperature and entropy, FTP": {
+    "guess": "Helmholtz free energy",
+    "confidence": [
+      [
+        "Hel",
+        -0.0223388
+      ],
+      [
+        "m",
+        0.0
+      ],
+      [
+        "hol",
+        -5.5122365e-07
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        " free",
+        -1.147242e-06
+      ],
+      [
+        " energy",
+        0.0
+      ]
+    ]
+  },
+  "The Gibbs-Bogoliubov inequality can be used in conjunction with a trial state to give an upper bound on this quantity, while Weekes-Chandler-Andersen perturbation has been applied to Lennard-Jones fluids to give an analytic solution. Proportional to Boltzmann's constant and the natural logarithm of a system's equilibrium constant at constant volume, a system in thermal equilibrium minimizes it. Defined as the internal energy of a system minus the product of its absolute temperature and entropy, FTP name this thermodynamic potential, a free energy named for a German physicist.": {
+    "guess": "Helmholtz free energy",
+    "confidence": [
+      [
+        "Hel",
+        -0.013080114
+      ],
+      [
+        "m",
+        0.0
+      ],
+      [
+        "hol",
+        0.0
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        " free",
+        -3.5835506e-05
+      ],
+      [
+        " energy",
+        0.0
+      ]
+    ]
+  },
+  "A giant sword-wielding statue on Mamayev Hill commemorates this battle; the initial objective of one": {
+    "guess": "Battle of Stalingrad",
+    "confidence": [
+      [
+        "Battle",
+        -0.0007226797
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " St",
+        0.0
+      ],
+      [
+        "aling",
+        0.0
+      ],
+      [
+        "rad",
+        0.0
+      ]
+    ]
+  },
+  "A giant sword-wielding statue on Mamayev Hill commemorates this battle; the initial objective of one side's Operation Blue, capturing the oil at Maikop and Grozny, was abandoned after it. Its turning point": {
+    "guess": "Battle of Stalingrad",
+    "confidence": [
+      [
+        "Battle",
+        -0.0011798699
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " St",
+        0.0
+      ],
+      [
+        "aling",
+        0.0
+      ],
+      [
+        "rad",
+        0.0
+      ]
+    ]
+  },
+  "A giant sword-wielding statue on Mamayev Hill commemorates this battle; the initial objective of one side's Operation Blue, capturing the oil at Maikop and Grozny, was abandoned after it. Its turning point was Operation Uranus, when a Romanian army to the north was attacked by Georgi [*] Zhukov. One": {
+    "guess": "Battle of Stalingrad",
+    "confidence": [
+      [
+        "Battle",
+        -7.433829e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " St",
+        0.0
+      ],
+      [
+        "aling",
+        0.0
+      ],
+      [
+        "rad",
+        0.0
+      ]
+    ]
+  },
+  "A giant sword-wielding statue on Mamayev Hill commemorates this battle; the initial objective of one side's Operation Blue, capturing the oil at Maikop and Grozny, was abandoned after it. Its turning point was Operation Uranus, when a Romanian army to the north was attacked by Georgi [*] Zhukov. One side of this five-month battle was led by General Paulus, and the harsh winter led to almost 2 million": {
+    "guess": "Battle of Stalingrad",
+    "confidence": [
+      [
+        "Battle",
+        -3.6431527e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " St",
+        0.0
+      ],
+      [
+        "aling",
+        0.0
+      ],
+      [
+        "rad",
+        0.0
+      ]
+    ]
+  },
+  "A giant sword-wielding statue on Mamayev Hill commemorates this battle; the initial objective of one side's Operation Blue, capturing the oil at Maikop and Grozny, was abandoned after it. Its turning point was Operation Uranus, when a Romanian army to the north was attacked by Georgi [*] Zhukov. One side of this five-month battle was led by General Paulus, and the harsh winter led to almost 2 million casualties along the Volga River. For 10 points, name this World War II battle, the turning point": {
+    "guess": "Battle of Stalingrad",
+    "confidence": [
+      [
+        "Battle",
+        -0.0016636353
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " St",
+        0.0
+      ],
+      [
+        "aling",
+        0.0
+      ],
+      [
+        "rad",
+        0.0
+      ]
+    ]
+  },
+  "A giant sword-wielding statue on Mamayev Hill commemorates this battle; the initial objective of one side's Operation Blue, capturing the oil at Maikop and Grozny, was abandoned after it. Its turning point was Operation Uranus, when a Romanian army to the north was attacked by Georgi [*] Zhukov. One side of this five-month battle was led by General Paulus, and the harsh winter led to almost 2 million casualties along the Volga River. For 10 points, name this World War II battle, the turning point of Operation Barbarossa, where the Soviets resisted the Nazi siege of a city named for their leader": {
+    "guess": "Battle of Stalingrad",
+    "confidence": [
+      [
+        "Battle",
+        -0.0038284604
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " St",
+        0.0
+      ],
+      [
+        "aling",
+        0.0
+      ],
+      [
+        "rad",
+        0.0
+      ]
+    ]
+  },
+  "A giant sword-wielding statue on Mamayev Hill commemorates this battle; the initial objective of one side's Operation Blue, capturing the oil at Maikop and Grozny, was abandoned after it. Its turning point was Operation Uranus, when a Romanian army to the north was attacked by Georgi [*] Zhukov. One side of this five-month battle was led by General Paulus, and the harsh winter led to almost 2 million casualties along the Volga River. For 10 points, name this World War II battle, the turning point of Operation Barbarossa, where the Soviets resisted the Nazi siege of a city named for their leader at the time.": {
+    "guess": "Battle of Stalingrad",
+    "confidence": [
+      [
+        "Battle",
+        -0.00092003524
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " St",
+        0.0
+      ],
+      [
+        "aling",
+        0.0
+      ],
+      [
+        "rad",
+        0.0
+      ]
+    ]
+  },
+  "The Gibbs phase rule can be derived by combining the equilibrium constraints with the Gibbs-Duhem equation,": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.6045869
+      ],
+      [
+        ".",
+        -0.57596135
+      ]
+    ]
+  },
+  "The Gibbs phase rule can be derived by combining the equilibrium constraints with the Gibbs-Duhem equation, which states that for a system with n components, only n+1 of these can be independent. They": {
+    "guess": "Gibbs phase rule",
+    "confidence": [
+      [
+        "G",
+        -0.69103086
+      ],
+      [
+        "ib",
+        -0.00026741522
+      ],
+      [
+        "bs",
+        0.0
+      ],
+      [
+        " phase",
+        -0.10735241
+      ],
+      [
+        " rule",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Gibbs phase rule can be derived by combining the equilibrium constraints with the Gibbs-Duhem equation, which states that for a system with n components, only n+1 of these can be independent. They must be homogeneous functions of degree zero, while their canonical conjugate variables, such as entropy": {
+    "guess": "Chemical potential",
+    "confidence": [
+      [
+        "Chemical",
+        -0.5321102
+      ],
+      [
+        " potential",
+        -0.0004952483
+      ]
+    ]
+  },
+  "The Gibbs phase rule can be derived by combining the equilibrium constraints with the Gibbs-Duhem equation, which states that for a system with n components, only n+1 of these can be independent. They must be homogeneous functions of degree zero, while their canonical conjugate variables, such as entropy and particle number, are homogeneous functions of degree one. Examples include the chemical potential,": {
+    "guess": "Gibbs-Duhem equation",
+    "confidence": [
+      [
+        "G",
+        -0.6332331
+      ],
+      [
+        "ib",
+        -3.0828953e-05
+      ],
+      [
+        "bs",
+        0.0
+      ],
+      [
+        "-D",
+        -0.08182232
+      ],
+      [
+        "u",
+        0.0
+      ],
+      [
+        "hem",
+        -1.9361265e-07
+      ],
+      [
+        " equation",
+        -0.00013941615
+      ]
+    ]
+  },
+  "The Gibbs phase rule can be derived by combining the equilibrium constraints with the Gibbs-Duhem equation, which states that for a system with n components, only n+1 of these can be independent. They must be homogeneous functions of degree zero, while their canonical conjugate variables, such as entropy and particle number, are homogeneous functions of degree one. Examples include the chemical potential, mole fractions, and pressure. For ten points, name these variables which do not depend on the": {
+    "guess": "Intensive and extensive properties",
+    "confidence": [
+      [
+        "Int",
+        -0.01572721
+      ],
+      [
+        "ensive",
+        -1.2664457e-06
+      ],
+      [
+        " and",
+        -0.012645262
+      ],
+      [
+        " extensive",
+        -0.048591346
+      ],
+      [
+        " properties",
+        -3.9292416e-05
+      ]
+    ]
+  },
+  "The Gibbs phase rule can be derived by combining the equilibrium constraints with the Gibbs-Duhem equation, which states that for a system with n components, only n+1 of these can be independent. They must be homogeneous functions of degree zero, while their canonical conjugate variables, such as entropy and particle number, are homogeneous functions of degree one. Examples include the chemical potential, mole fractions, and pressure. For ten points, name these variables which do not depend on the size of the system, unlike extensive variables.": {
+    "guess": "Intensive and extensive properties",
+    "confidence": [
+      [
+        "Int",
+        -0.0008140356
+      ],
+      [
+        "ensive",
+        0.0
+      ],
+      [
+        " and",
+        -0.9858571
+      ],
+      [
+        " extensive",
+        -0.12694702
+      ],
+      [
+        " properties",
+        -1.8074163e-05
+      ]
+    ]
+  },
+  "The giantess Eriphilia appears riding on a wolf in canto 7 of this work, only to be slain by the protagonist.": {
+    "guess": "Orlando Furioso",
+    "confidence": [
+      [
+        "Or",
+        -0.24553028
+      ],
+      [
+        "lando",
+        -2.1008714e-06
+      ],
+      [
+        " Fur",
+        -0.00014120422
+      ],
+      [
+        "ioso",
+        0.0
+      ]
+    ]
+  },
+  "The giantess Eriphilia appears riding on a wolf in canto 7 of this work, only to be slain by the protagonist. He escapes using a ring provided by Melissa, and rides off to Ebuda, where a maiden is chained": {
+    "guess": "Orlando Furioso",
+    "confidence": [
+      [
+        "Or",
+        -0.0044569434
+      ],
+      [
+        "lando",
+        -4.3202e-07
+      ],
+      [
+        " Fur",
+        -1.7432603e-06
+      ],
+      [
+        "ioso",
+        0.0
+      ]
+    ]
+  },
+  "The giantess Eriphilia appears riding on a wolf in canto 7 of this work, only to be slain by the protagonist. He escapes using a ring provided by Melissa, and rides off to Ebuda, where a maiden is chained to a rock after escaping from Sacripant, king of Circassia. After his brother Cloridan is killed": {
+    "guess": "Orlando Furioso",
+    "confidence": [
+      [
+        "Or",
+        -0.0012383256
+      ],
+      [
+        "lando",
+        0.0
+      ],
+      [
+        " Fur",
+        -1.504853e-06
+      ],
+      [
+        "ioso",
+        0.0
+      ]
+    ]
+  },
+  "The giantess Eriphilia appears riding on a wolf in canto 7 of this work, only to be slain by the protagonist. He escapes using a ring provided by Melissa, and rides off to Ebuda, where a maiden is chained to a rock after escaping from Sacripant, king of Circassia. After his brother Cloridan is killed by Zerbino of Scotland, Medoro is nursed back to health and taken to Cathay, leaving only his lover's": {
+    "guess": "Orlando Furioso",
+    "confidence": [
+      [
+        "Or",
+        -0.000737085
+      ],
+      [
+        "lando",
+        0.0
+      ],
+      [
+        " Fur",
+        -1.2664457e-06
+      ],
+      [
+        "ioso",
+        0.0
+      ]
+    ]
+  },
+  "The giantess Eriphilia appears riding on a wolf in canto 7 of this work, only to be slain by the protagonist. He escapes using a ring provided by Melissa, and rides off to Ebuda, where a maiden is chained to a rock after escaping from Sacripant, king of Circassia. After his brother Cloridan is killed by Zerbino of Scotland, Medoro is nursed back to health and taken to Cathay, leaving only his lover's bracelet behind. Mourning over the death of Zerbino in the hands of Mandricardo, Isabella is killed": {
+    "guess": "Orlando Furioso",
+    "confidence": [
+      [
+        "Or",
+        -0.0002605014
+      ],
+      [
+        "lando",
+        0.0
+      ],
+      [
+        " Fur",
+        -4.3202e-07
+      ],
+      [
+        "ioso",
+        0.0
+      ]
+    ]
+  },
+  "The giantess Eriphilia appears riding on a wolf in canto 7 of this work, only to be slain by the protagonist. He escapes using a ring provided by Melissa, and rides off to Ebuda, where a maiden is chained to a rock after escaping from Sacripant, king of Circassia. After his brother Cloridan is killed by Zerbino of Scotland, Medoro is nursed back to health and taken to Cathay, leaving only his lover's bracelet behind. Mourning over the death of Zerbino in the hands of Mandricardo, Isabella is killed by the drunk Rodomonte of Algiers, who, consumed by regret, challenges passers-by at a bridge. Astolfo": {
+    "guess": "Orlando Furioso",
+    "confidence": [
+      [
+        "Or",
+        -0.0008801387
+      ],
+      [
+        "lando",
+        0.0
+      ],
+      [
+        " Fur",
+        -3.1281633e-07
+      ],
+      [
+        "ioso",
+        0.0
+      ]
+    ]
+  },
+  "The giantess Eriphilia appears riding on a wolf in canto 7 of this work, only to be slain by the protagonist. He escapes using a ring provided by Melissa, and rides off to Ebuda, where a maiden is chained to a rock after escaping from Sacripant, king of Circassia. After his brother Cloridan is killed by Zerbino of Scotland, Medoro is nursed back to health and taken to Cathay, leaving only his lover's bracelet behind. Mourning over the death of Zerbino in the hands of Mandricardo, Isabella is killed by the drunk Rodomonte of Algiers, who, consumed by regret, challenges passers-by at a bridge. Astolfo retrieves the sensibility of the titular hero, while Ruggiero ends up with Bradamante. For ten": {
+    "guess": "Orlando Furioso",
+    "confidence": [
+      [
+        "Or",
+        -0.00054206967
+      ],
+      [
+        "lando",
+        0.0
+      ],
+      [
+        " Fur",
+        -1.9361265e-07
+      ],
+      [
+        "ioso",
+        0.0
+      ]
+    ]
+  },
+  "The giantess Eriphilia appears riding on a wolf in canto 7 of this work, only to be slain by the protagonist. He escapes using a ring provided by Melissa, and rides off to Ebuda, where a maiden is chained to a rock after escaping from Sacripant, king of Circassia. After his brother Cloridan is killed by Zerbino of Scotland, Medoro is nursed back to health and taken to Cathay, leaving only his lover's bracelet behind. Mourning over the death of Zerbino in the hands of Mandricardo, Isabella is killed by the drunk Rodomonte of Algiers, who, consumed by regret, challenges passers-by at a bridge. Astolfo retrieves the sensibility of the titular hero, while Ruggiero ends up with Bradamante. For ten points, name this epic by Ariosto about a knight crazy for Angelica.": {
+    "guess": "Orlando Furioso",
+    "confidence": [
+      [
+        "Or",
+        -0.0009927953
+      ],
+      [
+        "lando",
+        0.0
+      ],
+      [
+        " Fur",
+        0.0
+      ],
+      [
+        "ioso",
+        0.0
+      ]
+    ]
+  },
+  "The giant Hrungnir drunkenly boasts that he will pick it up and carry it off to Jotunheim. This place": {
+    "guess": "Valhalla",
+    "confidence": [
+      [
+        "Val",
+        -0.33274928
+      ],
+      [
+        "h",
+        -1.0206721e-05
+      ],
+      [
+        "alla",
+        0.0
+      ]
+    ]
+  },
+  "The giant Hrungnir drunkenly boasts that he will pick it up and carry it off to Jotunheim. This place is home to the hart Eikthyrnir, who eats the branches of the tree Laerad. This place is also home to": {
+    "guess": "Valhalla",
+    "confidence": [
+      [
+        "Val",
+        -0.049475785
+      ],
+      [
+        "h",
+        -1.147242e-06
+      ],
+      [
+        "alla",
+        0.0
+      ]
+    ]
+  },
+  "The giant Hrungnir drunkenly boasts that he will pick it up and carry it off to Jotunheim. This place is home to the hart Eikthyrnir, who eats the branches of the tree Laerad. This place is also home to the cauldron Eldhrimnir, in which the boar Saehrimnir is boiled each day, and to a goat which supplies": {
+    "guess": "Valhalla",
+    "confidence": [
+      [
+        "Val",
+        -0.000101993544
+      ],
+      [
+        "h",
+        0.0
+      ],
+      [
+        "alla",
+        0.0
+      ]
+    ]
+  },
+  "The giant Hrungnir drunkenly boasts that he will pick it up and carry it off to Jotunheim. This place is home to the hart Eikthyrnir, who eats the branches of the tree Laerad. This place is also home to the cauldron Eldhrimnir, in which the boar Saehrimnir is boiled each day, and to a goat which supplies a cauldron's worth of mead every day. That goat, Heidrun, is sometimes said to live on its roof": {
+    "guess": "Valhalla",
+    "confidence": [
+      [
+        "Val",
+        -0.00227182
+      ],
+      [
+        "h",
+        0.0
+      ],
+      [
+        "alla",
+        0.0
+      ]
+    ]
+  },
+  "The giant Hrungnir drunkenly boasts that he will pick it up and carry it off to Jotunheim. This place is home to the hart Eikthyrnir, who eats the branches of the tree Laerad. This place is also home to the cauldron Eldhrimnir, in which the boar Saehrimnir is boiled each day, and to a goat which supplies a cauldron's worth of mead every day. That goat, Heidrun, is sometimes said to live on its roof of golden shields. Every day, its inhabitants, the einherjar, go out to fight each other. FTP, name": {
+    "guess": "Valhalla",
+    "confidence": [
+      [
+        "Val",
+        -6.372917e-05
+      ],
+      [
+        "h",
+        0.0
+      ],
+      [
+        "alla",
+        0.0
+      ]
+    ]
+  },
+  "The giant Hrungnir drunkenly boasts that he will pick it up and carry it off to Jotunheim. This place is home to the hart Eikthyrnir, who eats the branches of the tree Laerad. This place is also home to the cauldron Eldhrimnir, in which the boar Saehrimnir is boiled each day, and to a goat which supplies a cauldron's worth of mead every day. That goat, Heidrun, is sometimes said to live on its roof of golden shields. Every day, its inhabitants, the einherjar, go out to fight each other. FTP, name this \"hall of the slain\" where Odin welcomes the souls of brave warriors.": {
+    "guess": "Valhalla",
+    "confidence": [
+      [
+        "Val",
+        -1.6524515e-05
+      ],
+      [
+        "h",
+        0.0
+      ],
+      [
+        "alla",
+        0.0
+      ]
+    ]
+  },
+  "The giantess Modgud is the guardian of a bridge to one of these locations, and that one of these locations": {
+    "guess": "Hel (location)",
+    "confidence": [
+      [
+        "Hel",
+        -0.01744274
+      ],
+      [
+        " (",
+        -0.06546892
+      ],
+      [
+        "location",
+        -0.6756992
+      ],
+      [
+        ")",
+        -0.00025239922
+      ]
+    ]
+  },
+  "The giantess Modgud is the guardian of a bridge to one of these locations, and that one of these locations is guarded by the watchdog Garmr, who is destined to slay T\u00fdr at Ragnorak. Aeacus, a virtuous": {
+    "guess": "Underworld",
+    "confidence": [
+      [
+        "Under",
+        -0.323227
+      ],
+      [
+        "world",
+        0.0
+      ]
+    ]
+  },
+  "The giantess Modgud is the guardian of a bridge to one of these locations, and that one of these locations is guarded by the watchdog Garmr, who is destined to slay T\u00fdr at Ragnorak. Aeacus, a virtuous king of Aegina, shares a job with Rhadamanthus and Minos in one of these. Sinful Egyptian entrants to": {
+    "guess": "Underworld",
+    "confidence": [
+      [
+        "Under",
+        -0.3372062
+      ],
+      [
+        "world",
+        0.0
+      ]
+    ]
+  },
+  "The giantess Modgud is the guardian of a bridge to one of these locations, and that one of these locations is guarded by the watchdog Garmr, who is destined to slay T\u00fdr at Ragnorak. Aeacus, a virtuous king of Aegina, shares a job with Rhadamanthus and Minos in one of these. Sinful Egyptian entrants to this location would have their souls eaten by Ammit the Destroyer, and Greeks who were sent here could": {
+    "guess": "Underworld",
+    "confidence": [
+      [
+        "Under",
+        -0.38835886
+      ],
+      [
+        "world",
+        0.0
+      ]
+    ]
+  },
+  "The giantess Modgud is the guardian of a bridge to one of these locations, and that one of these locations is guarded by the watchdog Garmr, who is destined to slay T\u00fdr at Ragnorak. Aeacus, a virtuous king of Aegina, shares a job with Rhadamanthus and Minos in one of these. Sinful Egyptian entrants to this location would have their souls eaten by Ammit the Destroyer, and Greeks who were sent here could drink from the river Lethe. For 10 points, name these often subterranean locations where Charon": {
+    "guess": "Underworld",
+    "confidence": [
+      [
+        "Under",
+        -0.015618894
+      ],
+      [
+        "world",
+        0.0
+      ]
+    ]
+  },
+  "The giantess Modgud is the guardian of a bridge to one of these locations, and that one of these locations is guarded by the watchdog Garmr, who is destined to slay T\u00fdr at Ragnorak. Aeacus, a virtuous king of Aegina, shares a job with Rhadamanthus and Minos in one of these. Sinful Egyptian entrants to this location would have their souls eaten by Ammit the Destroyer, and Greeks who were sent here could drink from the river Lethe. For 10 points, name these often subterranean locations where Charon might ferry you across the river Acheron.": {
+    "guess": "Underworld",
+    "confidence": [
+      [
+        "Under",
+        -0.023792636
+      ],
+      [
+        "world",
+        0.0
+      ]
+    ]
+  }
+}

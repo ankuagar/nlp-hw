@@ -1,0 +1,125 @@
+{
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red": {
+    "guess": "Birmingham",
+    "confidence": [
+      [
+        "B",
+        -0.07611751
+      ],
+      [
+        "irmingham",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red Mountain houses the world's largest cast iron statue, depicting Vulcan at his forge. One important": {
+    "guess": "Birmingham, Alabama",
+    "confidence": [
+      [
+        "B",
+        -0.16518047
+      ],
+      [
+        "irmingham",
+        -5.5122365e-07
+      ],
+      [
+        ",",
+        -0.31549266
+      ],
+      [
+        " Alabama",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red Mountain houses the world's largest cast iron statue, depicting Vulcan at his forge. One important figure in this city's Civil Rights movement was its commissioner of public safety, Bull Connor. George": {
+    "guess": "Birmingham",
+    "confidence": [
+      [
+        "B",
+        -0.06484201
+      ],
+      [
+        "irmingham",
+        -4.4849444e-06
+      ]
+    ]
+  },
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red Mountain houses the world's largest cast iron statue, depicting Vulcan at his forge. One important figure in this city's Civil Rights movement was its commissioner of public safety, Bull Connor. George Wallace called out the state's National Guard to prevent the integration of this city's schools.": {
+    "guess": "Birmingham, Alabama",
+    "confidence": [
+      [
+        "B",
+        -0.0035866527
+      ],
+      [
+        "irmingham",
+        0.0
+      ],
+      [
+        ",",
+        -0.2781184
+      ],
+      [
+        " Alabama",
+        0.0
+      ]
+    ]
+  },
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red Mountain houses the world's largest cast iron statue, depicting Vulcan at his forge. One important figure in this city's Civil Rights movement was its commissioner of public safety, Bull Connor. George Wallace called out the state's National Guard to prevent the integration of this city's schools. Thomas Blanton and Bobby Frank Cherry were convicted in 2002 of the 1964 bombings of this city's 16th": {
+    "guess": "Birmingham, Alabama church bombing",
+    "confidence": [
+      [
+        "B",
+        -0.25882766
+      ],
+      [
+        "irmingham",
+        -8.061054e-06
+      ],
+      [
+        ",",
+        -0.020860897
+      ],
+      [
+        " Alabama",
+        0.0
+      ],
+      [
+        " church",
+        -0.5773184
+      ],
+      [
+        " bombing",
+        -0.019088255
+      ]
+    ]
+  },
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red Mountain houses the world's largest cast iron statue, depicting Vulcan at his forge. One important figure in this city's Civil Rights movement was its commissioner of public safety, Bull Connor. George Wallace called out the state's National Guard to prevent the integration of this city's schools. Thomas Blanton and Bobby Frank Cherry were convicted in 2002 of the 1964 bombings of this city's 16th Street Baptist Church. For 10 points, name this city from whose city jail Martin Luther King wrote": {
+    "guess": "Birmingham",
+    "confidence": [
+      [
+        "B",
+        -9.794062e-05
+      ],
+      [
+        "irmingham",
+        0.0
+      ]
+    ]
+  },
+  "It's not Atlanta, but this city's entertainment district is known as Five Points South. This city's Red Mountain houses the world's largest cast iron statue, depicting Vulcan at his forge. One important figure in this city's Civil Rights movement was its commissioner of public safety, Bull Connor. George Wallace called out the state's National Guard to prevent the integration of this city's schools. Thomas Blanton and Bobby Frank Cherry were convicted in 2002 of the 1964 bombings of this city's 16th Street Baptist Church. For 10 points, name this city from whose city jail Martin Luther King wrote a famous letter, and which is the largest city in Alabama.": {
+    "guess": "Birmingham",
+    "confidence": [
+      [
+        "B",
+        -0.011270514
+      ],
+      [
+        "irmingham",
+        0.0
+      ]
+    ]
+  }
+}

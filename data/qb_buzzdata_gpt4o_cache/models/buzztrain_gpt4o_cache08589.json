@@ -1,0 +1,697 @@
+{
+  "Within two weeks of this event's conclusion, protesters stormed an armory in Chittagong and the Royal": {
+    "guess": "Chittagong armoury raid",
+    "confidence": [
+      [
+        "Ch",
+        -0.1759787
+      ],
+      [
+        "itt",
+        -0.0006236802
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "ong",
+        0.0
+      ],
+      [
+        " armour",
+        -0.59545094
+      ],
+      [
+        "y",
+        -1.9361265e-07
+      ],
+      [
+        " raid",
+        -3.88156e-05
+      ]
+    ]
+  },
+  "Within two weeks of this event's conclusion, protesters stormed an armory in Chittagong and the Royal Garhwal Rifles mutinied in Peshawar. It resulted in the Second Round Table Conference between its leader": {
+    "guess": "Civil Disobedience Movement",
+    "confidence": [
+      [
+        "Civil",
+        -0.75153124
+      ],
+      [
+        " Dis",
+        -0.0069010244
+      ],
+      [
+        "obed",
+        0.0
+      ],
+      [
+        "ience",
+        0.0
+      ],
+      [
+        " Movement",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "Within two weeks of this event's conclusion, protesters stormed an armory in Chittagong and the Royal Garhwal Rifles mutinied in Peshawar. It resulted in the Second Round Table Conference between its leader and Lord Irwin, who failed to halt it when he arrested Kasturba. Like campaign in Bardoli two": {
+    "guess": "Salt March",
+    "confidence": [
+      [
+        "Salt",
+        -0.70744556
+      ],
+      [
+        " March",
+        -9.6629374e-05
+      ]
+    ]
+  },
+  "Within two weeks of this event's conclusion, protesters stormed an armory in Chittagong and the Royal Garhwal Rifles mutinied in Peshawar. It resulted in the Second Round Table Conference between its leader and Lord Irwin, who failed to halt it when he arrested Kasturba. Like campaign in Bardoli two years before, it was centered in Gujarat, where marchers were knocked down with steel-tipped clubs when": {
+    "guess": "Salt March",
+    "confidence": [
+      [
+        "Salt",
+        -0.045970727
+      ],
+      [
+        " March",
+        -6.647085e-05
+      ]
+    ]
+  },
+  "Within two weeks of this event's conclusion, protesters stormed an armory in Chittagong and the Royal Garhwal Rifles mutinied in Peshawar. It resulted in the Second Round Table Conference between its leader and Lord Irwin, who failed to halt it when he arrested Kasturba. Like campaign in Bardoli two years before, it was centered in Gujarat, where marchers were knocked down with steel-tipped clubs when they tried to defy a British monopoly. FTP, identify this 1930 protest led by Mahatma Gandhi, who": {
+    "guess": "Salt March",
+    "confidence": [
+      [
+        "Salt",
+        -0.046241544
+      ],
+      [
+        " March",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "Within two weeks of this event's conclusion, protesters stormed an armory in Chittagong and the Royal Garhwal Rifles mutinied in Peshawar. It resulted in the Second Round Table Conference between its leader and Lord Irwin, who failed to halt it when he arrested Kasturba. Like campaign in Bardoli two years before, it was centered in Gujarat, where marchers were knocked down with steel-tipped clubs when they tried to defy a British monopoly. FTP, identify this 1930 protest led by Mahatma Gandhi, who walked to the sea to make a certain mineral.": {
+    "guess": "Salt March",
+    "confidence": [
+      [
+        "Salt",
+        -0.013511481
+      ],
+      [
+        " March",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "A wise man in this text tells of a worker whose hand-balm saved a prince in battle to mock a friend who": {
+    "guess": "The Rubaiyat of Omar Khayyam",
+    "confidence": [
+      [
+        "The",
+        -1.004476
+      ],
+      [
+        " Rub",
+        -0.29678306
+      ],
+      [
+        "ai",
+        -0.03804884
+      ],
+      [
+        "yat",
+        -1.504853e-06
+      ],
+      [
+        " of",
+        -0.0001593195
+      ],
+      [
+        " Omar",
+        -1.8193366e-05
+      ],
+      [
+        " Kh",
+        -9.0883464e-07
+      ],
+      [
+        "ay",
+        -2.8325678e-05
+      ],
+      [
+        "yam",
+        0.0
+      ]
+    ]
+  },
+  "A wise man in this text tells of a worker whose hand-balm saved a prince in battle to mock a friend who destroyed a giant gourd he could have turned into a raft. In another passage of this text, two gods": {
+    "guess": "Zhuangzi (book)",
+    "confidence": [
+      [
+        "Z",
+        -0.120139055
+      ],
+      [
+        "huang",
+        -8.876193e-05
+      ],
+      [
+        "zi",
+        -3.4121115e-06
+      ],
+      [
+        " (",
+        -0.31340915
+      ],
+      [
+        "book",
+        -0.0085324235
+      ],
+      [
+        ")",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "A wise man in this text tells of a worker whose hand-balm saved a prince in battle to mock a friend who destroyed a giant gourd he could have turned into a raft. In another passage of this text, two gods try to repay a third who has no holes in his body by boring seven holes in him, but accidentally": {
+    "guess": "Zhuangzi",
+    "confidence": [
+      [
+        "Z",
+        -0.047089256
+      ],
+      [
+        "huang",
+        -3.035214e-05
+      ],
+      [
+        "zi",
+        -1.0087517e-05
+      ]
+    ]
+  },
+  "A wise man in this text tells of a worker whose hand-balm saved a prince in battle to mock a friend who destroyed a giant gourd he could have turned into a raft. In another passage of this text, two gods try to repay a third who has no holes in his body by boring seven holes in him, but accidentally kill him. This text is divided into seven authentic \"inner chapters,\" fifteen \"outer chapters,\" and": {
+    "guess": "Zhuangzi (book)",
+    "confidence": [
+      [
+        "Z",
+        -0.00016086915
+      ],
+      [
+        "huang",
+        0.0
+      ],
+      [
+        "zi",
+        0.0
+      ],
+      [
+        " (",
+        0.0
+      ],
+      [
+        "book",
+        -6.704273e-07
+      ],
+      [
+        ")",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "A wise man in this text tells of a worker whose hand-balm saved a prince in battle to mock a friend who destroyed a giant gourd he could have turned into a raft. In another passage of this text, two gods try to repay a third who has no holes in his body by boring seven holes in him, but accidentally kill him. This text is divided into seven authentic \"inner chapters,\" fifteen \"outer chapters,\" and eleven \"miscellaneous chapters.\" (*) Guo Xiang wrote the best-known commentary on this text, which includes": {
+    "guess": "Zhuangzi (book)",
+    "confidence": [
+      [
+        "Z",
+        -0.008732877
+      ],
+      [
+        "huang",
+        0.0
+      ],
+      [
+        "zi",
+        -9.674858e-05
+      ],
+      [
+        " (",
+        -0.0025170387
+      ],
+      [
+        "book",
+        -7.171581e-05
+      ],
+      [
+        ")",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "A wise man in this text tells of a worker whose hand-balm saved a prince in battle to mock a friend who destroyed a giant gourd he could have turned into a raft. In another passage of this text, two gods try to repay a third who has no holes in his body by boring seven holes in him, but accidentally kill him. This text is divided into seven authentic \"inner chapters,\" fifteen \"outer chapters,\" and eleven \"miscellaneous chapters.\" (*) Guo Xiang wrote the best-known commentary on this text, which includes various debates between Hui Shi and the title character, who argues for relativism by noting": {
+    "guess": "Zhuangzi (book)",
+    "confidence": [
+      [
+        "Z",
+        -0.011124101
+      ],
+      [
+        "huang",
+        -1.9361265e-07
+      ],
+      [
+        "zi",
+        -0.000109622575
+      ],
+      [
+        " (",
+        -0.0015310515
+      ],
+      [
+        "book",
+        -5.7768983e-05
+      ],
+      [
+        ")",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "A wise man in this text tells of a worker whose hand-balm saved a prince in battle to mock a friend who destroyed a giant gourd he could have turned into a raft. In another passage of this text, two gods try to repay a third who has no holes in his body by boring seven holes in him, but accidentally kill him. This text is divided into seven authentic \"inner chapters,\" fifteen \"outer chapters,\" and eleven \"miscellaneous chapters.\" (*) Guo Xiang wrote the best-known commentary on this text, which includes various debates between Hui Shi and the title character, who argues for relativism by noting that he cannot know whether he is \"actually\" a man or an insect thinking he is a man. For 10 points,": {
+    "guess": "Zhuangzi (book)",
+    "confidence": [
+      [
+        "Z",
+        -0.007294251
+      ],
+      [
+        "huang",
+        0.0
+      ],
+      [
+        "zi",
+        -1.1756368e-05
+      ],
+      [
+        " (",
+        -0.00072672893
+      ],
+      [
+        "book",
+        -4.3941356e-05
+      ],
+      [
+        ")",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "A wise man in this text tells of a worker whose hand-balm saved a prince in battle to mock a friend who destroyed a giant gourd he could have turned into a raft. In another passage of this text, two gods try to repay a third who has no holes in his body by boring seven holes in him, but accidentally kill him. This text is divided into seven authentic \"inner chapters,\" fifteen \"outer chapters,\" and eleven \"miscellaneous chapters.\" (*) Guo Xiang wrote the best-known commentary on this text, which includes various debates between Hui Shi and the title character, who argues for relativism by noting that he cannot know whether he is \"actually\" a man or an insect thinking he is a man. For 10 points, name this Daoist text most famous for describing its namesake's \"butterfly dream.\"": {
+    "guess": "Zhuangzi (book)",
+    "confidence": [
+      [
+        "Z",
+        -0.0017825218
+      ],
+      [
+        "huang",
+        -1.9361265e-07
+      ],
+      [
+        "zi",
+        -2.4584822e-06
+      ],
+      [
+        " (",
+        -0.00057042914
+      ],
+      [
+        "book",
+        -7.9940866e-05
+      ],
+      [
+        ")",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "The Wiskott-Aldrich protein activates another protein that binds to this protein, and on the cell membrane": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.0724259
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The Wiskott-Aldrich protein activates another protein that binds to this protein, and on the cell membrane these proteins complex with archvillin and supervillin. Prokaryotic analogues of this protein": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.9268901
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The Wiskott-Aldrich protein activates another protein that binds to this protein, and on the cell membrane these proteins complex with archvillin and supervillin. Prokaryotic analogues of this protein include MreB and ParM, and another protein that binds to it is mutated in Finnish-type amyloidosis,": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.8998215
+      ],
+      [
+        "in",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The Wiskott-Aldrich protein activates another protein that binds to this protein, and on the cell membrane these proteins complex with archvillin and supervillin. Prokaryotic analogues of this protein include MreB and ParM, and another protein that binds to it is mutated in Finnish-type amyloidosis, known as gelsolin. A common method of viewing this protein in cell culture involves using fluorescently-tagged": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.10062371
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The Wiskott-Aldrich protein activates another protein that binds to this protein, and on the cell membrane these proteins complex with archvillin and supervillin. Prokaryotic analogues of this protein include MreB and ParM, and another protein that binds to it is mutated in Finnish-type amyloidosis, known as gelsolin. A common method of viewing this protein in cell culture involves using fluorescently-tagged phalloidin, and they tend to collect when nucleated by the Arp2/3 complex. Cadherins and": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.06986507
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The Wiskott-Aldrich protein activates another protein that binds to this protein, and on the cell membrane these proteins complex with archvillin and supervillin. Prokaryotic analogues of this protein include MreB and ParM, and another protein that binds to it is mutated in Finnish-type amyloidosis, known as gelsolin. A common method of viewing this protein in cell culture involves using fluorescently-tagged phalloidin, and they tend to collect when nucleated by the Arp2/3 complex. Cadherins and catenins bind to it via vinculin, and ATP binding causes this protein to transition between its globular": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.102264844
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The Wiskott-Aldrich protein activates another protein that binds to this protein, and on the cell membrane these proteins complex with archvillin and supervillin. Prokaryotic analogues of this protein include MreB and ParM, and another protein that binds to it is mutated in Finnish-type amyloidosis, known as gelsolin. A common method of viewing this protein in cell culture involves using fluorescently-tagged phalloidin, and they tend to collect when nucleated by the Arp2/3 complex. Cadherins and catenins bind to it via vinculin, and ATP binding causes this protein to transition between its globular and fibrous forms. Polymers of it are surrounded by nebulin in one structure, and this protein": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.026740976
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The Wiskott-Aldrich protein activates another protein that binds to this protein, and on the cell membrane these proteins complex with archvillin and supervillin. Prokaryotic analogues of this protein include MreB and ParM, and another protein that binds to it is mutated in Finnish-type amyloidosis, known as gelsolin. A common method of viewing this protein in cell culture involves using fluorescently-tagged phalloidin, and they tend to collect when nucleated by the Arp2/3 complex. Cadherins and catenins bind to it via vinculin, and ATP binding causes this protein to transition between its globular and fibrous forms. Polymers of it are surrounded by nebulin in one structure, and this protein forms lamellopodia and the contractile ring in cytokinesis. It also binds to troponin and tropomyosin": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.01620223
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The Wiskott-Aldrich protein activates another protein that binds to this protein, and on the cell membrane these proteins complex with archvillin and supervillin. Prokaryotic analogues of this protein include MreB and ParM, and another protein that binds to it is mutated in Finnish-type amyloidosis, known as gelsolin. A common method of viewing this protein in cell culture involves using fluorescently-tagged phalloidin, and they tend to collect when nucleated by the Arp2/3 complex. Cadherins and catenins bind to it via vinculin, and ATP binding causes this protein to transition between its globular and fibrous forms. Polymers of it are surrounded by nebulin in one structure, and this protein forms lamellopodia and the contractile ring in cytokinesis. It also binds to troponin and tropomyosin in sarcomeres. For 10 points, name this protein that when arranged in a helix and polymerized forms": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.01827145
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The Wiskott-Aldrich protein activates another protein that binds to this protein, and on the cell membrane these proteins complex with archvillin and supervillin. Prokaryotic analogues of this protein include MreB and ParM, and another protein that binds to it is mutated in Finnish-type amyloidosis, known as gelsolin. A common method of viewing this protein in cell culture involves using fluorescently-tagged phalloidin, and they tend to collect when nucleated by the Arp2/3 complex. Cadherins and catenins bind to it via vinculin, and ATP binding causes this protein to transition between its globular and fibrous forms. Polymers of it are surrounded by nebulin in one structure, and this protein forms lamellopodia and the contractile ring in cytokinesis. It also binds to troponin and tropomyosin in sarcomeres. For 10 points, name this protein that when arranged in a helix and polymerized forms microfilaments, and which pairs with the motor protein myosin.": {
+    "guess": "Actin",
+    "confidence": [
+      [
+        "Act",
+        -0.0067990907
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "The wise men known as the Abgal were created from the body of this god, and Damkina became pregnant while": {
+    "guess": "Enki",
+    "confidence": [
+      [
+        "En",
+        -0.5775361
+      ],
+      [
+        "ki",
+        -3.3093824e-05
+      ]
+    ]
+  },
+  "The wise men known as the Abgal were created from the body of this god, and Damkina became pregnant while living on this god's corpse. He was killed after a failed attempt to eliminate his children by": {
+    "guess": "Apsu",
+    "confidence": [
+      [
+        "A",
+        -0.20449905
+      ],
+      [
+        "ps",
+        -1.247159e-05
+      ],
+      [
+        "u",
+        -0.009799531
+      ]
+    ]
+  },
+  "The wise men known as the Abgal were created from the body of this god, and Damkina became pregnant while living on this god's corpse. He was killed after a failed attempt to eliminate his children by creating Mummu. He original offspring were the soils Lahmu and Lahamu and the earth and sky, Anshar": {
+    "guess": "Apsu",
+    "confidence": [
+      [
+        "A",
+        -0.15067674
+      ],
+      [
+        "ps",
+        -1.9816675e-06
+      ],
+      [
+        "u",
+        -0.0019446993
+      ]
+    ]
+  },
+  "The wise men known as the Abgal were created from the body of this god, and Damkina became pregnant while living on this god's corpse. He was killed after a failed attempt to eliminate his children by creating Mummu. He original offspring were the soils Lahmu and Lahamu and the earth and sky, Anshar and Kishar, and his later descendant Ea kills him. In the epic of Gilgamesh, Gilgamesh goes into the": {
+    "guess": "Abyss",
+    "confidence": [
+      [
+        "A",
+        -0.64233327
+      ],
+      [
+        "by",
+        -0.12693156
+      ],
+      [
+        "ss",
+        -0.00016146517
+      ]
+    ]
+  },
+  "The wise men known as the Abgal were created from the body of this god, and Damkina became pregnant while living on this god's corpse. He was killed after a failed attempt to eliminate his children by creating Mummu. He original offspring were the soils Lahmu and Lahamu and the earth and sky, Anshar and Kishar, and his later descendant Ea kills him. In the epic of Gilgamesh, Gilgamesh goes into the body represented as this deity to pick the plant of eternal life. For 10 points, name this husband": {
+    "guess": "Apsu",
+    "confidence": [
+      [
+        "A",
+        -0.037872545
+      ],
+      [
+        "ps",
+        -1.9816675e-06
+      ],
+      [
+        "u",
+        -0.0013365514
+      ]
+    ]
+  },
+  "The wise men known as the Abgal were created from the body of this god, and Damkina became pregnant while living on this god's corpse. He was killed after a failed attempt to eliminate his children by creating Mummu. He original offspring were the soils Lahmu and Lahamu and the earth and sky, Anshar and Kishar, and his later descendant Ea kills him. In the epic of Gilgamesh, Gilgamesh goes into the body represented as this deity to pick the plant of eternal life. For 10 points, name this husband of the deep salt water Tiamat, the Mesopotamian embodiment of the primordial fresh-water ocean.": {
+    "guess": "Apsu",
+    "confidence": [
+      [
+        "A",
+        -0.08086523
+      ],
+      [
+        "ps",
+        -5.5122365e-07
+      ],
+      [
+        "u",
+        -0.00055589364
+      ]
+    ]
+  },
+  "Within the last month, this region has seen a renewal of ethnic violence, as Serbian police killed over": {
+    "guess": "Kosovo",
+    "confidence": [
+      [
+        "Kos",
+        -0.006070406
+      ],
+      [
+        "ovo",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Within the last month, this region has seen a renewal of ethnic violence, as Serbian police killed over 80 ethnic Albanians in retaliation for the deaths of four Serb police by a radical Albanian separatist": {
+    "guess": "Kosovo",
+    "confidence": [
+      [
+        "Kos",
+        -0.10913194
+      ],
+      [
+        "ovo",
+        -4.365741e-06
+      ]
+    ]
+  },
+  "Within the last month, this region has seen a renewal of ethnic violence, as Serbian police killed over 80 ethnic Albanians in retaliation for the deaths of four Serb police by a radical Albanian separatist group. For ten points, name this region of Serbia, 90% of whose residents are ethnic Albanians.": {
+    "guess": "Pre\u0161evo Valley",
+    "confidence": [
+      [
+        "Pre",
+        -0.42301926
+      ],
+      [
+        "\u0161e",
+        -0.0076211835
+      ],
+      [
+        "vo",
+        0.0
+      ],
+      [
+        " Valley",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Within this body of water are the islands of Mancarroncito and La Venada. The historic city of Granada": {
+    "guess": "Lake Nicaragua",
+    "confidence": [
+      [
+        "Lake",
+        -0.0028964058
+      ],
+      [
+        " Nicaragua",
+        -0.00013274075
+      ]
+    ]
+  },
+  "Within this body of water are the islands of Mancarroncito and La Venada. The historic city of Granada is located on its northwestern shore, and it is the drainage site of more than forty rivers including": {
+    "guess": "Lake Nicaragua",
+    "confidence": [
+      [
+        "Lake",
+        -4.561021e-05
+      ],
+      [
+        " Nicaragua",
+        -1.5928495e-05
+      ]
+    ]
+  },
+  "Within this body of water are the islands of Mancarroncito and La Venada. The historic city of Granada is located on its northwestern shore, and it is the drainage site of more than forty rivers including the Tipitapa. The active volcanoes of Concepci\u00f3n and Maderas are located on its largest island of": {
+    "guess": "Lake Nicaragua",
+    "confidence": [
+      [
+        "Lake",
+        -0.00027456743
+      ],
+      [
+        " Nicaragua",
+        -5.4385737e-06
+      ]
+    ]
+  },
+  "Within this body of water are the islands of Mancarroncito and La Venada. The historic city of Granada is located on its northwestern shore, and it is the drainage site of more than forty rivers including the Tipitapa. The active volcanoes of Concepci\u00f3n and Maderas are located on its largest island of Ometepe. The San Juan River provides access for this body of water to the Caribbean Sea, and it is": {
+    "guess": "Lake Nicaragua",
+    "confidence": [
+      [
+        "Lake",
+        -0.0012226091
+      ],
+      [
+        " Nicaragua",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Within this body of water are the islands of Mancarroncito and La Venada. The historic city of Granada is located on its northwestern shore, and it is the drainage site of more than forty rivers including the Tipitapa. The active volcanoes of Concepci\u00f3n and Maderas are located on its largest island of Ometepe. The San Juan River provides access for this body of water to the Caribbean Sea, and it is separated from the Pacific Ocean by the Rivas Isthmus. Home to a namesake species of freshwater shark,": {
+    "guess": "Lake Nicaragua",
+    "confidence": [
+      [
+        "Lake",
+        -0.0004181602
+      ],
+      [
+        " Nicaragua",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Within this body of water are the islands of Mancarroncito and La Venada. The historic city of Granada is located on its northwestern shore, and it is the drainage site of more than forty rivers including the Tipitapa. The active volcanoes of Concepci\u00f3n and Maderas are located on its largest island of Ometepe. The San Juan River provides access for this body of water to the Caribbean Sea, and it is separated from the Pacific Ocean by the Rivas Isthmus. Home to a namesake species of freshwater shark, FTP, what is this Central American lake, the largest in an eponymous country with capital at Managua?": {
+    "guess": "Lake Nicaragua",
+    "confidence": [
+      [
+        "Lake",
+        -0.00041184606
+      ],
+      [
+        " Nicaragua",
+        -1.504853e-06
+      ]
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "Eruption of lava in this lake formed the Michipicoten and St. Ignace islands. Places along the shore": {
+    "guess": "Lake Superior",
+    "confidence": [
+      [
+        "Lake",
+        -0.0009548133
+      ],
+      [
+        " Superior",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "Eruption of lava in this lake formed the Michipicoten and St. Ignace islands. Places along the shore of this lake include Pukaskwa National Park, the Sleeping Giant formation, and Pictured Rocks National": {
+    "guess": "Lake Superior",
+    "confidence": [
+      [
+        "Lake",
+        -0.00016146517
+      ],
+      [
+        " Superior",
+        0.0
+      ]
+    ]
+  },
+  "Eruption of lava in this lake formed the Michipicoten and St. Ignace islands. Places along the shore of this lake include Pukaskwa National Park, the Sleeping Giant formation, and Pictured Rocks National Lakeshore, the first National Lakeshore in the United States. Rivers that feed into this lake include": {
+    "guess": "Lake Superior",
+    "confidence": [
+      [
+        "Lake",
+        -7.684157e-05
+      ],
+      [
+        " Superior",
+        0.0
+      ]
+    ]
+  },
+  "Eruption of lava in this lake formed the Michipicoten and St. Ignace islands. Places along the shore of this lake include Pukaskwa National Park, the Sleeping Giant formation, and Pictured Rocks National Lakeshore, the first National Lakeshore in the United States. Rivers that feed into this lake include the Kaministiquia, the Brule, and the Nipigon. The St. Mary's river drains this lake and connects": {
+    "guess": "Lake Superior",
+    "confidence": [
+      [
+        "Lake",
+        -0.004105116
+      ],
+      [
+        " Superior",
+        0.0
+      ]
+    ]
+  },
+  "Eruption of lava in this lake formed the Michipicoten and St. Ignace islands. Places along the shore of this lake include Pukaskwa National Park, the Sleeping Giant formation, and Pictured Rocks National Lakeshore, the first National Lakeshore in the United States. Rivers that feed into this lake include the Kaministiquia, the Brule, and the Nipigon. The St. Mary's river drains this lake and connects it to Lake Huron, while other landmarks in this lake include Whitefish Bay, the Apostle Islands,": {
+    "guess": "Lake Superior",
+    "confidence": [
+      [
+        "Lake",
+        -0.0005660186
+      ],
+      [
+        " Superior",
+        0.0
+      ]
+    ]
+  },
+  "Eruption of lava in this lake formed the Michipicoten and St. Ignace islands. Places along the shore of this lake include Pukaskwa National Park, the Sleeping Giant formation, and Pictured Rocks National Lakeshore, the first National Lakeshore in the United States. Rivers that feed into this lake include the Kaministiquia, the Brule, and the Nipigon. The St. Mary's river drains this lake and connects it to Lake Huron, while other landmarks in this lake include Whitefish Bay, the Apostle Islands, and Isle Royale. For 10 points, name this largest of the Great Lakes.": {
+    "guess": "Superior",
+    "confidence": [
+      [
+        "Superior",
+        -0.20149393
+      ]
+    ]
+  }
+}

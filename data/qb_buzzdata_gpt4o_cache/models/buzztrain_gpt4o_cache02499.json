@@ -1,0 +1,183 @@
+{
+  "Gnaeus was governor of Syria under Tiberius and may have been the person who poisoned Germanicus. One": {
+    "guess": "Gnaeus Calpurnius Piso",
+    "confidence": [
+      [
+        "G",
+        -0.03434224
+      ],
+      [
+        "nae",
+        -3.9530823e-05
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Cal",
+        -5.6338537e-05
+      ],
+      [
+        "p",
+        -1.1041146e-05
+      ],
+      [
+        "urn",
+        -1.9816675e-06
+      ],
+      [
+        "ius",
+        0.0
+      ],
+      [
+        " Piso",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Gnaeus was governor of Syria under Tiberius and may have been the person who poisoned Germanicus. One of the Luciuses served as consul in 58 B.C. and was Julius Caesar's father-in-law, while another was": {
+    "guess": "Lucius Calpurnius Piso Caesoninus",
+    "confidence": [
+      [
+        "Luc",
+        -0.026799472
+      ],
+      [
+        "ius",
+        -3.7697225e-06
+      ],
+      [
+        " Cal",
+        -0.017766139
+      ],
+      [
+        "p",
+        -3.0545007e-06
+      ],
+      [
+        "urn",
+        0.0
+      ],
+      [
+        "ius",
+        0.0
+      ],
+      [
+        " Piso",
+        -6.456359e-05
+      ],
+      [
+        " Ca",
+        -0.033047073
+      ],
+      [
+        "eson",
+        -5.6576944e-05
+      ],
+      [
+        "inus",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Gnaeus was governor of Syria under Tiberius and may have been the person who poisoned Germanicus. One of the Luciuses served as consul in 58 B.C. and was Julius Caesar's father-in-law, while another was put to death by Otho in 69 A.D. after serving for four days as the successor to Galba. Lucan's collaboration": {
+    "guess": "Gnaeus Calpurnius Piso",
+    "confidence": [
+      [
+        "G",
+        -0.7253344
+      ],
+      [
+        "nae",
+        -0.12708884
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Cal",
+        -0.0011985629
+      ],
+      [
+        "p",
+        -8.418666e-06
+      ],
+      [
+        "urn",
+        -7.89631e-07
+      ],
+      [
+        "ius",
+        -1.9361265e-07
+      ],
+      [
+        " Piso",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "Gnaeus was governor of Syria under Tiberius and may have been the person who poisoned Germanicus. One of the Luciuses served as consul in 58 B.C. and was Julius Caesar's father-in-law, while another was put to death by Otho in 69 A.D. after serving for four days as the successor to Galba. Lucan's collaboration with one of them resulted in his committing suicide by opening a vein. FTP, identify this": {
+    "guess": "Gnaeus Calpurnius Piso",
+    "confidence": [
+      [
+        "G",
+        -0.5362133
+      ],
+      [
+        "nae",
+        -0.07899213
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Cal",
+        -0.0002669384
+      ],
+      [
+        "p",
+        -1.0445127e-05
+      ],
+      [
+        "urn",
+        -6.704273e-07
+      ],
+      [
+        "ius",
+        -1.9361265e-07
+      ],
+      [
+        " Piso",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Gnaeus was governor of Syria under Tiberius and may have been the person who poisoned Germanicus. One of the Luciuses served as consul in 58 B.C. and was Julius Caesar's father-in-law, while another was put to death by Otho in 69 A.D. after serving for four days as the successor to Galba. Lucan's collaboration with one of them resulted in his committing suicide by opening a vein. FTP, identify this family of Romans, which also included Caius, who led a namesake conspiracy in 65 A.D. against Nero.": {
+    "guess": "Calpurnius Piso",
+    "confidence": [
+      [
+        "Cal",
+        -0.4423263
+      ],
+      [
+        "p",
+        -1.2664457e-06
+      ],
+      [
+        "urn",
+        -1.9361265e-07
+      ],
+      [
+        "ius",
+        -0.005277515
+      ],
+      [
+        " Piso",
+        -0.036924925
+      ]
+    ]
+  }
+}

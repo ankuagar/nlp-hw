@@ -1,0 +1,80 @@
+{
+  "The Kourou Accord, intended to peacefully resolve an insurgency in this country, was never implemented": {
+    "guess": "Suriname",
+    "confidence": [
+      [
+        "Sur",
+        -0.64304686
+      ],
+      [
+        "iname",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "The Kourou Accord, intended to peacefully resolve an insurgency in this country, was never implemented after being blocked by the man who was succeeded by Arthy Gorre in 1993. Call for new elections in": {
+    "guess": "Suriname",
+    "confidence": [
+      [
+        "Sur",
+        -0.0071973125
+      ],
+      [
+        "iname",
+        -3.5477897e-05
+      ]
+    ]
+  },
+  "The Kourou Accord, intended to peacefully resolve an insurgency in this country, was never implemented after being blocked by the man who was succeeded by Arthy Gorre in 1993. Call for new elections in 1991 led to the legislative dominance of the New Front Coalition, which included parties like the Hindustani": {
+    "guess": "Suriname",
+    "confidence": [
+      [
+        "Sur",
+        -0.00016194198
+      ],
+      [
+        "iname",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "The Kourou Accord, intended to peacefully resolve an insurgency in this country, was never implemented after being blocked by the man who was succeeded by Arthy Gorre in 1993. Call for new elections in 1991 led to the legislative dominance of the New Front Coalition, which included parties like the Hindustani Progressive Reform Party. Both the U.S. and its former colonial master leveled economic sanctions": {
+    "guess": "Suriname",
+    "confidence": [
+      [
+        "Sur",
+        -0.00067705044
+      ],
+      [
+        "iname",
+        -0.00012344286
+      ]
+    ]
+  },
+  "The Kourou Accord, intended to peacefully resolve an insurgency in this country, was never implemented after being blocked by the man who was succeeded by Arthy Gorre in 1993. Call for new elections in 1991 led to the legislative dominance of the New Front Coalition, which included parties like the Hindustani Progressive Reform Party. Both the U.S. and its former colonial master leveled economic sanctions against this country after 15 opposition leaders were murdered in 1982 by a regime led by Desi": {
+    "guess": "Suriname",
+    "confidence": [
+      [
+        "Sur",
+        -0.0007989078
+      ],
+      [
+        "iname",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "The Kourou Accord, intended to peacefully resolve an insurgency in this country, was never implemented after being blocked by the man who was succeeded by Arthy Gorre in 1993. Call for new elections in 1991 led to the legislative dominance of the New Front Coalition, which included parties like the Hindustani Progressive Reform Party. Both the U.S. and its former colonial master leveled economic sanctions against this country after 15 opposition leaders were murdered in 1982 by a regime led by Desi Bouterse. For 10 points, name this only former Dutch colony on the mainland of South America.": {
+    "guess": "Suriname",
+    "confidence": [
+      [
+        "Sur",
+        -0.0010480545
+      ],
+      [
+        "iname",
+        -0.005234002
+      ]
+    ]
+  }
+}

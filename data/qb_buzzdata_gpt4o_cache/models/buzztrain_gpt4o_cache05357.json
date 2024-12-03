@@ -1,0 +1,109 @@
+{
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river": {
+    "guess": "Adirondack Mountains",
+    "confidence": [
+      [
+        "Ad",
+        -0.0006858678
+      ],
+      [
+        "irond",
+        0.0
+      ],
+      [
+        "ack",
+        -0.014163747
+      ],
+      [
+        " Mountains",
+        -0.0017112361
+      ]
+    ]
+  },
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river flows through the largest national park in the contiguous United States in this state, and this": {
+    "guess": "Adirondack Mountains",
+    "confidence": [
+      [
+        "Ad",
+        -0.00020580526
+      ],
+      [
+        "irond",
+        0.0
+      ],
+      [
+        "ack",
+        -0.00071016705
+      ],
+      [
+        " Mountains",
+        -0.00016849818
+      ]
+    ]
+  },
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river flows through the largest national park in the contiguous United States in this state, and this state contains Hemlock Lake and Oneida Lake, part of a group of eleven appendage-like lakes. This state": {
+    "guess": "New York",
+    "confidence": [
+      [
+        "New",
+        -0.00018685187
+      ],
+      [
+        " York",
+        0.0
+      ]
+    ]
+  },
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river flows through the largest national park in the contiguous United States in this state, and this state contains Hemlock Lake and Oneida Lake, part of a group of eleven appendage-like lakes. This state contains the highest-elevation portion of the Appalachian Plateau. Lake Champlain borders this state": {
+    "guess": "New York",
+    "confidence": [
+      [
+        "New",
+        -0.0006130747
+      ],
+      [
+        " York",
+        0.0
+      ]
+    ]
+  },
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river flows through the largest national park in the contiguous United States in this state, and this state contains Hemlock Lake and Oneida Lake, part of a group of eleven appendage-like lakes. This state contains the highest-elevation portion of the Appalachian Plateau. Lake Champlain borders this state and its neighbor Vermont, and a canal connects Lake Erie to another river in this state, the Hudson.": {
+    "guess": "New York",
+    "confidence": [
+      [
+        "New",
+        -1.9862217e-05
+      ],
+      [
+        " York",
+        0.0
+      ]
+    ]
+  },
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river flows through the largest national park in the contiguous United States in this state, and this state contains Hemlock Lake and Oneida Lake, part of a group of eleven appendage-like lakes. This state contains the highest-elevation portion of the Appalachian Plateau. Lake Champlain borders this state and its neighbor Vermont, and a canal connects Lake Erie to another river in this state, the Hudson. For 10 points, name this Mid-Atlantic state which contains the Catskill and Adirondack Mountains": {
+    "guess": "New York",
+    "confidence": [
+      [
+        "New",
+        -5.7888185e-05
+      ],
+      [
+        " York",
+        0.0
+      ]
+    ]
+  },
+  "Nye Mountain is one of the 46 \"High Peaks\" within this state's largest mountain range. The Saranac river flows through the largest national park in the contiguous United States in this state, and this state contains Hemlock Lake and Oneida Lake, part of a group of eleven appendage-like lakes. This state contains the highest-elevation portion of the Appalachian Plateau. Lake Champlain borders this state and its neighbor Vermont, and a canal connects Lake Erie to another river in this state, the Hudson. For 10 points, name this Mid-Atlantic state which contains the Catskill and Adirondack Mountains and has a capital at Albany.": {
+    "guess": "New York",
+    "confidence": [
+      [
+        "New",
+        -0.0013377434
+      ],
+      [
+        " York",
+        0.0
+      ]
+    ]
+  }
+}

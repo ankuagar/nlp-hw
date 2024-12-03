@@ -1,0 +1,735 @@
+{
+  "It dilates blood vessels, promotes digestion by increasing peristalsis, increases salivary gland secretion,": {
+    "guess": "Parasympathetic nervous system",
+    "confidence": [
+      [
+        "Paras",
+        -0.07778245
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "pat",
+        -3.1281633e-07
+      ],
+      [
+        "hetic",
+        0.0
+      ],
+      [
+        " nervous",
+        -5.5577775e-06
+      ],
+      [
+        " system",
+        0.0
+      ]
+    ]
+  },
+  "It dilates blood vessels, promotes digestion by increasing peristalsis, increases salivary gland secretion, and decreases heart rate. Comprising the lower spinal nerves and the cranial nerves, its actions": {
+    "guess": "Parasympathetic nervous system",
+    "confidence": [
+      [
+        "Paras",
+        -0.0023159531
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "pat",
+        0.0
+      ],
+      [
+        "hetic",
+        0.0
+      ],
+      [
+        " nervous",
+        -5.6769813e-06
+      ],
+      [
+        " system",
+        0.0
+      ]
+    ]
+  },
+  "It dilates blood vessels, promotes digestion by increasing peristalsis, increases salivary gland secretion, and decreases heart rate. Comprising the lower spinal nerves and the cranial nerves, its actions tend to antagonize the actions of its partner system, and is responsible for automatic activities": {
+    "guess": "Parasympathetic nervous system",
+    "confidence": [
+      [
+        "Paras",
+        -0.00071779237
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "pat",
+        0.0
+      ],
+      [
+        "hetic",
+        0.0
+      ],
+      [
+        " nervous",
+        -6.392203e-06
+      ],
+      [
+        " system",
+        0.0
+      ]
+    ]
+  },
+  "It dilates blood vessels, promotes digestion by increasing peristalsis, increases salivary gland secretion, and decreases heart rate. Comprising the lower spinal nerves and the cranial nerves, its actions tend to antagonize the actions of its partner system, and is responsible for automatic activities that occur when exertion is not required. FTP, what is this part of the autonomic nervous system,": {
+    "guess": "Parasympathetic nervous system",
+    "confidence": [
+      [
+        "Paras",
+        -9.889425e-05
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "pat",
+        0.0
+      ],
+      [
+        "hetic",
+        0.0
+      ],
+      [
+        " nervous",
+        -2.1008714e-06
+      ],
+      [
+        " system",
+        0.0
+      ]
+    ]
+  },
+  "It dilates blood vessels, promotes digestion by increasing peristalsis, increases salivary gland secretion, and decreases heart rate. Comprising the lower spinal nerves and the cranial nerves, its actions tend to antagonize the actions of its partner system, and is responsible for automatic activities that occur when exertion is not required. FTP, what is this part of the autonomic nervous system, the counterpart of the sympathetic nervous system?": {
+    "guess": "Parasympathetic nervous system",
+    "confidence": [
+      [
+        "Paras",
+        -0.00033975352
+      ],
+      [
+        "ym",
+        0.0
+      ],
+      [
+        "pat",
+        0.0
+      ],
+      [
+        "hetic",
+        0.0
+      ],
+      [
+        " nervous",
+        -1.3067608e-05
+      ],
+      [
+        " system",
+        0.0
+      ]
+    ]
+  },
+  "In one dimension, these objects are sums of arbitrary functions of x minus v t and x plus v t as that": {
+    "guess": "D'Alembert's formula",
+    "confidence": [
+      [
+        "D",
+        -0.4473482
+      ],
+      [
+        "'A",
+        -9.829823e-05
+      ],
+      [
+        "lem",
+        0.0
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        "'s",
+        -7.958325e-05
+      ],
+      [
+        " formula",
+        -0.0704313
+      ]
+    ]
+  },
+  "In one dimension, these objects are sums of arbitrary functions of x minus v t and x plus v t as that is the general solution of their namesake equation, which gives a proportionality between the second": {
+    "guess": "Wave equation",
+    "confidence": [
+      [
+        "Wave",
+        -0.006580251
+      ],
+      [
+        " equation",
+        -0.00092325005
+      ]
+    ]
+  },
+  "In one dimension, these objects are sums of arbitrary functions of x minus v t and x plus v t as that is the general solution of their namesake equation, which gives a proportionality between the second space derivative and second time derivative. One parameter governing these phenomena is given by the": {
+    "guess": "Wave equation",
+    "confidence": [
+      [
+        "Wave",
+        -0.0014039215
+      ],
+      [
+        " equation",
+        -0.09295386
+      ]
+    ]
+  },
+  "In one dimension, these objects are sums of arbitrary functions of x minus v t and x plus v t as that is the general solution of their namesake equation, which gives a proportionality between the second space derivative and second time derivative. One parameter governing these phenomena is given by the angular frequency over their namesake number and is known as the group velocity. These physical objects": {
+    "guess": "Waves",
+    "confidence": [
+      [
+        "W",
+        -0.23562859
+      ],
+      [
+        "aves",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "In one dimension, these objects are sums of arbitrary functions of x minus v t and x plus v t as that is the general solution of their namesake equation, which gives a proportionality between the second space derivative and second time derivative. One parameter governing these phenomena is given by the angular frequency over their namesake number and is known as the group velocity. These physical objects can be longitudinal or transverse and exhibit refraction, diffraction, interference, and dispersion.": {
+    "guess": "Waves",
+    "confidence": [
+      [
+        "W",
+        -0.25278714
+      ],
+      [
+        "aves",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In one dimension, these objects are sums of arbitrary functions of x minus v t and x plus v t as that is the general solution of their namesake equation, which gives a proportionality between the second space derivative and second time derivative. One parameter governing these phenomena is given by the angular frequency over their namesake number and is known as the group velocity. These physical objects can be longitudinal or transverse and exhibit refraction, diffraction, interference, and dispersion. FTP, name these physical phenomena; propagating disturbances in a medium often seen on the surface": {
+    "guess": "Waves",
+    "confidence": [
+      [
+        "W",
+        -0.08091525
+      ],
+      [
+        "aves",
+        0.0
+      ]
+    ]
+  },
+  "In one dimension, these objects are sums of arbitrary functions of x minus v t and x plus v t as that is the general solution of their namesake equation, which gives a proportionality between the second space derivative and second time derivative. One parameter governing these phenomena is given by the angular frequency over their namesake number and is known as the group velocity. These physical objects can be longitudinal or transverse and exhibit refraction, diffraction, interference, and dispersion. FTP, name these physical phenomena; propagating disturbances in a medium often seen on the surface of water.": {
+    "guess": "Waves",
+    "confidence": [
+      [
+        "W",
+        -0.049856115
+      ],
+      [
+        "aves",
+        0.0
+      ]
+    ]
+  },
+  "His dilemma is based on his proposal of a substitution cost for natural selection, while his rule relates": {
+    "guess": "Haldane's dilemma",
+    "confidence": [
+      [
+        "H",
+        -0.017579675
+      ],
+      [
+        "ald",
+        -2.8160932e-06
+      ],
+      [
+        "ane",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -0.00010831134
+      ],
+      [
+        " dilemma",
+        -0.014732188
+      ]
+    ]
+  },
+  "His dilemma is based on his proposal of a substitution cost for natural selection, while his rule relates heterozygote inviability and sterility. He suggested that heterozygosity for the beta-thalassemia": {
+    "guess": "Haldane's dilemma",
+    "confidence": [
+      [
+        "H",
+        -0.1147727
+      ],
+      [
+        "ald",
+        -0.00024132428
+      ],
+      [
+        "ane",
+        -2.4584822e-06
+      ],
+      [
+        "'s",
+        -0.00034559448
+      ],
+      [
+        " dilemma",
+        -0.043005824
+      ]
+    ]
+  },
+  "His dilemma is based on his proposal of a substitution cost for natural selection, while his rule relates heterozygote inviability and sterility. He suggested that heterozygosity for the beta-thalassemia gene might confer resistance to malaria, while in more biochemical work, he collaborated with Briggs": {
+    "guess": "Haldane's dilemma",
+    "confidence": [
+      [
+        "H",
+        -0.07045274
+      ],
+      [
+        "ald",
+        -8.923875e-05
+      ],
+      [
+        "ane",
+        0.0
+      ],
+      [
+        "'s",
+        -9.877504e-05
+      ],
+      [
+        " dilemma",
+        -0.024183575
+      ]
+    ]
+  },
+  "His dilemma is based on his proposal of a substitution cost for natural selection, while his rule relates heterozygote inviability and sterility. He suggested that heterozygosity for the beta-thalassemia gene might confer resistance to malaria, while in more biochemical work, he collaborated with Briggs on a derivation of the Michaelis-Menten equation. Known also for popularizing science in such works": {
+    "guess": "J.B.S. Haldane",
+    "confidence": [
+      [
+        "J",
+        -0.025014075
+      ],
+      [
+        ".B",
+        -0.38687184
+      ],
+      [
+        ".S",
+        -5.5122365e-07
+      ],
+      [
+        ".",
+        -7.9418505e-06
+      ],
+      [
+        " H",
+        0.0
+      ],
+      [
+        "ald",
+        0.0
+      ],
+      [
+        "ane",
+        0.0
+      ]
+    ]
+  },
+  "His dilemma is based on his proposal of a substitution cost for natural selection, while his rule relates heterozygote inviability and sterility. He suggested that heterozygosity for the beta-thalassemia gene might confer resistance to malaria, while in more biochemical work, he collaborated with Briggs on a derivation of the Michaelis-Menten equation. Known also for popularizing science in such works as \"On Being the Right Size\" and \"Daedalus or Science and the Future,\" FTP, name this British biologist": {
+    "guess": "J.B.S. Haldane",
+    "confidence": [
+      [
+        "J",
+        -0.014925283
+      ],
+      [
+        ".B",
+        -0.02054247
+      ],
+      [
+        ".S",
+        -6.2729996e-06
+      ],
+      [
+        ".",
+        -1.0206721e-05
+      ],
+      [
+        " H",
+        0.0
+      ],
+      [
+        "ald",
+        0.0
+      ],
+      [
+        "ane",
+        0.0
+      ]
+    ]
+  },
+  "His dilemma is based on his proposal of a substitution cost for natural selection, while his rule relates heterozygote inviability and sterility. He suggested that heterozygosity for the beta-thalassemia gene might confer resistance to malaria, while in more biochemical work, he collaborated with Briggs on a derivation of the Michaelis-Menten equation. Known also for popularizing science in such works as \"On Being the Right Size\" and \"Daedalus or Science and the Future,\" FTP, name this British biologist whose speculation on the chemical origin of life on Earth is frequently linked with that of": {
+    "guess": "J.B.S. Haldane",
+    "confidence": [
+      [
+        "J",
+        -0.0024857654
+      ],
+      [
+        ".B",
+        -0.016035542
+      ],
+      [
+        ".S",
+        -2.9352968e-06
+      ],
+      [
+        ".",
+        -6.2729996e-06
+      ],
+      [
+        " H",
+        -3.1281633e-07
+      ],
+      [
+        "ald",
+        0.0
+      ],
+      [
+        "ane",
+        0.0
+      ]
+    ]
+  },
+  "His dilemma is based on his proposal of a substitution cost for natural selection, while his rule relates heterozygote inviability and sterility. He suggested that heterozygosity for the beta-thalassemia gene might confer resistance to malaria, while in more biochemical work, he collaborated with Briggs on a derivation of the Michaelis-Menten equation. Known also for popularizing science in such works as \"On Being the Right Size\" and \"Daedalus or Science and the Future,\" FTP, name this British biologist whose speculation on the chemical origin of life on Earth is frequently linked with that of Oparin and was later verified by Miller and Urey.": {
+    "guess": "J.B.S. Haldane",
+    "confidence": [
+      [
+        "J",
+        -0.00058806024
+      ],
+      [
+        ".B",
+        -0.01603519
+      ],
+      [
+        ".S",
+        -1.0206721e-05
+      ],
+      [
+        ".",
+        -4.246537e-06
+      ],
+      [
+        " H",
+        -6.704273e-07
+      ],
+      [
+        "ald",
+        0.0
+      ],
+      [
+        "ane",
+        0.0
+      ]
+    ]
+  },
+  "Dimerizing a solution of this molecule with Raney nickel creates the bidentate ligand bipy [Bee-pee].": {
+    "guess": "Pyridine",
+    "confidence": [
+      [
+        "P",
+        -0.31303588
+      ],
+      [
+        "yr",
+        -9.968313e-06
+      ],
+      [
+        "idine",
+        -0.0005801965
+      ]
+    ]
+  },
+  "Dimerizing a solution of this molecule with Raney nickel creates the bidentate ligand bipy [Bee-pee]. One synthesis of this compound condenses acrolein and acetaldehyde, while another method is a modification": {
+    "guess": "Pyridine",
+    "confidence": [
+      [
+        "P",
+        -0.015633676
+      ],
+      [
+        "yr",
+        -2.8444882e-05
+      ],
+      [
+        "idine",
+        -0.0005949704
+      ]
+    ]
+  },
+  "Dimerizing a solution of this molecule with Raney nickel creates the bidentate ligand bipy [Bee-pee]. One synthesis of this compound condenses acrolein and acetaldehyde, while another method is a modification of the Reppe synthesis using two equivalents of acetylene and a nitrile with a cobalt catalyst.": {
+    "guess": "2,2'-Bipyridine",
+    "confidence": [
+      [
+        "2",
+        -0.32705188
+      ],
+      [
+        ",",
+        -0.00021545708
+      ],
+      [
+        "2",
+        -3.0545007e-06
+      ],
+      [
+        "'-",
+        -0.0011504596
+      ],
+      [
+        "B",
+        -0.006717744
+      ],
+      [
+        "ip",
+        -1.9816675e-06
+      ],
+      [
+        "yr",
+        0.0
+      ],
+      [
+        "idine",
+        -7.493431e-05
+      ]
+    ]
+  },
+  "Dimerizing a solution of this molecule with Raney nickel creates the bidentate ligand bipy [Bee-pee]. One synthesis of this compound condenses acrolein and acetaldehyde, while another method is a modification of the Reppe synthesis using two equivalents of acetylene and a nitrile with a cobalt catalyst. More famous syntheses include one with formaldehyde, two equivalents of acetoacetate, and ammonium": {
+    "guess": "Pyridine",
+    "confidence": [
+      [
+        "P",
+        -0.0040189223
+      ],
+      [
+        "yr",
+        0.0
+      ],
+      [
+        "idine",
+        -0.00020544765
+      ]
+    ]
+  },
+  "Dimerizing a solution of this molecule with Raney nickel creates the bidentate ligand bipy [Bee-pee]. One synthesis of this compound condenses acrolein and acetaldehyde, while another method is a modification of the Reppe synthesis using two equivalents of acetylene and a nitrile with a cobalt catalyst. More famous syntheses include one with formaldehyde, two equivalents of acetoacetate, and ammonium acetate. Those reactions are the Bonneman cyclization, the Chichibabin synthesis, and the Hantzsch": {
+    "guess": "Pyridine",
+    "confidence": [
+      [
+        "P",
+        -0.055430666
+      ],
+      [
+        "yr",
+        0.0
+      ],
+      [
+        "idine",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "Dimerizing a solution of this molecule with Raney nickel creates the bidentate ligand bipy [Bee-pee]. One synthesis of this compound condenses acrolein and acetaldehyde, while another method is a modification of the Reppe synthesis using two equivalents of acetylene and a nitrile with a cobalt catalyst. More famous syntheses include one with formaldehyde, two equivalents of acetoacetate, and ammonium acetate. Those reactions are the Bonneman cyclization, the Chichibabin synthesis, and the Hantzsch synthesis. Reacting one of these chemicals with 2,4 dinitrochlorobenzene and a primary amine creates": {
+    "guess": "Pyridine",
+    "confidence": [
+      [
+        "P",
+        -0.009296165
+      ],
+      [
+        "yr",
+        0.0
+      ],
+      [
+        "idine",
+        -0.048588395
+      ]
+    ]
+  },
+  "Dimerizing a solution of this molecule with Raney nickel creates the bidentate ligand bipy [Bee-pee]. One synthesis of this compound condenses acrolein and acetaldehyde, while another method is a modification of the Reppe synthesis using two equivalents of acetylene and a nitrile with a cobalt catalyst. More famous syntheses include one with formaldehyde, two equivalents of acetoacetate, and ammonium acetate. Those reactions are the Bonneman cyclization, the Chichibabin synthesis, and the Hantzsch synthesis. Reacting one of these chemicals with 2,4 dinitrochlorobenzene and a primary amine creates a salt of them in the Zincke reaction. Adding it to a solution of chromium trioxide in dichloromethane": {
+    "guess": "Pyridine",
+    "confidence": [
+      [
+        "P",
+        -0.0038163455
+      ],
+      [
+        "yr",
+        0.0
+      ],
+      [
+        "idine",
+        -0.07889056
+      ]
+    ]
+  },
+  "Dimerizing a solution of this molecule with Raney nickel creates the bidentate ligand bipy [Bee-pee]. One synthesis of this compound condenses acrolein and acetaldehyde, while another method is a modification of the Reppe synthesis using two equivalents of acetylene and a nitrile with a cobalt catalyst. More famous syntheses include one with formaldehyde, two equivalents of acetoacetate, and ammonium acetate. Those reactions are the Bonneman cyclization, the Chichibabin synthesis, and the Hantzsch synthesis. Reacting one of these chemicals with 2,4 dinitrochlorobenzene and a primary amine creates a salt of them in the Zincke reaction. Adding it to a solution of chromium trioxide in dichloromethane creates Collins reagent. A chlorochromate derivative of it is used as a gentle oxidizing agent,": {
+    "guess": "Pyridine",
+    "confidence": [
+      [
+        "P",
+        -0.0004002833
+      ],
+      [
+        "yr",
+        0.0
+      ],
+      [
+        "idine",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "Dimerizing a solution of this molecule with Raney nickel creates the bidentate ligand bipy [Bee-pee]. One synthesis of this compound condenses acrolein and acetaldehyde, while another method is a modification of the Reppe synthesis using two equivalents of acetylene and a nitrile with a cobalt catalyst. More famous syntheses include one with formaldehyde, two equivalents of acetoacetate, and ammonium acetate. Those reactions are the Bonneman cyclization, the Chichibabin synthesis, and the Hantzsch synthesis. Reacting one of these chemicals with 2,4 dinitrochlorobenzene and a primary amine creates a salt of them in the Zincke reaction. Adding it to a solution of chromium trioxide in dichloromethane creates Collins reagent. A chlorochromate derivative of it is used as a gentle oxidizing agent, and this compound contains a lone pair of electrons lying outside of its ring. Adding an acid group": {
+    "guess": "Pyridine",
+    "confidence": [
+      [
+        "P",
+        -0.00050859177
+      ],
+      [
+        "yr",
+        0.0
+      ],
+      [
+        "idine",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Dimerizing a solution of this molecule with Raney nickel creates the bidentate ligand bipy [Bee-pee]. One synthesis of this compound condenses acrolein and acetaldehyde, while another method is a modification of the Reppe synthesis using two equivalents of acetylene and a nitrile with a cobalt catalyst. More famous syntheses include one with formaldehyde, two equivalents of acetoacetate, and ammonium acetate. Those reactions are the Bonneman cyclization, the Chichibabin synthesis, and the Hantzsch synthesis. Reacting one of these chemicals with 2,4 dinitrochlorobenzene and a primary amine creates a salt of them in the Zincke reaction. Adding it to a solution of chromium trioxide in dichloromethane creates Collins reagent. A chlorochromate derivative of it is used as a gentle oxidizing agent, and this compound contains a lone pair of electrons lying outside of its ring. Adding an acid group to this moiety creates nicotinic acid, or niacin. For 10 points, name this aromatic molecule, which": {
+    "guess": "Pyridine",
+    "confidence": [
+      [
+        "P",
+        -6.706687e-05
+      ],
+      [
+        "yr",
+        0.0
+      ],
+      [
+        "idine",
+        0.0
+      ]
+    ]
+  },
+  "Dimerizing a solution of this molecule with Raney nickel creates the bidentate ligand bipy [Bee-pee]. One synthesis of this compound condenses acrolein and acetaldehyde, while another method is a modification of the Reppe synthesis using two equivalents of acetylene and a nitrile with a cobalt catalyst. More famous syntheses include one with formaldehyde, two equivalents of acetoacetate, and ammonium acetate. Those reactions are the Bonneman cyclization, the Chichibabin synthesis, and the Hantzsch synthesis. Reacting one of these chemicals with 2,4 dinitrochlorobenzene and a primary amine creates a salt of them in the Zincke reaction. Adding it to a solution of chromium trioxide in dichloromethane creates Collins reagent. A chlorochromate derivative of it is used as a gentle oxidizing agent, and this compound contains a lone pair of electrons lying outside of its ring. Adding an acid group to this moiety creates nicotinic acid, or niacin. For 10 points, name this aromatic molecule, which consists of a benzene ring with one carbon replaced by a nitrogen.": {
+    "guess": "Pyridine",
+    "confidence": [
+      [
+        "P",
+        -1.3663626e-05
+      ],
+      [
+        "yr",
+        0.0
+      ],
+      [
+        "idine",
+        0.0
+      ]
+    ]
+  },
+  "In dimensions greater than or equal to this number, Stephen Smale proved the generalized Poincare [pwan-ka-REY]": {
+    "guess": "Five",
+    "confidence": [
+      [
+        "Five",
+        -0.21405423
+      ]
+    ]
+  },
+  "In dimensions greater than or equal to this number, Stephen Smale proved the generalized Poincare [pwan-ka-REY] conjecture. This number is the only Catalan number between two and fourteen. In the third": {
+    "guess": "Four",
+    "confidence": [
+      [
+        "Four",
+        -0.120079115
+      ]
+    ]
+  },
+  "In dimensions greater than or equal to this number, Stephen Smale proved the generalized Poincare [pwan-ka-REY] conjecture. This number is the only Catalan number between two and fourteen. In the third term of the Maclaurin expansion of the sine function, the variable is raised to this power. The roots": {
+    "guess": "Three",
+    "confidence": [
+      [
+        "Three",
+        -0.4602852
+      ]
+    ]
+  },
+  "In dimensions greater than or equal to this number, Stephen Smale proved the generalized Poincare [pwan-ka-REY] conjecture. This number is the only Catalan number between two and fourteen. In the third term of the Maclaurin expansion of the sine function, the variable is raised to this power. The roots of polynomial equations of this degree or higher are not capable of algebraic solutions according": {
+    "guess": "Five",
+    "confidence": [
+      [
+        "Five",
+        -0.3517789
+      ]
+    ]
+  },
+  "In dimensions greater than or equal to this number, Stephen Smale proved the generalized Poincare [pwan-ka-REY] conjecture. This number is the only Catalan number between two and fourteen. In the third term of the Maclaurin expansion of the sine function, the variable is raised to this power. The roots of polynomial equations of this degree or higher are not capable of algebraic solutions according to the Abel-Ruffini theorem. The value of the golden ratio equals one plus the square root of this": {
+    "guess": "Five",
+    "confidence": [
+      [
+        "Five",
+        -0.060664542
+      ]
+    ]
+  },
+  "In dimensions greater than or equal to this number, Stephen Smale proved the generalized Poincare [pwan-ka-REY] conjecture. This number is the only Catalan number between two and fourteen. In the third term of the Maclaurin expansion of the sine function, the variable is raised to this power. The roots of polynomial equations of this degree or higher are not capable of algebraic solutions according to the Abel-Ruffini theorem. The value of the golden ratio equals one plus the square root of this number, all divided by two. In a regular polygon with this number of sides, each interior angle is 108": {
+    "guess": "Five",
+    "confidence": [
+      [
+        "Five",
+        -0.658659
+      ]
+    ]
+  },
+  "In dimensions greater than or equal to this number, Stephen Smale proved the generalized Poincare [pwan-ka-REY] conjecture. This number is the only Catalan number between two and fourteen. In the third term of the Maclaurin expansion of the sine function, the variable is raised to this power. The roots of polynomial equations of this degree or higher are not capable of algebraic solutions according to the Abel-Ruffini theorem. The value of the golden ratio equals one plus the square root of this number, all divided by two. In a regular polygon with this number of sides, each interior angle is 108 degrees. For 10 points, name this number of sides on a pentagon.": {
+    "guess": "FIVE",
+    "confidence": [
+      [
+        "F",
+        -0.31934702
+      ],
+      [
+        "IVE",
+        -1.5570886e-05
+      ]
+    ]
+  }
+}

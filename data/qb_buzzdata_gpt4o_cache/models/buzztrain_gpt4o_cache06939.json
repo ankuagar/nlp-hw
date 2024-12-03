@@ -1,0 +1,103 @@
+{
+  "In the 1580s he became a chaplain at the French embassy in London under the name of Henry Fagot, and": {
+    "guess": "John Gerard",
+    "confidence": [
+      [
+        "John",
+        -0.4386116
+      ],
+      [
+        " Gerard",
+        -0.47874883
+      ]
+    ]
+  },
+  "In the 1580s he became a chaplain at the French embassy in London under the name of Henry Fagot, and his espionage helped foil the Throckmorton plot. He was a member of the Dominican order for a while,": {
+    "guess": "Gilbert Gifford",
+    "confidence": [
+      [
+        "Gil",
+        -0.38974237
+      ],
+      [
+        "bert",
+        -2.220075e-06
+      ],
+      [
+        " G",
+        -3.2929079e-06
+      ],
+      [
+        "iff",
+        -5.7961847e-06
+      ],
+      [
+        "ord",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In the 1580s he became a chaplain at the French embassy in London under the name of Henry Fagot, and his espionage helped foil the Throckmorton plot. He was a member of the Dominican order for a while, but was forced to leave because of his radical  views on the infinite nature of space, supporting the": {
+    "guess": "Giordano Bruno",
+    "confidence": [
+      [
+        "Gi",
+        -0.002385757
+      ],
+      [
+        "ord",
+        -1.147242e-06
+      ],
+      [
+        "ano",
+        0.0
+      ],
+      [
+        " Bruno",
+        0.0
+      ]
+    ]
+  },
+  "In the 1580s he became a chaplain at the French embassy in London under the name of Henry Fagot, and his espionage helped foil the Throckmorton plot. He was a member of the Dominican order for a while, but was forced to leave because of his radical  views on the infinite nature of space, supporting the Copernican system. FTP, name this Italian thinker, who was arrested by the Inquisition in 1592 and": {
+    "guess": "Giordano Bruno",
+    "confidence": [
+      [
+        "Gi",
+        -0.00017159748
+      ],
+      [
+        "ord",
+        0.0
+      ],
+      [
+        "ano",
+        0.0
+      ],
+      [
+        " Bruno",
+        0.0
+      ]
+    ]
+  },
+  "In the 1580s he became a chaplain at the French embassy in London under the name of Henry Fagot, and his espionage helped foil the Throckmorton plot. He was a member of the Dominican order for a while, but was forced to leave because of his radical  views on the infinite nature of space, supporting the Copernican system. FTP, name this Italian thinker, who was arrested by the Inquisition in 1592 and burned at the stake eight years later, an event which influenced Galileo to recant.": {
+    "guess": "Giordano Bruno",
+    "confidence": [
+      [
+        "Gi",
+        -0.00026956087
+      ],
+      [
+        "ord",
+        0.0
+      ],
+      [
+        "ano",
+        0.0
+      ],
+      [
+        " Bruno",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,2749 @@
+{
+  "Syndromes that affect this organ include WAGR syndrome and Denys-Drash syndrome, both of which increase": {
+    "guess": "Wilms' tumor",
+    "confidence": [
+      [
+        "Wil",
+        -0.6022988
+      ],
+      [
+        "ms",
+        0.0
+      ],
+      [
+        "'",
+        -0.7024393
+      ],
+      [
+        " tumor",
+        -0.011110308
+      ]
+    ]
+  },
+  "Syndromes that affect this organ include WAGR syndrome and Denys-Drash syndrome, both of which increase the chance of developing Wilm's tumor. Another disease of this organ is Minimal Change disease, which": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0326126
+      ]
+    ]
+  },
+  "Syndromes that affect this organ include WAGR syndrome and Denys-Drash syndrome, both of which increase the chance of developing Wilm's tumor. Another disease of this organ is Minimal Change disease, which increases its permeability to serum albumin, causing edema. Diabetic neuropathy is a disease of": {
+    "guess": "Kidney",
+    "confidence": [
+      [
+        "Kid",
+        -0.44303226
+      ],
+      [
+        "ney",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "Syndromes that affect this organ include WAGR syndrome and Denys-Drash syndrome, both of which increase the chance of developing Wilm's tumor. Another disease of this organ is Minimal Change disease, which increases its permeability to serum albumin, causing edema. Diabetic neuropathy is a disease of this organ that affects the blood vessels of the glomerulus, a capillary tuft that filters fluids out": {
+    "guess": "Kidney",
+    "confidence": [
+      [
+        "Kid",
+        -0.09316468
+      ],
+      [
+        "ney",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Syndromes that affect this organ include WAGR syndrome and Denys-Drash syndrome, both of which increase the chance of developing Wilm's tumor. Another disease of this organ is Minimal Change disease, which increases its permeability to serum albumin, causing edema. Diabetic neuropathy is a disease of this organ that affects the blood vessels of the glomerulus, a capillary tuft that filters fluids out of the blood and into Bowman's Capsule. Dialysis is able to perform the tasks of this organ and is": {
+    "guess": "Kidney",
+    "confidence": [
+      [
+        "Kid",
+        -0.19598202
+      ],
+      [
+        "ney",
+        -5.5577775e-06
+      ]
+    ]
+  },
+  "Syndromes that affect this organ include WAGR syndrome and Denys-Drash syndrome, both of which increase the chance of developing Wilm's tumor. Another disease of this organ is Minimal Change disease, which increases its permeability to serum albumin, causing edema. Diabetic neuropathy is a disease of this organ that affects the blood vessels of the glomerulus, a capillary tuft that filters fluids out of the blood and into Bowman's Capsule. Dialysis is able to perform the tasks of this organ and is administered to patients with failed or missing ones. For 10 points, name this organ that filters": {
+    "guess": "Kidney",
+    "confidence": [
+      [
+        "Kid",
+        -0.06674378
+      ],
+      [
+        "ney",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "Syndromes that affect this organ include WAGR syndrome and Denys-Drash syndrome, both of which increase the chance of developing Wilm's tumor. Another disease of this organ is Minimal Change disease, which increases its permeability to serum albumin, causing edema. Diabetic neuropathy is a disease of this organ that affects the blood vessels of the glomerulus, a capillary tuft that filters fluids out of the blood and into Bowman's Capsule. Dialysis is able to perform the tasks of this organ and is administered to patients with failed or missing ones. For 10 points, name this organ that filters the blood and produces urine.": {
+    "guess": "Kidney",
+    "confidence": [
+      [
+        "Kid",
+        -0.21982965
+      ],
+      [
+        "ney",
+        -4.561021e-05
+      ]
+    ]
+  },
+  "The symmetry-preserving Kosterlitz-Thouless type of these occurs in two-dimensional superconductors.": {
+    "guess": "Berezinskii-Kosterlitz-Thouless transition",
+    "confidence": [
+      [
+        "B",
+        -0.7300506
+      ],
+      [
+        "erez",
+        -0.47414038
+      ],
+      [
+        "ins",
+        -0.0015609275
+      ],
+      [
+        "kii",
+        -4.3202e-07
+      ],
+      [
+        "-K",
+        -0.14268187
+      ],
+      [
+        "oster",
+        0.0
+      ],
+      [
+        "l",
+        0.0
+      ],
+      [
+        "itz",
+        0.0
+      ],
+      [
+        "-Th",
+        0.0
+      ],
+      [
+        "ou",
+        -3.1281633e-07
+      ],
+      [
+        "less",
+        -1.9361265e-07
+      ],
+      [
+        " transition",
+        -0.00019936825
+      ]
+    ]
+  },
+  "The symmetry-preserving Kosterlitz-Thouless type of these occurs in two-dimensional superconductors. Mean-field theories break down in the vicinity of these events, leading to inaccuracies in the Ehrenfest": {
+    "guess": "Phase transition",
+    "confidence": [
+      [
+        "Phase",
+        -0.009824918
+      ],
+      [
+        " transition",
+        -0.0019295862
+      ]
+    ]
+  },
+  "The symmetry-preserving Kosterlitz-Thouless type of these occurs in two-dimensional superconductors. Mean-field theories break down in the vicinity of these events, leading to inaccuracies in the Ehrenfest scheme by which they are classified. In the neighborhood of these, fluids may exhibit critical": {
+    "guess": "Phase transition",
+    "confidence": [
+      [
+        "Phase",
+        -0.0029049662
+      ],
+      [
+        " transition",
+        -0.16022645
+      ]
+    ]
+  },
+  "The symmetry-preserving Kosterlitz-Thouless type of these occurs in two-dimensional superconductors. Mean-field theories break down in the vicinity of these events, leading to inaccuracies in the Ehrenfest scheme by which they are classified. In the neighborhood of these, fluids may exhibit critical opalescence. Those involving latent heat are known as first-order; the second-order ones are continuous": {
+    "guess": "Phase transition",
+    "confidence": [
+      [
+        "Phase",
+        -0.005343805
+      ],
+      [
+        " transition",
+        -3.1305768e-05
+      ]
+    ]
+  },
+  "The symmetry-preserving Kosterlitz-Thouless type of these occurs in two-dimensional superconductors. Mean-field theories break down in the vicinity of these events, leading to inaccuracies in the Ehrenfest scheme by which they are classified. In the neighborhood of these, fluids may exhibit critical opalescence. Those involving latent heat are known as first-order; the second-order ones are continuous and include the one between paramagnetism and ferromagnetism and the one between viscous flow and": {
+    "guess": "Phase transition",
+    "confidence": [
+      [
+        "Phase",
+        -0.008793016
+      ],
+      [
+        " transition",
+        -4.5491004e-05
+      ]
+    ]
+  },
+  "The symmetry-preserving Kosterlitz-Thouless type of these occurs in two-dimensional superconductors. Mean-field theories break down in the vicinity of these events, leading to inaccuracies in the Ehrenfest scheme by which they are classified. In the neighborhood of these, fluids may exhibit critical opalescence. Those involving latent heat are known as first-order; the second-order ones are continuous and include the one between paramagnetism and ferromagnetism and the one between viscous flow and superfluidity. FTP, identify these physical events typically characterized by a critical point such": {
+    "guess": "Phase transition",
+    "confidence": [
+      [
+        "Phase",
+        -0.0022043784
+      ],
+      [
+        " transition",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "The symmetry-preserving Kosterlitz-Thouless type of these occurs in two-dimensional superconductors. Mean-field theories break down in the vicinity of these events, leading to inaccuracies in the Ehrenfest scheme by which they are classified. In the neighborhood of these, fluids may exhibit critical opalescence. Those involving latent heat are known as first-order; the second-order ones are continuous and include the one between paramagnetism and ferromagnetism and the one between viscous flow and superfluidity. FTP, identify these physical events typically characterized by a critical point such as the Curie temperature and some common examples of which are the boiling and freezing of water.": {
+    "guess": "Phase transition",
+    "confidence": [
+      [
+        "Phase",
+        -0.00018029935
+      ],
+      [
+        " transition",
+        -0.00043150366
+      ]
+    ]
+  },
+  "In a symbolic section of this book, eels swarm over the rotting head of a horse and toy shop owner Sigismund": {
+    "guess": "The Tin Drum",
+    "confidence": [
+      [
+        "The",
+        -0.005236718
+      ],
+      [
+        " Tin",
+        -4.3202e-07
+      ],
+      [
+        " Drum",
+        0.0
+      ]
+    ]
+  },
+  "In a symbolic section of this book, eels swarm over the rotting head of a horse and toy shop owner Sigismund Markus is ejected from a cemetery.  The sight of a moth flapping its wings against a light bulb": {
+    "guess": "The Tin Drum",
+    "confidence": [
+      [
+        "The",
+        -0.0019370813
+      ],
+      [
+        " Tin",
+        -2.8206474e-05
+      ],
+      [
+        " Drum",
+        0.0
+      ]
+    ]
+  },
+  "In a symbolic section of this book, eels swarm over the rotting head of a horse and toy shop owner Sigismund Markus is ejected from a cemetery.  The sight of a moth flapping its wings against a light bulb becomes the protagonist's \"master,\" and he later paints \"Madonna 49,\" meets the \"musical clown\"": {
+    "guess": "The Tin Drum",
+    "confidence": [
+      [
+        "The",
+        -0.000553748
+      ],
+      [
+        " Tin",
+        -1.640531e-05
+      ],
+      [
+        " Drum",
+        0.0
+      ]
+    ]
+  },
+  "In a symbolic section of this book, eels swarm over the rotting head of a horse and toy shop owner Sigismund Markus is ejected from a cemetery.  The sight of a moth flapping its wings against a light bulb becomes the protagonist's \"master,\" and he later paints \"Madonna 49,\" meets the \"musical clown\" Bebra, possibly fathers Maria Truczinski's child, leads \"the dusters,\" and tricks his father into committing": {
+    "guess": "The Tin Drum",
+    "confidence": [
+      [
+        "The",
+        -0.00055422477
+      ],
+      [
+        " Tin",
+        -1.6240566e-06
+      ],
+      [
+        " Drum",
+        0.0
+      ]
+    ]
+  },
+  "In a symbolic section of this book, eels swarm over the rotting head of a horse and toy shop owner Sigismund Markus is ejected from a cemetery.  The sight of a moth flapping its wings against a light bulb becomes the protagonist's \"master,\" and he later paints \"Madonna 49,\" meets the \"musical clown\" Bebra, possibly fathers Maria Truczinski's child, leads \"the dusters,\" and tricks his father into committing suicide by swallowing a Nazi Party membership badge.  The narrator is long the size of a three": {
+    "guess": "The Tin Drum",
+    "confidence": [
+      [
+        "The",
+        -0.00026336228
+      ],
+      [
+        " Tin",
+        -2.3392786e-06
+      ],
+      [
+        " Drum",
+        0.0
+      ]
+    ]
+  },
+  "In a symbolic section of this book, eels swarm over the rotting head of a horse and toy shop owner Sigismund Markus is ejected from a cemetery.  The sight of a moth flapping its wings against a light bulb becomes the protagonist's \"master,\" and he later paints \"Madonna 49,\" meets the \"musical clown\" Bebra, possibly fathers Maria Truczinski's child, leads \"the dusters,\" and tricks his father into committing suicide by swallowing a Nazi Party membership badge.  The narrator is long the size of a three year old and wields an intolerable scream whenever he is separated from the title object.  FTP,": {
+    "guess": "The Tin Drum",
+    "confidence": [
+      [
+        "The",
+        -0.0019316127
+      ],
+      [
+        " Tin",
+        -1.7120534e-05
+      ],
+      [
+        " Drum",
+        0.0
+      ]
+    ]
+  },
+  "In a symbolic section of this book, eels swarm over the rotting head of a horse and toy shop owner Sigismund Markus is ejected from a cemetery.  The sight of a moth flapping its wings against a light bulb becomes the protagonist's \"master,\" and he later paints \"Madonna 49,\" meets the \"musical clown\" Bebra, possibly fathers Maria Truczinski's child, leads \"the dusters,\" and tricks his father into committing suicide by swallowing a Nazi Party membership badge.  The narrator is long the size of a three year old and wields an intolerable scream whenever he is separated from the title object.  FTP, name this story of Oskar Matzerath, the first novel of the Danzig trilogy by G?nter Grass.": {
+    "guess": "The Tin Drum",
+    "confidence": [
+      [
+        "The",
+        -0.0013284528
+      ],
+      [
+        " Tin",
+        -3.0545007e-06
+      ],
+      [
+        " Drum",
+        0.0
+      ]
+    ]
+  },
+  "This symbol is used to denote a quantity that is roughly equal to 1 over 137, known as the fine structure": {
+    "guess": "Alpha (fine-structure constant)",
+    "confidence": [
+      [
+        "Alpha",
+        -0.0052777533
+      ],
+      [
+        " (",
+        -0.009251521
+      ],
+      [
+        "fine",
+        -0.21280445
+      ],
+      [
+        "-",
+        -0.28141454
+      ],
+      [
+        "structure",
+        -3.1281633e-07
+      ],
+      [
+        " constant",
+        -0.000117370815
+      ],
+      [
+        ")",
+        -0.014179148
+      ]
+    ]
+  },
+  "This symbol is used to denote a quantity that is roughly equal to 1 over 137, known as the fine structure constant. In physics, it denotes a particle that reacts with three of itself to produce carbon": {
+    "guess": "ALPHA",
+    "confidence": [
+      [
+        "AL",
+        -0.11895564
+      ],
+      [
+        "PHA",
+        -7.822647e-06
+      ]
+    ]
+  },
+  "This symbol is used to denote a quantity that is roughly equal to 1 over 137, known as the fine structure constant. In physics, it denotes a particle that reacts with three of itself to produce carbon in a nuclear fusion process. That particle, which consists of two protons and two neutrons, is equivalent": {
+    "guess": "Alpha particle",
+    "confidence": [
+      [
+        "Alpha",
+        -0.003496008
+      ],
+      [
+        " particle",
+        -6.217952e-05
+      ]
+    ]
+  },
+  "This symbol is used to denote a quantity that is roughly equal to 1 over 137, known as the fine structure constant. In physics, it denotes a particle that reacts with three of itself to produce carbon in a nuclear fusion process. That particle, which consists of two protons and two neutrons, is equivalent to a helium nucleus. In biology, this symbol denotes the most powerful male species in a community.": {
+    "guess": "Alpha",
+    "confidence": [
+      [
+        "Alpha",
+        -0.02695383
+      ]
+    ]
+  },
+  "This symbol is used to denote a quantity that is roughly equal to 1 over 137, known as the fine structure constant. In physics, it denotes a particle that reacts with three of itself to produce carbon in a nuclear fusion process. That particle, which consists of two protons and two neutrons, is equivalent to a helium nucleus. In biology, this symbol denotes the most powerful male species in a community. For 10 points, name this first letter of the Greek alphabet.": {
+    "guess": "Alpha",
+    "confidence": [
+      [
+        "Alpha",
+        -3.8219583e-05
+      ]
+    ]
+  },
+  "In this symphony's first movement the folk-song \"Es sungen drei Engel\" is quoted three times being raised": {
+    "guess": "Mathis der Maler (symphony)",
+    "confidence": [
+      [
+        "Math",
+        -0.05134423
+      ],
+      [
+        "is",
+        -5.5122365e-07
+      ],
+      [
+        " der",
+        -7.226629e-06
+      ],
+      [
+        " Mal",
+        -1.8624639e-06
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " (",
+        -0.20216751
+      ],
+      [
+        "s",
+        -0.10280279
+      ],
+      [
+        "ymph",
+        0.0
+      ],
+      [
+        "ony",
+        0.0
+      ],
+      [
+        ")",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "In this symphony's first movement the folk-song \"Es sungen drei Engel\" is quoted three times being raised a major third on each occurrence. A Latin epigraph translating, \"Where were you good Jesus, where": {
+    "guess": "Mathis der Maler (symphony)",
+    "confidence": [
+      [
+        "Math",
+        -0.116608106
+      ],
+      [
+        "is",
+        -2.9352968e-06
+      ],
+      [
+        " der",
+        -1.3186812e-05
+      ],
+      [
+        " Mal",
+        -3.4121115e-06
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " (",
+        -0.2018417
+      ],
+      [
+        "s",
+        -0.0582678
+      ],
+      [
+        "ymph",
+        0.0
+      ],
+      [
+        "ony",
+        0.0
+      ],
+      [
+        ")",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "In this symphony's first movement the folk-song \"Es sungen drei Engel\" is quoted three times being raised a major third on each occurrence. A Latin epigraph translating, \"Where were you good Jesus, where were you? Why have you not come to heal my wounds?\" is attached to this symphony's final movement,": {
+    "guess": "Mathis der Maler (symphony)",
+    "confidence": [
+      [
+        "Math",
+        -0.7060175
+      ],
+      [
+        "is",
+        -1.1517961e-05
+      ],
+      [
+        " der",
+        -3.4166656e-05
+      ],
+      [
+        " Mal",
+        -3.1281633e-07
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " (",
+        -0.12880236
+      ],
+      [
+        "s",
+        -0.31596205
+      ],
+      [
+        "ymph",
+        0.0
+      ],
+      [
+        "ony",
+        0.0
+      ],
+      [
+        ")",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "In this symphony's first movement the folk-song \"Es sungen drei Engel\" is quoted three times being raised a major third on each occurrence. A Latin epigraph translating, \"Where were you good Jesus, where were you? Why have you not come to heal my wounds?\" is attached to this symphony's final movement, which begins with twisting recitatives on the lower strings. This symphony ends with a complex resolution": {
+    "guess": "Symphony No. 3 (G\u00f3recki)",
+    "confidence": [
+      [
+        "Sym",
+        -0.2514904
+      ],
+      [
+        "phony",
+        -0.00075316656
+      ],
+      [
+        " No",
+        -5.2285613e-05
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " ",
+        -1.1637165e-05
+      ],
+      [
+        "3",
+        -0.13669717
+      ],
+      [
+        " (",
+        -0.0053484323
+      ],
+      [
+        "G",
+        -0.47785303
+      ],
+      [
+        "\u00f3",
+        -0.011450837
+      ],
+      [
+        "reck",
+        -6.869018e-06
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        ")",
+        -0.00013846254
+      ]
+    ]
+  },
+  "In this symphony's first movement the folk-song \"Es sungen drei Engel\" is quoted three times being raised a major third on each occurrence. A Latin epigraph translating, \"Where were you good Jesus, where were you? Why have you not come to heal my wounds?\" is attached to this symphony's final movement, which begins with twisting recitatives on the lower strings. This symphony ends with a complex resolution based on the hymn \"Lauda Sion salvatorem\" leading to the entrance of the confident brass playing": {
+    "guess": "Symphony No. 3 (G\u00f3recki)",
+    "confidence": [
+      [
+        "Sym",
+        -0.37053823
+      ],
+      [
+        "phony",
+        -0.0019797839
+      ],
+      [
+        " No",
+        -0.00042638523
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " ",
+        -4.0722858e-05
+      ],
+      [
+        "3",
+        -0.66982645
+      ],
+      [
+        " (",
+        -0.008886012
+      ],
+      [
+        "G",
+        -0.44129196
+      ],
+      [
+        "\u00f3",
+        -0.006858278
+      ],
+      [
+        "reck",
+        -2.9352968e-06
+      ],
+      [
+        "i",
+        0.0
+      ],
+      [
+        ")",
+        -0.00030757586
+      ]
+    ]
+  },
+  "In this symphony's first movement the folk-song \"Es sungen drei Engel\" is quoted three times being raised a major third on each occurrence. A Latin epigraph translating, \"Where were you good Jesus, where were you? Why have you not come to heal my wounds?\" is attached to this symphony's final movement, which begins with twisting recitatives on the lower strings. This symphony ends with a complex resolution based on the hymn \"Lauda Sion salvatorem\" leading to the entrance of the confident brass playing \"Alleluia.\" This symphony opens with three light G-major chords representing three Angels, and": {
+    "guess": "Gustav Mahler",
+    "confidence": [
+      [
+        "G",
+        -1.1853561
+      ],
+      [
+        "ust",
+        -1.1517961e-05
+      ],
+      [
+        "av",
+        -3.1281633e-07
+      ],
+      [
+        " Mah",
+        -2.58224e-05
+      ],
+      [
+        "ler",
+        0.0
+      ]
+    ]
+  },
+  "In this symphony's first movement the folk-song \"Es sungen drei Engel\" is quoted three times being raised a major third on each occurrence. A Latin epigraph translating, \"Where were you good Jesus, where were you? Why have you not come to heal my wounds?\" is attached to this symphony's final movement, which begins with twisting recitatives on the lower strings. This symphony ends with a complex resolution based on the hymn \"Lauda Sion salvatorem\" leading to the entrance of the confident brass playing \"Alleluia.\" This symphony opens with three light G-major chords representing three Angels, and its movements are titled \"Entombment,\" \"Angelic Concert,\" and \"The Temptation of St. Anthony\" deriving": {
+    "guess": "Symphony No. 2 (Hindemith)",
+    "confidence": [
+      [
+        "Sym",
+        -0.23056777
+      ],
+      [
+        "phony",
+        -0.00014180024
+      ],
+      [
+        " No",
+        -0.29949585
+      ],
+      [
+        ".",
+        -9.0883464e-07
+      ],
+      [
+        " ",
+        -8.292095e-05
+      ],
+      [
+        "2",
+        -0.017443914
+      ],
+      [
+        " (",
+        -0.078334175
+      ],
+      [
+        "H",
+        -0.08800928
+      ],
+      [
+        "ind",
+        -0.05725988
+      ],
+      [
+        "em",
+        0.0
+      ],
+      [
+        "ith",
+        0.0
+      ],
+      [
+        ")",
+        -8.4828214e-05
+      ]
+    ]
+  },
+  "In this symphony's first movement the folk-song \"Es sungen drei Engel\" is quoted three times being raised a major third on each occurrence. A Latin epigraph translating, \"Where were you good Jesus, where were you? Why have you not come to heal my wounds?\" is attached to this symphony's final movement, which begins with twisting recitatives on the lower strings. This symphony ends with a complex resolution based on the hymn \"Lauda Sion salvatorem\" leading to the entrance of the confident brass playing \"Alleluia.\" This symphony opens with three light G-major chords representing three Angels, and its movements are titled \"Entombment,\" \"Angelic Concert,\" and \"The Temptation of St. Anthony\" deriving their names from panels on the Isenheim Altarpiece. For 10 points, name this 1934 symphony based": {
+    "guess": "Mathis der Maler",
+    "confidence": [
+      [
+        "Math",
+        -0.5890719
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        " der",
+        -4.604148e-06
+      ],
+      [
+        " Mal",
+        -1.7432603e-06
+      ],
+      [
+        "er",
+        0.0
+      ]
+    ]
+  },
+  "In this symphony's first movement the folk-song \"Es sungen drei Engel\" is quoted three times being raised a major third on each occurrence. A Latin epigraph translating, \"Where were you good Jesus, where were you? Why have you not come to heal my wounds?\" is attached to this symphony's final movement, which begins with twisting recitatives on the lower strings. This symphony ends with a complex resolution based on the hymn \"Lauda Sion salvatorem\" leading to the entrance of the confident brass playing \"Alleluia.\" This symphony opens with three light G-major chords representing three Angels, and its movements are titled \"Entombment,\" \"Angelic Concert,\" and \"The Temptation of St. Anthony\" deriving their names from panels on the Isenheim Altarpiece. For 10 points, name this 1934 symphony based upon themes from an identically titled opera, composed by Paul Hindemith.  ": {
+    "guess": "Mathis der Maler",
+    "confidence": [
+      [
+        "Math",
+        -0.279826
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        " der",
+        -4.1273333e-06
+      ],
+      [
+        " Mal",
+        -7.89631e-07
+      ],
+      [
+        "er",
+        0.0
+      ]
+    ]
+  },
+  "Symmetric examples of these compounds are formed under anhydrous conditions in a coupling reaction using": {
+    "guess": "Amide",
+    "confidence": [
+      [
+        "Am",
+        -1.1855421
+      ],
+      [
+        "ide",
+        -0.0021632293
+      ]
+    ]
+  },
+  "Symmetric examples of these compounds are formed under anhydrous conditions in a coupling reaction using sodium metal. Methods of preparing these compounds include reacting thioacetals with hydrogen gas": {
+    "guess": "Wurtz reaction",
+    "confidence": [
+      [
+        "W",
+        -0.08005291
+      ],
+      [
+        "urt",
+        -0.0005724519
+      ],
+      [
+        "z",
+        -1.6240566e-06
+      ],
+      [
+        " reaction",
+        -0.04987608
+      ]
+    ]
+  },
+  "Symmetric examples of these compounds are formed under anhydrous conditions in a coupling reaction using sodium metal. Methods of preparing these compounds include reacting thioacetals with hydrogen gas and Raney Nickel, and reacting ketones with hydrazine under basic conditions. In IR spec, due to stretching": {
+    "guess": "Alkane",
+    "confidence": [
+      [
+        "Al",
+        -0.13845216
+      ],
+      [
+        "k",
+        -0.023251534
+      ],
+      [
+        "ane",
+        -4.6683042e-05
+      ]
+    ]
+  },
+  "Symmetric examples of these compounds are formed under anhydrous conditions in a coupling reaction using sodium metal. Methods of preparing these compounds include reacting thioacetals with hydrogen gas and Raney Nickel, and reacting ketones with hydrazine under basic conditions. In IR spec, due to stretching and scissoring of bonds, these compounds have peaks in the 3000 to 2850 inverse centimeter": {
+    "guess": "Alkane",
+    "confidence": [
+      [
+        "Al",
+        -0.008979
+      ],
+      [
+        "k",
+        -0.00020377879
+      ],
+      [
+        "ane",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "Symmetric examples of these compounds are formed under anhydrous conditions in a coupling reaction using sodium metal. Methods of preparing these compounds include reacting thioacetals with hydrogen gas and Raney Nickel, and reacting ketones with hydrazine under basic conditions. In IR spec, due to stretching and scissoring of bonds, these compounds have peaks in the 3000 to 2850 inverse centimeter and 1470 to 1450 inverse centimeter range. These compounds are produced when reacting Grignard reagents": {
+    "guess": "Alkane",
+    "confidence": [
+      [
+        "Al",
+        -0.010586839
+      ],
+      [
+        "k",
+        -0.01815404
+      ],
+      [
+        "ane",
+        -1.3902034e-05
+      ]
+    ]
+  },
+  "Symmetric examples of these compounds are formed under anhydrous conditions in a coupling reaction using sodium metal. Methods of preparing these compounds include reacting thioacetals with hydrogen gas and Raney Nickel, and reacting ketones with hydrazine under basic conditions. In IR spec, due to stretching and scissoring of bonds, these compounds have peaks in the 3000 to 2850 inverse centimeter and 1470 to 1450 inverse centimeter range. These compounds are produced when reacting Grignard reagents with water. Conformational isomers of these molecules, such as gauche and eclipsed, can be visualized": {
+    "guess": "Alkane",
+    "confidence": [
+      [
+        "Al",
+        -0.0007823494
+      ],
+      [
+        "k",
+        -0.011049001
+      ],
+      [
+        "ane",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Symmetric examples of these compounds are formed under anhydrous conditions in a coupling reaction using sodium metal. Methods of preparing these compounds include reacting thioacetals with hydrogen gas and Raney Nickel, and reacting ketones with hydrazine under basic conditions. In IR spec, due to stretching and scissoring of bonds, these compounds have peaks in the 3000 to 2850 inverse centimeter and 1470 to 1450 inverse centimeter range. These compounds are produced when reacting Grignard reagents with water. Conformational isomers of these molecules, such as gauche and eclipsed, can be visualized with Newman projections. These compounds have general formula C sub n H sub two n plus two. For": {
+    "guess": "Alkane",
+    "confidence": [
+      [
+        "Al",
+        -0.017825741
+      ],
+      [
+        "k",
+        -0.16022545
+      ],
+      [
+        "ane",
+        0.0
+      ]
+    ]
+  },
+  "Symmetric examples of these compounds are formed under anhydrous conditions in a coupling reaction using sodium metal. Methods of preparing these compounds include reacting thioacetals with hydrogen gas and Raney Nickel, and reacting ketones with hydrazine under basic conditions. In IR spec, due to stretching and scissoring of bonds, these compounds have peaks in the 3000 to 2850 inverse centimeter and 1470 to 1450 inverse centimeter range. These compounds are produced when reacting Grignard reagents with water. Conformational isomers of these molecules, such as gauche and eclipsed, can be visualized with Newman projections. These compounds have general formula C sub n H sub two n plus two. For 10 points, name these hydrocarbons that only have single bonds, as exemplified by methane.": {
+    "guess": "Alkane",
+    "confidence": [
+      [
+        "Al",
+        -0.00043376852
+      ],
+      [
+        "k",
+        -0.048587598
+      ],
+      [
+        "ane",
+        0.0
+      ]
+    ]
+  },
+  "One symbol made using this physical material is called the tripundara. The Manikarnika Ghat is a locale": {
+    "guess": "Vibhuti",
+    "confidence": [
+      [
+        "V",
+        -0.5343632
+      ],
+      [
+        "ibh",
+        -0.0005266997
+      ],
+      [
+        "uti",
+        -2.577686e-06
+      ]
+    ]
+  },
+  "One symbol made using this physical material is called the tripundara. The Manikarnika Ghat is a locale devoted to producing this material, which is collected after the Antam Sanskar ritual in Hinduism.": {
+    "guess": "Vibhuti",
+    "confidence": [
+      [
+        "V",
+        -0.27567542
+      ],
+      [
+        "ibh",
+        -0.0001820874
+      ],
+      [
+        "uti",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "One symbol made using this physical material is called the tripundara. The Manikarnika Ghat is a locale devoted to producing this material, which is collected after the Antam Sanskar ritual in Hinduism. A type of this material called vibhuti is used by some Shiva devotees to draw lines across their forehead,": {
+    "guess": "Ash",
+    "confidence": [
+      [
+        "Ash",
+        -0.30421415
+      ]
+    ]
+  },
+  "One symbol made using this physical material is called the tripundara. The Manikarnika Ghat is a locale devoted to producing this material, which is collected after the Antam Sanskar ritual in Hinduism. A type of this material called vibhuti is used by some Shiva devotees to draw lines across their forehead, and Shaivite Hindus believe Shiva's entire body is covered with this stuff. Families bring": {
+    "guess": "Ash",
+    "confidence": [
+      [
+        "Ash",
+        -0.11869906
+      ]
+    ]
+  },
+  "One symbol made using this physical material is called the tripundara. The Manikarnika Ghat is a locale devoted to producing this material, which is collected after the Antam Sanskar ritual in Hinduism. A type of this material called vibhuti is used by some Shiva devotees to draw lines across their forehead, and Shaivite Hindus believe Shiva's entire body is covered with this stuff. Families bring containers of this material to Varanasi for the largest Hindu pilgrimage, in which this material is": {
+    "guess": "Ash",
+    "confidence": [
+      [
+        "Ash",
+        -0.05887692
+      ]
+    ]
+  },
+  "One symbol made using this physical material is called the tripundara. The Manikarnika Ghat is a locale devoted to producing this material, which is collected after the Antam Sanskar ritual in Hinduism. A type of this material called vibhuti is used by some Shiva devotees to draw lines across their forehead, and Shaivite Hindus believe Shiva's entire body is covered with this stuff. Families bring containers of this material to Varanasi for the largest Hindu pilgrimage, in which this material is scattered in the Ganges River. In the Old Testament, people such as Mordecai put it on themselves while": {
+    "guess": "Ashes",
+    "confidence": [
+      [
+        "Ash",
+        -0.004904262
+      ],
+      [
+        "es",
+        -0.40343878
+      ]
+    ]
+  },
+  "One symbol made using this physical material is called the tripundara. The Manikarnika Ghat is a locale devoted to producing this material, which is collected after the Antam Sanskar ritual in Hinduism. A type of this material called vibhuti is used by some Shiva devotees to draw lines across their forehead, and Shaivite Hindus believe Shiva's entire body is covered with this stuff. Families bring containers of this material to Varanasi for the largest Hindu pilgrimage, in which this material is scattered in the Ganges River. In the Old Testament, people such as Mordecai put it on themselves while wearing sackcloth. For 10 points, name this sacred material sometimes produced from sandalwood,": {
+    "guess": "Ashes",
+    "confidence": [
+      [
+        "Ash",
+        -0.0032605347
+      ],
+      [
+        "es",
+        -0.583737
+      ]
+    ]
+  },
+  "One symbol made using this physical material is called the tripundara. The Manikarnika Ghat is a locale devoted to producing this material, which is collected after the Antam Sanskar ritual in Hinduism. A type of this material called vibhuti is used by some Shiva devotees to draw lines across their forehead, and Shaivite Hindus believe Shiva's entire body is covered with this stuff. Families bring containers of this material to Varanasi for the largest Hindu pilgrimage, in which this material is scattered in the Ganges River. In the Old Testament, people such as Mordecai put it on themselves while wearing sackcloth. For 10 points, name this sacred material sometimes produced from sandalwood, which is also the byproduct of cremation.": {
+    "guess": "Ashes",
+    "confidence": [
+      [
+        "Ash",
+        -0.0022406548
+      ],
+      [
+        "es",
+        -0.694459
+      ]
+    ]
+  },
+  "One of the symptoms in people with a deficiency of this compound is a line across the thorax called Harrison's": {
+    "guess": "Rickets",
+    "confidence": [
+      [
+        "R",
+        -0.9387495
+      ],
+      [
+        "ickets",
+        -0.00018113377
+      ]
+    ]
+  },
+  "One of the symptoms in people with a deficiency of this compound is a line across the thorax called Harrison's groove. There are five varieties of this compound, the first of which is a combination of": {
+    "guess": "Vitamin D",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.077049874
+      ],
+      [
+        " D",
+        -9.968313e-06
+      ]
+    ]
+  },
+  "One of the symptoms in people with a deficiency of this compound is a line across the thorax called Harrison's groove. There are five varieties of this compound, the first of which is a combination of lumisterol and ergocalciferol. Technically a hormone precursor, it maintains blood levels of phosphorus": {
+    "guess": "Vitamin D",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.030058244
+      ],
+      [
+        " D",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One of the symptoms in people with a deficiency of this compound is a line across the thorax called Harrison's groove. There are five varieties of this compound, the first of which is a combination of lumisterol and ergocalciferol. Technically a hormone precursor, it maintains blood levels of phosphorus and calcium, and a lack of it in adults results in osteomalacia. This vitamin's most effective form,": {
+    "guess": "Vitamin D",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.0012507044
+      ],
+      [
+        " D",
+        0.0
+      ]
+    ]
+  },
+  "One of the symptoms in people with a deficiency of this compound is a line across the thorax called Harrison's groove. There are five varieties of this compound, the first of which is a combination of lumisterol and ergocalciferol. Technically a hormone precursor, it maintains blood levels of phosphorus and calcium, and a lack of it in adults results in osteomalacia. This vitamin's most effective form, cholecalciferol, is created when skin is exposed to ultraviolet rays. Name this vitamin that prevents": {
+    "guess": "Vitamin D",
+    "confidence": [
+      [
+        "Vitamin",
+        -0.005772123
+      ],
+      [
+        " D",
+        0.0
+      ]
+    ]
+  },
+  "One of the symptoms in people with a deficiency of this compound is a line across the thorax called Harrison's groove. There are five varieties of this compound, the first of which is a combination of lumisterol and ergocalciferol. Technically a hormone precursor, it maintains blood levels of phosphorus and calcium, and a lack of it in adults results in osteomalacia. This vitamin's most effective form, cholecalciferol, is created when skin is exposed to ultraviolet rays. Name this vitamin that prevents rickets.": {
+    "guess": "Vitamin D",
+    "confidence": [
+      [
+        "Vitamin",
+        -5.4312077e-05
+      ],
+      [
+        " D",
+        0.0
+      ]
+    ]
+  },
+  "In a symphony written in this key's relative minor, an \"Alma\" theme represents the composer's wife. That": {
+    "guess": "Symphony No. 6 (Mahler)",
+    "confidence": [
+      [
+        "Sym",
+        -0.58728254
+      ],
+      [
+        "phony",
+        -8.89548e-06
+      ],
+      [
+        " No",
+        -4.1273333e-06
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " ",
+        -1.504853e-06
+      ],
+      [
+        "6",
+        -0.00015455135
+      ],
+      [
+        " (",
+        -2.3676734e-05
+      ],
+      [
+        "Mah",
+        -0.000121542944
+      ],
+      [
+        "ler",
+        0.0
+      ],
+      [
+        ")",
+        -1.7716551e-05
+      ]
+    ]
+  },
+  "In a symphony written in this key's relative minor, an \"Alma\" theme represents the composer's wife. That symphony in this key's relative minor is Mahler's sixth, subtitled the Tragic. A piece titled after": {
+    "guess": "A minor",
+    "confidence": [
+      [
+        "A",
+        -0.0024640022
+      ],
+      [
+        " minor",
+        -0.000998871
+      ]
+    ]
+  },
+  "In a symphony written in this key's relative minor, an \"Alma\" theme represents the composer's wife. That symphony in this key's relative minor is Mahler's sixth, subtitled the Tragic. A piece titled after this key involves 53 measures that can be repeated according to the performers' tastes. That first": {
+    "guess": "A minor",
+    "confidence": [
+      [
+        "A",
+        -0.052071113
+      ],
+      [
+        " minor",
+        -0.015140055
+      ]
+    ]
+  },
+  "In a symphony written in this key's relative minor, an \"Alma\" theme represents the composer's wife. That symphony in this key's relative minor is Mahler's sixth, subtitled the Tragic. A piece titled after this key involves 53 measures that can be repeated according to the performers' tastes. That first minimalist piece was written by Terry Riley. Schubert wrote his final completed symphony in this": {
+    "guess": "C major",
+    "confidence": [
+      [
+        "C",
+        -0.002098276
+      ],
+      [
+        " major",
+        -0.00043114604
+      ]
+    ]
+  },
+  "In a symphony written in this key's relative minor, an \"Alma\" theme represents the composer's wife. That symphony in this key's relative minor is Mahler's sixth, subtitled the Tragic. A piece titled after this key involves 53 measures that can be repeated according to the performers' tastes. That first minimalist piece was written by Terry Riley. Schubert wrote his final completed symphony in this key and subsequently called it the great one to distinguish it from his sixth symphony, \"the little\"": {
+    "guess": "C major",
+    "confidence": [
+      [
+        "C",
+        -0.068115905
+      ],
+      [
+        " major",
+        -0.0015030752
+      ]
+    ]
+  },
+  "In a symphony written in this key's relative minor, an \"Alma\" theme represents the composer's wife. That symphony in this key's relative minor is Mahler's sixth, subtitled the Tragic. A piece titled after this key involves 53 measures that can be repeated according to the performers' tastes. That first minimalist piece was written by Terry Riley. Schubert wrote his final completed symphony in this key and subsequently called it the great one to distinguish it from his sixth symphony, \"the little\" one. For 10 points, name this letter that denotes the relative major of A minor and has neither sharps": {
+    "guess": "C major",
+    "confidence": [
+      [
+        "C",
+        -0.006814
+      ],
+      [
+        " major",
+        -0.00043472214
+      ]
+    ]
+  },
+  "In a symphony written in this key's relative minor, an \"Alma\" theme represents the composer's wife. That symphony in this key's relative minor is Mahler's sixth, subtitled the Tragic. A piece titled after this key involves 53 measures that can be repeated according to the performers' tastes. That first minimalist piece was written by Terry Riley. Schubert wrote his final completed symphony in this key and subsequently called it the great one to distinguish it from his sixth symphony, \"the little\" one. For 10 points, name this letter that denotes the relative major of A minor and has neither sharps nor flats.": {
+    "guess": "C major",
+    "confidence": [
+      [
+        "C",
+        -0.0036562455
+      ],
+      [
+        " major",
+        -0.039006967
+      ]
+    ]
+  },
+  "His symbol indicates that he may be an ancestor of the Mayan god Kulkulkan. He shares his name with a": {
+    "guess": "Feathered Serpent",
+    "confidence": [
+      [
+        "Fe",
+        -0.15741828
+      ],
+      [
+        "ather",
+        -1.9361265e-07
+      ],
+      [
+        "ed",
+        -1.3856493e-06
+      ],
+      [
+        " Ser",
+        -0.12769169
+      ],
+      [
+        "pent",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "His symbol indicates that he may be an ancestor of the Mayan god Kulkulkan. He shares his name with a ruler credited with the discovery of corn and the invention of the calendar. Most sources say that": {
+    "guess": "Itzamna",
+    "confidence": [
+      [
+        "It",
+        -0.23285289
+      ],
+      [
+        "zam",
+        -0.00021474186
+      ],
+      [
+        "na",
+        -0.0008064139
+      ]
+    ]
+  },
+  "His symbol indicates that he may be an ancestor of the Mayan god Kulkulkan. He shares his name with a ruler credited with the discovery of corn and the invention of the calendar. Most sources say that he disappeared when his rival tricked him into leaving his holy city Tula. One legend states that birds": {
+    "guess": "Quetzalcoatl",
+    "confidence": [
+      [
+        "Qu",
+        -0.0008864454
+      ],
+      [
+        "etz",
+        0.0
+      ],
+      [
+        "al",
+        -1.147242e-06
+      ],
+      [
+        "co",
+        -1.504853e-06
+      ],
+      [
+        "atl",
+        0.0
+      ]
+    ]
+  },
+  "His symbol indicates that he may be an ancestor of the Mayan god Kulkulkan. He shares his name with a ruler credited with the discovery of corn and the invention of the calendar. Most sources say that he disappeared when his rival tricked him into leaving his holy city Tula. One legend states that birds were created from his body and his heart became the morning star when holy fire consumed him upon": {
+    "guess": "Quetzalcoatl",
+    "confidence": [
+      [
+        "Qu",
+        -0.0006351164
+      ],
+      [
+        "etz",
+        0.0
+      ],
+      [
+        "al",
+        -7.89631e-07
+      ],
+      [
+        "co",
+        -4.4849444e-06
+      ],
+      [
+        "atl",
+        0.0
+      ]
+    ]
+  },
+  "His symbol indicates that he may be an ancestor of the Mayan god Kulkulkan. He shares his name with a ruler credited with the discovery of corn and the invention of the calendar. Most sources say that he disappeared when his rival tricked him into leaving his holy city Tula. One legend states that birds were created from his body and his heart became the morning star when holy fire consumed him upon arrival on the Gulf of Mexico. Another version states that he sailed east on a raft of serpents in": {
+    "guess": "Quetzalcoatl",
+    "confidence": [
+      [
+        "Qu",
+        -0.0010060159
+      ],
+      [
+        "etz",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        "co",
+        0.0
+      ],
+      [
+        "atl",
+        0.0
+      ]
+    ]
+  },
+  "His symbol indicates that he may be an ancestor of the Mayan god Kulkulkan. He shares his name with a ruler credited with the discovery of corn and the invention of the calendar. Most sources say that he disappeared when his rival tricked him into leaving his holy city Tula. One legend states that birds were created from his body and his heart became the morning star when holy fire consumed him upon arrival on the Gulf of Mexico. Another version states that he sailed east on a raft of serpents in search of a mythical continent, promising to return. FTP, name this deity, who may have been expected": {
+    "guess": "Quetzalcoatl",
+    "confidence": [
+      [
+        "Qu",
+        -0.00095731666
+      ],
+      [
+        "etz",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        "co",
+        -1.9361265e-07
+      ],
+      [
+        "atl",
+        0.0
+      ]
+    ]
+  },
+  "His symbol indicates that he may be an ancestor of the Mayan god Kulkulkan. He shares his name with a ruler credited with the discovery of corn and the invention of the calendar. Most sources say that he disappeared when his rival tricked him into leaving his holy city Tula. One legend states that birds were created from his body and his heart became the morning star when holy fire consumed him upon arrival on the Gulf of Mexico. Another version states that he sailed east on a raft of serpents in search of a mythical continent, promising to return. FTP, name this deity, who may have been expected by Aztec high priests in 1517, leading to his confusion with Cortez.": {
+    "guess": "Quetzalcoatl",
+    "confidence": [
+      [
+        "Qu",
+        -0.00014382669
+      ],
+      [
+        "etz",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        "co",
+        0.0
+      ],
+      [
+        "atl",
+        0.0
+      ]
+    ]
+  },
+  "The symmetry group of a plane figure is defined as the set of all motions of that figure such that the": {
+    "guess": "Symmetry group",
+    "confidence": [
+      [
+        "Sym",
+        -0.1518967
+      ],
+      [
+        "metry",
+        -0.00028946425
+      ],
+      [
+        " group",
+        -0.07878039
+      ]
+    ]
+  },
+  "The symmetry group of a plane figure is defined as the set of all motions of that figure such that the figure is invariant under the motions - i.e., you put a circle in, you get a circle of the same size": {
+    "guess": "Symmetry group",
+    "confidence": [
+      [
+        "Sym",
+        -0.5551364
+      ],
+      [
+        "metry",
+        -0.0017125437
+      ],
+      [
+        " group",
+        -0.022728441
+      ]
+    ]
+  },
+  "The symmetry group of a plane figure is defined as the set of all motions of that figure such that the figure is invariant under the motions - i.e., you put a circle in, you get a circle of the same size and shape, at the same place in the plane, back. How many elements are there in the symmetry group": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.40264124
+      ]
+    ]
+  },
+  "The symmetry group of a plane figure is defined as the set of all motions of that figure such that the figure is invariant under the motions - i.e., you put a circle in, you get a circle of the same size and shape, at the same place in the plane, back. How many elements are there in the symmetry group for a square centered at the origin? You have 15 seconds.": {
+    "guess": "Dihedral group of order 8",
+    "confidence": [
+      [
+        "Di",
+        -0.0013205963
+      ],
+      [
+        "hedral",
+        -3.1281633e-07
+      ],
+      [
+        " group",
+        -0.00056316133
+      ],
+      [
+        " of",
+        -0.31860667
+      ],
+      [
+        " order",
+        -0.0015036712
+      ],
+      [
+        " ",
+        -7.588794e-05
+      ],
+      [
+        "8",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "This symphony's material is drawn from three scenes in the opera of the same name: the overture, a crowd": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.4258832
+      ]
+    ]
+  },
+  "This symphony's material is drawn from three scenes in the opera of the same name: the overture, a crowd scene from the second act, and the title figure's deathbed scene. The principle melody, entitled": {
+    "guess": "Death and Transfiguration",
+    "confidence": [
+      [
+        "Death",
+        -0.4605304
+      ],
+      [
+        " and",
+        -0.24000497
+      ],
+      [
+        " Trans",
+        -1.3067608e-05
+      ],
+      [
+        "figuration",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This symphony's material is drawn from three scenes in the opera of the same name: the overture, a crowd scene from the second act, and the title figure's deathbed scene. The principle melody, entitled \"Es sungen drei Engel\", first appears early in the first movement, \"Concert of Angels\", and recurs": {
+    "guess": "Mathis der Maler (symphony)",
+    "confidence": [
+      [
+        "Math",
+        -0.015784236
+      ],
+      [
+        "is",
+        -1.9361265e-07
+      ],
+      [
+        " der",
+        -2.9352968e-06
+      ],
+      [
+        " Mal",
+        -9.0883464e-07
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " (",
+        -0.02610776
+      ],
+      [
+        "s",
+        -0.020737957
+      ],
+      [
+        "ymph",
+        0.0
+      ],
+      [
+        "ony",
+        0.0
+      ],
+      [
+        ")",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "This symphony's material is drawn from three scenes in the opera of the same name: the overture, a crowd scene from the second act, and the title figure's deathbed scene. The principle melody, entitled \"Es sungen drei Engel\", first appears early in the first movement, \"Concert of Angels\", and recurs in the other two movements, The Entombment and The Temptation of Saint Anthony. The three movements": {
+    "guess": "Mathis der Maler (symphony)",
+    "confidence": [
+      [
+        "Math",
+        -0.07199493
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        " der",
+        -1.147242e-06
+      ],
+      [
+        " Mal",
+        -1.6240566e-06
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " (",
+        -0.006792698
+      ],
+      [
+        "s",
+        -0.0033513058
+      ],
+      [
+        "ymph",
+        0.0
+      ],
+      [
+        "ony",
+        0.0
+      ],
+      [
+        ")",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "This symphony's material is drawn from three scenes in the opera of the same name: the overture, a crowd scene from the second act, and the title figure's deathbed scene. The principle melody, entitled \"Es sungen drei Engel\", first appears early in the first movement, \"Concert of Angels\", and recurs in the other two movements, The Entombment and The Temptation of Saint Anthony. The three movements represent three panels of the Isenheim Alterpiece, the masterpiece of the titular 16th century painter.": {
+    "guess": "Mathis der Maler (opera)",
+    "confidence": [
+      [
+        "Math",
+        -0.020303145
+      ],
+      [
+        "is",
+        -2.1008714e-06
+      ],
+      [
+        " der",
+        -0.1797534
+      ],
+      [
+        " Mal",
+        -9.253091e-06
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " (",
+        -0.37904882
+      ],
+      [
+        "opera",
+        -0.45166185
+      ],
+      [
+        ")",
+        -0.00019996427
+      ]
+    ]
+  },
+  "This symphony's material is drawn from three scenes in the opera of the same name: the overture, a crowd scene from the second act, and the title figure's deathbed scene. The principle melody, entitled \"Es sungen drei Engel\", first appears early in the first movement, \"Concert of Angels\", and recurs in the other two movements, The Entombment and The Temptation of Saint Anthony. The three movements represent three panels of the Isenheim Alterpiece, the masterpiece of the titular 16th century painter. FTP, name this symphony, the masterpiece of Paul Hindemith.": {
+    "guess": "Mathis der Maler Symphony",
+    "confidence": [
+      [
+        "Math",
+        -0.008458313
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        " der",
+        -0.4740774
+      ],
+      [
+        " Mal",
+        -1.7478143e-05
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " Symphony",
+        -0.25267723
+      ]
+    ]
+  },
+  "This symphony's main motif is first stated in the horns during the introduction to its first movement,": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.83103454
+      ],
+      [
+        ".",
+        -0.38688934
+      ]
+    ]
+  },
+  "This symphony's main motif is first stated in the horns during the introduction to its first movement, and it contains an allegro con fuoco theme stated by horns and trombones in the finale. The third": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6746446
+      ]
+    ]
+  },
+  "This symphony's main motif is first stated in the horns during the introduction to its first movement, and it contains an allegro con fuoco theme stated by horns and trombones in the finale. The third movement of this piece contains two trio sections that interrupt the scherzo theme, which recalls its": {
+    "guess": "Symphony No. 1 (Brahms)",
+    "confidence": [
+      [
+        "Sym",
+        -0.12764174
+      ],
+      [
+        "phony",
+        -1.504853e-06
+      ],
+      [
+        " No",
+        -4.3202e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " ",
+        -4.3202e-07
+      ],
+      [
+        "1",
+        -0.30289897
+      ],
+      [
+        " (",
+        -0.00010986099
+      ],
+      [
+        "B",
+        -0.020504404
+      ],
+      [
+        "rah",
+        -0.0005550592
+      ],
+      [
+        "ms",
+        0.0
+      ],
+      [
+        ")",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "This symphony's main motif is first stated in the horns during the introduction to its first movement, and it contains an allegro con fuoco theme stated by horns and trombones in the finale. The third movement of this piece contains two trio sections that interrupt the scherzo theme, which recalls its composer's Slavonic Dances. This composition's largo second movement features a melody introduced": {
+    "guess": "Symphony No. 9 (Dvo\u0159\u00e1k)",
+    "confidence": [
+      [
+        "Sym",
+        -0.0025124047
+      ],
+      [
+        "phony",
+        -3.1281633e-07
+      ],
+      [
+        " No",
+        -3.1281633e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "9",
+        -7.226629e-06
+      ],
+      [
+        " (",
+        -0.00037883763
+      ],
+      [
+        "D",
+        -1.504853e-06
+      ],
+      [
+        "vo",
+        -0.006715371
+      ],
+      [
+        "\u0159",
+        0.0
+      ],
+      [
+        "\u00e1k",
+        0.0
+      ],
+      [
+        ")",
+        -3.5313153e-06
+      ]
+    ]
+  },
+  "This symphony's main motif is first stated in the horns during the introduction to its first movement, and it contains an allegro con fuoco theme stated by horns and trombones in the finale. The third movement of this piece contains two trio sections that interrupt the scherzo theme, which recalls its composer's Slavonic Dances. This composition's largo second movement features a melody introduced by a solo English horn that was supposedly influenced by The Song of Hiawatha. This composition also": {
+    "guess": "Symphony No. 9 (Dvo\u0159\u00e1k)",
+    "confidence": [
+      [
+        "Sym",
+        -0.008703213
+      ],
+      [
+        "phony",
+        -1.2664457e-06
+      ],
+      [
+        " No",
+        -2.808727e-05
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " ",
+        -3.1281633e-07
+      ],
+      [
+        "9",
+        0.0
+      ],
+      [
+        " (",
+        -0.00040862753
+      ],
+      [
+        "D",
+        -6.9570146e-05
+      ],
+      [
+        "vo",
+        -0.0011702254
+      ],
+      [
+        "\u0159",
+        0.0
+      ],
+      [
+        "\u00e1k",
+        0.0
+      ],
+      [
+        ")",
+        -3.464347e-05
+      ]
+    ]
+  },
+  "This symphony's main motif is first stated in the horns during the introduction to its first movement, and it contains an allegro con fuoco theme stated by horns and trombones in the finale. The third movement of this piece contains two trio sections that interrupt the scherzo theme, which recalls its composer's Slavonic Dances. This composition's largo second movement features a melody introduced by a solo English horn that was supposedly influenced by The Song of Hiawatha. This composition also quotes songs like \"Swing Low, Sweet Chariot.\"For 10 points, name this symphony nicknamed for the fact": {
+    "guess": "Symphony No. 9 (Dvo\u0159\u00e1k)",
+    "confidence": [
+      [
+        "Sym",
+        -0.037185583
+      ],
+      [
+        "phony",
+        0.0
+      ],
+      [
+        " No",
+        -5.5122365e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "9",
+        0.0
+      ],
+      [
+        " (",
+        -6.718607e-05
+      ],
+      [
+        "D",
+        -0.00011248347
+      ],
+      [
+        "vo",
+        -4.8425554e-06
+      ],
+      [
+        "\u0159",
+        0.0
+      ],
+      [
+        "\u00e1k",
+        0.0
+      ],
+      [
+        ")",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "This symphony's main motif is first stated in the horns during the introduction to its first movement, and it contains an allegro con fuoco theme stated by horns and trombones in the finale. The third movement of this piece contains two trio sections that interrupt the scherzo theme, which recalls its composer's Slavonic Dances. This composition's largo second movement features a melody introduced by a solo English horn that was supposedly influenced by The Song of Hiawatha. This composition also quotes songs like \"Swing Low, Sweet Chariot.\"For 10 points, name this symphony nicknamed for the fact that it was composed in America, the last of Antonin Dvorak.": {
+    "guess": "Symphony No. 9 (Dvo\u0159\u00e1k)",
+    "confidence": [
+      [
+        "Sym",
+        -0.085240975
+      ],
+      [
+        "phony",
+        -1.9361265e-07
+      ],
+      [
+        " No",
+        -2.1008714e-06
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " ",
+        -1.9361265e-07
+      ],
+      [
+        "9",
+        0.0
+      ],
+      [
+        " (",
+        -0.00017100146
+      ],
+      [
+        "D",
+        -0.0003272408
+      ],
+      [
+        "vo",
+        -1.4855664e-05
+      ],
+      [
+        "\u0159",
+        0.0
+      ],
+      [
+        "\u00e1k",
+        0.0
+      ],
+      [
+        ")",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "One symptom of this disease is the presence of large, unusual white cells known as Reed-Sternberg cells,": {
+    "guess": "Hodgkin lymphoma",
+    "confidence": [
+      [
+        "H",
+        -0.006877342
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "g",
+        0.0
+      ],
+      [
+        "kin",
+        0.0
+      ],
+      [
+        " lymphoma",
+        -0.0031898322
+      ]
+    ]
+  },
+  "One symptom of this disease is the presence of large, unusual white cells known as Reed-Sternberg cells, while tumors associated with it develop from B lymphocytes. Symptoms include generalized itching,": {
+    "guess": "Hodgkin lymphoma",
+    "confidence": [
+      [
+        "H",
+        -0.0025682836
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "g",
+        0.0
+      ],
+      [
+        "kin",
+        0.0
+      ],
+      [
+        " lymphoma",
+        -0.0040982277
+      ]
+    ]
+  },
+  "One symptom of this disease is the presence of large, unusual white cells known as Reed-Sternberg cells, while tumors associated with it develop from B lymphocytes. Symptoms include generalized itching, night sweats, loss of appetite, and decrease of red blood cells. Affecting twice as many males as": {
+    "guess": "Hodgkin lymphoma",
+    "confidence": [
+      [
+        "H",
+        -3.619312e-05
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "g",
+        0.0
+      ],
+      [
+        "kin",
+        0.0
+      ],
+      [
+        " lymphoma",
+        -0.005249295
+      ]
+    ]
+  },
+  "One symptom of this disease is the presence of large, unusual white cells known as Reed-Sternberg cells, while tumors associated with it develop from B lymphocytes. Symptoms include generalized itching, night sweats, loss of appetite, and decrease of red blood cells. Affecting twice as many males as females, it usually develops between the ages of 15 and 35, and it can be detected in its early stages": {
+    "guess": "Hodgkin lymphoma",
+    "confidence": [
+      [
+        "H",
+        -1.7239736e-05
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "g",
+        0.0
+      ],
+      [
+        "kin",
+        0.0
+      ],
+      [
+        " lymphoma",
+        -0.0142041715
+      ]
+    ]
+  },
+  "One symptom of this disease is the presence of large, unusual white cells known as Reed-Sternberg cells, while tumors associated with it develop from B lymphocytes. Symptoms include generalized itching, night sweats, loss of appetite, and decrease of red blood cells. Affecting twice as many males as females, it usually develops between the ages of 15 and 35, and it can be detected in its early stages due to the enlargement of lymph nodes in the neck. FTP, what is this malignant lymphoma associated": {
+    "guess": "Hodgkin lymphoma",
+    "confidence": [
+      [
+        "H",
+        -2.7729659e-05
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "g",
+        0.0
+      ],
+      [
+        "kin",
+        0.0
+      ],
+      [
+        " lymphoma",
+        -0.038125608
+      ]
+    ]
+  },
+  "One symptom of this disease is the presence of large, unusual white cells known as Reed-Sternberg cells, while tumors associated with it develop from B lymphocytes. Symptoms include generalized itching, night sweats, loss of appetite, and decrease of red blood cells. Affecting twice as many males as females, it usually develops between the ages of 15 and 35, and it can be detected in its early stages due to the enlargement of lymph nodes in the neck. FTP, what is this malignant lymphoma associated with Mario Lemieux?": {
+    "guess": "Hodgkin lymphoma",
+    "confidence": [
+      [
+        "H",
+        -2.1769476e-05
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "g",
+        0.0
+      ],
+      [
+        "kin",
+        0.0
+      ],
+      [
+        " lymphoma",
+        -0.0791351
+      ]
+    ]
+  },
+  "This symbol denotes a particle predicted by Jaffe to be strongly bound with respect to two lambda hyperons,": {
+    "guess": "H dibaryon",
+    "confidence": [
+      [
+        "H",
+        -0.035389297
+      ],
+      [
+        " dib",
+        -0.2874718
+      ],
+      [
+        "ary",
+        -0.00043496056
+      ],
+      [
+        "on",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This symbol denotes a particle predicted by Jaffe to be strongly bound with respect to two lambda hyperons, a hypothetical stable dibaryon. It also designates the expectation value of the log of the velocity": {
+    "guess": "H dibaryon",
+    "confidence": [
+      [
+        "H",
+        -0.017606264
+      ],
+      [
+        " dib",
+        -0.041041296
+      ],
+      [
+        "ary",
+        -2.2484697e-05
+      ],
+      [
+        "on",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "This symbol denotes a particle predicted by Jaffe to be strongly bound with respect to two lambda hyperons, a hypothetical stable dibaryon. It also designates the expectation value of the log of the velocity distribution function, a quantity that appears in a statement that inspired Loschmidt's paradox.": {
+    "guess": "H dibaryon",
+    "confidence": [
+      [
+        "H",
+        -0.05682537
+      ],
+      [
+        " dib",
+        -0.43230686
+      ],
+      [
+        "ary",
+        -7.564953e-05
+      ],
+      [
+        "on",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "This symbol denotes a particle predicted by Jaffe to be strongly bound with respect to two lambda hyperons, a hypothetical stable dibaryon. It also designates the expectation value of the log of the velocity distribution function, a quantity that appears in a statement that inspired Loschmidt's paradox. That theorem holds that the quantity associated with this symbol decreases for an ideal gas undergoing": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.29600665
+      ]
+    ]
+  },
+  "This symbol denotes a particle predicted by Jaffe to be strongly bound with respect to two lambda hyperons, a hypothetical stable dibaryon. It also designates the expectation value of the log of the velocity distribution function, a quantity that appears in a statement that inspired Loschmidt's paradox. That theorem holds that the quantity associated with this symbol decreases for an ideal gas undergoing an irreversible process, thus proving the second law of thermodynamics. Another quantity designated": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.58463854
+      ]
+    ]
+  },
+  "This symbol denotes a particle predicted by Jaffe to be strongly bound with respect to two lambda hyperons, a hypothetical stable dibaryon. It also designates the expectation value of the log of the velocity distribution function, a quantity that appears in a statement that inspired Loschmidt's paradox. That theorem holds that the quantity associated with this symbol decreases for an ideal gas undergoing an irreversible process, thus proving the second law of thermodynamics. Another quantity designated by this letter combines with the universal gravitational constant and the speed of light to give": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.48642334
+      ]
+    ]
+  },
+  "This symbol denotes a particle predicted by Jaffe to be strongly bound with respect to two lambda hyperons, a hypothetical stable dibaryon. It also designates the expectation value of the log of the velocity distribution function, a quantity that appears in a statement that inspired Loschmidt's paradox. That theorem holds that the quantity associated with this symbol decreases for an ideal gas undergoing an irreversible process, thus proving the second law of thermodynamics. Another quantity designated by this letter combines with the universal gravitational constant and the speed of light to give units of mass, length and time named for the quantity's namesake. For 10 points, name this letter": {
+    "guess": "S (Second law of thermodynamics)",
+    "confidence": [
+      [
+        "S",
+        -0.21637224
+      ],
+      [
+        " (",
+        -0.18295404
+      ],
+      [
+        "Second",
+        -1.2126036
+      ],
+      [
+        " law",
+        -0.25356895
+      ],
+      [
+        " of",
+        -0.0005438577
+      ],
+      [
+        " therm",
+        -0.0012065422
+      ],
+      [
+        "odynamics",
+        -3.650519e-06
+      ],
+      [
+        ")",
+        -0.016641615
+      ]
+    ]
+  },
+  "This symbol denotes a particle predicted by Jaffe to be strongly bound with respect to two lambda hyperons, a hypothetical stable dibaryon. It also designates the expectation value of the log of the velocity distribution function, a quantity that appears in a statement that inspired Loschmidt's paradox. That theorem holds that the quantity associated with this symbol decreases for an ideal gas undergoing an irreversible process, thus proving the second law of thermodynamics. Another quantity designated by this letter combines with the universal gravitational constant and the speed of light to give units of mass, length and time named for the quantity's namesake. For 10 points, name this letter associated with a theorem of Boltzmann whose lower- case form denotes the ratio between energy and": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5943708
+      ]
+    ]
+  },
+  "This symbol denotes a particle predicted by Jaffe to be strongly bound with respect to two lambda hyperons, a hypothetical stable dibaryon. It also designates the expectation value of the log of the velocity distribution function, a quantity that appears in a statement that inspired Loschmidt's paradox. That theorem holds that the quantity associated with this symbol decreases for an ideal gas undergoing an irreversible process, thus proving the second law of thermodynamics. Another quantity designated by this letter combines with the universal gravitational constant and the speed of light to give units of mass, length and time named for the quantity's namesake. For 10 points, name this letter associated with a theorem of Boltzmann whose lower- case form denotes the ratio between energy and frequency of a photon, a constant named for Planck.": {
+    "guess": "S (Boltzmann's entropy theorem)",
+    "confidence": [
+      [
+        "S",
+        -0.5798841
+      ],
+      [
+        " (",
+        -0.19202414
+      ],
+      [
+        "Bol",
+        -0.9001484
+      ],
+      [
+        "tz",
+        -2.577686e-06
+      ],
+      [
+        "mann",
+        -6.704273e-07
+      ],
+      [
+        "'s",
+        -0.7708377
+      ],
+      [
+        " entropy",
+        -0.64600796
+      ],
+      [
+        " theorem",
+        -0.82131296
+      ],
+      [
+        ")",
+        -0.079750806
+      ]
+    ]
+  },
+  "The \"symmetric\" types of these interactions seem to violate the duet rule, and occur in high-pressure": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.6941293
+      ],
+      [
+        "rogen",
+        -0.00054457295
+      ],
+      [
+        " bond",
+        -0.0005330175
+      ]
+    ]
+  },
+  "The \"symmetric\" types of these interactions seem to violate the duet rule, and occur in high-pressure ice known as \"Ice X.\" This is the main mechanism by which R-groups in DNA interact, and the spacing": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.52417594
+      ],
+      [
+        "rogen",
+        -2.129266e-05
+      ],
+      [
+        " bond",
+        -0.0010465048
+      ]
+    ]
+  },
+  "The \"symmetric\" types of these interactions seem to violate the duet rule, and occur in high-pressure ice known as \"Ice X.\" This is the main mechanism by which R-groups in DNA interact, and the spacing of them results in the alpha helix and beta pleated sheet. Water's high boiling point is due to the": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.12734517
+      ],
+      [
+        "rogen",
+        -4.3202e-07
+      ],
+      [
+        " bond",
+        -0.0040940735
+      ]
+    ]
+  },
+  "The \"symmetric\" types of these interactions seem to violate the duet rule, and occur in high-pressure ice known as \"Ice X.\" This is the main mechanism by which R-groups in DNA interact, and the spacing of them results in the alpha helix and beta pleated sheet. Water's high boiling point is due to the high ratio of these bonds to the low molecular mass. For 10 points, name this type of bond resulting": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.048748944
+      ],
+      [
+        "rogen",
+        -1.9361265e-07
+      ],
+      [
+        " bond",
+        -0.00017696164
+      ]
+    ]
+  },
+  "The \"symmetric\" types of these interactions seem to violate the duet rule, and occur in high-pressure ice known as \"Ice X.\" This is the main mechanism by which R-groups in DNA interact, and the spacing of them results in the alpha helix and beta pleated sheet. Water's high boiling point is due to the high ratio of these bonds to the low molecular mass. For 10 points, name this type of bond resulting from the dipole-dipole force between an electronegative atom and the namesake element bonded to nitrogen,": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.048868034
+      ],
+      [
+        "rogen",
+        -1.9361265e-07
+      ],
+      [
+        " bond",
+        -0.011947578
+      ]
+    ]
+  },
+  "The \"symmetric\" types of these interactions seem to violate the duet rule, and occur in high-pressure ice known as \"Ice X.\" This is the main mechanism by which R-groups in DNA interact, and the spacing of them results in the alpha helix and beta pleated sheet. Water's high boiling point is due to the high ratio of these bonds to the low molecular mass. For 10 points, name this type of bond resulting from the dipole-dipole force between an electronegative atom and the namesake element bonded to nitrogen, oxygen, or fluorine.": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.002497537
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " bond",
+        -0.00017159748
+      ]
+    ]
+  },
+  "This symphony's second movement calls for two harps, a common motif also seen in its composer's Te Deum.": {
+    "guess": "Symphonie fantastique",
+    "confidence": [
+      [
+        "Sym",
+        -0.060444083
+      ],
+      [
+        "ph",
+        -0.011197548
+      ],
+      [
+        "onie",
+        -9.0883464e-07
+      ],
+      [
+        " fantast",
+        -0.001669115
+      ],
+      [
+        "ique",
+        0.0
+      ]
+    ]
+  },
+  "This symphony's second movement calls for two harps, a common motif also seen in its composer's Te Deum. Drawing from Beethoven's similar \"Pastoral Symphony,\" this symphony's third movement is in F Major": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.65531117
+      ]
+    ]
+  },
+  "This symphony's second movement calls for two harps, a common motif also seen in its composer's Te Deum. Drawing from Beethoven's similar \"Pastoral Symphony,\" this symphony's third movement is in F Major and features an oboe and flute duet during the \"Scene in the Fields.\" The Dies irae hymn is parodied": {
+    "guess": "Symphonie fantastique",
+    "confidence": [
+      [
+        "Sym",
+        -0.0029641502
+      ],
+      [
+        "ph",
+        -1.9361265e-07
+      ],
+      [
+        "onie",
+        0.0
+      ],
+      [
+        " fantast",
+        -3.190179e-05
+      ],
+      [
+        "ique",
+        0.0
+      ]
+    ]
+  },
+  "This symphony's second movement calls for two harps, a common motif also seen in its composer's Te Deum. Drawing from Beethoven's similar \"Pastoral Symphony,\" this symphony's third movement is in F Major and features an oboe and flute duet during the \"Scene in the Fields.\" The Dies irae hymn is parodied in this symphony's final movement, \"Dream of a Witches' Sabbath,\" and in the fourth movement \"the": {
+    "guess": "Symphonie fantastique",
+    "confidence": [
+      [
+        "Sym",
+        -0.0017217114
+      ],
+      [
+        "ph",
+        -6.704273e-07
+      ],
+      [
+        "onie",
+        0.0
+      ],
+      [
+        " fantast",
+        -2.486877e-05
+      ],
+      [
+        "ique",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This symphony's second movement calls for two harps, a common motif also seen in its composer's Te Deum. Drawing from Beethoven's similar \"Pastoral Symphony,\" this symphony's third movement is in F Major and features an oboe and flute duet during the \"Scene in the Fields.\" The Dies irae hymn is parodied in this symphony's final movement, \"Dream of a Witches' Sabbath,\" and in the fourth movement \"the artist\" is beheaded in \"March to the Scaffold.\" An idee fixe represents the composer's inspiration": {
+    "guess": "Symphonie fantastique",
+    "confidence": [
+      [
+        "Sym",
+        -0.0002636007
+      ],
+      [
+        "ph",
+        -1.9361265e-07
+      ],
+      [
+        "onie",
+        0.0
+      ],
+      [
+        " fantast",
+        -1.9504607e-05
+      ],
+      [
+        "ique",
+        0.0
+      ]
+    ]
+  },
+  "This symphony's second movement calls for two harps, a common motif also seen in its composer's Te Deum. Drawing from Beethoven's similar \"Pastoral Symphony,\" this symphony's third movement is in F Major and features an oboe and flute duet during the \"Scene in the Fields.\" The Dies irae hymn is parodied in this symphony's final movement, \"Dream of a Witches' Sabbath,\" and in the fourth movement \"the artist\" is beheaded in \"March to the Scaffold.\" An idee fixe represents the composer's inspiration for this symphony, actress Harriet Smithson. For 10 points, name this programmatic symphony by Hector": {
+    "guess": "Symphonie fantastique",
+    "confidence": [
+      [
+        "Sym",
+        -0.002807487
+      ],
+      [
+        "ph",
+        -9.0883464e-07
+      ],
+      [
+        "onie",
+        0.0
+      ],
+      [
+        " fantast",
+        -2.8206474e-05
+      ],
+      [
+        "ique",
+        0.0
+      ]
+    ]
+  },
+  "This symphony's second movement calls for two harps, a common motif also seen in its composer's Te Deum. Drawing from Beethoven's similar \"Pastoral Symphony,\" this symphony's third movement is in F Major and features an oboe and flute duet during the \"Scene in the Fields.\" The Dies irae hymn is parodied in this symphony's final movement, \"Dream of a Witches' Sabbath,\" and in the fourth movement \"the artist\" is beheaded in \"March to the Scaffold.\" An idee fixe represents the composer's inspiration for this symphony, actress Harriet Smithson. For 10 points, name this programmatic symphony by Hector Berlioz.": {
+    "guess": "Symphonie fantastique",
+    "confidence": [
+      [
+        "Sym",
+        -0.06994366
+      ],
+      [
+        "ph",
+        -1.9361265e-07
+      ],
+      [
+        "onie",
+        0.0
+      ],
+      [
+        " fantast",
+        -3.6073914e-05
+      ],
+      [
+        "ique",
+        0.0
+      ]
+    ]
+  },
+  "A symphony by this man contains an alto solo called the \"Midnight Song\" and begins with a movement in": {
+    "guess": "Mahler, Gustav",
+    "confidence": [
+      [
+        "Mah",
+        -0.32052433
+      ],
+      [
+        "ler",
+        0.0
+      ],
+      [
+        ",",
+        -0.48100534
+      ],
+      [
+        " Gustav",
+        -0.6137738
+      ]
+    ]
+  },
+  "A symphony by this man contains an alto solo called the \"Midnight Song\" and begins with a movement in which \"Pan awakes.\" A funeral march is the first movement of this man's fifth symphony, which opens": {
+    "guess": "Gustav Mahler",
+    "confidence": [
+      [
+        "G",
+        -0.035951808
+      ],
+      [
+        "ust",
+        0.0
+      ],
+      [
+        "av",
+        0.0
+      ],
+      [
+        " Mah",
+        -3.7697225e-06
+      ],
+      [
+        "ler",
+        0.0
+      ]
+    ]
+  },
+  "A symphony by this man contains an alto solo called the \"Midnight Song\" and begins with a movement in which \"Pan awakes.\" A funeral march is the first movement of this man's fifth symphony, which opens with a trumpet solo. That symphony by this man also includes an Adagietto fourth movement. Lines from": {
+    "guess": "Symphony No. 3 (Mahler)",
+    "confidence": [
+      [
+        "Sym",
+        -0.79927623
+      ],
+      [
+        "phony",
+        -1.8550976e-05
+      ],
+      [
+        " No",
+        -4.246537e-06
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " ",
+        -1.6240566e-06
+      ],
+      [
+        "3",
+        -0.1819444
+      ],
+      [
+        " (",
+        -0.00016921341
+      ],
+      [
+        "Mah",
+        -1.2352386e-05
+      ],
+      [
+        "ler",
+        0.0
+      ],
+      [
+        ")",
+        -0.00018613665
+      ]
+    ]
+  },
+  "A symphony by this man contains an alto solo called the \"Midnight Song\" and begins with a movement in which \"Pan awakes.\" A funeral march is the first movement of this man's fifth symphony, which opens with a trumpet solo. That symphony by this man also includes an Adagietto fourth movement. Lines from a Friedrich Klopstock poem, such as \"Rise again,\" appear in this man's second symphony. The finale": {
+    "guess": "Symphony No. 2 (Mahler)",
+    "confidence": [
+      [
+        "Sym",
+        -0.62833667
+      ],
+      [
+        "phony",
+        -0.008619419
+      ],
+      [
+        " No",
+        -2.7252845e-05
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " ",
+        -1.3856493e-06
+      ],
+      [
+        "2",
+        -0.7500257
+      ],
+      [
+        " (",
+        -0.0001844678
+      ],
+      [
+        "Mah",
+        -9.0883464e-07
+      ],
+      [
+        "ler",
+        0.0
+      ],
+      [
+        ")",
+        -8.208653e-05
+      ]
+    ]
+  },
+  "A symphony by this man contains an alto solo called the \"Midnight Song\" and begins with a movement in which \"Pan awakes.\" A funeral march is the first movement of this man's fifth symphony, which opens with a trumpet solo. That symphony by this man also includes an Adagietto fourth movement. Lines from a Friedrich Klopstock poem, such as \"Rise again,\" appear in this man's second symphony. The finale of this man's sixth symphony contains three hammer blows of fate, and the second theme of the first": {
+    "guess": "Symphonies of Gustav Mahler",
+    "confidence": [
+      [
+        "Sym",
+        -0.56148994
+      ],
+      [
+        "phon",
+        -0.38687584
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        " of",
+        -0.4047315
+      ],
+      [
+        " Gustav",
+        -0.0015215261
+      ],
+      [
+        " Mah",
+        0.0
+      ],
+      [
+        "ler",
+        0.0
+      ]
+    ]
+  },
+  "A symphony by this man contains an alto solo called the \"Midnight Song\" and begins with a movement in which \"Pan awakes.\" A funeral march is the first movement of this man's fifth symphony, which opens with a trumpet solo. That symphony by this man also includes an Adagietto fourth movement. Lines from a Friedrich Klopstock poem, such as \"Rise again,\" appear in this man's second symphony. The finale of this man's sixth symphony contains three hammer blows of fate, and the second theme of the first movement is named for Alma, his wife. For 10 points, name this Austrian composer of the \"Resurrection,\"": {
+    "guess": "Gustav Mahler",
+    "confidence": [
+      [
+        "G",
+        -0.04152527
+      ],
+      [
+        "ust",
+        0.0
+      ],
+      [
+        "av",
+        0.0
+      ],
+      [
+        " Mah",
+        -1.9361265e-07
+      ],
+      [
+        "ler",
+        0.0
+      ]
+    ]
+  },
+  "A symphony by this man contains an alto solo called the \"Midnight Song\" and begins with a movement in which \"Pan awakes.\" A funeral march is the first movement of this man's fifth symphony, which opens with a trumpet solo. That symphony by this man also includes an Adagietto fourth movement. Lines from a Friedrich Klopstock poem, such as \"Rise again,\" appear in this man's second symphony. The finale of this man's sixth symphony contains three hammer blows of fate, and the second theme of the first movement is named for Alma, his wife. For 10 points, name this Austrian composer of the \"Resurrection,\" \"Tragic\" and \"Titan\" symphonies.": {
+    "guess": "Gustav Mahler",
+    "confidence": [
+      [
+        "G",
+        -0.05370599
+      ],
+      [
+        "ust",
+        0.0
+      ],
+      [
+        "av",
+        0.0
+      ],
+      [
+        " Mah",
+        -6.2729996e-06
+      ],
+      [
+        "ler",
+        0.0
+      ]
+    ]
+  }
+}

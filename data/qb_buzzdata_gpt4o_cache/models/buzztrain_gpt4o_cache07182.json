@@ -1,0 +1,127 @@
+{
+  "SRPs move signal-sequence-bearing polypeptides from the cytosol to this structure, and a special form": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.02477673
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -0.0031966083
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "SRPs move signal-sequence-bearing polypeptides from the cytosol to this structure, and a special form of it stores and releases calcium ions in muscle cells. One type of this organelle synthesizes steroids": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.05695734
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -0.00023119197
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "SRPs move signal-sequence-bearing polypeptides from the cytosol to this structure, and a special form of it stores and releases calcium ions in muscle cells. One type of this organelle synthesizes steroids in adrenal cells and metabolizes glycogen in the liver, while another synthesizes proteins from": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.0029370484
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -1.0325924e-05
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "SRPs move signal-sequence-bearing polypeptides from the cytosol to this structure, and a special form of it stores and releases calcium ions in muscle cells. One type of this organelle synthesizes steroids in adrenal cells and metabolizes glycogen in the liver, while another synthesizes proteins from structures on its surface. For 10 points, name this cellular organelle with \"smooth\" and ribosome-rich": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.002829723
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -1.6643718e-05
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "SRPs move signal-sequence-bearing polypeptides from the cytosol to this structure, and a special form of it stores and releases calcium ions in muscle cells. One type of this organelle synthesizes steroids in adrenal cells and metabolizes glycogen in the liver, while another synthesizes proteins from structures on its surface. For 10 points, name this cellular organelle with \"smooth\" and ribosome-rich \"rough\" varieties that aids in the transport of cellular materials.": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.0013352401
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -7.703444e-06
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  }
+}

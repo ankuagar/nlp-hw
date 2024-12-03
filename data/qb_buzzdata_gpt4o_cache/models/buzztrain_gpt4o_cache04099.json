@@ -1,0 +1,67 @@
+{
+  "The Kreutz group of these objects are a family of sun-grazing ones. A fragment of one of these objects": {
+    "guess": "Comets",
+    "confidence": [
+      [
+        "Com",
+        -0.0010735384
+      ],
+      [
+        "ets",
+        -0.042999428
+      ]
+    ]
+  },
+  "The Kreutz group of these objects are a family of sun-grazing ones. A fragment of one of these objects is suggested as a cause of the Tunguska event. The debris from outgassing in these objects leads to": {
+    "guess": "Comets",
+    "confidence": [
+      [
+        "Com",
+        -0.0039366297
+      ],
+      [
+        "ets",
+        -0.048587486
+      ]
+    ]
+  },
+  "The Kreutz group of these objects are a family of sun-grazing ones. A fragment of one of these objects is suggested as a cause of the Tunguska event. The debris from outgassing in these objects leads to meteor showers. One of these objects crashed into (*) Jupiter in 1994. These objects have features": {
+    "guess": "Comets",
+    "confidence": [
+      [
+        "Com",
+        -0.000107715314
+      ],
+      [
+        "ets",
+        -0.029750485
+      ]
+    ]
+  },
+  "The Kreutz group of these objects are a family of sun-grazing ones. A fragment of one of these objects is suggested as a cause of the Tunguska event. The debris from outgassing in these objects leads to meteor showers. One of these objects crashed into (*) Jupiter in 1994. These objects have features such as a pair of tails of dust and of ionized gas, an atmosphere called a \"coma,\" and a nucleus of": {
+    "guess": "Comet",
+    "confidence": [
+      [
+        "Com",
+        -0.0015043864
+      ],
+      [
+        "et",
+        -0.12692854
+      ]
+    ]
+  },
+  "The Kreutz group of these objects are a family of sun-grazing ones. A fragment of one of these objects is suggested as a cause of the Tunguska event. The debris from outgassing in these objects leads to meteor showers. One of these objects crashed into (*) Jupiter in 1994. These objects have features such as a pair of tails of dust and of ionized gas, an atmosphere called a \"coma,\" and a nucleus of rock and ice. For 10 points, name these objects, which include Shoemaker-Levy 9, Hale-Bopp, and Halley's.": {
+    "guess": "Comet",
+    "confidence": [
+      [
+        "Com",
+        -0.009779938
+      ],
+      [
+        "et",
+        -0.0031783062
+      ]
+    ]
+  }
+}

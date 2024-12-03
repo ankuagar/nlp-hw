@@ -1,0 +1,1936 @@
+{
+  "These devices are characterized by a magnification coefficient that appears in the indicator equation": {
+    "guess": "Transformers",
+    "confidence": [
+      [
+        "Transform",
+        -1.607887
+      ],
+      [
+        "ers",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "These devices are characterized by a magnification coefficient that appears in the indicator equation characterizing the instrument response.Most modern examples of them use force feedback and employ Galitzin's": {
+    "guess": "Seismometer",
+    "confidence": [
+      [
+        "Se",
+        -0.00029887765
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ],
+      [
+        "ometer",
+        -0.0012105915
+      ]
+    ]
+  },
+  "These devices are characterized by a magnification coefficient that appears in the indicator equation characterizing the instrument response.Most modern examples of them use force feedback and employ Galitzin's innovation of using a transducer to couple to a galvanometer. The reduced response of Galitzin": {
+    "guess": "Seismometer",
+    "confidence": [
+      [
+        "Se",
+        -0.0007467369
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ],
+      [
+        "ometer",
+        -0.00016134596
+      ]
+    ]
+  },
+  "These devices are characterized by a magnification coefficient that appears in the indicator equation characterizing the instrument response.Most modern examples of them use force feedback and employ Galitzin's innovation of using a transducer to couple to a galvanometer. The reduced response of Galitzin systems was a critical factor in developing the Sprengnether and Benioff variants of these instruments.": {
+    "guess": "Seismometer",
+    "confidence": [
+      [
+        "Se",
+        -0.00020735491
+      ],
+      [
+        "ism",
+        0.0
+      ],
+      [
+        "ometer",
+        -2.9636918e-05
+      ]
+    ]
+  },
+  "These devices are characterized by a magnification coefficient that appears in the indicator equation characterizing the instrument response.Most modern examples of them use force feedback and employ Galitzin's innovation of using a transducer to couple to a galvanometer. The reduced response of Galitzin systems was a critical factor in developing the Sprengnether and Benioff variants of these instruments. The Wood-Anderson torsion variant is used in defining a popular magnitude scale.Their placement": {
+    "guess": "Seismometer",
+    "confidence": [
+      [
+        "Se",
+        -2.0100624e-05
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ],
+      [
+        "ometer",
+        -8.697388e-05
+      ]
+    ]
+  },
+  "These devices are characterized by a magnification coefficient that appears in the indicator equation characterizing the instrument response.Most modern examples of them use force feedback and employ Galitzin's innovation of using a transducer to couple to a galvanometer. The reduced response of Galitzin systems was a critical factor in developing the Sprengnether and Benioff variants of these instruments. The Wood-Anderson torsion variant is used in defining a popular magnitude scale.Their placement in a borehole will reduce the noise recorded by them, which has been used to infer the locations": {
+    "guess": "Seismometer",
+    "confidence": [
+      [
+        "Se",
+        -0.0001437075
+      ],
+      [
+        "ism",
+        -3.1281633e-07
+      ],
+      [
+        "ometer",
+        -0.0006684751
+      ]
+    ]
+  },
+  "These devices are characterized by a magnification coefficient that appears in the indicator equation characterizing the instrument response.Most modern examples of them use force feedback and employ Galitzin's innovation of using a transducer to couple to a galvanometer. The reduced response of Galitzin systems was a critical factor in developing the Sprengnether and Benioff variants of these instruments. The Wood-Anderson torsion variant is used in defining a popular magnitude scale.Their placement in a borehole will reduce the noise recorded by them, which has been used to infer the locations of large storm centers. They record arrival times of S and P waves, whose difference is proportional": {
+    "guess": "Seismometer",
+    "confidence": [
+      [
+        "Se",
+        -0.0003968264
+      ],
+      [
+        "ism",
+        0.0
+      ],
+      [
+        "ometer",
+        -0.0015103356
+      ]
+    ]
+  },
+  "These devices are characterized by a magnification coefficient that appears in the indicator equation characterizing the instrument response.Most modern examples of them use force feedback and employ Galitzin's innovation of using a transducer to couple to a galvanometer. The reduced response of Galitzin systems was a critical factor in developing the Sprengnether and Benioff variants of these instruments. The Wood-Anderson torsion variant is used in defining a popular magnitude scale.Their placement in a borehole will reduce the noise recorded by them, which has been used to infer the locations of large storm centers. They record arrival times of S and P waves, whose difference is proportional to the distance to the epicenter. For 10 points, name these devices used to record earthquakes.": {
+    "guess": "Seismometer",
+    "confidence": [
+      [
+        "Se",
+        -0.00081641605
+      ],
+      [
+        "ism",
+        -2.8160932e-06
+      ],
+      [
+        "ometer",
+        -0.00035989526
+      ]
+    ]
+  },
+  "With deviation, this quantity names a form of data used in calculating least-squares lines. For a binomial": {
+    "guess": "Variance",
+    "confidence": [
+      [
+        "Variance",
+        -0.11277897
+      ]
+    ]
+  },
+  "With deviation, this quantity names a form of data used in calculating least-squares lines. For a binomial distribution, this quantity equals the probability of success times the number of trials. The": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.3379607
+      ]
+    ]
+  },
+  "With deviation, this quantity names a form of data used in calculating least-squares lines. For a binomial distribution, this quantity equals the probability of success times the number of trials. The geometric type of this quantity equals the square root of the product of a set of values, while the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.17727163
+      ]
+    ]
+  },
+  "With deviation, this quantity names a form of data used in calculating least-squares lines. For a binomial distribution, this quantity equals the probability of success times the number of trials. The geometric type of this quantity equals the square root of the product of a set of values, while the harmonic type equals the sample size divided by the sum of the reciprocals of those values. This quantity": {
+    "guess": "Mean",
+    "confidence": [
+      [
+        "Mean",
+        -0.7114679
+      ]
+    ]
+  },
+  "With deviation, this quantity names a form of data used in calculating least-squares lines. For a binomial distribution, this quantity equals the probability of success times the number of trials. The geometric type of this quantity equals the square root of the product of a set of values, while the harmonic type equals the sample size divided by the sum of the reciprocals of those values. This quantity for a population is symbolized mu, while for a sample it is denoted by an x with a bar over it.": {
+    "guess": "Mean",
+    "confidence": [
+      [
+        "Mean",
+        -0.01842875
+      ]
+    ]
+  },
+  "With deviation, this quantity names a form of data used in calculating least-squares lines. For a binomial distribution, this quantity equals the probability of success times the number of trials. The geometric type of this quantity equals the square root of the product of a set of values, while the harmonic type equals the sample size divided by the sum of the reciprocals of those values. This quantity for a population is symbolized mu, while for a sample it is denoted by an x with a bar over it. For 10 points, give this quantity calculated by dividing the sum of a set of values by the number": {
+    "guess": "Mean",
+    "confidence": [
+      [
+        "Mean",
+        -0.0006025958
+      ]
+    ]
+  },
+  "With deviation, this quantity names a form of data used in calculating least-squares lines. For a binomial distribution, this quantity equals the probability of success times the number of trials. The geometric type of this quantity equals the square root of the product of a set of values, while the harmonic type equals the sample size divided by the sum of the reciprocals of those values. This quantity for a population is symbolized mu, while for a sample it is denoted by an x with a bar over it. For 10 points, give this quantity calculated by dividing the sum of a set of values by the number of values, the most common method of calculating an average.": {
+    "guess": "Mean",
+    "confidence": [
+      [
+        "Mean",
+        -0.012565807
+      ]
+    ]
+  },
+  "A device for accomplishing one form of this process uses a pressure-equalized addition funnel instead": {
+    "guess": "Distillation",
+    "confidence": [
+      [
+        "Dist",
+        -1.2990053
+      ],
+      [
+        "illation",
+        0.0
+      ]
+    ]
+  },
+  "A device for accomplishing one form of this process uses a pressure-equalized addition funnel instead of a revolving stand of test tubes. The ideal number of plates for one form of this is given by the": {
+    "guess": "Distillation",
+    "confidence": [
+      [
+        "Dist",
+        -0.07539687
+      ],
+      [
+        "illation",
+        0.0
+      ]
+    ]
+  },
+  "A device for accomplishing one form of this process uses a pressure-equalized addition funnel instead of a revolving stand of test tubes. The ideal number of plates for one form of this is given by the Fenske equation and may be found graphically with the McCabe-Thiele method. That aforementioned device,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.36187539
+      ]
+    ]
+  },
+  "A device for accomplishing one form of this process uses a pressure-equalized addition funnel instead of a revolving stand of test tubes. The ideal number of plates for one form of this is given by the Fenske equation and may be found graphically with the McCabe-Thiele method. That aforementioned device, called Perkin's triangle, permitted the vacuum form of this process. Its extractive form features": {
+    "guess": "Distillation",
+    "confidence": [
+      [
+        "Dist",
+        -0.077499956
+      ],
+      [
+        "illation",
+        0.0
+      ]
+    ]
+  },
+  "A device for accomplishing one form of this process uses a pressure-equalized addition funnel instead of a revolving stand of test tubes. The ideal number of plates for one form of this is given by the Fenske equation and may be found graphically with the McCabe-Thiele method. That aforementioned device, called Perkin's triangle, permitted the vacuum form of this process. Its extractive form features the addition of a separation solvent to break azeotropes, and its fractional form is used for separations": {
+    "guess": "Distillation",
+    "confidence": [
+      [
+        "Dist",
+        -0.040634926
+      ],
+      [
+        "illation",
+        0.0
+      ]
+    ]
+  },
+  "A device for accomplishing one form of this process uses a pressure-equalized addition funnel instead of a revolving stand of test tubes. The ideal number of plates for one form of this is given by the Fenske equation and may be found graphically with the McCabe-Thiele method. That aforementioned device, called Perkin's triangle, permitted the vacuum form of this process. Its extractive form features the addition of a separation solvent to break azeotropes, and its fractional form is used for separations of less than twenty-five Kelvin. For 10 points, name this process for separating mixtures of": {
+    "guess": "Distillation",
+    "confidence": [
+      [
+        "Dist",
+        -0.0015678303
+      ],
+      [
+        "illation",
+        0.0
+      ]
+    ]
+  },
+  "A device for accomplishing one form of this process uses a pressure-equalized addition funnel instead of a revolving stand of test tubes. The ideal number of plates for one form of this is given by the Fenske equation and may be found graphically with the McCabe-Thiele method. That aforementioned device, called Perkin's triangle, permitted the vacuum form of this process. Its extractive form features the addition of a separation solvent to break azeotropes, and its fractional form is used for separations of less than twenty-five Kelvin. For 10 points, name this process for separating mixtures of liquids with different boiling points.": {
+    "guess": "Distillation",
+    "confidence": [
+      [
+        "Dist",
+        -0.004573123
+      ],
+      [
+        "illation",
+        0.0
+      ]
+    ]
+  },
+  "One of these devices named for Persoz can measure a sample's hardness. The double type of this object": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.026199391
+      ],
+      [
+        "ulum",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "One of these devices named for Persoz can measure a sample's hardness. The double type of this object is a classic example of chaotic behavior. A useful approximation when working with these objects involves": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.0019360086
+      ],
+      [
+        "ulum",
+        0.0
+      ]
+    ]
+  },
+  "One of these devices named for Persoz can measure a sample's hardness. The double type of this object is a classic example of chaotic behavior. A useful approximation when working with these objects involves assuming that \"sin theta equals theta.\" These objects have period approximately equal to \"two": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.017604746
+      ],
+      [
+        "ulum",
+        -0.00012356207
+      ]
+    ]
+  },
+  "One of these devices named for Persoz can measure a sample's hardness. The double type of this object is a classic example of chaotic behavior. A useful approximation when working with these objects involves assuming that \"sin theta equals theta.\" These objects have period approximately equal to \"two pi times the square root of quantity length over gravitational acceleration.\" These devices exhibit": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.0010075619
+      ],
+      [
+        "ulum",
+        0.0
+      ]
+    ]
+  },
+  "One of these devices named for Persoz can measure a sample's hardness. The double type of this object is a classic example of chaotic behavior. A useful approximation when working with these objects involves assuming that \"sin theta equals theta.\" These objects have period approximately equal to \"two pi times the square root of quantity length over gravitational acceleration.\" These devices exhibit simple harmonic motion, and one of these was used to show the rotation of the earth by Leon Foucault.": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -2.8160932e-06
+      ],
+      [
+        "ulum",
+        0.0
+      ]
+    ]
+  },
+  "One of these devices named for Persoz can measure a sample's hardness. The double type of this object is a classic example of chaotic behavior. A useful approximation when working with these objects involves assuming that \"sin theta equals theta.\" These objects have period approximately equal to \"two pi times the square root of quantity length over gravitational acceleration.\" These devices exhibit simple harmonic motion, and one of these was used to show the rotation of the earth by Leon Foucault. For 10 points, name these devices consisting of a weight suspended from a pivot.": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -1.9816675e-06
+      ],
+      [
+        "ulum",
+        0.0
+      ]
+    ]
+  },
+  "Deviations from this equation are modeled by an equation which includes a term proportional to the log": {
+    "guess": "Williams-Landel-Ferry equation",
+    "confidence": [
+      [
+        "Williams",
+        -0.11118802
+      ],
+      [
+        "-L",
+        -0.47409588
+      ],
+      [
+        "andel",
+        -5.3193703e-06
+      ],
+      [
+        "-F",
+        0.0
+      ],
+      [
+        "erry",
+        -3.1281633e-07
+      ],
+      [
+        " equation",
+        -0.011882916
+      ]
+    ]
+  },
+  "Deviations from this equation are modeled by an equation which includes a term proportional to the log of the current density, and when that deviation is low, the Stern Geary equation modifies this equation.": {
+    "guess": "Butler-Volmer equation",
+    "confidence": [
+      [
+        "But",
+        -0.012949502
+      ],
+      [
+        "ler",
+        0.0
+      ],
+      [
+        "-",
+        -0.029753385
+      ],
+      [
+        "Vol",
+        0.0
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        " equation",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "Deviations from this equation are modeled by an equation which includes a term proportional to the log of the current density, and when that deviation is low, the Stern Geary equation modifies this equation. Another modification of this equation predicts that current will increase exponentially with": {
+    "guess": "Butler-Volmer equation",
+    "confidence": [
+      [
+        "But",
+        -0.012297486
+      ],
+      [
+        "ler",
+        0.0
+      ],
+      [
+        "-",
+        -0.029751997
+      ],
+      [
+        "Vol",
+        0.0
+      ],
+      [
+        "mer",
+        -1.9361265e-07
+      ],
+      [
+        " equation",
+        -0.00010902656
+      ]
+    ]
+  },
+  "Deviations from this equation are modeled by an equation which includes a term proportional to the log of the current density, and when that deviation is low, the Stern Geary equation modifies this equation. Another modification of this equation predicts that current will increase exponentially with applied voltage, and this equation corrects for the fact that the concentrations of reactants are seldom": {
+    "guess": "Butler-Volmer equation",
+    "confidence": [
+      [
+        "But",
+        -0.008881049
+      ],
+      [
+        "ler",
+        0.0
+      ],
+      [
+        "-",
+        -0.048589077
+      ],
+      [
+        "Vol",
+        0.0
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        " equation",
+        -3.1305768e-05
+      ]
+    ]
+  },
+  "Deviations from this equation are modeled by an equation which includes a term proportional to the log of the current density, and when that deviation is low, the Stern Geary equation modifies this equation. Another modification of this equation predicts that current will increase exponentially with applied voltage, and this equation corrects for the fact that the concentrations of reactants are seldom at one molar. This equation is modified by the Tafel and the Butler-Volmer equations. This equation": {
+    "guess": "Butler-Volmer equation",
+    "confidence": [
+      [
+        "But",
+        -0.5811682
+      ],
+      [
+        "ler",
+        -4.3202e-07
+      ],
+      [
+        "-",
+        -0.038046427
+      ],
+      [
+        "Vol",
+        0.0
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        " equation",
+        -9.9371064e-05
+      ]
+    ]
+  },
+  "Deviations from this equation are modeled by an equation which includes a term proportional to the log of the current density, and when that deviation is low, the Stern Geary equation modifies this equation. Another modification of this equation predicts that current will increase exponentially with applied voltage, and this equation corrects for the fact that the concentrations of reactants are seldom at one molar. This equation is modified by the Tafel and the Butler-Volmer equations. This equation calculates the change in potential as RT over nF times the ln of the reaction quotient. For 10": {
+    "guess": "Nernst equation",
+    "confidence": [
+      [
+        "N",
+        -0.00013226394
+      ],
+      [
+        "ern",
+        0.0
+      ],
+      [
+        "st",
+        0.0
+      ],
+      [
+        " equation",
+        -3.1424974e-05
+      ]
+    ]
+  },
+  "Deviations from this equation are modeled by an equation which includes a term proportional to the log of the current density, and when that deviation is low, the Stern Geary equation modifies this equation. Another modification of this equation predicts that current will increase exponentially with applied voltage, and this equation corrects for the fact that the concentrations of reactants are seldom at one molar. This equation is modified by the Tafel and the Butler-Volmer equations. This equation calculates the change in potential as RT over nF times the ln of the reaction quotient. For 10 points, name this equation that calculates the reduction or oxidation potential of one half cell.": {
+    "guess": "Nernst equation",
+    "confidence": [
+      [
+        "N",
+        -3.23786e-05
+      ],
+      [
+        "ern",
+        0.0
+      ],
+      [
+        "st",
+        0.0
+      ],
+      [
+        " equation",
+        -5.157039e-05
+      ]
+    ]
+  },
+  "These devices are generally covered with a hemispherical package which is designed to be perpendicular": {
+    "guess": "Microphones",
+    "confidence": [
+      [
+        "Micro",
+        -0.19349715
+      ],
+      [
+        "phones",
+        -0.023246875
+      ]
+    ]
+  },
+  "These devices are generally covered with a hemispherical package which is designed to be perpendicular to their escape cones. These components suffer a loss of efficiency above ten to twenty milliamps,": {
+    "guess": "LED",
+    "confidence": [
+      [
+        "LED",
+        -0.72876203
+      ]
+    ]
+  },
+  "These devices are generally covered with a hemispherical package which is designed to be perpendicular to their escape cones. These components suffer a loss of efficiency above ten to twenty milliamps, which was recently discovered to be caused by Auger recombination; that is their namesake (*) droop.": {
+    "guess": "LEDs",
+    "confidence": [
+      [
+        "LED",
+        -0.06205149
+      ],
+      [
+        "s",
+        -0.5379565
+      ]
+    ]
+  },
+  "These devices are generally covered with a hemispherical package which is designed to be perpendicular to their escape cones. These components suffer a loss of efficiency above ten to twenty milliamps, which was recently discovered to be caused by Auger recombination; that is their namesake (*) droop. Epoxy degradation and differentiated phosphor degeneration are methods by which these devices can": {
+    "guess": "LEDs",
+    "confidence": [
+      [
+        "LED",
+        -0.012862532
+      ],
+      [
+        "s",
+        -0.008487037
+      ]
+    ]
+  },
+  "These devices are generally covered with a hemispherical package which is designed to be perpendicular to their escape cones. These components suffer a loss of efficiency above ten to twenty milliamps, which was recently discovered to be caused by Auger recombination; that is their namesake (*) droop. Epoxy degradation and differentiated phosphor degeneration are methods by which these devices can fail. One variety of these devices uses either active matrix or passive matrix addressing schemes; that": {
+    "guess": "LEDs",
+    "confidence": [
+      [
+        "LED",
+        -0.07088782
+      ],
+      [
+        "s",
+        -0.03498476
+      ]
+    ]
+  },
+  "These devices are generally covered with a hemispherical package which is designed to be perpendicular to their escape cones. These components suffer a loss of efficiency above ten to twenty milliamps, which was recently discovered to be caused by Auger recombination; that is their namesake (*) droop. Epoxy degradation and differentiated phosphor degeneration are methods by which these devices can fail. One variety of these devices uses either active matrix or passive matrix addressing schemes; that organic variety of these devices can be used in flexible displays. The frequency of these objects'": {
+    "guess": "LED",
+    "confidence": [
+      [
+        "LED",
+        -0.08123557
+      ]
+    ]
+  },
+  "These devices are generally covered with a hemispherical package which is designed to be perpendicular to their escape cones. These components suffer a loss of efficiency above ten to twenty milliamps, which was recently discovered to be caused by Auger recombination; that is their namesake (*) droop. Epoxy degradation and differentiated phosphor degeneration are methods by which these devices can fail. One variety of these devices uses either active matrix or passive matrix addressing schemes; that organic variety of these devices can be used in flexible displays. The frequency of these objects' outputs is determined by the bandgap of the semiconductor that makes up a p\u0096n junction; at that junction,": {
+    "guess": "LED",
+    "confidence": [
+      [
+        "LED",
+        -0.06252876
+      ]
+    ]
+  },
+  "These devices are generally covered with a hemispherical package which is designed to be perpendicular to their escape cones. These components suffer a loss of efficiency above ten to twenty milliamps, which was recently discovered to be caused by Auger recombination; that is their namesake (*) droop. Epoxy degradation and differentiated phosphor degeneration are methods by which these devices can fail. One variety of these devices uses either active matrix or passive matrix addressing schemes; that organic variety of these devices can be used in flexible displays. The frequency of these objects' outputs is determined by the bandgap of the semiconductor that makes up a p\u0096n junction; at that junction, electrons fall into holes to release photons. For 10 points, name these diodes used in illumination.": {
+    "guess": "LED",
+    "confidence": [
+      [
+        "LED",
+        -0.001203089
+      ]
+    ]
+  },
+  "Devised after a period known as the \"Great Fear,\" during which a resolution was passed to eliminate aristocratic": {
+    "guess": "Abolition of feudalism in France",
+    "confidence": [
+      [
+        "A",
+        -0.77133965
+      ],
+      [
+        "bol",
+        0.0
+      ],
+      [
+        "ition",
+        -0.00057269033
+      ],
+      [
+        " of",
+        -5.955704e-05
+      ],
+      [
+        " fe",
+        -0.31329474
+      ],
+      [
+        "udal",
+        0.0
+      ],
+      [
+        "ism",
+        -0.12812836
+      ],
+      [
+        " in",
+        -0.0020437944
+      ],
+      [
+        " France",
+        -2.577686e-06
+      ]
+    ]
+  },
+  "Devised after a period known as the \"Great Fear,\" during which a resolution was passed to eliminate aristocratic privileges, this document states that only actions harmful to society can be proscribed": {
+    "guess": "Declaration of the Rights of Man and of the Citizen",
+    "confidence": [
+      [
+        "Declaration",
+        -0.0012072574
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Rights",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Man",
+        -1.8624639e-06
+      ],
+      [
+        " and",
+        -4.00813e-06
+      ],
+      [
+        " of",
+        -7.564953e-05
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Citizen",
+        0.0
+      ]
+    ]
+  },
+  "Devised after a period known as the \"Great Fear,\" during which a resolution was passed to eliminate aristocratic privileges, this document states that only actions harmful to society can be proscribed by law, and that law must serve as an expression of the general will in the fifth and sixth of its seventeen": {
+    "guess": "Declaration of the Rights of Man and of the Citizen",
+    "confidence": [
+      [
+        "Declaration",
+        -0.0014060673
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Rights",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Man",
+        -1.9361265e-07
+      ],
+      [
+        " and",
+        -5.5122365e-07
+      ],
+      [
+        " of",
+        -5.080963e-06
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Citizen",
+        0.0
+      ]
+    ]
+  },
+  "Devised after a period known as the \"Great Fear,\" during which a resolution was passed to eliminate aristocratic privileges, this document states that only actions harmful to society can be proscribed by law, and that law must serve as an expression of the general will in the fifth and sixth of its seventeen articles. Two years after its release, Olympe de Gouges issued a feminist rebuttal to it. Signed": {
+    "guess": "Declaration of the Rights of Man and of the Citizen",
+    "confidence": [
+      [
+        "Declaration",
+        -0.008776947
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Rights",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Man",
+        -2.1008714e-06
+      ],
+      [
+        " and",
+        -5.5122365e-07
+      ],
+      [
+        " of",
+        -9.0883464e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Citizen",
+        0.0
+      ]
+    ]
+  },
+  "Devised after a period known as the \"Great Fear,\" during which a resolution was passed to eliminate aristocratic privileges, this document states that only actions harmful to society can be proscribed by law, and that law must serve as an expression of the general will in the fifth and sixth of its seventeen articles. Two years after its release, Olympe de Gouges issued a feminist rebuttal to it. Signed under pressure by the king before his captivity at Tuileries and preceding the drafting of the": {
+    "guess": "Declaration of the Rights of Man and of the Citizen",
+    "confidence": [
+      [
+        "Declaration",
+        -0.008011393
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Rights",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Man",
+        -6.704273e-07
+      ],
+      [
+        " and",
+        -1.3856493e-06
+      ],
+      [
+        " of",
+        -8.776276e-06
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Citizen",
+        0.0
+      ]
+    ]
+  },
+  "Devised after a period known as the \"Great Fear,\" during which a resolution was passed to eliminate aristocratic privileges, this document states that only actions harmful to society can be proscribed by law, and that law must serve as an expression of the general will in the fifth and sixth of its seventeen articles. Two years after its release, Olympe de Gouges issued a feminist rebuttal to it. Signed under pressure by the king before his captivity at Tuileries and preceding the drafting of the Civil Constitution of the Clergy, it was primarily written by Emmanuel Sieyes, though earlier drafts": {
+    "guess": "Declaration of the Rights of Man and of the Citizen",
+    "confidence": [
+      [
+        "Declaration",
+        -0.0057510333
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Rights",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Man",
+        -1.2664457e-06
+      ],
+      [
+        " and",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        -4.246537e-06
+      ],
+      [
+        " the",
+        -3.1281633e-07
+      ],
+      [
+        " Citizen",
+        0.0
+      ]
+    ]
+  },
+  "Devised after a period known as the \"Great Fear,\" during which a resolution was passed to eliminate aristocratic privileges, this document states that only actions harmful to society can be proscribed by law, and that law must serve as an expression of the general will in the fifth and sixth of its seventeen articles. Two years after its release, Olympe de Gouges issued a feminist rebuttal to it. Signed under pressure by the king before his captivity at Tuileries and preceding the drafting of the Civil Constitution of the Clergy, it was primarily written by Emmanuel Sieyes, though earlier drafts featured the work of Lafayette. FTP, identify this document passed in 1789 by the National Assembly,": {
+    "guess": "Declaration of the Rights of Man and of the Citizen",
+    "confidence": [
+      [
+        "Declaration",
+        -0.0054819263
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Rights",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Man",
+        -1.9361265e-07
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Citizen",
+        0.0
+      ]
+    ]
+  },
+  "Devised after a period known as the \"Great Fear,\" during which a resolution was passed to eliminate aristocratic privileges, this document states that only actions harmful to society can be proscribed by law, and that law must serve as an expression of the general will in the fifth and sixth of its seventeen articles. Two years after its release, Olympe de Gouges issued a feminist rebuttal to it. Signed under pressure by the king before his captivity at Tuileries and preceding the drafting of the Civil Constitution of the Clergy, it was primarily written by Emmanuel Sieyes, though earlier drafts featured the work of Lafayette. FTP, identify this document passed in 1789 by the National Assembly, the French Revolution's analog to the Declaration of Independence.": {
+    "guess": "Declaration of the Rights of Man and of the Citizen",
+    "confidence": [
+      [
+        "Declaration",
+        -0.016357273
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Rights",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Man",
+        0.0
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Citizen",
+        0.0
+      ]
+    ]
+  },
+  "These devices frequently store addresses preemptively based on location, and are optimized by implementing": {
+    "guess": "Cache (computing)",
+    "confidence": [
+      [
+        "Cache",
+        -0.6607759
+      ],
+      [
+        " (",
+        -0.5550707
+      ],
+      [
+        "comput",
+        -0.0040966854
+      ],
+      [
+        "ing",
+        -0.00014561474
+      ],
+      [
+        ")",
+        -2.8206474e-05
+      ]
+    ]
+  },
+  "These devices frequently store addresses preemptively based on location, and are optimized by implementing pseudo-associativity and multiple levels, producing hit-ratios of up to 90 percent. They utilize": {
+    "guess": "CPU cache",
+    "confidence": [
+      [
+        "CPU",
+        -0.45302153
+      ],
+      [
+        " cache",
+        -0.3978657
+      ]
+    ]
+  },
+  "These devices frequently store addresses preemptively based on location, and are optimized by implementing pseudo-associativity and multiple levels, producing hit-ratios of up to 90 percent. They utilize * static RAM chips which make room for new data by dumping the data that has waited the longest without": {
+    "guess": "Cache (computing)",
+    "confidence": [
+      [
+        "Cache",
+        -0.002155615
+      ],
+      [
+        " (",
+        -0.1735115
+      ],
+      [
+        "comput",
+        -0.0041914177
+      ],
+      [
+        "ing",
+        -2.6968896e-06
+      ],
+      [
+        ")",
+        -3.1186566e-05
+      ]
+    ]
+  },
+  "These devices frequently store addresses preemptively based on location, and are optimized by implementing pseudo-associativity and multiple levels, producing hit-ratios of up to 90 percent. They utilize * static RAM chips which make room for new data by dumping the data that has waited the longest without being accessed. FTP, what is this area of computer storage dedicated to high-speed retrieval": {
+    "guess": "Cache (computing)",
+    "confidence": [
+      [
+        "Cache",
+        -0.31395796
+      ],
+      [
+        " (",
+        -0.5068656
+      ],
+      [
+        "comput",
+        -0.0046848995
+      ],
+      [
+        "ing",
+        -1.504853e-06
+      ],
+      [
+        ")",
+        -1.1637165e-05
+      ]
+    ]
+  },
+  "These devices frequently store addresses preemptively based on location, and are optimized by implementing pseudo-associativity and multiple levels, producing hit-ratios of up to 90 percent. They utilize * static RAM chips which make room for new data by dumping the data that has waited the longest without being accessed. FTP, what is this area of computer storage dedicated to high-speed retrieval of frequently used data?": {
+    "guess": "Cache (computing)",
+    "confidence": [
+      [
+        "Cache",
+        -0.014261171
+      ],
+      [
+        " (",
+        -0.0025486737
+      ],
+      [
+        "comput",
+        -0.0002105734
+      ],
+      [
+        "ing",
+        0.0
+      ],
+      [
+        ")",
+        -1.1517961e-05
+      ]
+    ]
+  },
+  "Deviations from this law for mixtures cause the formation of azeotropes. If a solution obeys it, it is": {
+    "guess": "Raoult's law",
+    "confidence": [
+      [
+        "Ra",
+        -0.029840391
+      ],
+      [
+        "ou",
+        0.0
+      ],
+      [
+        "lt",
+        0.0
+      ],
+      [
+        "'s",
+        -0.0028048719
+      ],
+      [
+        " law",
+        -0.25192982
+      ]
+    ]
+  },
+  "Deviations from this law for mixtures cause the formation of azeotropes. If a solution obeys it, it is said to be ideal, and a mixture that obeys it at any concentration is called a perfect solution. FTP,": {
+    "guess": "Raoult's law",
+    "confidence": [
+      [
+        "Ra",
+        -0.002987567
+      ],
+      [
+        "ou",
+        -1.504853e-06
+      ],
+      [
+        "lt",
+        0.0
+      ],
+      [
+        "'s",
+        -0.0006265374
+      ],
+      [
+        " law",
+        -0.2811509
+      ]
+    ]
+  },
+  "Deviations from this law for mixtures cause the formation of azeotropes. If a solution obeys it, it is said to be ideal, and a mixture that obeys it at any concentration is called a perfect solution. FTP, identify this law, which states that the par  tial vapor pressure of a solvent is proportional to": {
+    "guess": "Raoult's law",
+    "confidence": [
+      [
+        "Ra",
+        -0.00012582695
+      ],
+      [
+        "ou",
+        0.0
+      ],
+      [
+        "lt",
+        0.0
+      ],
+      [
+        "'s",
+        -0.0011702254
+      ],
+      [
+        " law",
+        -0.34844503
+      ]
+    ]
+  },
+  "Deviations from this law for mixtures cause the formation of azeotropes. If a solution obeys it, it is said to be ideal, and a mixture that obeys it at any concentration is called a perfect solution. FTP, identify this law, which states that the par  tial vapor pressure of a solvent is proportional to its mole fraction, generally only applied to dilute solutions and named for the French chemist who": {
+    "guess": "Raoult's law",
+    "confidence": [
+      [
+        "Ra",
+        -6.742448e-05
+      ],
+      [
+        "ou",
+        -1.9361265e-07
+      ],
+      [
+        "lt",
+        0.0
+      ],
+      [
+        "'s",
+        -0.0003801489
+      ],
+      [
+        " law",
+        -0.16022444
+      ]
+    ]
+  },
+  "Deviations from this law for mixtures cause the formation of azeotropes. If a solution obeys it, it is said to be ideal, and a mixture that obeys it at any concentration is called a perfect solution. FTP, identify this law, which states that the par  tial vapor pressure of a solvent is proportional to its mole fraction, generally only applied to dilute solutions and named for the French chemist who discovered it.": {
+    "guess": "Raoult's law",
+    "confidence": [
+      [
+        "Ra",
+        -0.00038181408
+      ],
+      [
+        "ou",
+        -1.9361265e-07
+      ],
+      [
+        "lt",
+        0.0
+      ],
+      [
+        "'s",
+        -0.00048799152
+      ],
+      [
+        " law",
+        -0.17974491
+      ]
+    ]
+  },
+  "A device that exploits this effect is the only quantum magnetometer that offers continuous or  sequential": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.73970383
+      ]
+    ]
+  },
+  "A device that exploits this effect is the only quantum magnetometer that offers continuous or  sequential operation; that magnetometer was introduced by GEM Systems. This effect is either positive  or": {
+    "guess": "Overhauser effect",
+    "confidence": [
+      [
+        "Over",
+        -1.0541657
+      ],
+      [
+        "ha",
+        -2.4584822e-06
+      ],
+      [
+        "user",
+        -4.3202e-07
+      ],
+      [
+        " effect",
+        -0.019474356
+      ]
+    ]
+  },
+  "A device that exploits this effect is the only quantum magnetometer that offers continuous or  sequential operation; that magnetometer was introduced by GEM Systems. This effect is either positive  or negative depending on the difference between the quantum transition probabilities omega-sub-two  and": {
+    "guess": "Nuclear Overhauser effect",
+    "confidence": [
+      [
+        "N",
+        -0.2104259
+      ],
+      [
+        "uclear",
+        -2.129266e-05
+      ],
+      [
+        " Over",
+        -9.805982e-05
+      ],
+      [
+        "ha",
+        0.0
+      ],
+      [
+        "user",
+        0.0
+      ],
+      [
+        " effect",
+        -0.001326076
+      ]
+    ]
+  },
+  "A device that exploits this effect is the only quantum magnetometer that offers continuous or  sequential operation; that magnetometer was introduced by GEM Systems. This effect is either positive  or negative depending on the difference between the quantum transition probabilities omega-sub-two  and omega-sub-zero. The first experimental test of it was performed by Carver and Slichter with metal ic": {
+    "guess": "Nuclear Overhauser effect",
+    "confidence": [
+      [
+        "N",
+        -0.20246363
+      ],
+      [
+        "uclear",
+        -9.014684e-06
+      ],
+      [
+        " Over",
+        -3.0545007e-06
+      ],
+      [
+        "ha",
+        0.0
+      ],
+      [
+        "user",
+        0.0
+      ],
+      [
+        " effect",
+        -0.0009115827
+      ]
+    ]
+  },
+  "A device that exploits this effect is the only quantum magnetometer that offers continuous or  sequential operation; that magnetometer was introduced by GEM Systems. This effect is either positive  or negative depending on the difference between the quantum transition probabilities omega-sub-two  and omega-sub-zero. The first experimental test of it was performed by Carver and Slichter with metal ic  lithium. This effect can be eliminated by the addition of chromium(III) acetylacetonate. Experiments": {
+    "guess": "Nuclear Overhauser effect",
+    "confidence": [
+      [
+        "N",
+        -0.3309692
+      ],
+      [
+        "uclear",
+        -2.6968896e-06
+      ],
+      [
+        " Over",
+        -7.89631e-07
+      ],
+      [
+        "ha",
+        0.0
+      ],
+      [
+        "user",
+        0.0
+      ],
+      [
+        " effect",
+        -0.0011702254
+      ]
+    ]
+  },
+  "A device that exploits this effect is the only quantum magnetometer that offers continuous or  sequential operation; that magnetometer was introduced by GEM Systems. This effect is either positive  or negative depending on the difference between the quantum transition probabilities omega-sub-two  and omega-sub-zero. The first experimental test of it was performed by Carver and Slichter with metal ic  lithium. This effect can be eliminated by the addition of chromium(III) acetylacetonate. Experiments using it usual y turn off the decoupler when acquiring the free induction decay, as opposed to HOMODEC": {
+    "guess": "Nuclear Overhauser effect",
+    "confidence": [
+      [
+        "N",
+        -0.23458654
+      ],
+      [
+        "uclear",
+        -1.9361265e-07
+      ],
+      [
+        " Over",
+        -3.1281633e-07
+      ],
+      [
+        "ha",
+        0.0
+      ],
+      [
+        "user",
+        0.0
+      ],
+      [
+        " effect",
+        -0.0003801489
+      ]
+    ]
+  },
+  "A device that exploits this effect is the only quantum magnetometer that offers continuous or  sequential operation; that magnetometer was introduced by GEM Systems. This effect is either positive  or negative depending on the difference between the quantum transition probabilities omega-sub-two  and omega-sub-zero. The first experimental test of it was performed by Carver and Slichter with metal ic  lithium. This effect can be eliminated by the addition of chromium(III) acetylacetonate. Experiments using it usual y turn off the decoupler when acquiring the free induction decay, as opposed to HOMODEC  experiments. It causes the spin populations of non-irradiated nuclei to change provided that": {
+    "guess": "Nuclear Overhauser effect",
+    "confidence": [
+      [
+        "N",
+        -0.030648598
+      ],
+      [
+        "uclear",
+        0.0
+      ],
+      [
+        " Over",
+        0.0
+      ],
+      [
+        "ha",
+        0.0
+      ],
+      [
+        "user",
+        0.0
+      ],
+      [
+        " effect",
+        -0.00048811073
+      ]
+    ]
+  },
+  "A device that exploits this effect is the only quantum magnetometer that offers continuous or  sequential operation; that magnetometer was introduced by GEM Systems. This effect is either positive  or negative depending on the difference between the quantum transition probabilities omega-sub-two  and omega-sub-zero. The first experimental test of it was performed by Carver and Slichter with metal ic  lithium. This effect can be eliminated by the addition of chromium(III) acetylacetonate. Experiments using it usual y turn off the decoupler when acquiring the free induction decay, as opposed to HOMODEC  experiments. It causes the spin populations of non-irradiated nuclei to change provided that an  irradiated nuclei is causing T1 relaxation of them by the dipole-dipole mechanism. For 10 points,": {
+    "guess": "Nuclear Overhauser effect",
+    "confidence": [
+      [
+        "N",
+        -0.0020586655
+      ],
+      [
+        "uclear",
+        -3.1281633e-07
+      ],
+      [
+        " Over",
+        -1.1279553e-05
+      ],
+      [
+        "ha",
+        0.0
+      ],
+      [
+        "user",
+        0.0
+      ],
+      [
+        " effect",
+        -0.00023059595
+      ]
+    ]
+  },
+  "A device that exploits this effect is the only quantum magnetometer that offers continuous or  sequential operation; that magnetometer was introduced by GEM Systems. This effect is either positive  or negative depending on the difference between the quantum transition probabilities omega-sub-two  and omega-sub-zero. The first experimental test of it was performed by Carver and Slichter with metal ic  lithium. This effect can be eliminated by the addition of chromium(III) acetylacetonate. Experiments using it usual y turn off the decoupler when acquiring the free induction decay, as opposed to HOMODEC  experiments. It causes the spin populations of non-irradiated nuclei to change provided that an  irradiated nuclei is causing T1 relaxation of them by the dipole-dipole mechanism. For 10 points, identify this type of dynamic nuclear polarization observed in NMR spectroscopy.": {
+    "guess": "Nuclear Overhauser effect",
+    "confidence": [
+      [
+        "N",
+        -0.00601246
+      ],
+      [
+        "uclear",
+        0.0
+      ],
+      [
+        " Over",
+        -3.1281633e-07
+      ],
+      [
+        "ha",
+        0.0
+      ],
+      [
+        "user",
+        0.0
+      ],
+      [
+        " effect",
+        -0.0003801489
+      ]
+    ]
+  },
+  "One of these devices was suspended from a torsion fiber in an attempt to measure the effects of motion": {
+    "guess": "Cavendish experiment",
+    "confidence": [
+      [
+        "C",
+        -0.5871602
+      ],
+      [
+        "av",
+        -0.0002390594
+      ],
+      [
+        "end",
+        0.0
+      ],
+      [
+        "ish",
+        0.0
+      ],
+      [
+        " experiment",
+        -0.048618477
+      ]
+    ]
+  },
+  "One of these devices was suspended from a torsion fiber in an attempt to measure the effects of motion through the ether in an experiment conducted by Trouton and Noble. Hartley oscillators use one of": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.024058364
+      ],
+      [
+        "ac",
+        0.0
+      ],
+      [
+        "itor",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "One of these devices was suspended from a torsion fiber in an attempt to measure the effects of motion through the ether in an experiment conducted by Trouton and Noble. Hartley oscillators use one of these devices for tuning, while a Colpitt oscillator uses two of these devices to split the voltage.": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.007563084
+      ],
+      [
+        "ac",
+        -1.6240566e-06
+      ],
+      [
+        "itor",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "One of these devices was suspended from a torsion fiber in an attempt to measure the effects of motion through the ether in an experiment conducted by Trouton and Noble. Hartley oscillators use one of these devices for tuning, while a Colpitt oscillator uses two of these devices to split the voltage. The first recorded example, which utilized a bottle filled with water, was invented by von Kleist in": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.025923198
+      ],
+      [
+        "ac",
+        -3.4121115e-06
+      ],
+      [
+        "itor",
+        -2.577686e-06
+      ]
+    ]
+  },
+  "One of these devices was suspended from a torsion fiber in an attempt to measure the effects of motion through the ether in an experiment conducted by Trouton and Noble. Hartley oscillators use one of these devices for tuning, while a Colpitt oscillator uses two of these devices to split the voltage. The first recorded example, which utilized a bottle filled with water, was invented by von Kleist in 1745; today, these components are used to store bits of data in DRAM. In these devices, the current": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.0011334282
+      ],
+      [
+        "ac",
+        -3.1281633e-07
+      ],
+      [
+        "itor",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "One of these devices was suspended from a torsion fiber in an attempt to measure the effects of motion through the ether in an experiment conducted by Trouton and Noble. Hartley oscillators use one of these devices for tuning, while a Colpitt oscillator uses two of these devices to split the voltage. The first recorded example, which utilized a bottle filled with water, was invented by von Kleist in 1745; today, these components are used to store bits of data in DRAM. In these devices, the current leads the voltage by 90 degrees, and the reactance goes as one over the frequency. The displacement": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -7.465036e-06
+      ],
+      [
+        "ac",
+        -1.8624639e-06
+      ],
+      [
+        "itor",
+        -5.4385737e-06
+      ]
+    ]
+  },
+  "One of these devices was suspended from a torsion fiber in an attempt to measure the effects of motion through the ether in an experiment conducted by Trouton and Noble. Hartley oscillators use one of these devices for tuning, while a Colpitt oscillator uses two of these devices to split the voltage. The first recorded example, which utilized a bottle filled with water, was invented by von Kleist in 1745; today, these components are used to store bits of data in DRAM. In these devices, the current leads the voltage by 90 degrees, and the reactance goes as one over the frequency. The displacement current is needed to explain the charging of, FTP, what circuit elements whose namesake property is": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -4.604148e-06
+      ],
+      [
+        "ac",
+        -5.5122365e-07
+      ],
+      [
+        "itor",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "One of these devices was suspended from a torsion fiber in an attempt to measure the effects of motion through the ether in an experiment conducted by Trouton and Noble. Hartley oscillators use one of these devices for tuning, while a Colpitt oscillator uses two of these devices to split the voltage. The first recorded example, which utilized a bottle filled with water, was invented by von Kleist in 1745; today, these components are used to store bits of data in DRAM. In these devices, the current leads the voltage by 90 degrees, and the reactance goes as one over the frequency. The displacement current is needed to explain the charging of, FTP, what circuit elements whose namesake property is measured in farads?": {
+    "guess": "Capacitor",
+    "confidence": [
+      [
+        "Cap",
+        -0.00017135908
+      ],
+      [
+        "ac",
+        -3.4121115e-06
+      ],
+      [
+        "itor",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "Deviations from this equation can be found by plotting the compressibility factor against pressure; the": {
+    "guess": "Ideal gas law",
+    "confidence": [
+      [
+        "Ideal",
+        -0.31990546
+      ],
+      [
+        " gas",
+        -0.0003801489
+      ],
+      [
+        " law",
+        -4.9617593e-06
+      ]
+    ]
+  },
+  "Deviations from this equation can be found by plotting the compressibility factor against pressure; the virial expansion is often used to measure those deviations. The Peng-Robinson equation is a good": {
+    "guess": "Van der Waals equation",
+    "confidence": [
+      [
+        "Van",
+        -0.3401634
+      ],
+      [
+        " der",
+        -4.8425554e-06
+      ],
+      [
+        " Wa",
+        0.0
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " equation",
+        -0.00018018014
+      ]
+    ]
+  },
+  "Deviations from this equation can be found by plotting the compressibility factor against pressure; the virial expansion is often used to measure those deviations. The Peng-Robinson equation is a good alternative to this equation at low pressures and the Redlich-Kwong equation is a better alternative": {
+    "guess": "Van der Waals equation",
+    "confidence": [
+      [
+        "Van",
+        -0.124591984
+      ],
+      [
+        " der",
+        -4.1273333e-06
+      ],
+      [
+        " Wa",
+        0.0
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " equation",
+        -3.5597102e-05
+      ]
+    ]
+  },
+  "Deviations from this equation can be found by plotting the compressibility factor against pressure; the virial expansion is often used to measure those deviations. The Peng-Robinson equation is a good alternative to this equation at low pressures and the Redlich-Kwong equation is a better alternative at high pressures. A more common alternative is an equation that introduces parameters (*) a and b,": {
+    "guess": "Van der Waals equation",
+    "confidence": [
+      [
+        "Van",
+        -0.048783116
+      ],
+      [
+        " der",
+        -2.1008714e-06
+      ],
+      [
+        " Wa",
+        0.0
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " equation",
+        -1.0325924e-05
+      ]
+    ]
+  },
+  "Deviations from this equation can be found by plotting the compressibility factor against pressure; the virial expansion is often used to measure those deviations. The Peng-Robinson equation is a good alternative to this equation at low pressures and the Redlich-Kwong equation is a better alternative at high pressures. A more common alternative is an equation that introduces parameters (*) a and b, the van der Waals equation. For 10 points, name this equation of state describing the behavior of a": {
+    "guess": "Ideal gas law",
+    "confidence": [
+      [
+        "Ideal",
+        -0.11541944
+      ],
+      [
+        " gas",
+        -5.5122365e-07
+      ],
+      [
+        " law",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Deviations from this equation can be found by plotting the compressibility factor against pressure; the virial expansion is often used to measure those deviations. The Peng-Robinson equation is a good alternative to this equation at low pressures and the Redlich-Kwong equation is a better alternative at high pressures. A more common alternative is an equation that introduces parameters (*) a and b, the van der Waals equation. For 10 points, name this equation of state describing the behavior of a sufficiently dilute gas, which states that PV equals nRT.": {
+    "guess": "Ideal gas law",
+    "confidence": [
+      [
+        "Ideal",
+        -9.372295e-06
+      ],
+      [
+        " gas",
+        0.0
+      ],
+      [
+        " law",
+        0.0
+      ]
+    ]
+  },
+  "In one device in which this process occurs, lasers are fired at both apertures of a hohlraum. This process": {
+    "guess": "Nuclear fusion",
+    "confidence": [
+      [
+        "N",
+        -0.89132327
+      ],
+      [
+        "uclear",
+        -3.1281633e-07
+      ],
+      [
+        " fusion",
+        -2.4391957e-05
+      ]
+    ]
+  },
+  "In one device in which this process occurs, lasers are fired at both apertures of a hohlraum. This process is employed in the secondary in the Teller-Ulam device. Another device in which it occurs is covered": {
+    "guess": "Nuclear fusion",
+    "confidence": [
+      [
+        "N",
+        -0.014294549
+      ],
+      [
+        "uclear",
+        -1.9361265e-07
+      ],
+      [
+        " fusion",
+        -0.061970152
+      ]
+    ]
+  },
+  "In one device in which this process occurs, lasers are fired at both apertures of a hohlraum. This process is employed in the secondary in the Teller-Ulam device. Another device in which it occurs is covered in a lithium blanket, which breeds tritium from fast neutrons; that device is a tokamak, in which": {
+    "guess": "Nuclear fusion",
+    "confidence": [
+      [
+        "N",
+        -0.017532945
+      ],
+      [
+        "uclear",
+        0.0
+      ],
+      [
+        " fusion",
+        -0.048587713
+      ]
+    ]
+  },
+  "In one device in which this process occurs, lasers are fired at both apertures of a hohlraum. This process is employed in the secondary in the Teller-Ulam device. Another device in which it occurs is covered in a lithium blanket, which breeds tritium from fast neutrons; that device is a tokamak, in which a plasma is magnetically confined. Muon catalysis lowers the activation energy for this process": {
+    "guess": "Fusion",
+    "confidence": [
+      [
+        "Fusion",
+        -0.018210815
+      ]
+    ]
+  },
+  "In one device in which this process occurs, lasers are fired at both apertures of a hohlraum. This process is employed in the secondary in the Teller-Ulam device. Another device in which it occurs is covered in a lithium blanket, which breeds tritium from fast neutrons; that device is a tokamak, in which a plasma is magnetically confined. Muon catalysis lowers the activation energy for this process over a million-fold. Astrophysically, this occurs in the proton-proton chain, which culminates in the": {
+    "guess": "Nuclear Fusion",
+    "confidence": [
+      [
+        "N",
+        -1.1163211
+      ],
+      [
+        "uclear",
+        -0.00033558503
+      ],
+      [
+        " Fusion",
+        -0.020542353
+      ]
+    ]
+  },
+  "In one device in which this process occurs, lasers are fired at both apertures of a hohlraum. This process is employed in the secondary in the Teller-Ulam device. Another device in which it occurs is covered in a lithium blanket, which breeds tritium from fast neutrons; that device is a tokamak, in which a plasma is magnetically confined. Muon catalysis lowers the activation energy for this process over a million-fold. Astrophysically, this occurs in the proton-proton chain, which culminates in the formation of helium and is the primary source of energy in the sun. For 10 points, name this process": {
+    "guess": "Nuclear Fusion",
+    "confidence": [
+      [
+        "N",
+        -0.051543284
+      ],
+      [
+        "uclear",
+        0.0
+      ],
+      [
+        " Fusion",
+        -0.3132725
+      ]
+    ]
+  },
+  "In one device in which this process occurs, lasers are fired at both apertures of a hohlraum. This process is employed in the secondary in the Teller-Ulam device. Another device in which it occurs is covered in a lithium blanket, which breeds tritium from fast neutrons; that device is a tokamak, in which a plasma is magnetically confined. Muon catalysis lowers the activation energy for this process over a million-fold. Astrophysically, this occurs in the proton-proton chain, which culminates in the formation of helium and is the primary source of energy in the sun. For 10 points, name this process in which lighter elements are combined to form heavier elements.": {
+    "guess": "Nuclear fusion",
+    "confidence": [
+      [
+        "N",
+        -0.042379856
+      ],
+      [
+        "uclear",
+        0.0
+      ],
+      [
+        " fusion",
+        -0.22542061
+      ]
+    ]
+  },
+  "These devices use the Hadamard gate and other unitary matrix operators to manipulate their inputs. The": {
+    "guess": "Quantum computer",
+    "confidence": [
+      [
+        "Quantum",
+        -0.00012904544
+      ],
+      [
+        " computer",
+        -0.023274949
+      ]
+    ]
+  },
+  "These devices use the Hadamard gate and other unitary matrix operators to manipulate their inputs. The set of problems practically solvable by these devices is BQP, which is thought to be a subclass of": {
+    "guess": "Quantum computer",
+    "confidence": [
+      [
+        "Quantum",
+        -0.00034011112
+      ],
+      [
+        " computer",
+        -0.008137568
+      ]
+    ]
+  },
+  "These devices use the Hadamard gate and other unitary matrix operators to manipulate their inputs. The set of problems practically solvable by these devices is BQP, which is thought to be a subclass of P. In 2001, one of these devices was used to show that \"15 equals 3 times 5\". To do so, a technique": {
+    "guess": "Quantum computer",
+    "confidence": [
+      [
+        "Quantum",
+        -9.901345e-05
+      ],
+      [
+        " computer",
+        -0.004035895
+      ]
+    ]
+  },
+  "These devices use the Hadamard gate and other unitary matrix operators to manipulate their inputs. The set of problems practically solvable by these devices is BQP, which is thought to be a subclass of P. In 2001, one of these devices was used to show that \"15 equals 3 times 5\". To do so, a technique developed by Peter Shor was used, and that technique could one day allow these devices to break RSA.": {
+    "guess": "Quantum computer",
+    "confidence": [
+      [
+        "Quantum",
+        -3.202099e-05
+      ],
+      [
+        " computer",
+        -0.002626312
+      ]
+    ]
+  },
+  "These devices use the Hadamard gate and other unitary matrix operators to manipulate their inputs. The set of problems practically solvable by these devices is BQP, which is thought to be a subclass of P. In 2001, one of these devices was used to show that \"15 equals 3 times 5\". To do so, a technique developed by Peter Shor was used, and that technique could one day allow these devices to break RSA. D-Wave has built one type of these devices, which performs annealing using 128 qubits (\"Q-bits\").": {
+    "guess": "Quantum computer",
+    "confidence": [
+      [
+        "Quantum",
+        -2.5583993e-05
+      ],
+      [
+        " computer",
+        -0.005940056
+      ]
+    ]
+  },
+  "These devices use the Hadamard gate and other unitary matrix operators to manipulate their inputs. The set of problems practically solvable by these devices is BQP, which is thought to be a subclass of P. In 2001, one of these devices was used to show that \"15 equals 3 times 5\". To do so, a technique developed by Peter Shor was used, and that technique could one day allow these devices to break RSA. D-Wave has built one type of these devices, which performs annealing using 128 qubits (\"Q-bits\"). For 10 points, name these devices, first proposed by Richard Feynman, that use distinctly non-classical": {
+    "guess": "Quantum computer",
+    "confidence": [
+      [
+        "Quantum",
+        -6.1106686e-05
+      ],
+      [
+        " computer",
+        -0.010822371
+      ]
+    ]
+  },
+  "These devices use the Hadamard gate and other unitary matrix operators to manipulate their inputs. The set of problems practically solvable by these devices is BQP, which is thought to be a subclass of P. In 2001, one of these devices was used to show that \"15 equals 3 times 5\". To do so, a technique developed by Peter Shor was used, and that technique could one day allow these devices to break RSA. D-Wave has built one type of these devices, which performs annealing using 128 qubits (\"Q-bits\"). For 10 points, name these devices, first proposed by Richard Feynman, that use distinctly non-classical phenomena to execute algorithms.": {
+    "guess": "Quantum computer",
+    "confidence": [
+      [
+        "Quantum",
+        -2.8564085e-05
+      ],
+      [
+        " computer",
+        -0.0068215784
+      ]
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "In 2009, the CIA announced that half of the twenty most wanted Al Qaeda suspects in Pakistan had been": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.4767025
+      ]
+    ]
+  },
+  "In 2009, the CIA announced that half of the twenty most wanted Al Qaeda suspects in Pakistan had been killed using these devices, though Pakistani groups named hundreds of civilian casualties resulting": {
+    "guess": "Drone strikes in Pakistan",
+    "confidence": [
+      [
+        "Drone",
+        -0.010728492
+      ],
+      [
+        " strikes",
+        -0.12760973
+      ],
+      [
+        " in",
+        -0.008705225
+      ],
+      [
+        " Pakistan",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In 2009, the CIA announced that half of the twenty most wanted Al Qaeda suspects in Pakistan had been killed using these devices, though Pakistani groups named hundreds of civilian casualties resulting from their use. In 2010, the U.S. Department of Defense announced that these vehicles's monitoring": {
+    "guess": "Drone strikes in Pakistan",
+    "confidence": [
+      [
+        "Drone",
+        -0.7256695
+      ],
+      [
+        " strikes",
+        -0.065050915
+      ],
+      [
+        " in",
+        -0.47542298
+      ],
+      [
+        " Pakistan",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "In 2009, the CIA announced that half of the twenty most wanted Al Qaeda suspects in Pakistan had been killed using these devices, though Pakistani groups named hundreds of civilian casualties resulting from their use. In 2010, the U.S. Department of Defense announced that these vehicles's monitoring systems were being hacked by Iraqi insurgents using the program SkyGrabber, which is sold to the public": {
+    "guess": "Unmanned aerial vehicles (UAVs)",
+    "confidence": [
+      [
+        "Un",
+        -0.107567295
+      ],
+      [
+        "m",
+        -1.0280384e-06
+      ],
+      [
+        "anned",
+        0.0
+      ],
+      [
+        " aerial",
+        -0.038175527
+      ],
+      [
+        " vehicles",
+        -0.16022849
+      ],
+      [
+        " (",
+        -0.5519264
+      ],
+      [
+        "U",
+        -0.060987037
+      ],
+      [
+        "AV",
+        0.0
+      ],
+      [
+        "s",
+        -0.0006728783
+      ],
+      [
+        ")",
+        -0.0017992929
+      ]
+    ]
+  },
+  "In 2009, the CIA announced that half of the twenty most wanted Al Qaeda suspects in Pakistan had been killed using these devices, though Pakistani groups named hundreds of civilian casualties resulting from their use. In 2010, the U.S. Department of Defense announced that these vehicles's monitoring systems were being hacked by Iraqi insurgents using the program SkyGrabber, which is sold to the public for thirty dollars. For 10 points, an increasing number of aerial bombings by the U.S. military": {
+    "guess": "Unmanned aerial vehicles",
+    "confidence": [
+      [
+        "Un",
+        -0.400174
+      ],
+      [
+        "m",
+        -3.1281633e-07
+      ],
+      [
+        "anned",
+        0.0
+      ],
+      [
+        " aerial",
+        -0.018607447
+      ],
+      [
+        " vehicles",
+        -0.38687402
+      ]
+    ]
+  },
+  "In 2009, the CIA announced that half of the twenty most wanted Al Qaeda suspects in Pakistan had been killed using these devices, though Pakistani groups named hundreds of civilian casualties resulting from their use. In 2010, the U.S. Department of Defense announced that these vehicles's monitoring systems were being hacked by Iraqi insurgents using the program SkyGrabber, which is sold to the public for thirty dollars. For 10 points, an increasing number of aerial bombings by the U.S. military are being conducted using what remotely controlled, pilot-less aircraft?": {
+    "guess": "Drones",
+    "confidence": [
+      [
+        "D",
+        -0.21621706
+      ],
+      [
+        "rones",
+        -4.3202e-07
+      ]
+    ]
+  }
+}

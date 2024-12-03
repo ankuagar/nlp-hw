@@ -1,0 +1,67 @@
+{
+  "Mt. Ijill, a massive block of hematite, is this country's tallest point.  Its ocean coastline ends at": {
+    "guess": "Mauritania",
+    "confidence": [
+      [
+        "Maur",
+        -0.006922461
+      ],
+      [
+        "itania",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Mt. Ijill, a massive block of hematite, is this country's tallest point.  Its ocean coastline ends at the north around Cap Blanc Peninsula, and most of its population is located in two cities along the": {
+    "guess": "Mauritania",
+    "confidence": [
+      [
+        "Maur",
+        -0.00018280261
+      ],
+      [
+        "itania",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Mt. Ijill, a massive block of hematite, is this country's tallest point.  Its ocean coastline ends at the north around Cap Blanc Peninsula, and most of its population is located in two cities along the Senegal River, Nouadhibou and the capital.  It is bordered to the northwest by the Western Sahara and": {
+    "guess": "Mauritania",
+    "confidence": [
+      [
+        "Maur",
+        -0.015470401
+      ],
+      [
+        "itania",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Mt. Ijill, a massive block of hematite, is this country's tallest point.  Its ocean coastline ends at the north around Cap Blanc Peninsula, and most of its population is located in two cities along the Senegal River, Nouadhibou and the capital.  It is bordered to the northwest by the Western Sahara and to the northeast by Algeria.  FTP, name this western neighbor of Mali, and African nation on the": {
+    "guess": "Mauritania",
+    "confidence": [
+      [
+        "Maur",
+        -0.0067648715
+      ],
+      [
+        "itania",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Mt. Ijill, a massive block of hematite, is this country's tallest point.  Its ocean coastline ends at the north around Cap Blanc Peninsula, and most of its population is located in two cities along the Senegal River, Nouadhibou and the capital.  It is bordered to the northwest by the Western Sahara and to the northeast by Algeria.  FTP, name this western neighbor of Mali, and African nation on the Atlantic Ocean with its capital at Nouakchott.": {
+    "guess": "Mauritania",
+    "confidence": [
+      [
+        "Maur",
+        -0.020679805
+      ],
+      [
+        "itania",
+        -1.9361265e-07
+      ]
+    ]
+  }
+}

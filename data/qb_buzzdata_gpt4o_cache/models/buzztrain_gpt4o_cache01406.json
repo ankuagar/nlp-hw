@@ -1,0 +1,123 @@
+{
+  "Dr. Dean Richardson and the New Bolton Center received the Joe Palmer Award for their treatment of him.": {
+    "guess": "Barbaro (horse)",
+    "confidence": [
+      [
+        "Bar",
+        -0.0005412389
+      ],
+      [
+        "bar",
+        0.0
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " (",
+        -0.10026912
+      ],
+      [
+        "horse",
+        -0.0047264337
+      ],
+      [
+        ")",
+        -1.18755715e-05
+      ]
+    ]
+  },
+  "Dr. Dean Richardson and the New Bolton Center received the Joe Palmer Award for their treatment of him. He broke his leg in three places around the ankle, which required a Locking Compression Plate and": {
+    "guess": "Barbaro (horse)",
+    "confidence": [
+      [
+        "Bar",
+        -0.00020771251
+      ],
+      [
+        "bar",
+        0.0
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " (",
+        -0.6934349
+      ],
+      [
+        "horse",
+        -0.014217215
+      ],
+      [
+        ")",
+        -1.9862217e-05
+      ]
+    ]
+  },
+  "Dr. Dean Richardson and the New Bolton Center received the Joe Palmer Award for their treatment of him. He broke his leg in three places around the ankle, which required a Locking Compression Plate and twenty-seven screws to make it possible for him to walk on again. Unfortunately, it would not be enough": {
+    "guess": "Barbaro (horse)",
+    "confidence": [
+      [
+        "Bar",
+        -1.3663626e-05
+      ],
+      [
+        "bar",
+        -4.3202e-07
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " (",
+        -0.0024870727
+      ],
+      [
+        "horse",
+        -0.006766649
+      ],
+      [
+        ")",
+        -5.9153886e-06
+      ]
+    ]
+  },
+  "Dr. Dean Richardson and the New Bolton Center received the Joe Palmer Award for their treatment of him. He broke his leg in three places around the ankle, which required a Locking Compression Plate and twenty-seven screws to make it possible for him to walk on again. Unfortunately, it would not be enough to save this patient who broke the leg while running the Preakness. For ten points, who was this": {
+    "guess": "Barbaro",
+    "confidence": [
+      [
+        "Bar",
+        -2.6299214e-05
+      ],
+      [
+        "bar",
+        0.0
+      ],
+      [
+        "o",
+        0.0
+      ]
+    ]
+  },
+  "Dr. Dean Richardson and the New Bolton Center received the Joe Palmer Award for their treatment of him. He broke his leg in three places around the ankle, which required a Locking Compression Plate and twenty-seven screws to make it possible for him to walk on again. Unfortunately, it would not be enough to save this patient who broke the leg while running the Preakness. For ten points, who was this 2006 Kentucky Derby winner that was euthanized on January 29?": {
+    "guess": "Barbaro",
+    "confidence": [
+      [
+        "Bar",
+        -0.00010688089
+      ],
+      [
+        "bar",
+        -3.1281633e-07
+      ],
+      [
+        "o",
+        0.0
+      ]
+    ]
+  }
+}

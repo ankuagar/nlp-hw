@@ -1,0 +1,76 @@
+{
+  "The shunting-yard algorithm evaluates operators using this structure, which helps reduce memory access": {
+    "guess": "Stack",
+    "confidence": [
+      [
+        "Stack",
+        -0.298172
+      ]
+    ]
+  },
+  "The shunting-yard algorithm evaluates operators using this structure, which helps reduce memory access by leaving operators at the end of operands, a format known as reverse Polish notation. The x87 floating": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.81254905
+      ]
+    ]
+  },
+  "The shunting-yard algorithm evaluates operators using this structure, which helps reduce memory access by leaving operators at the end of operands, a format known as reverse Polish notation. The x87 floating point architecture organizes 8 registers into this structure that uses FXCH instructions to swap": {
+    "guess": "Stack",
+    "confidence": [
+      [
+        "Stack",
+        -0.24784553
+      ]
+    ]
+  },
+  "The shunting-yard algorithm evaluates operators using this structure, which helps reduce memory access by leaving operators at the end of operands, a format known as reverse Polish notation. The x87 floating point architecture organizes 8 registers into this structure that uses FXCH instructions to swap registers, although it may still encounter its namesake (*) \"overflows\" common to flat registers.": {
+    "guess": "Stack (abstract data type)",
+    "confidence": [
+      [
+        "Stack",
+        -0.0016160345
+      ],
+      [
+        " (",
+        -0.65238494
+      ],
+      [
+        "abstract",
+        -0.013117995
+      ],
+      [
+        " data",
+        -1.9027791e-05
+      ],
+      [
+        " type",
+        -2.9994528e-05
+      ],
+      [
+        ")",
+        -4.6683042e-05
+      ]
+    ]
+  },
+  "The shunting-yard algorithm evaluates operators using this structure, which helps reduce memory access by leaving operators at the end of operands, a format known as reverse Polish notation. The x87 floating point architecture organizes 8 registers into this structure that uses FXCH instructions to swap registers, although it may still encounter its namesake (*) \"overflows\" common to flat registers. One method to inspect but not modify these structures is the peek operation, although they fundamentally": {
+    "guess": "Stack",
+    "confidence": [
+      [
+        "Stack",
+        -0.0005666146
+      ]
+    ]
+  },
+  "The shunting-yard algorithm evaluates operators using this structure, which helps reduce memory access by leaving operators at the end of operands, a format known as reverse Polish notation. The x87 floating point architecture organizes 8 registers into this structure that uses FXCH instructions to swap registers, although it may still encounter its namesake (*) \"overflows\" common to flat registers. One method to inspect but not modify these structures is the peek operation, although they fundamentally run by push and pop from the top. For ten points, identify these last-in-first-out data structures.": {
+    "guess": "Stack",
+    "confidence": [
+      [
+        "Stack",
+        -0.0016518525
+      ]
+    ]
+  }
+}

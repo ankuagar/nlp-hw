@@ -1,0 +1,186 @@
+{
+  "In the Lagrangian, an additive term representing this quantity does not have its sign changed. This value": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.39993432
+      ]
+    ]
+  },
+  "In the Lagrangian, an additive term representing this quantity does not have its sign changed. This value is equal to three halves temperature times Boltzmann's constant. For an object, the increase in": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5316845
+      ]
+    ]
+  },
+  "In the Lagrangian, an additive term representing this quantity does not have its sign changed. This value is equal to three halves temperature times Boltzmann's constant. For an object, the increase in it is equal to the definite integral of force over time, meaning its change is equal to the work performed": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.64299846
+      ]
+    ]
+  },
+  "In the Lagrangian, an additive term representing this quantity does not have its sign changed. This value is equal to three halves temperature times Boltzmann's constant. For an object, the increase in it is equal to the definite integral of force over time, meaning its change is equal to the work performed on the object. It is conserved in an elastic collision. It has a rotational form and a translation": {
+    "guess": "Momentum",
+    "confidence": [
+      [
+        "Momentum",
+        -0.65711385
+      ]
+    ]
+  },
+  "In the Lagrangian, an additive term representing this quantity does not have its sign changed. This value is equal to three halves temperature times Boltzmann's constant. For an object, the increase in it is equal to the definite integral of force over time, meaning its change is equal to the work performed on the object. It is conserved in an elastic collision. It has a rotational form and a translation form, which is equal to one half mass times velocity squared. For 10 points, name this energy": {
+    "guess": "Kinetic energy",
+    "confidence": [
+      [
+        "K",
+        -0.096113086
+      ],
+      [
+        "inetic",
+        0.0
+      ],
+      [
+        " energy",
+        -0.00014513794
+      ]
+    ]
+  },
+  "In the Lagrangian, an additive term representing this quantity does not have its sign changed. This value is equal to three halves temperature times Boltzmann's constant. For an object, the increase in it is equal to the definite integral of force over time, meaning its change is equal to the work performed on the object. It is conserved in an elastic collision. It has a rotational form and a translation form, which is equal to one half mass times velocity squared. For 10 points, name this energy of motion.": {
+    "guess": "Kinetic energy",
+    "confidence": [
+      [
+        "K",
+        -0.0010634171
+      ],
+      [
+        "inetic",
+        0.0
+      ],
+      [
+        " energy",
+        -0.00015490896
+      ]
+    ]
+  },
+  "He laid the foundation for a later work on fuzzy logic by supposing that a probability represents a truth-value": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6553003
+      ]
+    ]
+  },
+  "He laid the foundation for a later work on fuzzy logic by supposing that a probability represents a truth-value between zero and one in his Treatise on Probability, though Milton Friedman preferred his": {
+    "guess": "John Maynard Keynes",
+    "confidence": [
+      [
+        "John",
+        -0.41177627
+      ],
+      [
+        " May",
+        -0.00023035755
+      ],
+      [
+        "nard",
+        0.0
+      ],
+      [
+        " Keynes",
+        0.0
+      ]
+    ]
+  },
+  "He laid the foundation for a later work on fuzzy logic by supposing that a probability represents a truth-value between zero and one in his Treatise on Probability, though Milton Friedman preferred his A Tract on Monetary Reform, in which he wrote that \"in the long run we are all dead.\" He cast the Treaty": {
+    "guess": "John Maynard Keynes",
+    "confidence": [
+      [
+        "John",
+        -0.2544406
+      ],
+      [
+        " May",
+        0.0
+      ],
+      [
+        "nard",
+        0.0
+      ],
+      [
+        " Keynes",
+        0.0
+      ]
+    ]
+  },
+  "He laid the foundation for a later work on fuzzy logic by supposing that a probability represents a truth-value between zero and one in his Treatise on Probability, though Milton Friedman preferred his A Tract on Monetary Reform, in which he wrote that \"in the long run we are all dead.\" He cast the Treaty of Versailles as \"Carthaginian\" in The Economic Consequences of the Peace. For 10 points, name": {
+    "guess": "John Maynard Keynes",
+    "confidence": [
+      [
+        "John",
+        -0.011223713
+      ],
+      [
+        " May",
+        0.0
+      ],
+      [
+        "nard",
+        0.0
+      ],
+      [
+        " Keynes",
+        0.0
+      ]
+    ]
+  },
+  "He laid the foundation for a later work on fuzzy logic by supposing that a probability represents a truth-value between zero and one in his Treatise on Probability, though Milton Friedman preferred his A Tract on Monetary Reform, in which he wrote that \"in the long run we are all dead.\" He cast the Treaty of Versailles as \"Carthaginian\" in The Economic Consequences of the Peace. For 10 points, name this author of The General Theory of Employment, Interest, and Money, a namesake of a mainstream school": {
+    "guess": "John Maynard Keynes",
+    "confidence": [
+      [
+        "John",
+        -0.04695585
+      ],
+      [
+        " May",
+        0.0
+      ],
+      [
+        "nard",
+        0.0
+      ],
+      [
+        " Keynes",
+        0.0
+      ]
+    ]
+  },
+  "He laid the foundation for a later work on fuzzy logic by supposing that a probability represents a truth-value between zero and one in his Treatise on Probability, though Milton Friedman preferred his A Tract on Monetary Reform, in which he wrote that \"in the long run we are all dead.\" He cast the Treaty of Versailles as \"Carthaginian\" in The Economic Consequences of the Peace. For 10 points, name this author of The General Theory of Employment, Interest, and Money, a namesake of a mainstream school of economics concerned with aggregate demand.": {
+    "guess": "John Maynard Keynes",
+    "confidence": [
+      [
+        "John",
+        -0.056274254
+      ],
+      [
+        " May",
+        0.0
+      ],
+      [
+        "nard",
+        0.0
+      ],
+      [
+        " Keynes",
+        0.0
+      ]
+    ]
+  }
+}

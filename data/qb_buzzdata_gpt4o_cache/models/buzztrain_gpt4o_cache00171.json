@@ -1,0 +1,602 @@
+{
+  "The alpha type of this mineral crystallizes trigonally and the beta type crystallizes hexagonally. Cristobalite": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.040160593
+      ]
+    ]
+  },
+  "The alpha type of this mineral crystallizes trigonally and the beta type crystallizes hexagonally. Cristobalite has the same chemical formula but different crystal structure than this mineral. One type": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.00023846338
+      ]
+    ]
+  },
+  "The alpha type of this mineral crystallizes trigonally and the beta type crystallizes hexagonally. Cristobalite has the same chemical formula but different crystal structure than this mineral. One type of this mineral created in high pressures is abundant near the K-T boundary. This mineral is found": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.13923055
+      ]
+    ]
+  },
+  "The alpha type of this mineral crystallizes trigonally and the beta type crystallizes hexagonally. Cristobalite has the same chemical formula but different crystal structure than this mineral. One type of this mineral created in high pressures is abundant near the K-T boundary. This mineral is found under muscovite on the Bowen's Reaction Series, and, like Topaz, this mineral is piezoelectric. Forms": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.058825556
+      ]
+    ]
+  },
+  "The alpha type of this mineral crystallizes trigonally and the beta type crystallizes hexagonally. Cristobalite has the same chemical formula but different crystal structure than this mineral. One type of this mineral created in high pressures is abundant near the K-T boundary. This mineral is found under muscovite on the Bowen's Reaction Series, and, like Topaz, this mineral is piezoelectric. Forms of this mineral include amethyst, and trace amounts of titanium create the rose type of this mineral.": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -9.3410876e-05
+      ]
+    ]
+  },
+  "The alpha type of this mineral crystallizes trigonally and the beta type crystallizes hexagonally. Cristobalite has the same chemical formula but different crystal structure than this mineral. One type of this mineral created in high pressures is abundant near the K-T boundary. This mineral is found under muscovite on the Bowen's Reaction Series, and, like Topaz, this mineral is piezoelectric. Forms of this mineral include amethyst, and trace amounts of titanium create the rose type of this mineral. For 10 points, name this mineral that scores a 7 on the Mohs hardness scale, and which is composed": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.0008804962
+      ]
+    ]
+  },
+  "The alpha type of this mineral crystallizes trigonally and the beta type crystallizes hexagonally. Cristobalite has the same chemical formula but different crystal structure than this mineral. One type of this mineral created in high pressures is abundant near the K-T boundary. This mineral is found under muscovite on the Bowen's Reaction Series, and, like Topaz, this mineral is piezoelectric. Forms of this mineral include amethyst, and trace amounts of titanium create the rose type of this mineral. For 10 points, name this mineral that scores a 7 on the Mohs hardness scale, and which is composed of silicon dioxide.": {
+    "guess": "Quartz",
+    "confidence": [
+      [
+        "Quartz",
+        -0.00044330113
+      ]
+    ]
+  },
+  "Their alpha-alkoxy variety undergoes the Thorpe reaction in the presence of tris-methyllithium at -78": {
+    "guess": "Enolate chemistry",
+    "confidence": [
+      [
+        "En",
+        -1.3228042
+      ],
+      [
+        "olate",
+        -0.10298798
+      ],
+      [
+        " chemistry",
+        -0.6128725
+      ]
+    ]
+  },
+  "Their alpha-alkoxy variety undergoes the Thorpe reaction in the presence of tris-methyllithium at -78 degrees Celsius. Their adipo- hydrodimer is key to the production of nylon, and they can be made aromatic": {
+    "guess": "Dicarboxylic acid",
+    "confidence": [
+      [
+        "D",
+        -0.4768297
+      ],
+      [
+        "icar",
+        -0.4416702
+      ],
+      [
+        "box",
+        -5.5122365e-07
+      ],
+      [
+        "y",
+        -9.014684e-06
+      ],
+      [
+        "lic",
+        0.0
+      ],
+      [
+        " acid",
+        -0.20214325
+      ]
+    ]
+  },
+  "Their alpha-alkoxy variety undergoes the Thorpe reaction in the presence of tris-methyllithium at -78 degrees Celsius. Their adipo- hydrodimer is key to the production of nylon, and they can be made aromatic via the dehydration of oximes with phosphorus pentoxide. The Ritter reaction (*) is an acid-": {
+    "guess": "Nitrile",
+    "confidence": [
+      [
+        "N",
+        -0.34267226
+      ],
+      [
+        "itr",
+        -1.7432603e-06
+      ],
+      [
+        "ile",
+        -0.10020667
+      ]
+    ]
+  },
+  "Their alpha-alkoxy variety undergoes the Thorpe reaction in the presence of tris-methyllithium at -78 degrees Celsius. Their adipo- hydrodimer is key to the production of nylon, and they can be made aromatic via the dehydration of oximes with phosphorus pentoxide. The Ritter reaction (*) is an acid- induced nucleophilic addition of them to a carbenium ion, which eventually results in an amide. Catalytic": {
+    "guess": "Nitrile",
+    "confidence": [
+      [
+        "N",
+        -0.020966787
+      ],
+      [
+        "itr",
+        0.0
+      ],
+      [
+        "ile",
+        -0.0007104054
+      ]
+    ]
+  },
+  "Their alpha-alkoxy variety undergoes the Thorpe reaction in the presence of tris-methyllithium at -78 degrees Celsius. Their adipo- hydrodimer is key to the production of nylon, and they can be made aromatic via the dehydration of oximes with phosphorus pentoxide. The Ritter reaction (*) is an acid- induced nucleophilic addition of them to a carbenium ion, which eventually results in an amide. Catalytic hydrogenation of them in the presence of nickel or cobalt also results in an amide, but when they": {
+    "guess": "Nitrile",
+    "confidence": [
+      [
+        "N",
+        -0.008439874
+      ],
+      [
+        "itr",
+        0.0
+      ],
+      [
+        "ile",
+        -0.004620353
+      ]
+    ]
+  },
+  "Their alpha-alkoxy variety undergoes the Thorpe reaction in the presence of tris-methyllithium at -78 degrees Celsius. Their adipo- hydrodimer is key to the production of nylon, and they can be made aromatic via the dehydration of oximes with phosphorus pentoxide. The Ritter reaction (*) is an acid- induced nucleophilic addition of them to a carbenium ion, which eventually results in an amide. Catalytic hydrogenation of them in the presence of nickel or cobalt also results in an amide, but when they are reacted with Grignard reagents, ketones result. Formed by Letts synthesis, FTP, name these organic": {
+    "guess": "Nitrile",
+    "confidence": [
+      [
+        "N",
+        -0.014957573
+      ],
+      [
+        "itr",
+        -1.9361265e-07
+      ],
+      [
+        "ile",
+        -0.31326187
+      ]
+    ]
+  },
+  "Their alpha-alkoxy variety undergoes the Thorpe reaction in the presence of tris-methyllithium at -78 degrees Celsius. Their adipo- hydrodimer is key to the production of nylon, and they can be made aromatic via the dehydration of oximes with phosphorus pentoxide. The Ritter reaction (*) is an acid- induced nucleophilic addition of them to a carbenium ion, which eventually results in an amide. Catalytic hydrogenation of them in the presence of nickel or cobalt also results in an amide, but when they are reacted with Grignard reagents, ketones result. Formed by Letts synthesis, FTP, name these organic chemical compounds which contain a nitrogen triple bonded to a carbon.": {
+    "guess": "Nitrile",
+    "confidence": [
+      [
+        "N",
+        -0.0040151225
+      ],
+      [
+        "itr",
+        0.0
+      ],
+      [
+        "ile",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "Alpha fetoprotein and alpha-one globulin are often used to diagnose cancer in this organ.  Kupffer cells": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -3.2497806e-05
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Alpha fetoprotein and alpha-one globulin are often used to diagnose cancer in this organ.  Kupffer cells are found in this organ, and other cells in this organ have an unusual level of polyploidy.  Cholesterol": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.00055315194
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Alpha fetoprotein and alpha-one globulin are often used to diagnose cancer in this organ.  Kupffer cells are found in this organ, and other cells in this organ have an unusual level of polyploidy.  Cholesterol is synthesized in this organ, as well albumin, clotting factors, and angiotensinogen.  One": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.0022669474
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Alpha fetoprotein and alpha-one globulin are often used to diagnose cancer in this organ.  Kupffer cells are found in this organ, and other cells in this organ have an unusual level of polyploidy.  Cholesterol is synthesized in this organ, as well albumin, clotting factors, and angiotensinogen.  One pathway in the organ synthesizes pyruvic acid from lactic acid and is called the (*) Cori cycle.  The": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.00017708084
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Alpha fetoprotein and alpha-one globulin are often used to diagnose cancer in this organ.  Kupffer cells are found in this organ, and other cells in this organ have an unusual level of polyploidy.  Cholesterol is synthesized in this organ, as well albumin, clotting factors, and angiotensinogen.  One pathway in the organ synthesizes pyruvic acid from lactic acid and is called the (*) Cori cycle.  The portal vein enters this structure where it spreads into vascular channels called sinusoids, and this": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.00025371046
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Alpha fetoprotein and alpha-one globulin are often used to diagnose cancer in this organ.  Kupffer cells are found in this organ, and other cells in this organ have an unusual level of polyploidy.  Cholesterol is synthesized in this organ, as well albumin, clotting factors, and angiotensinogen.  One pathway in the organ synthesizes pyruvic acid from lactic acid and is called the (*) Cori cycle.  The portal vein enters this structure where it spreads into vascular channels called sinusoids, and this organ shares the billiary tree with the nearby gall bladder.  Hepatocytes store glycogen in, for": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.0011012799
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Alpha fetoprotein and alpha-one globulin are often used to diagnose cancer in this organ.  Kupffer cells are found in this organ, and other cells in this organ have an unusual level of polyploidy.  Cholesterol is synthesized in this organ, as well albumin, clotting factors, and angiotensinogen.  One pathway in the organ synthesizes pyruvic acid from lactic acid and is called the (*) Cori cycle.  The portal vein enters this structure where it spreads into vascular channels called sinusoids, and this organ shares the billiary tree with the nearby gall bladder.  Hepatocytes store glycogen in, for 10 points, this largest gland which filters alcohol from blood and secretes bile.": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.00050060876
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "The alpha regio is an area of plateau-like highlands on this planet, whose highest peak is at Maxwell": {
+    "guess": "Venus",
+    "confidence": [
+      [
+        "Ven",
+        -0.0036492494
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "The alpha regio is an area of plateau-like highlands on this planet, whose highest peak is at Maxwell Montes. The Magellan probe mapped the surface of this planet. This planet has a day lasting longer": {
+    "guess": "Venus",
+    "confidence": [
+      [
+        "Ven",
+        -0.011126109
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "The alpha regio is an area of plateau-like highlands on this planet, whose highest peak is at Maxwell Montes. The Magellan probe mapped the surface of this planet. This planet has a day lasting longer than its year due to retrograde rotation. This planet has a dense atmosphere mostly made of carbon dioxide,": {
+    "guess": "Venus",
+    "confidence": [
+      [
+        "Ven",
+        -0.004086593
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "The alpha regio is an area of plateau-like highlands on this planet, whose highest peak is at Maxwell Montes. The Magellan probe mapped the surface of this planet. This planet has a day lasting longer than its year due to retrograde rotation. This planet has a dense atmosphere mostly made of carbon dioxide, which creates a strong greenhouse effect that makes the planet the hottest in the solar system.": {
+    "guess": "Venus",
+    "confidence": [
+      [
+        "Ven",
+        -9.72254e-05
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "The alpha regio is an area of plateau-like highlands on this planet, whose highest peak is at Maxwell Montes. The Magellan probe mapped the surface of this planet. This planet has a day lasting longer than its year due to retrograde rotation. This planet has a dense atmosphere mostly made of carbon dioxide, which creates a strong greenhouse effect that makes the planet the hottest in the solar system. For 10 points, name this \"sister planet\" of Earth, the second-closest to the sun and named after": {
+    "guess": "Venus",
+    "confidence": [
+      [
+        "Ven",
+        -0.000290295
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "The alpha regio is an area of plateau-like highlands on this planet, whose highest peak is at Maxwell Montes. The Magellan probe mapped the surface of this planet. This planet has a day lasting longer than its year due to retrograde rotation. This planet has a dense atmosphere mostly made of carbon dioxide, which creates a strong greenhouse effect that makes the planet the hottest in the solar system. For 10 points, name this \"sister planet\" of Earth, the second-closest to the sun and named after the Roman goddess of love.": {
+    "guess": "Venus",
+    "confidence": [
+      [
+        "Ven",
+        -0.0024804121
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This man was the alphabetically-first author of a book that developed a method to measure the intensity": {
+    "guess": "Richter",
+    "confidence": [
+      [
+        "Rich",
+        -0.34741357
+      ],
+      [
+        "ter",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man was the alphabetically-first author of a book that developed a method to measure the intensity of certain personality traits called the F-scale. A book he wrote solo concludes that art-objects": {
+    "guess": "The Authoritarian Personality",
+    "confidence": [
+      [
+        "The",
+        -0.016426347
+      ],
+      [
+        " Author",
+        -0.58596647
+      ],
+      [
+        "itarian",
+        0.0
+      ],
+      [
+        " Personality",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "This man was the alphabetically-first author of a book that developed a method to measure the intensity of certain personality traits called the F-scale. A book he wrote solo concludes that art-objects themselves contain \"truth content\". Another of his books describes society as a \"total system\" and": {
+    "guess": "Theodor W. Adorno",
+    "confidence": [
+      [
+        "The",
+        -0.0035007652
+      ],
+      [
+        "odor",
+        -0.0043800436
+      ],
+      [
+        " W",
+        -0.25192973
+      ],
+      [
+        ".",
+        -3.1281633e-07
+      ],
+      [
+        " Ad",
+        0.0
+      ],
+      [
+        "orno",
+        0.0
+      ]
+    ]
+  },
+  "This man was the alphabetically-first author of a book that developed a method to measure the intensity of certain personality traits called the F-scale. A book he wrote solo concludes that art-objects themselves contain \"truth content\". Another of his books describes society as a \"total system\" and rejects Hegel's argument that the parts that make up a dialectic are sublated into something greater": {
+    "guess": "Theodor W. Adorno",
+    "confidence": [
+      [
+        "The",
+        -0.0007981925
+      ],
+      [
+        "odor",
+        -0.0005550592
+      ],
+      [
+        " W",
+        -0.25193095
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Ad",
+        0.0
+      ],
+      [
+        "orno",
+        0.0
+      ]
+    ]
+  },
+  "This man was the alphabetically-first author of a book that developed a method to measure the intensity of certain personality traits called the F-scale. A book he wrote solo concludes that art-objects themselves contain \"truth content\". Another of his books describes society as a \"total system\" and rejects Hegel's argument that the parts that make up a dialectic are sublated into something greater and thus positive. He claimed that \"life does not live\" in a collection of aphorisms whose title (*)": {
+    "guess": "Theodor W. Adorno",
+    "confidence": [
+      [
+        "The",
+        -0.0021129088
+      ],
+      [
+        "odor",
+        -0.00043591417
+      ],
+      [
+        " W",
+        -0.2519303
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Ad",
+        0.0
+      ],
+      [
+        "orno",
+        0.0
+      ]
+    ]
+  },
+  "This man was the alphabetically-first author of a book that developed a method to measure the intensity of certain personality traits called the F-scale. A book he wrote solo concludes that art-objects themselves contain \"truth content\". Another of his books describes society as a \"total system\" and rejects Hegel's argument that the parts that make up a dialectic are sublated into something greater and thus positive. He claimed that \"life does not live\" in a collection of aphorisms whose title (*) parodies a work of Aristotle. This author of Negative Dialectics and Minima Moralia was the younger": {
+    "guess": "Theodor W. Adorno",
+    "confidence": [
+      [
+        "The",
+        -0.01135903
+      ],
+      [
+        "odor",
+        -0.00054838747
+      ],
+      [
+        " W",
+        -1.9361265e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ad",
+        0.0
+      ],
+      [
+        "orno",
+        0.0
+      ]
+    ]
+  },
+  "This man was the alphabetically-first author of a book that developed a method to measure the intensity of certain personality traits called the F-scale. A book he wrote solo concludes that art-objects themselves contain \"truth content\". Another of his books describes society as a \"total system\" and rejects Hegel's argument that the parts that make up a dialectic are sublated into something greater and thus positive. He claimed that \"life does not live\" in a collection of aphorisms whose title (*) parodies a work of Aristotle. This author of Negative Dialectics and Minima Moralia was the younger author of a book that condemns radio while claiming that society is lulled into passivity by the products": {
+    "guess": "Theodor W. Adorno",
+    "confidence": [
+      [
+        "The",
+        -0.0015029559
+      ],
+      [
+        "odor",
+        -0.000113079484
+      ],
+      [
+        " W",
+        -1.9361265e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ad",
+        0.0
+      ],
+      [
+        "orno",
+        0.0
+      ]
+    ]
+  },
+  "This man was the alphabetically-first author of a book that developed a method to measure the intensity of certain personality traits called the F-scale. A book he wrote solo concludes that art-objects themselves contain \"truth content\". Another of his books describes society as a \"total system\" and rejects Hegel's argument that the parts that make up a dialectic are sublated into something greater and thus positive. He claimed that \"life does not live\" in a collection of aphorisms whose title (*) parodies a work of Aristotle. This author of Negative Dialectics and Minima Moralia was the younger author of a book that condemns radio while claiming that society is lulled into passivity by the products of a \"culture industry\". For 10 points, name this social critic, a member of the Frankfurt School": {
+    "guess": "Theodor W. Adorno",
+    "confidence": [
+      [
+        "The",
+        -0.004746249
+      ],
+      [
+        "odor",
+        -9.293406e-05
+      ],
+      [
+        " W",
+        -6.704273e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ad",
+        0.0
+      ],
+      [
+        "orno",
+        0.0
+      ]
+    ]
+  },
+  "This man was the alphabetically-first author of a book that developed a method to measure the intensity of certain personality traits called the F-scale. A book he wrote solo concludes that art-objects themselves contain \"truth content\". Another of his books describes society as a \"total system\" and rejects Hegel's argument that the parts that make up a dialectic are sublated into something greater and thus positive. He claimed that \"life does not live\" in a collection of aphorisms whose title (*) parodies a work of Aristotle. This author of Negative Dialectics and Minima Moralia was the younger author of a book that condemns radio while claiming that society is lulled into passivity by the products of a \"culture industry\". For 10 points, name this social critic, a member of the Frankfurt School who collaborated on The Dialectic of Enlightenment with Max Horkheimer.": {
+    "guess": "Theodor W. Adorno",
+    "confidence": [
+      [
+        "The",
+        -0.00014942927
+      ],
+      [
+        "odor",
+        -2.5941605e-05
+      ],
+      [
+        " W",
+        -6.704273e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Ad",
+        0.0
+      ],
+      [
+        "orno",
+        0.0
+      ]
+    ]
+  }
+}

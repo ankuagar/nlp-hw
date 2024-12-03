@@ -1,0 +1,70 @@
+{
+  "- (PH Darren) The most common design consists of three or four cups attached to short rods at right angles": {
+    "guess": "Anemometer",
+    "confidence": [
+      [
+        "An",
+        -0.001933397
+      ],
+      [
+        "em",
+        -7.89631e-07
+      ],
+      [
+        "ometer",
+        0.0
+      ]
+    ]
+  },
+  "- (PH Darren) The most common design consists of three or four cups attached to short rods at right angles to a vertical shaft. As the wind blows, it pushes the cups, which turn the shaft, and the number": {
+    "guess": "Anemometer",
+    "confidence": [
+      [
+        "An",
+        -0.0035979329
+      ],
+      [
+        "em",
+        -1.0280384e-06
+      ],
+      [
+        "ometer",
+        0.0
+      ]
+    ]
+  },
+  "- (PH Darren) The most common design consists of three or four cups attached to short rods at right angles to a vertical shaft. As the wind blows, it pushes the cups, which turn the shaft, and the number of turns per minute is translated into wind speed by a system of gears. For ten points, what is this": {
+    "guess": "Anemometer",
+    "confidence": [
+      [
+        "An",
+        -0.00030507625
+      ],
+      [
+        "em",
+        -5.5122365e-07
+      ],
+      [
+        "ometer",
+        0.0
+      ]
+    ]
+  },
+  "- (PH Darren) The most common design consists of three or four cups attached to short rods at right angles to a vertical shaft. As the wind blows, it pushes the cups, which turn the shaft, and the number of turns per minute is translated into wind speed by a system of gears. For ten points, what is this common instrument whose name is taken from the Greek for \"wind\" and \"measure\"?": {
+    "guess": "Anemometer",
+    "confidence": [
+      [
+        "An",
+        -2.8802491e-05
+      ],
+      [
+        "em",
+        -3.4121115e-06
+      ],
+      [
+        "ometer",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Tufa and coquina are two types of this rock. A streak of HFeO2 is present in the Fencepost variety of": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.0005331367
+      ],
+      [
+        "imestone",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Tufa and coquina are two types of this rock. A streak of HFeO2 is present in the Fencepost variety of this rock, while a more common impurity in this rock is aragonite. It can be identified through an": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.0019067394
+      ],
+      [
+        "imestone",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Tufa and coquina are two types of this rock. A streak of HFeO2 is present in the Fencepost variety of this rock, while a more common impurity in this rock is aragonite. It can be identified through an effervescent reaction, in which it reacts with dilute acid to release carbon dioxide. At lower pressures,": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -0.0036329697
+      ],
+      [
+        "imestone",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Tufa and coquina are two types of this rock. A streak of HFeO2 is present in the Fencepost variety of this rock, while a more common impurity in this rock is aragonite. It can be identified through an effervescent reaction, in which it reacts with dilute acid to release carbon dioxide. At lower pressures, this turns into dolomite, while higher pressures turn this into marble. For 10 points, name this": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -3.2736214e-05
+      ],
+      [
+        "imestone",
+        0.0
+      ]
+    ]
+  },
+  "Tufa and coquina are two types of this rock. A streak of HFeO2 is present in the Fencepost variety of this rock, while a more common impurity in this rock is aragonite. It can be identified through an effervescent reaction, in which it reacts with dilute acid to release carbon dioxide. At lower pressures, this turns into dolomite, while higher pressures turn this into marble. For 10 points, name this sedimentary rock mostly composed of calcite, often used in cement.": {
+    "guess": "Limestone",
+    "confidence": [
+      [
+        "L",
+        -6.3490756e-05
+      ],
+      [
+        "imestone",
+        0.0
+      ]
+    ]
+  }
+}

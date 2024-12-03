@@ -1,0 +1,181 @@
+{
+  "As x approaches infinity, this function of x approaches e-to-the-x-power over two.  It ranges up to infinity": {
+    "guess": "Lambert W function",
+    "confidence": [
+      [
+        "Lam",
+        -0.81579
+      ],
+      [
+        "bert",
+        -6.704273e-07
+      ],
+      [
+        " W",
+        -0.0004222131
+      ],
+      [
+        " function",
+        -0.0007149352
+      ]
+    ]
+  },
+  "As x approaches infinity, this function of x approaches e-to-the-x-power over two.  It ranges up to infinity but never takes a value lower than one.  It describes the shape of a hanging cable-the caternary-and": {
+    "guess": "Catenary",
+    "confidence": [
+      [
+        "C",
+        -0.011604989
+      ],
+      [
+        "aten",
+        -0.01105513
+      ],
+      [
+        "ary",
+        0.0
+      ]
+    ]
+  },
+  "As x approaches infinity, this function of x approaches e-to-the-x-power over two.  It ranges up to infinity but never takes a value lower than one.  It describes the shape of a hanging cable-the caternary-and it repeats itself every 2-pi-i radians in complex space.  FTP, name this hyperbolic function,": {
+    "guess": "Cosh",
+    "confidence": [
+      [
+        "C",
+        -0.16397128
+      ],
+      [
+        "osh",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "As x approaches infinity, this function of x approaches e-to-the-x-power over two.  It ranges up to infinity but never takes a value lower than one.  It describes the shape of a hanging cable-the caternary-and it repeats itself every 2-pi-i radians in complex space.  FTP, name this hyperbolic function, defined as one-half times (e to the x) plus (e to the minus x).": {
+    "guess": "Hyperbolic cosine",
+    "confidence": [
+      [
+        "Hyper",
+        -0.4080805
+      ],
+      [
+        "bol",
+        -3.4121115e-06
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " cosine",
+        -0.1602742
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables": {
+    "guess": "Stack pointer",
+    "confidence": [
+      [
+        "Stack",
+        -0.011331452
+      ],
+      [
+        " pointer",
+        -0.00021784115
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations": {
+    "guess": "Stack",
+    "confidence": [
+      [
+        "Stack",
+        -0.0009286142
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations in reverse Polish notation and other postfix systems are implemented using the data structure": {
+    "guess": "STACK",
+    "confidence": [
+      [
+        "STACK",
+        -0.034989942
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations in reverse Polish notation and other postfix systems are implemented using the data structure of this name. The canonical machine that decides context-free grammars contains one instance of this": {
+    "guess": "STACK",
+    "confidence": [
+      [
+        "STACK",
+        -0.019468391
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations in reverse Polish notation and other postfix systems are implemented using the data structure of this name. The canonical machine that decides context-free grammars contains one instance of this data structure. This data structure can be inspected but not modified using the top operation, but": {
+    "guess": "Stack (abstract data type)",
+    "confidence": [
+      [
+        "Stack",
+        -0.02743144
+      ],
+      [
+        " (",
+        -0.12749957
+      ],
+      [
+        "abstract",
+        -0.00061760447
+      ],
+      [
+        " data",
+        0.0
+      ],
+      [
+        " type",
+        -1.2664457e-06
+      ],
+      [
+        ")",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations in reverse Polish notation and other postfix systems are implemented using the data structure of this name. The canonical machine that decides context-free grammars contains one instance of this data structure. This data structure can be inspected but not modified using the top operation, but is built up and broken down using the operations push and pop. For 10 points, name this data structure": {
+    "guess": "Stack",
+    "confidence": [
+      [
+        "Stack",
+        -0.0008438145
+      ]
+    ]
+  },
+  "In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations in reverse Polish notation and other postfix systems are implemented using the data structure of this name. The canonical machine that decides context-free grammars contains one instance of this data structure. This data structure can be inspected but not modified using the top operation, but is built up and broken down using the operations push and pop. For 10 points, name this data structure that implements first-in last-out ordering, as contrasted with a queue.": {
+    "guess": "Stack (abstract data type)",
+    "confidence": [
+      [
+        "Stack",
+        -0.005365972
+      ],
+      [
+        " (",
+        -0.014229202
+      ],
+      [
+        "abstract",
+        -4.1557283e-05
+      ],
+      [
+        " data",
+        -1.9361265e-07
+      ],
+      [
+        " type",
+        0.0
+      ],
+      [
+        ")",
+        -2.1008714e-06
+      ]
+    ]
+  }
+}

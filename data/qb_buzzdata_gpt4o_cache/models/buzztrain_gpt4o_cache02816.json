@@ -1,0 +1,476 @@
+{
+  "Hilbert's Nullstellensatz relates algebraic sets to ideals in rings of these objects. A lemma named for": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.1491971
+      ]
+    ]
+  },
+  "Hilbert's Nullstellensatz relates algebraic sets to ideals in rings of these objects. A lemma named for Gauss says that the product of two primitive examples of these objects is primitive and Eisenstein's": {
+    "guess": "Polynomial",
+    "confidence": [
+      [
+        "Polynomial",
+        -0.07701191
+      ]
+    ]
+  },
+  "Hilbert's Nullstellensatz relates algebraic sets to ideals in rings of these objects. A lemma named for Gauss says that the product of two primitive examples of these objects is primitive and Eisenstein's criterion concerns their reducibility. The set of these objects over a field K is denoted K bracket": {
+    "guess": "Polynomial",
+    "confidence": [
+      [
+        "Polynomial",
+        -0.0053055007
+      ]
+    ]
+  },
+  "Hilbert's Nullstellensatz relates algebraic sets to ideals in rings of these objects. A lemma named for Gauss says that the product of two primitive examples of these objects is primitive and Eisenstein's criterion concerns their reducibility. The set of these objects over a field K is denoted K bracket x and forms their namesake ring. Their quotients can be simplified by synthetic division. Eigenvalues": {
+    "guess": "Polynomial",
+    "confidence": [
+      [
+        "Polynomial",
+        -0.01269682
+      ]
+    ]
+  },
+  "Hilbert's Nullstellensatz relates algebraic sets to ideals in rings of these objects. A lemma named for Gauss says that the product of two primitive examples of these objects is primitive and Eisenstein's criterion concerns their reducibility. The set of these objects over a field K is denoted K bracket x and forms their namesake ring. Their quotients can be simplified by synthetic division. Eigenvalues correspond to the values at which a matrix's (*) characteristic one evaluates to zero. Descartes'": {
+    "guess": "Polynomial",
+    "confidence": [
+      [
+        "Polynomial",
+        -0.013216116
+      ]
+    ]
+  },
+  "Hilbert's Nullstellensatz relates algebraic sets to ideals in rings of these objects. A lemma named for Gauss says that the product of two primitive examples of these objects is primitive and Eisenstein's criterion concerns their reducibility. The set of these objects over a field K is denoted K bracket x and forms their namesake ring. Their quotients can be simplified by synthetic division. Eigenvalues correspond to the values at which a matrix's (*) characteristic one evaluates to zero. Descartes' rule of signs bounds the number of their real roots, and another theorem says that examples of degree": {
+    "guess": "Polynomial",
+    "confidence": [
+      [
+        "Polynomial",
+        -0.0004397287
+      ]
+    ]
+  },
+  "Hilbert's Nullstellensatz relates algebraic sets to ideals in rings of these objects. A lemma named for Gauss says that the product of two primitive examples of these objects is primitive and Eisenstein's criterion concerns their reducibility. The set of these objects over a field K is denoted K bracket x and forms their namesake ring. Their quotients can be simplified by synthetic division. Eigenvalues correspond to the values at which a matrix's (*) characteristic one evaluates to zero. Descartes' rule of signs bounds the number of their real roots, and another theorem says that examples of degree n has n complex roots counting multiplicity. For 10 points, name these functions which can be": {
+    "guess": "Polynomial",
+    "confidence": [
+      [
+        "Polynomial",
+        -0.0012645212
+      ]
+    ]
+  },
+  "Hilbert's Nullstellensatz relates algebraic sets to ideals in rings of these objects. A lemma named for Gauss says that the product of two primitive examples of these objects is primitive and Eisenstein's criterion concerns their reducibility. The set of these objects over a field K is denoted K bracket x and forms their namesake ring. Their quotients can be simplified by synthetic division. Eigenvalues correspond to the values at which a matrix's (*) characteristic one evaluates to zero. Descartes' rule of signs bounds the number of their real roots, and another theorem says that examples of degree n has n complex roots counting multiplicity. For 10 points, name these functions which can be written as a sum where each term is a coefficient times some power of a variable.": {
+    "guess": "Polynomial",
+    "confidence": [
+      [
+        "Polynomial",
+        -0.00016957101
+      ]
+    ]
+  },
+  "One of Hilbert's Problems concerns this assertion, which has yet to be proven or disproven; the first": {
+    "guess": "Continuum hypothesis",
+    "confidence": [
+      [
+        "Continu",
+        -0.0050067515
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " hypothesis",
+        -0.5759427
+      ]
+    ]
+  },
+  "One of Hilbert's Problems concerns this assertion, which has yet to be proven or disproven; the first serious attempt was by Russell in the Principia Mathematica. G\u00f6del demonstrated in his 1937 proof of": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.39199814
+      ]
+    ]
+  },
+  "One of Hilbert's Problems concerns this assertion, which has yet to be proven or disproven; the first serious attempt was by Russell in the Principia Mathematica. G\u00f6del demonstrated in his 1937 proof of Incompleteness Theorem that it could verifiably not be derived from the 9 more conventional Zemerlo\u00adFraenkel": {
+    "guess": "Continuum hypothesis",
+    "confidence": [
+      [
+        "Continu",
+        -0.4654289
+      ],
+      [
+        "um",
+        0.0
+      ],
+      [
+        " hypothesis",
+        -0.31326312
+      ]
+    ]
+  },
+  "One of Hilbert's Problems concerns this assertion, which has yet to be proven or disproven; the first serious attempt was by Russell in the Principia Mathematica. G\u00f6del demonstrated in his 1937 proof of Incompleteness Theorem that it could verifiably not be derived from the 9 more conventional Zemerlo\u00adFraenkel Axioms, nor could any of them be derived from it alone. It is often called Tychonoff's Theorem": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.66393304
+      ]
+    ]
+  },
+  "One of Hilbert's Problems concerns this assertion, which has yet to be proven or disproven; the first serious attempt was by Russell in the Principia Mathematica. G\u00f6del demonstrated in his 1937 proof of Incompleteness Theorem that it could verifiably not be derived from the 9 more conventional Zemerlo\u00adFraenkel Axioms, nor could any of them be derived from it alone. It is often called Tychonoff's Theorem or Zorn's Lemma, especially in the context of its generation of non\u00adintegrable functions. For": {
+    "guess": "Axiom of Choice",
+    "confidence": [
+      [
+        "A",
+        -0.22632489
+      ],
+      [
+        "xiom",
+        -6.704273e-07
+      ],
+      [
+        " of",
+        -4.8425554e-06
+      ],
+      [
+        " Choice",
+        -0.0011703447
+      ]
+    ]
+  },
+  "One of Hilbert's Problems concerns this assertion, which has yet to be proven or disproven; the first serious attempt was by Russell in the Principia Mathematica. G\u00f6del demonstrated in his 1937 proof of Incompleteness Theorem that it could verifiably not be derived from the 9 more conventional Zemerlo\u00adFraenkel Axioms, nor could any of them be derived from it alone. It is often called Tychonoff's Theorem or Zorn's Lemma, especially in the context of its generation of non\u00adintegrable functions. For ten points identify thios postulate of set theory which dictates that, in any collection of nonempty": {
+    "guess": "Axiom of choice",
+    "confidence": [
+      [
+        "A",
+        -1.0033755
+      ],
+      [
+        "xiom",
+        0.0
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " choice",
+        -0.22553241
+      ]
+    ]
+  },
+  "One of Hilbert's Problems concerns this assertion, which has yet to be proven or disproven; the first serious attempt was by Russell in the Principia Mathematica. G\u00f6del demonstrated in his 1937 proof of Incompleteness Theorem that it could verifiably not be derived from the 9 more conventional Zemerlo\u00adFraenkel Axioms, nor could any of them be derived from it alone. It is often called Tychonoff's Theorem or Zorn's Lemma, especially in the context of its generation of non\u00adintegrable functions. For ten points identify thios postulate of set theory which dictates that, in any collection of nonempty sets C, there exists a function f such that one can choose any set S and find f of S to be a member": {
+    "guess": "Axiom of choice",
+    "confidence": [
+      [
+        "A",
+        -0.15582833
+      ],
+      [
+        "xiom",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " choice",
+        -0.11282752
+      ]
+    ]
+  },
+  "One of Hilbert's Problems concerns this assertion, which has yet to be proven or disproven; the first serious attempt was by Russell in the Principia Mathematica. G\u00f6del demonstrated in his 1937 proof of Incompleteness Theorem that it could verifiably not be derived from the 9 more conventional Zemerlo\u00adFraenkel Axioms, nor could any of them be derived from it alone. It is often called Tychonoff's Theorem or Zorn's Lemma, especially in the context of its generation of non\u00adintegrable functions. For ten points identify thios postulate of set theory which dictates that, in any collection of nonempty sets C, there exists a function f such that one can choose any set S and find f of S to be a member of S.": {
+    "guess": "Axiom of choice",
+    "confidence": [
+      [
+        "A",
+        -0.02998501
+      ],
+      [
+        "xiom",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " choice",
+        -0.03364858
+      ]
+    ]
+  },
+  "The Hill reaction describes the release of molecular oxygen from them, and the turnip yellow mosaic virus": {
+    "guess": "Chloroplasts",
+    "confidence": [
+      [
+        "Ch",
+        -0.0031958935
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "oplast",
+        -7.493431e-05
+      ],
+      [
+        "s",
+        -0.47440523
+      ]
+    ]
+  },
+  "The Hill reaction describes the release of molecular oxygen from them, and the turnip yellow mosaic virus causes them to clump. The \"Tic\" and \"Toc\" complexes are found on their outer and inner envelopes.": {
+    "guess": "Chloroplast",
+    "confidence": [
+      [
+        "Ch",
+        -0.07546165
+      ],
+      [
+        "lor",
+        -1.9361265e-07
+      ],
+      [
+        "oplast",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The Hill reaction describes the release of molecular oxygen from them, and the turnip yellow mosaic virus causes them to clump. The \"Tic\" and \"Toc\" complexes are found on their outer and inner envelopes. They are comically oversized in the Cylindrocapsaceae family of algae. The highly ordered array of": {
+    "guess": "Chloroplast",
+    "confidence": [
+      [
+        "Ch",
+        -0.5242615
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "oplast",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Hill reaction describes the release of molecular oxygen from them, and the turnip yellow mosaic virus causes them to clump. The \"Tic\" and \"Toc\" complexes are found on their outer and inner envelopes. They are comically oversized in the Cylindrocapsaceae family of algae. The highly ordered array of units known as the quantasome is found in their lamellae, and is a site for reactions involving carotenoid": {
+    "guess": "Chloroplast",
+    "confidence": [
+      [
+        "Ch",
+        -0.05379636
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "oplast",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "The Hill reaction describes the release of molecular oxygen from them, and the turnip yellow mosaic virus causes them to clump. The \"Tic\" and \"Toc\" complexes are found on their outer and inner envelopes. They are comically oversized in the Cylindrocapsaceae family of algae. The highly ordered array of units known as the quantasome is found in their lamellae, and is a site for reactions involving carotenoid and other pigments of Photosystems I and II. For 10 points, name these organelles that contain": {
+    "guess": "Chloroplast",
+    "confidence": [
+      [
+        "Ch",
+        -0.002567695
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "oplast",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The Hill reaction describes the release of molecular oxygen from them, and the turnip yellow mosaic virus causes them to clump. The \"Tic\" and \"Toc\" complexes are found on their outer and inner envelopes. They are comically oversized in the Cylindrocapsaceae family of algae. The highly ordered array of units known as the quantasome is found in their lamellae, and is a site for reactions involving carotenoid and other pigments of Photosystems I and II. For 10 points, name these organelles that contain grana and thylakoids, the site of atmospheric carbon dioxide fixation and photosynthesis in plants.": {
+    "guess": "Chloroplast",
+    "confidence": [
+      [
+        "Ch",
+        -0.00011450992
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "oplast",
+        0.0
+      ]
+    ]
+  },
+  "Hilda Wangel is the title character of an Ibsen play titled \"The Lady from\" this location, while Maurya": {
+    "guess": "The Lady from the Sea",
+    "confidence": [
+      [
+        "The",
+        -0.48600373
+      ],
+      [
+        " Lady",
+        -0.25348026
+      ],
+      [
+        " from",
+        -1.6762922e-05
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Sea",
+        0.0
+      ]
+    ]
+  },
+  "Hilda Wangel is the title character of an Ibsen play titled \"The Lady from\" this location, while Maurya and her children find out Michael has perished in a John Millington Synge work about \"Riders to\"": {
+    "guess": "The Sea",
+    "confidence": [
+      [
+        "The",
+        -0.5348668
+      ],
+      [
+        " Sea",
+        -0.07967178
+      ]
+    ]
+  },
+  "Hilda Wangel is the title character of an Ibsen play titled \"The Lady from\" this location, while Maurya and her children find out Michael has perished in a John Millington Synge work about \"Riders to\" this place. \"The Alph\" runs down to a \"sunless\" one in \"Kubla Khan.\" Maud Brewster and Humphrey van": {
+    "guess": "Sea",
+    "confidence": [
+      [
+        "Sea",
+        -0.54036456
+      ]
+    ]
+  },
+  "Hilda Wangel is the title character of an Ibsen play titled \"The Lady from\" this location, while Maurya and her children find out Michael has perished in a John Millington Synge work about \"Riders to\" this place. \"The Alph\" runs down to a \"sunless\" one in \"Kubla Khan.\" Maud Brewster and Humphrey van Weyden are main characters in a novel about this type of \"wolf.\" The favorite hangout of Manolin and": {
+    "guess": "The Sea",
+    "confidence": [
+      [
+        "The",
+        -0.38034448
+      ],
+      [
+        " Sea",
+        -0.18664221
+      ]
+    ]
+  },
+  "Hilda Wangel is the title character of an Ibsen play titled \"The Lady from\" this location, while Maurya and her children find out Michael has perished in a John Millington Synge work about \"Riders to\" this place. \"The Alph\" runs down to a \"sunless\" one in \"Kubla Khan.\" Maud Brewster and Humphrey van Weyden are main characters in a novel about this type of \"wolf.\" The favorite hangout of Manolin and a DiMaggio fan, Santiago, for 10 points, name this entity, paired with an \"Old Man\" in a book by Ernest": {
+    "guess": "The Sea",
+    "confidence": [
+      [
+        "The",
+        -0.60768825
+      ],
+      [
+        " Sea",
+        -0.019281562
+      ]
+    ]
+  },
+  "Hilda Wangel is the title character of an Ibsen play titled \"The Lady from\" this location, while Maurya and her children find out Michael has perished in a John Millington Synge work about \"Riders to\" this place. \"The Alph\" runs down to a \"sunless\" one in \"Kubla Khan.\" Maud Brewster and Humphrey van Weyden are main characters in a novel about this type of \"wolf.\" The favorite hangout of Manolin and a DiMaggio fan, Santiago, for 10 points, name this entity, paired with an \"Old Man\" in a book by Ernest Hemingway.": {
+    "guess": "The Sea",
+    "confidence": [
+      [
+        "The",
+        -0.3500012
+      ],
+      [
+        " Sea",
+        -0.008596373
+      ]
+    ]
+  },
+  "The 1947 Hill-Burton Act provided federal funding for these institutions along with a charge that they": {
+    "guess": "Hospital",
+    "confidence": [
+      [
+        "Hospital",
+        -0.4142421
+      ]
+    ]
+  },
+  "The 1947 Hill-Burton Act provided federal funding for these institutions along with a charge that they provide free service if needed. Charles Rosenberg's history of these institutions credits their growth": {
+    "guess": "Hospitals",
+    "confidence": [
+      [
+        "Hosp",
+        -5.0020742e-05
+      ],
+      [
+        "itals",
+        0.0
+      ]
+    ]
+  },
+  "The 1947 Hill-Burton Act provided federal funding for these institutions along with a charge that they provide free service if needed. Charles Rosenberg's history of these institutions credits their growth from the almshouses of the early 18th century. Thomas Bond and Benjamin Franklin created the first": {
+    "guess": "Hospitals",
+    "confidence": [
+      [
+        "Hosp",
+        -0.0010491237
+      ],
+      [
+        "itals",
+        0.0
+      ]
+    ]
+  },
+  "The 1947 Hill-Burton Act provided federal funding for these institutions along with a charge that they provide free service if needed. Charles Rosenberg's history of these institutions credits their growth from the almshouses of the early 18th century. Thomas Bond and Benjamin Franklin created the first partially publicly funded example of one of these institutions in Philadelphia in 1752. The professionalization": {
+    "guess": "Hospitals",
+    "confidence": [
+      [
+        "Hosp",
+        -0.0002390594
+      ],
+      [
+        "itals",
+        0.0
+      ]
+    ]
+  },
+  "The 1947 Hill-Burton Act provided federal funding for these institutions along with a charge that they provide free service if needed. Charles Rosenberg's history of these institutions credits their growth from the almshouses of the early 18th century. Thomas Bond and Benjamin Franklin created the first partially publicly funded example of one of these institutions in Philadelphia in 1752. The professionalization of nursing, coupled with urbanization after the Civil War, led to an explosion in the": {
+    "guess": "Hospitals",
+    "confidence": [
+      [
+        "Hosp",
+        -0.005136862
+      ],
+      [
+        "itals",
+        0.0
+      ]
+    ]
+  },
+  "The 1947 Hill-Burton Act provided federal funding for these institutions along with a charge that they provide free service if needed. Charles Rosenberg's history of these institutions credits their growth from the almshouses of the early 18th century. Thomas Bond and Benjamin Franklin created the first partially publicly funded example of one of these institutions in Philadelphia in 1752. The professionalization of nursing, coupled with urbanization after the Civil War, led to an explosion in the creation of these institutions. FTP what large buildings provide centralized health care?": {
+    "guess": "Hospitals",
+    "confidence": [
+      [
+        "Hosp",
+        -0.002313692
+      ],
+      [
+        "itals",
+        0.0
+      ]
+    ]
+  }
+}

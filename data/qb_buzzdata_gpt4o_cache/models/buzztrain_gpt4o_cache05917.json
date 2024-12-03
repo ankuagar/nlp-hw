@@ -1,0 +1,106 @@
+{
+  "When P-Y-K-2-B is knocked out, the marginal zone type of these cells do not develop at all. A DNA translocation": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -0.056430537
+      ],
+      [
+        " cell",
+        -0.20044369
+      ]
+    ]
+  },
+  "When P-Y-K-2-B is knocked out, the marginal zone type of these cells do not develop at all. A DNA translocation causes overexpression of cyclin D in the mantle cell cancer of these cells. Blisibimod (bleh-SEE-bee-mod)": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -0.0019588443
+      ],
+      [
+        " cell",
+        -0.01632655
+      ]
+    ]
+  },
+  "When P-Y-K-2-B is knocked out, the marginal zone type of these cells do not develop at all. A DNA translocation causes overexpression of cyclin D in the mantle cell cancer of these cells. Blisibimod (bleh-SEE-bee-mod) binds to BAFF to decrease survival of these cells, and the monoclonal antibody rituximab": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -0.00029315587
+      ],
+      [
+        " cell",
+        -0.0145324925
+      ]
+    ]
+  },
+  "When P-Y-K-2-B is knocked out, the marginal zone type of these cells do not develop at all. A DNA translocation causes overexpression of cyclin D in the mantle cell cancer of these cells. Blisibimod (bleh-SEE-bee-mod) binds to BAFF to decrease survival of these cells, and the monoclonal antibody rituximab also targets them by binding to C-D-20. These cells fail to develop in patients with mutations": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -0.00037204305
+      ],
+      [
+        " cell",
+        -0.012488936
+      ]
+    ]
+  },
+  "When P-Y-K-2-B is knocked out, the marginal zone type of these cells do not develop at all. A DNA translocation causes overexpression of cyclin D in the mantle cell cancer of these cells. Blisibimod (bleh-SEE-bee-mod) binds to BAFF to decrease survival of these cells, and the monoclonal antibody rituximab also targets them by binding to C-D-20. These cells fail to develop in patients with mutations in Bruton's Tyrosine Kinase. Infection with Epstein-Barr (*) virus has been correlated with cancers": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -6.539802e-05
+      ],
+      [
+        " cell",
+        -0.0037759775
+      ]
+    ]
+  },
+  "When P-Y-K-2-B is knocked out, the marginal zone type of these cells do not develop at all. A DNA translocation causes overexpression of cyclin D in the mantle cell cancer of these cells. Blisibimod (bleh-SEE-bee-mod) binds to BAFF to decrease survival of these cells, and the monoclonal antibody rituximab also targets them by binding to C-D-20. These cells fail to develop in patients with mutations in Bruton's Tyrosine Kinase. Infection with Epstein-Barr (*) virus has been correlated with cancers related to these cells, including the diffuse large cell one. Upon activation, these cells further": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -0.00030638382
+      ],
+      [
+        " cell",
+        -0.004094428
+      ]
+    ]
+  },
+  "When P-Y-K-2-B is knocked out, the marginal zone type of these cells do not develop at all. A DNA translocation causes overexpression of cyclin D in the mantle cell cancer of these cells. Blisibimod (bleh-SEE-bee-mod) binds to BAFF to decrease survival of these cells, and the monoclonal antibody rituximab also targets them by binding to C-D-20. These cells fail to develop in patients with mutations in Bruton's Tyrosine Kinase. Infection with Epstein-Barr (*) virus has been correlated with cancers related to these cells, including the diffuse large cell one. Upon activation, these cells further differentiate into memory cells and plasma cells, the latter of which secrete antibodies. For 10 points,": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -9.305327e-05
+      ],
+      [
+        " cell",
+        -0.0011130701
+      ]
+    ]
+  },
+  "When P-Y-K-2-B is knocked out, the marginal zone type of these cells do not develop at all. A DNA translocation causes overexpression of cyclin D in the mantle cell cancer of these cells. Blisibimod (bleh-SEE-bee-mod) binds to BAFF to decrease survival of these cells, and the monoclonal antibody rituximab also targets them by binding to C-D-20. These cells fail to develop in patients with mutations in Bruton's Tyrosine Kinase. Infection with Epstein-Barr (*) virus has been correlated with cancers related to these cells, including the diffuse large cell one. Upon activation, these cells further differentiate into memory cells and plasma cells, the latter of which secrete antibodies. For 10 points, name these lymphocytes that are produced in the bone marrow.": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -2.2365493e-05
+      ],
+      [
+        " cell",
+        -0.0042507774
+      ]
+    ]
+  }
+}

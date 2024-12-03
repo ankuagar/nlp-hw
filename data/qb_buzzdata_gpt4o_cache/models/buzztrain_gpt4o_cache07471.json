@@ -1,0 +1,87 @@
+{
+  "A \"tl;dr\" [T-L-D-R] Wikipedia entry asserts that this restaurant's head chef is a microwave. In a 300-slide": {
+    "guess": "Olive Garden",
+    "confidence": [
+      [
+        "Ol",
+        -0.029773634
+      ],
+      [
+        "ive",
+        0.0
+      ],
+      [
+        " Garden",
+        0.0
+      ]
+    ]
+  },
+  "A \"tl;dr\" [T-L-D-R] Wikipedia entry asserts that this restaurant's head chef is a microwave. In a 300-slide presentation, the hedge fund Starboard slammed this restaurant for getting longer warranties": {
+    "guess": "Olive Garden",
+    "confidence": [
+      [
+        "Ol",
+        -0.023819875
+      ],
+      [
+        "ive",
+        0.0
+      ],
+      [
+        " Garden",
+        0.0
+      ]
+    ]
+  },
+  "A \"tl;dr\" [T-L-D-R] Wikipedia entry asserts that this restaurant's head chef is a microwave. In a 300-slide presentation, the hedge fund Starboard slammed this restaurant for getting longer warranties on their pots by not salting their (*) pasta water. In September 2014, it sold $100 passes for seven": {
+    "guess": "Olive Garden",
+    "confidence": [
+      [
+        "Ol",
+        -0.27154666
+      ],
+      [
+        "ive",
+        0.0
+      ],
+      [
+        " Garden",
+        0.0
+      ]
+    ]
+  },
+  "A \"tl;dr\" [T-L-D-R] Wikipedia entry asserts that this restaurant's head chef is a microwave. In a 300-slide presentation, the hedge fund Starboard slammed this restaurant for getting longer warranties on their pots by not salting their (*) pasta water. In September 2014, it sold $100 passes for seven weeks of all-you-can-eat food. For 10 points, name this Italian chain restaurant which offers unlimited": {
+    "guess": "Olive Garden",
+    "confidence": [
+      [
+        "Ol",
+        -0.0015414038
+      ],
+      [
+        "ive",
+        0.0
+      ],
+      [
+        " Garden",
+        0.0
+      ]
+    ]
+  },
+  "A \"tl;dr\" [T-L-D-R] Wikipedia entry asserts that this restaurant's head chef is a microwave. In a 300-slide presentation, the hedge fund Starboard slammed this restaurant for getting longer warranties on their pots by not salting their (*) pasta water. In September 2014, it sold $100 passes for seven weeks of all-you-can-eat food. For 10 points, name this Italian chain restaurant which offers unlimited salad and breadsticks with its \"Never-Ending Pasta Bowl.\"": {
+    "guess": "Olive Garden",
+    "confidence": [
+      [
+        "Ol",
+        -0.00024394676
+      ],
+      [
+        "ive",
+        0.0
+      ],
+      [
+        " Garden",
+        0.0
+      ]
+    ]
+  }
+}

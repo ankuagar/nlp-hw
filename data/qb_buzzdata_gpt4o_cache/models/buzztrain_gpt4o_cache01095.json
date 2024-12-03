@@ -1,0 +1,80 @@
+{
+  "C-waves do not enter this region, and the K in PKP denotes the part of the waves that travel through": {
+    "guess": "Outer core",
+    "confidence": [
+      [
+        "Outer",
+        -0.056923907
+      ],
+      [
+        " core",
+        -5.1808798e-05
+      ]
+    ]
+  },
+  "C-waves do not enter this region, and the K in PKP denotes the part of the waves that travel through it. This is the innermost of two regions whose lower boundary is marked by a Lehmann discontinuity,": {
+    "guess": "Inner core",
+    "confidence": [
+      [
+        "Inner",
+        -0.00010747691
+      ],
+      [
+        " core",
+        -0.00043102686
+      ]
+    ]
+  },
+  "C-waves do not enter this region, and the K in PKP denotes the part of the waves that travel through it. This is the innermost of two regions whose lower boundary is marked by a Lehmann discontinuity, and its upper bound is named after Gutenberg. Refraction of P-waves here causes a (*) \"shadow zone,\"": {
+    "guess": "Outer core",
+    "confidence": [
+      [
+        "Outer",
+        -0.04157148
+      ],
+      [
+        " core",
+        -9.376849e-05
+      ]
+    ]
+  },
+  "C-waves do not enter this region, and the K in PKP denotes the part of the waves that travel through it. This is the innermost of two regions whose lower boundary is marked by a Lehmann discontinuity, and its upper bound is named after Gutenberg. Refraction of P-waves here causes a (*) \"shadow zone,\" and the S-waves cannot move through this region because they are transverse. The dynamo theory explains": {
+    "guess": "Inner core",
+    "confidence": [
+      [
+        "Inner",
+        -0.6939701
+      ],
+      [
+        " core",
+        -0.00033558503
+      ]
+    ]
+  },
+  "C-waves do not enter this region, and the K in PKP denotes the part of the waves that travel through it. This is the innermost of two regions whose lower boundary is marked by a Lehmann discontinuity, and its upper bound is named after Gutenberg. Refraction of P-waves here causes a (*) \"shadow zone,\" and the S-waves cannot move through this region because they are transverse. The dynamo theory explains the geomagnetic field as a result of the rotation of this region. For ten points, identify this": {
+    "guess": "Inner core",
+    "confidence": [
+      [
+        "Inner",
+        -0.7040554
+      ],
+      [
+        " core",
+        -0.00043078844
+      ]
+    ]
+  },
+  "C-waves do not enter this region, and the K in PKP denotes the part of the waves that travel through it. This is the innermost of two regions whose lower boundary is marked by a Lehmann discontinuity, and its upper bound is named after Gutenberg. Refraction of P-waves here causes a (*) \"shadow zone,\" and the S-waves cannot move through this region because they are transverse. The dynamo theory explains the geomagnetic field as a result of the rotation of this region. For ten points, identify this liquid region of the Earth found just below the mantle.": {
+    "guess": "Outer core",
+    "confidence": [
+      [
+        "Outer",
+        -0.0015709223
+      ],
+      [
+        " core",
+        -0.000232384
+      ]
+    ]
+  }
+}

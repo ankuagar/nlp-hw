@@ -1,0 +1,253 @@
+{
+  "The Riemann hypothesis conjectures that every non-trivial root of the zeta function has a real part equal": {
+    "guess": "Riemann hypothesis",
+    "confidence": [
+      [
+        "R",
+        -0.74065655
+      ],
+      [
+        "iem",
+        -1.9361265e-07
+      ],
+      [
+        "ann",
+        0.0
+      ],
+      [
+        " hypothesis",
+        -0.006850939
+      ]
+    ]
+  },
+  "The Riemann hypothesis conjectures that every non-trivial root of the zeta function has a real part equal to this. Multiplying this number by the quantity one plus the cosine of two x is equal to cosine": {
+    "guess": "Real part of a non-trivial zero of the Riemann zeta function",
+    "confidence": [
+      [
+        "Real",
+        -1.3122102
+      ],
+      [
+        " part",
+        -0.12715761
+      ],
+      [
+        " of",
+        -0.2423434
+      ],
+      [
+        " a",
+        -0.9363775
+      ],
+      [
+        " non",
+        -0.5335756
+      ],
+      [
+        "-tr",
+        -0.38690546
+      ],
+      [
+        "ivial",
+        -1.3856493e-06
+      ],
+      [
+        " zero",
+        -0.009341995
+      ],
+      [
+        " of",
+        -0.002798222
+      ],
+      [
+        " the",
+        -0.00499489
+      ],
+      [
+        " R",
+        -0.0628576
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        "ann",
+        -3.1281633e-07
+      ],
+      [
+        " z",
+        -0.0011834424
+      ],
+      [
+        "eta",
+        0.0
+      ],
+      [
+        " function",
+        -5.7172965e-05
+      ]
+    ]
+  },
+  "The Riemann hypothesis conjectures that every non-trivial root of the zeta function has a real part equal to this. Multiplying this number by the quantity one plus the cosine of two x is equal to cosine squared of x. Using Heron's formula requires one to multiply the (*) perimeter of the triangle in": {
+    "guess": "One-half",
+    "confidence": [
+      [
+        "One",
+        -0.25084704
+      ],
+      [
+        "-half",
+        -0.0045225658
+      ]
+    ]
+  },
+  "The Riemann hypothesis conjectures that every non-trivial root of the zeta function has a real part equal to this. Multiplying this number by the quantity one plus the cosine of two x is equal to cosine squared of x. Using Heron's formula requires one to multiply the (*) perimeter of the triangle in question by this number, and finding the square root of a number is equivalent to taking it to this": {
+    "guess": "One-half",
+    "confidence": [
+      [
+        "One",
+        -0.060373057
+      ],
+      [
+        "-half",
+        -7.088138e-05
+      ]
+    ]
+  },
+  "The Riemann hypothesis conjectures that every non-trivial root of the zeta function has a real part equal to this. Multiplying this number by the quantity one plus the cosine of two x is equal to cosine squared of x. Using Heron's formula requires one to multiply the (*) perimeter of the triangle in question by this number, and finding the square root of a number is equivalent to taking it to this power. For 10 points, identify this number, equal to the sine of thirty degrees.": {
+    "guess": "One-half",
+    "confidence": [
+      [
+        "One",
+        -0.008775174
+      ],
+      [
+        "-half",
+        -0.00015359772
+      ]
+    ]
+  },
+  "It was ridiculed as impotent by radical thinkers in the 1960s like Peter Handke and this movement dissolved": {
+    "guess": "Vienna Group",
+    "confidence": [
+      [
+        "Vien",
+        -0.32853448
+      ],
+      [
+        "na",
+        -0.03804218
+      ],
+      [
+        " Group",
+        -0.0049105505
+      ]
+    ]
+  },
+  "It was ridiculed as impotent by radical thinkers in the 1960s like Peter Handke and this movement dissolved in 1967, twenty years after its inception. This association began with contempt for Hitler's": {
+    "guess": "Gruppe 47",
+    "confidence": [
+      [
+        "Gr",
+        -0.043778233
+      ],
+      [
+        "uppe",
+        0.0
+      ],
+      [
+        " ",
+        -1.3856493e-06
+      ],
+      [
+        "47",
+        0.0
+      ]
+    ]
+  },
+  "It was ridiculed as impotent by radical thinkers in the 1960s like Peter Handke and this movement dissolved in 1967, twenty years after its inception. This association began with contempt for Hitler's regime as their only common thread, and sought to create a new literature opposed to the lofty vocabulary": {
+    "guess": "Gruppe 47",
+    "confidence": [
+      [
+        "Gr",
+        -0.05503089
+      ],
+      [
+        "uppe",
+        0.0
+      ],
+      [
+        " ",
+        -3.1281633e-07
+      ],
+      [
+        "47",
+        0.0
+      ]
+    ]
+  },
+  "It was ridiculed as impotent by radical thinkers in the 1960s like Peter Handke and this movement dissolved in 1967, twenty years after its inception. This association began with contempt for Hitler's regime as their only common thread, and sought to create a new literature opposed to the lofty vocabulary of Nazi propaganda. Founded by Hans Werner Richter and Alfred Andersch, works of this literary": {
+    "guess": "Gruppe 47",
+    "confidence": [
+      [
+        "Gr",
+        -5.2047206e-05
+      ],
+      [
+        "uppe",
+        0.0
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "47",
+        0.0
+      ]
+    ]
+  },
+  "It was ridiculed as impotent by radical thinkers in the 1960s like Peter Handke and this movement dissolved in 1967, twenty years after its inception. This association began with contempt for Hitler's regime as their only common thread, and sought to create a new literature opposed to the lofty vocabulary of Nazi propaganda. Founded by Hans Werner Richter and Alfred Andersch, works of this literary movement included Herod's Children and Speculations About Jakob. FTP, identify this German literary": {
+    "guess": "Gruppe 47",
+    "confidence": [
+      [
+        "Gr",
+        -0.001509151
+      ],
+      [
+        "uppe",
+        0.0
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "47",
+        0.0
+      ]
+    ]
+  },
+  "It was ridiculed as impotent by radical thinkers in the 1960s like Peter Handke and this movement dissolved in 1967, twenty years after its inception. This association began with contempt for Hitler's regime as their only common thread, and sought to create a new literature opposed to the lofty vocabulary of Nazi propaganda. Founded by Hans Werner Richter and Alfred Andersch, works of this literary movement included Herod's Children and Speculations About Jakob. FTP, identify this German literary movement that included G\u00fcnter Grass and Heinrich B\u00f6ll, named after the year it was created.": {
+    "guess": "Gruppe 47",
+    "confidence": [
+      [
+        "Gr",
+        -0.2519404
+      ],
+      [
+        "uppe",
+        0.0
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "47",
+        0.0
+      ]
+    ]
+  }
+}

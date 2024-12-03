@@ -1,0 +1,112 @@
+{
+  "Tigard, Oregon's Durham Treatment Facility is the U.S.'s first plant to use the struvite recovery process": {
+    "guess": "Struvite recovery",
+    "confidence": [
+      [
+        "Str",
+        -0.9345626
+      ],
+      [
+        "uv",
+        0.0
+      ],
+      [
+        "ite",
+        0.0
+      ],
+      [
+        " recovery",
+        -0.48663688
+      ]
+    ]
+  },
+  "Tigard, Oregon's Durham Treatment Facility is the U.S.'s first plant to use the struvite recovery process to reclaim this chemical from wastewater. Phossy jaw results from exposure to its most common form,": {
+    "guess": "Phossy jaw",
+    "confidence": [
+      [
+        "Ph",
+        -0.12113005
+      ],
+      [
+        "oss",
+        -0.16093539
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        " jaw",
+        -0.0009568398
+      ]
+    ]
+  },
+  "Tigard, Oregon's Durham Treatment Facility is the U.S.'s first plant to use the struvite recovery process to reclaim this chemical from wastewater. Phossy jaw results from exposure to its most common form, which was first isolated when Hennin Brand tried to manufacture gold using his own urine. From": {
+    "guess": "Phosphorus",
+    "confidence": [
+      [
+        "Ph",
+        -0.17188415
+      ],
+      [
+        "osph",
+        -0.00077508535
+      ],
+      [
+        "orus",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "Tigard, Oregon's Durham Treatment Facility is the U.S.'s first plant to use the struvite recovery process to reclaim this chemical from wastewater. Phossy jaw results from exposure to its most common form, which was first isolated when Hennin Brand tried to manufacture gold using his own urine. From the Latin for light-bearer, its pure form gives a glow in the presence of oxygen as it burns to form": {
+    "guess": "Phosphorus",
+    "confidence": [
+      [
+        "Ph",
+        -0.019128362
+      ],
+      [
+        "osph",
+        -9.4914985e-06
+      ],
+      [
+        "orus",
+        -2.4987974e-05
+      ]
+    ]
+  },
+  "Tigard, Oregon's Durham Treatment Facility is the U.S.'s first plant to use the struvite recovery process to reclaim this chemical from wastewater. Phossy jaw results from exposure to its most common form, which was first isolated when Hennin Brand tried to manufacture gold using his own urine. From the Latin for light-bearer, its pure form gives a glow in the presence of oxygen as it burns to form this element's red variety. For 10 points, identify this Group 15 element that comes in a white variety": {
+    "guess": "Phosphorus",
+    "confidence": [
+      [
+        "Ph",
+        -0.0010587719
+      ],
+      [
+        "osph",
+        -7.89631e-07
+      ],
+      [
+        "orus",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Tigard, Oregon's Durham Treatment Facility is the U.S.'s first plant to use the struvite recovery process to reclaim this chemical from wastewater. Phossy jaw results from exposure to its most common form, which was first isolated when Hennin Brand tried to manufacture gold using his own urine. From the Latin for light-bearer, its pure form gives a glow in the presence of oxygen as it burns to form this element's red variety. For 10 points, identify this Group 15 element that comes in a white variety and has atomic number 15 and symbol P.": {
+    "guess": "Phosphorus",
+    "confidence": [
+      [
+        "Ph",
+        -0.018494643
+      ],
+      [
+        "osph",
+        -4.3202e-07
+      ],
+      [
+        "orus",
+        -5.5122365e-07
+      ]
+    ]
+  }
+}

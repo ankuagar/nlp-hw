@@ -1,0 +1,227 @@
+{
+  "The PAX5 gene plays a role in these cells' differentiation by encoding their specific activator protein,": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -0.32250294
+      ],
+      [
+        " cell",
+        -0.00059092115
+      ]
+    ]
+  },
+  "The PAX5 gene plays a role in these cells' differentiation by encoding their specific activator protein, and the MS4A1 gene encodes a marker located on the surface of them. Their primary receptor and Toll-like": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -0.13113783
+      ],
+      [
+        " cell",
+        -0.0008015266
+      ]
+    ]
+  },
+  "The PAX5 gene plays a role in these cells' differentiation by encoding their specific activator protein, and the MS4A1 gene encodes a marker located on the surface of them. Their primary receptor and Toll-like receptors on their surface work together to stimulate the production of CD80 and CD86, which": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -0.2708928
+      ],
+      [
+        " cell",
+        -0.00030090412
+      ]
+    ]
+  },
+  "The PAX5 gene plays a role in these cells' differentiation by encoding their specific activator protein, and the MS4A1 gene encodes a marker located on the surface of them. Their primary receptor and Toll-like receptors on their surface work together to stimulate the production of CD80 and CD86, which interact with CD28 on another class of immune cells. Rituximab is used when lymphoma has been determined": {
+    "guess": "Rituximab",
+    "confidence": [
+      [
+        "R",
+        -0.011943927
+      ],
+      [
+        "it",
+        -3.1281633e-07
+      ],
+      [
+        "ux",
+        -1.9361265e-07
+      ],
+      [
+        "im",
+        -9.014684e-06
+      ],
+      [
+        "ab",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The PAX5 gene plays a role in these cells' differentiation by encoding their specific activator protein, and the MS4A1 gene encodes a marker located on the surface of them. Their primary receptor and Toll-like receptors on their surface work together to stimulate the production of CD80 and CD86, which interact with CD28 on another class of immune cells. Rituximab is used when lymphoma has been determined to be caused by these cells, often identified by the expression of CD20 on their surfaces. They": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -0.072652504
+      ],
+      [
+        " cell",
+        -0.0003498858
+      ]
+    ]
+  },
+  "The PAX5 gene plays a role in these cells' differentiation by encoding their specific activator protein, and the MS4A1 gene encodes a marker located on the surface of them. Their primary receptor and Toll-like receptors on their surface work together to stimulate the production of CD80 and CD86, which interact with CD28 on another class of immune cells. Rituximab is used when lymphoma has been determined to be caused by these cells, often identified by the expression of CD20 on their surfaces. They are made and mature in the blood marrow and part of the function of helper T cells is facilitating": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -0.1127879
+      ],
+      [
+        " cell",
+        -0.0004012369
+      ]
+    ]
+  },
+  "The PAX5 gene plays a role in these cells' differentiation by encoding their specific activator protein, and the MS4A1 gene encodes a marker located on the surface of them. Their primary receptor and Toll-like receptors on their surface work together to stimulate the production of CD80 and CD86, which interact with CD28 on another class of immune cells. Rituximab is used when lymphoma has been determined to be caused by these cells, often identified by the expression of CD20 on their surfaces. They are made and mature in the blood marrow and part of the function of helper T cells is facilitating their maturation into plasma cells. For 10 points, name this type of lymphocytes which aid in immune": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -0.0006522707
+      ],
+      [
+        " cell",
+        -0.0002904142
+      ]
+    ]
+  },
+  "The PAX5 gene plays a role in these cells' differentiation by encoding their specific activator protein, and the MS4A1 gene encodes a marker located on the surface of them. Their primary receptor and Toll-like receptors on their surface work together to stimulate the production of CD80 and CD86, which interact with CD28 on another class of immune cells. Rituximab is used when lymphoma has been determined to be caused by these cells, often identified by the expression of CD20 on their surfaces. They are made and mature in the blood marrow and part of the function of helper T cells is facilitating their maturation into plasma cells. For 10 points, name this type of lymphocytes which aid in immune response by producing antibodies.": {
+    "guess": "B cell",
+    "confidence": [
+      [
+        "B",
+        -0.0004273315
+      ],
+      [
+        " cell",
+        -0.00032235344
+      ]
+    ]
+  },
+  "Pawel Lukow drew parallels between Immanuel Kant's references to Achtung and to the \"fact sui generis\"": {
+    "guess": "Critique of Practical Reason",
+    "confidence": [
+      [
+        "Crit",
+        -0.88917875
+      ],
+      [
+        "ique",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Practical",
+        -0.0009277798
+      ],
+      [
+        " Reason",
+        0.0
+      ]
+    ]
+  },
+  "Pawel Lukow drew parallels between Immanuel Kant's references to Achtung and to the \"fact sui generis\" that is the \"fact\" of this concept. It's not action, but this concept is divided into three different": {
+    "guess": "Categorical imperative",
+    "confidence": [
+      [
+        "Categor",
+        -0.28015932
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " imperative",
+        -0.4741891
+      ]
+    ]
+  },
+  "Pawel Lukow drew parallels between Immanuel Kant's references to Achtung and to the \"fact sui generis\" that is the \"fact\" of this concept. It's not action, but this concept is divided into three different \"formal\" realms in J\u00fcrgen Habermas' \"communicative\" theory of it. Max Horkheimer argued that this": {
+    "guess": "Morality",
+    "confidence": [
+      [
+        "Mor",
+        -0.053393207
+      ],
+      [
+        "ality",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Pawel Lukow drew parallels between Immanuel Kant's references to Achtung and to the \"fact sui generis\" that is the \"fact\" of this concept. It's not action, but this concept is divided into three different \"formal\" realms in J\u00fcrgen Habermas' \"communicative\" theory of it. Max Horkheimer argued that this collapses when it emphasizes the means to a goal in his critique of its \"instrumental\" variety. The": {
+    "guess": "Reason",
+    "confidence": [
+      [
+        "Reason",
+        -0.12806092
+      ]
+    ]
+  },
+  "Pawel Lukow drew parallels between Immanuel Kant's references to Achtung and to the \"fact sui generis\" that is the \"fact\" of this concept. It's not action, but this concept is divided into three different \"formal\" realms in J\u00fcrgen Habermas' \"communicative\" theory of it. Max Horkheimer argued that this collapses when it emphasizes the means to a goal in his critique of its \"instrumental\" variety. The soul, the world, and God constitute Kant's three (*) transcendental ideas derived from the highest": {
+    "guess": "Reason",
+    "confidence": [
+      [
+        "Reason",
+        -0.005665564
+      ]
+    ]
+  },
+  "Pawel Lukow drew parallels between Immanuel Kant's references to Achtung and to the \"fact sui generis\" that is the \"fact\" of this concept. It's not action, but this concept is divided into three different \"formal\" realms in J\u00fcrgen Habermas' \"communicative\" theory of it. Max Horkheimer argued that this collapses when it emphasizes the means to a goal in his critique of its \"instrumental\" variety. The soul, the world, and God constitute Kant's three (*) transcendental ideas derived from the highest form of this concept, which Hume said should be a \"slave of the passions.\" Moral commands that result": {
+    "guess": "Reason",
+    "confidence": [
+      [
+        "Reason",
+        -0.0043329145
+      ]
+    ]
+  },
+  "Pawel Lukow drew parallels between Immanuel Kant's references to Achtung and to the \"fact sui generis\" that is the \"fact\" of this concept. It's not action, but this concept is divided into three different \"formal\" realms in J\u00fcrgen Habermas' \"communicative\" theory of it. Max Horkheimer argued that this collapses when it emphasizes the means to a goal in his critique of its \"instrumental\" variety. The soul, the world, and God constitute Kant's three (*) transcendental ideas derived from the highest form of this concept, which Hume said should be a \"slave of the passions.\" Moral commands that result from the categorical imperative are derived solely through the \"pure practical\" variety of this concept.": {
+    "guess": "Reason",
+    "confidence": [
+      [
+        "Reason",
+        -0.0003840789
+      ]
+    ]
+  },
+  "Pawel Lukow drew parallels between Immanuel Kant's references to Achtung and to the \"fact sui generis\" that is the \"fact\" of this concept. It's not action, but this concept is divided into three different \"formal\" realms in J\u00fcrgen Habermas' \"communicative\" theory of it. Max Horkheimer argued that this collapses when it emphasizes the means to a goal in his critique of its \"instrumental\" variety. The soul, the world, and God constitute Kant's three (*) transcendental ideas derived from the highest form of this concept, which Hume said should be a \"slave of the passions.\" Moral commands that result from the categorical imperative are derived solely through the \"pure practical\" variety of this concept. For 10 points, name this capacity of applying logic and verifying facts, which the Enlightenment": {
+    "guess": "Reason",
+    "confidence": [
+      [
+        "Reason",
+        -0.00026824963
+      ]
+    ]
+  },
+  "Pawel Lukow drew parallels between Immanuel Kant's references to Achtung and to the \"fact sui generis\" that is the \"fact\" of this concept. It's not action, but this concept is divided into three different \"formal\" realms in J\u00fcrgen Habermas' \"communicative\" theory of it. Max Horkheimer argued that this collapses when it emphasizes the means to a goal in his critique of its \"instrumental\" variety. The soul, the world, and God constitute Kant's three (*) transcendental ideas derived from the highest form of this concept, which Hume said should be a \"slave of the passions.\" Moral commands that result from the categorical imperative are derived solely through the \"pure practical\" variety of this concept. For 10 points, name this capacity of applying logic and verifying facts, which the Enlightenment is sometimes described as the \"Age of.\"": {
+    "guess": "Reason",
+    "confidence": [
+      [
+        "Reason",
+        -0.00024096666
+      ]
+    ]
+  }
+}

@@ -1,0 +1,1403 @@
+{
+  "This physical phenomenon is widely used in many republics of the former Soviet Union to power radio receivers": {
+    "guess": "Crystal radio",
+    "confidence": [
+      [
+        "Crystal",
+        -0.07550841
+      ],
+      [
+        " radio",
+        -0.124039076
+      ]
+    ]
+  },
+  "This physical phenomenon is widely used in many republics of the former Soviet Union to power radio receivers in remote areas. The discoverer of the effect mistakenly thought that conductors were directly": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.67299676
+      ]
+    ]
+  },
+  "This physical phenomenon is widely used in many republics of the former Soviet Union to power radio receivers in remote areas. The discoverer of the effect mistakenly thought that conductors were directly magnetized by the difference in temperature, when, in fact, a thermoelectric potential was being": {
+    "guess": "Seebeck effect",
+    "confidence": [
+      [
+        "Se",
+        -0.48962754
+      ],
+      [
+        "ebe",
+        -3.1281633e-07
+      ],
+      [
+        "ck",
+        0.0
+      ],
+      [
+        " effect",
+        -0.12698302
+      ]
+    ]
+  },
+  "This physical phenomenon is widely used in many republics of the former Soviet Union to power radio receivers in remote areas. The discoverer of the effect mistakenly thought that conductors were directly magnetized by the difference in temperature, when, in fact, a thermoelectric potential was being generated between the metals. FTP, name this effect behind the thermocouple, first observed in 1821": {
+    "guess": "Seebeck effect",
+    "confidence": [
+      [
+        "Se",
+        -0.007835281
+      ],
+      [
+        "ebe",
+        -1.9361265e-07
+      ],
+      [
+        "ck",
+        0.0
+      ],
+      [
+        " effect",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "This physical phenomenon is widely used in many republics of the former Soviet Union to power radio receivers in remote areas. The discoverer of the effect mistakenly thought that conductors were directly magnetized by the difference in temperature, when, in fact, a thermoelectric potential was being generated between the metals. FTP, name this effect behind the thermocouple, first observed in 1821 by its namesake Russo-German physicist and the inverse of the Peltier effect.": {
+    "guess": "Seebeck effect",
+    "confidence": [
+      [
+        "Se",
+        -3.7027545e-05
+      ],
+      [
+        "ebe",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ],
+      [
+        " effect",
+        -0.10020667
+      ]
+    ]
+  },
+  "In physics, like Democritus' view, this school describes atoms as being infinite, indestructible units": {
+    "guess": "Atomism",
+    "confidence": [
+      [
+        "Atom",
+        -0.36446446
+      ],
+      [
+        "ism",
+        -1.0564331e-05
+      ]
+    ]
+  },
+  "In physics, like Democritus' view, this school describes atoms as being infinite, indestructible units compounded into greater bodies. In psychology, it claims that the body's senses are the only source": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1295784
+      ]
+    ]
+  },
+  "In physics, like Democritus' view, this school describes atoms as being infinite, indestructible units compounded into greater bodies. In psychology, it claims that the body's senses are the only source of knowledge and that the soul provides the ability to sense and communicate. FTP identify this philosophical": {
+    "guess": "Atomism",
+    "confidence": [
+      [
+        "Atom",
+        -0.17222208
+      ],
+      [
+        "ism",
+        -4.9617593e-06
+      ]
+    ]
+  },
+  "In physics, like Democritus' view, this school describes atoms as being infinite, indestructible units compounded into greater bodies. In psychology, it claims that the body's senses are the only source of knowledge and that the soul provides the ability to sense and communicate. FTP identify this philosophical school that stresses the importance of receiving the gifts from the gods freely, named for": {
+    "guess": "Epicureanism",
+    "confidence": [
+      [
+        "Epic",
+        -0.008660894
+      ],
+      [
+        "ure",
+        -5.5122365e-07
+      ],
+      [
+        "an",
+        0.0
+      ],
+      [
+        "ism",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "In physics, like Democritus' view, this school describes atoms as being infinite, indestructible units compounded into greater bodies. In psychology, it claims that the body's senses are the only source of knowledge and that the soul provides the ability to sense and communicate. FTP identify this philosophical school that stresses the importance of receiving the gifts from the gods freely, named for a man whose devoted followers met in the Garden.": {
+    "guess": "Epicureanism",
+    "confidence": [
+      [
+        "Epic",
+        -1.342522e-05
+      ],
+      [
+        "ure",
+        0.0
+      ],
+      [
+        "an",
+        0.0
+      ],
+      [
+        "ism",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Physicists believe that these types of particles far outnumbered other types beginning one second after": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -0.3612775
+      ],
+      [
+        "utr",
+        -0.00022785427
+      ],
+      [
+        "ino",
+        -0.31326178
+      ]
+    ]
+  },
+  "Physicists believe that these types of particles far outnumbered other types beginning one second after the Big Bang until the universe cooled to one billion Kelvins. In order for the number named after": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -0.43733463
+      ],
+      [
+        "utr",
+        -0.0009228924
+      ],
+      [
+        "ino",
+        -0.023245478
+      ]
+    ]
+  },
+  "Physicists believe that these types of particles far outnumbered other types beginning one second after the Big Bang until the universe cooled to one billion Kelvins. In order for the number named after these particles to be con- served, a neutron admits a third particle when it decays in addition to": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -0.4453729
+      ],
+      [
+        "utr",
+        -0.0057211476
+      ],
+      [
+        "ino",
+        -0.07889177
+      ]
+    ]
+  },
+  "Physicists believe that these types of particles far outnumbered other types beginning one second after the Big Bang until the universe cooled to one billion Kelvins. In order for the number named after these particles to be con- served, a neutron admits a third particle when it decays in addition to a proton and an electron. Only the most massive type of this particle is capable of emitting a W boson,": {
+    "guess": "Neutrino",
+    "confidence": [
+      [
+        "Ne",
+        -0.0037326184
+      ],
+      [
+        "utr",
+        -1.8193366e-05
+      ],
+      [
+        "ino",
+        -0.12692821
+      ]
+    ]
+  },
+  "Physicists believe that these types of particles far outnumbered other types beginning one second after the Big Bang until the universe cooled to one billion Kelvins. In order for the number named after these particles to be con- served, a neutron admits a third particle when it decays in addition to a proton and an electron. Only the most massive type of this particle is capable of emitting a W boson, and one of these particles was formerly believed to be a meson. This family includes the different": {
+    "guess": "Neutrinos",
+    "confidence": [
+      [
+        "Ne",
+        -0.024195323
+      ],
+      [
+        "utr",
+        -2.7968066e-05
+      ],
+      [
+        "inos",
+        -0.2254129
+      ]
+    ]
+  },
+  "Physicists believe that these types of particles far outnumbered other types beginning one second after the Big Bang until the universe cooled to one billion Kelvins. In order for the number named after these particles to be con- served, a neutron admits a third particle when it decays in addition to a proton and an electron. Only the most massive type of this particle is capable of emitting a W boson, and one of these particles was formerly believed to be a meson. This family includes the different types of neutrinos and their associated particles, including the tau and the muon. Identify this": {
+    "guess": "Leptons",
+    "confidence": [
+      [
+        "Le",
+        -0.0069866222
+      ],
+      [
+        "pt",
+        -0.023249788
+      ],
+      [
+        "ons",
+        0.0
+      ]
+    ]
+  },
+  "Physicists believe that these types of particles far outnumbered other types beginning one second after the Big Bang until the universe cooled to one billion Kelvins. In order for the number named after these particles to be con- served, a neutron admits a third particle when it decays in addition to a proton and an electron. Only the most massive type of this particle is capable of emitting a W boson, and one of these particles was formerly believed to be a meson. This family includes the different types of neutrinos and their associated particles, including the tau and the muon. Identify this family of six particles that includes the electron.": {
+    "guess": "Leptons",
+    "confidence": [
+      [
+        "Le",
+        -0.00043376852
+      ],
+      [
+        "pt",
+        -0.0024756587
+      ],
+      [
+        "ons",
+        0.0
+      ]
+    ]
+  },
+  "This phylum's skeleton is composed of miniscule networks of calcium carbonate known as stereom. These": {
+    "guess": "Echinoderm",
+    "confidence": [
+      [
+        "E",
+        -0.00011582117
+      ],
+      [
+        "chin",
+        0.0
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "erm",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This phylum's skeleton is composed of miniscule networks of calcium carbonate known as stereom. These animals possess ampullae in their tube feet, which is part of their water vascular system used for": {
+    "guess": "Echinoderm",
+    "confidence": [
+      [
+        "E",
+        -5.2285613e-05
+      ],
+      [
+        "chin",
+        -3.1281633e-07
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "erm",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "This phylum's skeleton is composed of miniscule networks of calcium carbonate known as stereom. These animals possess ampullae in their tube feet, which is part of their water vascular system used for feeding, moving, and breathing. Examples of this phylum include class Asteroidea. The only deuterostome": {
+    "guess": "Echinoderm",
+    "confidence": [
+      [
+        "E",
+        -0.002146097
+      ],
+      [
+        "chin",
+        0.0
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "erm",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This phylum's skeleton is composed of miniscule networks of calcium carbonate known as stereom. These animals possess ampullae in their tube feet, which is part of their water vascular system used for feeding, moving, and breathing. Examples of this phylum include class Asteroidea. The only deuterostome phylum other than the Chordates, for 10 points, name this phylum which includes sea urchins, starfish,": {
+    "guess": "Echinodermata",
+    "confidence": [
+      [
+        "E",
+        -0.0009230117
+      ],
+      [
+        "chin",
+        0.0
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "erm",
+        -4.8425554e-06
+      ],
+      [
+        "ata",
+        -0.6967966
+      ]
+    ]
+  },
+  "This phylum's skeleton is composed of miniscule networks of calcium carbonate known as stereom. These animals possess ampullae in their tube feet, which is part of their water vascular system used for feeding, moving, and breathing. Examples of this phylum include class Asteroidea. The only deuterostome phylum other than the Chordates, for 10 points, name this phylum which includes sea urchins, starfish, and sand dollars.": {
+    "guess": "Echinodermata",
+    "confidence": [
+      [
+        "E",
+        -0.0005603005
+      ],
+      [
+        "chin",
+        0.0
+      ],
+      [
+        "od",
+        0.0
+      ],
+      [
+        "erm",
+        -1.0280384e-06
+      ],
+      [
+        "ata",
+        -0.030480135
+      ]
+    ]
+  },
+  "This physicist's pilot-wave theory was extended into an interpretation of quantum mechanics that prefers": {
+    "guess": "De Broglie\u2013Bohm theory",
+    "confidence": [
+      [
+        "De",
+        -0.70308125
+      ],
+      [
+        " Bro",
+        -2.2007884e-05
+      ],
+      [
+        "gl",
+        -3.1281633e-07
+      ],
+      [
+        "ie",
+        -4.8425554e-06
+      ],
+      [
+        "\u2013",
+        -0.0141699705
+      ],
+      [
+        "B",
+        0.0
+      ],
+      [
+        "oh",
+        0.0
+      ],
+      [
+        "m",
+        0.0
+      ],
+      [
+        " theory",
+        -2.0696643e-05
+      ]
+    ]
+  },
+  "This physicist's pilot-wave theory was extended into an interpretation of quantum mechanics that prefers so-called \"empty channels\" to wavefunction collapse. An experiment to test a statement named for": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.45658752
+      ]
+    ]
+  },
+  "This physicist's pilot-wave theory was extended into an interpretation of quantum mechanics that prefers so-called \"empty channels\" to wavefunction collapse. An experiment to test a statement named for this physicist featured a heated filament firing electrons at a nickel crystal, and measurement of": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.48884463
+      ]
+    ]
+  },
+  "This physicist's pilot-wave theory was extended into an interpretation of quantum mechanics that prefers so-called \"empty channels\" to wavefunction collapse. An experiment to test a statement named for this physicist featured a heated filament firing electrons at a nickel crystal, and measurement of the scattering pattern was found to agree with Bragg's law; that experiment was performed at Bell Labs": {
+    "guess": "Louis de Broglie",
+    "confidence": [
+      [
+        "Louis",
+        -0.019217245
+      ],
+      [
+        " de",
+        -8.4947416e-05
+      ],
+      [
+        " Bro",
+        -1.9361265e-07
+      ],
+      [
+        "gl",
+        -1.2664457e-06
+      ],
+      [
+        "ie",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This physicist's pilot-wave theory was extended into an interpretation of quantum mechanics that prefers so-called \"empty channels\" to wavefunction collapse. An experiment to test a statement named for this physicist featured a heated filament firing electrons at a nickel crystal, and measurement of the scattering pattern was found to agree with Bragg's law; that experiment was performed at Bell Labs by Davisson and Germer. A quantity named for him is equal to Planck's constant over momentum. For": {
+    "guess": "Louis de Broglie",
+    "confidence": [
+      [
+        "Louis",
+        -0.6257737
+      ],
+      [
+        " de",
+        -8.5781845e-05
+      ],
+      [
+        " Bro",
+        0.0
+      ],
+      [
+        "gl",
+        -6.704273e-07
+      ],
+      [
+        "ie",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This physicist's pilot-wave theory was extended into an interpretation of quantum mechanics that prefers so-called \"empty channels\" to wavefunction collapse. An experiment to test a statement named for this physicist featured a heated filament firing electrons at a nickel crystal, and measurement of the scattering pattern was found to agree with Bragg's law; that experiment was performed at Bell Labs by Davisson and Germer. A quantity named for him is equal to Planck's constant over momentum. For 10 points, name this French physicist, whose namesake hypothesis holds that all matter particles have": {
+    "guess": "de Broglie",
+    "confidence": [
+      [
+        "de",
+        -0.6179449
+      ],
+      [
+        " Bro",
+        -2.3392786e-06
+      ],
+      [
+        "gl",
+        -1.9361265e-07
+      ],
+      [
+        "ie",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "This physicist's pilot-wave theory was extended into an interpretation of quantum mechanics that prefers so-called \"empty channels\" to wavefunction collapse. An experiment to test a statement named for this physicist featured a heated filament firing electrons at a nickel crystal, and measurement of the scattering pattern was found to agree with Bragg's law; that experiment was performed at Bell Labs by Davisson and Germer. A quantity named for him is equal to Planck's constant over momentum. For 10 points, name this French physicist, whose namesake hypothesis holds that all matter particles have wavelike properties.": {
+    "guess": "de Broglie",
+    "confidence": [
+      [
+        "de",
+        -0.82764614
+      ],
+      [
+        " Bro",
+        -3.5313153e-06
+      ],
+      [
+        "gl",
+        0.0
+      ],
+      [
+        "ie",
+        0.0
+      ]
+    ]
+  },
+  "This physicist proposed the parton (PAR-tawn) model of hadron collisions. His namesake \"point\" occurs": {
+    "guess": "Richard Feynman",
+    "confidence": [
+      [
+        "Richard",
+        -0.39232093
+      ],
+      [
+        " F",
+        -3.2929079e-06
+      ],
+      [
+        "eyn",
+        0.0
+      ],
+      [
+        "man",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "This physicist proposed the parton (PAR-tawn) model of hadron collisions. His namesake \"point\" occurs at the 762nd digit of pi. Along with Schwinger and Tomonaga, he won the Nobel Prize for developing": {
+    "guess": "Richard Feynman",
+    "confidence": [
+      [
+        "Richard",
+        -0.11391516
+      ],
+      [
+        " F",
+        0.0
+      ],
+      [
+        "eyn",
+        0.0
+      ],
+      [
+        "man",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This physicist proposed the parton (PAR-tawn) model of hadron collisions. His namesake \"point\" occurs at the 762nd digit of pi. Along with Schwinger and Tomonaga, he won the Nobel Prize for developing (*) quantum electrodynamics, or QED. He also explained why the Challenger exploded and developed some": {
+    "guess": "Richard Feynman",
+    "confidence": [
+      [
+        "Richard",
+        -0.008147258
+      ],
+      [
+        " F",
+        0.0
+      ],
+      [
+        "eyn",
+        0.0
+      ],
+      [
+        "man",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This physicist proposed the parton (PAR-tawn) model of hadron collisions. His namesake \"point\" occurs at the 762nd digit of pi. Along with Schwinger and Tomonaga, he won the Nobel Prize for developing (*) quantum electrodynamics, or QED. He also explained why the Challenger exploded and developed some namesake diagrams to represent particle interactions in quantum field theory. For 10 points, name": {
+    "guess": "Richard Feynman",
+    "confidence": [
+      [
+        "Richard",
+        -0.027696196
+      ],
+      [
+        " F",
+        0.0
+      ],
+      [
+        "eyn",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ]
+    ]
+  },
+  "This physicist proposed the parton (PAR-tawn) model of hadron collisions. His namesake \"point\" occurs at the 762nd digit of pi. Along with Schwinger and Tomonaga, he won the Nobel Prize for developing (*) quantum electrodynamics, or QED. He also explained why the Challenger exploded and developed some namesake diagrams to represent particle interactions in quantum field theory. For 10 points, name this Caltech physicist who enjoyed playing the bongos.": {
+    "guess": "Richard Feynman",
+    "confidence": [
+      [
+        "Richard",
+        -0.010752322
+      ],
+      [
+        " F",
+        -1.9361265e-07
+      ],
+      [
+        "eyn",
+        0.0
+      ],
+      [
+        "man",
+        0.0
+      ]
+    ]
+  },
+  "One phylum in this clade consists of a single extant species with X and Y sex chromosomes determining": {
+    "guess": "Ginkgoales",
+    "confidence": [
+      [
+        "G",
+        -0.02412667
+      ],
+      [
+        "inkgo",
+        -0.12956783
+      ],
+      [
+        "ales",
+        -0.51822054
+      ]
+    ]
+  },
+  "One phylum in this clade consists of a single extant species with X and Y sex chromosomes determining its microsporangiate and megasporangiate forms. Another phylum in this clade produces male gametophytes": {
+    "guess": "GYMNOSPERMS",
+    "confidence": [
+      [
+        "GY",
+        -0.97511214
+      ],
+      [
+        "MN",
+        -5.7961847e-06
+      ],
+      [
+        "OS",
+        -3.2929079e-06
+      ],
+      [
+        "PER",
+        -1.9816675e-06
+      ],
+      [
+        "MS",
+        -0.002200098
+      ]
+    ]
+  },
+  "One phylum in this clade consists of a single extant species with X and Y sex chromosomes determining its microsporangiate and megasporangiate forms. Another phylum in this clade produces male gametophytes in pollen strobili, and its ovules form on modified branches that form a seed (*) cone. Those two": {
+    "guess": "Coniferophyta",
+    "confidence": [
+      [
+        "Con",
+        -0.40980154
+      ],
+      [
+        "ifer",
+        -0.0001592003
+      ],
+      [
+        "ophy",
+        -0.16709857
+      ],
+      [
+        "ta",
+        -0.00034082634
+      ]
+    ]
+  },
+  "One phylum in this clade consists of a single extant species with X and Y sex chromosomes determining its microsporangiate and megasporangiate forms. Another phylum in this clade produces male gametophytes in pollen strobili, and its ovules form on modified branches that form a seed (*) cone. Those two phyla contain Gingko biloba and conifers, respectively. This clade takes its name from the Greek": {
+    "guess": "Gymnosperm",
+    "confidence": [
+      [
+        "Gym",
+        -0.0050198017
+      ],
+      [
+        "nos",
+        0.0
+      ],
+      [
+        "perm",
+        -0.003177833
+      ]
+    ]
+  },
+  "One phylum in this clade consists of a single extant species with X and Y sex chromosomes determining its microsporangiate and megasporangiate forms. Another phylum in this clade produces male gametophytes in pollen strobili, and its ovules form on modified branches that form a seed (*) cone. Those two phyla contain Gingko biloba and conifers, respectively. This clade takes its name from the Greek for \"naked seed.\" For 10 points, name this taxonomic group of seed-bearing plants that, unlike angiosperms,": {
+    "guess": "Gymnosperm",
+    "confidence": [
+      [
+        "Gym",
+        -0.0039260644
+      ],
+      [
+        "nos",
+        0.0
+      ],
+      [
+        "perm",
+        -0.00043078844
+      ]
+    ]
+  },
+  "One phylum in this clade consists of a single extant species with X and Y sex chromosomes determining its microsporangiate and megasporangiate forms. Another phylum in this clade produces male gametophytes in pollen strobili, and its ovules form on modified branches that form a seed (*) cone. Those two phyla contain Gingko biloba and conifers, respectively. This clade takes its name from the Greek for \"naked seed.\" For 10 points, name this taxonomic group of seed-bearing plants that, unlike angiosperms, do not produce flowers.": {
+    "guess": "Gymnosperm",
+    "confidence": [
+      [
+        "Gym",
+        -0.0015647348
+      ],
+      [
+        "nos",
+        0.0
+      ],
+      [
+        "perm",
+        -0.0031777136
+      ]
+    ]
+  },
+  "Phyto-remediation of this element from hyper-accumulators like Astragalus usually involves volatilization": {
+    "guess": "Selenium",
+    "confidence": [
+      [
+        "S",
+        -0.0025050286
+      ],
+      [
+        "elenium",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Phyto-remediation of this element from hyper-accumulators like Astragalus usually involves volatilization to a dimethyl compound. Derivatization with this element has largely replaced using bromine to": {
+    "guess": "Selenium",
+    "confidence": [
+      [
+        "S",
+        -0.009372579
+      ],
+      [
+        "elenium",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Phyto-remediation of this element from hyper-accumulators like Astragalus usually involves volatilization to a dimethyl compound. Derivatization with this element has largely replaced using bromine to introduce anomalous scattering properties to nucleic acids for MAD phasing. The 3-prime UTRs of many": {
+    "guess": "Selenium",
+    "confidence": [
+      [
+        "S",
+        -0.01994003
+      ],
+      [
+        "elenium",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Phyto-remediation of this element from hyper-accumulators like Astragalus usually involves volatilization to a dimethyl compound. Derivatization with this element has largely replaced using bromine to introduce anomalous scattering properties to nucleic acids for MAD phasing. The 3-prime UTRs of many proteins that associate with this element contain a K-turn motif with many conserved guanine-adenine": {
+    "guess": "Selenium",
+    "confidence": [
+      [
+        "S",
+        -0.0015456914
+      ],
+      [
+        "elenium",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Phyto-remediation of this element from hyper-accumulators like Astragalus usually involves volatilization to a dimethyl compound. Derivatization with this element has largely replaced using bromine to introduce anomalous scattering properties to nucleic acids for MAD phasing. The 3-prime UTRs of many proteins that associate with this element contain a K-turn motif with many conserved guanine-adenine base pairs. This element's dioxide oxidizes the alpha position of carbonyls to produce 1,2-diketones": {
+    "guess": "Selenium",
+    "confidence": [
+      [
+        "S",
+        -0.00027206415
+      ],
+      [
+        "elenium",
+        0.0
+      ]
+    ]
+  },
+  "Phyto-remediation of this element from hyper-accumulators like Astragalus usually involves volatilization to a dimethyl compound. Derivatization with this element has largely replaced using bromine to introduce anomalous scattering properties to nucleic acids for MAD phasing. The 3-prime UTRs of many proteins that associate with this element contain a K-turn motif with many conserved guanine-adenine base pairs. This element's dioxide oxidizes the alpha position of carbonyls to produce 1,2-diketones and regioselectively oxidizes alkenes to allylic alcohols. Cadmium bonds to this element in the most": {
+    "guess": "Selenium",
+    "confidence": [
+      [
+        "S",
+        -0.0029273033
+      ],
+      [
+        "elenium",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "Phyto-remediation of this element from hyper-accumulators like Astragalus usually involves volatilization to a dimethyl compound. Derivatization with this element has largely replaced using bromine to introduce anomalous scattering properties to nucleic acids for MAD phasing. The 3-prime UTRs of many proteins that associate with this element contain a K-turn motif with many conserved guanine-adenine base pairs. This element's dioxide oxidizes the alpha position of carbonyls to produce 1,2-diketones and regioselectively oxidizes alkenes to allylic alcohols. Cadmium bonds to this element in the most common quantum dots. Electron exchange in the active sites of glutathione peroxidase and thioredoxin": {
+    "guess": "Selenium",
+    "confidence": [
+      [
+        "S",
+        -0.010371666
+      ],
+      [
+        "elenium",
+        -0.00026157423
+      ]
+    ]
+  },
+  "Phyto-remediation of this element from hyper-accumulators like Astragalus usually involves volatilization to a dimethyl compound. Derivatization with this element has largely replaced using bromine to introduce anomalous scattering properties to nucleic acids for MAD phasing. The 3-prime UTRs of many proteins that associate with this element contain a K-turn motif with many conserved guanine-adenine base pairs. This element's dioxide oxidizes the alpha position of carbonyls to produce 1,2-diketones and regioselectively oxidizes alkenes to allylic alcohols. Cadmium bonds to this element in the most common quantum dots. Electron exchange in the active sites of glutathione peroxidase and thioredoxin reductase is accomplished by this element, which can be ingested in toxic amounts through excessive": {
+    "guess": "Selenium",
+    "confidence": [
+      [
+        "S",
+        -0.0026584163
+      ],
+      [
+        "elenium",
+        0.0
+      ]
+    ]
+  },
+  "Phyto-remediation of this element from hyper-accumulators like Astragalus usually involves volatilization to a dimethyl compound. Derivatization with this element has largely replaced using bromine to introduce anomalous scattering properties to nucleic acids for MAD phasing. The 3-prime UTRs of many proteins that associate with this element contain a K-turn motif with many conserved guanine-adenine base pairs. This element's dioxide oxidizes the alpha position of carbonyls to produce 1,2-diketones and regioselectively oxidizes alkenes to allylic alcohols. Cadmium bonds to this element in the most common quantum dots. Electron exchange in the active sites of glutathione peroxidase and thioredoxin reductase is accomplished by this element, which can be ingested in toxic amounts through excessive consumption of Brazil nuts. For 10 points, name this trace element found in a non-standard amino": {
+    "guess": "Selenium",
+    "confidence": [
+      [
+        "S",
+        -0.00072613294
+      ],
+      [
+        "elenium",
+        0.0
+      ]
+    ]
+  },
+  "Phyto-remediation of this element from hyper-accumulators like Astragalus usually involves volatilization to a dimethyl compound. Derivatization with this element has largely replaced using bromine to introduce anomalous scattering properties to nucleic acids for MAD phasing. The 3-prime UTRs of many proteins that associate with this element contain a K-turn motif with many conserved guanine-adenine base pairs. This element's dioxide oxidizes the alpha position of carbonyls to produce 1,2-diketones and regioselectively oxidizes alkenes to allylic alcohols. Cadmium bonds to this element in the most common quantum dots. Electron exchange in the active sites of glutathione peroxidase and thioredoxin reductase is accomplished by this element, which can be ingested in toxic amounts through excessive consumption of Brazil nuts. For 10 points, name this trace element found in a non-standard amino acid that is actually derived from serine rather than cysteine.": {
+    "guess": "Selenium",
+    "confidence": [
+      [
+        "S",
+        -0.0007382771
+      ],
+      [
+        "elenium",
+        0.0
+      ]
+    ]
+  },
+  "Phytoplankton with very high levels of this element are called \"survivalists\" because they are better": {
+    "guess": "Phosphorus",
+    "confidence": [
+      [
+        "Ph",
+        -0.22071432
+      ],
+      [
+        "osph",
+        -0.00010497363
+      ],
+      [
+        "orus",
+        -9.615256e-05
+      ]
+    ]
+  },
+  "Phytoplankton with very high levels of this element are called \"survivalists\" because they are better at acquiring scarce resources. Agropyron repens dominated areas high in this element in experiments": {
+    "guess": "Phosphorus",
+    "confidence": [
+      [
+        "Ph",
+        -0.60635793
+      ],
+      [
+        "osph",
+        -8.418666e-06
+      ],
+      [
+        "orus",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "Phytoplankton with very high levels of this element are called \"survivalists\" because they are better at acquiring scarce resources. Agropyron repens dominated areas high in this element in experiments by David Tilman, which found that early successional species are better at acquiring it. The partner": {
+    "guess": "Nitrogen",
+    "confidence": [
+      [
+        "Nit",
+        -0.05431429
+      ],
+      [
+        "rogen",
+        0.0
+      ]
+    ]
+  },
+  "Phytoplankton with very high levels of this element are called \"survivalists\" because they are better at acquiring scarce resources. Agropyron repens dominated areas high in this element in experiments by David Tilman, which found that early successional species are better at acquiring it. The partner choice and sanctions hypotheses can explain a symbiosis centering around this element. Plants produce": {
+    "guess": "Nitrogen",
+    "confidence": [
+      [
+        "Nit",
+        -0.019728843
+      ],
+      [
+        "rogen",
+        0.0
+      ]
+    ]
+  },
+  "Phytoplankton with very high levels of this element are called \"survivalists\" because they are better at acquiring scarce resources. Agropyron repens dominated areas high in this element in experiments by David Tilman, which found that early successional species are better at acquiring it. The partner choice and sanctions hypotheses can explain a symbiosis centering around this element. Plants produce leghemoglobin to avoid oxygen poisoning of an enzyme that processes this element. Diazotrophs are": {
+    "guess": "Nitrogen",
+    "confidence": [
+      [
+        "Nit",
+        -0.023401313
+      ],
+      [
+        "rogen",
+        0.0
+      ]
+    ]
+  },
+  "Phytoplankton with very high levels of this element are called \"survivalists\" because they are better at acquiring scarce resources. Agropyron repens dominated areas high in this element in experiments by David Tilman, which found that early successional species are better at acquiring it. The partner choice and sanctions hypotheses can explain a symbiosis centering around this element. Plants produce leghemoglobin to avoid oxygen poisoning of an enzyme that processes this element. Diazotrophs are able to survive without external sources of this element, and in oceans, the anammox process decreases": {
+    "guess": "Nitrogen",
+    "confidence": [
+      [
+        "Nit",
+        -0.0015040288
+      ],
+      [
+        "rogen",
+        0.0
+      ]
+    ]
+  },
+  "Phytoplankton with very high levels of this element are called \"survivalists\" because they are better at acquiring scarce resources. Agropyron repens dominated areas high in this element in experiments by David Tilman, which found that early successional species are better at acquiring it. The partner choice and sanctions hypotheses can explain a symbiosis centering around this element. Plants produce leghemoglobin to avoid oxygen poisoning of an enzyme that processes this element. Diazotrophs are able to survive without external sources of this element, and in oceans, the anammox process decreases its availability. This is the most commonly limiting element in terrestrial ecosystems, but most": {
+    "guess": "Nitrogen",
+    "confidence": [
+      [
+        "Nit",
+        -0.048653223
+      ],
+      [
+        "rogen",
+        0.0
+      ]
+    ]
+  },
+  "Phytoplankton with very high levels of this element are called \"survivalists\" because they are better at acquiring scarce resources. Agropyron repens dominated areas high in this element in experiments by David Tilman, which found that early successional species are better at acquiring it. The partner choice and sanctions hypotheses can explain a symbiosis centering around this element. Plants produce leghemoglobin to avoid oxygen poisoning of an enzyme that processes this element. Diazotrophs are able to survive without external sources of this element, and in oceans, the anammox process decreases its availability. This is the most commonly limiting element in terrestrial ecosystems, but most legumes have rhizobial root nodules capable of fixing it into ammonium. For 10 points, name this element": {
+    "guess": "Nitrogen",
+    "confidence": [
+      [
+        "Nit",
+        -0.008850447
+      ],
+      [
+        "rogen",
+        0.0
+      ]
+    ]
+  },
+  "Phytoplankton with very high levels of this element are called \"survivalists\" because they are better at acquiring scarce resources. Agropyron repens dominated areas high in this element in experiments by David Tilman, which found that early successional species are better at acquiring it. The partner choice and sanctions hypotheses can explain a symbiosis centering around this element. Plants produce leghemoglobin to avoid oxygen poisoning of an enzyme that processes this element. Diazotrophs are able to survive without external sources of this element, and in oceans, the anammox process decreases its availability. This is the most commonly limiting element in terrestrial ecosystems, but most legumes have rhizobial root nodules capable of fixing it into ammonium. For 10 points, name this element whose diatomic form makes up 78% of the Earth's atmosphere.": {
+    "guess": "Nitrogen",
+    "confidence": [
+      [
+        "Nit",
+        -0.008618355
+      ],
+      [
+        "rogen",
+        0.0
+      ]
+    ]
+  },
+  "In physics, the \"bag model\" named for this improves the MIT Bag Model in modeling the nucleon. Gleiser": {
+    "guess": "Chiral bag model",
+    "confidence": [
+      [
+        "Ch",
+        -0.13093925
+      ],
+      [
+        "iral",
+        -0.00015872349
+      ],
+      [
+        " bag",
+        -0.030655753
+      ],
+      [
+        " model",
+        -1.0921943e-05
+      ]
+    ]
+  },
+  "In physics, the \"bag model\" named for this improves the MIT Bag Model in modeling the nucleon. Gleiser et al recently hypothesized that high intensity and long duration events can induce it in a paper": {
+    "guess": "Chiral bag model",
+    "confidence": [
+      [
+        "Ch",
+        -0.039215833
+      ],
+      [
+        "iral",
+        -8.542423e-05
+      ],
+      [
+        " bag",
+        -0.009006879
+      ],
+      [
+        " model",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "In physics, the \"bag model\" named for this improves the MIT Bag Model in modeling the nucleon. Gleiser et al recently hypothesized that high intensity and long duration events can induce it in a paper unifying it with punctuated equilibrium.  The Cahn-Ingold-Prelog priority rule is used in the RS system": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5172096
+      ]
+    ]
+  },
+  "In physics, the \"bag model\" named for this improves the MIT Bag Model in modeling the nucleon. Gleiser et al recently hypothesized that high intensity and long duration events can induce it in a paper unifying it with punctuated equilibrium.  The Cahn-Ingold-Prelog priority rule is used in the RS system to distinguish molecules with this property.. First discovered to have a molecular basis by Louis": {
+    "guess": "Chirality",
+    "confidence": [
+      [
+        "Ch",
+        -0.08900086
+      ],
+      [
+        "ir",
+        -0.0008052219
+      ],
+      [
+        "ality",
+        0.0
+      ]
+    ]
+  },
+  "In physics, the \"bag model\" named for this improves the MIT Bag Model in modeling the nucleon. Gleiser et al recently hypothesized that high intensity and long duration events can induce it in a paper unifying it with punctuated equilibrium.  The Cahn-Ingold-Prelog priority rule is used in the RS system to distinguish molecules with this property.. First discovered to have a molecular basis by Louis Pasteur in tartaric acid, this property distinguishes enantiomers from one another. For 10 points,": {
+    "guess": "Chirality",
+    "confidence": [
+      [
+        "Ch",
+        -0.0019416073
+      ],
+      [
+        "ir",
+        -0.00010914576
+      ],
+      [
+        "ality",
+        0.0
+      ]
+    ]
+  },
+  "In physics, the \"bag model\" named for this improves the MIT Bag Model in modeling the nucleon. Gleiser et al recently hypothesized that high intensity and long duration events can induce it in a paper unifying it with punctuated equilibrium.  The Cahn-Ingold-Prelog priority rule is used in the RS system to distinguish molecules with this property.. First discovered to have a molecular basis by Louis Pasteur in tartaric acid, this property distinguishes enantiomers from one another. For 10 points, what chemical property makes two molecules non-superimposable and gives \"handedness\"?": {
+    "guess": "Chirality",
+    "confidence": [
+      [
+        "Ch",
+        -0.007816002
+      ],
+      [
+        "ir",
+        -2.7729659e-05
+      ],
+      [
+        "ality",
+        0.0
+      ]
+    ]
+  },
+  "Their phytyl side chains allow them to anchor to membrane protein complexes. They are given the prefix": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.2700042
+      ],
+      [
+        "lor",
+        -0.00026157423
+      ],
+      [
+        "ophyll",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "Their phytyl side chains allow them to anchor to membrane protein complexes. They are given the prefix Bacterio- when an acetyl group is found at position 3 instead of a vinyl group, while the difference": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.004161976
+      ],
+      [
+        "lor",
+        -1.2664457e-06
+      ],
+      [
+        "ophyll",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "Their phytyl side chains allow them to anchor to membrane protein complexes. They are given the prefix Bacterio- when an acetyl group is found at position 3 instead of a vinyl group, while the difference between their a and b varieties lies in the substitution of a methyl with an aldehyde. They are similar": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.0016514949
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Their phytyl side chains allow them to anchor to membrane protein complexes. They are given the prefix Bacterio- when an acetyl group is found at position 3 instead of a vinyl group, while the difference between their a and b varieties lies in the substitution of a methyl with an aldehyde. They are similar to hemes, but instead of an iron ion they contain a magnesium ion. FTP, name this group of tetrapyrroles,": {
+    "guess": "Chlorophylls",
+    "confidence": [
+      [
+        "Ch",
+        -0.0064144395
+      ],
+      [
+        "lor",
+        -1.9361265e-07
+      ],
+      [
+        "ophyll",
+        -9.0883464e-07
+      ],
+      [
+        "s",
+        -0.2522867
+      ]
+    ]
+  },
+  "Their phytyl side chains allow them to anchor to membrane protein complexes. They are given the prefix Bacterio- when an acetyl group is found at position 3 instead of a vinyl group, while the difference between their a and b varieties lies in the substitution of a methyl with an aldehyde. They are similar to hemes, but instead of an iron ion they contain a magnesium ion. FTP, name this group of tetrapyrroles, pigments which \"harvest\" light in numerous bacteria and plants, giving them a green hue.": {
+    "guess": "Chlorophyll",
+    "confidence": [
+      [
+        "Ch",
+        -0.0041506994
+      ],
+      [
+        "lor",
+        0.0
+      ],
+      [
+        "ophyll",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This physicist's disastrous marriage prompted him to send a description of 1000 of his dreams to Carl": {
+    "guess": "Wolfgang Pauli",
+    "confidence": [
+      [
+        "Wolf",
+        -0.007291651
+      ],
+      [
+        "gang",
+        -1.9816675e-06
+      ],
+      [
+        " Pa",
+        -1.2664457e-06
+      ],
+      [
+        "uli",
+        0.0
+      ]
+    ]
+  },
+  "This physicist's disastrous marriage prompted him to send a description of 1000 of his dreams to Carl Jung, who published a book analyzing many of them. His thesis, influenced by his advisor, Arnold Sommerfeld,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.32773286
+      ]
+    ]
+  },
+  "This physicist's disastrous marriage prompted him to send a description of 1000 of his dreams to Carl Jung, who published a book analyzing many of them. His thesis, influenced by his advisor, Arnold Sommerfeld, dealt with the application of quantum theory to ionized hydrogen atoms, and after meeting": {
+    "guess": "Wolfgang Pauli",
+    "confidence": [
+      [
+        "Wolf",
+        -0.030321132
+      ],
+      [
+        "gang",
+        -1.6240566e-06
+      ],
+      [
+        " Pa",
+        -3.1281633e-07
+      ],
+      [
+        "uli",
+        0.0
+      ]
+    ]
+  },
+  "This physicist's disastrous marriage prompted him to send a description of 1000 of his dreams to Carl Jung, who published a book analyzing many of them. His thesis, influenced by his advisor, Arnold Sommerfeld, dealt with the application of quantum theory to ionized hydrogen atoms, and after meeting Niels Bohr in 1922 he began his investigations of the anomalous Zeeman effect. His namesake matrices": {
+    "guess": "Werner Heisenberg",
+    "confidence": [
+      [
+        "Wer",
+        -0.036245365
+      ],
+      [
+        "ner",
+        0.0
+      ],
+      [
+        " He",
+        -3.1737043e-06
+      ],
+      [
+        "isen",
+        0.0
+      ],
+      [
+        "berg",
+        0.0
+      ]
+    ]
+  },
+  "This physicist's disastrous marriage prompted him to send a description of 1000 of his dreams to Carl Jung, who published a book analyzing many of them. His thesis, influenced by his advisor, Arnold Sommerfeld, dealt with the application of quantum theory to ionized hydrogen atoms, and after meeting Niels Bohr in 1922 he began his investigations of the anomalous Zeeman effect. His namesake matrices represent the non-relativistic rotational forces acting on particles with spin \u00bd, and he proposed the": {
+    "guess": "Wolfgang Pauli",
+    "confidence": [
+      [
+        "Wolf",
+        -0.23916067
+      ],
+      [
+        "gang",
+        -6.9882217e-06
+      ],
+      [
+        " Pa",
+        0.0
+      ],
+      [
+        "uli",
+        0.0
+      ]
+    ]
+  },
+  "This physicist's disastrous marriage prompted him to send a description of 1000 of his dreams to Carl Jung, who published a book analyzing many of them. His thesis, influenced by his advisor, Arnold Sommerfeld, dealt with the application of quantum theory to ionized hydrogen atoms, and after meeting Niels Bohr in 1922 he began his investigations of the anomalous Zeeman effect. His namesake matrices represent the non-relativistic rotational forces acting on particles with spin \u00bd, and he proposed the neutron particle, although we know it today as the neutrino. For ten points, identify this physicist": {
+    "guess": "Wolfgang Pauli",
+    "confidence": [
+      [
+        "Wolf",
+        -0.027407894
+      ],
+      [
+        "gang",
+        -1.1041146e-05
+      ],
+      [
+        " Pa",
+        0.0
+      ],
+      [
+        "uli",
+        0.0
+      ]
+    ]
+  },
+  "This physicist's disastrous marriage prompted him to send a description of 1000 of his dreams to Carl Jung, who published a book analyzing many of them. His thesis, influenced by his advisor, Arnold Sommerfeld, dealt with the application of quantum theory to ionized hydrogen atoms, and after meeting Niels Bohr in 1922 he began his investigations of the anomalous Zeeman effect. His namesake matrices represent the non-relativistic rotational forces acting on particles with spin \u00bd, and he proposed the neutron particle, although we know it today as the neutrino. For ten points, identify this physicist who proposed a fourth quantum number, which is the subject of his namesake Exclusion Principle.": {
+    "guess": "Wolfgang Pauli",
+    "confidence": [
+      [
+        "Wolf",
+        -0.12741424
+      ],
+      [
+        "gang",
+        -4.3202e-07
+      ],
+      [
+        " Pa",
+        0.0
+      ],
+      [
+        "uli",
+        0.0
+      ]
+    ]
+  },
+  "This phylum's most primitive species include the tunicates and lancelets. All members of this phylum": {
+    "guess": "Chordate",
+    "confidence": [
+      [
+        "Chord",
+        -7.89631e-07
+      ],
+      [
+        "ate",
+        -0.023249088
+      ]
+    ]
+  },
+  "This phylum's most primitive species include the tunicates and lancelets. All members of this phylum have an iodine storage organ called an endostyle, along with pharyngeal slits and a post-anal tail.": {
+    "guess": "Chordate",
+    "confidence": [
+      [
+        "Chord",
+        -0.0019901362
+      ],
+      [
+        "ate",
+        -0.10041521
+      ]
+    ]
+  },
+  "This phylum's most primitive species include the tunicates and lancelets. All members of this phylum have an iodine storage organ called an endostyle, along with pharyngeal slits and a post-anal tail. The early (*) notochord disappears during development of this phylum's vertebrates. Containing the fish,": {
+    "guess": "Chordate",
+    "confidence": [
+      [
+        "Chord",
+        -3.9888433e-05
+      ],
+      [
+        "ate",
+        -0.00091932
+      ]
+    ]
+  },
+  "This phylum's most primitive species include the tunicates and lancelets. All members of this phylum have an iodine storage organ called an endostyle, along with pharyngeal slits and a post-anal tail. The early (*) notochord disappears during development of this phylum's vertebrates. Containing the fish, amphibians, reptiles, birds, and mammals, for 10 points, name this phylum of backboned animals.": {
+    "guess": "Chordata",
+    "confidence": [
+      [
+        "Chord",
+        -9.3530085e-05
+      ],
+      [
+        "ata",
+        -0.07889805
+      ]
+    ]
+  }
+}

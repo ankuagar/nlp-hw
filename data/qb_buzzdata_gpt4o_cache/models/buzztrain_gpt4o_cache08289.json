@@ -1,0 +1,746 @@
+{
+  "The volume of a simplex in n dimensions can be given by the Cayley-Menger type of this function, and": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.013983084
+      ],
+      [
+        "ermin",
+        0.0
+      ],
+      [
+        "ant",
+        0.0
+      ]
+    ]
+  },
+  "The volume of a simplex in n dimensions can be given by the Cayley-Menger type of this function, and this function can be generalized to non-square entities using the Cauchy Binet formula. The linear independence": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.09498736
+      ],
+      [
+        "ermin",
+        -1.9361265e-07
+      ],
+      [
+        "ant",
+        0.0
+      ]
+    ]
+  },
+  "The volume of a simplex in n dimensions can be given by the Cayley-Menger type of this function, and this function can be generalized to non-square entities using the Cauchy Binet formula. The linear independence of a set of solutions to a differential equation is given by a nonzero value for the Wronskian": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.00042686204
+      ],
+      [
+        "ermin",
+        0.0
+      ],
+      [
+        "ant",
+        0.0
+      ]
+    ]
+  },
+  "The volume of a simplex in n dimensions can be given by the Cayley-Menger type of this function, and this function can be generalized to non-square entities using the Cauchy Binet formula. The linear independence of a set of solutions to a differential equation is given by a nonzero value for the Wronskian type of this, and changing variables when integrating a function over its domain involves the": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.0470996
+      ],
+      [
+        "ermin",
+        -3.5313153e-06
+      ],
+      [
+        "ant",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The volume of a simplex in n dimensions can be given by the Cayley-Menger type of this function, and this function can be generalized to non-square entities using the Cauchy Binet formula. The linear independence of a set of solutions to a differential equation is given by a nonzero value for the Wronskian type of this, and changing variables when integrating a function over its domain involves the use of the Jacobian type of this function. One of these for a two-by-two matrix is used in Cramer's": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.0023255793
+      ],
+      [
+        "ermin",
+        0.0
+      ],
+      [
+        "ant",
+        0.0
+      ]
+    ]
+  },
+  "The volume of a simplex in n dimensions can be given by the Cayley-Menger type of this function, and this function can be generalized to non-square entities using the Cauchy Binet formula. The linear independence of a set of solutions to a differential equation is given by a nonzero value for the Wronskian type of this, and changing variables when integrating a function over its domain involves the use of the Jacobian type of this function. One of these for a two-by-two matrix is used in Cramer's rule to find the solution to a system of two equations. For 10 points, name this scalar function of": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.0009799323
+      ],
+      [
+        "ermin",
+        -3.1281633e-07
+      ],
+      [
+        "ant",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The volume of a simplex in n dimensions can be given by the Cayley-Menger type of this function, and this function can be generalized to non-square entities using the Cauchy Binet formula. The linear independence of a set of solutions to a differential equation is given by a nonzero value for the Wronskian type of this, and changing variables when integrating a function over its domain involves the use of the Jacobian type of this function. One of these for a two-by-two matrix is used in Cramer's rule to find the solution to a system of two equations. For 10 points, name this scalar function of a square matrix, denoted by single or double bars around a matrix.": {
+    "guess": "Determinant",
+    "confidence": [
+      [
+        "Det",
+        -0.01130552
+      ],
+      [
+        "ermin",
+        0.0
+      ],
+      [
+        "ant",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Volcher Coiter and Fabricius were among this man's pupils, while he was a pupil of Vesalius before becoming": {
+    "guess": "Fallopius",
+    "confidence": [
+      [
+        "Fall",
+        -0.019378599
+      ],
+      [
+        "op",
+        -0.21660784
+      ],
+      [
+        "ius",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "Volcher Coiter and Fabricius were among this man's pupils, while he was a pupil of Vesalius before becoming professor of anatomy at Pisa in 1548. Along with naming the cochlea, palate, placenta, and vagina": {
+    "guess": "Gabriel Fallopius",
+    "confidence": [
+      [
+        "Gab",
+        -0.05386809
+      ],
+      [
+        "riel",
+        -3.5835506e-05
+      ],
+      [
+        " Fall",
+        -1.9361265e-07
+      ],
+      [
+        "op",
+        -9.794062e-05
+      ],
+      [
+        "ius",
+        0.0
+      ]
+    ]
+  },
+  "Volcher Coiter and Fabricius were among this man's pupils, while he was a pupil of Vesalius before becoming professor of anatomy at Pisa in 1548. Along with naming the cochlea, palate, placenta, and vagina and discovering several important nerves, he gave the first accurate description of the inner ear.": {
+    "guess": "Gabriel Fallopius",
+    "confidence": [
+      [
+        "Gab",
+        -0.018664662
+      ],
+      [
+        "riel",
+        -0.0004324573
+      ],
+      [
+        " Fall",
+        -3.1281633e-07
+      ],
+      [
+        "op",
+        -0.00023250321
+      ],
+      [
+        "ius",
+        0.0
+      ]
+    ]
+  },
+  "Volcher Coiter and Fabricius were among this man's pupils, while he was a pupil of Vesalius before becoming professor of anatomy at Pisa in 1548. Along with naming the cochlea, palate, placenta, and vagina and discovering several important nerves, he gave the first accurate description of the inner ear. FTP, identify this Italian anatomist who failed to determine the function of the tubes leading from": {
+    "guess": "Gabriel Fallopius",
+    "confidence": [
+      [
+        "Gab",
+        -0.31049377
+      ],
+      [
+        "riel",
+        -0.00010974178
+      ],
+      [
+        " Fall",
+        -1.147242e-06
+      ],
+      [
+        "op",
+        -0.00023309923
+      ],
+      [
+        "ius",
+        0.0
+      ]
+    ]
+  },
+  "Volcher Coiter and Fabricius were among this man's pupils, while he was a pupil of Vesalius before becoming professor of anatomy at Pisa in 1548. Along with naming the cochlea, palate, placenta, and vagina and discovering several important nerves, he gave the first accurate description of the inner ear. FTP, identify this Italian anatomist who failed to determine the function of the tubes leading from the ovary to the uterus that are now named after him.": {
+    "guess": "Gabriel Fallopius",
+    "confidence": [
+      [
+        "Gab",
+        -0.046057135
+      ],
+      [
+        "riel",
+        -0.00020377879
+      ],
+      [
+        " Fall",
+        -1.2664457e-06
+      ],
+      [
+        "op",
+        -4.0842064e-05
+      ],
+      [
+        "ius",
+        0.0
+      ]
+    ]
+  },
+  "The volunteer \"four-minute men\" gave speeches supporting this war. During this war, the American Protective": {
+    "guess": "World War I",
+    "confidence": [
+      [
+        "World",
+        -0.00029816243
+      ],
+      [
+        " War",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ]
+    ]
+  },
+  "The volunteer \"four-minute men\" gave speeches supporting this war. During this war, the American Protective League conducted illegal raids on supposed \"slackers.\" Propaganda supporting this war was disseminated": {
+    "guess": "World War I",
+    "confidence": [
+      [
+        "World",
+        -0.0004941755
+      ],
+      [
+        " War",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ]
+    ]
+  },
+  "The volunteer \"four-minute men\" gave speeches supporting this war. During this war, the American Protective League conducted illegal raids on supposed \"slackers.\" Propaganda supporting this war was disseminated by a committee led by George Creel. The Nye Committee's investigation into the profits munitions": {
+    "guess": "World War I",
+    "confidence": [
+      [
+        "World",
+        -0.0029410906
+      ],
+      [
+        " War",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ]
+    ]
+  },
+  "The volunteer \"four-minute men\" gave speeches supporting this war. During this war, the American Protective League conducted illegal raids on supposed \"slackers.\" Propaganda supporting this war was disseminated by a committee led by George Creel. The Nye Committee's investigation into the profits munitions companies made from this war helped lead to policy of isolationism embodied in three Neutrality": {
+    "guess": "World War I",
+    "confidence": [
+      [
+        "World",
+        -0.0041027428
+      ],
+      [
+        " War",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ]
+    ]
+  },
+  "The volunteer \"four-minute men\" gave speeches supporting this war. During this war, the American Protective League conducted illegal raids on supposed \"slackers.\" Propaganda supporting this war was disseminated by a committee led by George Creel. The Nye Committee's investigation into the profits munitions companies made from this war helped lead to policy of isolationism embodied in three Neutrality Acts. The speech entering the United States into this war declared that \"the world must be made safe": {
+    "guess": "World War I",
+    "confidence": [
+      [
+        "World",
+        -0.014255298
+      ],
+      [
+        " War",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ]
+    ]
+  },
+  "The volunteer \"four-minute men\" gave speeches supporting this war. During this war, the American Protective League conducted illegal raids on supposed \"slackers.\" Propaganda supporting this war was disseminated by a committee led by George Creel. The Nye Committee's investigation into the profits munitions companies made from this war helped lead to policy of isolationism embodied in three Neutrality Acts. The speech entering the United States into this war declared that \"the world must be made safe for democracy.\" For 10 points, name this war that prompted the creation of the League of Nations": {
+    "guess": "World War I",
+    "confidence": [
+      [
+        "World",
+        -0.0011757015
+      ],
+      [
+        " War",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ]
+    ]
+  },
+  "The volunteer \"four-minute men\" gave speeches supporting this war. During this war, the American Protective League conducted illegal raids on supposed \"slackers.\" Propaganda supporting this war was disseminated by a committee led by George Creel. The Nye Committee's investigation into the profits munitions companies made from this war helped lead to policy of isolationism embodied in three Neutrality Acts. The speech entering the United States into this war declared that \"the world must be made safe for democracy.\" For 10 points, name this war that prompted the creation of the League of Nations and took place during the presidency of Woodrow Wilson.": {
+    "guess": "World War I",
+    "confidence": [
+      [
+        "World",
+        -0.003207777
+      ],
+      [
+        " War",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ]
+    ]
+  },
+  "One volcano in this chain, Mount Mazama, was largely destroyed around 7,000 years ago. Lava Beds National": {
+    "guess": "Cascade Range",
+    "confidence": [
+      [
+        "Cascade",
+        -0.9687449
+      ],
+      [
+        " Range",
+        -0.026639534
+      ]
+    ]
+  },
+  "One volcano in this chain, Mount Mazama, was largely destroyed around 7,000 years ago. Lava Beds National Monument lies in this group of peaks. Its southernmost mountain was thought extinct until it erupted": {
+    "guess": "Cascade Range",
+    "confidence": [
+      [
+        "Cascade",
+        -0.020657508
+      ],
+      [
+        " Range",
+        -0.0004941755
+      ]
+    ]
+  },
+  "One volcano in this chain, Mount Mazama, was largely destroyed around 7,000 years ago. Lava Beds National Monument lies in this group of peaks. Its southernmost mountain was thought extinct until it erupted in 1914 and is called Lassen Peak. Other peaks in this range include Broken Top, Three Fingered": {
+    "guess": "Cascade Range",
+    "confidence": [
+      [
+        "Cascade",
+        -0.0182979
+      ],
+      [
+        " Range",
+        -5.9153886e-06
+      ]
+    ]
+  },
+  "One volcano in this chain, Mount Mazama, was largely destroyed around 7,000 years ago. Lava Beds National Monument lies in this group of peaks. Its southernmost mountain was thought extinct until it erupted in 1914 and is called Lassen Peak. Other peaks in this range include Broken Top, Three Fingered Jack, and the Three Sisters. This mountain range is separated from the Coast Mountains to the north": {
+    "guess": "Cascade Range",
+    "confidence": [
+      [
+        "Cascade",
+        -0.014416176
+      ],
+      [
+        " Range",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "One volcano in this chain, Mount Mazama, was largely destroyed around 7,000 years ago. Lava Beds National Monument lies in this group of peaks. Its southernmost mountain was thought extinct until it erupted in 1914 and is called Lassen Peak. Other peaks in this range include Broken Top, Three Fingered Jack, and the Three Sisters. This mountain range is separated from the Coast Mountains to the north by the Fraser River and was formed from the subduction of the Juan de Fuca Plate. The Columbia River": {
+    "guess": "Cascade Range",
+    "confidence": [
+      [
+        "Cascade",
+        -0.00013667447
+      ],
+      [
+        " Range",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "One volcano in this chain, Mount Mazama, was largely destroyed around 7,000 years ago. Lava Beds National Monument lies in this group of peaks. Its southernmost mountain was thought extinct until it erupted in 1914 and is called Lassen Peak. Other peaks in this range include Broken Top, Three Fingered Jack, and the Three Sisters. This mountain range is separated from the Coast Mountains to the north by the Fraser River and was formed from the subduction of the Juan de Fuca Plate. The Columbia River Gorge runs through this chain, which also contains Crater Lake. For 10 points, name this section": {
+    "guess": "Cascade Range",
+    "confidence": [
+      [
+        "Cascade",
+        -0.0006359508
+      ],
+      [
+        " Range",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "One volcano in this chain, Mount Mazama, was largely destroyed around 7,000 years ago. Lava Beds National Monument lies in this group of peaks. Its southernmost mountain was thought extinct until it erupted in 1914 and is called Lassen Peak. Other peaks in this range include Broken Top, Three Fingered Jack, and the Three Sisters. This mountain range is separated from the Coast Mountains to the north by the Fraser River and was formed from the subduction of the Juan de Fuca Plate. The Columbia River Gorge runs through this chain, which also contains Crater Lake. For 10 points, name this section of North America's Pacific mountain system that extends from northern California up into British Columbia": {
+    "guess": "Cascade Range",
+    "confidence": [
+      [
+        "Cascade",
+        -0.012725069
+      ],
+      [
+        " Range",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "One volcano in this chain, Mount Mazama, was largely destroyed around 7,000 years ago. Lava Beds National Monument lies in this group of peaks. Its southernmost mountain was thought extinct until it erupted in 1914 and is called Lassen Peak. Other peaks in this range include Broken Top, Three Fingered Jack, and the Three Sisters. This mountain range is separated from the Coast Mountains to the north by the Fraser River and was formed from the subduction of the Juan de Fuca Plate. The Columbia River Gorge runs through this chain, which also contains Crater Lake. For 10 points, name this section of North America's Pacific mountain system that extends from northern California up into British Columbia whose peaks include Mount Hood, Mount Rainier, and Mount St. Helens.": {
+    "guess": "Cascade Range",
+    "confidence": [
+      [
+        "Cascade",
+        -1.6286107e-05
+      ],
+      [
+        " Range",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "The Voluspo contains a catalogue of these \"forebears of Lofar,\" some of whom \"sought a home in the fields": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.62139535
+      ]
+    ]
+  },
+  "The Voluspo contains a catalogue of these \"forebears of Lofar,\" some of whom \"sought a home in the fields of sand,\" while others made their home in a golden hall in Nidavellir. Four of them were placed": {
+    "guess": "Dwarfs (Norse mythology)",
+    "confidence": [
+      [
+        "D",
+        -0.023811959
+      ],
+      [
+        "war",
+        -0.003178902
+      ],
+      [
+        "fs",
+        -0.31326187
+      ],
+      [
+        " (",
+        -0.5566101
+      ],
+      [
+        "N",
+        -0.0043913093
+      ],
+      [
+        "orse",
+        -1.9361265e-07
+      ],
+      [
+        " mythology",
+        -0.011231139
+      ],
+      [
+        ")",
+        -6.0345924e-06
+      ]
+    ]
+  },
+  "The Voluspo contains a catalogue of these \"forebears of Lofar,\" some of whom \"sought a home in the fields of sand,\" while others made their home in a golden hall in Nidavellir. Four of them were placed at the cardinal points and charged with holding up the vault of the sky. In the Poetic Eddas, they": {
+    "guess": "Dwarfs (Norse mythology)",
+    "confidence": [
+      [
+        "D",
+        -0.2196149
+      ],
+      [
+        "war",
+        -0.011059966
+      ],
+      [
+        "fs",
+        -0.25192973
+      ],
+      [
+        " (",
+        -0.58873177
+      ],
+      [
+        "N",
+        -0.0013783294
+      ],
+      [
+        "orse",
+        0.0
+      ],
+      [
+        " mythology",
+        -0.014593099
+      ],
+      [
+        ")",
+        -1.8431772e-05
+      ]
+    ]
+  },
+  "The Voluspo contains a catalogue of these \"forebears of Lofar,\" some of whom \"sought a home in the fields of sand,\" while others made their home in a golden hall in Nidavellir. Four of them were placed at the cardinal points and charged with holding up the vault of the sky. In the Poetic Eddas, they are said to have risen \"out of Brimir's blood and the legs of Blain,\" while Snorri states that they": {
+    "guess": "Dwarfs (Norse mythology)",
+    "confidence": [
+      [
+        "D",
+        -0.057184562
+      ],
+      [
+        "war",
+        -0.00018018014
+      ],
+      [
+        "fs",
+        -0.07888979
+      ],
+      [
+        " (",
+        -0.8832474
+      ],
+      [
+        "N",
+        -0.0063184933
+      ],
+      [
+        "orse",
+        -1.9361265e-07
+      ],
+      [
+        " mythology",
+        -0.048858725
+      ],
+      [
+        ")",
+        -5.5861725e-05
+      ]
+    ]
+  },
+  "The Voluspo contains a catalogue of these \"forebears of Lofar,\" some of whom \"sought a home in the fields of sand,\" while others made their home in a golden hall in Nidavellir. Four of them were placed at the cardinal points and charged with holding up the vault of the sky. In the Poetic Eddas, they are said to have risen \"out of Brimir's blood and the legs of Blain,\" while Snorri states that they grew from maggots crawling in Ymir's corpse. Two of them, Fjalar and Galar, created the mead of poetry,": {
+    "guess": "Dwarfs (Norse mythology)",
+    "confidence": [
+      [
+        "D",
+        -0.013006337
+      ],
+      [
+        "war",
+        -0.40578574
+      ],
+      [
+        "fs",
+        -0.020542705
+      ],
+      [
+        " (",
+        -0.13626036
+      ],
+      [
+        "N",
+        -0.0036614758
+      ],
+      [
+        "orse",
+        0.0
+      ],
+      [
+        " mythology",
+        -0.001382617
+      ],
+      [
+        ")",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "The Voluspo contains a catalogue of these \"forebears of Lofar,\" some of whom \"sought a home in the fields of sand,\" while others made their home in a golden hall in Nidavellir. Four of them were placed at the cardinal points and charged with holding up the vault of the sky. In the Poetic Eddas, they are said to have risen \"out of Brimir's blood and the legs of Blain,\" while Snorri states that they grew from maggots crawling in Ymir's corpse. Two of them, Fjalar and Galar, created the mead of poetry, and Freya slept with four of them to obtain Brisingamen. Sometimes identified with the dark elves,": {
+    "guess": "Dwarf",
+    "confidence": [
+      [
+        "D",
+        -0.0019970352
+      ],
+      [
+        "warf",
+        -0.083633
+      ]
+    ]
+  },
+  "The Voluspo contains a catalogue of these \"forebears of Lofar,\" some of whom \"sought a home in the fields of sand,\" while others made their home in a golden hall in Nidavellir. Four of them were placed at the cardinal points and charged with holding up the vault of the sky. In the Poetic Eddas, they are said to have risen \"out of Brimir's blood and the legs of Blain,\" while Snorri states that they grew from maggots crawling in Ymir's corpse. Two of them, Fjalar and Galar, created the mead of poetry, and Freya slept with four of them to obtain Brisingamen. Sometimes identified with the dark elves, FTP name this race of master smiths in Norse myth.": {
+    "guess": "Dwarf",
+    "confidence": [
+      [
+        "D",
+        -0.00043198047
+      ],
+      [
+        "warf",
+        -0.07963357
+      ]
+    ]
+  },
+  "The volcanic Ankaratra Massif lies in its center, and this nation's Great Cliff of Angavo is bordered": {
+    "guess": "Madagascar",
+    "confidence": [
+      [
+        "Mad",
+        -0.00095457496
+      ],
+      [
+        "agas",
+        0.0
+      ],
+      [
+        "car",
+        0.0
+      ]
+    ]
+  },
+  "The volcanic Ankaratra Massif lies in its center, and this nation's Great Cliff of Angavo is bordered by the Betsimisaraka Escarpment. The Mandrare, Mananara, and Ivondro rivers are located in this nation,": {
+    "guess": "Madagascar",
+    "confidence": [
+      [
+        "Mad",
+        -2.9160103e-05
+      ],
+      [
+        "agas",
+        0.0
+      ],
+      [
+        "car",
+        0.0
+      ]
+    ]
+  },
+  "The volcanic Ankaratra Massif lies in its center, and this nation's Great Cliff of Angavo is bordered by the Betsimisaraka Escarpment. The Mandrare, Mananara, and Ivondro rivers are located in this nation, and its largest port is Toamasina. Lake Alaotra is its largest lake, its highest peak is Maromokotro,": {
+    "guess": "Madagascar",
+    "confidence": [
+      [
+        "Mad",
+        -0.00030161935
+      ],
+      [
+        "agas",
+        0.0
+      ],
+      [
+        "car",
+        0.0
+      ]
+    ]
+  },
+  "The volcanic Ankaratra Massif lies in its center, and this nation's Great Cliff of Angavo is bordered by the Betsimisaraka Escarpment. The Mandrare, Mananara, and Ivondro rivers are located in this nation, and its largest port is Toamasina. Lake Alaotra is its largest lake, its highest peak is Maromokotro, and the coelacanth (SEEL-uh-canth) lives off its shores. This country's largest ethnic group": {
+    "guess": "Madagascar",
+    "confidence": [
+      [
+        "Mad",
+        -0.02178875
+      ],
+      [
+        "agas",
+        -1.8624639e-06
+      ],
+      [
+        "car",
+        -3.888926e-06
+      ]
+    ]
+  },
+  "The volcanic Ankaratra Massif lies in its center, and this nation's Great Cliff of Angavo is bordered by the Betsimisaraka Escarpment. The Mandrare, Mananara, and Ivondro rivers are located in this nation, and its largest port is Toamasina. Lake Alaotra is its largest lake, its highest peak is Maromokotro, and the coelacanth (SEEL-uh-canth) lives off its shores. This country's largest ethnic group is the Merina, and this former colony of France is located on the east of the Mozambique Channel. For": {
+    "guess": "Madagascar",
+    "confidence": [
+      [
+        "Mad",
+        -0.0025478392
+      ],
+      [
+        "agas",
+        0.0
+      ],
+      [
+        "car",
+        0.0
+      ]
+    ]
+  },
+  "The volcanic Ankaratra Massif lies in its center, and this nation's Great Cliff of Angavo is bordered by the Betsimisaraka Escarpment. The Mandrare, Mananara, and Ivondro rivers are located in this nation, and its largest port is Toamasina. Lake Alaotra is its largest lake, its highest peak is Maromokotro, and the coelacanth (SEEL-uh-canth) lives off its shores. This country's largest ethnic group is the Merina, and this former colony of France is located on the east of the Mozambique Channel. For 10 points, name this African island nation, with its capital at Antananarivo.": {
+    "guess": "Madagascar",
+    "confidence": [
+      [
+        "Mad",
+        -0.016126806
+      ],
+      [
+        "agas",
+        -1.9361265e-07
+      ],
+      [
+        "car",
+        0.0
+      ]
+    ]
+  }
+}

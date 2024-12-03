@@ -1,0 +1,91 @@
+{
+  "Eosinophilic granuloma and Letterer-Siwe disease are subtypes of histiocytosis X, which is characterized": {
+    "guess": "Langerhans cell histiocytosis",
+    "confidence": [
+      [
+        "L",
+        -0.07015239
+      ],
+      [
+        "anger",
+        -6.704273e-07
+      ],
+      [
+        "h",
+        0.0
+      ],
+      [
+        "ans",
+        -1.9361265e-07
+      ],
+      [
+        " cell",
+        -0.0046517923
+      ],
+      [
+        " hist",
+        -7.703444e-06
+      ],
+      [
+        "ioc",
+        0.0
+      ],
+      [
+        "yt",
+        0.0
+      ],
+      [
+        "osis",
+        0.0
+      ]
+    ]
+  },
+  "Eosinophilic granuloma and Letterer-Siwe disease are subtypes of histiocytosis X, which is characterized by an excess of Birbeck granules in a cell type native to this part of the body.  Another cell type": {
+    "guess": "Bone",
+    "confidence": [
+      [
+        "Bone",
+        -0.028434541
+      ]
+    ]
+  },
+  "Eosinophilic granuloma and Letterer-Siwe disease are subtypes of histiocytosis X, which is characterized by an excess of Birbeck granules in a cell type native to this part of the body.  Another cell type here is a part of a disk receptor and are attached to slowly adapting mechanorecptors. Containing": {
+    "guess": "Skin",
+    "confidence": [
+      [
+        "Skin",
+        -0.23091124
+      ]
+    ]
+  },
+  "Eosinophilic granuloma and Letterer-Siwe disease are subtypes of histiocytosis X, which is characterized by an excess of Birbeck granules in a cell type native to this part of the body.  Another cell type here is a part of a disk receptor and are attached to slowly adapting mechanorecptors. Containing the Langerhans and Merkel cells, the Malphigian layer refers to the basal and spinosum sublayers of": {
+    "guess": "Skin",
+    "confidence": [
+      [
+        "Skin",
+        -0.09751832
+      ]
+    ]
+  },
+  "Eosinophilic granuloma and Letterer-Siwe disease are subtypes of histiocytosis X, which is characterized by an excess of Birbeck granules in a cell type native to this part of the body.  Another cell type here is a part of a disk receptor and are attached to slowly adapting mechanorecptors. Containing the Langerhans and Merkel cells, the Malphigian layer refers to the basal and spinosum sublayers of it. Consisting primarily of keratinocytes, for 10 points, name this outermost layer of the skin.": {
+    "guess": "Epidermis",
+    "confidence": [
+      [
+        "E",
+        -0.026781023
+      ],
+      [
+        "pid",
+        0.0
+      ],
+      [
+        "erm",
+        0.0
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  }
+}

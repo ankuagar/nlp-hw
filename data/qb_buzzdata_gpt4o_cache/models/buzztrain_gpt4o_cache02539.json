@@ -1,0 +1,76 @@
+{
+  "G protein-coupled receptors pass through the cell membrane this number of times. Hydrazine contains hydrogen": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.07903795
+      ]
+    ]
+  },
+  "G protein-coupled receptors pass through the cell membrane this number of times. Hydrazine contains hydrogen and the element with this atomic number. Humans have this number of cervical vertebrae, and": {
+    "guess": "Seven",
+    "confidence": [
+      [
+        "Seven",
+        -0.0839518
+      ]
+    ]
+  },
+  "G protein-coupled receptors pass through the cell membrane this number of times. Hydrazine contains hydrogen and the element with this atomic number. Humans have this number of cervical vertebrae, and there are this number of SI base units. A right triangle with legs of this number and twenty-four has": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5409827
+      ]
+    ]
+  },
+  "G protein-coupled receptors pass through the cell membrane this number of times. Hydrazine contains hydrogen and the element with this atomic number. Humans have this number of cervical vertebrae, and there are this number of SI base units. A right triangle with legs of this number and twenty-four has a hypotenuse of twenty-five. George Miller posited people remember this number of chunks, plus or": {
+    "guess": "Seven",
+    "confidence": [
+      [
+        "Seven",
+        -0.030156212
+      ]
+    ]
+  },
+  "G protein-coupled receptors pass through the cell membrane this number of times. Hydrazine contains hydrogen and the element with this atomic number. Humans have this number of cervical vertebrae, and there are this number of SI base units. A right triangle with legs of this number and twenty-four has a hypotenuse of twenty-five. George Miller posited people remember this number of chunks, plus or minus two, in their short term memory. A problem proved impossible by Euler involved crossing this number": {
+    "guess": "Seven Bridges of K\u00f6nigsberg",
+    "confidence": [
+      [
+        "Seven",
+        -0.03877053
+      ],
+      [
+        " Bridges",
+        -0.007647564
+      ],
+      [
+        " of",
+        -2.8160932e-06
+      ],
+      [
+        " K\u00f6n",
+        -0.0006944431
+      ],
+      [
+        "igs",
+        0.0
+      ],
+      [
+        "berg",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "G protein-coupled receptors pass through the cell membrane this number of times. Hydrazine contains hydrogen and the element with this atomic number. Humans have this number of cervical vertebrae, and there are this number of SI base units. A right triangle with legs of this number and twenty-four has a hypotenuse of twenty-five. George Miller posited people remember this number of chunks, plus or minus two, in their short term memory. A problem proved impossible by Euler involved crossing this number of bridges. For 10 points, name this number of sides on a heptagon.": {
+    "guess": "7",
+    "confidence": [
+      [
+        "7",
+        -0.6990355
+      ]
+    ]
+  }
+}

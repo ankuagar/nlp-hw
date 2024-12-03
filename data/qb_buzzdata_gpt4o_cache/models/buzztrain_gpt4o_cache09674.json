@@ -1,0 +1,104 @@
+{
+  "Zeckendorf representation describes integers as the sum of these, and they can be found by Binet's formula.": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -1.0087517e-05
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -0.00071088225
+      ]
+    ]
+  },
+  "Zeckendorf representation describes integers as the sum of these, and they can be found by Binet's formula. \"z over the quantity 1 minus z minus z squared\" is their generating function, and they are a": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -0.00672011
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -7.743759e-05
+      ]
+    ]
+  },
+  "Zeckendorf representation describes integers as the sum of these, and they can be found by Binet's formula. \"z over the quantity 1 minus z minus z squared\" is their generating function, and they are a case of the Lucas sequence. Euclid's algorithm is slowest for these since their ratio is given by a": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -7.576874e-05
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -1.7716551e-05
+      ]
+    ]
+  },
+  "Zeckendorf representation describes integers as the sum of these, and they can be found by Binet's formula. \"z over the quantity 1 minus z minus z squared\" is their generating function, and they are a case of the Lucas sequence. Euclid's algorithm is slowest for these since their ratio is given by a continued fraction with all 1's, which converges to the golden ratio at infinity. They give the number": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -9.674858e-05
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "Zeckendorf representation describes integers as the sum of these, and they can be found by Binet's formula. \"z over the quantity 1 minus z minus z squared\" is their generating function, and they are a case of the Lucas sequence. Euclid's algorithm is slowest for these since their ratio is given by a continued fraction with all 1's, which converges to the golden ratio at infinity. They give the number of ways to tile a 2 by n strip and model reproducing rabbits. For 10 points, name these numbers equal": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -4.5491004e-05
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -0.00020497083
+      ]
+    ]
+  },
+  "Zeckendorf representation describes integers as the sum of these, and they can be found by Binet's formula. \"z over the quantity 1 minus z minus z squared\" is their generating function, and they are a case of the Lucas sequence. Euclid's algorithm is slowest for these since their ratio is given by a continued fraction with all 1's, which converges to the golden ratio at infinity. They give the number of ways to tile a 2 by n strip and model reproducing rabbits. For 10 points, name these numbers equal to the sum of the two previous ones, beginning 1, 1, 2, 3, 5, 8, 13, 21, 34, etc.": {
+    "guess": "Fibonacci number",
+    "confidence": [
+      [
+        "F",
+        -0.00015908109
+      ],
+      [
+        "ibonacci",
+        0.0
+      ],
+      [
+        " number",
+        -1.0325924e-05
+      ]
+    ]
+  }
+}

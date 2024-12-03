@@ -1,0 +1,149 @@
+{
+  "Sutter Green is named after one member of this society, and one of its leaders, John Kelly, was a trustee": {
+    "guess": "Tammany Hall",
+    "confidence": [
+      [
+        "T",
+        -0.026429065
+      ],
+      [
+        "amm",
+        -0.00026193185
+      ],
+      [
+        "any",
+        0.0
+      ],
+      [
+        " Hall",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Sutter Green is named after one member of this society, and one of its leaders, John Kelly, was a trustee of the savings bank located across from this society's headquarters. William Leggett led the Locofocos": {
+    "guess": "Tammany Hall",
+    "confidence": [
+      [
+        "T",
+        -0.010023092
+      ],
+      [
+        "amm",
+        0.0
+      ],
+      [
+        "any",
+        0.0
+      ],
+      [
+        " Hall",
+        -1.27099975e-05
+      ]
+    ]
+  },
+  "Sutter Green is named after one member of this society, and one of its leaders, John Kelly, was a trustee of the savings bank located across from this society's headquarters. William Leggett led the Locofocos who opposed this organization, and its leaders included Charles Francis Murray and its founder,": {
+    "guess": "Tammany Hall",
+    "confidence": [
+      [
+        "T",
+        -0.23101373
+      ],
+      [
+        "amm",
+        0.0
+      ],
+      [
+        "any",
+        0.0
+      ],
+      [
+        " Hall",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "Sutter Green is named after one member of this society, and one of its leaders, John Kelly, was a trustee of the savings bank located across from this society's headquarters. William Leggett led the Locofocos who opposed this organization, and its leaders included Charles Francis Murray and its founder, William Mooney. In political cartoons, this group was often represented as a tiger, and one of its": {
+    "guess": "Tammany Hall",
+    "confidence": [
+      [
+        "T",
+        -0.00046391605
+      ],
+      [
+        "amm",
+        0.0
+      ],
+      [
+        "any",
+        0.0
+      ],
+      [
+        " Hall",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Sutter Green is named after one member of this society, and one of its leaders, John Kelly, was a trustee of the savings bank located across from this society's headquarters. William Leggett led the Locofocos who opposed this organization, and its leaders included Charles Francis Murray and its founder, William Mooney. In political cartoons, this group was often represented as a tiger, and one of its leaders was represented as a man with a moneybag in place of his head by cartoonist Thomas Nast.": {
+    "guess": "Tammany Hall",
+    "confidence": [
+      [
+        "T",
+        -0.0007593614
+      ],
+      [
+        "amm",
+        0.0
+      ],
+      [
+        "any",
+        0.0
+      ],
+      [
+        " Hall",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Sutter Green is named after one member of this society, and one of its leaders, John Kelly, was a trustee of the savings bank located across from this society's headquarters. William Leggett led the Locofocos who opposed this organization, and its leaders included Charles Francis Murray and its founder, William Mooney. In political cartoons, this group was often represented as a tiger, and one of its leaders was represented as a man with a moneybag in place of his head by cartoonist Thomas Nast. For 10 points, name this Democratic Party political machine which heavily influenced New York politics": {
+    "guess": "Tammany Hall",
+    "confidence": [
+      [
+        "T",
+        -4.4179764e-05
+      ],
+      [
+        "amm",
+        0.0
+      ],
+      [
+        "any",
+        0.0
+      ],
+      [
+        " Hall",
+        0.0
+      ]
+    ]
+  },
+  "Sutter Green is named after one member of this society, and one of its leaders, John Kelly, was a trustee of the savings bank located across from this society's headquarters. William Leggett led the Locofocos who opposed this organization, and its leaders included Charles Francis Murray and its founder, William Mooney. In political cartoons, this group was often represented as a tiger, and one of its leaders was represented as a man with a moneybag in place of his head by cartoonist Thomas Nast. For 10 points, name this Democratic Party political machine which heavily influenced New York politics under the leadership of bosses like William Tweed.": {
+    "guess": "Tammany Hall",
+    "confidence": [
+      [
+        "T",
+        -5.6769813e-06
+      ],
+      [
+        "amm",
+        0.0
+      ],
+      [
+        "any",
+        0.0
+      ],
+      [
+        " Hall",
+        -4.3202e-07
+      ]
+    ]
+  }
+}

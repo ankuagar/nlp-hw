@@ -1,0 +1,1187 @@
+{
+  "It often arises near transverse homoclinic points, as in the Smale horseshoe. A Poincar?section or first-return": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7390465
+      ]
+    ]
+  },
+  "It often arises near transverse homoclinic points, as in the Smale horseshoe. A Poincar?section or first-return map for this type of dynamics will exhibit a fractal structure. In examples such as the logistic": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.3407101
+      ]
+    ]
+  },
+  "It often arises near transverse homoclinic points, as in the Smale horseshoe. A Poincar?section or first-return map for this type of dynamics will exhibit a fractal structure. In examples such as the logistic map, as a parameter is increased a sequence of period doubling bifurcations characterized by": {
+    "guess": "Period-doubling bifurcation",
+    "confidence": [
+      [
+        "Period",
+        -0.8321833
+      ],
+      [
+        "-d",
+        -0.018255886
+      ],
+      [
+        "ou",
+        -5.5122365e-07
+      ],
+      [
+        "bling",
+        -6.704273e-07
+      ],
+      [
+        " bif",
+        -0.045503296
+      ],
+      [
+        "ur",
+        -1.147242e-06
+      ],
+      [
+        "cation",
+        -0.0059399367
+      ]
+    ]
+  },
+  "It often arises near transverse homoclinic points, as in the Smale horseshoe. A Poincar?section or first-return map for this type of dynamics will exhibit a fractal structure. In examples such as the logistic map, as a parameter is increased a sequence of period doubling bifurcations characterized by the Feigenbaum constant leads to its onset. It is characterized by positive Lyapunov exponents, meaning": {
+    "guess": "CHAOS",
+    "confidence": [
+      [
+        "CHA",
+        -0.02687062
+      ],
+      [
+        "OS",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "It often arises near transverse homoclinic points, as in the Smale horseshoe. A Poincar?section or first-return map for this type of dynamics will exhibit a fractal structure. In examples such as the logistic map, as a parameter is increased a sequence of period doubling bifurcations characterized by the Feigenbaum constant leads to its onset. It is characterized by positive Lyapunov exponents, meaning that small errors in initial data grow quickly and make practical long-term predictions impossible.": {
+    "guess": "CHAOS",
+    "confidence": [
+      [
+        "CHA",
+        -0.024886163
+      ],
+      [
+        "OS",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "It often arises near transverse homoclinic points, as in the Smale horseshoe. A Poincar?section or first-return map for this type of dynamics will exhibit a fractal structure. In examples such as the logistic map, as a parameter is increased a sequence of period doubling bifurcations characterized by the Feigenbaum constant leads to its onset. It is characterized by positive Lyapunov exponents, meaning that small errors in initial data grow quickly and make practical long-term predictions impossible. Devaney specified three requirements for it: topological transitivity, dense periodic orbits, and": {
+    "guess": "CHAOS",
+    "confidence": [
+      [
+        "CHA",
+        -0.38932192
+      ],
+      [
+        "OS",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "It often arises near transverse homoclinic points, as in the Smale horseshoe. A Poincar?section or first-return map for this type of dynamics will exhibit a fractal structure. In examples such as the logistic map, as a parameter is increased a sequence of period doubling bifurcations characterized by the Feigenbaum constant leads to its onset. It is characterized by positive Lyapunov exponents, meaning that small errors in initial data grow quickly and make practical long-term predictions impossible. Devaney specified three requirements for it: topological transitivity, dense periodic orbits, and sensitivity to initial conditions. For 10 points, what is this physical phenomenon, exemplified by": {
+    "guess": "Chaos theory",
+    "confidence": [
+      [
+        "Chaos",
+        -0.0067275646
+      ],
+      [
+        " theory",
+        -0.73052573
+      ]
+    ]
+  },
+  "It often arises near transverse homoclinic points, as in the Smale horseshoe. A Poincar?section or first-return map for this type of dynamics will exhibit a fractal structure. In examples such as the logistic map, as a parameter is increased a sequence of period doubling bifurcations characterized by the Feigenbaum constant leads to its onset. It is characterized by positive Lyapunov exponents, meaning that small errors in initial data grow quickly and make practical long-term predictions impossible. Devaney specified three requirements for it: topological transitivity, dense periodic orbits, and sensitivity to initial conditions. For 10 points, what is this physical phenomenon, exemplified by the weather, in which a deterministic system exhibits apparently random behavior?": {
+    "guess": "Chaos theory",
+    "confidence": [
+      [
+        "Chaos",
+        -0.018940872
+      ],
+      [
+        " theory",
+        -0.011112309
+      ]
+    ]
+  },
+  "It often results in complete or partial racemization of the product.  It cannot take place in an aprotic": {
+    "guess": "SN1 reaction",
+    "confidence": [
+      [
+        "SN",
+        -0.542927
+      ],
+      [
+        "1",
+        -9.829823e-05
+      ],
+      [
+        " reaction",
+        -0.018269928
+      ]
+    ]
+  },
+  "It often results in complete or partial racemization of the product.  It cannot take place in an aprotic solvent, and it involves carbocation rearrangement.  Favored by the absence of a good nucleophile,": {
+    "guess": "SN1 reaction",
+    "confidence": [
+      [
+        "SN",
+        -0.3555194
+      ],
+      [
+        "1",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.00074292236
+      ]
+    ]
+  },
+  "It often results in complete or partial racemization of the product.  It cannot take place in an aprotic solvent, and it involves carbocation rearrangement.  Favored by the absence of a good nucleophile, it occurs most easily in the presence of tertiary alkyl halides.  FTP, name this reaction whose rate": {
+    "guess": "SN1 reaction",
+    "confidence": [
+      [
+        "SN",
+        -0.011708902
+      ],
+      [
+        "1",
+        0.0
+      ],
+      [
+        " reaction",
+        -2.9040899e-05
+      ]
+    ]
+  },
+  "It often results in complete or partial racemization of the product.  It cannot take place in an aprotic solvent, and it involves carbocation rearrangement.  Favored by the absence of a good nucleophile, it occurs most easily in the presence of tertiary alkyl halides.  FTP, name this reaction whose rate law is governed by the presence of only one species, a substitution reaction that is carried out": {
+    "guess": "SN1 reaction",
+    "confidence": [
+      [
+        "SN",
+        -0.030097913
+      ],
+      [
+        "1",
+        -3.6789137e-05
+      ],
+      [
+        " reaction",
+        -0.108562075
+      ]
+    ]
+  },
+  "It often results in complete or partial racemization of the product.  It cannot take place in an aprotic solvent, and it involves carbocation rearrangement.  Favored by the absence of a good nucleophile, it occurs most easily in the presence of tertiary alkyl halides.  FTP, name this reaction whose rate law is governed by the presence of only one species, a substitution reaction that is carried out in two distinct steps.": {
+    "guess": "SN1 reaction",
+    "confidence": [
+      [
+        "SN",
+        -0.031617194
+      ],
+      [
+        "1",
+        -2.2365493e-05
+      ],
+      [
+        " reaction",
+        -0.024139581
+      ]
+    ]
+  },
+  "Often a foot high when created, their hundred kilometer wavelengths produce interesting properties. ": {
+    "guess": "Tsunami",
+    "confidence": [
+      [
+        "T",
+        -0.00391015
+      ],
+      [
+        "sun",
+        -9.829823e-05
+      ],
+      [
+        "ami",
+        -0.0011703447
+      ]
+    ]
+  },
+  "Often a foot high when created, their hundred kilometer wavelengths produce interesting properties.  Since their frequencies are constant, their wavelengths sharply decrease and their amplitudes increase": {
+    "guess": "Tsunami",
+    "confidence": [
+      [
+        "T",
+        -0.002271582
+      ],
+      [
+        "sun",
+        -0.0002751598
+      ],
+      [
+        "ami",
+        -0.012509774
+      ]
+    ]
+  },
+  "Often a foot high when created, their hundred kilometer wavelengths produce interesting properties.  Since their frequencies are constant, their wavelengths sharply decrease and their amplitudes increase as their speed slows.  This occurs in shallow water, especially near coastlines where they can become": {
+    "guess": "Tsunami",
+    "confidence": [
+      [
+        "T",
+        -0.0041097463
+      ],
+      [
+        "sun",
+        -1.9816675e-06
+      ],
+      [
+        "ami",
+        -0.023245478
+      ]
+    ]
+  },
+  "Often a foot high when created, their hundred kilometer wavelengths produce interesting properties.  Since their frequencies are constant, their wavelengths sharply decrease and their amplitudes increase as their speed slows.  This occurs in shallow water, especially near coastlines where they can become 30 meters tall. For ten points, what oceanic phenomenon is usually caused by submarine earthquakes.": {
+    "guess": "Tsunami",
+    "confidence": [
+      [
+        "T",
+        -0.0011720099
+      ],
+      [
+        "sun",
+        0.0
+      ],
+      [
+        "ami",
+        -7.9418505e-06
+      ]
+    ]
+  },
+  "They are often represented exponentially in phasor form, and every point in the Argand plane is one of": {
+    "guess": "Complex Numbers",
+    "confidence": [
+      [
+        "Complex",
+        -0.010483271
+      ],
+      [
+        " Numbers",
+        -0.05968715
+      ]
+    ]
+  },
+  "They are often represented exponentially in phasor form, and every point in the Argand plane is one of these. One can raise them to the nth power using Demoivre's theorem, and like vectors, they are sometimes": {
+    "guess": "Complex number",
+    "confidence": [
+      [
+        "Complex",
+        -0.00055494
+      ],
+      [
+        " number",
+        -0.12729847
+      ]
+    ]
+  },
+  "They are often represented exponentially in phasor form, and every point in the Argand plane is one of these. One can raise them to the nth power using Demoivre's theorem, and like vectors, they are sometimes represented using polar coordinates, in the form cis theta. Often represented as A plus B I,": {
+    "guess": "Complex number",
+    "confidence": [
+      [
+        "Complex",
+        -0.00033665422
+      ],
+      [
+        " number",
+        -0.0010790145
+      ]
+    ]
+  },
+  "They are often represented exponentially in phasor form, and every point in the Argand plane is one of these. One can raise them to the nth power using Demoivre's theorem, and like vectors, they are sometimes represented using polar coordinates, in the form cis theta. Often represented as A plus B I, for ten points, name this set of numbers with real and imaginary components.": {
+    "guess": "Complex number",
+    "confidence": [
+      [
+        "Complex",
+        -0.0059383977
+      ],
+      [
+        " number",
+        -0.16023104
+      ]
+    ]
+  },
+  "This man is often credited with slaying the husband of Laodameia, after which she \"interacted with\" a": {
+    "guess": "Protesilaus",
+    "confidence": [
+      [
+        "Pro",
+        -0.06337466
+      ],
+      [
+        "tes",
+        -1.9361265e-07
+      ],
+      [
+        "ila",
+        -6.704273e-07
+      ],
+      [
+        "us",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "This man is often credited with slaying the husband of Laodameia, after which she \"interacted with\" a statue of that dead husband. This man married a daughter of Eetion and was the father of Scamandrius.": {
+    "guess": "Hector",
+    "confidence": [
+      [
+        "H",
+        -0.0004324573
+      ],
+      [
+        "ector",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "This man is often credited with slaying the husband of Laodameia, after which she \"interacted with\" a statue of that dead husband. This man married a daughter of Eetion and was the father of Scamandrius. This man won a duel with Protiselaus, but he exchanged his sword for a girdle after an inconclusive": {
+    "guess": "Hector",
+    "confidence": [
+      [
+        "H",
+        -0.002617159
+      ],
+      [
+        "ector",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "This man is often credited with slaying the husband of Laodameia, after which she \"interacted with\" a statue of that dead husband. This man married a daughter of Eetion and was the father of Scamandrius. This man won a duel with Protiselaus, but he exchanged his sword for a girdle after an inconclusive duel against the king of Salamis. He was the only one of the Nine Worthies from pagan mythology.": {
+    "guess": "Hector",
+    "confidence": [
+      [
+        "H",
+        -0.0016435229
+      ],
+      [
+        "ector",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "This man is often credited with slaying the husband of Laodameia, after which she \"interacted with\" a statue of that dead husband. This man married a daughter of Eetion and was the father of Scamandrius. This man won a duel with Protiselaus, but he exchanged his sword for a girdle after an inconclusive duel against the king of Salamis. He was the only one of the Nine Worthies from pagan mythology. This man's father negotiated for the ransom of his corpse after this man's corpse was dragged around": {
+    "guess": "Hector",
+    "confidence": [
+      [
+        "H",
+        -0.0014824859
+      ],
+      [
+        "ector",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "This man is often credited with slaying the husband of Laodameia, after which she \"interacted with\" a statue of that dead husband. This man married a daughter of Eetion and was the father of Scamandrius. This man won a duel with Protiselaus, but he exchanged his sword for a girdle after an inconclusive duel against the king of Salamis. He was the only one of the Nine Worthies from pagan mythology. This man's father negotiated for the ransom of his corpse after this man's corpse was dragged around the walls of a city, from which his son Astyanax was later thrown. For 10 points, name this Trojan": {
+    "guess": "Hector",
+    "confidence": [
+      [
+        "H",
+        -0.0041448805
+      ],
+      [
+        "ector",
+        -1.6882126e-05
+      ]
+    ]
+  },
+  "This man is often credited with slaying the husband of Laodameia, after which she \"interacted with\" a statue of that dead husband. This man married a daughter of Eetion and was the father of Scamandrius. This man won a duel with Protiselaus, but he exchanged his sword for a girdle after an inconclusive duel against the king of Salamis. He was the only one of the Nine Worthies from pagan mythology. This man's father negotiated for the ransom of his corpse after this man's corpse was dragged around the walls of a city, from which his son Astyanax was later thrown. For 10 points, name this Trojan prince who was Andromache's husband and the eldest son of Priam and Hecuba.": {
+    "guess": "Hector",
+    "confidence": [
+      [
+        "H",
+        -0.20171446
+      ],
+      [
+        "ector",
+        -1.378283e-05
+      ]
+    ]
+  },
+  "They are often associated with light precipitation and the formation of stratus clouds and are often": {
+    "guess": "Drizzle",
+    "confidence": [
+      [
+        "Dr",
+        -0.3918401
+      ],
+      [
+        "izzle",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "They are often associated with light precipitation and the formation of stratus clouds and are often formed around low pressure systems, especially as those systems become increasingly weaker.* They are": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.116052695
+      ]
+    ]
+  },
+  "They are often associated with light precipitation and the formation of stratus clouds and are often formed around low pressure systems, especially as those systems become increasingly weaker.* They are known as Trowals and are depicted on weather maps as lines with closely placed cold and warm markers": {
+    "guess": "Trowal",
+    "confidence": [
+      [
+        "T",
+        -0.7283413
+      ],
+      [
+        "row",
+        -0.07479552
+      ],
+      [
+        "al",
+        -0.00021224226
+      ]
+    ]
+  },
+  "They are often associated with light precipitation and the formation of stratus clouds and are often formed around low pressure systems, especially as those systems become increasingly weaker.* They are known as Trowals and are depicted on weather maps as lines with closely placed cold and warm markers pointing in the direction of travel. FTP, what are these weather fronts which form when a quick-moving": {
+    "guess": "Occluded front",
+    "confidence": [
+      [
+        "Oc",
+        -0.010041504
+      ],
+      [
+        "cluded",
+        -0.0034729594
+      ],
+      [
+        " front",
+        -0.2546185
+      ]
+    ]
+  },
+  "They are often associated with light precipitation and the formation of stratus clouds and are often formed around low pressure systems, especially as those systems become increasingly weaker.* They are known as Trowals and are depicted on weather maps as lines with closely placed cold and warm markers pointing in the direction of travel. FTP, what are these weather fronts which form when a quick-moving cold front forces its way beneath a slow-moving warm front, pushing it aloft?": {
+    "guess": "Occluded front",
+    "confidence": [
+      [
+        "Oc",
+        -0.021504685
+      ],
+      [
+        "cluded",
+        -0.0005985465
+      ],
+      [
+        " front",
+        -0.05783396
+      ]
+    ]
+  },
+  "He is often depicted in art as a prince consorting with his lover Radha or as a small child caught stealing": {
+    "guess": "Krishna",
+    "confidence": [
+      [
+        "Kr",
+        -0.0034285316
+      ],
+      [
+        "ishna",
+        0.0
+      ]
+    ]
+  },
+  "He is often depicted in art as a prince consorting with his lover Radha or as a small child caught stealing  butter. He was born after Brahma beseeched Vishnu to relieve the world of the demon-king Kamsa.": {
+    "guess": "Krishna",
+    "confidence": [
+      [
+        "Kr",
+        -3.9292416e-05
+      ],
+      [
+        "ishna",
+        0.0
+      ]
+    ]
+  },
+  "He is often depicted in art as a prince consorting with his lover Radha or as a small child caught stealing  butter. He was born after Brahma beseeched Vishnu to relieve the world of the demon-king Kamsa. After hiding  among the shepherds, he achieves his destiny and kills Kamsa becoming King of the": {
+    "guess": "Krishna",
+    "confidence": [
+      [
+        "Kr",
+        -0.00418311
+      ],
+      [
+        "ishna",
+        0.0
+      ]
+    ]
+  },
+  "He is often depicted in art as a prince consorting with his lover Radha or as a small child caught stealing  butter. He was born after Brahma beseeched Vishnu to relieve the world of the demon-king Kamsa. After hiding  among the shepherds, he achieves his destiny and kills Kamsa becoming King of the Yadavas. FTP name this  blue, flute-playing deity whose discourse with Arjuna on the battlefield of": {
+    "guess": "Krishna",
+    "confidence": [
+      [
+        "Kr",
+        -0.034808278
+      ],
+      [
+        "ishna",
+        0.0
+      ]
+    ]
+  },
+  "He is often depicted in art as a prince consorting with his lover Radha or as a small child caught stealing  butter. He was born after Brahma beseeched Vishnu to relieve the world of the demon-king Kamsa. After hiding  among the shepherds, he achieves his destiny and kills Kamsa becoming King of the Yadavas. FTP name this  blue, flute-playing deity whose discourse with Arjuna on the battlefield of Kurukshetra forms the basis of the  Bhagavad Gita, the eighth avatar of Vishnu.": {
+    "guess": "Krishna",
+    "confidence": [
+      [
+        "Kr",
+        -0.0009759014
+      ],
+      [
+        "ishna",
+        0.0
+      ]
+    ]
+  },
+  "This often masks the Rashba effect in electron spin interferometers, where it causes oscillatory conduc-": {
+    "guess": "Spin\u2013orbit interaction",
+    "confidence": [
+      [
+        "Spin",
+        -1.0062168
+      ],
+      [
+        "\u2013",
+        -0.53145784
+      ],
+      [
+        "orbit",
+        -0.0015198609
+      ],
+      [
+        " interaction",
+        -0.023282403
+      ]
+    ]
+  },
+  "This often masks the Rashba effect in electron spin interferometers, where it causes oscillatory conduc-  tance, and the analogous effect for neutron-nuclei interactions is known as size resonance. This": {
+    "guess": "Aharonov-Bohm effect",
+    "confidence": [
+      [
+        "A",
+        -0.004103808
+      ],
+      [
+        "har",
+        -9.372295e-06
+      ],
+      [
+        "on",
+        -1.0206721e-05
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        "-B",
+        -0.20216148
+      ],
+      [
+        "oh",
+        -5.5122365e-07
+      ],
+      [
+        "m",
+        0.0
+      ],
+      [
+        " effect",
+        -0.00071469677
+      ]
+    ]
+  },
+  "This often masks the Rashba effect in electron spin interferometers, where it causes oscillatory conduc-  tance, and the analogous effect for neutron-nuclei interactions is known as size resonance. This is directly analogous to the transparency of a transmission line nonuniformity to a signal whose wavelength": {
+    "guess": "Friedel oscillations",
+    "confidence": [
+      [
+        "F",
+        -0.41735712
+      ],
+      [
+        "ried",
+        -0.04309967
+      ],
+      [
+        "el",
+        -1.504853e-06
+      ],
+      [
+        " oscill",
+        -0.0028292462
+      ],
+      [
+        "ations",
+        -0.029750485
+      ]
+    ]
+  },
+  "This often masks the Rashba effect in electron spin interferometers, where it causes oscillatory conduc-  tance, and the analogous effect for neutron-nuclei interactions is known as size resonance. This is directly analogous to the transparency of a transmission line nonuniformity to a signal whose wavelength is an integer multiple of the length of the nonuniformity, and it can be explained to first": {
+    "guess": "Friedel oscillations",
+    "confidence": [
+      [
+        "F",
+        -0.26574826
+      ],
+      [
+        "ried",
+        -0.14309666
+      ],
+      [
+        "el",
+        -4.3202e-07
+      ],
+      [
+        " oscill",
+        -0.0052688573
+      ],
+      [
+        "ations",
+        -0.018149942
+      ]
+    ]
+  },
+  "This often masks the Rashba effect in electron spin interferometers, where it causes oscillatory conduc-  tance, and the analogous effect for neutron-nuclei interactions is known as size resonance. This is directly analogous to the transparency of a transmission line nonuniformity to a signal whose wavelength is an integer multiple of the length of the nonuniformity, and it can be explained to first order by examining the  probability current transmission coefficient for a rectangular potential well.": {
+    "guess": "Fano resonance",
+    "confidence": [
+      [
+        "F",
+        -0.2651447
+      ],
+      [
+        "ano",
+        -0.048738044
+      ],
+      [
+        " resonance",
+        -0.030802501
+      ]
+    ]
+  },
+  "This often masks the Rashba effect in electron spin interferometers, where it causes oscillatory conduc-  tance, and the analogous effect for neutron-nuclei interactions is known as size resonance. This is directly analogous to the transparency of a transmission line nonuniformity to a signal whose wavelength is an integer multiple of the length of the nonuniformity, and it can be explained to first order by examining the  probability current transmission coefficient for a rectangular potential well. For ten points, name the effect that may best be defined as the transparency of noble gas atoms": {
+    "guess": "Ramsauer\u2013Townsend effect",
+    "confidence": [
+      [
+        "R",
+        -0.59506947
+      ],
+      [
+        "ams",
+        0.0
+      ],
+      [
+        "auer",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.20265901
+      ],
+      [
+        "Town",
+        -3.650519e-06
+      ],
+      [
+        "send",
+        0.0
+      ],
+      [
+        " effect",
+        -8.657073e-06
+      ]
+    ]
+  },
+  "This often masks the Rashba effect in electron spin interferometers, where it causes oscillatory conduc-  tance, and the analogous effect for neutron-nuclei interactions is known as size resonance. This is directly analogous to the transparency of a transmission line nonuniformity to a signal whose wavelength is an integer multiple of the length of the nonuniformity, and it can be explained to first order by examining the  probability current transmission coefficient for a rectangular potential well. For ten points, name the effect that may best be defined as the transparency of noble gas atoms to low energy electrons and that is greatest in argon.": {
+    "guess": "Ramsauer\u2013Townsend effect",
+    "confidence": [
+      [
+        "R",
+        -0.07027985
+      ],
+      [
+        "ams",
+        0.0
+      ],
+      [
+        "auer",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.20216711
+      ],
+      [
+        "Town",
+        -2.9352968e-06
+      ],
+      [
+        "send",
+        0.0
+      ],
+      [
+        " effect",
+        -6.1537958e-06
+      ]
+    ]
+  },
+  "This is often said to be a language that \"makes it easy to shoot yourself in the foot.\" There are many": {
+    "guess": "C (programming language)",
+    "confidence": [
+      [
+        "C",
+        -0.000501324
+      ],
+      [
+        " (",
+        -0.40319368
+      ],
+      [
+        "program",
+        -3.1782583e-05
+      ],
+      [
+        "ming",
+        0.0
+      ],
+      [
+        " language",
+        -2.9352968e-06
+      ],
+      [
+        ")",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "This is often said to be a language that \"makes it easy to shoot yourself in the foot.\" There are many versions of it, but the most recent is the 99 implementation. It stemmed from a stripped-down version": {
+    "guess": "C++",
+    "confidence": [
+      [
+        "C",
+        -0.038568668
+      ],
+      [
+        "++",
+        -0.12516023
+      ]
+    ]
+  },
+  "This is often said to be a language that \"makes it easy to shoot yourself in the foot.\" There are many versions of it, but the most recent is the 99 implementation. It stemmed from a stripped-down version of BCPL and was developed for a PDP-11 machine. Known as a weakly-typed language, it lacks support": {
+    "guess": "C programming language",
+    "confidence": [
+      [
+        "C",
+        -0.12845121
+      ],
+      [
+        " programming",
+        -1.0642235
+      ],
+      [
+        " language",
+        -4.7994283e-05
+      ]
+    ]
+  },
+  "This is often said to be a language that \"makes it easy to shoot yourself in the foot.\" There are many versions of it, but the most recent is the 99 implementation. It stemmed from a stripped-down version of BCPL and was developed for a PDP-11 machine. Known as a weakly-typed language, it lacks support for generic programming and exception handling. Thus, object-oriented practices are very difficult": {
+    "guess": "C programming language",
+    "confidence": [
+      [
+        "C",
+        -0.0053920574
+      ],
+      [
+        " programming",
+        -0.73911524
+      ],
+      [
+        " language",
+        -2.0696643e-05
+      ]
+    ]
+  },
+  "This is often said to be a language that \"makes it easy to shoot yourself in the foot.\" There are many versions of it, but the most recent is the 99 implementation. It stemmed from a stripped-down version of BCPL and was developed for a PDP-11 machine. Known as a weakly-typed language, it lacks support for generic programming and exception handling. Thus, object-oriented practices are very difficult to implement in this language. However, people still consider it to be fast, efficient, and versatile": {
+    "guess": "C",
+    "confidence": [
+      [
+        "C",
+        -0.0034607293
+      ]
+    ]
+  },
+  "This is often said to be a language that \"makes it easy to shoot yourself in the foot.\" There are many versions of it, but the most recent is the 99 implementation. It stemmed from a stripped-down version of BCPL and was developed for a PDP-11 machine. Known as a weakly-typed language, it lacks support for generic programming and exception handling. Thus, object-oriented practices are very difficult to implement in this language. However, people still consider it to be fast, efficient, and versatile due to its low-level capabilities, though it still has many security vulnerabilities, most notably": {
+    "guess": "C (programming language)",
+    "confidence": [
+      [
+        "C",
+        -0.041027106
+      ],
+      [
+        " (",
+        -0.32254735
+      ],
+      [
+        "program",
+        -1.569009e-05
+      ],
+      [
+        "ming",
+        0.0
+      ],
+      [
+        " language",
+        -8.299462e-06
+      ],
+      [
+        ")",
+        -0.00043436454
+      ]
+    ]
+  },
+  "This is often said to be a language that \"makes it easy to shoot yourself in the foot.\" There are many versions of it, but the most recent is the 99 implementation. It stemmed from a stripped-down version of BCPL and was developed for a PDP-11 machine. Known as a weakly-typed language, it lacks support for generic programming and exception handling. Thus, object-oriented practices are very difficult to implement in this language. However, people still consider it to be fast, efficient, and versatile due to its low-level capabilities, though it still has many security vulnerabilities, most notably its lack of bound-checking for arrays. FTP, name this programming language that was developed for": {
+    "guess": "C",
+    "confidence": [
+      [
+        "C",
+        -0.01015775
+      ]
+    ]
+  },
+  "This is often said to be a language that \"makes it easy to shoot yourself in the foot.\" There are many versions of it, but the most recent is the 99 implementation. It stemmed from a stripped-down version of BCPL and was developed for a PDP-11 machine. Known as a weakly-typed language, it lacks support for generic programming and exception handling. Thus, object-oriented practices are very difficult to implement in this language. However, people still consider it to be fast, efficient, and versatile due to its low-level capabilities, though it still has many security vulnerabilities, most notably its lack of bound-checking for arrays. FTP, name this programming language that was developed for UNIX and has influenced the development of most modern programming languages.": {
+    "guess": "C",
+    "confidence": [
+      [
+        "C",
+        -0.00028016636
+      ]
+    ]
+  },
+  "One often-told tale is of his violent death in a gunfight in the Rocky Mountains. Born probably at Fort": {
+    "guess": "Jedediah Smith",
+    "confidence": [
+      [
+        "Jed",
+        -0.04738364
+      ],
+      [
+        "edia",
+        -2.1008714e-06
+      ],
+      [
+        "h",
+        0.0
+      ],
+      [
+        " Smith",
+        -5.2001665e-06
+      ]
+    ]
+  },
+  "One often-told tale is of his violent death in a gunfight in the Rocky Mountains. Born probably at Fort Pitt around 1770, he first appears in tales written in the 1820s. For ten points, who is this semi-legendary": {
+    "guess": "Hugh Glass",
+    "confidence": [
+      [
+        "H",
+        -0.22639638
+      ],
+      [
+        "ugh",
+        -5.7172965e-05
+      ],
+      [
+        " Glass",
+        -3.650519e-06
+      ]
+    ]
+  },
+  "One often-told tale is of his violent death in a gunfight in the Rocky Mountains. Born probably at Fort Pitt around 1770, he first appears in tales written in the 1820s. For ten points, who is this semi-legendary American folk hero, described as both a scout known for his marksmanship and a brawling": {
+    "guess": "Mike Fink",
+    "confidence": [
+      [
+        "Mike",
+        -0.3223516
+      ],
+      [
+        " F",
+        0.0
+      ],
+      [
+        "ink",
+        0.0
+      ]
+    ]
+  },
+  "One often-told tale is of his violent death in a gunfight in the Rocky Mountains. Born probably at Fort Pitt around 1770, he first appears in tales written in the 1820s. For ten points, who is this semi-legendary American folk hero, described as both a scout known for his marksmanship and a brawling keelboatman, a self-proclaimed half man, half alligator, and half snapping turtle who worked on the": {
+    "guess": "Mike Fink",
+    "confidence": [
+      [
+        "Mike",
+        -0.034062993
+      ],
+      [
+        " F",
+        0.0
+      ],
+      [
+        "ink",
+        0.0
+      ]
+    ]
+  },
+  "One often-told tale is of his violent death in a gunfight in the Rocky Mountains. Born probably at Fort Pitt around 1770, he first appears in tales written in the 1820s. For ten points, who is this semi-legendary American folk hero, described as both a scout known for his marksmanship and a brawling keelboatman, a self-proclaimed half man, half alligator, and half snapping turtle who worked on the Mississippi and Ohio Rivers?": {
+    "guess": "Mike Fink",
+    "confidence": [
+      [
+        "Mike",
+        -0.07975951
+      ],
+      [
+        " F",
+        0.0
+      ],
+      [
+        "ink",
+        0.0
+      ]
+    ]
+  },
+  "Often used for determing the internal energy of a system in an open container at constant pressure, this": {
+    "guess": "Enthalpy",
+    "confidence": [
+      [
+        "En",
+        -0.11039464
+      ],
+      [
+        "thal",
+        0.0
+      ],
+      [
+        "py",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Often used for determing the internal energy of a system in an open container at constant pressure, this concept is calculated by subtracting the product of temperature and energy change from the change": {
+    "guess": "Gibbs free energy",
+    "confidence": [
+      [
+        "G",
+        -0.037107587
+      ],
+      [
+        "ib",
+        -4.012684e-05
+      ],
+      [
+        "bs",
+        0.0
+      ],
+      [
+        " free",
+        -0.17979212
+      ],
+      [
+        " energy",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Often used for determing the internal energy of a system in an open container at constant pressure, this concept is calculated by subtracting the product of temperature and energy change from the change in enthalpy in a given system. The quantity of energy available for doing useful work is \u2013 for ten": {
+    "guess": "Gibbs free energy",
+    "confidence": [
+      [
+        "G",
+        -0.0018684254
+      ],
+      [
+        "ib",
+        -1.9027791e-05
+      ],
+      [
+        "bs",
+        0.0
+      ],
+      [
+        " free",
+        -0.25193495
+      ],
+      [
+        " energy",
+        0.0
+      ]
+    ]
+  },
+  "Often used for determing the internal energy of a system in an open container at constant pressure, this concept is calculated by subtracting the product of temperature and energy change from the change in enthalpy in a given system. The quantity of energy available for doing useful work is \u2013 for ten points \u2013 what \"free energy\" symbolized by the letter \"g\"?": {
+    "guess": "Gibbs free energy",
+    "confidence": [
+      [
+        "G",
+        -2.4584822e-06
+      ],
+      [
+        "ib",
+        -4.246537e-06
+      ],
+      [
+        "bs",
+        0.0
+      ],
+      [
+        " free",
+        -0.04859089
+      ],
+      [
+        " energy",
+        0.0
+      ]
+    ]
+  },
+  "They often contain Pitot tubes at various points for use as data-gathering probes. Examples include Germany's": {
+    "guess": "Wind tunnel",
+    "confidence": [
+      [
+        "Wind",
+        -0.5969833
+      ],
+      [
+        " tunnel",
+        -0.008644355
+      ]
+    ]
+  },
+  "They often contain Pitot tubes at various points for use as data-gathering probes. Examples include Germany's Heeresversuchsanstal and the Boundary Layer Laboratory at the University of Western Ontario.": {
+    "guess": "Wind tunnel",
+    "confidence": [
+      [
+        "Wind",
+        -0.0026063335
+      ],
+      [
+        " tunnel",
+        -0.00017112066
+      ]
+    ]
+  },
+  "They often contain Pitot tubes at various points for use as data-gathering probes. Examples include Germany's Heeresversuchsanstal and the Boundary Layer Laboratory at the University of Western Ontario. Frank Wenham is credited with inventing it in 1871, while George Cayley created its precursor, the": {
+    "guess": "Wind tunnel",
+    "confidence": [
+      [
+        "Wind",
+        -0.0002885106
+      ],
+      [
+        " tunnel",
+        -2.939851e-05
+      ]
+    ]
+  },
+  "They often contain Pitot tubes at various points for use as data-gathering probes. Examples include Germany's Heeresversuchsanstal and the Boundary Layer Laboratory at the University of Western Ontario. Frank Wenham is credited with inventing it in 1871, while George Cayley created its precursor, the \"Whirling Arm.\" With the help of Octave Chanute, the Wright Brothers developed a horizontal version": {
+    "guess": "Wind tunnel",
+    "confidence": [
+      [
+        "Wind",
+        -1.0280384e-06
+      ],
+      [
+        " tunnel",
+        -0.00033844227
+      ]
+    ]
+  },
+  "They often contain Pitot tubes at various points for use as data-gathering probes. Examples include Germany's Heeresversuchsanstal and the Boundary Layer Laboratory at the University of Western Ontario. Frank Wenham is credited with inventing it in 1871, while George Cayley created its precursor, the \"Whirling Arm.\" With the help of Octave Chanute, the Wright Brothers developed a horizontal version in 1901, a square box with cross-section of 16-by-16 inches. For 10 points, name this instrument that": {
+    "guess": "Wind tunnel",
+    "confidence": [
+      [
+        "Wind",
+        -0.00030412263
+      ],
+      [
+        " tunnel",
+        -0.018150413
+      ]
+    ]
+  },
+  "They often contain Pitot tubes at various points for use as data-gathering probes. Examples include Germany's Heeresversuchsanstal and the Boundary Layer Laboratory at the University of Western Ontario. Frank Wenham is credited with inventing it in 1871, while George Cayley created its precursor, the \"Whirling Arm.\" With the help of Octave Chanute, the Wright Brothers developed a horizontal version in 1901, a square box with cross-section of 16-by-16 inches. For 10 points, name this instrument that creates a large flow of air, used to test building materials and air vehicles.": {
+    "guess": "Wind tunnel",
+    "confidence": [
+      [
+        "Wind",
+        -1.962381e-05
+      ],
+      [
+        " tunnel",
+        -0.038042065
+      ]
+    ]
+  },
+  "It is often cited as a contributor to the moral hazard problem, in which people behave more recklessly": {
+    "guess": "Insurance",
+    "confidence": [
+      [
+        "Insurance",
+        -0.13037607
+      ]
+    ]
+  },
+  "It is often cited as a contributor to the moral hazard problem, in which people behave more recklessly without consequences. Its suppliers are also subject to adverse selection, as consumers with the greatest": {
+    "guess": "Insurance",
+    "confidence": [
+      [
+        "Insurance",
+        -0.0160617
+      ]
+    ]
+  },
+  "It is often cited as a contributor to the moral hazard problem, in which people behave more recklessly without consequences. Its suppliers are also subject to adverse selection, as consumers with the greatest liability are the most likely customers. Its economic definition can be supplied by government,": {
+    "guess": "Insurance",
+    "confidence": [
+      [
+        "Insurance",
+        -0.0025129968
+      ]
+    ]
+  },
+  "It is often cited as a contributor to the moral hazard problem, in which people behave more recklessly without consequences. Its suppliers are also subject to adverse selection, as consumers with the greatest liability are the most likely customers. Its economic definition can be supplied by government, in such forms as welfare and legal protection against creditors. For 10 points\u2014name this commodity": {
+    "guess": "Insurance",
+    "confidence": [
+      [
+        "Insurance",
+        -0.0010934271
+      ]
+    ]
+  },
+  "It is often cited as a contributor to the moral hazard problem, in which people behave more recklessly without consequences. Its suppliers are also subject to adverse selection, as consumers with the greatest liability are the most likely customers. Its economic definition can be supplied by government, in such forms as welfare and legal protection against creditors. For 10 points\u2014name this commodity which provides financial protection against risks in exchange for the payment of premiums.": {
+    "guess": "Insurance",
+    "confidence": [
+      [
+        "Insurance",
+        -1.8624639e-06
+      ]
+    ]
+  }
+}

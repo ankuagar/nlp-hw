@@ -1,0 +1,1641 @@
+{
+  "An ester modification of these is the Fries rearrangement, and it was first published in Comptes rendus": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.47732008
+      ],
+      [
+        ".",
+        -0.69317245
+      ]
+    ]
+  },
+  "An ester modification of these is the Fries rearrangement, and it was first published in Comptes rendus in 1884. One form of them is strongly inhibited by the presence of electron acceptors and carbocation": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7776252
+      ]
+    ]
+  },
+  "An ester modification of these is the Fries rearrangement, and it was first published in Comptes rendus in 1884. One form of them is strongly inhibited by the presence of electron acceptors and carbocation rearrangement decreases its useful yield. The reactivity of one of their constituents increases": {
+    "guess": "Phenols",
+    "confidence": [
+      [
+        "Phen",
+        -0.5374463
+      ],
+      [
+        "ols",
+        -0.48239183
+      ]
+    ]
+  },
+  "An ester modification of these is the Fries rearrangement, and it was first published in Comptes rendus in 1884. One form of them is strongly inhibited by the presence of electron acceptors and carbocation rearrangement decreases its useful yield. The reactivity of one of their constituents increases with the polarity of the C-X bond. Both forms are limited to fairly reactive arenas and use a Lewis": {
+    "guess": "Friedel-Crafts reaction",
+    "confidence": [
+      [
+        "F",
+        -0.09199095
+      ],
+      [
+        "ried",
+        -2.577686e-06
+      ],
+      [
+        "el",
+        -1.8624639e-06
+      ],
+      [
+        "-C",
+        -0.38687348
+      ],
+      [
+        "rafts",
+        -4.3202e-07
+      ],
+      [
+        " reaction",
+        -0.12973078
+      ]
+    ]
+  },
+  "An ester modification of these is the Fries rearrangement, and it was first published in Comptes rendus in 1884. One form of them is strongly inhibited by the presence of electron acceptors and carbocation rearrangement decreases its useful yield. The reactivity of one of their constituents increases with the polarity of the C-X bond. Both forms are limited to fairly reactive arenas and use a Lewis acid catalyst, typically aluminum tri-chloride. FTP, identify these electrophilic aromatic substitutions": {
+    "guess": "Friedel\u2013Crafts reaction",
+    "confidence": [
+      [
+        "F",
+        -0.043942522
+      ],
+      [
+        "ried",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.0067166747
+      ],
+      [
+        "Craft",
+        0.0
+      ],
+      [
+        "s",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.04402489
+      ]
+    ]
+  },
+  "An ester modification of these is the Fries rearrangement, and it was first published in Comptes rendus in 1884. One form of them is strongly inhibited by the presence of electron acceptors and carbocation rearrangement decreases its useful yield. The reactivity of one of their constituents increases with the polarity of the C-X bond. Both forms are limited to fairly reactive arenas and use a Lewis acid catalyst, typically aluminum tri-chloride. FTP, identify these electrophilic aromatic substitutions that synthesize either an acyl or an alkyl from benzene, named for their French and American discoverers.": {
+    "guess": "Friedel\u2013Crafts reaction",
+    "confidence": [
+      [
+        "F",
+        -1.3663626e-05
+      ],
+      [
+        "ried",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.00080474507
+      ],
+      [
+        "Craft",
+        0.0
+      ],
+      [
+        "s",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.0019289902
+      ]
+    ]
+  },
+  "Estranged from his corporate lawyer father and his mother, things have not been the same since his brother": {
+    "guess": "Cain and Abel",
+    "confidence": [
+      [
+        "Cain",
+        -1.1313852
+      ],
+      [
+        " and",
+        -0.1019933
+      ],
+      [
+        " Abel",
+        0.0
+      ]
+    ]
+  },
+  "Estranged from his corporate lawyer father and his mother, things have not been the same since his brother Allie died of leukemia.  His older brother D.B., is a writer in Hollywood but became a prostitute,": {
+    "guess": "Holden Caulfield",
+    "confidence": [
+      [
+        "Hold",
+        -0.043274235
+      ],
+      [
+        "en",
+        0.0
+      ],
+      [
+        " Ca",
+        0.0
+      ],
+      [
+        "ul",
+        0.0
+      ],
+      [
+        "field",
+        0.0
+      ]
+    ]
+  },
+  "Estranged from his corporate lawyer father and his mother, things have not been the same since his brother Allie died of leukemia.  His older brother D.B., is a writer in Hollywood but became a prostitute, and his younger sister Phoebe is ten.  He lives with roommate Stradlater who has been going out": {
+    "guess": "The Catcher in the Rye",
+    "confidence": [
+      [
+        "The",
+        -0.5180685
+      ],
+      [
+        " Catch",
+        -1.7597347e-05
+      ],
+      [
+        "er",
+        0.0
+      ],
+      [
+        " in",
+        -6.704273e-07
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Rye",
+        0.0
+      ]
+    ]
+  },
+  "Estranged from his corporate lawyer father and his mother, things have not been the same since his brother Allie died of leukemia.  His older brother D.B., is a writer in Hollywood but became a prostitute, and his younger sister Phoebe is ten.  He lives with roommate Stradlater who has been going out with his childhood friend Jane Galangher.  FTP, name this 16-year-old main character who returns home": {
+    "guess": "Holden Caulfield",
+    "confidence": [
+      [
+        "Hold",
+        -0.024070114
+      ],
+      [
+        "en",
+        0.0
+      ],
+      [
+        " Ca",
+        0.0
+      ],
+      [
+        "ul",
+        0.0
+      ],
+      [
+        "field",
+        0.0
+      ]
+    ]
+  },
+  "Estranged from his corporate lawyer father and his mother, things have not been the same since his brother Allie died of leukemia.  His older brother D.B., is a writer in Hollywood but became a prostitute, and his younger sister Phoebe is ten.  He lives with roommate Stradlater who has been going out with his childhood friend Jane Galangher.  FTP, name this 16-year-old main character who returns home to New York City after being kicked out of Pencey Prep in a book by J. D. Salinger.": {
+    "guess": "Holden Caulfield",
+    "confidence": [
+      [
+        "Hold",
+        -0.08611688
+      ],
+      [
+        "en",
+        0.0
+      ],
+      [
+        " Ca",
+        -1.9361265e-07
+      ],
+      [
+        "ul",
+        0.0
+      ],
+      [
+        "field",
+        0.0
+      ]
+    ]
+  },
+  "This man established a colony at Amphipolis (am-PHI-poh-liss), and he attempted to call a Panhellenic": {
+    "guess": "Hagnon",
+    "confidence": [
+      [
+        "H",
+        -0.5534755
+      ],
+      [
+        "agn",
+        -0.004547608
+      ],
+      [
+        "on",
+        -9.615256e-05
+      ]
+    ]
+  },
+  "This man established a colony at Amphipolis (am-PHI-poh-liss), and he attempted to call a Panhellenic congress in 448 BCE. This man was an opponent of the Areopagus, and he became a prominent figure by": {
+    "guess": "Pericles",
+    "confidence": [
+      [
+        "Per",
+        -0.0016541174
+      ],
+      [
+        "icles",
+        0.0
+      ]
+    ]
+  },
+  "This man established a colony at Amphipolis (am-PHI-poh-liss), and he attempted to call a Panhellenic congress in 448 BCE. This man was an opponent of the Areopagus, and he became a prominent figure by prosecuting Cimon. This man destroyed Euboea in 446 BCE after it revolted against the Delian League,": {
+    "guess": "Pericles",
+    "confidence": [
+      [
+        "Per",
+        -0.0021438356
+      ],
+      [
+        "icles",
+        0.0
+      ]
+    ]
+  },
+  "This man established a colony at Amphipolis (am-PHI-poh-liss), and he attempted to call a Panhellenic congress in 448 BCE. This man was an opponent of the Areopagus, and he became a prominent figure by prosecuting Cimon. This man destroyed Euboea in 446 BCE after it revolted against the Delian League, and he oversaw a 445 truce between Sparta and his city that allowed for a flourishing of the arts.": {
+    "guess": "Pericles",
+    "confidence": [
+      [
+        "Per",
+        -0.0012653555
+      ],
+      [
+        "icles",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man established a colony at Amphipolis (am-PHI-poh-liss), and he attempted to call a Panhellenic congress in 448 BCE. This man was an opponent of the Areopagus, and he became a prominent figure by prosecuting Cimon. This man destroyed Euboea in 446 BCE after it revolted against the Delian League, and he oversaw a 445 truce between Sparta and his city that allowed for a flourishing of the arts. For 10 points, name this Athenian statesman of that city's Golden Age.": {
+    "guess": "Pericles",
+    "confidence": [
+      [
+        "Per",
+        -0.30306715
+      ],
+      [
+        "icles",
+        -1.342522e-05
+      ]
+    ]
+  },
+  "This man established the Furstenbund to deter Austrian involvement in Bavaria. He acquired the eastern": {
+    "guess": "Frederick II, Landgrave of Hesse-Kassel",
+    "confidence": [
+      [
+        "Fre",
+        -0.00050430046
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        "ick",
+        -1.9361265e-07
+      ],
+      [
+        " II",
+        -0.38690618
+      ],
+      [
+        ",",
+        -0.14463094
+      ],
+      [
+        " Land",
+        -0.16174869
+      ],
+      [
+        "grave",
+        -3.1281633e-07
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " H",
+        -0.0006423805
+      ],
+      [
+        "esse",
+        0.0
+      ],
+      [
+        "-K",
+        -0.042982295
+      ],
+      [
+        "ass",
+        -3.1281633e-07
+      ],
+      [
+        "el",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man established the Furstenbund to deter Austrian involvement in Bavaria. He acquired the eastern portion of Poland in its first partition in 1772, and he won important victories at battles such as": {
+    "guess": "Frederick the Great",
+    "confidence": [
+      [
+        "Fre",
+        -0.00013715129
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        "ick",
+        0.0
+      ],
+      [
+        " the",
+        -0.009770966
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Furstenbund to deter Austrian involvement in Bavaria. He acquired the eastern portion of Poland in its first partition in 1772, and he won important victories at battles such as Rossbach and Leuthen. He also attempted to invade Saxony, which started the Seven Years War, and his": {
+    "guess": "Frederick the Great",
+    "confidence": [
+      [
+        "Fre",
+        -0.0018029844
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        "ick",
+        0.0
+      ],
+      [
+        " the",
+        -0.005235768
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Furstenbund to deter Austrian involvement in Bavaria. He acquired the eastern portion of Poland in its first partition in 1772, and he won important victories at battles such as Rossbach and Leuthen. He also attempted to invade Saxony, which started the Seven Years War, and his attempts to conquer Silesia resulted in the War of the Austrian Succession. Perhaps best known for": {
+    "guess": "Frederick the Great",
+    "confidence": [
+      [
+        "Fre",
+        -0.0041369377
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        "ick",
+        0.0
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Furstenbund to deter Austrian involvement in Bavaria. He acquired the eastern portion of Poland in its first partition in 1772, and he won important victories at battles such as Rossbach and Leuthen. He also attempted to invade Saxony, which started the Seven Years War, and his attempts to conquer Silesia resulted in the War of the Austrian Succession. Perhaps best known for strengthening the Junker aristocracy, For 10 points, identify this Enlightened Prussian monarch, who": {
+    "guess": "Frederick the Great",
+    "confidence": [
+      [
+        "Fre",
+        -0.00018530223
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        "ick",
+        0.0
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Furstenbund to deter Austrian involvement in Bavaria. He acquired the eastern portion of Poland in its first partition in 1772, and he won important victories at battles such as Rossbach and Leuthen. He also attempted to invade Saxony, which started the Seven Years War, and his attempts to conquer Silesia resulted in the War of the Austrian Succession. Perhaps best known for strengthening the Junker aristocracy, For 10 points, identify this Enlightened Prussian monarch, who is often called a \"soldier-king.\"": {
+    "guess": "Frederick the Great",
+    "confidence": [
+      [
+        "Fre",
+        -0.01187726
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        "ick",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -0.013838946
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Company of the Hundred Associates to encourage colonial development. He entered": {
+    "guess": "Cardinal Richelieu",
+    "confidence": [
+      [
+        "Card",
+        -0.029766342
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " Ric",
+        0.0
+      ],
+      [
+        "hel",
+        0.0
+      ],
+      [
+        "ieu",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Company of the Hundred Associates to encourage colonial development. He entered into his highest office following a crisis involving the canton of Grisons and Spanish ambition": {
+    "guess": "Cardinal Richelieu",
+    "confidence": [
+      [
+        "Card",
+        -0.009256602
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " Ric",
+        -0.00071016705
+      ],
+      [
+        "hel",
+        0.0
+      ],
+      [
+        "ieu",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Company of the Hundred Associates to encourage colonial development. He entered into his highest office following a crisis involving the canton of Grisons and Spanish ambition in the Valtellina valley in Italy. This successor to the Duke of Luynes implemented the reforms of the": {
+    "guess": "Cardinal Richelieu",
+    "confidence": [
+      [
+        "Card",
+        -0.007850541
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " Ric",
+        -2.1008714e-06
+      ],
+      [
+        "hel",
+        0.0
+      ],
+      [
+        "ieu",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Company of the Hundred Associates to encourage colonial development. He entered into his highest office following a crisis involving the canton of Grisons and Spanish ambition in the Valtellina valley in Italy. This successor to the Duke of Luynes implemented the reforms of the Council of Trent and was ushered into one position by Concino Concini. Marie de Medici unsuccessfully": {
+    "guess": "Cardinal Richelieu",
+    "confidence": [
+      [
+        "Card",
+        -0.0018634299
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " Ric",
+        -3.1281633e-07
+      ],
+      [
+        "hel",
+        0.0
+      ],
+      [
+        "ieu",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Company of the Hundred Associates to encourage colonial development. He entered into his highest office following a crisis involving the canton of Grisons and Spanish ambition in the Valtellina valley in Italy. This successor to the Duke of Luynes implemented the reforms of the Council of Trent and was ushered into one position by Concino Concini. Marie de Medici unsuccessfully demanded this man's dismissal in the Day of the Dupes, and he defeated his country's Protestants": {
+    "guess": "Cardinal Richelieu",
+    "confidence": [
+      [
+        "Card",
+        -0.0014761756
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " Ric",
+        0.0
+      ],
+      [
+        "hel",
+        0.0
+      ],
+      [
+        "ieu",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Company of the Hundred Associates to encourage colonial development. He entered into his highest office following a crisis involving the canton of Grisons and Spanish ambition in the Valtellina valley in Italy. This successor to the Duke of Luynes implemented the reforms of the Council of Trent and was ushered into one position by Concino Concini. Marie de Medici unsuccessfully demanded this man's dismissal in the Day of the Dupes, and he defeated his country's Protestants after a year-long siege at La Rochelle. For 10 points, name this chaplain to Anne of Austria, a cardinal": {
+    "guess": "Cardinal Richelieu",
+    "confidence": [
+      [
+        "Card",
+        -4.5252596e-05
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " Ric",
+        -1.147242e-06
+      ],
+      [
+        "hel",
+        0.0
+      ],
+      [
+        "ieu",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Company of the Hundred Associates to encourage colonial development. He entered into his highest office following a crisis involving the canton of Grisons and Spanish ambition in the Valtellina valley in Italy. This successor to the Duke of Luynes implemented the reforms of the Council of Trent and was ushered into one position by Concino Concini. Marie de Medici unsuccessfully demanded this man's dismissal in the Day of the Dupes, and he defeated his country's Protestants after a year-long siege at La Rochelle. For 10 points, name this chaplain to Anne of Austria, a cardinal who served as the Chief Minister to Louis XIII.": {
+    "guess": "Cardinal Richelieu",
+    "confidence": [
+      [
+        "Card",
+        -0.030557249
+      ],
+      [
+        "inal",
+        -3.1281633e-07
+      ],
+      [
+        " Ric",
+        -1.9816675e-06
+      ],
+      [
+        "hel",
+        0.0
+      ],
+      [
+        "ieu",
+        0.0
+      ]
+    ]
+  },
+  "Esther Summerson marries a literary character with this profession, Allan Woodcourt, in Bleak House.": {
+    "guess": "Doctor",
+    "confidence": [
+      [
+        "Doctor",
+        -1.0316527
+      ]
+    ]
+  },
+  "Esther Summerson marries a literary character with this profession, Allan Woodcourt, in Bleak House. Another character with this profession warns his brother Peter, the Mayor, that the water supplying": {
+    "guess": "An Enemy of the People",
+    "confidence": [
+      [
+        "An",
+        -0.7014639
+      ],
+      [
+        " Enemy",
+        -2.0935051e-05
+      ],
+      [
+        " of",
+        -5.5122365e-07
+      ],
+      [
+        " the",
+        -2.9352968e-06
+      ],
+      [
+        " People",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Esther Summerson marries a literary character with this profession, Allan Woodcourt, in Bleak House. Another character with this profession warns his brother Peter, the Mayor, that the water supplying the new baths is contaminated. In addition to Thomas Stockmann from An Enemy of the People, another": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.62217826
+      ]
+    ]
+  },
+  "Esther Summerson marries a literary character with this profession, Allan Woodcourt, in Bleak House. Another character with this profession warns his brother Peter, the Mayor, that the water supplying the new baths is contaminated. In addition to Thomas Stockmann from An Enemy of the People, another character with this profession is devastated after the death of his wife (*) Leora from the plague.": {
+    "guess": "Doctor",
+    "confidence": [
+      [
+        "Doctor",
+        -0.32877624
+      ]
+    ]
+  },
+  "Esther Summerson marries a literary character with this profession, Allan Woodcourt, in Bleak House. Another character with this profession warns his brother Peter, the Mayor, that the water supplying the new baths is contaminated. In addition to Thomas Stockmann from An Enemy of the People, another character with this profession is devastated after the death of his wife (*) Leora from the plague. Another character with this job falls in love with the nurse Lara while he works for a battlefield hospital,": {
+    "guess": "DOCTOR",
+    "confidence": [
+      [
+        "DO",
+        -0.10711308
+      ],
+      [
+        "CTOR",
+        0.0
+      ]
+    ]
+  },
+  "Esther Summerson marries a literary character with this profession, Allan Woodcourt, in Bleak House. Another character with this profession warns his brother Peter, the Mayor, that the water supplying the new baths is contaminated. In addition to Thomas Stockmann from An Enemy of the People, another character with this profession is devastated after the death of his wife (*) Leora from the plague. Another character with this job falls in love with the nurse Lara while he works for a battlefield hospital, and in a different novel, one character with this profession takes a potion to transform into": {
+    "guess": "DOCTOR",
+    "confidence": [
+      [
+        "DO",
+        -0.2595632
+      ],
+      [
+        "CTOR",
+        0.0
+      ]
+    ]
+  },
+  "Esther Summerson marries a literary character with this profession, Allan Woodcourt, in Bleak House. Another character with this profession warns his brother Peter, the Mayor, that the water supplying the new baths is contaminated. In addition to Thomas Stockmann from An Enemy of the People, another character with this profession is devastated after the death of his wife (*) Leora from the plague. Another character with this job falls in love with the nurse Lara while he works for a battlefield hospital, and in a different novel, one character with this profession takes a potion to transform into Mr. Hyde. For ten points, identify this profession of Arrowsmith, Zhivago, and Jekyll.": {
+    "guess": "Doctor",
+    "confidence": [
+      [
+        "Doctor",
+        -0.19047046
+      ]
+    ]
+  },
+  "He established his famous collaboration with W. W. Denslow for the publication Father Goose, His Book,": {
+    "guess": "L. Frank Baum",
+    "confidence": [
+      [
+        "L",
+        -0.027761707
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Frank",
+        0.0
+      ],
+      [
+        " Baum",
+        0.0
+      ]
+    ]
+  },
+  "He established his famous collaboration with W. W. Denslow for the publication Father Goose, His Book, which was a sequel to his successful Mother Goose, In Prose. After he died in 1919, Ruth Plumly Thompson": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.3075118
+      ],
+      [
+        ".",
+        -0.16022778
+      ]
+    ]
+  },
+  "He established his famous collaboration with W. W. Denslow for the publication Father Goose, His Book, which was a sequel to his successful Mother Goose, In Prose. After he died in 1919, Ruth Plumly Thompson created subsequent sequels to his most famous series. His sixth book follows the diabolical plot": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.4400657
+      ],
+      [
+        ".",
+        -0.4740831
+      ]
+    ]
+  },
+  "He established his famous collaboration with W. W. Denslow for the publication Father Goose, His Book, which was a sequel to his successful Mother Goose, In Prose. After he died in 1919, Ruth Plumly Thompson created subsequent sequels to his most famous series. His sixth book follows the diabolical plot of the Nome King Roquat as he schemes to destroy the realms of Queen Ozma. Name this author of the": {
+    "guess": "L. Frank Baum",
+    "confidence": [
+      [
+        "L",
+        -0.08469611
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Frank",
+        0.0
+      ],
+      [
+        " Baum",
+        0.0
+      ]
+    ]
+  },
+  "He established his famous collaboration with W. W. Denslow for the publication Father Goose, His Book, which was a sequel to his successful Mother Goose, In Prose. After he died in 1919, Ruth Plumly Thompson created subsequent sequels to his most famous series. His sixth book follows the diabolical plot of the Nome King Roquat as he schemes to destroy the realms of Queen Ozma. Name this author of the 14 books of the Land of Oz series, the first of which is The Wonderful Wizard of Oz.": {
+    "guess": "L. Frank Baum",
+    "confidence": [
+      [
+        "L",
+        -0.22772469
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Frank",
+        0.0
+      ],
+      [
+        " Baum",
+        0.0
+      ]
+    ]
+  },
+  "With an estimated 2000 species in the world, this group of invertebrates range in size from one inch": {
+    "guess": "Sea cucumber",
+    "confidence": [
+      [
+        "Sea",
+        -0.88901407
+      ],
+      [
+        " cucumber",
+        -0.58363265
+      ]
+    ]
+  },
+  "With an estimated 2000 species in the world, this group of invertebrates range in size from one inch to around 200 feet in length. Drifting in the ocean for over 650 million years, they attack their prey": {
+    "guess": "Jellyfish",
+    "confidence": [
+      [
+        "J",
+        -0.019386787
+      ],
+      [
+        "elly",
+        0.0
+      ],
+      [
+        "fish",
+        0.0
+      ]
+    ]
+  },
+  "With an estimated 2000 species in the world, this group of invertebrates range in size from one inch to around 200 feet in length. Drifting in the ocean for over 650 million years, they attack their prey using stinging cells that inject poison into the organism. For 10 points\u2014  name this animal species": {
+    "guess": "Jellyfish",
+    "confidence": [
+      [
+        "J",
+        -0.004026988
+      ],
+      [
+        "elly",
+        0.0
+      ],
+      [
+        "fish",
+        0.0
+      ]
+    ]
+  },
+  "With an estimated 2000 species in the world, this group of invertebrates range in size from one inch to around 200 feet in length. Drifting in the ocean for over 650 million years, they attack their prey using stinging cells that inject poison into the organism. For 10 points\u2014  name this animal species which includes the Lion's Mane and Portuguese Man-of- War that looks like an umbrella when submerged": {
+    "guess": "Cnidaria",
+    "confidence": [
+      [
+        "Cn",
+        -0.38959965
+      ],
+      [
+        "id",
+        -1.9361265e-07
+      ],
+      [
+        "aria",
+        -0.0004904801
+      ]
+    ]
+  },
+  "With an estimated 2000 species in the world, this group of invertebrates range in size from one inch to around 200 feet in length. Drifting in the ocean for over 650 million years, they attack their prey using stinging cells that inject poison into the organism. For 10 points\u2014  name this animal species which includes the Lion's Mane and Portuguese Man-of- War that looks like an umbrella when submerged in the water.": {
+    "guess": "Jellyfish",
+    "confidence": [
+      [
+        "J",
+        -0.48860732
+      ],
+      [
+        "elly",
+        0.0
+      ],
+      [
+        "fish",
+        0.0
+      ]
+    ]
+  },
+  "It is estimated that there are three trillion with a diameter greater than one meter. In 1994, the Clementine": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7742392
+      ]
+    ]
+  },
+  "It is estimated that there are three trillion with a diameter greater than one meter. In 1994, the Clementine discovered the largest one yet, now named Aitken, which may contain ice. Varieties include": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.3967435
+      ]
+    ]
+  },
+  "It is estimated that there are three trillion with a diameter greater than one meter. In 1994, the Clementine discovered the largest one yet, now named Aitken, which may contain ice. Varieties include volcanic caldera, maar, summit, drainage, and impact. One of the most prominently visible from Earth": {
+    "guess": "Craters on the Moon",
+    "confidence": [
+      [
+        "C",
+        -0.829331
+      ],
+      [
+        "rat",
+        -2.1054253e-05
+      ],
+      [
+        "ers",
+        -2.220075e-06
+      ],
+      [
+        " on",
+        -0.10057002
+      ],
+      [
+        " the",
+        -0.00027718625
+      ],
+      [
+        " Moon",
+        -1.50940705e-05
+      ]
+    ]
+  },
+  "It is estimated that there are three trillion with a diameter greater than one meter. In 1994, the Clementine discovered the largest one yet, now named Aitken, which may contain ice. Varieties include volcanic caldera, maar, summit, drainage, and impact. One of the most prominently visible from Earth is Clavius. For 10 points\u2014identify these surface features of the Earth's moon.": {
+    "guess": "Lunar craters",
+    "confidence": [
+      [
+        "L",
+        -0.028741779
+      ],
+      [
+        "unar",
+        -4.3202e-07
+      ],
+      [
+        " cr",
+        -0.0044423435
+      ],
+      [
+        "aters",
+        -8.89548e-06
+      ]
+    ]
+  },
+  "Established in a 1972 paper, it grew out of Ernst Mayr's idea of genetic revolutions. An alternate evolutionary": {
+    "guess": "Punctuated equilibrium",
+    "confidence": [
+      [
+        "P",
+        -0.4754123
+      ],
+      [
+        "unct",
+        -1.6240566e-06
+      ],
+      [
+        "uated",
+        0.0
+      ],
+      [
+        " equilibrium",
+        -1.9385403e-05
+      ]
+    ]
+  },
+  "Established in a 1972 paper, it grew out of Ernst Mayr's idea of genetic revolutions. An alternate evolutionary theory to that of phyletic gradualism, fluctuating patterns in the fossil record provide": {
+    "guess": "Punctuated equilibrium",
+    "confidence": [
+      [
+        "P",
+        -0.009812642
+      ],
+      [
+        "unct",
+        0.0
+      ],
+      [
+        "uated",
+        0.0
+      ],
+      [
+        " equilibrium",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Established in a 1972 paper, it grew out of Ernst Mayr's idea of genetic revolutions. An alternate evolutionary theory to that of phyletic gradualism, fluctuating patterns in the fossil record provide strong support for this idea. Most associated with Niles Eldredge and Stephen Jay Gould, this is, FTP,": {
+    "guess": "Punctuated equilibrium",
+    "confidence": [
+      [
+        "P",
+        -0.000496675
+      ],
+      [
+        "unct",
+        0.0
+      ],
+      [
+        "uated",
+        0.0
+      ],
+      [
+        " equilibrium",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "Established in a 1972 paper, it grew out of Ernst Mayr's idea of genetic revolutions. An alternate evolutionary theory to that of phyletic gradualism, fluctuating patterns in the fossil record provide strong support for this idea. Most associated with Niles Eldredge and Stephen Jay Gould, this is, FTP, what theory that states that species remain relatively constant for long periods of time except for": {
+    "guess": "Punctuated equilibrium",
+    "confidence": [
+      [
+        "P",
+        -0.00023250321
+      ],
+      [
+        "unct",
+        0.0
+      ],
+      [
+        "uated",
+        0.0
+      ],
+      [
+        " equilibrium",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "Established in a 1972 paper, it grew out of Ernst Mayr's idea of genetic revolutions. An alternate evolutionary theory to that of phyletic gradualism, fluctuating patterns in the fossil record provide strong support for this idea. Most associated with Niles Eldredge and Stephen Jay Gould, this is, FTP, what theory that states that species remain relatively constant for long periods of time except for evolution in short bursts.": {
+    "guess": "Punctuated equilibrium",
+    "confidence": [
+      [
+        "P",
+        -0.00080843305
+      ],
+      [
+        "unct",
+        0.0
+      ],
+      [
+        "uated",
+        0.0
+      ],
+      [
+        " equilibrium",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "He established \"the Most Drunken Council of Fools and Jesters\" to antagonize the Church hierarchy and,": {
+    "guess": "Peter the Great",
+    "confidence": [
+      [
+        "Peter",
+        -0.29039276
+      ],
+      [
+        " the",
+        -9.674858e-05
+      ],
+      [
+        " Great",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "He established \"the Most Drunken Council of Fools and Jesters\" to antagonize the Church hierarchy and, more seriously, instituted a \"Holy Synod\" which would oversee it. He also divided his empire into": {
+    "guess": "Peter the Great",
+    "confidence": [
+      [
+        "Peter",
+        -0.0415247
+      ],
+      [
+        " the",
+        -1.6240566e-06
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "He established \"the Most Drunken Council of Fools and Jesters\" to antagonize the Church hierarchy and, more seriously, instituted a \"Holy Synod\" which would oversee it. He also divided his empire into eight regions, created a Senate that would rule in his absence, increased his tax base by abolishing": {
+    "guess": "Peter the Great",
+    "confidence": [
+      [
+        "Peter",
+        -0.05624316
+      ],
+      [
+        " the",
+        -1.504853e-06
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "He established \"the Most Drunken Council of Fools and Jesters\" to antagonize the Church hierarchy and, more seriously, instituted a \"Holy Synod\" which would oversee it. He also divided his empire into eight regions, created a Senate that would rule in his absence, increased his tax base by abolishing the distinction between slave and serf, and designed the Table of Ranks to make promotion meritocratic.": {
+    "guess": "Peter the Great",
+    "confidence": [
+      [
+        "Peter",
+        -0.023182461
+      ],
+      [
+        " the",
+        -3.1281633e-07
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "He established \"the Most Drunken Council of Fools and Jesters\" to antagonize the Church hierarchy and, more seriously, instituted a \"Holy Synod\" which would oversee it. He also divided his empire into eight regions, created a Senate that would rule in his absence, increased his tax base by abolishing the distinction between slave and serf, and designed the Table of Ranks to make promotion meritocratic. Furthermore, with the Treaty of Nystadt he became the victor of the Great Northern War. FTP name": {
+    "guess": "Peter the Great",
+    "confidence": [
+      [
+        "Peter",
+        -0.011672609
+      ],
+      [
+        " the",
+        -9.014684e-06
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "He established \"the Most Drunken Council of Fools and Jesters\" to antagonize the Church hierarchy and, more seriously, instituted a \"Holy Synod\" which would oversee it. He also divided his empire into eight regions, created a Senate that would rule in his absence, increased his tax base by abolishing the distinction between slave and serf, and designed the Table of Ranks to make promotion meritocratic. Furthermore, with the Treaty of Nystadt he became the victor of the Great Northern War. FTP name this man who defeated Sweden's Charles XII at the 1709 Battle of Poltava, the great Westernizing tsar": {
+    "guess": "Peter the Great",
+    "confidence": [
+      [
+        "Peter",
+        -0.0021060058
+      ],
+      [
+        " the",
+        -7.89631e-07
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "He established \"the Most Drunken Council of Fools and Jesters\" to antagonize the Church hierarchy and, more seriously, instituted a \"Holy Synod\" which would oversee it. He also divided his empire into eight regions, created a Senate that would rule in his absence, increased his tax base by abolishing the distinction between slave and serf, and designed the Table of Ranks to make promotion meritocratic. Furthermore, with the Treaty of Nystadt he became the victor of the Great Northern War. FTP name this man who defeated Sweden's Charles XII at the 1709 Battle of Poltava, the great Westernizing tsar of Russia.": {
+    "guess": "Peter the Great",
+    "confidence": [
+      [
+        "Peter",
+        -0.038681302
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "Estimates of the enthalpy change associated with this process may be found using the reduced temperature": {
+    "guess": "Vaporization",
+    "confidence": [
+      [
+        "V",
+        -0.50648224
+      ],
+      [
+        "apor",
+        -1.9361265e-07
+      ],
+      [
+        "ization",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Estimates of the enthalpy change associated with this process may be found using the reduced temperature by the Watson relation or by assuming a constant value for the entropy change by Trouton's rule.": {
+    "guess": "Vaporization",
+    "confidence": [
+      [
+        "V",
+        -0.0053628907
+      ],
+      [
+        "apor",
+        -3.7697225e-06
+      ],
+      [
+        "ization",
+        0.0
+      ]
+    ]
+  },
+  "Estimates of the enthalpy change associated with this process may be found using the reduced temperature by the Watson relation or by assuming a constant value for the entropy change by Trouton's rule. That enthalpy change is proportional to the derivative of the vapor pressure with respect to the inverse": {
+    "guess": "Vaporization",
+    "confidence": [
+      [
+        "V",
+        -0.17788678
+      ],
+      [
+        "apor",
+        -3.7697225e-06
+      ],
+      [
+        "ization",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "Estimates of the enthalpy change associated with this process may be found using the reduced temperature by the Watson relation or by assuming a constant value for the entropy change by Trouton's rule. That enthalpy change is proportional to the derivative of the vapor pressure with respect to the inverse of temperature by the Clausius-Clapeyron equation. A binary mixture which does not change composition": {
+    "guess": "Azeotrope",
+    "confidence": [
+      [
+        "A",
+        -0.00999158
+      ],
+      [
+        "ze",
+        -7.9418505e-06
+      ],
+      [
+        "ot",
+        -0.0015043864
+      ],
+      [
+        "rope",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Estimates of the enthalpy change associated with this process may be found using the reduced temperature by the Watson relation or by assuming a constant value for the entropy change by Trouton's rule. That enthalpy change is proportional to the derivative of the vapor pressure with respect to the inverse of temperature by the Clausius-Clapeyron equation. A binary mixture which does not change composition under this process is called an azeotrope. In one of the colligative properties, the temperature": {
+    "guess": "Boiling point elevation",
+    "confidence": [
+      [
+        "Bo",
+        -0.020796102
+      ],
+      [
+        "iling",
+        0.0
+      ],
+      [
+        " point",
+        -0.006717386
+      ],
+      [
+        " elevation",
+        -0.00020139472
+      ]
+    ]
+  },
+  "Estimates of the enthalpy change associated with this process may be found using the reduced temperature by the Watson relation or by assuming a constant value for the entropy change by Trouton's rule. That enthalpy change is proportional to the derivative of the vapor pressure with respect to the inverse of temperature by the Clausius-Clapeyron equation. A binary mixture which does not change composition under this process is called an azeotrope. In one of the colligative properties, the temperature at which this process occurs is increased. This process occurs when the vapor pressure is equal": {
+    "guess": "Boiling",
+    "confidence": [
+      [
+        "Bo",
+        -0.00269384
+      ],
+      [
+        "iling",
+        0.0
+      ]
+    ]
+  },
+  "Estimates of the enthalpy change associated with this process may be found using the reduced temperature by the Watson relation or by assuming a constant value for the entropy change by Trouton's rule. That enthalpy change is proportional to the derivative of the vapor pressure with respect to the inverse of temperature by the Clausius-Clapeyron equation. A binary mixture which does not change composition under this process is called an azeotrope. In one of the colligative properties, the temperature at which this process occurs is increased. This process occurs when the vapor pressure is equal to the atmospheric pressure. For 10 points, name this phase change from a liquid to a gas.": {
+    "guess": "Boiling",
+    "confidence": [
+      [
+        "Bo",
+        -0.009243842
+      ],
+      [
+        "iling",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Kerner Commission and used a vehicle called the \"City Windmill\" to campaign": {
+    "guess": "Lyndon B. Johnson",
+    "confidence": [
+      [
+        "L",
+        -0.0015359315
+      ],
+      [
+        "ynd",
+        0.0
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        -3.1281633e-07
+      ],
+      [
+        ".",
+        -1.504853e-06
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Kerner Commission and used a vehicle called the \"City Windmill\" to campaign against Coke Stevenson. This deliverer of the \"Let Us Continue\" speech retained Dean Rusk as Secretary": {
+    "guess": "Lyndon B. Johnson",
+    "confidence": [
+      [
+        "L",
+        -3.5716304e-05
+      ],
+      [
+        "ynd",
+        0.0
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        ".",
+        -6.704273e-07
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Kerner Commission and used a vehicle called the \"City Windmill\" to campaign against Coke Stevenson. This deliverer of the \"Let Us Continue\" speech retained Dean Rusk as Secretary of State, and intimidated lawmakers with \"The Treatment\" while in the Senate. This subject of Robert": {
+    "guess": "Lyndon B. Johnson",
+    "confidence": [
+      [
+        "L",
+        -0.032839105
+      ],
+      [
+        "ynd",
+        0.0
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        ".",
+        -1.0280384e-06
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Kerner Commission and used a vehicle called the \"City Windmill\" to campaign against Coke Stevenson. This deliverer of the \"Let Us Continue\" speech retained Dean Rusk as Secretary of State, and intimidated lawmakers with \"The Treatment\" while in the Senate. This subject of Robert Caro biographies begun the Head Start school program, and lent his voice to the \"Daisy\" campaign": {
+    "guess": "Lyndon B. Johnson",
+    "confidence": [
+      [
+        "L",
+        -0.0040136958
+      ],
+      [
+        "ynd",
+        0.0
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        ".",
+        -5.5122365e-07
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "This man established the Kerner Commission and used a vehicle called the \"City Windmill\" to campaign against Coke Stevenson. This deliverer of the \"Let Us Continue\" speech retained Dean Rusk as Secretary of State, and intimidated lawmakers with \"The Treatment\" while in the Senate. This subject of Robert Caro biographies begun the Head Start school program, and lent his voice to the \"Daisy\" campaign ad against Barry Goldwater. This man was authorized by the Gulf of Tonkin resolution to commit troops;": {
+    "guess": "Lyndon B. Johnson",
+    "confidence": [
+      [
+        "L",
+        -0.0142983105
+      ],
+      [
+        "ynd",
+        -3.888926e-06
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        ".",
+        -3.1281633e-07
+      ],
+      [
+        " Johnson",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This man established the Kerner Commission and used a vehicle called the \"City Windmill\" to campaign against Coke Stevenson. This deliverer of the \"Let Us Continue\" speech retained Dean Rusk as Secretary of State, and intimidated lawmakers with \"The Treatment\" while in the Senate. This subject of Robert Caro biographies begun the Head Start school program, and lent his voice to the \"Daisy\" campaign ad against Barry Goldwater. This man was authorized by the Gulf of Tonkin resolution to commit troops; he signed the Voting Rights Act and enacted Medicare as part of the Great Society. For 10 points,": {
+    "guess": "Lyndon B. Johnson",
+    "confidence": [
+      [
+        "L",
+        -0.00061319396
+      ],
+      [
+        "ynd",
+        -1.9361265e-07
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        ".",
+        -3.1281633e-07
+      ],
+      [
+        " Johnson",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "This man established the Kerner Commission and used a vehicle called the \"City Windmill\" to campaign against Coke Stevenson. This deliverer of the \"Let Us Continue\" speech retained Dean Rusk as Secretary of State, and intimidated lawmakers with \"The Treatment\" while in the Senate. This subject of Robert Caro biographies begun the Head Start school program, and lent his voice to the \"Daisy\" campaign ad against Barry Goldwater. This man was authorized by the Gulf of Tonkin resolution to commit troops; he signed the Voting Rights Act and enacted Medicare as part of the Great Society. For 10 points, name this Texan president, Kennedy's successor.": {
+    "guess": "Lyndon B. Johnson",
+    "confidence": [
+      [
+        "L",
+        -0.001699345
+      ],
+      [
+        "ynd",
+        0.0
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " B",
+        -3.1281633e-07
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Johnson",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man established Keeping America's Promise, a political action committee, whose mandate was to \"restore": {
+    "guess": "John Kerry",
+    "confidence": [
+      [
+        "John",
+        -0.16346411
+      ],
+      [
+        " Kerry",
+        -0.006412424
+      ]
+    ]
+  },
+  "This man established Keeping America's Promise, a political action committee, whose mandate was to \"restore accountability to Washington and help change a disastrous course in Iraq.\" This politician impersonated": {
+    "guess": "John Kerry",
+    "confidence": [
+      [
+        "John",
+        -0.0021727434
+      ],
+      [
+        " Kerry",
+        -0.00032009225
+      ]
+    ]
+  },
+  "This man established Keeping America's Promise, a political action committee, whose mandate was to \"restore accountability to Washington and help change a disastrous course in Iraq.\" This politician impersonated Republican candidate Mitt Romney in order to prepare Obama for his presidential debates in": {
+    "guess": "John Kerry",
+    "confidence": [
+      [
+        "John",
+        -0.0068239514
+      ],
+      [
+        " Kerry",
+        -2.4153549e-05
+      ]
+    ]
+  },
+  "This man established Keeping America's Promise, a political action committee, whose mandate was to \"restore accountability to Washington and help change a disastrous course in Iraq.\" This politician impersonated Republican candidate Mitt Romney in order to prepare Obama for his presidential debates in 2012. The president's nomination of this politician to his current position occurred after Susan Rice": {
+    "guess": "John Kerry",
+    "confidence": [
+      [
+        "John",
+        -0.0013523798
+      ],
+      [
+        " Kerry",
+        -0.00018280261
+      ]
+    ]
+  },
+  "This man established Keeping America's Promise, a political action committee, whose mandate was to \"restore accountability to Washington and help change a disastrous course in Iraq.\" This politician impersonated Republican candidate Mitt Romney in order to prepare Obama for his presidential debates in 2012. The president's nomination of this politician to his current position occurred after Susan Rice withdrew her name because of criticism of her response to the 2012 Benghazi attack. For 10 points,": {
+    "guess": "John Kerry",
+    "confidence": [
+      [
+        "John",
+        -0.0038999384
+      ],
+      [
+        " Kerry",
+        -0.00014644918
+      ]
+    ]
+  },
+  "This man established Keeping America's Promise, a political action committee, whose mandate was to \"restore accountability to Washington and help change a disastrous course in Iraq.\" This politician impersonated Republican candidate Mitt Romney in order to prepare Obama for his presidential debates in 2012. The president's nomination of this politician to his current position occurred after Susan Rice withdrew her name because of criticism of her response to the 2012 Benghazi attack. For 10 points, name this Democrat, who ran against George W. Bush in the 2004 presidential election, and succeeded": {
+    "guess": "John Kerry",
+    "confidence": [
+      [
+        "John",
+        -0.00015812746
+      ],
+      [
+        " Kerry",
+        0.0
+      ]
+    ]
+  },
+  "This man established Keeping America's Promise, a political action committee, whose mandate was to \"restore accountability to Washington and help change a disastrous course in Iraq.\" This politician impersonated Republican candidate Mitt Romney in order to prepare Obama for his presidential debates in 2012. The president's nomination of this politician to his current position occurred after Susan Rice withdrew her name because of criticism of her response to the 2012 Benghazi attack. For 10 points, name this Democrat, who ran against George W. Bush in the 2004 presidential election, and succeeded Hillary Clinton to become the current Secretary of State.": {
+    "guess": "John Kerry",
+    "confidence": [
+      [
+        "John",
+        -0.000102708764
+      ],
+      [
+        " Kerry",
+        0.0
+      ]
+    ]
+  }
+}

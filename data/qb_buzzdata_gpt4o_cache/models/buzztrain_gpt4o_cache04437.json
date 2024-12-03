@@ -1,0 +1,127 @@
+{
+  "A load resistor and capacitor filter in parallel with a \"bridge\" of these devices can smooth output and": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.010139457
+      ],
+      [
+        "ode",
+        -0.029750485
+      ]
+    ]
+  },
+  "A load resistor and capacitor filter in parallel with a \"bridge\" of these devices can smooth output and has a characteristic voltage \"ripple\". That \"bridge\" contains four of these devices, constituting": {
+    "guess": "Diode bridge",
+    "confidence": [
+      [
+        "Di",
+        -0.08457059
+      ],
+      [
+        "ode",
+        -0.0009114635
+      ],
+      [
+        " bridge",
+        -0.010162352
+      ]
+    ]
+  },
+  "A load resistor and capacitor filter in parallel with a \"bridge\" of these devices can smooth output and has a characteristic voltage \"ripple\". That \"bridge\" contains four of these devices, constituting a full-wave rectifier that converts an AC input to DC. The current of an ideal one is equal to the": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.06845171
+      ],
+      [
+        "ode",
+        -1.4855664e-05
+      ]
+    ]
+  },
+  "A load resistor and capacitor filter in parallel with a \"bridge\" of these devices can smooth output and has a characteristic voltage \"ripple\". That \"bridge\" contains four of these devices, constituting a full-wave rectifier that converts an AC input to DC. The current of an ideal one is equal to the saturation current times quantity exponential of voltage over thermal voltage, all minus one, an equation": {
+    "guess": "Diode Bridge",
+    "confidence": [
+      [
+        "Di",
+        -0.024163442
+      ],
+      [
+        "ode",
+        -2.1531068e-05
+      ],
+      [
+        " Bridge",
+        -0.10111977
+      ]
+    ]
+  },
+  "A load resistor and capacitor filter in parallel with a \"bridge\" of these devices can smooth output and has a characteristic voltage \"ripple\". That \"bridge\" contains four of these devices, constituting a full-wave rectifier that converts an AC input to DC. The current of an ideal one is equal to the saturation current times quantity exponential of voltage over thermal voltage, all minus one, an equation sometimes named for William Shockley. A simple model of these devices assumes they have a constant": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.0078312615
+      ],
+      [
+        "ode",
+        -1.1517961e-05
+      ]
+    ]
+  },
+  "A load resistor and capacitor filter in parallel with a \"bridge\" of these devices can smooth output and has a characteristic voltage \"ripple\". That \"bridge\" contains four of these devices, constituting a full-wave rectifier that converts an AC input to DC. The current of an ideal one is equal to the saturation current times quantity exponential of voltage over thermal voltage, all minus one, an equation sometimes named for William Shockley. A simple model of these devices assumes they have a constant voltage drop. Examples of these devices that operate above the breakdown voltage include the avalanche": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.0051614125
+      ],
+      [
+        "ode",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "A load resistor and capacitor filter in parallel with a \"bridge\" of these devices can smooth output and has a characteristic voltage \"ripple\". That \"bridge\" contains four of these devices, constituting a full-wave rectifier that converts an AC input to DC. The current of an ideal one is equal to the saturation current times quantity exponential of voltage over thermal voltage, all minus one, an equation sometimes named for William Shockley. A simple model of these devices assumes they have a constant voltage drop. Examples of these devices that operate above the breakdown voltage include the avalanche type and one named for Clarence Zener. They are commonly constructed of a p-n junction. For": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.0017004106
+      ],
+      [
+        "ode",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "A load resistor and capacitor filter in parallel with a \"bridge\" of these devices can smooth output and has a characteristic voltage \"ripple\". That \"bridge\" contains four of these devices, constituting a full-wave rectifier that converts an AC input to DC. The current of an ideal one is equal to the saturation current times quantity exponential of voltage over thermal voltage, all minus one, an equation sometimes named for William Shockley. A simple model of these devices assumes they have a constant voltage drop. Examples of these devices that operate above the breakdown voltage include the avalanche type and one named for Clarence Zener. They are commonly constructed of a p-n junction. For 10 points, identify these devices operated in a \"forward\" or \"reverse\" direction, the latter of which": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.00081224757
+      ],
+      [
+        "ode",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "A load resistor and capacitor filter in parallel with a \"bridge\" of these devices can smooth output and has a characteristic voltage \"ripple\". That \"bridge\" contains four of these devices, constituting a full-wave rectifier that converts an AC input to DC. The current of an ideal one is equal to the saturation current times quantity exponential of voltage over thermal voltage, all minus one, an equation sometimes named for William Shockley. A simple model of these devices assumes they have a constant voltage drop. Examples of these devices that operate above the breakdown voltage include the avalanche type and one named for Clarence Zener. They are commonly constructed of a p-n junction. For 10 points, identify these devices operated in a \"forward\" or \"reverse\" direction, the latter of which does not allow current to flo": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.0010534113
+      ],
+      [
+        "ode",
+        -2.3392786e-06
+      ]
+    ]
+  }
+}

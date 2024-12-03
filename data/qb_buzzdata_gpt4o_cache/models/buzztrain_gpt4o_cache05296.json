@@ -1,0 +1,86 @@
+{
+  "For nuclear reactor fuel, uranium is converted to its hexaflouride species and the 235 isotope enriched": {
+    "guess": "Uranium enrichment",
+    "confidence": [
+      [
+        "U",
+        -0.01358638
+      ],
+      [
+        "ran",
+        0.0
+      ],
+      [
+        "ium",
+        0.0
+      ],
+      [
+        " enrichment",
+        -0.47703803
+      ]
+    ]
+  },
+  "For nuclear reactor fuel, uranium is converted to its hexaflouride species and the 235 isotope enriched using this law.  It can determine the vapor pressure of some materials, as well as find the rate": {
+    "guess": "Graham's law",
+    "confidence": [
+      [
+        "G",
+        -0.086463645
+      ],
+      [
+        "raham",
+        -0.0005151443
+      ],
+      [
+        "'s",
+        -6.6113236e-05
+      ],
+      [
+        " law",
+        -0.0019288709
+      ]
+    ]
+  },
+  "For nuclear reactor fuel, uranium is converted to its hexaflouride species and the 235 isotope enriched using this law.  It can determine the vapor pressure of some materials, as well as find the rate of evaporation from a surface. What law named for a British scientist states, for ten points, that the": {
+    "guess": "Graham's law",
+    "confidence": [
+      [
+        "G",
+        -0.015953429
+      ],
+      [
+        "raham",
+        -9.014684e-06
+      ],
+      [
+        "'s",
+        -0.00013989297
+      ],
+      [
+        " law",
+        -0.008614688
+      ]
+    ]
+  },
+  "For nuclear reactor fuel, uranium is converted to its hexaflouride species and the 235 isotope enriched using this law.  It can determine the vapor pressure of some materials, as well as find the rate of evaporation from a surface. What law named for a British scientist states, for ten points, that the square root of the inverse ratio of the molecular masses of two gases equals their rate of effusion?": {
+    "guess": "Graham's law",
+    "confidence": [
+      [
+        "G",
+        -0.00072363333
+      ],
+      [
+        "raham",
+        -9.0883464e-07
+      ],
+      [
+        "'s",
+        -8.4947416e-05
+      ],
+      [
+        " law",
+        -0.0021852378
+      ]
+    ]
+  }
+}

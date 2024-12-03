@@ -1,0 +1,88 @@
+{
+  "Phreatic events associated with these structures feature superheated steam and can create craters called": {
+    "guess": "Maar",
+    "confidence": [
+      [
+        "Maar",
+        -0.73381597
+      ]
+    ]
+  },
+  "Phreatic events associated with these structures feature superheated steam and can create craters called maars. Plinian events associated with them are often preceded by pyroclastic flows. Land around": {
+    "guess": "Volcano",
+    "confidence": [
+      [
+        "Vol",
+        -0.050221015
+      ],
+      [
+        "cano",
+        -0.012510356
+      ]
+    ]
+  },
+  "Phreatic events associated with these structures feature superheated steam and can create craters called maars. Plinian events associated with them are often preceded by pyroclastic flows. Land around these structures can collapse and fill with water, resulting in a caldera. Underwater examples of these": {
+    "guess": "Volcanoes",
+    "confidence": [
+      [
+        "Vol",
+        -0.0008133204
+      ],
+      [
+        "cano",
+        -0.00012356207
+      ],
+      [
+        "es",
+        -0.0067267376
+      ]
+    ]
+  },
+  "Phreatic events associated with these structures feature superheated steam and can create craters called maars. Plinian events associated with them are often preceded by pyroclastic flows. Land around these structures can collapse and fill with water, resulting in a caldera. Underwater examples of these structures include deep sea vents like black smokers. Hawai'ian examples are particularly low in": {
+    "guess": "Volcanoes",
+    "confidence": [
+      [
+        "Vol",
+        -0.0013052374
+      ],
+      [
+        "cano",
+        -1.6762922e-05
+      ],
+      [
+        "es",
+        -0.008620486
+      ]
+    ]
+  },
+  "Phreatic events associated with these structures feature superheated steam and can create craters called maars. Plinian events associated with them are often preceded by pyroclastic flows. Land around these structures can collapse and fill with water, resulting in a caldera. Underwater examples of these structures include deep sea vents like black smokers. Hawai'ian examples are particularly low in silica, allowing them to be very broad. The majority of active examples are found around the Pacific": {
+    "guess": "Volcano",
+    "confidence": [
+      [
+        "Vol",
+        -1.0206721e-05
+      ],
+      [
+        "cano",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "Phreatic events associated with these structures feature superheated steam and can create craters called maars. Plinian events associated with them are often preceded by pyroclastic flows. Land around these structures can collapse and fill with water, resulting in a caldera. Underwater examples of these structures include deep sea vents like black smokers. Hawai'ian examples are particularly low in silica, allowing them to be very broad. The majority of active examples are found around the Pacific Ring of Fire. For 10 points, name these mountains out of which magma can erupt onto the earth's surface.": {
+    "guess": "Volcanoes",
+    "confidence": [
+      [
+        "Vol",
+        -1.504853e-06
+      ],
+      [
+        "cano",
+        -1.9027791e-05
+      ],
+      [
+        "es",
+        -0.0002676536
+      ]
+    ]
+  }
+}

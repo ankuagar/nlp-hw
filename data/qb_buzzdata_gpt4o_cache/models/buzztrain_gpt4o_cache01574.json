@@ -1,0 +1,100 @@
+{
+  "Eclipse Bay and Rambler Bay are both found at this island, which contains Barton Point at one end and": {
+    "guess": "Diego Garcia",
+    "confidence": [
+      [
+        "Die",
+        -0.07038207
+      ],
+      [
+        "go",
+        0.0
+      ],
+      [
+        " Garcia",
+        0.0
+      ]
+    ]
+  },
+  "Eclipse Bay and Rambler Bay are both found at this island, which contains Barton Point at one end and Simpson Point at the other end. Former settlements on this island included East Point and Minni Minni,": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.23514266
+      ],
+      [
+        ".",
+        -0.31326884
+      ]
+    ]
+  },
+  "Eclipse Bay and Rambler Bay are both found at this island, which contains Barton Point at one end and Simpson Point at the other end. Former settlements on this island included East Point and Minni Minni, home to a small population of Ilois forcibly evicted by the British in 1971. Part of the (*) Chagos": {
+    "guess": "Diego Garcia",
+    "confidence": [
+      [
+        "Die",
+        -0.73146045
+      ],
+      [
+        "go",
+        0.0
+      ],
+      [
+        " Garcia",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Eclipse Bay and Rambler Bay are both found at this island, which contains Barton Point at one end and Simpson Point at the other end. Former settlements on this island included East Point and Minni Minni, home to a small population of Ilois forcibly evicted by the British in 1971. Part of the (*) Chagos Archipelago, military sites on this island were at the center of recent allegations as its use as": {
+    "guess": "Diego Garcia",
+    "confidence": [
+      [
+        "Die",
+        -0.097436875
+      ],
+      [
+        "go",
+        0.0
+      ],
+      [
+        " Garcia",
+        0.0
+      ]
+    ]
+  },
+  "Eclipse Bay and Rambler Bay are both found at this island, which contains Barton Point at one end and Simpson Point at the other end. Former settlements on this island included East Point and Minni Minni, home to a small population of Ilois forcibly evicted by the British in 1971. Part of the (*) Chagos Archipelago, military sites on this island were at the center of recent allegations as its use as a ? \"black site\" in the war on terror. Lying about 1,000 miles south of India, this is-for 10 points-what": {
+    "guess": "Diego Garcia",
+    "confidence": [
+      [
+        "Die",
+        -0.14577544
+      ],
+      [
+        "go",
+        0.0
+      ],
+      [
+        " Garcia",
+        0.0
+      ]
+    ]
+  },
+  "Eclipse Bay and Rambler Bay are both found at this island, which contains Barton Point at one end and Simpson Point at the other end. Former settlements on this island included East Point and Minni Minni, home to a small population of Ilois forcibly evicted by the British in 1971. Part of the (*) Chagos Archipelago, military sites on this island were at the center of recent allegations as its use as a ? \"black site\" in the war on terror. Lying about 1,000 miles south of India, this is-for 10 points-what joint British and American possession, an atoll in the middle of the Indian Ocean?": {
+    "guess": "Diego Garcia",
+    "confidence": [
+      [
+        "Die",
+        -0.03414156
+      ],
+      [
+        "go",
+        0.0
+      ],
+      [
+        " Garcia",
+        0.0
+      ]
+    ]
+  }
+}

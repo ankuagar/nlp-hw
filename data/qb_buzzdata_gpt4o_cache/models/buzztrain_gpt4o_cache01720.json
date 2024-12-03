@@ -1,0 +1,560 @@
+{
+  "In his eminently amusing essay on this work, Donald Tovey calls its composer \"the whitest liar since": {
+    "guess": "Symphony No. 9 (Beethoven)",
+    "confidence": [
+      [
+        "Sym",
+        -0.18142362
+      ],
+      [
+        "phony",
+        -0.0004452084
+      ],
+      [
+        " No",
+        -4.608702e-05
+      ],
+      [
+        ".",
+        -3.1281633e-07
+      ],
+      [
+        " ",
+        -8.299462e-06
+      ],
+      [
+        "9",
+        -1.2978762
+      ],
+      [
+        " (",
+        -0.0002356025
+      ],
+      [
+        "Be",
+        -0.010822489
+      ],
+      [
+        "ethoven",
+        -1.9361265e-07
+      ],
+      [
+        ")",
+        -8.172892e-05
+      ]
+    ]
+  },
+  "In his eminently amusing essay on this work, Donald Tovey calls its composer \"the whitest liar since Cyrano de Bergerac\" and catalogues the various differences between this work and its source material.": {
+    "guess": "Don Quixote (Strauss)",
+    "confidence": [
+      [
+        "Don",
+        -0.5442891
+      ],
+      [
+        " Qu",
+        -0.003252693
+      ],
+      [
+        "ix",
+        -0.00055303273
+      ],
+      [
+        "ote",
+        -5.5122365e-07
+      ],
+      [
+        " (",
+        -0.10336763
+      ],
+      [
+        "Stra",
+        -0.33390754
+      ],
+      [
+        "uss",
+        -2.1650272e-05
+      ],
+      [
+        ")",
+        -0.014440838
+      ]
+    ]
+  },
+  "In his eminently amusing essay on this work, Donald Tovey calls its composer \"the whitest liar since Cyrano de Bergerac\" and catalogues the various differences between this work and its source material. Its composer stated that convent bells in this work are \"suggested by two harp-notes doubled by the": {
+    "guess": "Harold in Italy",
+    "confidence": [
+      [
+        "Har",
+        -0.057180848
+      ],
+      [
+        "old",
+        0.0
+      ],
+      [
+        " in",
+        -0.014164102
+      ],
+      [
+        " Italy",
+        0.0
+      ]
+    ]
+  },
+  "In his eminently amusing essay on this work, Donald Tovey calls its composer \"the whitest liar since Cyrano de Bergerac\" and catalogues the various differences between this work and its source material. Its composer stated that convent bells in this work are \"suggested by two harp-notes doubled by the flutes, oboes and horns\", and in the scherzo, the oboe and piccolo represent pifferi. It used material": {
+    "guess": "Harold in Italy",
+    "confidence": [
+      [
+        "Har",
+        -0.2870157
+      ],
+      [
+        "old",
+        0.0
+      ],
+      [
+        " in",
+        -0.1128238
+      ],
+      [
+        " Italy",
+        0.0
+      ]
+    ]
+  },
+  "In his eminently amusing essay on this work, Donald Tovey calls its composer \"the whitest liar since Cyrano de Bergerac\" and catalogues the various differences between this work and its source material. Its composer stated that convent bells in this work are \"suggested by two harp-notes doubled by the flutes, oboes and horns\", and in the scherzo, the oboe and piccolo represent pifferi. It used material from its composer's unfinished Rob Roy, while the composer used the money given to him for his": {
+    "guess": "Harold in Italy",
+    "confidence": [
+      [
+        "Har",
+        -0.03434535
+      ],
+      [
+        "old",
+        0.0
+      ],
+      [
+        " in",
+        -0.14267845
+      ],
+      [
+        " Italy",
+        0.0
+      ]
+    ]
+  },
+  "In his eminently amusing essay on this work, Donald Tovey calls its composer \"the whitest liar since Cyrano de Bergerac\" and catalogues the various differences between this work and its source material. Its composer stated that convent bells in this work are \"suggested by two harp-notes doubled by the flutes, oboes and horns\", and in the scherzo, the oboe and piccolo represent pifferi. It used material from its composer's unfinished Rob Roy, while the composer used the money given to him for his later Romeo et Juliette. It features movements like \"Serenade of an Abruzzi mountaineer to his mistress\"": {
+    "guess": "Harold in Italy",
+    "confidence": [
+      [
+        "Har",
+        -0.006781569
+      ],
+      [
+        "old",
+        0.0
+      ],
+      [
+        " in",
+        -5.8484206e-05
+      ],
+      [
+        " Italy",
+        0.0
+      ]
+    ]
+  },
+  "In his eminently amusing essay on this work, Donald Tovey calls its composer \"the whitest liar since Cyrano de Bergerac\" and catalogues the various differences between this work and its source material. Its composer stated that convent bells in this work are \"suggested by two harp-notes doubled by the flutes, oboes and horns\", and in the scherzo, the oboe and piccolo represent pifferi. It used material from its composer's unfinished Rob Roy, while the composer used the money given to him for his later Romeo et Juliette. It features movements like \"Serenade of an Abruzzi mountaineer to his mistress\" and \"March of the pilgrims singing their evening prayer.\" This work ends with an \"Orgy of the Brigands\",": {
+    "guess": "Harold in Italy",
+    "confidence": [
+      [
+        "Har",
+        -0.030024575
+      ],
+      [
+        "old",
+        0.0
+      ],
+      [
+        " in",
+        -0.06196825
+      ],
+      [
+        " Italy",
+        0.0
+      ]
+    ]
+  },
+  "In his eminently amusing essay on this work, Donald Tovey calls its composer \"the whitest liar since Cyrano de Bergerac\" and catalogues the various differences between this work and its source material. Its composer stated that convent bells in this work are \"suggested by two harp-notes doubled by the flutes, oboes and horns\", and in the scherzo, the oboe and piccolo represent pifferi. It used material from its composer's unfinished Rob Roy, while the composer used the money given to him for his later Romeo et Juliette. It features movements like \"Serenade of an Abruzzi mountaineer to his mistress\" and \"March of the pilgrims singing their evening prayer.\" This work ends with an \"Orgy of the Brigands\", and Paganini objected to this work because he did not get enough time playing the viola, though": {
+    "guess": "Harold in Italy",
+    "confidence": [
+      [
+        "Har",
+        -0.0054649785
+      ],
+      [
+        "old",
+        0.0
+      ],
+      [
+        " in",
+        -0.048587713
+      ],
+      [
+        " Italy",
+        0.0
+      ]
+    ]
+  },
+  "In his eminently amusing essay on this work, Donald Tovey calls its composer \"the whitest liar since Cyrano de Bergerac\" and catalogues the various differences between this work and its source material. Its composer stated that convent bells in this work are \"suggested by two harp-notes doubled by the flutes, oboes and horns\", and in the scherzo, the oboe and piccolo represent pifferi. It used material from its composer's unfinished Rob Roy, while the composer used the money given to him for his later Romeo et Juliette. It features movements like \"Serenade of an Abruzzi mountaineer to his mistress\" and \"March of the pilgrims singing their evening prayer.\" This work ends with an \"Orgy of the Brigands\", and Paganini objected to this work because he did not get enough time playing the viola, though the viola does represent the title character. For 10 points, name this symphony by Hector Berlioz,": {
+    "guess": "Harold in Italy",
+    "confidence": [
+      [
+        "Har",
+        -0.00012701898
+      ],
+      [
+        "old",
+        0.0
+      ],
+      [
+        " in",
+        -0.06196802
+      ],
+      [
+        " Italy",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "In his eminently amusing essay on this work, Donald Tovey calls its composer \"the whitest liar since Cyrano de Bergerac\" and catalogues the various differences between this work and its source material. Its composer stated that convent bells in this work are \"suggested by two harp-notes doubled by the flutes, oboes and horns\", and in the scherzo, the oboe and piccolo represent pifferi. It used material from its composer's unfinished Rob Roy, while the composer used the money given to him for his later Romeo et Juliette. It features movements like \"Serenade of an Abruzzi mountaineer to his mistress\" and \"March of the pilgrims singing their evening prayer.\" This work ends with an \"Orgy of the Brigands\", and Paganini objected to this work because he did not get enough time playing the viola, though the viola does represent the title character. For 10 points, name this symphony by Hector Berlioz, based on a work of Lord Byron.": {
+    "guess": "Harold in Italy",
+    "confidence": [
+      [
+        "Har",
+        -0.0012473741
+      ],
+      [
+        "old",
+        0.0
+      ],
+      [
+        " in",
+        -0.0067156097
+      ],
+      [
+        " Italy",
+        0.0
+      ]
+    ]
+  },
+  "Emil Gilels did a posthumous recording of some of these works, which were performed by Leif Andsnes on": {
+    "guess": "Beethoven's Piano Concertos",
+    "confidence": [
+      [
+        "Be",
+        -0.48821566
+      ],
+      [
+        "ethoven",
+        -1.3856493e-06
+      ],
+      [
+        "'s",
+        -0.5826682
+      ],
+      [
+        " Piano",
+        -0.070379406
+      ],
+      [
+        " Concert",
+        -0.004701038
+      ],
+      [
+        "os",
+        0.0
+      ]
+    ]
+  },
+  "Emil Gilels did a posthumous recording of some of these works, which were performed by Leif Andsnes on their composer's own piano at his own house. This set of works includes a Grandmother's minuet, a": {
+    "guess": "Lyric Pieces",
+    "confidence": [
+      [
+        "Ly",
+        -0.33252928
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        " Pieces",
+        -1.2233183e-05
+      ]
+    ]
+  },
+  "Emil Gilels did a posthumous recording of some of these works, which were performed by Leif Andsnes on their composer's own piano at his own house. This set of works includes a Grandmother's minuet, a French serenade, and a melancholy waltz, while the last group of them contains \"Peace in the Woods\"": {
+    "guess": "Lyric Pieces",
+    "confidence": [
+      [
+        "Ly",
+        -0.13180861
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        " Pieces",
+        -5.9153886e-06
+      ]
+    ]
+  },
+  "Emil Gilels did a posthumous recording of some of these works, which were performed by Leif Andsnes on their composer's own piano at his own house. This set of works includes a Grandmother's minuet, a French serenade, and a melancholy waltz, while the last group of them contains \"Peace in the Woods\" and \"Puck.\" The first collection features a tune based on Macbeth, the \"Watchman's Song\", while the": {
+    "guess": "Lyric Pieces",
+    "confidence": [
+      [
+        "Ly",
+        -0.015975133
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        " Pieces",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Emil Gilels did a posthumous recording of some of these works, which were performed by Leif Andsnes on their composer's own piano at his own house. This set of works includes a Grandmother's minuet, a French serenade, and a melancholy waltz, while the last group of them contains \"Peace in the Woods\" and \"Puck.\" The first collection features a tune based on Macbeth, the \"Watchman's Song\", while the last of these works, entitled \"Remembrances\", uses the same theme as the first, \"Arietta.\" More famous": {
+    "guess": "Lyric Pieces",
+    "confidence": [
+      [
+        "Ly",
+        -0.083073
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        " Pieces",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "Emil Gilels did a posthumous recording of some of these works, which were performed by Leif Andsnes on their composer's own piano at his own house. This set of works includes a Grandmother's minuet, a French serenade, and a melancholy waltz, while the last group of them contains \"Peace in the Woods\" and \"Puck.\" The first collection features a tune based on Macbeth, the \"Watchman's Song\", while the last of these works, entitled \"Remembrances\", uses the same theme as the first, \"Arietta.\" More famous ones depict a butterfly and a wedding day at Troldhaugen, while one of these pieces represents the": {
+    "guess": "Lyric Pieces",
+    "confidence": [
+      [
+        "Ly",
+        -0.0063149394
+      ],
+      [
+        "ric",
+        -3.1281633e-07
+      ],
+      [
+        " Pieces",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Emil Gilels did a posthumous recording of some of these works, which were performed by Leif Andsnes on their composer's own piano at his own house. This set of works includes a Grandmother's minuet, a French serenade, and a melancholy waltz, while the last group of them contains \"Peace in the Woods\" and \"Puck.\" The first collection features a tune based on Macbeth, the \"Watchman's Song\", while the last of these works, entitled \"Remembrances\", uses the same theme as the first, \"Arietta.\" More famous ones depict a butterfly and a wedding day at Troldhaugen, while one of these pieces represents the \"March of the Dwarfs\", and they also contain a paean to spring in Norway. For 10 points, name this": {
+    "guess": "Lyric Pieces",
+    "confidence": [
+      [
+        "Ly",
+        -0.016382486
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        " Pieces",
+        -1.1637165e-05
+      ]
+    ]
+  },
+  "Emil Gilels did a posthumous recording of some of these works, which were performed by Leif Andsnes on their composer's own piano at his own house. This set of works includes a Grandmother's minuet, a French serenade, and a melancholy waltz, while the last group of them contains \"Peace in the Woods\" and \"Puck.\" The first collection features a tune based on Macbeth, the \"Watchman's Song\", while the last of these works, entitled \"Remembrances\", uses the same theme as the first, \"Arietta.\" More famous ones depict a butterfly and a wedding day at Troldhaugen, while one of these pieces represents the \"March of the Dwarfs\", and they also contain a paean to spring in Norway. For 10 points, name this set of sixty-six solo piano pieces by Edvard Grieg.": {
+    "guess": "Lyric Pieces",
+    "confidence": [
+      [
+        "Ly",
+        -0.0010607947
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        " Pieces",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "After emigrating from Thessaly this figure was welcomed by Camese, with whom he fathered Tiberinus. Other": {
+    "guess": "Janus",
+    "confidence": [
+      [
+        "Jan",
+        -0.0022273334
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "After emigrating from Thessaly this figure was welcomed by Camese, with whom he fathered Tiberinus. Other children include Fons by the nymph Juturna, and with the nymph Carna he was the progenitor of a": {
+    "guess": "Janus",
+    "confidence": [
+      [
+        "Jan",
+        -0.07970116
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "After emigrating from Thessaly this figure was welcomed by Camese, with whom he fathered Tiberinus. Other children include Fons by the nymph Juturna, and with the nymph Carna he was the progenitor of a line of Kings of Alba Longa. Originally a King of Latium, he was deified by Numa Pompilius. In one": {
+    "guess": "Janus",
+    "confidence": [
+      [
+        "Jan",
+        -0.015090864
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "After emigrating from Thessaly this figure was welcomed by Camese, with whom he fathered Tiberinus. Other children include Fons by the nymph Juturna, and with the nymph Carna he was the progenitor of a line of Kings of Alba Longa. Originally a King of Latium, he was deified by Numa Pompilius. In one story he halted a Sabine attack by causing a hot spring to erupt, which led to the doors of his temple": {
+    "guess": "Janus",
+    "confidence": [
+      [
+        "Jan",
+        -0.048816387
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "After emigrating from Thessaly this figure was welcomed by Camese, with whom he fathered Tiberinus. Other children include Fons by the nymph Juturna, and with the nymph Carna he was the progenitor of a line of Kings of Alba Longa. Originally a King of Latium, he was deified by Numa Pompilius. In one story he halted a Sabine attack by causing a hot spring to erupt, which led to the doors of his temple being opened in all further times of war. For 10 points, name this two-faced Roman god of beginnings": {
+    "guess": "Janus",
+    "confidence": [
+      [
+        "Jan",
+        -0.038062144
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "After emigrating from Thessaly this figure was welcomed by Camese, with whom he fathered Tiberinus. Other children include Fons by the nymph Juturna, and with the nymph Carna he was the progenitor of a line of Kings of Alba Longa. Originally a King of Latium, he was deified by Numa Pompilius. In one story he halted a Sabine attack by causing a hot spring to erupt, which led to the doors of his temple being opened in all further times of war. For 10 points, name this two-faced Roman god of beginnings and gateways, the namesake of the Gregorian calendar's first month.": {
+    "guess": "Janus",
+    "confidence": [
+      [
+        "Jan",
+        -0.005324124
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "It emits a crackling sound when bent, and when vaporized at its relatively low boiling point, the vapor": {
+    "guess": "Iodine",
+    "confidence": [
+      [
+        "I",
+        -0.84131163
+      ],
+      [
+        "od",
+        -0.00015145572
+      ],
+      [
+        "ine",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "It emits a crackling sound when bent, and when vaporized at its relatively low boiling point, the vapor is a deep yellow color and monatomic. Discovered by Friedrich Stromeyer in a sample of zinc carbonate": {
+    "guess": "Cadmium",
+    "confidence": [
+      [
+        "Cad",
+        -0.0047495575
+      ],
+      [
+        "mium",
+        0.0
+      ]
+    ]
+  },
+  "It emits a crackling sound when bent, and when vaporized at its relatively low boiling point, the vapor is a deep yellow color and monatomic. Discovered by Friedrich Stromeyer in a sample of zinc carbonate during an experiment on its pharmaceutical properties, most of the industrial samples are collected": {
+    "guess": "Cadmium",
+    "confidence": [
+      [
+        "Cad",
+        -0.0030459275
+      ],
+      [
+        "mium",
+        0.0
+      ]
+    ]
+  },
+  "It emits a crackling sound when bent, and when vaporized at its relatively low boiling point, the vapor is a deep yellow color and monatomic. Discovered by Friedrich Stromeyer in a sample of zinc carbonate during an experiment on its pharmaceutical properties, most of the industrial samples are collected from the fumes leaving lead blast furnaces. Its sulfide is used in the production of yellow paint,": {
+    "guess": "Cadmium",
+    "confidence": [
+      [
+        "Cad",
+        -0.18004395
+      ],
+      [
+        "mium",
+        0.0
+      ]
+    ]
+  },
+  "It emits a crackling sound when bent, and when vaporized at its relatively low boiling point, the vapor is a deep yellow color and monatomic. Discovered by Friedrich Stromeyer in a sample of zinc carbonate during an experiment on its pharmaceutical properties, most of the industrial samples are collected from the fumes leaving lead blast furnaces. Its sulfide is used in the production of yellow paint, and in the electroplating of steel to prevent corrosion. Often used in its elemental form in battery": {
+    "guess": "Cadmium",
+    "confidence": [
+      [
+        "Cad",
+        -0.0007631687
+      ],
+      [
+        "mium",
+        0.0
+      ]
+    ]
+  },
+  "It emits a crackling sound when bent, and when vaporized at its relatively low boiling point, the vapor is a deep yellow color and monatomic. Discovered by Friedrich Stromeyer in a sample of zinc carbonate during an experiment on its pharmaceutical properties, most of the industrial samples are collected from the fumes leaving lead blast furnaces. Its sulfide is used in the production of yellow paint, and in the electroplating of steel to prevent corrosion. Often used in its elemental form in battery anodes, this is, FTP, what element, most often associated with the control rods of a nuclear reactor?": {
+    "guess": "Cadmium",
+    "confidence": [
+      [
+        "Cad",
+        -0.005299924
+      ],
+      [
+        "mium",
+        -3.1281633e-07
+      ]
+    ]
+  }
+}

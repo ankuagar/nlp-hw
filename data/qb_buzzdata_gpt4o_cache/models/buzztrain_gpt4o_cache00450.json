@@ -1,0 +1,3183 @@
+{
+  "The Bell series of this function is equal to one minus x over 1 minus px, while the partial sums of this": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9929553
+      ]
+    ]
+  },
+  "The Bell series of this function is equal to one minus x over 1 minus px, while the partial sums of this function show that its average order is equal to 3n divided by pi squared, a result which can be": {
+    "guess": "Divisor function",
+    "confidence": [
+      [
+        "Div",
+        -0.5558901
+      ],
+      [
+        "isor",
+        -2.3392786e-06
+      ],
+      [
+        " function",
+        -0.4481083
+      ]
+    ]
+  },
+  "The Bell series of this function is equal to one minus x over 1 minus px, while the partial sums of this function show that its average order is equal to 3n divided by pi squared, a result which can be used to find the number of lattice points visible from the origin. The Dirichlet convolution of the": {
+    "guess": "Euler's Totient Function",
+    "confidence": [
+      [
+        "Euler",
+        -0.81433374
+      ],
+      [
+        "'s",
+        -0.0005259882
+      ],
+      [
+        " Tot",
+        -0.012509895
+      ],
+      [
+        "ient",
+        0.0
+      ],
+      [
+        " Function",
+        -0.00026228945
+      ]
+    ]
+  },
+  "The Bell series of this function is equal to one minus x over 1 minus px, while the partial sums of this function show that its average order is equal to 3n divided by pi squared, a result which can be used to find the number of lattice points visible from the origin. The Dirichlet convolution of the identity function N and the Mobius function gives this function, and if a number has r distinct odd": {
+    "guess": "Divisor function",
+    "confidence": [
+      [
+        "Div",
+        -0.24243696
+      ],
+      [
+        "isor",
+        -9.0883464e-07
+      ],
+      [
+        " function",
+        -0.030731361
+      ]
+    ]
+  },
+  "The Bell series of this function is equal to one minus x over 1 minus px, while the partial sums of this function show that its average order is equal to 3n divided by pi squared, a result which can be used to find the number of lattice points visible from the origin. The Dirichlet convolution of the identity function N and the Mobius function gives this function, and if a number has r distinct odd prime factors, 2 to the r divides this function of the number. Summing this function over the divisors": {
+    "guess": "Divisor function",
+    "confidence": [
+      [
+        "Div",
+        -0.19682352
+      ],
+      [
+        "isor",
+        -6.704273e-07
+      ],
+      [
+        " function",
+        -0.016084813
+      ]
+    ]
+  },
+  "The Bell series of this function is equal to one minus x over 1 minus px, while the partial sums of this function show that its average order is equal to 3n divided by pi squared, a result which can be used to find the number of lattice points visible from the origin. The Dirichlet convolution of the identity function N and the Mobius function gives this function, and if a number has r distinct odd prime factors, 2 to the r divides this function of the number. Summing this function over the divisors of a number n gives n. It gives the number of elements in the group Z sub n star, and for a prime": {
+    "guess": "Euler's totient function",
+    "confidence": [
+      [
+        "Euler",
+        -0.052243784
+      ],
+      [
+        "'s",
+        -9.729906e-06
+      ],
+      [
+        " tot",
+        -6.9882217e-06
+      ],
+      [
+        "ient",
+        0.0
+      ],
+      [
+        " function",
+        0.0
+      ]
+    ]
+  },
+  "The Bell series of this function is equal to one minus x over 1 minus px, while the partial sums of this function show that its average order is equal to 3n divided by pi squared, a result which can be used to find the number of lattice points visible from the origin. The Dirichlet convolution of the identity function N and the Mobius function gives this function, and if a number has r distinct odd prime factors, 2 to the r divides this function of the number. Summing this function over the divisors of a number n gives n. It gives the number of elements in the group Z sub n star, and for a prime number p this function returns p minus 1. Also used in its namesake's generalization of Fermat's Little": {
+    "guess": "Euler's totient function",
+    "confidence": [
+      [
+        "Euler",
+        -0.10335654
+      ],
+      [
+        "'s",
+        -6.749814e-06
+      ],
+      [
+        " tot",
+        -0.0001407274
+      ],
+      [
+        "ient",
+        0.0
+      ],
+      [
+        " function",
+        0.0
+      ]
+    ]
+  },
+  "The Bell series of this function is equal to one minus x over 1 minus px, while the partial sums of this function show that its average order is equal to 3n divided by pi squared, a result which can be used to find the number of lattice points visible from the origin. The Dirichlet convolution of the identity function N and the Mobius function gives this function, and if a number has r distinct odd prime factors, 2 to the r divides this function of the number. Summing this function over the divisors of a number n gives n. It gives the number of elements in the group Z sub n star, and for a prime number p this function returns p minus 1. Also used in its namesake's generalization of Fermat's Little Theorem, for 10 points, name this function that returns the number of integers less than and relatively": {
+    "guess": "Euler's totient function",
+    "confidence": [
+      [
+        "Euler",
+        -0.031943426
+      ],
+      [
+        "'s",
+        -5.6769813e-06
+      ],
+      [
+        " tot",
+        -0.0004904801
+      ],
+      [
+        "ient",
+        0.0
+      ],
+      [
+        " function",
+        0.0
+      ]
+    ]
+  },
+  "The Bell series of this function is equal to one minus x over 1 minus px, while the partial sums of this function show that its average order is equal to 3n divided by pi squared, a result which can be used to find the number of lattice points visible from the origin. The Dirichlet convolution of the identity function N and the Mobius function gives this function, and if a number has r distinct odd prime factors, 2 to the r divides this function of the number. Summing this function over the divisors of a number n gives n. It gives the number of elements in the group Z sub n star, and for a prime number p this function returns p minus 1. Also used in its namesake's generalization of Fermat's Little Theorem, for 10 points, name this function that returns the number of integers less than and relatively prime to the input.": {
+    "guess": "Euler's totient function",
+    "confidence": [
+      [
+        "Euler",
+        -0.019904029
+      ],
+      [
+        "'s",
+        -3.888926e-06
+      ],
+      [
+        " tot",
+        -0.00020544765
+      ],
+      [
+        "ient",
+        0.0
+      ],
+      [
+        " function",
+        0.0
+      ]
+    ]
+  },
+  "The belief that this object is shrinking is suggested by Jacobs' model, which can be used to estimate": {
+    "guess": "Y chromosome",
+    "confidence": [
+      [
+        "Y",
+        -1.0460659
+      ],
+      [
+        " chromosome",
+        -0.00012999907
+      ]
+    ]
+  },
+  "The belief that this object is shrinking is suggested by Jacobs' model, which can be used to estimate its age. Posited by Inge Lehmann, this region is relatively depleted of light elements, which makes": {
+    "guess": "Inner core",
+    "confidence": [
+      [
+        "Inner",
+        -0.12516056
+      ],
+      [
+        " core",
+        -0.00018172979
+      ]
+    ]
+  },
+  "The belief that this object is shrinking is suggested by Jacobs' model, which can be used to estimate its age. Posited by Inge Lehmann, this region is relatively depleted of light elements, which makes the region above it buoyant. It apparently undergoes either super- or sub-rotation, and its resistivity": {
+    "guess": "Inner core",
+    "confidence": [
+      [
+        "Inner",
+        -0.15533969
+      ],
+      [
+        " core",
+        -0.00029899686
+      ]
+    ]
+  },
+  "The belief that this object is shrinking is suggested by Jacobs' model, which can be used to estimate its age. Posited by Inge Lehmann, this region is relatively depleted of light elements, which makes the region above it buoyant. It apparently undergoes either super- or sub-rotation, and its resistivity is anomalously high per Cowling's theorem, which deals with the dynamo mechanism that operates": {
+    "guess": "Inner core",
+    "confidence": [
+      [
+        "Inner",
+        -0.5187347
+      ],
+      [
+        " core",
+        -0.00018852073
+      ]
+    ]
+  },
+  "The belief that this object is shrinking is suggested by Jacobs' model, which can be used to estimate its age. Posited by Inge Lehmann, this region is relatively depleted of light elements, which makes the region above it buoyant. It apparently undergoes either super- or sub-rotation, and its resistivity is anomalously high per Cowling's theorem, which deals with the dynamo mechanism that operates here. It is mostly comprised of a nickel-iron alloy. FTP, name this liquid region about 1200 km in radius": {
+    "guess": "Outer core",
+    "confidence": [
+      [
+        "Outer",
+        -0.00018149138
+      ],
+      [
+        " core",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "The belief that this object is shrinking is suggested by Jacobs' model, which can be used to estimate its age. Posited by Inge Lehmann, this region is relatively depleted of light elements, which makes the region above it buoyant. It apparently undergoes either super- or sub-rotation, and its resistivity is anomalously high per Cowling's theorem, which deals with the dynamo mechanism that operates here. It is mostly comprised of a nickel-iron alloy. FTP, name this liquid region about 1200 km in radius at the very center of the earth.": {
+    "guess": "Outer core",
+    "confidence": [
+      [
+        "Outer",
+        -0.0023178456
+      ],
+      [
+        " core",
+        -0.00012368128
+      ]
+    ]
+  },
+  "Belgian composer Boudewijn Buckinx (BO-de-wine Boo-kingsk ) made a typically postmodern \"statement\" when": {
+    "guess": "Boudewijn Buckinx",
+    "confidence": [
+      [
+        "B",
+        -0.03033697
+      ],
+      [
+        "oude",
+        -2.7014437e-05
+      ],
+      [
+        "w",
+        0.0
+      ],
+      [
+        "ijn",
+        0.0
+      ],
+      [
+        " Buck",
+        -1.3856493e-06
+      ],
+      [
+        "inx",
+        0.0
+      ]
+    ]
+  },
+  "Belgian composer Boudewijn Buckinx (BO-de-wine Boo-kingsk ) made a typically postmodern \"statement\" when he produced nine of them between 1991 and 1992. Other examples include Burgm?ller's second, Borodin's": {
+    "guess": "Symphony",
+    "confidence": [
+      [
+        "Sym",
+        -0.07427628
+      ],
+      [
+        "phony",
+        -0.003183421
+      ]
+    ]
+  },
+  "Belgian composer Boudewijn Buckinx (BO-de-wine Boo-kingsk ) made a typically postmodern \"statement\" when he produced nine of them between 1991 and 1992. Other examples include Burgm?ller's second, Borodin's third, Bruckner's ninth, Sibelius' eighth, Bizet's \"Roma,\" Mahler's tenth, and Tchaikovsky's seventh.": {
+    "guess": "Unfinished symphony",
+    "confidence": [
+      [
+        "Un",
+        -0.2029622
+      ],
+      [
+        "finished",
+        -2.577686e-06
+      ],
+      [
+        " sym",
+        -0.0069302665
+      ],
+      [
+        "phony",
+        -0.043000225
+      ]
+    ]
+  },
+  "Belgian composer Boudewijn Buckinx (BO-de-wine Boo-kingsk ) made a typically postmodern \"statement\" when he produced nine of them between 1991 and 1992. Other examples include Burgm?ller's second, Borodin's third, Bruckner's ninth, Sibelius' eighth, Bizet's \"Roma,\" Mahler's tenth, and Tchaikovsky's seventh. FTP, heart attacks, a blood infection, and drowning in a mineral bath are among the reasons": {
+    "guess": "Unfinished symphony",
+    "confidence": [
+      [
+        "Un",
+        -0.10288852
+      ],
+      [
+        "finished",
+        -1.8624639e-06
+      ],
+      [
+        " sym",
+        -0.006964832
+      ],
+      [
+        "phony",
+        -0.08894056
+      ]
+    ]
+  },
+  "Belgian composer Boudewijn Buckinx (BO-de-wine Boo-kingsk ) made a typically postmodern \"statement\" when he produced nine of them between 1991 and 1992. Other examples include Burgm?ller's second, Borodin's third, Bruckner's ninth, Sibelius' eighth, Bizet's \"Roma,\" Mahler's tenth, and Tchaikovsky's seventh. FTP, heart attacks, a blood infection, and drowning in a mineral bath are among the reasons that these musical works fall under this category, the classic examples of which are Schubert's eighth": {
+    "guess": "Unfinished symphony",
+    "confidence": [
+      [
+        "Un",
+        -0.00019817622
+      ],
+      [
+        "finished",
+        -1.9361265e-07
+      ],
+      [
+        " sym",
+        -0.00057114434
+      ],
+      [
+        "phony",
+        -0.012511299
+      ]
+    ]
+  },
+  "Belgian composer Boudewijn Buckinx (BO-de-wine Boo-kingsk ) made a typically postmodern \"statement\" when he produced nine of them between 1991 and 1992. Other examples include Burgm?ller's second, Borodin's third, Bruckner's ninth, Sibelius' eighth, Bizet's \"Roma,\" Mahler's tenth, and Tchaikovsky's seventh. FTP, heart attacks, a blood infection, and drowning in a mineral bath are among the reasons that these musical works fall under this category, the classic examples of which are Schubert's eighth and Beethoven's tenth.": {
+    "guess": "Unfinished symphony",
+    "confidence": [
+      [
+        "Un",
+        -0.0023272445
+      ],
+      [
+        "finished",
+        -1.9361265e-07
+      ],
+      [
+        " sym",
+        -0.014189126
+      ],
+      [
+        "phony",
+        -0.0009114635
+      ]
+    ]
+  },
+  "Believing that the family was an unnatural construct, he advocated the freedom of promiscuity between": {
+    "guess": "Charles Fourier",
+    "confidence": [
+      [
+        "Charles",
+        -0.28701204
+      ],
+      [
+        " Fourier",
+        -4.4849444e-06
+      ]
+    ]
+  },
+  "Believing that the family was an unnatural construct, he advocated the freedom of promiscuity between men and women and entire communities caring for children.  He advocated \"shamelessness\", or disregard": {
+    "guess": "Charles Fourier",
+    "confidence": [
+      [
+        "Charles",
+        -0.25152853
+      ],
+      [
+        " Fourier",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "Believing that the family was an unnatural construct, he advocated the freedom of promiscuity between men and women and entire communities caring for children.  He advocated \"shamelessness\", or disregard for those conventions holding that an action harmless in nature may not be performed in every situation,": {
+    "guess": "Free love",
+    "confidence": [
+      [
+        "Free",
+        -0.22617553
+      ],
+      [
+        " love",
+        -0.57596606
+      ]
+    ]
+  },
+  "Believing that the family was an unnatural construct, he advocated the freedom of promiscuity between men and women and entire communities caring for children.  He advocated \"shamelessness\", or disregard for those conventions holding that an action harmless in nature may not be performed in every situation, and \"outspokenness\", or the zeal for exposing vice and conceit and stirring men to reform, in": {
+    "guess": "Diogenes of Sinope",
+    "confidence": [
+      [
+        "Di",
+        -0.4039837
+      ],
+      [
+        "ogen",
+        -3.1281633e-07
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        " of",
+        -0.00028767617
+      ],
+      [
+        " Sino",
+        -1.1637165e-05
+      ],
+      [
+        "pe",
+        0.0
+      ]
+    ]
+  },
+  "Believing that the family was an unnatural construct, he advocated the freedom of promiscuity between men and women and entire communities caring for children.  He advocated \"shamelessness\", or disregard for those conventions holding that an action harmless in nature may not be performed in every situation, and \"outspokenness\", or the zeal for exposing vice and conceit and stirring men to reform, in addition to the more commonly known self-sufficiency and rejection of luxury.  FTP, name this philosopher,": {
+    "guess": "Diogenes of Sinope",
+    "confidence": [
+      [
+        "Di",
+        -0.003825491
+      ],
+      [
+        "ogen",
+        0.0
+      ],
+      [
+        "es",
+        0.0
+      ],
+      [
+        " of",
+        -0.048844643
+      ],
+      [
+        " Sino",
+        -2.58224e-05
+      ],
+      [
+        "pe",
+        0.0
+      ]
+    ]
+  },
+  "Believing that the family was an unnatural construct, he advocated the freedom of promiscuity between men and women and entire communities caring for children.  He advocated \"shamelessness\", or disregard for those conventions holding that an action harmless in nature may not be performed in every situation, and \"outspokenness\", or the zeal for exposing vice and conceit and stirring men to reform, in addition to the more commonly known self-sufficiency and rejection of luxury.  FTP, name this philosopher, who wandered the streets by day with a lit lantern searching for an honest man.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.71081454
+      ]
+    ]
+  },
+  "Belonging to the Alcmaeonid family, this man's great-grandfather had brought about a public curse on": {
+    "guess": "Megacles",
+    "confidence": [
+      [
+        "Meg",
+        -0.58655673
+      ],
+      [
+        "acles",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "Belonging to the Alcmaeonid family, this man's great-grandfather had brought about a public curse on the family by executing the followers of the would-be tyrant Cylon in 632 BCE.  The son of Megacles,": {
+    "guess": "Alcmaeonidae",
+    "confidence": [
+      [
+        "Al",
+        -0.9605991
+      ],
+      [
+        "c",
+        -2.486877e-05
+      ],
+      [
+        "ma",
+        -0.001291905
+      ],
+      [
+        "e",
+        -6.704273e-07
+      ],
+      [
+        "on",
+        -4.723352e-06
+      ],
+      [
+        "idae",
+        -0.043979935
+      ]
+    ]
+  },
+  "Belonging to the Alcmaeonid family, this man's great-grandfather had brought about a public curse on the family by executing the followers of the would-be tyrant Cylon in 632 BCE.  The son of Megacles, he restructured the four ancient tribes into ten, and organized the boule to consist of 500 members.": {
+    "guess": "Cleisthenes",
+    "confidence": [
+      [
+        "Cle",
+        -0.079063624
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "then",
+        0.0
+      ],
+      [
+        "es",
+        0.0
+      ]
+    ]
+  },
+  "Belonging to the Alcmaeonid family, this man's great-grandfather had brought about a public curse on the family by executing the followers of the would-be tyrant Cylon in 632 BCE.  The son of Megacles, he restructured the four ancient tribes into ten, and organized the boule to consist of 500 members.  He was chief archon of Athens from 525-524 BCE following the death of the Peisistratus, after which": {
+    "guess": "Cleisthenes",
+    "confidence": [
+      [
+        "Cle",
+        -0.08339943
+      ],
+      [
+        "is",
+        -5.5122365e-07
+      ],
+      [
+        "then",
+        0.0
+      ],
+      [
+        "es",
+        0.0
+      ]
+    ]
+  },
+  "Belonging to the Alcmaeonid family, this man's great-grandfather had brought about a public curse on the family by executing the followers of the would-be tyrant Cylon in 632 BCE.  The son of Megacles, he restructured the four ancient tribes into ten, and organized the boule to consist of 500 members.  He was chief archon of Athens from 525-524 BCE following the death of the Peisistratus, after which his power briefly declined until 508 BCE.  FTP, name this Athenian statesman who allied himself with": {
+    "guess": "Cleisthenes",
+    "confidence": [
+      [
+        "Cle",
+        -0.0004546255
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "then",
+        0.0
+      ],
+      [
+        "es",
+        0.0
+      ]
+    ]
+  },
+  "Belonging to the Alcmaeonid family, this man's great-grandfather had brought about a public curse on the family by executing the followers of the would-be tyrant Cylon in 632 BCE.  The son of Megacles, he restructured the four ancient tribes into ten, and organized the boule to consist of 500 members.  He was chief archon of Athens from 525-524 BCE following the death of the Peisistratus, after which his power briefly declined until 508 BCE.  FTP, name this Athenian statesman who allied himself with the Assembly against the nobles in 508 BCE, thus imposing democratic reform.": {
+    "guess": "Cleisthenes",
+    "confidence": [
+      [
+        "Cle",
+        -9.4960524e-05
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "then",
+        0.0
+      ],
+      [
+        "es",
+        0.0
+      ]
+    ]
+  },
+  "It is believed that between 60,000 and 90,000 people in the U.S. live under this system.  It is opposed": {
+    "guess": "Amish",
+    "confidence": [
+      [
+        "Am",
+        -0.63284695
+      ],
+      [
+        "ish",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "It is believed that between 60,000 and 90,000 people in the U.S. live under this system.  It is opposed by Rowena Erickson's Tapestry group, composed of women who once participated in it, and supported": {
+    "guess": "Polygamy in the United States",
+    "confidence": [
+      [
+        "Pol",
+        -0.35685053
+      ],
+      [
+        "yg",
+        -1.6762922e-05
+      ],
+      [
+        "amy",
+        -7.226629e-06
+      ],
+      [
+        " in",
+        -0.0019612247
+      ],
+      [
+        " the",
+        -0.023315944
+      ],
+      [
+        " United",
+        -0.00016527968
+      ],
+      [
+        " States",
+        0.0
+      ]
+    ]
+  },
+  "It is believed that between 60,000 and 90,000 people in the U.S. live under this system.  It is opposed by Rowena Erickson's Tapestry group, composed of women who once participated in it, and supported by the ACLU and the Women's Religious Liberties Union.  FTP, identify this practice that has been called": {
+    "guess": "Polygamy in the United States",
+    "confidence": [
+      [
+        "Pol",
+        -0.054128315
+      ],
+      [
+        "yg",
+        -2.1008714e-06
+      ],
+      [
+        "amy",
+        -4.3202e-07
+      ],
+      [
+        " in",
+        -0.018181434
+      ],
+      [
+        " the",
+        -0.06203715
+      ],
+      [
+        " United",
+        -0.00013679368
+      ],
+      [
+        " States",
+        0.0
+      ]
+    ]
+  },
+  "It is believed that between 60,000 and 90,000 people in the U.S. live under this system.  It is opposed by Rowena Erickson's Tapestry group, composed of women who once participated in it, and supported by the ACLU and the Women's Religious Liberties Union.  FTP, identify this practice that has been called \"Utah's dirty little secret,\" a tenet banned in the 19th century by the Mormon church.": {
+    "guess": "Polygamy in the United States",
+    "confidence": [
+      [
+        "Pol",
+        -0.008590226
+      ],
+      [
+        "yg",
+        -1.9361265e-07
+      ],
+      [
+        "amy",
+        0.0
+      ],
+      [
+        " in",
+        -0.47421873
+      ],
+      [
+        " the",
+        -0.39915344
+      ],
+      [
+        " United",
+        -0.013981202
+      ],
+      [
+        " States",
+        0.0
+      ]
+    ]
+  },
+  "This belief system holds that partial knowledge is attainable through different viewpoints called naya": {
+    "guess": "Anekantavada",
+    "confidence": [
+      [
+        "A",
+        -0.05078068
+      ],
+      [
+        "nek",
+        -4.4849444e-06
+      ],
+      [
+        "ant",
+        -0.0009127748
+      ],
+      [
+        "av",
+        -3.7697225e-06
+      ],
+      [
+        "ada",
+        -4.4849444e-06
+      ]
+    ]
+  },
+  "This belief system holds that partial knowledge is attainable through different viewpoints called naya and that souls are initially omniscient but restrained by karma. Among the tenets of this religion": {
+    "guess": "Jainism",
+    "confidence": [
+      [
+        "J",
+        -0.67374074
+      ],
+      [
+        "ain",
+        -1.147242e-06
+      ],
+      [
+        "ism",
+        -0.00084917503
+      ]
+    ]
+  },
+  "This belief system holds that partial knowledge is attainable through different viewpoints called naya and that souls are initially omniscient but restrained by karma. Among the tenets of this religion are asteya, not taking that which is not given, and satya, truth. Forgiveness can be sought through": {
+    "guess": "Jainism",
+    "confidence": [
+      [
+        "J",
+        -0.00059473567
+      ],
+      [
+        "ain",
+        0.0
+      ],
+      [
+        "ism",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "This belief system holds that partial knowledge is attainable through different viewpoints called naya and that souls are initially omniscient but restrained by karma. Among the tenets of this religion are asteya, not taking that which is not given, and satya, truth. Forgiveness can be sought through samayik and the concepts of dharma and adharma allow movement and rest. Samvara is a cessation of the": {
+    "guess": "Jainism",
+    "confidence": [
+      [
+        "J",
+        -0.00162388
+      ],
+      [
+        "ain",
+        0.0
+      ],
+      [
+        "ism",
+        -5.7961847e-06
+      ]
+    ]
+  },
+  "This belief system holds that partial knowledge is attainable through different viewpoints called naya and that souls are initially omniscient but restrained by karma. Among the tenets of this religion are asteya, not taking that which is not given, and satya, truth. Forgiveness can be sought through samayik and the concepts of dharma and adharma allow movement and rest. Samvara is a cessation of the accumulation of karma, and the 24 Tirthankaras acquired all knowledge. Sects of this religion include": {
+    "guess": "Jainism",
+    "confidence": [
+      [
+        "J",
+        -0.05350531
+      ],
+      [
+        "ain",
+        -1.9361265e-07
+      ],
+      [
+        "ism",
+        -1.735894e-05
+      ]
+    ]
+  },
+  "This belief system holds that partial knowledge is attainable through different viewpoints called naya and that souls are initially omniscient but restrained by karma. Among the tenets of this religion are asteya, not taking that which is not given, and satya, truth. Forgiveness can be sought through samayik and the concepts of dharma and adharma allow movement and rest. Samvara is a cessation of the accumulation of karma, and the 24 Tirthankaras acquired all knowledge. Sects of this religion include the sky-clad Digambaras and white-clad Svetambaras, both of which practice ahimsa, or non-violence.": {
+    "guess": "Jainism",
+    "confidence": [
+      [
+        "J",
+        -5.967624e-05
+      ],
+      [
+        "ain",
+        0.0
+      ],
+      [
+        "ism",
+        -4.9617593e-06
+      ]
+    ]
+  },
+  "This belief system holds that partial knowledge is attainable through different viewpoints called naya and that souls are initially omniscient but restrained by karma. Among the tenets of this religion are asteya, not taking that which is not given, and satya, truth. Forgiveness can be sought through samayik and the concepts of dharma and adharma allow movement and rest. Samvara is a cessation of the accumulation of karma, and the 24 Tirthankaras acquired all knowledge. Sects of this religion include the sky-clad Digambaras and white-clad Svetambaras, both of which practice ahimsa, or non-violence. For 10 points, name this religion whose adherents follow the teachings of Mahavira.": {
+    "guess": "Jainism",
+    "confidence": [
+      [
+        "J",
+        -0.00016492206
+      ],
+      [
+        "ain",
+        0.0
+      ],
+      [
+        "ism",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "It is believed that the composer of this work did not know the identity of its commissioner, and this": {
+    "guess": "Requiem (Mozart)",
+    "confidence": [
+      [
+        "Re",
+        -0.1613223
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        " (",
+        -1.147242e-06
+      ],
+      [
+        "Moz",
+        -4.3202e-07
+      ],
+      [
+        "art",
+        0.0
+      ],
+      [
+        ")",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "It is believed that the composer of this work did not know the identity of its commissioner, and this composition was played at the funerals of Frederic Chopin and Franz Joseph Haydn.  It includes a solo": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.36670467
+      ]
+    ]
+  },
+  "It is believed that the composer of this work did not know the identity of its commissioner, and this composition was played at the funerals of Frederic Chopin and Franz Joseph Haydn.  It includes a solo quartet in its Recordare and Tuba Mirum movements, while it also contains a notable Kyrie.  Its Sanctus": {
+    "guess": "Requiem (Mozart)",
+    "confidence": [
+      [
+        "Re",
+        -0.00171159
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        " (",
+        -6.704273e-07
+      ],
+      [
+        "Moz",
+        -4.9617593e-06
+      ],
+      [
+        "art",
+        0.0
+      ],
+      [
+        ")",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "It is believed that the composer of this work did not know the identity of its commissioner, and this composition was played at the funerals of Frederic Chopin and Franz Joseph Haydn.  It includes a solo quartet in its Recordare and Tuba Mirum movements, while it also contains a notable Kyrie.  Its Sanctus and Benedictus movements were likely written by Franz Sussmayer.  For 10 points, identify this": {
+    "guess": "Requiem (Mozart)",
+    "confidence": [
+      [
+        "Re",
+        -0.00055815483
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        " (",
+        -5.5122365e-07
+      ],
+      [
+        "Moz",
+        0.0
+      ],
+      [
+        "art",
+        0.0
+      ],
+      [
+        ")",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "It is believed that the composer of this work did not know the identity of its commissioner, and this composition was played at the funerals of Frederic Chopin and Franz Joseph Haydn.  It includes a solo quartet in its Recordare and Tuba Mirum movements, while it also contains a notable Kyrie.  Its Sanctus and Benedictus movements were likely written by Franz Sussmayer.  For 10 points, identify this work, K626, that was left unfinished by its composer, a young Austrian prodigy.": {
+    "guess": "Requiem (Mozart)",
+    "confidence": [
+      [
+        "Re",
+        -0.001171533
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        " (",
+        -1.8624639e-06
+      ],
+      [
+        "Moz",
+        0.0
+      ],
+      [
+        "art",
+        0.0
+      ],
+      [
+        ")",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The Believers' Prayer is derived from a passage in this book, whose ninth chapter features the healing": {
+    "guess": "Acts of the Apostles",
+    "confidence": [
+      [
+        "Acts",
+        -0.00029804322
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Apost",
+        0.0
+      ],
+      [
+        "les",
+        0.0
+      ]
+    ]
+  },
+  "The Believers' Prayer is derived from a passage in this book, whose ninth chapter features the healing of Aeneas and Tabitha. The second book to begin with a dedication to Theophilus, its eighth chapter": {
+    "guess": "Acts of the Apostles",
+    "confidence": [
+      [
+        "Acts",
+        -0.0015249758
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Apost",
+        0.0
+      ],
+      [
+        "les",
+        0.0
+      ]
+    ]
+  },
+  "The Believers' Prayer is derived from a passage in this book, whose ninth chapter features the healing of Aeneas and Tabitha. The second book to begin with a dedication to Theophilus, its eighth chapter recounts the conversion of Simon Magnus by Phillip, while its seventh chapter tells the account of": {
+    "guess": "Acts of the Apostles",
+    "confidence": [
+      [
+        "Acts",
+        -0.002485646
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Apost",
+        0.0
+      ],
+      [
+        "les",
+        0.0
+      ]
+    ]
+  },
+  "The Believers' Prayer is derived from a passage in this book, whose ninth chapter features the healing of Aeneas and Tabitha. The second book to begin with a dedication to Theophilus, its eighth chapter recounts the conversion of Simon Magnus by Phillip, while its seventh chapter tells the account of St. Stephen's stoning at the hands of Saul, who is later converted while on his way to Damascus. Centering": {
+    "guess": "Acts of the Apostles",
+    "confidence": [
+      [
+        "Acts",
+        -0.0110662095
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Apost",
+        0.0
+      ],
+      [
+        "les",
+        0.0
+      ]
+    ]
+  },
+  "The Believers' Prayer is derived from a passage in this book, whose ninth chapter features the healing of Aeneas and Tabitha. The second book to begin with a dedication to Theophilus, its eighth chapter recounts the conversion of Simon Magnus by Phillip, while its seventh chapter tells the account of St. Stephen's stoning at the hands of Saul, who is later converted while on his way to Damascus. Centering on the deeds of St. Paul and St. Peter, for 10 points, identify this Biblical book that directly": {
+    "guess": "Acts of the Apostles",
+    "confidence": [
+      [
+        "Acts",
+        -0.001506886
+      ],
+      [
+        " of",
+        -5.5122365e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Apost",
+        0.0
+      ],
+      [
+        "les",
+        0.0
+      ]
+    ]
+  },
+  "The Believers' Prayer is derived from a passage in this book, whose ninth chapter features the healing of Aeneas and Tabitha. The second book to begin with a dedication to Theophilus, its eighth chapter recounts the conversion of Simon Magnus by Phillip, while its seventh chapter tells the account of St. Stephen's stoning at the hands of Saul, who is later converted while on his way to Damascus. Centering on the deeds of St. Paul and St. Peter, for 10 points, identify this Biblical book that directly follows the Gospels and is named after the twelve closest followers of Jesus.": {
+    "guess": "Acts of the Apostles",
+    "confidence": [
+      [
+        "Acts",
+        -0.0007115975
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Apost",
+        0.0
+      ],
+      [
+        "les",
+        0.0
+      ]
+    ]
+  },
+  "Bela Bartok's first composition of this type in two movements was published posthumously, and his second": {
+    "guess": "Violin Concerto No. 1 (Bart\u00f3k)",
+    "confidence": [
+      [
+        "Vi",
+        -0.030298345
+      ],
+      [
+        "olin",
+        -2.7610455e-05
+      ],
+      [
+        " Conc",
+        -0.023312334
+      ],
+      [
+        "erto",
+        0.0
+      ],
+      [
+        " No",
+        -0.031337082
+      ],
+      [
+        ".",
+        -4.3202e-07
+      ],
+      [
+        " ",
+        -4.370295e-05
+      ],
+      [
+        "1",
+        -0.31326434
+      ],
+      [
+        " (",
+        -0.009467773
+      ],
+      [
+        "Bart",
+        -0.0003856286
+      ],
+      [
+        "\u00f3k",
+        -0.00015848507
+      ],
+      [
+        ")",
+        -3.7623562e-05
+      ]
+    ]
+  },
+  "Bela Bartok's first composition of this type in two movements was published posthumously, and his second composition of this type included an unusual andante tranquillo second movement and was dedicated": {
+    "guess": "Violin Concerto No. 1 (Bart\u00f3k)",
+    "confidence": [
+      [
+        "Vi",
+        -0.0513055
+      ],
+      [
+        "olin",
+        -3.5477897e-05
+      ],
+      [
+        " Conc",
+        -0.38690683
+      ],
+      [
+        "erto",
+        0.0
+      ],
+      [
+        " No",
+        -0.012267456
+      ],
+      [
+        ".",
+        -2.1008714e-06
+      ],
+      [
+        " ",
+        -8.76891e-05
+      ],
+      [
+        "1",
+        -0.14268042
+      ],
+      [
+        " (",
+        -0.003829533
+      ],
+      [
+        "Bart",
+        -0.0002356025
+      ],
+      [
+        "\u00f3k",
+        -7.493431e-05
+      ],
+      [
+        ")",
+        -1.867018e-05
+      ]
+    ]
+  },
+  "Bela Bartok's first composition of this type in two movements was published posthumously, and his second composition of this type included an unusual andante tranquillo second movement and was dedicated to Zoltan Szekely. Another composition of this type was composed in the company of Josef Kotek and": {
+    "guess": "Violin concerto",
+    "confidence": [
+      [
+        "Vi",
+        -0.0073306905
+      ],
+      [
+        "olin",
+        0.0
+      ],
+      [
+        " concerto",
+        -0.5767145
+      ]
+    ]
+  },
+  "Bela Bartok's first composition of this type in two movements was published posthumously, and his second composition of this type included an unusual andante tranquillo second movement and was dedicated to Zoltan Szekely. Another composition of this type was composed in the company of Josef Kotek and transitions without a break from the G minor canzonetta second movement to its D major finale. Adolph": {
+    "guess": "Violin concerto",
+    "confidence": [
+      [
+        "Vi",
+        -0.20959048
+      ],
+      [
+        "olin",
+        -1.9361265e-07
+      ],
+      [
+        " concerto",
+        -0.02324606
+      ]
+    ]
+  },
+  "Bela Bartok's first composition of this type in two movements was published posthumously, and his second composition of this type included an unusual andante tranquillo second movement and was dedicated to Zoltan Szekely. Another composition of this type was composed in the company of Josef Kotek and transitions without a break from the G minor canzonetta second movement to its D major finale. Adolph Brodsky premiered that composition written by Lake Geneva by Pyotr Ilyich Tchaikovsky. Four (*) programmatic": {
+    "guess": "Violin concerto",
+    "confidence": [
+      [
+        "Vi",
+        -0.052022446
+      ],
+      [
+        "olin",
+        0.0
+      ],
+      [
+        " concerto",
+        -0.048599638
+      ]
+    ]
+  },
+  "Bela Bartok's first composition of this type in two movements was published posthumously, and his second composition of this type included an unusual andante tranquillo second movement and was dedicated to Zoltan Szekely. Another composition of this type was composed in the company of Josef Kotek and transitions without a break from the G minor canzonetta second movement to its D major finale. Adolph Brodsky premiered that composition written by Lake Geneva by Pyotr Ilyich Tchaikovsky. Four (*) programmatic examples of this type of composition comprise Antonio Vivaldi's work The Four Seasons. For": {
+    "guess": "Violin concerto",
+    "confidence": [
+      [
+        "Vi",
+        -0.0028898716
+      ],
+      [
+        "olin",
+        0.0
+      ],
+      [
+        " concerto",
+        -0.0002753982
+      ]
+    ]
+  },
+  "Bela Bartok's first composition of this type in two movements was published posthumously, and his second composition of this type included an unusual andante tranquillo second movement and was dedicated to Zoltan Szekely. Another composition of this type was composed in the company of Josef Kotek and transitions without a break from the G minor canzonetta second movement to its D major finale. Adolph Brodsky premiered that composition written by Lake Geneva by Pyotr Ilyich Tchaikovsky. Four (*) programmatic examples of this type of composition comprise Antonio Vivaldi's work The Four Seasons. For 10 points, name this type of composition written for orchestra and a soloist on the smallest standard": {
+    "guess": "Violin concerto",
+    "confidence": [
+      [
+        "Vi",
+        -2.808727e-05
+      ],
+      [
+        "olin",
+        0.0
+      ],
+      [
+        " concerto",
+        -0.0024874303
+      ]
+    ]
+  },
+  "Bela Bartok's first composition of this type in two movements was published posthumously, and his second composition of this type included an unusual andante tranquillo second movement and was dedicated to Zoltan Szekely. Another composition of this type was composed in the company of Josef Kotek and transitions without a break from the G minor canzonetta second movement to its D major finale. Adolph Brodsky premiered that composition written by Lake Geneva by Pyotr Ilyich Tchaikovsky. Four (*) programmatic examples of this type of composition comprise Antonio Vivaldi's work The Four Seasons. For 10 points, name this type of composition written for orchestra and a soloist on the smallest standard string instrument.": {
+    "guess": "Violin concerto",
+    "confidence": [
+      [
+        "Vi",
+        -0.00064428773
+      ],
+      [
+        "olin",
+        0.0
+      ],
+      [
+        " concerto",
+        -0.0005550592
+      ]
+    ]
+  },
+  "The man beloved of one of the sisters in this novel turns out to be cad, the father of an illegitimate": {
+    "guess": "The Tenant of Wildfell Hall",
+    "confidence": [
+      [
+        "The",
+        -0.83491457
+      ],
+      [
+        " Tenant",
+        -1.1288271
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Wild",
+        0.0
+      ],
+      [
+        "fell",
+        -1.9361265e-07
+      ],
+      [
+        " Hall",
+        0.0
+      ]
+    ]
+  },
+  "The man beloved of one of the sisters in this novel turns out to be cad, the father of an illegitimate child, and a golddigger, as he eventually marries a woman to whom the only attraction he feels is": {
+    "guess": "The House of Mirth",
+    "confidence": [
+      [
+        "The",
+        -1.2561904
+      ],
+      [
+        " House",
+        -0.47492278
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " M",
+        -0.0019526604
+      ],
+      [
+        "irth",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "The man beloved of one of the sisters in this novel turns out to be cad, the father of an illegitimate child, and a golddigger, as he eventually marries a woman to whom the only attraction he feels is to her money. The beloved of the elder sister, on the other hand, is revealed to be engaged to Miss": {
+    "guess": "Sense and Sensibility",
+    "confidence": [
+      [
+        "Sense",
+        -0.004409229
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " Sens",
+        0.0
+      ],
+      [
+        "ibility",
+        0.0
+      ]
+    ]
+  },
+  "The man beloved of one of the sisters in this novel turns out to be cad, the father of an illegitimate child, and a golddigger, as he eventually marries a woman to whom the only attraction he feels is to her money. The beloved of the elder sister, on the other hand, is revealed to be engaged to Miss Lucy Steele, a girl of mean understanding whom he no longer loves but who he stays by because it is": {
+    "guess": "Sense and Sensibility",
+    "confidence": [
+      [
+        "Sense",
+        -0.00026896485
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " Sens",
+        0.0
+      ],
+      [
+        "ibility",
+        0.0
+      ]
+    ]
+  },
+  "The man beloved of one of the sisters in this novel turns out to be cad, the father of an illegitimate child, and a golddigger, as he eventually marries a woman to whom the only attraction he feels is to her money. The beloved of the elder sister, on the other hand, is revealed to be engaged to Miss Lucy Steele, a girl of mean understanding whom he no longer loves but who he stays by because it is the right thing to do, even when his mother disowns him. FTP, identify this Jane Austen novel about": {
+    "guess": "Sense and Sensibility",
+    "confidence": [
+      [
+        "Sense",
+        -0.0021980752
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " Sens",
+        0.0
+      ],
+      [
+        "ibility",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The man beloved of one of the sisters in this novel turns out to be cad, the father of an illegitimate child, and a golddigger, as he eventually marries a woman to whom the only attraction he feels is to her money. The beloved of the elder sister, on the other hand, is revealed to be engaged to Miss Lucy Steele, a girl of mean understanding whom he no longer loves but who he stays by because it is the right thing to do, even when his mother disowns him. FTP, identify this Jane Austen novel about Willoughby and Edward Ferrars, the loves of Marianne and Elinor Dashwood.": {
+    "guess": "Sense and Sensibility",
+    "confidence": [
+      [
+        "Sense",
+        -0.0036039902
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " Sens",
+        0.0
+      ],
+      [
+        "ibility",
+        0.0
+      ]
+    ]
+  },
+  "His belief that politics is based on emotion rather than rationality was expressed in his works The Transformation": {
+    "guess": "Christopher Lasch",
+    "confidence": [
+      [
+        "Christopher",
+        -1.0626438
+      ],
+      [
+        " Las",
+        -0.005590176
+      ],
+      [
+        "ch",
+        0.0
+      ]
+    ]
+  },
+  "His belief that politics is based on emotion rather than rationality was expressed in his works The Transformation of Democracy and Facts and Theories. He simultaneously debunked Marxism and the bourgeois": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1012195
+      ]
+    ]
+  },
+  "His belief that politics is based on emotion rather than rationality was expressed in his works The Transformation of Democracy and Facts and Theories. He simultaneously debunked Marxism and the bourgeois elite in a famous 1916 work that divided human beings into \"lions\" and \"foxes,\" and he later formulated": {
+    "guess": "Vilfredo Pareto",
+    "confidence": [
+      [
+        "Vil",
+        -0.112556584
+      ],
+      [
+        "fred",
+        -1.3856493e-06
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " Pare",
+        -1.3856493e-06
+      ],
+      [
+        "to",
+        0.0
+      ]
+    ]
+  },
+  "His belief that politics is based on emotion rather than rationality was expressed in his works The Transformation of Democracy and Facts and Theories. He simultaneously debunked Marxism and the bourgeois elite in a famous 1916 work that divided human beings into \"lions\" and \"foxes,\" and he later formulated the theory of \"circulation of elites.\" His \"law of income distribution\" appeared in his first": {
+    "guess": "Vilfredo Pareto",
+    "confidence": [
+      [
+        "Vil",
+        -0.2902147
+      ],
+      [
+        "fred",
+        -2.577686e-06
+      ],
+      [
+        "o",
+        -1.9361265e-07
+      ],
+      [
+        " Pare",
+        0.0
+      ],
+      [
+        "to",
+        0.0
+      ]
+    ]
+  },
+  "His belief that politics is based on emotion rather than rationality was expressed in his works The Transformation of Democracy and Facts and Theories. He simultaneously debunked Marxism and the bourgeois elite in a famous 1916 work that divided human beings into \"lions\" and \"foxes,\" and he later formulated the theory of \"circulation of elites.\" His \"law of income distribution\" appeared in his first major work, though his most lasting work is A Manual of Political Economy, in which he put forth revolutionary": {
+    "guess": "Vilfredo Pareto",
+    "confidence": [
+      [
+        "Vil",
+        -0.26655108
+      ],
+      [
+        "fred",
+        -7.89631e-07
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " Pare",
+        0.0
+      ],
+      [
+        "to",
+        0.0
+      ]
+    ]
+  },
+  "His belief that politics is based on emotion rather than rationality was expressed in his works The Transformation of Democracy and Facts and Theories. He simultaneously debunked Marxism and the bourgeois elite in a famous 1916 work that divided human beings into \"lions\" and \"foxes,\" and he later formulated the theory of \"circulation of elites.\" His \"law of income distribution\" appeared in his first major work, though his most lasting work is A Manual of Political Economy, in which he put forth revolutionary ideas such as indifference curves. For 10 points, name this Italian economist who wrote": {
+    "guess": "Vilfredo Pareto",
+    "confidence": [
+      [
+        "Vil",
+        -0.13690606
+      ],
+      [
+        "fred",
+        -3.1281633e-07
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " Pare",
+        0.0
+      ],
+      [
+        "to",
+        0.0
+      ]
+    ]
+  },
+  "His belief that politics is based on emotion rather than rationality was expressed in his works The Transformation of Democracy and Facts and Theories. He simultaneously debunked Marxism and the bourgeois elite in a famous 1916 work that divided human beings into \"lions\" and \"foxes,\" and he later formulated the theory of \"circulation of elites.\" His \"law of income distribution\" appeared in his first major work, though his most lasting work is A Manual of Political Economy, in which he put forth revolutionary ideas such as indifference curves. For 10 points, name this Italian economist who wrote The Mind and Society and whose namesake optimality is reached when no one can be made better off without": {
+    "guess": "Vilfredo Pareto",
+    "confidence": [
+      [
+        "Vil",
+        -0.037793797
+      ],
+      [
+        "fred",
+        -2.1008714e-06
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " Pare",
+        0.0
+      ],
+      [
+        "to",
+        0.0
+      ]
+    ]
+  },
+  "His belief that politics is based on emotion rather than rationality was expressed in his works The Transformation of Democracy and Facts and Theories. He simultaneously debunked Marxism and the bourgeois elite in a famous 1916 work that divided human beings into \"lions\" and \"foxes,\" and he later formulated the theory of \"circulation of elites.\" His \"law of income distribution\" appeared in his first major work, though his most lasting work is A Manual of Political Economy, in which he put forth revolutionary ideas such as indifference curves. For 10 points, name this Italian economist who wrote The Mind and Society and whose namesake optimality is reached when no one can be made better off without making someone else worse off.": {
+    "guess": "Vilfredo Pareto",
+    "confidence": [
+      [
+        "Vil",
+        -0.065538384
+      ],
+      [
+        "fred",
+        -7.89631e-07
+      ],
+      [
+        "o",
+        0.0
+      ],
+      [
+        " Pare",
+        0.0
+      ],
+      [
+        "to",
+        0.0
+      ]
+    ]
+  },
+  "While believers of voodoo acknowledge one supreme but distant god, they really interact with many of": {
+    "guess": "Loa",
+    "confidence": [
+      [
+        "Lo",
+        -0.0013920196
+      ],
+      [
+        "a",
+        -0.00043066923
+      ]
+    ]
+  },
+  "While believers of voodoo acknowledge one supreme but distant god, they really interact with many of these spirits who attach themselves to individuals or families and demand constant ritual service. In": {
+    "guess": "Loa",
+    "confidence": [
+      [
+        "Lo",
+        -0.0037092196
+      ],
+      [
+        "a",
+        -0.03366345
+      ]
+    ]
+  },
+  "While believers of voodoo acknowledge one supreme but distant god, they really interact with many of these spirits who attach themselves to individuals or families and demand constant ritual service. In return, they help, guide and protect their worshippers. Many of them are patterned after Catholic": {
+    "guess": "Loa",
+    "confidence": [
+      [
+        "Lo",
+        -0.003467025
+      ],
+      [
+        "a",
+        -0.062062245
+      ]
+    ]
+  },
+  "While believers of voodoo acknowledge one supreme but distant god, they really interact with many of these spirits who attach themselves to individuals or families and demand constant ritual service. In return, they help, guide and protect their worshippers. Many of them are patterned after Catholic saints, local or African gods and divine ancestors. FTP, name these deities.": {
+    "guess": "Loa",
+    "confidence": [
+      [
+        "Lo",
+        -0.0055518816
+      ],
+      [
+        "a",
+        -0.005244903
+      ]
+    ]
+  },
+  "He believed that man was born as a statue, his economic ideas were published in Commerce and Government,": {
+    "guess": "Jean-Baptiste Say",
+    "confidence": [
+      [
+        "Jean",
+        -1.2225947
+      ],
+      [
+        "-B",
+        -2.8444882e-05
+      ],
+      [
+        "apt",
+        -1.9361265e-07
+      ],
+      [
+        "iste",
+        -1.9361265e-07
+      ],
+      [
+        " Say",
+        -1.1637165e-05
+      ]
+    ]
+  },
+  "He believed that man was born as a statue, his economic ideas were published in Commerce and Government, and he argued for the importance of language in logical reasoning in The Language of Calculation.": {
+    "guess": "\u00c9tienne Bonnot de Condillac",
+    "confidence": [
+      [
+        "\u00c9t",
+        -0.9883998
+      ],
+      [
+        "ienne",
+        0.0
+      ],
+      [
+        " Bon",
+        -9.849109e-06
+      ],
+      [
+        "not",
+        -3.7697225e-06
+      ],
+      [
+        " de",
+        -1.9361265e-07
+      ],
+      [
+        " Cond",
+        -1.700133e-05
+      ],
+      [
+        "illac",
+        0.0
+      ]
+    ]
+  },
+  "He believed that man was born as a statue, his economic ideas were published in Commerce and Government, and he argued for the importance of language in logical reasoning in The Language of Calculation. As tutor to the young Prince Ferdinand of Parma [*] he composed a thirteen volume Course of Study": {
+    "guess": "\u00c9tienne Bonnot de Condillac",
+    "confidence": [
+      [
+        "\u00c9t",
+        -0.07554422
+      ],
+      [
+        "ienne",
+        0.0
+      ],
+      [
+        " Bon",
+        -1.7432603e-06
+      ],
+      [
+        "not",
+        -2.3392786e-06
+      ],
+      [
+        " de",
+        -5.5122365e-07
+      ],
+      [
+        " Cond",
+        -4.3202e-07
+      ],
+      [
+        "illac",
+        0.0
+      ]
+    ]
+  },
+  "He believed that man was born as a statue, his economic ideas were published in Commerce and Government, and he argued for the importance of language in logical reasoning in The Language of Calculation. As tutor to the young Prince Ferdinand of Parma [*] he composed a thirteen volume Course of Study that included the works The Art of Thinking and Treatise on Animals. This priest believed in the reality": {
+    "guess": "\u00c9tienne Bonnot de Condillac",
+    "confidence": [
+      [
+        "\u00c9t",
+        -0.3350013
+      ],
+      [
+        "ienne",
+        0.0
+      ],
+      [
+        " Bon",
+        -1.8624639e-06
+      ],
+      [
+        "not",
+        -2.220075e-06
+      ],
+      [
+        " de",
+        -4.3202e-07
+      ],
+      [
+        " Cond",
+        -1.0280384e-06
+      ],
+      [
+        "illac",
+        0.0
+      ]
+    ]
+  },
+  "He believed that man was born as a statue, his economic ideas were published in Commerce and Government, and he argued for the importance of language in logical reasoning in The Language of Calculation. As tutor to the young Prince Ferdinand of Parma [*] he composed a thirteen volume Course of Study that included the works The Art of Thinking and Treatise on Animals. This priest believed in the reality of the soul even though his most famous work, which begins \"We never get outside ourselves, it": {
+    "guess": "\u00c9tienne Bonnot de Condillac",
+    "confidence": [
+      [
+        "\u00c9t",
+        -0.05242185
+      ],
+      [
+        "ienne",
+        -3.1281633e-07
+      ],
+      [
+        " Bon",
+        -1.2664457e-06
+      ],
+      [
+        "not",
+        -9.968313e-06
+      ],
+      [
+        " de",
+        -5.5122365e-07
+      ],
+      [
+        " Cond",
+        -3.1281633e-07
+      ],
+      [
+        "illac",
+        0.0
+      ]
+    ]
+  },
+  "He believed that man was born as a statue, his economic ideas were published in Commerce and Government, and he argued for the importance of language in logical reasoning in The Language of Calculation. As tutor to the young Prince Ferdinand of Parma [*] he composed a thirteen volume Course of Study that included the works The Art of Thinking and Treatise on Animals. This priest believed in the reality of the soul even though his most famous work, which begins \"We never get outside ourselves, it is always our own thoughts that we perceive,\" marked him as disciple of Locke's naturalism. A good friend": {
+    "guess": "\u00c9tienne Bonnot de Condillac",
+    "confidence": [
+      [
+        "\u00c9t",
+        -0.08969441
+      ],
+      [
+        "ienne",
+        -1.9361265e-07
+      ],
+      [
+        " Bon",
+        -1.0280384e-06
+      ],
+      [
+        "not",
+        -5.5577775e-06
+      ],
+      [
+        " de",
+        -5.5122365e-07
+      ],
+      [
+        " Cond",
+        -6.704273e-07
+      ],
+      [
+        "illac",
+        0.0
+      ]
+    ]
+  },
+  "He believed that man was born as a statue, his economic ideas were published in Commerce and Government, and he argued for the importance of language in logical reasoning in The Language of Calculation. As tutor to the young Prince Ferdinand of Parma [*] he composed a thirteen volume Course of Study that included the works The Art of Thinking and Treatise on Animals. This priest believed in the reality of the soul even though his most famous work, which begins \"We never get outside ourselves, it is always our own thoughts that we perceive,\" marked him as disciple of Locke's naturalism. A good friend of Rousseau's, FTP, identify this man best known for the works Essay on the Origin of Human Knowledge": {
+    "guess": "\u00c9tienne Bonnot de Condillac",
+    "confidence": [
+      [
+        "\u00c9t",
+        -0.021216227
+      ],
+      [
+        "ienne",
+        0.0
+      ],
+      [
+        " Bon",
+        -9.0883464e-07
+      ],
+      [
+        "not",
+        -3.0545007e-06
+      ],
+      [
+        " de",
+        -1.147242e-06
+      ],
+      [
+        " Cond",
+        -3.1281633e-07
+      ],
+      [
+        "illac",
+        0.0
+      ]
+    ]
+  },
+  "He believed that man was born as a statue, his economic ideas were published in Commerce and Government, and he argued for the importance of language in logical reasoning in The Language of Calculation. As tutor to the young Prince Ferdinand of Parma [*] he composed a thirteen volume Course of Study that included the works The Art of Thinking and Treatise on Animals. This priest believed in the reality of the soul even though his most famous work, which begins \"We never get outside ourselves, it is always our own thoughts that we perceive,\" marked him as disciple of Locke's naturalism. A good friend of Rousseau's, FTP, identify this man best known for the works Essay on the Origin of Human Knowledge and Treatise on Sensations.": {
+    "guess": "\u00c9tienne Bonnot de Condillac",
+    "confidence": [
+      [
+        "\u00c9t",
+        -0.022589758
+      ],
+      [
+        "ienne",
+        0.0
+      ],
+      [
+        " Bon",
+        -6.704273e-07
+      ],
+      [
+        "not",
+        -2.9352968e-06
+      ],
+      [
+        " de",
+        -7.89631e-07
+      ],
+      [
+        " Cond",
+        -3.1281633e-07
+      ],
+      [
+        "illac",
+        0.0
+      ]
+    ]
+  },
+  "Believed to have been of Babylonian origin, they were utilized by in the Middle Ages by merchants throughout": {
+    "guess": "Arabic numerals",
+    "confidence": [
+      [
+        "Arabic",
+        -0.03179458
+      ],
+      [
+        " numer",
+        -5.9080223e-05
+      ],
+      [
+        "als",
+        0.0
+      ]
+    ]
+  },
+  "Believed to have been of Babylonian origin, they were utilized by in the Middle Ages by merchants throughout Europe and much of Asia and Africa. Gradually replaced by arithmetic using Arabic numerals was": {
+    "guess": "Abacus",
+    "confidence": [
+      [
+        "Ab",
+        -0.41910052
+      ],
+      [
+        "acus",
+        -2.0935051e-05
+      ]
+    ]
+  },
+  "Believed to have been of Babylonian origin, they were utilized by in the Middle Ages by merchants throughout Europe and much of Asia and Africa. Gradually replaced by arithmetic using Arabic numerals was \u2013 for ten points \u2013 what device consisting of a frame in which beaded wires represented the decimal": {
+    "guess": "Abacus",
+    "confidence": [
+      [
+        "Ab",
+        -0.00011450992
+      ],
+      [
+        "acus",
+        0.0
+      ]
+    ]
+  },
+  "Believed to have been of Babylonian origin, they were utilized by in the Middle Ages by merchants throughout Europe and much of Asia and Africa. Gradually replaced by arithmetic using Arabic numerals was \u2013 for ten points \u2013 what device consisting of a frame in which beaded wires represented the decimal places?": {
+    "guess": "Abacus",
+    "confidence": [
+      [
+        "Ab",
+        -1.3544423e-05
+      ],
+      [
+        "acus",
+        0.0
+      ]
+    ]
+  },
+  "Belady's MIN algorithm is the theoretically most efficient one used for these, however it is not practically": {
+    "guess": "Page replacement algorithms",
+    "confidence": [
+      [
+        "Page",
+        -0.00014847564
+      ],
+      [
+        " replacement",
+        -0.00012833021
+      ],
+      [
+        " algorithms",
+        -0.039800487
+      ]
+    ]
+  },
+  "Belady's MIN algorithm is the theoretically most efficient one used for these, however it is not practically implementable in hardware. Snooping and snarfing, as well as the Firefly and Dragon protocols": {
+    "guess": "Cache coherence protocols",
+    "confidence": [
+      [
+        "Cache",
+        -0.1295381
+      ],
+      [
+        " coherence",
+        -0.028442763
+      ],
+      [
+        " protocols",
+        -0.7052111
+      ]
+    ]
+  },
+  "Belady's MIN algorithm is the theoretically most efficient one used for these, however it is not practically implementable in hardware. Snooping and snarfing, as well as the Firefly and Dragon protocols are all used to maintain coherency in these structures. An important decision in their design is their": {
+    "guess": "Cache (computing)",
+    "confidence": [
+      [
+        "Cache",
+        -0.00800962
+      ],
+      [
+        " (",
+        -0.51453555
+      ],
+      [
+        "comput",
+        -0.018565904
+      ],
+      [
+        "ing",
+        -7.226629e-06
+      ],
+      [
+        ")",
+        -2.057744e-05
+      ]
+    ]
+  },
+  "Belady's MIN algorithm is the theoretically most efficient one used for these, however it is not practically implementable in hardware. Snooping and snarfing, as well as the Firefly and Dragon protocols are all used to maintain coherency in these structures. An important decision in their design is their write policy, which can be either write-through or write-back, and their replacement policy is": {
+    "guess": "Cache (computing)",
+    "confidence": [
+      [
+        "Cache",
+        -0.002950482
+      ],
+      [
+        " (",
+        -0.041480903
+      ],
+      [
+        "comput",
+        -4.727906e-05
+      ],
+      [
+        "ing",
+        0.0
+      ],
+      [
+        ")",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "Belady's MIN algorithm is the theoretically most efficient one used for these, however it is not practically implementable in hardware. Snooping and snarfing, as well as the Firefly and Dragon protocols are all used to maintain coherency in these structures. An important decision in their design is their write policy, which can be either write-through or write-back, and their replacement policy is often governed by a least recently used algorithm. FTP, what are these structures utilizing the concept": {
+    "guess": "Cache (computing)",
+    "confidence": [
+      [
+        "Cache",
+        -0.28194457
+      ],
+      [
+        " (",
+        -0.14229533
+      ],
+      [
+        "comput",
+        -0.0072522275
+      ],
+      [
+        "ing",
+        -4.365741e-06
+      ],
+      [
+        ")",
+        -2.2961513e-05
+      ]
+    ]
+  },
+  "Belady's MIN algorithm is the theoretically most efficient one used for these, however it is not practically implementable in hardware. Snooping and snarfing, as well as the Firefly and Dragon protocols are all used to maintain coherency in these structures. An important decision in their design is their write policy, which can be either write-through or write-back, and their replacement policy is often governed by a least recently used algorithm. FTP, what are these structures utilizing the concept of locality of reference, which, on CPUs, are often divided into a level 1 and a level 2?": {
+    "guess": "Cache",
+    "confidence": [
+      [
+        "Cache",
+        -0.34853968
+      ]
+    ]
+  },
+  "Its beliefs included one that air attacked souls without a \"lodging of clay\" unless its adherents had": {
+    "guess": "Muggletonianism",
+    "confidence": [
+      [
+        "M",
+        -1.2957782
+      ],
+      [
+        "uggle",
+        -0.4355786
+      ],
+      [
+        "ton",
+        -1.504853e-06
+      ],
+      [
+        "ian",
+        -0.01416351
+      ],
+      [
+        "ism",
+        -0.026295187
+      ]
+    ]
+  },
+  "Its beliefs included one that air attacked souls without a \"lodging of clay\" unless its adherents had lived a good enough life to go to heaven. All that was required of its Credentes was that before death": {
+    "guess": "Catharism",
+    "confidence": [
+      [
+        "Cath",
+        -0.005910781
+      ],
+      [
+        "ar",
+        -0.0009169359
+      ],
+      [
+        "ism",
+        -6.511407e-06
+      ]
+    ]
+  },
+  "Its beliefs included one that air attacked souls without a \"lodging of clay\" unless its adherents had lived a good enough life to go to heaven. All that was required of its Credentes was that before death they undergo the Consolamentum. If the Consolamentum were done before death, members of this sect": {
+    "guess": "Catharism",
+    "confidence": [
+      [
+        "Cath",
+        -0.0013622589
+      ],
+      [
+        "ar",
+        -0.038105063
+      ],
+      [
+        "ism",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Its beliefs included one that air attacked souls without a \"lodging of clay\" unless its adherents had lived a good enough life to go to heaven. All that was required of its Credentes was that before death they undergo the Consolamentum. If the Consolamentum were done before death, members of this sect were required to become vegan and were forbidden to touch the opposite gender, as they became part": {
+    "guess": "Catharism",
+    "confidence": [
+      [
+        "Cath",
+        -0.0005725711
+      ],
+      [
+        "ar",
+        -0.018180612
+      ],
+      [
+        "ism",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Its beliefs included one that air attacked souls without a \"lodging of clay\" unless its adherents had lived a good enough life to go to heaven. All that was required of its Credentes was that before death they undergo the Consolamentum. If the Consolamentum were done before death, members of this sect were required to become vegan and were forbidden to touch the opposite gender, as they became part of the Elect or Perfect. It believed that all material goods were the creation of a god called \"Rex": {
+    "guess": "Catharism",
+    "confidence": [
+      [
+        "Cath",
+        -0.0013210732
+      ],
+      [
+        "ar",
+        -0.0052466798
+      ],
+      [
+        "ism",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "Its beliefs included one that air attacked souls without a \"lodging of clay\" unless its adherents had lived a good enough life to go to heaven. All that was required of its Credentes was that before death they undergo the Consolamentum. If the Consolamentum were done before death, members of this sect were required to become vegan and were forbidden to touch the opposite gender, as they became part of the Elect or Perfect. It believed that all material goods were the creation of a god called \"Rex Mundi,\" and that every soul eventually reached salvation with the Good God, a dualism that put this": {
+    "guess": "Catharism",
+    "confidence": [
+      [
+        "Cath",
+        -0.00010926496
+      ],
+      [
+        "ar",
+        -0.0052466798
+      ],
+      [
+        "ism",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "Its beliefs included one that air attacked souls without a \"lodging of clay\" unless its adherents had lived a good enough life to go to heaven. All that was required of its Credentes was that before death they undergo the Consolamentum. If the Consolamentum were done before death, members of this sect were required to become vegan and were forbidden to touch the opposite gender, as they became part of the Elect or Perfect. It believed that all material goods were the creation of a god called \"Rex Mundi,\" and that every soul eventually reached salvation with the Good God, a dualism that put this Languedoc-based faith on bad terms with the Catholic Church. For 10 points, name this Christian sect": {
+    "guess": "Catharism",
+    "confidence": [
+      [
+        "Cath",
+        -0.0010485277
+      ],
+      [
+        "ar",
+        -0.011056661
+      ],
+      [
+        "ism",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Its beliefs included one that air attacked souls without a \"lodging of clay\" unless its adherents had lived a good enough life to go to heaven. All that was required of its Credentes was that before death they undergo the Consolamentum. If the Consolamentum were done before death, members of this sect were required to become vegan and were forbidden to touch the opposite gender, as they became part of the Elect or Perfect. It believed that all material goods were the creation of a god called \"Rex Mundi,\" and that every soul eventually reached salvation with the Good God, a dualism that put this Languedoc-based faith on bad terms with the Catholic Church. For 10 points, name this Christian sect mainly based in France, against which Innocent III called a thirteenth century crusade.": {
+    "guess": "Catharism",
+    "confidence": [
+      [
+        "Cath",
+        -0.00056006206
+      ],
+      [
+        "ar",
+        -0.0024818424
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic": {
+    "guess": "Church of the SubGenius",
+    "confidence": [
+      [
+        "Church",
+        -0.49056122
+      ],
+      [
+        " of",
+        -2.6060809e-05
+      ],
+      [
+        " the",
+        -0.43765658
+      ],
+      [
+        " Sub",
+        -0.00030948312
+      ],
+      [
+        "G",
+        -6.1537958e-06
+      ],
+      [
+        "enius",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic bukkake orgy in response to three messengers created mankind, are found in an Eclesaite-influenced": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7031003
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic bukkake orgy in response to three messengers created mankind, are found in an Eclesaite-influenced text authored by a man who began writing about this religion after being visited by an evil twin.": {
+    "guess": "Mandaeism",
+    "confidence": [
+      [
+        "M",
+        -0.68379515
+      ],
+      [
+        "andae",
+        -0.6659473
+      ],
+      [
+        "ism",
+        -5.3000836e-05
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic bukkake orgy in response to three messengers created mankind, are found in an Eclesaite-influenced text authored by a man who began writing about this religion after being visited by an evil twin. The Book of Giants and Shahbuhragan reveal a preoccupation with the Book of Enoch in this religion,": {
+    "guess": "Manichaeism",
+    "confidence": [
+      [
+        "Man",
+        -0.035376534
+      ],
+      [
+        "icha",
+        -7.89631e-07
+      ],
+      [
+        "e",
+        -1.0206721e-05
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic bukkake orgy in response to three messengers created mankind, are found in an Eclesaite-influenced text authored by a man who began writing about this religion after being visited by an evil twin. The Book of Giants and Shahbuhragan reveal a preoccupation with the Book of Enoch in this religion, which became popular at the Tang court in Chang'an through its veneration of the Buddhist figure": {
+    "guess": "Manichaeism",
+    "confidence": [
+      [
+        "Man",
+        -0.018286787
+      ],
+      [
+        "icha",
+        -1.1994775e-05
+      ],
+      [
+        "e",
+        -3.5597102e-05
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic bukkake orgy in response to three messengers created mankind, are found in an Eclesaite-influenced text authored by a man who began writing about this religion after being visited by an evil twin. The Book of Giants and Shahbuhragan reveal a preoccupation with the Book of Enoch in this religion, which became popular at the Tang court in Chang'an through its veneration of the Buddhist figure Guan Yin. Curiously, the Albegensians were prosecuted by the papacy as practitioners of this faith,": {
+    "guess": "Manichaeism",
+    "confidence": [
+      [
+        "Man",
+        -0.015422507
+      ],
+      [
+        "icha",
+        -8.537869e-06
+      ],
+      [
+        "e",
+        -1.6762922e-05
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic bukkake orgy in response to three messengers created mankind, are found in an Eclesaite-influenced text authored by a man who began writing about this religion after being visited by an evil twin. The Book of Giants and Shahbuhragan reveal a preoccupation with the Book of Enoch in this religion, which became popular at the Tang court in Chang'an through its veneration of the Buddhist figure Guan Yin. Curiously, the Albegensians were prosecuted by the papacy as practitioners of this faith, which was adopted as the religion of the short-lived (*) Uighur Empire. The founder of this relgion": {
+    "guess": "Manichaeism",
+    "confidence": [
+      [
+        "Man",
+        -0.00054445374
+      ],
+      [
+        "icha",
+        -1.9361265e-07
+      ],
+      [
+        "e",
+        -3.7697225e-06
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic bukkake orgy in response to three messengers created mankind, are found in an Eclesaite-influenced text authored by a man who began writing about this religion after being visited by an evil twin. The Book of Giants and Shahbuhragan reveal a preoccupation with the Book of Enoch in this religion, which became popular at the Tang court in Chang'an through its veneration of the Buddhist figure Guan Yin. Curiously, the Albegensians were prosecuted by the papacy as practitioners of this faith, which was adopted as the religion of the short-lived (*) Uighur Empire. The founder of this relgion presented by his writings to Shapur I of the Sassanids, who tolerated this faith within his realm. The": {
+    "guess": "Manichaeism",
+    "confidence": [
+      [
+        "Man",
+        -0.000351551
+      ],
+      [
+        "icha",
+        -4.4537377e-05
+      ],
+      [
+        "e",
+        -0.0024774394
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic bukkake orgy in response to three messengers created mankind, are found in an Eclesaite-influenced text authored by a man who began writing about this religion after being visited by an evil twin. The Book of Giants and Shahbuhragan reveal a preoccupation with the Book of Enoch in this religion, which became popular at the Tang court in Chang'an through its veneration of the Buddhist figure Guan Yin. Curiously, the Albegensians were prosecuted by the papacy as practitioners of this faith, which was adopted as the religion of the short-lived (*) Uighur Empire. The founder of this relgion presented by his writings to Shapur I of the Sassanids, who tolerated this faith within his realm. The best-known practitioner of this dualistic faith criticized it in On Free Choice of the Will for removing": {
+    "guess": "Manichaeism",
+    "confidence": [
+      [
+        "Man",
+        -0.030120926
+      ],
+      [
+        "icha",
+        -1.2948405e-05
+      ],
+      [
+        "e",
+        -0.3869384
+      ],
+      [
+        "ism",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic bukkake orgy in response to three messengers created mankind, are found in an Eclesaite-influenced text authored by a man who began writing about this religion after being visited by an evil twin. The Book of Giants and Shahbuhragan reveal a preoccupation with the Book of Enoch in this religion, which became popular at the Tang court in Chang'an through its veneration of the Buddhist figure Guan Yin. Curiously, the Albegensians were prosecuted by the papacy as practitioners of this faith, which was adopted as the religion of the short-lived (*) Uighur Empire. The founder of this relgion presented by his writings to Shapur I of the Sassanids, who tolerated this faith within his realm. The best-known practitioner of this dualistic faith criticized it in On Free Choice of the Will for removing personal responsibility from immoral action, before straying from this religion at the urging": {
+    "guess": "Manichaeism",
+    "confidence": [
+      [
+        "Man",
+        -0.007217915
+      ],
+      [
+        "icha",
+        -7.89631e-07
+      ],
+      [
+        "e",
+        -4.246537e-06
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic bukkake orgy in response to three messengers created mankind, are found in an Eclesaite-influenced text authored by a man who began writing about this religion after being visited by an evil twin. The Book of Giants and Shahbuhragan reveal a preoccupation with the Book of Enoch in this religion, which became popular at the Tang court in Chang'an through its veneration of the Buddhist figure Guan Yin. Curiously, the Albegensians were prosecuted by the papacy as practitioners of this faith, which was adopted as the religion of the short-lived (*) Uighur Empire. The founder of this relgion presented by his writings to Shapur I of the Sassanids, who tolerated this faith within his realm. The best-known practitioner of this dualistic faith criticized it in On Free Choice of the Will for removing personal responsibility from immoral action, before straying from this religion at the urging of his Christian mother Monica. FTP, name this once widespread gnostic religion that incorporated": {
+    "guess": "Manichaeism",
+    "confidence": [
+      [
+        "Man",
+        -0.0036370114
+      ],
+      [
+        "icha",
+        -1.3856493e-06
+      ],
+      [
+        "e",
+        -5.5577775e-06
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic bukkake orgy in response to three messengers created mankind, are found in an Eclesaite-influenced text authored by a man who began writing about this religion after being visited by an evil twin. The Book of Giants and Shahbuhragan reveal a preoccupation with the Book of Enoch in this religion, which became popular at the Tang court in Chang'an through its veneration of the Buddhist figure Guan Yin. Curiously, the Albegensians were prosecuted by the papacy as practitioners of this faith, which was adopted as the religion of the short-lived (*) Uighur Empire. The founder of this relgion presented by his writings to Shapur I of the Sassanids, who tolerated this faith within his realm. The best-known practitioner of this dualistic faith criticized it in On Free Choice of the Will for removing personal responsibility from immoral action, before straying from this religion at the urging of his Christian mother Monica. FTP, name this once widespread gnostic religion that incorporated elements of Christianity, Buddhism, and Zoroastrianism, practiced by St. Augustine and named for its": {
+    "guess": "Manichaeism",
+    "confidence": [
+      [
+        "Man",
+        -0.0062003843
+      ],
+      [
+        "icha",
+        -1.3856493e-06
+      ],
+      [
+        "e",
+        -4.246537e-06
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "This belief system's more bizarre tenets, including a moment near the beginning of time in which a demonic bukkake orgy in response to three messengers created mankind, are found in an Eclesaite-influenced text authored by a man who began writing about this religion after being visited by an evil twin. The Book of Giants and Shahbuhragan reveal a preoccupation with the Book of Enoch in this religion, which became popular at the Tang court in Chang'an through its veneration of the Buddhist figure Guan Yin. Curiously, the Albegensians were prosecuted by the papacy as practitioners of this faith, which was adopted as the religion of the short-lived (*) Uighur Empire. The founder of this relgion presented by his writings to Shapur I of the Sassanids, who tolerated this faith within his realm. The best-known practitioner of this dualistic faith criticized it in On Free Choice of the Will for removing personal responsibility from immoral action, before straying from this religion at the urging of his Christian mother Monica. FTP, name this once widespread gnostic religion that incorporated elements of Christianity, Buddhism, and Zoroastrianism, practiced by St. Augustine and named for its founding prophet, Mani.": {
+    "guess": "Manichaeism",
+    "confidence": [
+      [
+        "Man",
+        -0.00028719936
+      ],
+      [
+        "icha",
+        -3.1281633e-07
+      ],
+      [
+        "e",
+        -3.1281633e-07
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "This belief was refuted by a 1945 American military pamphlet, which tried to challenge 112 \"gripes\" in": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.024794068
+      ]
+    ]
+  },
+  "This belief was refuted by a 1945 American military pamphlet, which tried to challenge 112 \"gripes\" in this vein held by soldiers. A Newt Gingrich ad against Mitt Romney played on this feeling by showing": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.1585111
+      ]
+    ]
+  },
+  "This belief was refuted by a 1945 American military pamphlet, which tried to challenge 112 \"gripes\" in this vein held by soldiers. A Newt Gingrich ad against Mitt Romney played on this feeling by showing a clip of Romney at the Winter Olympics doing the same thing as John Kerry. Jonah Goldberg popularized": {
+    "guess": "Anti-Americanism",
+    "confidence": [
+      [
+        "Anti",
+        -0.91900146
+      ],
+      [
+        "-American",
+        -0.0001311911
+      ],
+      [
+        "ism",
+        -0.033268485
+      ]
+    ]
+  },
+  "This belief was refuted by a 1945 American military pamphlet, which tried to challenge 112 \"gripes\" in this vein held by soldiers. A Newt Gingrich ad against Mitt Romney played on this feeling by showing a clip of Romney at the Winter Olympics doing the same thing as John Kerry. Jonah Goldberg popularized a Ken Keeler phrase associated with this feeling in a National Review article giving 10 reasons": {
+    "guess": "French bashing",
+    "confidence": [
+      [
+        "French",
+        -0.26561335
+      ],
+      [
+        " b",
+        -0.18004805
+      ],
+      [
+        "ashing",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "This belief was refuted by a 1945 American military pamphlet, which tried to challenge 112 \"gripes\" in this vein held by soldiers. A Newt Gingrich ad against Mitt Romney played on this feeling by showing a clip of Romney at the Winter Olympics doing the same thing as John Kerry. Jonah Goldberg popularized a Ken Keeler phrase associated with this feeling in a National Review article giving 10 reasons why it was a valid belief. This feeling intensified after a 2003 speech at the UN in which a Foreign": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8662028
+      ]
+    ]
+  },
+  "This belief was refuted by a 1945 American military pamphlet, which tried to challenge 112 \"gripes\" in this vein held by soldiers. A Newt Gingrich ad against Mitt Romney played on this feeling by showing a clip of Romney at the Winter Olympics doing the same thing as John Kerry. Jonah Goldberg popularized a Ken Keeler phrase associated with this feeling in a National Review article giving 10 reasons why it was a valid belief. This feeling intensified after a 2003 speech at the UN in which a Foreign Minister said his country knew \"wars, occupation, and barbarity\" and thus rejected the Iraqi war,": {
+    "guess": "Anti-Americanism",
+    "confidence": [
+      [
+        "Anti",
+        -0.48139602
+      ],
+      [
+        "-American",
+        -1.3856493e-06
+      ],
+      [
+        "ism",
+        -0.0009151479
+      ]
+    ]
+  },
+  "This belief was refuted by a 1945 American military pamphlet, which tried to challenge 112 \"gripes\" in this vein held by soldiers. A Newt Gingrich ad against Mitt Romney played on this feeling by showing a clip of Romney at the Winter Olympics doing the same thing as John Kerry. Jonah Goldberg popularized a Ken Keeler phrase associated with this feeling in a National Review article giving 10 reasons why it was a valid belief. This feeling intensified after a 2003 speech at the UN in which a Foreign Minister said his country knew \"wars, occupation, and barbarity\" and thus rejected the Iraqi war, which brought much lampooned changes to the Congressional cafeteria's menu. For 10 points, name this": {
+    "guess": "Anti-French sentiment",
+    "confidence": [
+      [
+        "Anti",
+        -0.09042922
+      ],
+      [
+        "-F",
+        -0.006785828
+      ],
+      [
+        "rench",
+        -3.1281633e-07
+      ],
+      [
+        " sentiment",
+        -0.03813444
+      ]
+    ]
+  },
+  "This belief was refuted by a 1945 American military pamphlet, which tried to challenge 112 \"gripes\" in this vein held by soldiers. A Newt Gingrich ad against Mitt Romney played on this feeling by showing a clip of Romney at the Winter Olympics doing the same thing as John Kerry. Jonah Goldberg popularized a Ken Keeler phrase associated with this feeling in a National Review article giving 10 reasons why it was a valid belief. This feeling intensified after a 2003 speech at the UN in which a Foreign Minister said his country knew \"wars, occupation, and barbarity\" and thus rejected the Iraqi war, which brought much lampooned changes to the Congressional cafeteria's menu. For 10 points, name this sentiment commonly seen in the United States, as represented by the phrase \"cheese-eating surrender": {
+    "guess": "Anti-French sentiment",
+    "confidence": [
+      [
+        "Anti",
+        -0.5825241
+      ],
+      [
+        "-F",
+        -2.1008714e-06
+      ],
+      [
+        "rench",
+        0.0
+      ],
+      [
+        " sentiment",
+        -0.03819836
+      ]
+    ]
+  },
+  "This belief was refuted by a 1945 American military pamphlet, which tried to challenge 112 \"gripes\" in this vein held by soldiers. A Newt Gingrich ad against Mitt Romney played on this feeling by showing a clip of Romney at the Winter Olympics doing the same thing as John Kerry. Jonah Goldberg popularized a Ken Keeler phrase associated with this feeling in a National Review article giving 10 reasons why it was a valid belief. This feeling intensified after a 2003 speech at the UN in which a Foreign Minister said his country knew \"wars, occupation, and barbarity\" and thus rejected the Iraqi war, which brought much lampooned changes to the Congressional cafeteria's menu. For 10 points, name this sentiment commonly seen in the United States, as represented by the phrase \"cheese-eating surrender monkeys\" and by the changing of a food's name to \"freedom fries.\"": {
+    "guess": "Anti-French sentiment",
+    "confidence": [
+      [
+        "Anti",
+        -0.05136971
+      ],
+      [
+        "-F",
+        -5.9153886e-06
+      ],
+      [
+        "rench",
+        0.0
+      ],
+      [
+        " sentiment",
+        -0.014204995
+      ]
+    ]
+  },
+  "A Belgian movement combining this ideology with Catholicism was led by Leon Degrelle and known as Rexism,": {
+    "guess": "Rexist Party",
+    "confidence": [
+      [
+        "R",
+        -1.0388834
+      ],
+      [
+        "exist",
+        -0.16332634
+      ],
+      [
+        " Party",
+        -0.00080271857
+      ]
+    ]
+  },
+  "A Belgian movement combining this ideology with Catholicism was led by Leon Degrelle and known as Rexism, while Ferenc Szalasi advocated this ideology through his Arrow Cross Party. Another party following": {
+    "guess": "Fascism",
+    "confidence": [
+      [
+        "F",
+        -0.0048861085
+      ],
+      [
+        "asc",
+        -1.9361265e-07
+      ],
+      [
+        "ism",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "A Belgian movement combining this ideology with Catholicism was led by Leon Degrelle and known as Rexism, while Ferenc Szalasi advocated this ideology through his Arrow Cross Party. Another party following this ideology took power after the murder of Giacomo Matteotti, which led to the Aventine Secession.": {
+    "guess": "Fascism",
+    "confidence": [
+      [
+        "F",
+        -0.0003011425
+      ],
+      [
+        "asc",
+        0.0
+      ],
+      [
+        "ism",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "A Belgian movement combining this ideology with Catholicism was led by Leon Degrelle and known as Rexism, while Ferenc Szalasi advocated this ideology through his Arrow Cross Party. Another party following this ideology took power after the murder of Giacomo Matteotti, which led to the Aventine Secession. Columns of adherents to this ideology participated in the March on Rome, including a paramilitary": {
+    "guess": "Fascism",
+    "confidence": [
+      [
+        "F",
+        -0.00022201329
+      ],
+      [
+        "asc",
+        0.0
+      ],
+      [
+        "ism",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A Belgian movement combining this ideology with Catholicism was led by Leon Degrelle and known as Rexism, while Ferenc Szalasi advocated this ideology through his Arrow Cross Party. Another party following this ideology took power after the murder of Giacomo Matteotti, which led to the Aventine Secession. Columns of adherents to this ideology participated in the March on Rome, including a paramilitary organization known as the Blackshirts. Its name comes from the Latin term for a bundle of rods tied": {
+    "guess": "Fascism",
+    "confidence": [
+      [
+        "F",
+        -4.1557283e-05
+      ],
+      [
+        "asc",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "A Belgian movement combining this ideology with Catholicism was led by Leon Degrelle and known as Rexism, while Ferenc Szalasi advocated this ideology through his Arrow Cross Party. Another party following this ideology took power after the murder of Giacomo Matteotti, which led to the Aventine Secession. Columns of adherents to this ideology participated in the March on Rome, including a paramilitary organization known as the Blackshirts. Its name comes from the Latin term for a bundle of rods tied to an axe. For 10 points, name this authoritarian ideology that calls for adherence to national": {
+    "guess": "Fascism",
+    "confidence": [
+      [
+        "F",
+        -9.968313e-06
+      ],
+      [
+        "asc",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "A Belgian movement combining this ideology with Catholicism was led by Leon Degrelle and known as Rexism, while Ferenc Szalasi advocated this ideology through his Arrow Cross Party. Another party following this ideology took power after the murder of Giacomo Matteotti, which led to the Aventine Secession. Columns of adherents to this ideology participated in the March on Rome, including a paramilitary organization known as the Blackshirts. Its name comes from the Latin term for a bundle of rods tied to an axe. For 10 points, name this authoritarian ideology that calls for adherence to national community, adopted by Mussolini's Italy and Nazi Germany.": {
+    "guess": "Fascism",
+    "confidence": [
+      [
+        "F",
+        -1.6240566e-06
+      ],
+      [
+        "asc",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Believed to be named after the Sanskrit for \"Island of Bliss,\" this island's nearby neighbors include": {
+    "guess": "Bali",
+    "confidence": [
+      [
+        "B",
+        -0.28702548
+      ],
+      [
+        "ali",
+        -0.00033784626
+      ]
+    ]
+  },
+  "Believed to be named after the Sanskrit for \"Island of Bliss,\" this island's nearby neighbors include Abdu I-Kuri and the Al-Ikhwan Islands. Dominated by the Hajhir Mountains, Suq, Qalansiyya, and Mahattat": {
+    "guess": "Socotra",
+    "confidence": [
+      [
+        "Soc",
+        -7.5411124e-05
+      ],
+      [
+        "otra",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Believed to be named after the Sanskrit for \"Island of Bliss,\" this island's nearby neighbors include Abdu I-Kuri and the Al-Ikhwan Islands. Dominated by the Hajhir Mountains, Suq, Qalansiyya, and Mahattat Nujad are all major villages, but Madibu is the only sizable town on this island of 50,000 people.": {
+    "guess": "Socotra",
+    "confidence": [
+      [
+        "Soc",
+        -2.4749568e-05
+      ],
+      [
+        "otra",
+        0.0
+      ]
+    ]
+  },
+  "Believed to be named after the Sanskrit for \"Island of Bliss,\" this island's nearby neighbors include Abdu I-Kuri and the Al-Ikhwan Islands. Dominated by the Hajhir Mountains, Suq, Qalansiyya, and Mahattat Nujad are all major villages, but Madibu is the only sizable town on this island of 50,000 people. Nearest to the coast of Somalia, it has always been a key strategic point in the Red Sea, being": {
+    "guess": "Socotra",
+    "confidence": [
+      [
+        "Soc",
+        -0.00011725161
+      ],
+      [
+        "otra",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Believed to be named after the Sanskrit for \"Island of Bliss,\" this island's nearby neighbors include Abdu I-Kuri and the Al-Ikhwan Islands. Dominated by the Hajhir Mountains, Suq, Qalansiyya, and Mahattat Nujad are all major villages, but Madibu is the only sizable town on this island of 50,000 people. Nearest to the coast of Somalia, it has always been a key strategic point in the Red Sea, being occupied by the Soviets during the Cold War and becoming a possible base for U.S. troops in the war": {
+    "guess": "Socotra",
+    "confidence": [
+      [
+        "Soc",
+        -0.0001530017
+      ],
+      [
+        "otra",
+        0.0
+      ]
+    ]
+  },
+  "Believed to be named after the Sanskrit for \"Island of Bliss,\" this island's nearby neighbors include Abdu I-Kuri and the Al-Ikhwan Islands. Dominated by the Hajhir Mountains, Suq, Qalansiyya, and Mahattat Nujad are all major villages, but Madibu is the only sizable town on this island of 50,000 people. Nearest to the coast of Somalia, it has always been a key strategic point in the Red Sea, being occupied by the Soviets during the Cold War and becoming a possible base for U.S. troops in the war against Iraq. FTP, name this island in the Red Sea belonging to Yemen.": {
+    "guess": "Socotra",
+    "confidence": [
+      [
+        "Soc",
+        -5.538491e-05
+      ],
+      [
+        "otra",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "It is believed that he was part of a group of insurrectionists hoping to overthrow the Roman occupiers,": {
+    "guess": "Barabbas",
+    "confidence": [
+      [
+        "Bar",
+        -0.56572586
+      ],
+      [
+        "abb",
+        -0.007039182
+      ],
+      [
+        "as",
+        0.0
+      ]
+    ]
+  },
+  "It is believed that he was part of a group of insurrectionists hoping to overthrow the Roman occupiers, though there are only vague references to him being a \"bandit\" and a \"notorious prisoner.\" Some scholars": {
+    "guess": "Barabbas",
+    "confidence": [
+      [
+        "Bar",
+        -0.0057423753
+      ],
+      [
+        "abb",
+        -9.0883464e-07
+      ],
+      [
+        "as",
+        0.0
+      ]
+    ]
+  },
+  "It is believed that he was part of a group of insurrectionists hoping to overthrow the Roman occupiers, though there are only vague references to him being a \"bandit\" and a \"notorious prisoner.\" Some scholars even suggest that he did not exist, but rather was a myth created from confusion over whether": {
+    "guess": "Barabbas",
+    "confidence": [
+      [
+        "Bar",
+        -0.0007688905
+      ],
+      [
+        "abb",
+        -1.9361265e-07
+      ],
+      [
+        "as",
+        0.0
+      ]
+    ]
+  },
+  "It is believed that he was part of a group of insurrectionists hoping to overthrow the Roman occupiers, though there are only vague references to him being a \"bandit\" and a \"notorious prisoner.\" Some scholars even suggest that he did not exist, but rather was a myth created from confusion over whether his name meaning \"son of the father\" in Aramaic meant the chanting crowd was referring to another": {
+    "guess": "Barabbas",
+    "confidence": [
+      [
+        "Bar",
+        -0.00031758897
+      ],
+      [
+        "abb",
+        -1.9361265e-07
+      ],
+      [
+        "as",
+        0.0
+      ]
+    ]
+  },
+  "It is believed that he was part of a group of insurrectionists hoping to overthrow the Roman occupiers, though there are only vague references to him being a \"bandit\" and a \"notorious prisoner.\" Some scholars even suggest that he did not exist, but rather was a myth created from confusion over whether his name meaning \"son of the father\" in Aramaic meant the chanting crowd was referring to another man. Either way, the custom of Passover allowed Pontius Pilate to commute one prisoner's death sentence": {
+    "guess": "Barabbas",
+    "confidence": [
+      [
+        "Bar",
+        -0.00021843717
+      ],
+      [
+        "abb",
+        -1.9361265e-07
+      ],
+      [
+        "as",
+        0.0
+      ]
+    ]
+  },
+  "It is believed that he was part of a group of insurrectionists hoping to overthrow the Roman occupiers, though there are only vague references to him being a \"bandit\" and a \"notorious prisoner.\" Some scholars even suggest that he did not exist, but rather was a myth created from confusion over whether his name meaning \"son of the father\" in Aramaic meant the chanting crowd was referring to another man. Either way, the custom of Passover allowed Pontius Pilate to commute one prisoner's death sentence and, FTP, he chose to free this man instead of Jesus Christ.": {
+    "guess": "Barabbas",
+    "confidence": [
+      [
+        "Bar",
+        -1.0206721e-05
+      ],
+      [
+        "abb",
+        -4.3202e-07
+      ],
+      [
+        "as",
+        0.0
+      ]
+    ]
+  },
+  "\"A belt of straw and ivy buds\", \"Fair lined slippers for the cold\", \"A gown made of the finest wool\",": {
+    "guess": "The Passionate Shepherd to His Love",
+    "confidence": [
+      [
+        "The",
+        -0.03580437
+      ],
+      [
+        " Passion",
+        -0.00046510808
+      ],
+      [
+        "ate",
+        0.0
+      ],
+      [
+        " Shepherd",
+        0.0
+      ],
+      [
+        " to",
+        0.0
+      ],
+      [
+        " His",
+        -3.1281633e-07
+      ],
+      [
+        " Love",
+        0.0
+      ]
+    ]
+  },
+  "\"A belt of straw and ivy buds\", \"Fair lined slippers for the cold\", \"A gown made of the finest wool\", \"A cap of flowers and a kirtle\", as well as \"beds of roses\". For 10 points, these are the enticements": {
+    "guess": "The Passionate Shepherd to His Love",
+    "confidence": [
+      [
+        "The",
+        -0.021858616
+      ],
+      [
+        " Passion",
+        -0.0009841009
+      ],
+      [
+        "ate",
+        0.0
+      ],
+      [
+        " Shepherd",
+        0.0
+      ],
+      [
+        " to",
+        0.0
+      ],
+      [
+        " His",
+        0.0
+      ],
+      [
+        " Love",
+        0.0
+      ]
+    ]
+  },
+  "\"A belt of straw and ivy buds\", \"Fair lined slippers for the cold\", \"A gown made of the finest wool\", \"A cap of flowers and a kirtle\", as well as \"beds of roses\". For 10 points, these are the enticements offered by a rustic fellow to the object of his affections in what poem by Christopher Marlowe?": {
+    "guess": "The Passionate Shepherd to His Love",
+    "confidence": [
+      [
+        "The",
+        -0.0011155696
+      ],
+      [
+        " Passion",
+        -2.577686e-06
+      ],
+      [
+        "ate",
+        0.0
+      ],
+      [
+        " Shepherd",
+        0.0
+      ],
+      [
+        " to",
+        0.0
+      ],
+      [
+        " His",
+        -1.9361265e-07
+      ],
+      [
+        " Love",
+        0.0
+      ]
+    ]
+  },
+  "This man believed that sympathy and self interest were complementary, and he theorized that gratitude": {
+    "guess": "Adam Smith",
+    "confidence": [
+      [
+        "Adam",
+        -0.0037452138
+      ],
+      [
+        " Smith",
+        0.0
+      ]
+    ]
+  },
+  "This man believed that sympathy and self interest were complementary, and he theorized that gratitude prompted man towards reward while resentment prompted man towards punishment. He wrote that sympathy": {
+    "guess": "Adam Smith",
+    "confidence": [
+      [
+        "Adam",
+        -0.081778705
+      ],
+      [
+        " Smith",
+        0.0
+      ]
+    ]
+  },
+  "This man believed that sympathy and self interest were complementary, and he theorized that gratitude prompted man towards reward while resentment prompted man towards punishment. He wrote that sympathy arose from a desire to follow natural laws in his The Theory of Moral Sentiments, and in another work,": {
+    "guess": "Adam Smith",
+    "confidence": [
+      [
+        "Adam",
+        -0.0903166
+      ],
+      [
+        " Smith",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man believed that sympathy and self interest were complementary, and he theorized that gratitude prompted man towards reward while resentment prompted man towards punishment. He wrote that sympathy arose from a desire to follow natural laws in his The Theory of Moral Sentiments, and in another work, he described smuggling as a legitimate practice in the face of unnatural law. He used a pin factory": {
+    "guess": "Adam Smith",
+    "confidence": [
+      [
+        "Adam",
+        -0.22831091
+      ],
+      [
+        " Smith",
+        0.0
+      ]
+    ]
+  },
+  "This man believed that sympathy and self interest were complementary, and he theorized that gratitude prompted man towards reward while resentment prompted man towards punishment. He wrote that sympathy arose from a desire to follow natural laws in his The Theory of Moral Sentiments, and in another work, he described smuggling as a legitimate practice in the face of unnatural law. He used a pin factory to demonstrate the efficiency of division of labor. For 10 points, name this Scottish economist": {
+    "guess": "Adam Smith",
+    "confidence": [
+      [
+        "Adam",
+        -0.058654707
+      ],
+      [
+        " Smith",
+        0.0
+      ]
+    ]
+  },
+  "This man believed that sympathy and self interest were complementary, and he theorized that gratitude prompted man towards reward while resentment prompted man towards punishment. He wrote that sympathy arose from a desire to follow natural laws in his The Theory of Moral Sentiments, and in another work, he described smuggling as a legitimate practice in the face of unnatural law. He used a pin factory to demonstrate the efficiency of division of labor. For 10 points, name this Scottish economist who wrote about an \"invisible hand\" in The Wealth of Nations.": {
+    "guess": "Adam Smith",
+    "confidence": [
+      [
+        "Adam",
+        -0.0015455723
+      ],
+      [
+        " Smith",
+        0.0
+      ]
+    ]
+  }
+}

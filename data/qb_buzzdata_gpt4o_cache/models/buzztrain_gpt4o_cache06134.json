@@ -1,0 +1,127 @@
+{
+  "He was a Pythagorean, believing that there was an inner order to all sets of numbers that governed the": {
+    "guess": "Philolaus",
+    "confidence": [
+      [
+        "Phil",
+        -0.12049483
+      ],
+      [
+        "ola",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "He was a Pythagorean, believing that there was an inner order to all sets of numbers that governed the Universe. After twenty of years of collecting and analyzing data, he formulated the laws that bear": {
+    "guess": "Johannes Kepler",
+    "confidence": [
+      [
+        "Joh",
+        -0.1608344
+      ],
+      [
+        "annes",
+        -9.014684e-06
+      ],
+      [
+        " Ke",
+        0.0
+      ],
+      [
+        "pler",
+        0.0
+      ]
+    ]
+  },
+  "He was a Pythagorean, believing that there was an inner order to all sets of numbers that governed the Universe. After twenty of years of collecting and analyzing data, he formulated the laws that bear his name. However, his work was superseded by the publication of Principia Mathematica, which proved": {
+    "guess": "Kepler's laws of planetary motion",
+    "confidence": [
+      [
+        "Ke",
+        -0.18236615
+      ],
+      [
+        "pler",
+        -9.0883464e-07
+      ],
+      [
+        "'s",
+        -0.0004324573
+      ],
+      [
+        " laws",
+        -0.079318136
+      ],
+      [
+        " of",
+        -0.0040702093
+      ],
+      [
+        " planetary",
+        -4.5848617e-05
+      ],
+      [
+        " motion",
+        0.0
+      ]
+    ]
+  },
+  "He was a Pythagorean, believing that there was an inner order to all sets of numbers that governed the Universe. After twenty of years of collecting and analyzing data, he formulated the laws that bear his name. However, his work was superseded by the publication of Principia Mathematica, which proved that his work could be derived in an afternoon by proceeding from Newton's Laws of Motion. FTP, name": {
+    "guess": "Kepler's laws of planetary motion",
+    "confidence": [
+      [
+        "Ke",
+        -0.334646
+      ],
+      [
+        "pler",
+        -1.2664457e-06
+      ],
+      [
+        "'s",
+        -0.011819179
+      ],
+      [
+        " laws",
+        -0.16027865
+      ],
+      [
+        " of",
+        -0.00032283025
+      ],
+      [
+        " planetary",
+        -0.00043186126
+      ],
+      [
+        " motion",
+        0.0
+      ]
+    ]
+  },
+  "He was a Pythagorean, believing that there was an inner order to all sets of numbers that governed the Universe. After twenty of years of collecting and analyzing data, he formulated the laws that bear his name. However, his work was superseded by the publication of Principia Mathematica, which proved that his work could be derived in an afternoon by proceeding from Newton's Laws of Motion. FTP, name this man, considered the founder of modern optics but most famous for the Laws of Planetary Motion.": {
+    "guess": "Kepler, Johannes",
+    "confidence": [
+      [
+        "Ke",
+        -0.44143265
+      ],
+      [
+        "pler",
+        -4.3202e-07
+      ],
+      [
+        ",",
+        -0.6786463
+      ],
+      [
+        " Johannes",
+        -0.042352434
+      ]
+    ]
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "The Ising model maps alignment of spin in substances with this property. Plutonium phosphorus is an example": {
+    "guess": "Antiferromagnetism",
+    "confidence": [
+      [
+        "Ant",
+        -0.5440467
+      ],
+      [
+        "ifer",
+        -1.9361265e-07
+      ],
+      [
+        "rom",
+        -3.1281633e-07
+      ],
+      [
+        "agnet",
+        -6.6232446e-05
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Ising model maps alignment of spin in substances with this property. Plutonium phosphorus is an example of an actinide compound with it, and scientists have observed that lithium gas is able to exhibit": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "Fer",
+        -0.0012985694
+      ],
+      [
+        "rom",
+        0.0
+      ],
+      [
+        "agnet",
+        -3.5477897e-05
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "The Ising model maps alignment of spin in substances with this property. Plutonium phosphorus is an example of an actinide compound with it, and scientists have observed that lithium gas is able to exhibit this property when cooled to almost absolute zero. Long range ordering phenomena cause unpaired": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "Fer",
+        -0.033517063
+      ],
+      [
+        "rom",
+        -1.9361265e-07
+      ],
+      [
+        "agnet",
+        -3.7697225e-06
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "The Ising model maps alignment of spin in substances with this property. Plutonium phosphorus is an example of an actinide compound with it, and scientists have observed that lithium gas is able to exhibit this property when cooled to almost absolute zero. Long range ordering phenomena cause unpaired electrons in materials with this property to spin parallel to each other. A material loses this property": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "Fer",
+        -0.01695682
+      ],
+      [
+        "rom",
+        -1.9361265e-07
+      ],
+      [
+        "agnet",
+        -1.9027791e-05
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "The Ising model maps alignment of spin in substances with this property. Plutonium phosphorus is an example of an actinide compound with it, and scientists have observed that lithium gas is able to exhibit this property when cooled to almost absolute zero. Long range ordering phenomena cause unpaired electrons in materials with this property to spin parallel to each other. A material loses this property when it is heated past the Curie temperature, and it is explained by the idea of magnetic domains.": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "Fer",
+        -6.0153056e-05
+      ],
+      [
+        "rom",
+        0.0
+      ],
+      [
+        "agnet",
+        -4.3202e-07
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "The Ising model maps alignment of spin in substances with this property. Plutonium phosphorus is an example of an actinide compound with it, and scientists have observed that lithium gas is able to exhibit this property when cooled to almost absolute zero. Long range ordering phenomena cause unpaired electrons in materials with this property to spin parallel to each other. A material loses this property when it is heated past the Curie temperature, and it is explained by the idea of magnetic domains. For 10 points, name this permanent type of magnetism exhibited by nickel, cobalt, and its namesake": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "Fer",
+        -0.00013905855
+      ],
+      [
+        "rom",
+        0.0
+      ],
+      [
+        "agnet",
+        -3.1281633e-07
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "The Ising model maps alignment of spin in substances with this property. Plutonium phosphorus is an example of an actinide compound with it, and scientists have observed that lithium gas is able to exhibit this property when cooled to almost absolute zero. Long range ordering phenomena cause unpaired electrons in materials with this property to spin parallel to each other. A material loses this property when it is heated past the Curie temperature, and it is explained by the idea of magnetic domains. For 10 points, name this permanent type of magnetism exhibited by nickel, cobalt, and its namesake element.": {
+    "guess": "Ferromagnetism",
+    "confidence": [
+      [
+        "Fer",
+        -3.7742768e-05
+      ],
+      [
+        "rom",
+        0.0
+      ],
+      [
+        "agnet",
+        -1.9361265e-07
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Isis once poisoned this god in order to blackmail him into divulging his true name. Another story says": {
+    "guess": "Ra",
+    "confidence": [
+      [
+        "Ra",
+        -0.02448177
+      ]
+    ]
+  },
+  "Isis once poisoned this god in order to blackmail him into divulging his true name. Another story says that Thoth had to make 1,077 pleas in order to convince the goddess representing his eye to return": {
+    "guess": "Eye of Ra",
+    "confidence": [
+      [
+        "Eye",
+        -0.56792206
+      ],
+      [
+        " of",
+        -2.6895234e-05
+      ],
+      [
+        " Ra",
+        -0.038049985
+      ]
+    ]
+  },
+  "Isis once poisoned this god in order to blackmail him into divulging his true name. Another story says that Thoth had to make 1,077 pleas in order to convince the goddess representing his eye to return home. Mehen and Set helped defend this god when he traveled on the barque (\"BARK\") Mandjet, during": {
+    "guess": "Ra",
+    "confidence": [
+      [
+        "Ra",
+        -0.037117235
+      ]
+    ]
+  },
+  "Isis once poisoned this god in order to blackmail him into divulging his true name. Another story says that Thoth had to make 1,077 pleas in order to convince the goddess representing his eye to return home. Mehen and Set helped defend this god when he traveled on the barque (\"BARK\") Mandjet, during which time he was attacked by the (*) serpent Apep. He sent Hathor to Earth in the form of Sekhmet to": {
+    "guess": "Ra",
+    "confidence": [
+      [
+        "Ra",
+        -0.4008785
+      ]
+    ]
+  },
+  "Isis once poisoned this god in order to blackmail him into divulging his true name. Another story says that Thoth had to make 1,077 pleas in order to convince the goddess representing his eye to return home. Mehen and Set helped defend this god when he traveled on the barque (\"BARK\") Mandjet, during which time he was attacked by the (*) serpent Apep. He sent Hathor to Earth in the form of Sekhmet to punish man, and he was often syncretized with Amun. For 10 points, identify this Egyptian god of the": {
+    "guess": "Ra",
+    "confidence": [
+      [
+        "Ra",
+        -0.0018880648
+      ]
+    ]
+  },
+  "Isis once poisoned this god in order to blackmail him into divulging his true name. Another story says that Thoth had to make 1,077 pleas in order to convince the goddess representing his eye to return home. Mehen and Set helped defend this god when he traveled on the barque (\"BARK\") Mandjet, during which time he was attacked by the (*) serpent Apep. He sent Hathor to Earth in the form of Sekhmet to punish man, and he was often syncretized with Amun. For 10 points, identify this Egyptian god of the sun.": {
+    "guess": "Ra",
+    "confidence": [
+      [
+        "Ra",
+        -0.00026240866
+      ]
+    ]
+  },
+  "Isidore of Seville claimed that this region is inhabited by sciopodes, which are humans who only have": {
+    "guess": "Monopod (creature)",
+    "confidence": [
+      [
+        "Mon",
+        -0.83501595
+      ],
+      [
+        "op",
+        -0.0014296402
+      ],
+      [
+        "od",
+        -0.02654829
+      ],
+      [
+        " (",
+        -0.0020210706
+      ],
+      [
+        "cre",
+        -0.6179823
+      ],
+      [
+        "ature",
+        -9.014684e-06
+      ],
+      [
+        ")",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "Isidore of Seville claimed that this region is inhabited by sciopodes, which are humans who only have one foot. A story states that Apollonius of Tyana travelled to this region's capital and saved its": {
+    "guess": "India",
+    "confidence": [
+      [
+        "India",
+        -0.004916955
+      ]
+    ]
+  },
+  "Isidore of Seville claimed that this region is inhabited by sciopodes, which are humans who only have one foot. A story states that Apollonius of Tyana travelled to this region's capital and saved its inhabitants from a phantom satyr who had been terrorizing the city. Pliny the Elder's Natural History": {
+    "guess": "India",
+    "confidence": [
+      [
+        "India",
+        -0.0042191977
+      ]
+    ]
+  },
+  "Isidore of Seville claimed that this region is inhabited by sciopodes, which are humans who only have one foot. A story states that Apollonius of Tyana travelled to this region's capital and saved its inhabitants from a phantom satyr who had been terrorizing the city. Pliny the Elder's Natural History describes an animal from this region that has a deadly gaze, but has a head so incredibly heavy that": {
+    "guess": "India",
+    "confidence": [
+      [
+        "India",
+        -0.07060626
+      ]
+    ]
+  },
+  "Isidore of Seville claimed that this region is inhabited by sciopodes, which are humans who only have one foot. A story states that Apollonius of Tyana travelled to this region's capital and saved its inhabitants from a phantom satyr who had been terrorizing the city. Pliny the Elder's Natural History describes an animal from this region that has a deadly gaze, but has a head so incredibly heavy that it is unable to look at anything other than the ground. This region home to the catoblepas was also": {
+    "guess": "Ethiopia",
+    "confidence": [
+      [
+        "E",
+        -0.09725107
+      ],
+      [
+        "thi",
+        0.0
+      ],
+      [
+        "opia",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "Isidore of Seville claimed that this region is inhabited by sciopodes, which are humans who only have one foot. A story states that Apollonius of Tyana travelled to this region's capital and saved its inhabitants from a phantom satyr who had been terrorizing the city. Pliny the Elder's Natural History describes an animal from this region that has a deadly gaze, but has a head so incredibly heavy that it is unable to look at anything other than the ground. This region home to the catoblepas was also home to a warrior whose blood is used to create a huge river that annually reeks of human flesh when": {
+    "guess": "Ethiopia",
+    "confidence": [
+      [
+        "E",
+        -0.21182346
+      ],
+      [
+        "thi",
+        0.0
+      ],
+      [
+        "opia",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "Isidore of Seville claimed that this region is inhabited by sciopodes, which are humans who only have one foot. A story states that Apollonius of Tyana travelled to this region's capital and saved its inhabitants from a phantom satyr who had been terrorizing the city. Pliny the Elder's Natural History describes an animal from this region that has a deadly gaze, but has a head so incredibly heavy that it is unable to look at anything other than the ground. This region home to the catoblepas was also home to a warrior whose blood is used to create a huge river that annually reeks of human flesh when it flows. Poseidon sent a sea monster named Cetus who terrorized a ruler of this kingdom named Cepheus.": {
+    "guess": "Ethiopia",
+    "confidence": [
+      [
+        "E",
+        -0.32360485
+      ],
+      [
+        "thi",
+        0.0
+      ],
+      [
+        "opia",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "Isidore of Seville claimed that this region is inhabited by sciopodes, which are humans who only have one foot. A story states that Apollonius of Tyana travelled to this region's capital and saved its inhabitants from a phantom satyr who had been terrorizing the city. Pliny the Elder's Natural History describes an animal from this region that has a deadly gaze, but has a head so incredibly heavy that it is unable to look at anything other than the ground. This region home to the catoblepas was also home to a warrior whose blood is used to create a huge river that annually reeks of human flesh when it flows. Poseidon sent a sea monster named Cetus who terrorized a ruler of this kingdom named Cepheus. A group of warriors that turned into birds were present at the funeral of a son of Eos who served": {
+    "guess": "Ethiopia",
+    "confidence": [
+      [
+        "E",
+        -0.34567544
+      ],
+      [
+        "thi",
+        0.0
+      ],
+      [
+        "opia",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "Isidore of Seville claimed that this region is inhabited by sciopodes, which are humans who only have one foot. A story states that Apollonius of Tyana travelled to this region's capital and saved its inhabitants from a phantom satyr who had been terrorizing the city. Pliny the Elder's Natural History describes an animal from this region that has a deadly gaze, but has a head so incredibly heavy that it is unable to look at anything other than the ground. This region home to the catoblepas was also home to a warrior whose blood is used to create a huge river that annually reeks of human flesh when it flows. Poseidon sent a sea monster named Cetus who terrorized a ruler of this kingdom named Cepheus. A group of warriors that turned into birds were present at the funeral of a son of Eos who served as king of this region and was slain in the Trojan War. For 10 points, name this portion of Africa": {
+    "guess": "Ethiopia",
+    "confidence": [
+      [
+        "E",
+        -0.0771268
+      ],
+      [
+        "thi",
+        -1.9361265e-07
+      ],
+      [
+        "opia",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Isidore of Seville claimed that this region is inhabited by sciopodes, which are humans who only have one foot. A story states that Apollonius of Tyana travelled to this region's capital and saved its inhabitants from a phantom satyr who had been terrorizing the city. Pliny the Elder's Natural History describes an animal from this region that has a deadly gaze, but has a head so incredibly heavy that it is unable to look at anything other than the ground. This region home to the catoblepas was also home to a warrior whose blood is used to create a huge river that annually reeks of human flesh when it flows. Poseidon sent a sea monster named Cetus who terrorized a ruler of this kingdom named Cepheus. A group of warriors that turned into birds were present at the funeral of a son of Eos who served as king of this region and was slain in the Trojan War. For 10 points, name this portion of Africa that was ruled by Memnon.": {
+    "guess": "Aethiopia",
+    "confidence": [
+      [
+        "A",
+        -0.4757255
+      ],
+      [
+        "ethi",
+        -2.677603e-05
+      ],
+      [
+        "opia",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The ISIS facility, at Rutherford Appleton Laboratory in Oxfordshire, United Kingdom, is a source for": {
+    "guess": "Neutron Scattering",
+    "confidence": [
+      [
+        "Ne",
+        -0.101109535
+      ],
+      [
+        "utron",
+        -0.00070992863
+      ],
+      [
+        " Sc",
+        -0.8154179
+      ],
+      [
+        "attering",
+        0.0
+      ]
+    ]
+  },
+  "The ISIS facility, at Rutherford Appleton Laboratory in Oxfordshire, United Kingdom, is a source for  muons and these particles. Its antiparticle was discovered by Bruce Cork, and the R-process and S-process": {
+    "guess": "Neutron",
+    "confidence": [
+      [
+        "Ne",
+        -0.0013707151
+      ],
+      [
+        "utron",
+        -0.0008379809
+      ]
+    ]
+  },
+  "The ISIS facility, at Rutherford Appleton Laboratory in Oxfordshire, United Kingdom, is a source for  muons and these particles. Its antiparticle was discovered by Bruce Cork, and the R-process and S-process  are different ways in which they can be captured by a nucleus. These particles, when free, undergo": {
+    "guess": "Neutron",
+    "confidence": [
+      [
+        "Ne",
+        -0.08647031
+      ],
+      [
+        "utron",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "The ISIS facility, at Rutherford Appleton Laboratory in Oxfordshire, United Kingdom, is a source for  muons and these particles. Its antiparticle was discovered by Bruce Cork, and the R-process and S-process  are different ways in which they can be captured by a nucleus. These particles, when free, undergo beta  decay with a mean lifetime of about 15 minutes. Made up of one up quark and two down quarks,": {
+    "guess": "Neutron",
+    "confidence": [
+      [
+        "Ne",
+        -0.0024927799
+      ],
+      [
+        "utron",
+        -4.823269e-05
+      ]
+    ]
+  },
+  "The ISIS facility, at Rutherford Appleton Laboratory in Oxfordshire, United Kingdom, is a source for  muons and these particles. Its antiparticle was discovered by Bruce Cork, and the R-process and S-process  are different ways in which they can be captured by a nucleus. These particles, when free, undergo beta  decay with a mean lifetime of about 15 minutes. Made up of one up quark and two down quarks, it was  discovered by James Chadwick. FTP, identify this particle whose number differs in different": {
+    "guess": "Neutron",
+    "confidence": [
+      [
+        "Ne",
+        -0.011216288
+      ],
+      [
+        "utron",
+        -7.2192626e-05
+      ]
+    ]
+  },
+  "The ISIS facility, at Rutherford Appleton Laboratory in Oxfordshire, United Kingdom, is a source for  muons and these particles. Its antiparticle was discovered by Bruce Cork, and the R-process and S-process  are different ways in which they can be captured by a nucleus. These particles, when free, undergo beta  decay with a mean lifetime of about 15 minutes. Made up of one up quark and two down quarks, it was  discovered by James Chadwick. FTP, identify this particle whose number differs in different isotopes of the  same element, a subatomic particle with zero charge.": {
+    "guess": "Neutron",
+    "confidence": [
+      [
+        "Ne",
+        -0.016075896
+      ],
+      [
+        "utron",
+        -1.147242e-06
+      ]
+    ]
+  }
+}

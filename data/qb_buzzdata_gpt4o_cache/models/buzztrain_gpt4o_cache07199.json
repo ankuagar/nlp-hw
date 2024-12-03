@@ -1,0 +1,98 @@
+{
+  "In the 1920s, this state's namesake Farmers' Union changed its name to the United Country Party and governed": {
+    "guess": "Victoria",
+    "confidence": [
+      [
+        "Victoria",
+        -0.4862118
+      ]
+    ]
+  },
+  "In the 1920s, this state's namesake Farmers' Union changed its name to the United Country Party and governed this province until 1955, when legislative redistricting brought the Liberals under Henry Bolte": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9174516
+      ]
+    ]
+  },
+  "In the 1920s, this state's namesake Farmers' Union changed its name to the United Country Party and governed this province until 1955, when legislative redistricting brought the Liberals under Henry Bolte to power in this state. First settled by a group called the Port Philip Association, as well as": {
+    "guess": "Victoria (Australia)",
+    "confidence": [
+      [
+        "Victoria",
+        -0.11399897
+      ],
+      [
+        " (",
+        -0.0015898427
+      ],
+      [
+        "Australia",
+        -0.0024826734
+      ],
+      [
+        ")",
+        -0.00028719936
+      ]
+    ]
+  },
+  "In the 1920s, this state's namesake Farmers' Union changed its name to the United Country Party and governed this province until 1955, when legislative redistricting brought the Liberals under Henry Bolte to power in this state. First settled by a group called the Port Philip Association, as well as by a rival group headed by John Fawker, this state's major city was founded by John (*) Batman.  A neighboring": {
+    "guess": "Victoria (Australia)",
+    "confidence": [
+      [
+        "Victoria",
+        -0.060004115
+      ],
+      [
+        " (",
+        -0.063057624
+      ],
+      [
+        "Australia",
+        -0.0052373107
+      ],
+      [
+        ")",
+        -0.00012094693
+      ]
+    ]
+  },
+  "In the 1920s, this state's namesake Farmers' Union changed its name to the United Country Party and governed this province until 1955, when legislative redistricting brought the Liberals under Henry Bolte to power in this state. First settled by a group called the Port Philip Association, as well as by a rival group headed by John Fawker, this state's major city was founded by John (*) Batman.  A neighboring state's discovery of gold at Lewis Ponds Creek shortly preceded the gold discoveries at Bendigo": {
+    "guess": "Victoria",
+    "confidence": [
+      [
+        "Victoria",
+        -0.06163037
+      ]
+    ]
+  },
+  "In the 1920s, this state's namesake Farmers' Union changed its name to the United Country Party and governed this province until 1955, when legislative redistricting brought the Liberals under Henry Bolte to power in this state. First settled by a group called the Port Philip Association, as well as by a rival group headed by John Fawker, this state's major city was founded by John (*) Batman.  A neighboring state's discovery of gold at Lewis Ponds Creek shortly preceded the gold discoveries at Bendigo and Ballarat in this state, which experienced an 1854 miners' rebellion called the Eureka Stockade.": {
+    "guess": "Victoria",
+    "confidence": [
+      [
+        "Victoria",
+        -0.017983582
+      ]
+    ]
+  },
+  "In the 1920s, this state's namesake Farmers' Union changed its name to the United Country Party and governed this province until 1955, when legislative redistricting brought the Liberals under Henry Bolte to power in this state. First settled by a group called the Port Philip Association, as well as by a rival group headed by John Fawker, this state's major city was founded by John (*) Batman.  A neighboring state's discovery of gold at Lewis Ponds Creek shortly preceded the gold discoveries at Bendigo and Ballarat in this state, which experienced an 1854 miners' rebellion called the Eureka Stockade. For 10 points, identify this Australian state directly south of New South Wales, whose capital": {
+    "guess": "Victoria",
+    "confidence": [
+      [
+        "Victoria",
+        -0.0031890017
+      ]
+    ]
+  },
+  "In the 1920s, this state's namesake Farmers' Union changed its name to the United Country Party and governed this province until 1955, when legislative redistricting brought the Liberals under Henry Bolte to power in this state. First settled by a group called the Port Philip Association, as well as by a rival group headed by John Fawker, this state's major city was founded by John (*) Batman.  A neighboring state's discovery of gold at Lewis Ponds Creek shortly preceded the gold discoveries at Bendigo and Ballarat in this state, which experienced an 1854 miners' rebellion called the Eureka Stockade. For 10 points, identify this Australian state directly south of New South Wales, whose capital is Melbourne.": {
+    "guess": "Victoria",
+    "confidence": [
+      [
+        "Victoria",
+        -0.0077095507
+      ]
+    ]
+  }
+}

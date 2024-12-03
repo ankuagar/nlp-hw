@@ -1,0 +1,86 @@
+{
+  "Lying on the Tola River, this city is situated at the foot of the Bogdo Khan Uul, which rises 3,000 feet": {
+    "guess": "Ulaanbaatar",
+    "confidence": [
+      [
+        "U",
+        -0.0019728846
+      ],
+      [
+        "laan",
+        -2.1650272e-05
+      ],
+      [
+        "ba",
+        -4.3202e-07
+      ],
+      [
+        "atar",
+        0.0
+      ]
+    ]
+  },
+  "Lying on the Tola River, this city is situated at the foot of the Bogdo Khan Uul, which rises 3,000 feet above it. Founded as a monastery town in 1649, the Monastery District has been supplanted as the": {
+    "guess": "Ulaanbaatar",
+    "confidence": [
+      [
+        "U",
+        -1.0683535e-05
+      ],
+      [
+        "laan",
+        -4.561021e-05
+      ],
+      [
+        "ba",
+        -4.3202e-07
+      ],
+      [
+        "atar",
+        0.0
+      ]
+    ]
+  },
+  "Lying on the Tola River, this city is situated at the foot of the Bogdo Khan Uul, which rises 3,000 feet above it. Founded as a monastery town in 1649, the Monastery District has been supplanted as the center of the city by Suhbaatar Square. With a population of 600,000, it lies on the Trans-Siberian": {
+    "guess": "Ulaanbaatar",
+    "confidence": [
+      [
+        "U",
+        -0.004917666
+      ],
+      [
+        "laan",
+        -2.7610455e-05
+      ],
+      [
+        "ba",
+        -1.9361265e-07
+      ],
+      [
+        "atar",
+        0.0
+      ]
+    ]
+  },
+  "Lying on the Tola River, this city is situated at the foot of the Bogdo Khan Uul, which rises 3,000 feet above it. Founded as a monastery town in 1649, the Monastery District has been supplanted as the center of the city by Suhbaatar Square. With a population of 600,000, it lies on the Trans-Siberian Railroad, and has a name meaning \"red hero\". FTP, what is this capital of Mongolia?": {
+    "guess": "Ulaanbaatar",
+    "confidence": [
+      [
+        "U",
+        -0.00016003472
+      ],
+      [
+        "laan",
+        -1.9361265e-07
+      ],
+      [
+        "ba",
+        0.0
+      ],
+      [
+        "atar",
+        0.0
+      ]
+    ]
+  }
+}

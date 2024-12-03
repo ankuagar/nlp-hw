@@ -1,0 +1,193 @@
+{
+  "Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy (\"Louie\") bodies were first": {
+    "guess": "Lewy body dementia",
+    "confidence": [
+      [
+        "Lew",
+        -0.48864108
+      ],
+      [
+        "y",
+        -1.9361265e-07
+      ],
+      [
+        " body",
+        -0.003514668
+      ],
+      [
+        " dementia",
+        -0.016090678
+      ]
+    ]
+  },
+  "Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy (\"Louie\") bodies were first discovered in patients suffering from this disease. This disease is caused by damage to the pars compacta": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.018447243
+      ],
+      [
+        "inson",
+        0.0
+      ],
+      [
+        "'s",
+        -6.6306106e-06
+      ],
+      [
+        " disease",
+        -1.1517961e-05
+      ]
+    ]
+  },
+  "Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy (\"Louie\") bodies were first discovered in patients suffering from this disease. This disease is caused by damage to the pars compacta (PARZ kom-PACK-tuh) of the substantia nigra (sub-STAN-shuh NY-gruh), which is part of the basal": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.008682175
+      ],
+      [
+        "inson",
+        0.0
+      ],
+      [
+        "'s",
+        -5.4385737e-06
+      ],
+      [
+        " disease",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy (\"Louie\") bodies were first discovered in patients suffering from this disease. This disease is caused by damage to the pars compacta (PARZ kom-PACK-tuh) of the substantia nigra (sub-STAN-shuh NY-gruh), which is part of the basal ganglia. This disease results in less active dopamine pathways in the brain, which is why it is sometimes": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.002610498
+      ],
+      [
+        "inson",
+        0.0
+      ],
+      [
+        "'s",
+        -1.6240566e-06
+      ],
+      [
+        " disease",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy (\"Louie\") bodies were first discovered in patients suffering from this disease. This disease is caused by damage to the pars compacta (PARZ kom-PACK-tuh) of the substantia nigra (sub-STAN-shuh NY-gruh), which is part of the basal ganglia. This disease results in less active dopamine pathways in the brain, which is why it is sometimes treated with L-dopa. For 10 points, name this neural disease that results in a loss of motor": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -9.889425e-05
+      ],
+      [
+        "inson",
+        0.0
+      ],
+      [
+        "'s",
+        -7.89631e-07
+      ],
+      [
+        " disease",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy (\"Louie\") bodies were first discovered in patients suffering from this disease. This disease is caused by damage to the pars compacta (PARZ kom-PACK-tuh) of the substantia nigra (sub-STAN-shuh NY-gruh), which is part of the basal ganglia. This disease results in less active dopamine pathways in the brain, which is why it is sometimes treated with L-dopa. For 10 points, name this neural disease that results in a loss of motor skill, often causing tremor and rigidity in muscles.": {
+    "guess": "Parkinson's disease",
+    "confidence": [
+      [
+        "Park",
+        -0.00018720949
+      ],
+      [
+        "inson",
+        0.0
+      ],
+      [
+        "'s",
+        -1.6240566e-06
+      ],
+      [
+        " disease",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Abnormalities in serum albumin concentration and prothrombin time imply damage to this organ. Vitamin": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.0063363723
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Abnormalities in serum albumin concentration and prothrombin time imply damage to this organ. Vitamin A is stored in Ito cells in this organ, which is where lactate is moved to in the Cori cycle. This": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.0006025958
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Abnormalities in serum albumin concentration and prothrombin time imply damage to this organ. Vitamin A is stored in Ito cells in this organ, which is where lactate is moved to in the Cori cycle. This organ is attached to the abdominal wall by the falciform ligament, and has macrophages called Kupffer": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.00012558853
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Abnormalities in serum albumin concentration and prothrombin time imply damage to this organ. Vitamin A is stored in Ito cells in this organ, which is where lactate is moved to in the Cori cycle. This organ is attached to the abdominal wall by the falciform ligament, and has macrophages called Kupffer cells. Blood is supplied by the portal vein to this organ, which stores glycogen and secretes bile.": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.002482435
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  },
+  "Abnormalities in serum albumin concentration and prothrombin time imply damage to this organ. Vitamin A is stored in Ito cells in this organ, which is where lactate is moved to in the Cori cycle. This organ is attached to the abdominal wall by the falciform ligament, and has macrophages called Kupffer cells. Blood is supplied by the portal vein to this organ, which stores glycogen and secretes bile. For 10 points, name this organ in which excessive alcohol can cause cirrhosis.": {
+    "guess": "Liver",
+    "confidence": [
+      [
+        "L",
+        -0.0003832445
+      ],
+      [
+        "iver",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "She wonders why her daughter Elizabeth has an Asian appearance and feuds with her nurse Ms. Kilman for": {
+    "guess": "Mrs Dalloway",
+    "confidence": [
+      [
+        "Mrs",
+        -0.5836532
+      ],
+      [
+        " D",
+        -0.018220998
+      ],
+      [
+        "allow",
+        -1.0280384e-06
+      ],
+      [
+        "ay",
+        0.0
+      ]
+    ]
+  },
+  "She wonders why her daughter Elizabeth has an Asian appearance and feuds with her nurse Ms. Kilman for the girl's affection. The return of a former suitor from India and the reappearance of a once wild": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8189988
+      ]
+    ]
+  },
+  "She wonders why her daughter Elizabeth has an Asian appearance and feuds with her nurse Ms. Kilman for the girl's affection. The return of a former suitor from India and the reappearance of a once wild friend under the name Lady Rosseter forces her to reevaluate her marriage. In an attempt to reunite,": {
+    "guess": "The answer is: Mrs Dalloway",
+    "confidence": [
+      [
+        "The",
+        -0.5642756
+      ],
+      [
+        " answer",
+        -0.8955453
+      ],
+      [
+        " is",
+        -0.00035048186
+      ],
+      [
+        ":",
+        -0.008110606
+      ],
+      [
+        " Mrs",
+        -0.5564748
+      ],
+      [
+        " D",
+        -0.054988917
+      ],
+      [
+        "allow",
+        -1.0280384e-06
+      ],
+      [
+        "ay",
+        0.0
+      ]
+    ]
+  },
+  "She wonders why her daughter Elizabeth has an Asian appearance and feuds with her nurse Ms. Kilman for the girl's affection. The return of a former suitor from India and the reappearance of a once wild friend under the name Lady Rosseter forces her to reevaluate her marriage. In an attempt to reunite, Richard brings her roses despite her declaration at the opening of the novel that she would get the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7512322
+      ]
+    ]
+  },
+  "She wonders why her daughter Elizabeth has an Asian appearance and feuds with her nurse Ms. Kilman for the girl's affection. The return of a former suitor from India and the reappearance of a once wild friend under the name Lady Rosseter forces her to reevaluate her marriage. In an attempt to reunite, Richard brings her roses despite her declaration at the opening of the novel that she would get the flowers herself. For ten points, Sir William Bradshaw almost ruins the party of what character by": {
+    "guess": "Mrs Dalloway",
+    "confidence": [
+      [
+        "Mrs",
+        -0.06050479
+      ],
+      [
+        " D",
+        -0.00048833445
+      ],
+      [
+        "allow",
+        0.0
+      ],
+      [
+        "ay",
+        0.0
+      ]
+    ]
+  },
+  "She wonders why her daughter Elizabeth has an Asian appearance and feuds with her nurse Ms. Kilman for the girl's affection. The return of a former suitor from India and the reappearance of a once wild friend under the name Lady Rosseter forces her to reevaluate her marriage. In an attempt to reunite, Richard brings her roses despite her declaration at the opening of the novel that she would get the flowers herself. For ten points, Sir William Bradshaw almost ruins the party of what character by mentioning the suicide of Septimus Smith in a work by Virginia Woolf.": {
+    "guess": "Mrs Dalloway",
+    "confidence": [
+      [
+        "Mrs",
+        -0.019340146
+      ],
+      [
+        " D",
+        -1.1517961e-05
+      ],
+      [
+        "allow",
+        0.0
+      ],
+      [
+        "ay",
+        0.0
+      ]
+    ]
+  }
+}

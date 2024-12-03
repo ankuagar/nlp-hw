@@ -1,0 +1,1035 @@
+{
+  "Enzymes involved in this process include enolase and aldolase, and some of its stages include fructose-6-phosphate": {
+    "guess": "Glycolysis",
+    "confidence": [
+      [
+        "G",
+        -0.001771808
+      ],
+      [
+        "ly",
+        -0.0009114635
+      ],
+      [
+        "col",
+        -3.1281633e-07
+      ],
+      [
+        "ysis",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes involved in this process include enolase and aldolase, and some of its stages include fructose-6-phosphate and PGAL.  A net gain of 2 ATP results from this process, which begins when hexokinase": {
+    "guess": "Glycolysis",
+    "confidence": [
+      [
+        "G",
+        -1.50940705e-05
+      ],
+      [
+        "ly",
+        0.0
+      ],
+      [
+        "col",
+        0.0
+      ],
+      [
+        "ysis",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes involved in this process include enolase and aldolase, and some of its stages include fructose-6-phosphate and PGAL.  A net gain of 2 ATP results from this process, which begins when hexokinase and ATP are added to a certain type of sugar.  Its end products are two pyruvate molecules, and it": {
+    "guess": "Glycolysis",
+    "confidence": [
+      [
+        "G",
+        -0.00017255111
+      ],
+      [
+        "ly",
+        0.0
+      ],
+      [
+        "col",
+        0.0
+      ],
+      [
+        "ysis",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes involved in this process include enolase and aldolase, and some of its stages include fructose-6-phosphate and PGAL.  A net gain of 2 ATP results from this process, which begins when hexokinase and ATP are added to a certain type of sugar.  Its end products are two pyruvate molecules, and it can occur with or without oxygen being present.  Also known as the * Embden-Meyerhof pathway, FTP, name": {
+    "guess": "Glycolysis",
+    "confidence": [
+      [
+        "G",
+        -0.00018399098
+      ],
+      [
+        "ly",
+        0.0
+      ],
+      [
+        "col",
+        0.0
+      ],
+      [
+        "ysis",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes involved in this process include enolase and aldolase, and some of its stages include fructose-6-phosphate and PGAL.  A net gain of 2 ATP results from this process, which begins when hexokinase and ATP are added to a certain type of sugar.  Its end products are two pyruvate molecules, and it can occur with or without oxygen being present.  Also known as the * Embden-Meyerhof pathway, FTP, name this respiration process in which glucose is split in two.": {
+    "guess": "Glycolysis",
+    "confidence": [
+      [
+        "G",
+        -4.8471098e-05
+      ],
+      [
+        "ly",
+        0.0
+      ],
+      [
+        "col",
+        0.0
+      ],
+      [
+        "ysis",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes used during this process include hexokinase, enolase, and aldolase. After the preparatory steps,": {
+    "guess": "Glycolysis",
+    "confidence": [
+      [
+        "G",
+        -0.00014859485
+      ],
+      [
+        "ly",
+        0.0
+      ],
+      [
+        "col",
+        0.0
+      ],
+      [
+        "ysis",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes used during this process include hexokinase, enolase, and aldolase. After the preparatory steps, two molecules of PGAL are created, which are then oxidized by the reduction of NAD. Eventually,": {
+    "guess": "Glycolysis",
+    "confidence": [
+      [
+        "G",
+        -0.0002478695
+      ],
+      [
+        "ly",
+        -1.9361265e-07
+      ],
+      [
+        "col",
+        0.0
+      ],
+      [
+        "ysis",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes used during this process include hexokinase, enolase, and aldolase. After the preparatory steps, two molecules of PGAL are created, which are then oxidized by the reduction of NAD. Eventually, there is a net gain of two ATP molecules, and the end result is two molecules of pyruvic acid. FTP,": {
+    "guess": "Glycolysis",
+    "confidence": [
+      [
+        "G",
+        -9.794062e-05
+      ],
+      [
+        "ly",
+        0.0
+      ],
+      [
+        "col",
+        0.0
+      ],
+      [
+        "ysis",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes used during this process include hexokinase, enolase, and aldolase. After the preparatory steps, two molecules of PGAL are created, which are then oxidized by the reduction of NAD. Eventually, there is a net gain of two ATP molecules, and the end result is two molecules of pyruvic acid. FTP, identify this process also known as the Embden-Meyerhof pathway, the first step of cellular respiration.": {
+    "guess": "Glycolysis",
+    "confidence": [
+      [
+        "G",
+        -0.0015053401
+      ],
+      [
+        "ly",
+        0.0
+      ],
+      [
+        "col",
+        0.0
+      ],
+      [
+        "ysis",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this molecule can be inhibited by the antibiotic oligomycin. Fritz Lipmann": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.34071437
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this molecule can be inhibited by the antibiotic oligomycin. Fritz Lipmann first proposed the important role function this molecule has while one reaction producing this molecule": {
+    "guess": "Adenosine triphosphate",
+    "confidence": [
+      [
+        "A",
+        -0.18216708
+      ],
+      [
+        "den",
+        -9.615256e-05
+      ],
+      [
+        "os",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " trip",
+        -6.704273e-07
+      ],
+      [
+        "hos",
+        0.0
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ate",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this molecule can be inhibited by the antibiotic oligomycin. Fritz Lipmann first proposed the important role function this molecule has while one reaction producing this molecule occurs in the thylakoid. Along with NADPH, this molecule is produced in the light-dependent reaction": {
+    "guess": "Adenosine triphosphate",
+    "confidence": [
+      [
+        "A",
+        -0.23362781
+      ],
+      [
+        "den",
+        -3.1281633e-07
+      ],
+      [
+        "os",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " trip",
+        -4.3202e-07
+      ],
+      [
+        "hos",
+        0.0
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ate",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this molecule can be inhibited by the antibiotic oligomycin. Fritz Lipmann first proposed the important role function this molecule has while one reaction producing this molecule occurs in the thylakoid. Along with NADPH, this molecule is produced in the light-dependent reaction of photosynthesis in a process known as photophosphorylation while this molecule is also produced": {
+    "guess": "Adenosine triphosphate",
+    "confidence": [
+      [
+        "A",
+        -0.030194487
+      ],
+      [
+        "den",
+        -2.1531068e-05
+      ],
+      [
+        "os",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " trip",
+        -4.3202e-07
+      ],
+      [
+        "hos",
+        0.0
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ate",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this molecule can be inhibited by the antibiotic oligomycin. Fritz Lipmann first proposed the important role function this molecule has while one reaction producing this molecule occurs in the thylakoid. Along with NADPH, this molecule is produced in the light-dependent reaction of photosynthesis in a process known as photophosphorylation while this molecule is also produced alongside NADH in glycolysis. Adenylate cyclase uses this molecule to produce cyclic AMP. For 10": {
+    "guess": "Adenosine triphosphate",
+    "confidence": [
+      [
+        "A",
+        -0.05114558
+      ],
+      [
+        "den",
+        -4.5491004e-05
+      ],
+      [
+        "os",
+        -9.0883464e-07
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " trip",
+        -1.2664457e-06
+      ],
+      [
+        "hos",
+        0.0
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ate",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this molecule can be inhibited by the antibiotic oligomycin. Fritz Lipmann first proposed the important role function this molecule has while one reaction producing this molecule occurs in the thylakoid. Along with NADPH, this molecule is produced in the light-dependent reaction of photosynthesis in a process known as photophosphorylation while this molecule is also produced alongside NADH in glycolysis. Adenylate cyclase uses this molecule to produce cyclic AMP. For 10 points, name the primary biological energy currency that is found in the mitochondria.": {
+    "guess": "Adenosine triphosphate",
+    "confidence": [
+      [
+        "A",
+        -0.097925134
+      ],
+      [
+        "den",
+        -3.7697225e-06
+      ],
+      [
+        "os",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " trip",
+        -7.89631e-07
+      ],
+      [
+        "hos",
+        0.0
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ate",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this compound is inhibited by oligomycin, an antibiotic which gives its name": {
+    "guess": "ATP synthase",
+    "confidence": [
+      [
+        "ATP",
+        -0.007852434
+      ],
+      [
+        " synth",
+        -0.0001273766
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this compound is inhibited by oligomycin, an antibiotic which gives its name to that enzyme's Fo subunit. That enzyme works via the proton motive force and is found in the inner": {
+    "guess": "ATP synthase",
+    "confidence": [
+      [
+        "ATP",
+        -0.0004984631
+      ],
+      [
+        " synth",
+        -0.0007105246
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this compound is inhibited by oligomycin, an antibiotic which gives its name to that enzyme's Fo subunit. That enzyme works via the proton motive force and is found in the inner membrane of a certain organelle. A cyclic derivative of this molecule is a classic second messenger": {
+    "guess": "ATP synthase",
+    "confidence": [
+      [
+        "ATP",
+        -0.08462107
+      ],
+      [
+        " synth",
+        -0.023481773
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this compound is inhibited by oligomycin, an antibiotic which gives its name to that enzyme's Fo subunit. That enzyme works via the proton motive force and is found in the inner membrane of a certain organelle. A cyclic derivative of this molecule is a classic second messenger created by (*) adenylate cyclase, and kinases regulate signal transduction by using this molecule": {
+    "guess": "ATP synthase",
+    "confidence": [
+      [
+        "ATP",
+        -0.59644735
+      ],
+      [
+        " synth",
+        -0.016129386
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this compound is inhibited by oligomycin, an antibiotic which gives its name to that enzyme's Fo subunit. That enzyme works via the proton motive force and is found in the inner membrane of a certain organelle. A cyclic derivative of this molecule is a classic second messenger created by (*) adenylate cyclase, and kinases regulate signal transduction by using this molecule as a phosphate donor. Its namesake synthase is found in the mitochondria, and roughly 36 of these": {
+    "guess": "Adenosine triphosphate",
+    "confidence": [
+      [
+        "A",
+        -0.12213042
+      ],
+      [
+        "den",
+        -2.1531068e-05
+      ],
+      [
+        "os",
+        -1.9361265e-07
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " trip",
+        -4.246537e-06
+      ],
+      [
+        "hos",
+        0.0
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ate",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this compound is inhibited by oligomycin, an antibiotic which gives its name to that enzyme's Fo subunit. That enzyme works via the proton motive force and is found in the inner membrane of a certain organelle. A cyclic derivative of this molecule is a classic second messenger created by (*) adenylate cyclase, and kinases regulate signal transduction by using this molecule as a phosphate donor. Its namesake synthase is found in the mitochondria, and roughly 36 of these molecules can be produced from glucose in cellular respiration. For 10 points, name this energy-carrying": {
+    "guess": "Adenosine triphosphate",
+    "confidence": [
+      [
+        "A",
+        -0.31988454
+      ],
+      [
+        "den",
+        -6.2729996e-06
+      ],
+      [
+        "os",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " trip",
+        -2.1008714e-06
+      ],
+      [
+        "hos",
+        0.0
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ate",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme that synthesizes this compound is inhibited by oligomycin, an antibiotic which gives its name to that enzyme's Fo subunit. That enzyme works via the proton motive force and is found in the inner membrane of a certain organelle. A cyclic derivative of this molecule is a classic second messenger created by (*) adenylate cyclase, and kinases regulate signal transduction by using this molecule as a phosphate donor. Its namesake synthase is found in the mitochondria, and roughly 36 of these molecules can be produced from glucose in cellular respiration. For 10 points, name this energy-carrying molecule consisting of a ribose, a purine, and three phosphate groups.": {
+    "guess": "Adenosine triphosphate",
+    "confidence": [
+      [
+        "A",
+        -0.052077904
+      ],
+      [
+        "den",
+        -6.2729996e-06
+      ],
+      [
+        "os",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ],
+      [
+        " trip",
+        -4.3202e-07
+      ],
+      [
+        "hos",
+        0.0
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ate",
+        0.0
+      ]
+    ]
+  },
+  "One enzyme in this process known as acontinase is involved in a rehydration reaction after a dehydration": {
+    "guess": "Citric acid cycle",
+    "confidence": [
+      [
+        "Cit",
+        -0.001356548
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        " acid",
+        -1.147242e-06
+      ],
+      [
+        " cycle",
+        0.0
+      ]
+    ]
+  },
+  "One enzyme in this process known as acontinase is involved in a rehydration reaction after a dehydration one. Ubiquinone is degraded in one step by a protein using a FADH2 cofactor, and fumarate is formed": {
+    "guess": "Citric acid cycle",
+    "confidence": [
+      [
+        "Cit",
+        -0.023389433
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        " acid",
+        -2.1008714e-06
+      ],
+      [
+        " cycle",
+        0.0
+      ]
+    ]
+  },
+  "One enzyme in this process known as acontinase is involved in a rehydration reaction after a dehydration one. Ubiquinone is degraded in one step by a protein using a FADH2 cofactor, and fumarate is formed in the only membrane-bound step of this process. This process takes place in the mitochondrial matrix": {
+    "guess": "Citric acid cycle",
+    "confidence": [
+      [
+        "Cit",
+        -0.0006322592
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        " acid",
+        -3.4121115e-06
+      ],
+      [
+        " cycle",
+        0.0
+      ]
+    ]
+  },
+  "One enzyme in this process known as acontinase is involved in a rehydration reaction after a dehydration one. Ubiquinone is degraded in one step by a protein using a FADH2 cofactor, and fumarate is formed in the only membrane-bound step of this process. This process takes place in the mitochondrial matrix after pyruvate decarboxylation forms acetyl coenzyme A, and it produces NADH. For 10 points, name": {
+    "guess": "Citric acid cycle",
+    "confidence": [
+      [
+        "Cit",
+        -0.0017747845
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        " acid",
+        -6.2729996e-06
+      ],
+      [
+        " cycle",
+        0.0
+      ]
+    ]
+  },
+  "One enzyme in this process known as acontinase is involved in a rehydration reaction after a dehydration one. Ubiquinone is degraded in one step by a protein using a FADH2 cofactor, and fumarate is formed in the only membrane-bound step of this process. This process takes place in the mitochondrial matrix after pyruvate decarboxylation forms acetyl coenzyme A, and it produces NADH. For 10 points, name this metabolic pathway that is followed by the electron transport chain, an anaerobic process central": {
+    "guess": "Citric acid cycle",
+    "confidence": [
+      [
+        "Cit",
+        -0.00032604876
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        " acid",
+        -2.9352968e-06
+      ],
+      [
+        " cycle",
+        0.0
+      ]
+    ]
+  },
+  "One enzyme in this process known as acontinase is involved in a rehydration reaction after a dehydration one. Ubiquinone is degraded in one step by a protein using a FADH2 cofactor, and fumarate is formed in the only membrane-bound step of this process. This process takes place in the mitochondrial matrix after pyruvate decarboxylation forms acetyl coenzyme A, and it produces NADH. For 10 points, name this metabolic pathway that is followed by the electron transport chain, an anaerobic process central to cellular respiration.": {
+    "guess": "Citric acid cycle",
+    "confidence": [
+      [
+        "Cit",
+        -0.0002191524
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        " acid",
+        -1.8624639e-06
+      ],
+      [
+        " cycle",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme HG methyltransferase synthesizes them from nucleoside diphosphate monosaccharides, but they": {
+    "guess": "Glycosaminoglycans",
+    "confidence": [
+      [
+        "G",
+        -0.5401765
+      ],
+      [
+        "ly",
+        -5.080963e-06
+      ],
+      [
+        "cos",
+        -0.04344147
+      ],
+      [
+        "amin",
+        -0.72146493
+      ],
+      [
+        "ogly",
+        0.0
+      ],
+      [
+        "c",
+        -0.100207105
+      ],
+      [
+        "ans",
+        0.0
+      ]
+    ]
+  },
+  "The enzyme HG methyltransferase synthesizes them from nucleoside diphosphate monosaccharides, but they can be degraded by EPGases produced by phytopathogenic bacteria and fungi. Though their primary structure": {
+    "guess": "Pectin",
+    "confidence": [
+      [
+        "P",
+        -0.5048205
+      ],
+      [
+        "ectin",
+        -0.023245713
+      ]
+    ]
+  },
+  "The enzyme HG methyltransferase synthesizes them from nucleoside diphosphate monosaccharides, but they can be degraded by EPGases produced by phytopathogenic bacteria and fungi. Though their primary structure depends on a glycosyl residue composition (*), they generally consist of 1,4-linked alpha d-galactosyluronic": {
+    "guess": "Pectin",
+    "confidence": [
+      [
+        "P",
+        -0.04564156
+      ],
+      [
+        "ectin",
+        -0.00043066923
+      ]
+    ]
+  },
+  "The enzyme HG methyltransferase synthesizes them from nucleoside diphosphate monosaccharides, but they can be degraded by EPGases produced by phytopathogenic bacteria and fungi. Though their primary structure depends on a glycosyl residue composition (*), they generally consist of 1,4-linked alpha d-galactosyluronic acid and are also known as galacturonans. Known for their affinity for polyamines that": {
+    "guess": "Pectin",
+    "confidence": [
+      [
+        "P",
+        -0.0010553185
+      ],
+      [
+        "ectin",
+        -0.0040784013
+      ]
+    ]
+  },
+  "The enzyme HG methyltransferase synthesizes them from nucleoside diphosphate monosaccharides, but they can be degraded by EPGases produced by phytopathogenic bacteria and fungi. Though their primary structure depends on a glycosyl residue composition (*), they generally consist of 1,4-linked alpha d-galactosyluronic acid and are also known as galacturonans. Known for their affinity for polyamines that are present in plant cell walls, their xylo- variety is found in apple and pine pollens. FTP, name": {
+    "guess": "Pectin",
+    "confidence": [
+      [
+        "P",
+        -0.013763592
+      ],
+      [
+        "ectin",
+        -0.023245713
+      ]
+    ]
+  },
+  "The enzyme HG methyltransferase synthesizes them from nucleoside diphosphate monosaccharides, but they can be degraded by EPGases produced by phytopathogenic bacteria and fungi. Though their primary structure depends on a glycosyl residue composition (*), they generally consist of 1,4-linked alpha d-galactosyluronic acid and are also known as galacturonans. Known for their affinity for polyamines that are present in plant cell walls, their xylo- variety is found in apple and pine pollens. FTP, name these polysaccharides found in the peels of citrus fruits which are often used in the production": {
+    "guess": "Pectin",
+    "confidence": [
+      [
+        "P",
+        -5.4385737e-06
+      ],
+      [
+        "ectin",
+        -0.00033546583
+      ]
+    ]
+  },
+  "The enzyme HG methyltransferase synthesizes them from nucleoside diphosphate monosaccharides, but they can be degraded by EPGases produced by phytopathogenic bacteria and fungi. Though their primary structure depends on a glycosyl residue composition (*), they generally consist of 1,4-linked alpha d-galactosyluronic acid and are also known as galacturonans. Known for their affinity for polyamines that are present in plant cell walls, their xylo- variety is found in apple and pine pollens. FTP, name these polysaccharides found in the peels of citrus fruits which are often used in the production of jams, jellies, and gels.": {
+    "guess": "Pectin",
+    "confidence": [
+      [
+        "P",
+        -0.00014978688
+      ],
+      [
+        "ectin",
+        -0.0040785205
+      ]
+    ]
+  },
+  "One enzyme adds its namesake TTAGGG [\"T-T-A-G-G-G\"] structure towards the end of this process, and the": {
+    "guess": "Telomere elongation",
+    "confidence": [
+      [
+        "Tel",
+        -0.044224143
+      ],
+      [
+        "om",
+        -0.16022463
+      ],
+      [
+        "ere",
+        -2.7610455e-05
+      ],
+      [
+        " elong",
+        -0.26476973
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "One enzyme adds its namesake TTAGGG [\"T-T-A-G-G-G\"] structure towards the end of this process, and the enzyme topoisomerase plays a role in preventing super-coiling of the central molecule of this process.": {
+    "guess": "DNA replication",
+    "confidence": [
+      [
+        "DNA",
+        -0.007956042
+      ],
+      [
+        " replication",
+        -0.008633477
+      ]
+    ]
+  },
+  "One enzyme adds its namesake TTAGGG [\"T-T-A-G-G-G\"] structure towards the end of this process, and the enzyme topoisomerase plays a role in preventing super-coiling of the central molecule of this process. The Messelson-Stahl experiment confirmed the nature of this process to be semi-conservative and": {
+    "guess": "DNA replication",
+    "confidence": [
+      [
+        "DNA",
+        -0.0015975799
+      ],
+      [
+        " replication",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "One enzyme adds its namesake TTAGGG [\"T-T-A-G-G-G\"] structure towards the end of this process, and the enzyme topoisomerase plays a role in preventing super-coiling of the central molecule of this process. The Messelson-Stahl experiment confirmed the nature of this process to be semi-conservative and this process occurs in the 3' [\"3 prime\"] to 5' [\"5 prime\"] direction in the leading strand. For 10": {
+    "guess": "DNA replication",
+    "confidence": [
+      [
+        "DNA",
+        -0.009893262
+      ],
+      [
+        " replication",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "One enzyme adds its namesake TTAGGG [\"T-T-A-G-G-G\"] structure towards the end of this process, and the enzyme topoisomerase plays a role in preventing super-coiling of the central molecule of this process. The Messelson-Stahl experiment confirmed the nature of this process to be semi-conservative and this process occurs in the 3' [\"3 prime\"] to 5' [\"5 prime\"] direction in the leading strand. For 10 points, involves proteins such as the central molecule's namesake polymerase and helicase, which \"unzips\"": {
+    "guess": "DNA replication",
+    "confidence": [
+      [
+        "DNA",
+        -7.350386e-05
+      ],
+      [
+        " replication",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "One enzyme adds its namesake TTAGGG [\"T-T-A-G-G-G\"] structure towards the end of this process, and the enzyme topoisomerase plays a role in preventing super-coiling of the central molecule of this process. The Messelson-Stahl experiment confirmed the nature of this process to be semi-conservative and this process occurs in the 3' [\"3 prime\"] to 5' [\"5 prime\"] direction in the leading strand. For 10 points, involves proteins such as the central molecule's namesake polymerase and helicase, which \"unzips\" its double helical structure.": {
+    "guess": "DNA replication",
+    "confidence": [
+      [
+        "DNA",
+        -0.0024990868
+      ],
+      [
+        " replication",
+        -9.729906e-06
+      ]
+    ]
+  },
+  "Enzymes of this type with Rev3 catalytic subunits partake in translesion synthesis. Xeroderma pigmentosum": {
+    "guess": "DNA polymerase zeta",
+    "confidence": [
+      [
+        "DNA",
+        -0.0062751328
+      ],
+      [
+        " polymer",
+        -0.00071016705
+      ],
+      [
+        "ase",
+        -4.3202e-07
+      ],
+      [
+        " z",
+        -0.050987106
+      ],
+      [
+        "eta",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes of this type with Rev3 catalytic subunits partake in translesion synthesis. Xeroderma pigmentosum is caused by a mutation in the eta member of this enzyme family. PCNA is an example of a sliding": {
+    "guess": "DNA polymerase",
+    "confidence": [
+      [
+        "DNA",
+        -0.02952829
+      ],
+      [
+        " polymer",
+        -0.00028350405
+      ],
+      [
+        "ase",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "Enzymes of this type with Rev3 catalytic subunits partake in translesion synthesis. Xeroderma pigmentosum is caused by a mutation in the eta member of this enzyme family. PCNA is an example of a sliding clamp protein, which holds these enzymes in place to prevent them from falling off of their substrate.": {
+    "guess": "DNA polymerase",
+    "confidence": [
+      [
+        "DNA",
+        -0.029912358
+      ],
+      [
+        " polymer",
+        -3.1305768e-05
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes of this type with Rev3 catalytic subunits partake in translesion synthesis. Xeroderma pigmentosum is caused by a mutation in the eta member of this enzyme family. PCNA is an example of a sliding clamp protein, which holds these enzymes in place to prevent them from falling off of their substrate. Subtilisin's cleavage of them yields the Klenow fragment, and they are used to incorporate chain-terminating": {
+    "guess": "DNA polymerase",
+    "confidence": [
+      [
+        "DNA",
+        -0.014293377
+      ],
+      [
+        " polymer",
+        -5.8365e-05
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes of this type with Rev3 catalytic subunits partake in translesion synthesis. Xeroderma pigmentosum is caused by a mutation in the eta member of this enzyme family. PCNA is an example of a sliding clamp protein, which holds these enzymes in place to prevent them from falling off of their substrate. Subtilisin's cleavage of them yields the Klenow fragment, and they are used to incorporate chain-terminating ddNTPs in Sanger sequencing. They possess (*) proofreading capabilities and 3-prime to": {
+    "guess": "DNA polymerase",
+    "confidence": [
+      [
+        "DNA",
+        -0.008870065
+      ],
+      [
+        " polymer",
+        -8.506662e-05
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes of this type with Rev3 catalytic subunits partake in translesion synthesis. Xeroderma pigmentosum is caused by a mutation in the eta member of this enzyme family. PCNA is an example of a sliding clamp protein, which holds these enzymes in place to prevent them from falling off of their substrate. Subtilisin's cleavage of them yields the Klenow fragment, and they are used to incorporate chain-terminating ddNTPs in Sanger sequencing. They possess (*) proofreading capabilities and 3-prime to 5-prime exonuclease activity. Pfu and Taq are examples of them used in a common laboratory procedure.": {
+    "guess": "DNA polymerase",
+    "confidence": [
+      [
+        "DNA",
+        -0.0028256814
+      ],
+      [
+        " polymer",
+        -1.0564331e-05
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes of this type with Rev3 catalytic subunits partake in translesion synthesis. Xeroderma pigmentosum is caused by a mutation in the eta member of this enzyme family. PCNA is an example of a sliding clamp protein, which holds these enzymes in place to prevent them from falling off of their substrate. Subtilisin's cleavage of them yields the Klenow fragment, and they are used to incorporate chain-terminating ddNTPs in Sanger sequencing. They possess (*) proofreading capabilities and 3-prime to 5-prime exonuclease activity. Pfu and Taq are examples of them used in a common laboratory procedure. For 10 points, name these enzymes that add nucleotides to the 5-prime end of a growing DNA strand": {
+    "guess": "DNA polymerase",
+    "confidence": [
+      [
+        "DNA",
+        -0.0022701586
+      ],
+      [
+        " polymer",
+        -4.8425554e-06
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  },
+  "Enzymes of this type with Rev3 catalytic subunits partake in translesion synthesis. Xeroderma pigmentosum is caused by a mutation in the eta member of this enzyme family. PCNA is an example of a sliding clamp protein, which holds these enzymes in place to prevent them from falling off of their substrate. Subtilisin's cleavage of them yields the Klenow fragment, and they are used to incorporate chain-terminating ddNTPs in Sanger sequencing. They possess (*) proofreading capabilities and 3-prime to 5-prime exonuclease activity. Pfu and Taq are examples of them used in a common laboratory procedure. For 10 points, name these enzymes that add nucleotides to the 5-prime end of a growing DNA strand in replication, which can be used to amplify DNA in a namesake \"chain reaction.\"": {
+    "guess": "DNA polymerase",
+    "confidence": [
+      [
+        "DNA",
+        -0.01052102
+      ],
+      [
+        " polymer",
+        -3.1544176e-05
+      ],
+      [
+        "ase",
+        0.0
+      ]
+    ]
+  }
+}

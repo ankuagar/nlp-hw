@@ -1,0 +1,104 @@
+{
+  "The dihedral angles between these compounds can be represented using a Ramachandran plot and they are": {
+    "guess": "Amino acid",
+    "confidence": [
+      [
+        "A",
+        -0.23652224
+      ],
+      [
+        "mino",
+        -4.3202e-07
+      ],
+      [
+        " acid",
+        -0.078923166
+      ]
+    ]
+  },
+  "The dihedral angles between these compounds can be represented using a Ramachandran plot and they are bound to enzymes called aaRS. They were created in an experiment that passed sparks through a flask": {
+    "guess": "Amino acid",
+    "confidence": [
+      [
+        "A",
+        -0.0053139236
+      ],
+      [
+        "mino",
+        -1.9361265e-07
+      ],
+      [
+        " acid",
+        -0.0038579127
+      ]
+    ]
+  },
+  "The dihedral angles between these compounds can be represented using a Ramachandran plot and they are bound to enzymes called aaRS. They were created in an experiment that passed sparks through a flask containing water, methane, ammonia and hydrogen and are represented by a three nucleotide long codon.": {
+    "guess": "Amino acid",
+    "confidence": [
+      [
+        "A",
+        -0.036415614
+      ],
+      [
+        "mino",
+        0.0
+      ],
+      [
+        " acid",
+        -0.0023613789
+      ]
+    ]
+  },
+  "The dihedral angles between these compounds can be represented using a Ramachandran plot and they are bound to enzymes called aaRS. They were created in an experiment that passed sparks through a flask containing water, methane, ammonia and hydrogen and are represented by a three nucleotide long codon. tRNA is so named because it transfer these compounds to the ribosome. These compounds were created": {
+    "guess": "Amino acid",
+    "confidence": [
+      [
+        "A",
+        -0.0233885
+      ],
+      [
+        "mino",
+        0.0
+      ],
+      [
+        " acid",
+        -9.651017e-05
+      ]
+    ]
+  },
+  "The dihedral angles between these compounds can be represented using a Ramachandran plot and they are bound to enzymes called aaRS. They were created in an experiment that passed sparks through a flask containing water, methane, ammonia and hydrogen and are represented by a three nucleotide long codon. tRNA is so named because it transfer these compounds to the ribosome. These compounds were created in the Miller-Urey experiment and their only achiral member is glycine. For 10 points, name this group": {
+    "guess": "Amino acid",
+    "confidence": [
+      [
+        "A",
+        -0.0017619288
+      ],
+      [
+        "mino",
+        0.0
+      ],
+      [
+        " acid",
+        -0.014172325
+      ]
+    ]
+  },
+  "The dihedral angles between these compounds can be represented using a Ramachandran plot and they are bound to enzymes called aaRS. They were created in an experiment that passed sparks through a flask containing water, methane, ammonia and hydrogen and are represented by a three nucleotide long codon. tRNA is so named because it transfer these compounds to the ribosome. These compounds were created in the Miller-Urey experiment and their only achiral member is glycine. For 10 points, name this group of compounds that form the building blocks of proteins.": {
+    "guess": "Amino acid",
+    "confidence": [
+      [
+        "A",
+        -0.029773863
+      ],
+      [
+        "mino",
+        0.0
+      ],
+      [
+        " acid",
+        -0.0019295862
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "Nek2A phosphorylation of C-Nap 1 results in the eventual disjunction of these structures, and several": {
+    "guess": "Centrosomes",
+    "confidence": [
+      [
+        "Cent",
+        -6.098748e-05
+      ],
+      [
+        "ros",
+        -0.038041495
+      ],
+      [
+        "omes",
+        -0.038041495
+      ]
+    ]
+  },
+  "Nek2A phosphorylation of C-Nap 1 results in the eventual disjunction of these structures, and several important checkpoint kinases associate with these structures. These structures possess cylindrical": {
+    "guess": "Centrosome",
+    "confidence": [
+      [
+        "Cent",
+        -0.00053182547
+      ],
+      [
+        "ros",
+        -0.10020689
+      ],
+      [
+        "ome",
+        -0.16022412
+      ]
+    ]
+  },
+  "Nek2A phosphorylation of C-Nap 1 results in the eventual disjunction of these structures, and several important checkpoint kinases associate with these structures. These structures possess cylindrical objects with 9 triplet blades that form basal bodies of flagella in motile cells. Much like DNA, the": {
+    "guess": "Centrioles",
+    "confidence": [
+      [
+        "Cent",
+        -0.0033053353
+      ],
+      [
+        "ri",
+        -0.048587598
+      ],
+      [
+        "oles",
+        0.0
+      ]
+    ]
+  },
+  "Nek2A phosphorylation of C-Nap 1 results in the eventual disjunction of these structures, and several important checkpoint kinases associate with these structures. These structures possess cylindrical objects with 9 triplet blades that form basal bodies of flagella in motile cells. Much like DNA, the constituent bodies of these structures replicate semi-conservatively. Amplification of these structures": {
+    "guess": "Centrioles",
+    "confidence": [
+      [
+        "Cent",
+        -0.0032528122
+      ],
+      [
+        "ri",
+        -0.25192946
+      ],
+      [
+        "oles",
+        0.0
+      ]
+    ]
+  },
+  "Nek2A phosphorylation of C-Nap 1 results in the eventual disjunction of these structures, and several important checkpoint kinases associate with these structures. These structures possess cylindrical objects with 9 triplet blades that form basal bodies of flagella in motile cells. Much like DNA, the constituent bodies of these structures replicate semi-conservatively. Amplification of these structures often leads to aneuploidy and is associated with many cancers, and they possess gamma-TuRC complexes": {
+    "guess": "Centrosome",
+    "confidence": [
+      [
+        "Cent",
+        -0.00020568605
+      ],
+      [
+        "ros",
+        -0.038041495
+      ],
+      [
+        "ome",
+        -0.47407702
+      ]
+    ]
+  },
+  "Nek2A phosphorylation of C-Nap 1 results in the eventual disjunction of these structures, and several important checkpoint kinases associate with these structures. These structures possess cylindrical objects with 9 triplet blades that form basal bodies of flagella in motile cells. Much like DNA, the constituent bodies of these structures replicate semi-conservatively. Amplification of these structures often leads to aneuploidy and is associated with many cancers, and they possess gamma-TuRC complexes at which microtubules are nucleated. They are associated with the nuclear membrane, and they move": {
+    "guess": "Centrosomes",
+    "confidence": [
+      [
+        "Cent",
+        -0.00011272187
+      ],
+      [
+        "ros",
+        -0.006715371
+      ],
+      [
+        "omes",
+        -0.47407702
+      ]
+    ]
+  },
+  "Nek2A phosphorylation of C-Nap 1 results in the eventual disjunction of these structures, and several important checkpoint kinases associate with these structures. These structures possess cylindrical objects with 9 triplet blades that form basal bodies of flagella in motile cells. Much like DNA, the constituent bodies of these structures replicate semi-conservatively. Amplification of these structures often leads to aneuploidy and is associated with many cancers, and they possess gamma-TuRC complexes at which microtubules are nucleated. They are associated with the nuclear membrane, and they move toward polar ends prior to the onset of mitosis. For 10 points, identify this structure, which is": {
+    "guess": "Centrosome",
+    "confidence": [
+      [
+        "Cent",
+        -0.0007264906
+      ],
+      [
+        "ros",
+        -0.061967913
+      ],
+      [
+        "ome",
+        -0.01416351
+      ]
+    ]
+  },
+  "Nek2A phosphorylation of C-Nap 1 results in the eventual disjunction of these structures, and several important checkpoint kinases associate with these structures. These structures possess cylindrical objects with 9 triplet blades that form basal bodies of flagella in motile cells. Much like DNA, the constituent bodies of these structures replicate semi-conservatively. Amplification of these structures often leads to aneuploidy and is associated with many cancers, and they possess gamma-TuRC complexes at which microtubules are nucleated. They are associated with the nuclear membrane, and they move toward polar ends prior to the onset of mitosis. For 10 points, identify this structure, which is composed of two centrioles from which spindle fibers emanate. ": {
+    "guess": "Centrosome",
+    "confidence": [
+      [
+        "Cent",
+        -0.00046653853
+      ],
+      [
+        "ros",
+        0.0
+      ],
+      [
+        "ome",
+        -0.00070992863
+      ]
+    ]
+  }
+}

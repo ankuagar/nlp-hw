@@ -1,0 +1,5275 @@
+{
+  "This is the central of the \"Three Parallel Rivers\" that name a UNESCO World Heritage Site. The Pak Mun": {
+    "guess": "Salween River",
+    "confidence": [
+      [
+        "Sal",
+        -0.5151968
+      ],
+      [
+        "ween",
+        -0.018161763
+      ],
+      [
+        " River",
+        -0.002289068
+      ]
+    ]
+  },
+  "This is the central of the \"Three Parallel Rivers\" that name a UNESCO World Heritage Site. The Pak Mun dam is located at the confluence of this river and its tributary, the Mun River. A \"Friendship Bridge\"": {
+    "guess": "Mekong River",
+    "confidence": [
+      [
+        "M",
+        -0.022204619
+      ],
+      [
+        "ek",
+        0.0
+      ],
+      [
+        "ong",
+        0.0
+      ],
+      [
+        " River",
+        -0.47424972
+      ]
+    ]
+  },
+  "This is the central of the \"Three Parallel Rivers\" that name a UNESCO World Heritage Site. The Pak Mun dam is located at the confluence of this river and its tributary, the Mun River. A \"Friendship Bridge\" spanning this river forces users to change over driving side when going from Savannakhet Province": {
+    "guess": "Mekong River",
+    "confidence": [
+      [
+        "M",
+        -0.0041845334
+      ],
+      [
+        "ek",
+        -1.9361265e-07
+      ],
+      [
+        "ong",
+        0.0
+      ],
+      [
+        " River",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This is the central of the \"Three Parallel Rivers\" that name a UNESCO World Heritage Site. The Pak Mun dam is located at the confluence of this river and its tributary, the Mun River. A \"Friendship Bridge\" spanning this river forces users to change over driving side when going from Savannakhet Province to Mukdahan Province. Pyotr Kozlov discovered that this river's source is the Lasagongma Spring on": {
+    "guess": "Mekong River",
+    "confidence": [
+      [
+        "M",
+        -0.011840974
+      ],
+      [
+        "ek",
+        -9.0883464e-07
+      ],
+      [
+        "ong",
+        0.0
+      ],
+      [
+        " River",
+        -1.867018e-05
+      ]
+    ]
+  },
+  "This is the central of the \"Three Parallel Rivers\" that name a UNESCO World Heritage Site. The Pak Mun dam is located at the confluence of this river and its tributary, the Mun River. A \"Friendship Bridge\" spanning this river forces users to change over driving side when going from Savannakhet Province to Mukdahan Province. Pyotr Kozlov discovered that this river's source is the Lasagongma Spring on Mount Guozongmucha. Runoff from the Tonle Sap reservoir enters this river when the Tonle Sap River": {
+    "guess": "Mekong River",
+    "confidence": [
+      [
+        "M",
+        -0.22982249
+      ],
+      [
+        "ek",
+        0.0
+      ],
+      [
+        "ong",
+        0.0
+      ],
+      [
+        " River",
+        -0.57650316
+      ]
+    ]
+  },
+  "This is the central of the \"Three Parallel Rivers\" that name a UNESCO World Heritage Site. The Pak Mun dam is located at the confluence of this river and its tributary, the Mun River. A \"Friendship Bridge\" spanning this river forces users to change over driving side when going from Savannakhet Province to Mukdahan Province. Pyotr Kozlov discovered that this river's source is the Lasagongma Spring on Mount Guozongmucha. Runoff from the Tonle Sap reservoir enters this river when the Tonle Sap River is formed. This river flows through Yunnan Province from its origin on the Tibetan Plateau, and it": {
+    "guess": "Mekong River",
+    "confidence": [
+      [
+        "M",
+        -0.10340772
+      ],
+      [
+        "ek",
+        0.0
+      ],
+      [
+        "ong",
+        0.0
+      ],
+      [
+        " River",
+        -0.576273
+      ]
+    ]
+  },
+  "This is the central of the \"Three Parallel Rivers\" that name a UNESCO World Heritage Site. The Pak Mun dam is located at the confluence of this river and its tributary, the Mun River. A \"Friendship Bridge\" spanning this river forces users to change over driving side when going from Savannakhet Province to Mukdahan Province. Pyotr Kozlov discovered that this river's source is the Lasagongma Spring on Mount Guozongmucha. Runoff from the Tonle Sap reservoir enters this river when the Tonle Sap River is formed. This river flows through Yunnan Province from its origin on the Tibetan Plateau, and it flows through Thailand, Burma, Laos, and Cambodia before emptying at its namesake delta in Vietnam.": {
+    "guess": "Mekong River",
+    "confidence": [
+      [
+        "M",
+        -0.0507553
+      ],
+      [
+        "ek",
+        0.0
+      ],
+      [
+        "ong",
+        0.0
+      ],
+      [
+        " River",
+        -0.57641065
+      ]
+    ]
+  },
+  "This is the central of the \"Three Parallel Rivers\" that name a UNESCO World Heritage Site. The Pak Mun dam is located at the confluence of this river and its tributary, the Mun River. A \"Friendship Bridge\" spanning this river forces users to change over driving side when going from Savannakhet Province to Mukdahan Province. Pyotr Kozlov discovered that this river's source is the Lasagongma Spring on Mount Guozongmucha. Runoff from the Tonle Sap reservoir enters this river when the Tonle Sap River is formed. This river flows through Yunnan Province from its origin on the Tibetan Plateau, and it flows through Thailand, Burma, Laos, and Cambodia before emptying at its namesake delta in Vietnam. For 10 points, name this principle river of Southeast Asia.": {
+    "guess": "Mekong River",
+    "confidence": [
+      [
+        "M",
+        -0.033123307
+      ],
+      [
+        "ek",
+        0.0
+      ],
+      [
+        "ong",
+        0.0
+      ],
+      [
+        " River",
+        -0.693347
+      ]
+    ]
+  },
+  "The central figure of this work is depicted in the background of Alexander Moffat's painting Poets' Pub.": {
+    "guess": "The Scottish Enlightenment",
+    "confidence": [
+      [
+        "The",
+        -1.3216995
+      ],
+      [
+        " Scottish",
+        -0.9052907
+      ],
+      [
+        " Enlight",
+        -1.1748201
+      ],
+      [
+        "enment",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "The central figure of this work is depicted in the background of Alexander Moffat's painting Poets' Pub. Contemporary critics mocked the underarm hair and dirty appearance of this painting's central figure,": {
+    "guess": "The Birth of Venus",
+    "confidence": [
+      [
+        "The",
+        -0.045245722
+      ],
+      [
+        " Birth",
+        -1.0526241
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Venus",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "The central figure of this work is depicted in the background of Alexander Moffat's painting Poets' Pub. Contemporary critics mocked the underarm hair and dirty appearance of this painting's central figure, who wears a Phrygian cap. It is similar to Schnetz's painting Combat de l'Hotel de Ville, and": {
+    "guess": "Liberty Leading the People",
+    "confidence": [
+      [
+        "Lib",
+        -0.00010402
+      ],
+      [
+        "erty",
+        0.0
+      ],
+      [
+        " Leading",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " People",
+        0.0
+      ]
+    ]
+  },
+  "The central figure of this work is depicted in the background of Alexander Moffat's painting Poets' Pub. Contemporary critics mocked the underarm hair and dirty appearance of this painting's central figure, who wears a Phrygian cap. It is similar to Schnetz's painting Combat de l'Hotel de Ville, and depicts the towers of Notre Dame in the distance, while its foreground portrays a fallen National Guardsman.": {
+    "guess": "Liberty Leading the People",
+    "confidence": [
+      [
+        "Lib",
+        -1.2664457e-06
+      ],
+      [
+        "erty",
+        0.0
+      ],
+      [
+        " Leading",
+        0.0
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " People",
+        0.0
+      ]
+    ]
+  },
+  "The central figure of this work is depicted in the background of Alexander Moffat's painting Poets' Pub. Contemporary critics mocked the underarm hair and dirty appearance of this painting's central figure, who wears a Phrygian cap. It is similar to Schnetz's painting Combat de l'Hotel de Ville, and depicts the towers of Notre Dame in the distance, while its foreground portrays a fallen National Guardsman. It includes a man in a top hat carrying a gun and a boy brandishing two pistols. The title": {
+    "guess": "Liberty Leading the People",
+    "confidence": [
+      [
+        "Lib",
+        -1.0325924e-05
+      ],
+      [
+        "erty",
+        0.0
+      ],
+      [
+        " Leading",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " People",
+        0.0
+      ]
+    ]
+  },
+  "The central figure of this work is depicted in the background of Alexander Moffat's painting Poets' Pub. Contemporary critics mocked the underarm hair and dirty appearance of this painting's central figure, who wears a Phrygian cap. It is similar to Schnetz's painting Combat de l'Hotel de Ville, and depicts the towers of Notre Dame in the distance, while its foreground portrays a fallen National Guardsman. It includes a man in a top hat carrying a gun and a boy brandishing two pistols. The title character is barefoot and bare-breasted, and is based on Marianne. For 10 points, name this painting": {
+    "guess": "Liberty Leading the People",
+    "confidence": [
+      [
+        "Lib",
+        -1.1041146e-05
+      ],
+      [
+        "erty",
+        0.0
+      ],
+      [
+        " Leading",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " People",
+        0.0
+      ]
+    ]
+  },
+  "The central figure of this work is depicted in the background of Alexander Moffat's painting Poets' Pub. Contemporary critics mocked the underarm hair and dirty appearance of this painting's central figure, who wears a Phrygian cap. It is similar to Schnetz's painting Combat de l'Hotel de Ville, and depicts the towers of Notre Dame in the distance, while its foreground portrays a fallen National Guardsman. It includes a man in a top hat carrying a gun and a boy brandishing two pistols. The title character is barefoot and bare-breasted, and is based on Marianne. For 10 points, name this painting whose title character holds up a flag over a barricade during the July Revolution, by Eugene Delacroix.": {
+    "guess": "Liberty Leading the People",
+    "confidence": [
+      [
+        "Lib",
+        -0.0017044598
+      ],
+      [
+        "erty",
+        0.0
+      ],
+      [
+        " Leading",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " People",
+        0.0
+      ]
+    ]
+  },
+  "The center of the defending forces in this battle was led by the Marquis of Caracena, while the cavalry": {
+    "guess": "Battle of the Dunes (1658)",
+    "confidence": [
+      [
+        "Battle",
+        -0.003371154
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -0.0060186186
+      ],
+      [
+        " D",
+        -0.00010998019
+      ],
+      [
+        "unes",
+        -1.0802739e-05
+      ],
+      [
+        " (",
+        -0.25201777
+      ],
+      [
+        "165",
+        -9.253091e-06
+      ],
+      [
+        "8",
+        0.0
+      ],
+      [
+        ")",
+        -3.888926e-06
+      ]
+    ]
+  },
+  "The center of the defending forces in this battle was led by the Marquis of Caracena, while the cavalry on the right flank of the opposing forces was led by the Marquis de Crequy. The winning side featured": {
+    "guess": "Battle of the Dunes (1658)",
+    "confidence": [
+      [
+        "Battle",
+        -0.01165199
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -0.018019294
+      ],
+      [
+        " D",
+        -6.511407e-06
+      ],
+      [
+        "unes",
+        -1.3856493e-06
+      ],
+      [
+        " (",
+        -0.20148331
+      ],
+      [
+        "165",
+        -1.7432603e-06
+      ],
+      [
+        "8",
+        0.0
+      ],
+      [
+        ")",
+        -3.5313153e-06
+      ]
+    ]
+  },
+  "The center of the defending forces in this battle was led by the Marquis of Caracena, while the cavalry on the right flank of the opposing forces was led by the Marquis de Crequy. The winning side featured Thomas Morgan, who had been made governor of Mardyke, which the winning forces had captured the": {
+    "guess": "Battle of the Dunes (1658)",
+    "confidence": [
+      [
+        "Battle",
+        -0.008168427
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -0.00027635184
+      ],
+      [
+        " D",
+        -7.89631e-07
+      ],
+      [
+        "unes",
+        -1.2664457e-06
+      ],
+      [
+        " (",
+        -0.061993796
+      ],
+      [
+        "165",
+        -3.4121115e-06
+      ],
+      [
+        "8",
+        0.0
+      ],
+      [
+        ")",
+        -4.4849444e-06
+      ]
+    ]
+  },
+  "The center of the defending forces in this battle was led by the Marquis of Caracena, while the cavalry on the right flank of the opposing forces was led by the Marquis de Crequy. The winning side featured Thomas Morgan, who had been made governor of Mardyke, which the winning forces had captured the previous year. This battle, which was fought near the Furnes canal, featured a charge by the left side": {
+    "guess": "Battle of the Dunes (1658)",
+    "confidence": [
+      [
+        "Battle",
+        -0.0029552393
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -0.00052729575
+      ],
+      [
+        " D",
+        -1.504853e-06
+      ],
+      [
+        "unes",
+        -4.3202e-07
+      ],
+      [
+        " (",
+        -0.029768195
+      ],
+      [
+        "165",
+        -4.365741e-06
+      ],
+      [
+        "8",
+        0.0
+      ],
+      [
+        ")",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "The center of the defending forces in this battle was led by the Marquis of Caracena, while the cavalry on the right flank of the opposing forces was led by the Marquis de Crequy. The winning side featured Thomas Morgan, who had been made governor of Mardyke, which the winning forces had captured the previous year. This battle, which was fought near the Furnes canal, featured a charge by the left side of the winning forces led by William Lockhart, while the losing side's left flank was led by a French": {
+    "guess": "Battle of the Dunes (1658)",
+    "confidence": [
+      [
+        "Battle",
+        -0.0018775894
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -0.00011164904
+      ],
+      [
+        " D",
+        -6.704273e-07
+      ],
+      [
+        "unes",
+        -5.5122365e-07
+      ],
+      [
+        " (",
+        -0.014178324
+      ],
+      [
+        "165",
+        -9.0883464e-07
+      ],
+      [
+        "8",
+        0.0
+      ],
+      [
+        ")",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "The center of the defending forces in this battle was led by the Marquis of Caracena, while the cavalry on the right flank of the opposing forces was led by the Marquis de Crequy. The winning side featured Thomas Morgan, who had been made governor of Mardyke, which the winning forces had captured the previous year. This battle, which was fought near the Furnes canal, featured a charge by the left side of the winning forces led by William Lockhart, while the losing side's left flank was led by a French rebel, the Prince de Cond? The victorious forces were led by Turenne, and this battle would lead": {
+    "guess": "Battle of the Dunes (1658)",
+    "confidence": [
+      [
+        "Battle",
+        -0.019873764
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -0.00011248347
+      ],
+      [
+        " D",
+        -1.9361265e-07
+      ],
+      [
+        "unes",
+        -5.5122365e-07
+      ],
+      [
+        " (",
+        -0.31332844
+      ],
+      [
+        "165",
+        -1.2233183e-05
+      ],
+      [
+        "8",
+        0.0
+      ],
+      [
+        ")",
+        -7.58424e-06
+      ]
+    ]
+  },
+  "The center of the defending forces in this battle was led by the Marquis of Caracena, while the cavalry on the right flank of the opposing forces was led by the Marquis de Crequy. The winning side featured Thomas Morgan, who had been made governor of Mardyke, which the winning forces had captured the previous year. This battle, which was fought near the Furnes canal, featured a charge by the left side of the winning forces led by William Lockhart, while the losing side's left flank was led by a French rebel, the Prince de Cond? The victorious forces were led by Turenne, and this battle would lead to the signing of the Peace of the Pyrenees the next year. For 10 points, name this victory for a": {
+    "guess": "Battle of the Dunes",
+    "confidence": [
+      [
+        "Battle",
+        -0.0032540043
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -0.00015955791
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "unes",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "The center of the defending forces in this battle was led by the Marquis of Caracena, while the cavalry on the right flank of the opposing forces was led by the Marquis de Crequy. The winning side featured Thomas Morgan, who had been made governor of Mardyke, which the winning forces had captured the previous year. This battle, which was fought near the Furnes canal, featured a charge by the left side of the winning forces led by William Lockhart, while the losing side's left flank was led by a French rebel, the Prince de Cond? The victorious forces were led by Turenne, and this battle would lead to the signing of the Peace of the Pyrenees the next year. For 10 points, name this victory for a French-English alliance over the Spanish, a 1658 battle fought near Dunkirk.": {
+    "guess": "Battle of the Dunes",
+    "confidence": [
+      [
+        "Battle",
+        -0.00038348293
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -5.2001665e-06
+      ],
+      [
+        " D",
+        -1.9361265e-07
+      ],
+      [
+        "unes",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The central male figure of this poem is described as possessing \"coal-black curls\" and wearing a \"silver": {
+    "guess": "The Lady of Shalott",
+    "confidence": [
+      [
+        "The",
+        -0.0016852937
+      ],
+      [
+        " Lady",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sh",
+        -3.5477897e-05
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        "ott",
+        0.0
+      ]
+    ]
+  },
+  "The central male figure of this poem is described as possessing \"coal-black curls\" and wearing a \"silver bugle\" and a shield that \"sparkled on the yellow field\" while passing though the \"purple night\",": {
+    "guess": "The Lady of Shalott",
+    "confidence": [
+      [
+        "The",
+        -0.7162021
+      ],
+      [
+        " Lady",
+        -0.00042507402
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sh",
+        -0.0040786397
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        "ott",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The central male figure of this poem is described as possessing \"coal-black curls\" and wearing a \"silver bugle\" and a shield that \"sparkled on the yellow field\" while passing though the \"purple night\", but only comes to the attention of the titular figure after she hears him sing \"tirra lirra\". Only": {
+    "guess": "The Lady of Shalott",
+    "confidence": [
+      [
+        "The",
+        -0.001975742
+      ],
+      [
+        " Lady",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sh",
+        -2.4391957e-05
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        "ott",
+        0.0
+      ]
+    ]
+  },
+  "The central male figure of this poem is described as possessing \"coal-black curls\" and wearing a \"silver bugle\" and a shield that \"sparkled on the yellow field\" while passing though the \"purple night\", but only comes to the attention of the titular figure after she hears him sing \"tirra lirra\". Only the reapers who harvest the barley hear her singing in the gray tower where she is fated to weave a": {
+    "guess": "The Lady of Shalott",
+    "confidence": [
+      [
+        "The",
+        -0.014215453
+      ],
+      [
+        " Lady",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sh",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        "ott",
+        0.0
+      ]
+    ]
+  },
+  "The central male figure of this poem is described as possessing \"coal-black curls\" and wearing a \"silver bugle\" and a shield that \"sparkled on the yellow field\" while passing though the \"purple night\", but only comes to the attention of the titular figure after she hears him sing \"tirra lirra\". Only the reapers who harvest the barley hear her singing in the gray tower where she is fated to weave a magic, colorful web while only looking on the world through a mirror which cracks when she falls in": {
+    "guess": "The Lady of Shalott",
+    "confidence": [
+      [
+        "The",
+        -7.79144e-05
+      ],
+      [
+        " Lady",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sh",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        "ott",
+        0.0
+      ]
+    ]
+  },
+  "The central male figure of this poem is described as possessing \"coal-black curls\" and wearing a \"silver bugle\" and a shield that \"sparkled on the yellow field\" while passing though the \"purple night\", but only comes to the attention of the titular figure after she hears him sing \"tirra lirra\". Only the reapers who harvest the barley hear her singing in the gray tower where she is fated to weave a magic, colorful web while only looking on the world through a mirror which cracks when she falls in love with Lancelot, invoking a curse which leads to her death. FTP, what is this poem set in Camelot": {
+    "guess": "The Lady of Shalott",
+    "confidence": [
+      [
+        "The",
+        -0.0001627764
+      ],
+      [
+        " Lady",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sh",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        "ott",
+        0.0
+      ]
+    ]
+  },
+  "The central male figure of this poem is described as possessing \"coal-black curls\" and wearing a \"silver bugle\" and a shield that \"sparkled on the yellow field\" while passing though the \"purple night\", but only comes to the attention of the titular figure after she hears him sing \"tirra lirra\". Only the reapers who harvest the barley hear her singing in the gray tower where she is fated to weave a magic, colorful web while only looking on the world through a mirror which cracks when she falls in love with Lancelot, invoking a curse which leads to her death. FTP, what is this poem set in Camelot by Alfred, Lord Tennyson?": {
+    "guess": "The Lady of Shalott",
+    "confidence": [
+      [
+        "The",
+        -1.1041146e-05
+      ],
+      [
+        " Lady",
+        -1.147242e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sh",
+        -6.9882217e-06
+      ],
+      [
+        "al",
+        0.0
+      ],
+      [
+        "ott",
+        0.0
+      ]
+    ]
+  },
+  "The central character, a resident of the San Bernadino Arms, falls in with such characters as Harry,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.49349138
+      ]
+    ]
+  },
+  "The central character, a resident of the San Bernadino Arms, falls in with such characters as Harry, a purveyor of homemade silver polish, and Miguel, a Mexican breeder of fighting cocks.  There's also": {
+    "guess": "The Day of the Locust",
+    "confidence": [
+      [
+        "The",
+        -0.0018640223
+      ],
+      [
+        " Day",
+        -0.00021736434
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Loc",
+        0.0
+      ],
+      [
+        "ust",
+        0.0
+      ]
+    ]
+  },
+  "The central character, a resident of the San Bernadino Arms, falls in with such characters as Harry, a purveyor of homemade silver polish, and Miguel, a Mexican breeder of fighting cocks.  There's also Abe Kusich, a dwarf horse player, and Earle Stroop, an unsuccessful cowboy actor.  This novel famously": {
+    "guess": "The Day of the Locust",
+    "confidence": [
+      [
+        "The",
+        -0.07893859
+      ],
+      [
+        " Day",
+        -6.704273e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Loc",
+        0.0
+      ],
+      [
+        "ust",
+        0.0
+      ]
+    ]
+  },
+  "The central character, a resident of the San Bernadino Arms, falls in with such characters as Harry, a purveyor of homemade silver polish, and Miguel, a Mexican breeder of fighting cocks.  There's also Abe Kusich, a dwarf horse player, and Earle Stroop, an unsuccessful cowboy actor.  This novel famously ends with a riot at the Persian Palace during which Homer Simpson likely dies and the protagonist": {
+    "guess": "The Day of the Locust",
+    "confidence": [
+      [
+        "The",
+        -0.004081605
+      ],
+      [
+        " Day",
+        -4.0246043e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Loc",
+        0.0
+      ],
+      [
+        "ust",
+        0.0
+      ]
+    ]
+  },
+  "The central character, a resident of the San Bernadino Arms, falls in with such characters as Harry, a purveyor of homemade silver polish, and Miguel, a Mexican breeder of fighting cocks.  There's also Abe Kusich, a dwarf horse player, and Earle Stroop, an unsuccessful cowboy actor.  This novel famously ends with a riot at the Persian Palace during which Homer Simpson likely dies and the protagonist Tod Hackett, barely escapes.  FTP, name this short novel by Nathaniel West.": {
+    "guess": "The Day of the Locust",
+    "confidence": [
+      [
+        "The",
+        -0.03582035
+      ],
+      [
+        " Day",
+        -1.5451682e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Loc",
+        0.0
+      ],
+      [
+        "ust",
+        0.0
+      ]
+    ]
+  },
+  "At the center of this city was a building symbolic of Mount Meru. Important until its capture by an army": {
+    "guess": "Amaravati (mythology)",
+    "confidence": [
+      [
+        "Am",
+        -0.3296264
+      ],
+      [
+        "ar",
+        -0.02747493
+      ],
+      [
+        "avati",
+        -0.0052463296
+      ],
+      [
+        " (",
+        -0.13460043
+      ],
+      [
+        "my",
+        -0.47748578
+      ],
+      [
+        "th",
+        -5.5122365e-07
+      ],
+      [
+        "ology",
+        -0.33643946
+      ],
+      [
+        ")",
+        -5.5577775e-06
+      ]
+    ]
+  },
+  "At the center of this city was a building symbolic of Mount Meru. Important until its capture by an army from Ayutthaya in 1431, it came to prominence in the late ninth century when King Yashovarman I": {
+    "guess": "Angkor Thom",
+    "confidence": [
+      [
+        "Ang",
+        -0.00020437481
+      ],
+      [
+        "kor",
+        0.0
+      ],
+      [
+        " Thom",
+        -0.029792843
+      ]
+    ]
+  },
+  "At the center of this city was a building symbolic of Mount Meru. Important until its capture by an army from Ayutthaya in 1431, it came to prominence in the late ninth century when King Yashovarman I moved there, and it is most famous for complexes erected by Kings Jayavarman VII and Suryavarman II.": {
+    "guess": "Angkor",
+    "confidence": [
+      [
+        "Ang",
+        -4.990154e-05
+      ],
+      [
+        "kor",
+        0.0
+      ]
+    ]
+  },
+  "At the center of this city was a building symbolic of Mount Meru. Important until its capture by an army from Ayutthaya in 1431, it came to prominence in the late ninth century when King Yashovarman I moved there, and it is most famous for complexes erected by Kings Jayavarman VII and Suryavarman II.  FTP, identify this capital of the Khmer Empire noted for its Thom and Wat.": {
+    "guess": "Angkor",
+    "confidence": [
+      [
+        "Ang",
+        -8.776276e-06
+      ],
+      [
+        "kor",
+        0.0
+      ]
+    ]
+  },
+  "Its Central Highlands occupy the heart of this nation and contain some of its highest points including": {
+    "guess": "Vietnam",
+    "confidence": [
+      [
+        "Vietnam",
+        -0.0851477
+      ]
+    ]
+  },
+  "Its Central Highlands occupy the heart of this nation and contain some of its highest points including Pada, or Adam's Peak. Among its rivers is the Mahaweli, which runs through the legislative capital": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -0.026744112
+      ],
+      [
+        " Lanka",
+        -0.07889507
+      ]
+    ]
+  },
+  "Its Central Highlands occupy the heart of this nation and contain some of its highest points including Pada, or Adam's Peak. Among its rivers is the Mahaweli, which runs through the legislative capital of Kotte. The famous Trincomalee harbor lies on the northeast coast, and of the northwest coast of": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -0.0018728324
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "Its Central Highlands occupy the heart of this nation and contain some of its highest points including Pada, or Adam's Peak. Among its rivers is the Mahaweli, which runs through the legislative capital of Kotte. The famous Trincomalee harbor lies on the northeast coast, and of the northwest coast of this island is the Palk Strait. Its official language is Sinhalese, and it was once known as Ceylon.": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -0.00034774013
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "Its Central Highlands occupy the heart of this nation and contain some of its highest points including Pada, or Adam's Peak. Among its rivers is the Mahaweli, which runs through the legislative capital of Kotte. The famous Trincomalee harbor lies on the northeast coast, and of the northwest coast of this island is the Palk Strait. Its official language is Sinhalese, and it was once known as Ceylon. With its capital at Colombo, FTP, identify this island nation off the southeast coast of India.": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -0.011072466
+      ],
+      [
+        " Lanka",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Central to its critical theory was a condemnation of modern society, positing that the mechanisms of": {
+    "guess": "Frankfurt School",
+    "confidence": [
+      [
+        "Frank",
+        -0.0016825594
+      ],
+      [
+        "furt",
+        -4.4849444e-06
+      ],
+      [
+        " School",
+        0.0
+      ]
+    ]
+  },
+  "Central to its critical theory was a condemnation of modern society, positing that the mechanisms of modern life, particularly mass media and market forces, are detrimental to personal values, dulling": {
+    "guess": "Dialectic of Enlightenment",
+    "confidence": [
+      [
+        "Dialect",
+        -0.62285864
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Enlight",
+        -1.9361265e-07
+      ],
+      [
+        "enment",
+        0.0
+      ]
+    ]
+  },
+  "Central to its critical theory was a condemnation of modern society, positing that the mechanisms of modern life, particularly mass media and market forces, are detrimental to personal values, dulling social morality in favor of an atmosphere which fosters the accumulation of material wealth.  Set up": {
+    "guess": "Frankfurt School",
+    "confidence": [
+      [
+        "Frank",
+        -0.013277407
+      ],
+      [
+        "furt",
+        -2.577686e-06
+      ],
+      [
+        " School",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Central to its critical theory was a condemnation of modern society, positing that the mechanisms of modern life, particularly mass media and market forces, are detrimental to personal values, dulling social morality in favor of an atmosphere which fosters the accumulation of material wealth.  Set up in its namesake city in 1923, it was funded by an endowment from Felix Weil, although during WWII it": {
+    "guess": "Frankfurt School",
+    "confidence": [
+      [
+        "Frank",
+        -0.00034928982
+      ],
+      [
+        "furt",
+        -3.1281633e-07
+      ],
+      [
+        " School",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Central to its critical theory was a condemnation of modern society, positing that the mechanisms of modern life, particularly mass media and market forces, are detrimental to personal values, dulling social morality in favor of an atmosphere which fosters the accumulation of material wealth.  Set up in its namesake city in 1923, it was funded by an endowment from Felix Weil, although during WWII it moved to Columbia Univeristy where it continued to exist as a recognized school until 1947. FTP, name": {
+    "guess": "Frankfurt School",
+    "confidence": [
+      [
+        "Frank",
+        -0.002886187
+      ],
+      [
+        "furt",
+        0.0
+      ],
+      [
+        " School",
+        0.0
+      ]
+    ]
+  },
+  "Central to its critical theory was a condemnation of modern society, positing that the mechanisms of modern life, particularly mass media and market forces, are detrimental to personal values, dulling social morality in favor of an atmosphere which fosters the accumulation of material wealth.  Set up in its namesake city in 1923, it was funded by an endowment from Felix Weil, although during WWII it moved to Columbia Univeristy where it continued to exist as a recognized school until 1947. FTP, name this school of philosophy whose members included Walter Benjamin, Erich Fromm, Herbert Marcuse,": {
+    "guess": "Frankfurt School",
+    "confidence": [
+      [
+        "Frank",
+        -0.0005388548
+      ],
+      [
+        "furt",
+        0.0
+      ],
+      [
+        " School",
+        0.0
+      ]
+    ]
+  },
+  "Central to its critical theory was a condemnation of modern society, positing that the mechanisms of modern life, particularly mass media and market forces, are detrimental to personal values, dulling social morality in favor of an atmosphere which fosters the accumulation of material wealth.  Set up in its namesake city in 1923, it was funded by an endowment from Felix Weil, although during WWII it moved to Columbia Univeristy where it continued to exist as a recognized school until 1947. FTP, name this school of philosophy whose members included Walter Benjamin, Erich Fromm, Herbert Marcuse, and Jurgen Habermas.": {
+    "guess": "Frankfurt School",
+    "confidence": [
+      [
+        "Frank",
+        -0.000886803
+      ],
+      [
+        "furt",
+        0.0
+      ],
+      [
+        " School",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The central coefficient in this law has dimensions of pressure divided by concentration and one can model": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.007022492
+      ],
+      [
+        "'s",
+        -5.4385737e-06
+      ],
+      [
+        " law",
+        -0.0010329303
+      ]
+    ]
+  },
+  "The central coefficient in this law has dimensions of pressure divided by concentration and one can model the effects of temperature on this law's coefficient by integrating the van't Hoff equation. For": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.064931944
+      ],
+      [
+        "'s",
+        -9.014684e-06
+      ],
+      [
+        " law",
+        -0.000715412
+      ]
+    ]
+  },
+  "The central coefficient in this law has dimensions of pressure divided by concentration and one can model the effects of temperature on this law's coefficient by integrating the van't Hoff equation. For ideal mixtures this law can be understood as a special case of Raoult's Law. For 10 points, name this": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.000184587
+      ],
+      [
+        "'s",
+        -1.6240566e-06
+      ],
+      [
+        " law",
+        -0.0009114635
+      ]
+    ]
+  },
+  "The central coefficient in this law has dimensions of pressure divided by concentration and one can model the effects of temperature on this law's coefficient by integrating the van't Hoff equation. For ideal mixtures this law can be understood as a special case of Raoult's Law. For 10 points, name this eponymous law which relates the concentration and partial pressure of gas dissolved in a liquid,": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.00074328
+      ],
+      [
+        "'s",
+        -4.246537e-06
+      ],
+      [
+        " law",
+        -0.00033546583
+      ]
+    ]
+  },
+  "The central coefficient in this law has dimensions of pressure divided by concentration and one can model the effects of temperature on this law's coefficient by integrating the van't Hoff equation. For ideal mixtures this law can be understood as a special case of Raoult's Law. For 10 points, name this eponymous law which relates the concentration and partial pressure of gas dissolved in a liquid, named after a British chemist.": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.002214012
+      ],
+      [
+        "'s",
+        -9.014684e-06
+      ],
+      [
+        " law",
+        -0.0007100478
+      ]
+    ]
+  },
+  "Its central action was preceded five years earlier by the botched Operation Eagle Claw, instigated by": {
+    "guess": "The Delta Force",
+    "confidence": [
+      [
+        "The",
+        -0.57831335
+      ],
+      [
+        " Delta",
+        -5.8722613e-05
+      ],
+      [
+        " Force",
+        0.0
+      ]
+    ]
+  },
+  "Its central action was preceded five years earlier by the botched Operation Eagle Claw, instigated by the hijacking of American Travelway Flight 282 from Athens to New York. New World Revolutionary Organization": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.06799351
+      ]
+    ]
+  },
+  "Its central action was preceded five years earlier by the botched Operation Eagle Claw, instigated by the hijacking of American Travelway Flight 282 from Athens to New York. New World Revolutionary Organization leader Abdul Rifa, who emerged as its central villain, used the covert backing of Iran to": {
+    "guess": "The Delta Force",
+    "confidence": [
+      [
+        "The",
+        -0.00862072
+      ],
+      [
+        " Delta",
+        -0.00043412615
+      ],
+      [
+        " Force",
+        0.0
+      ]
+    ]
+  },
+  "Its central action was preceded five years earlier by the botched Operation Eagle Claw, instigated by the hijacking of American Travelway Flight 282 from Athens to New York. New World Revolutionary Organization leader Abdul Rifa, who emerged as its central villain, used the covert backing of Iran to first divert the plane to Algiers prior to an abortive raid; that action was followed by a landing in": {
+    "guess": "The Delta Force",
+    "confidence": [
+      [
+        "The",
+        -0.029879957
+      ],
+      [
+        " Delta",
+        -6.704273e-07
+      ],
+      [
+        " Force",
+        0.0
+      ]
+    ]
+  },
+  "Its central action was preceded five years earlier by the botched Operation Eagle Claw, instigated by the hijacking of American Travelway Flight 282 from Athens to New York. New World Revolutionary Organization leader Abdul Rifa, who emerged as its central villain, used the covert backing of Iran to first divert the plane to Algiers prior to an abortive raid; that action was followed by a landing in Beirut, where U.S. forces under the command of Colonel Nick Alexander suffered their lone casualty": {
+    "guess": "The Delta Force",
+    "confidence": [
+      [
+        "The",
+        -0.029757323
+      ],
+      [
+        " Delta",
+        -1.147242e-06
+      ],
+      [
+        " Force",
+        0.0
+      ]
+    ]
+  },
+  "Its central action was preceded five years earlier by the botched Operation Eagle Claw, instigated by the hijacking of American Travelway Flight 282 from Athens to New York. New World Revolutionary Organization leader Abdul Rifa, who emerged as its central villain, used the covert backing of Iran to first divert the plane to Algiers prior to an abortive raid; that action was followed by a landing in Beirut, where U.S. forces under the command of Colonel Nick Alexander suffered their lone casualty in the course of a successful rescue operation that saw Major Scott McCoy resolve the crisis using": {
+    "guess": "The Delta Force",
+    "confidence": [
+      [
+        "The",
+        -0.03804884
+      ],
+      [
+        " Delta",
+        -2.4584822e-06
+      ],
+      [
+        " Force",
+        0.0
+      ]
+    ]
+  },
+  "Its central action was preceded five years earlier by the botched Operation Eagle Claw, instigated by the hijacking of American Travelway Flight 282 from Athens to New York. New World Revolutionary Organization leader Abdul Rifa, who emerged as its central villain, used the covert backing of Iran to first divert the plane to Algiers prior to an abortive raid; that action was followed by a landing in Beirut, where U.S. forces under the command of Colonel Nick Alexander suffered their lone casualty in the course of a successful rescue operation that saw Major Scott McCoy resolve the crisis using (*) rockets fired from his motorcycle. Featuring Robert Forster, Lee Marvin, and Kim Delaney and followed": {
+    "guess": "The Delta Force",
+    "confidence": [
+      [
+        "The",
+        -0.018169373
+      ],
+      [
+        " Delta",
+        -5.6769813e-06
+      ],
+      [
+        " Force",
+        0.0
+      ]
+    ]
+  },
+  "Its central action was preceded five years earlier by the botched Operation Eagle Claw, instigated by the hijacking of American Travelway Flight 282 from Athens to New York. New World Revolutionary Organization leader Abdul Rifa, who emerged as its central villain, used the covert backing of Iran to first divert the plane to Algiers prior to an abortive raid; that action was followed by a landing in Beirut, where U.S. forces under the command of Colonel Nick Alexander suffered their lone casualty in the course of a successful rescue operation that saw Major Scott McCoy resolve the crisis using (*) rockets fired from his motorcycle. Featuring Robert Forster, Lee Marvin, and Kim Delaney and followed by a sequel pitting its star against Colombian drug lords, for 10 points, name this 1986 film": {
+    "guess": "The Delta Force",
+    "confidence": [
+      [
+        "The",
+        -0.0009138476
+      ],
+      [
+        " Delta",
+        -2.220075e-06
+      ],
+      [
+        " Force",
+        0.0
+      ]
+    ]
+  },
+  "Its central action was preceded five years earlier by the botched Operation Eagle Claw, instigated by the hijacking of American Travelway Flight 282 from Athens to New York. New World Revolutionary Organization leader Abdul Rifa, who emerged as its central villain, used the covert backing of Iran to first divert the plane to Algiers prior to an abortive raid; that action was followed by a landing in Beirut, where U.S. forces under the command of Colonel Nick Alexander suffered their lone casualty in the course of a successful rescue operation that saw Major Scott McCoy resolve the crisis using (*) rockets fired from his motorcycle. Featuring Robert Forster, Lee Marvin, and Kim Delaney and followed by a sequel pitting its star against Colombian drug lords, for 10 points, name this 1986 film whose titular elite counter-terrorist organization is led by Chuck Norris.": {
+    "guess": "The Delta Force",
+    "confidence": [
+      [
+        "The",
+        -0.0011766551
+      ],
+      [
+        " Delta",
+        -6.704273e-07
+      ],
+      [
+        " Force",
+        0.0
+      ]
+    ]
+  },
+  "The central characters grow up at a location which is described a ringed wood containing a ringed wall": {
+    "guess": "Watership Down",
+    "confidence": [
+      [
+        "Wat",
+        -1.1162413
+      ],
+      [
+        "ership",
+        -4.3202e-07
+      ],
+      [
+        " Down",
+        0.0
+      ]
+    ]
+  },
+  "The central characters grow up at a location which is described a ringed wood containing a ringed wall with a house where a lady is seen writing. The fourth section begins with a fantastic description": {
+    "guess": "The Idylls of the King",
+    "confidence": [
+      [
+        "The",
+        -0.8479529
+      ],
+      [
+        " I",
+        -1.4107332
+      ],
+      [
+        "dy",
+        -6.0391463e-05
+      ],
+      [
+        "ll",
+        -1.9361265e-07
+      ],
+      [
+        "s",
+        -0.0002640775
+      ],
+      [
+        " of",
+        -1.504853e-06
+      ],
+      [
+        " the",
+        -1.60477e-05
+      ],
+      [
+        " King",
+        -0.0011762974
+      ]
+    ]
+  },
+  "The central characters grow up at a location which is described a ringed wood containing a ringed wall with a house where a lady is seen writing. The fourth section begins with a fantastic description of how light transforms a white plate into a white lake while a knife becomes an ice dagger. One character": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0592095
+      ]
+    ]
+  },
+  "The central characters grow up at a location which is described a ringed wood containing a ringed wall with a house where a lady is seen writing. The fourth section begins with a fantastic description of how light transforms a white plate into a white lake while a knife becomes an ice dagger. One character in this work is ashamed of his father's failure as a banker while in Brisbane, while another": {
+    "guess": "To the Lighthouse",
+    "confidence": [
+      [
+        "To",
+        -0.3611052
+      ],
+      [
+        " the",
+        -4.012684e-05
+      ],
+      [
+        " Lighthouse",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The central characters grow up at a location which is described a ringed wood containing a ringed wall with a house where a lady is seen writing. The fourth section begins with a fantastic description of how light transforms a white plate into a white lake while a knife becomes an ice dagger. One character in this work is ashamed of his father's failure as a banker while in Brisbane, while another character in this novel repeatedly imagines himself as a man going to Greece to be a lecturer on the": {
+    "guess": "To the Lighthouse",
+    "confidence": [
+      [
+        "To",
+        -0.1179179
+      ],
+      [
+        " the",
+        -4.4849444e-06
+      ],
+      [
+        " Lighthouse",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The central characters grow up at a location which is described a ringed wood containing a ringed wall with a house where a lady is seen writing. The fourth section begins with a fantastic description of how light transforms a white plate into a white lake while a knife becomes an ice dagger. One character in this work is ashamed of his father's failure as a banker while in Brisbane, while another character in this novel repeatedly imagines himself as a man going to Greece to be a lecturer on the Parthenon. Each of the sections of this work begin with a description of the progress of the (*) sun.": {
+    "guess": "The Waves",
+    "confidence": [
+      [
+        "The",
+        -0.20869939
+      ],
+      [
+        " Waves",
+        -0.02180986
+      ]
+    ]
+  },
+  "The central characters grow up at a location which is described a ringed wood containing a ringed wall with a house where a lady is seen writing. The fourth section begins with a fantastic description of how light transforms a white plate into a white lake while a knife becomes an ice dagger. One character in this work is ashamed of his father's failure as a banker while in Brisbane, while another character in this novel repeatedly imagines himself as a man going to Greece to be a lecturer on the Parthenon. Each of the sections of this work begin with a description of the progress of the (*) sun. Much of the memory of one character is linked with the mystical location of Elvedon and the death": {
+    "guess": "The Waves",
+    "confidence": [
+      [
+        "The",
+        -0.19565241
+      ],
+      [
+        " Waves",
+        -0.019072583
+      ]
+    ]
+  },
+  "The central characters grow up at a location which is described a ringed wood containing a ringed wall with a house where a lady is seen writing. The fourth section begins with a fantastic description of how light transforms a white plate into a white lake while a knife becomes an ice dagger. One character in this work is ashamed of his father's failure as a banker while in Brisbane, while another character in this novel repeatedly imagines himself as a man going to Greece to be a lecturer on the Parthenon. Each of the sections of this work begin with a description of the progress of the (*) sun. Much of the memory of one character is linked with the mystical location of Elvedon and the death of Perceval in India. Consisting of nine soliloquies spoken by Bernard, Susan, Jimmy and three others,": {
+    "guess": "The Waves",
+    "confidence": [
+      [
+        "The",
+        -0.00022070204
+      ],
+      [
+        " Waves",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "The central characters grow up at a location which is described a ringed wood containing a ringed wall with a house where a lady is seen writing. The fourth section begins with a fantastic description of how light transforms a white plate into a white lake while a knife becomes an ice dagger. One character in this work is ashamed of his father's failure as a banker while in Brisbane, while another character in this novel repeatedly imagines himself as a man going to Greece to be a lecturer on the Parthenon. Each of the sections of this work begin with a description of the progress of the (*) sun. Much of the memory of one character is linked with the mystical location of Elvedon and the death of Perceval in India. Consisting of nine soliloquies spoken by Bernard, Susan, Jimmy and three others, for 10 points, name this playpoem whose text is twined with the rhythm of the title aqueous pulses,": {
+    "guess": "The Waves",
+    "confidence": [
+      [
+        "The",
+        -0.0002668192
+      ],
+      [
+        " Waves",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The central characters grow up at a location which is described a ringed wood containing a ringed wall with a house where a lady is seen writing. The fourth section begins with a fantastic description of how light transforms a white plate into a white lake while a knife becomes an ice dagger. One character in this work is ashamed of his father's failure as a banker while in Brisbane, while another character in this novel repeatedly imagines himself as a man going to Greece to be a lecturer on the Parthenon. Each of the sections of this work begin with a description of the progress of the (*) sun. Much of the memory of one character is linked with the mystical location of Elvedon and the death of Perceval in India. Consisting of nine soliloquies spoken by Bernard, Susan, Jimmy and three others, for 10 points, name this playpoem whose text is twined with the rhythm of the title aqueous pulses, by Virginia Woolf. [Ike]": {
+    "guess": "The Waves",
+    "confidence": [
+      [
+        "The",
+        -0.00040421702
+      ],
+      [
+        " Waves",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "This man was censured by his party for a militant speech in Sophiatown. Prior to being prosecuted, this": {
+    "guess": "Nelson Mandela",
+    "confidence": [
+      [
+        "Nel",
+        -0.013857759
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Mandela",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man was censured by his party for a militant speech in Sophiatown. Prior to being prosecuted, this man gave the \"I am Prepared to Die\" speech. He was one of the defendants at the \"Treason Trial,\"": {
+    "guess": "Nelson Mandela",
+    "confidence": [
+      [
+        "Nel",
+        -0.13372637
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Mandela",
+        0.0
+      ]
+    ]
+  },
+  "This man was censured by his party for a militant speech in Sophiatown. Prior to being prosecuted, this man gave the \"I am Prepared to Die\" speech. He was one of the defendants at the \"Treason Trial,\" where he was defended by Bram Fischer. Known for a time as the Black Pimpernel, he was put on trial": {
+    "guess": "Nelson Mandela",
+    "confidence": [
+      [
+        "Nel",
+        -0.06467273
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Mandela",
+        0.0
+      ]
+    ]
+  },
+  "This man was censured by his party for a militant speech in Sophiatown. Prior to being prosecuted, this man gave the \"I am Prepared to Die\" speech. He was one of the defendants at the \"Treason Trial,\" where he was defended by Bram Fischer. Known for a time as the Black Pimpernel, he was put on trial at Rivona for his actions related to the Spear of the Nation movement, the military branch of his party.": {
+    "guess": "Nelson Mandela",
+    "confidence": [
+      [
+        "Nel",
+        -0.0039403136
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Mandela",
+        0.0
+      ]
+    ]
+  },
+  "This man was censured by his party for a militant speech in Sophiatown. Prior to being prosecuted, this man gave the \"I am Prepared to Die\" speech. He was one of the defendants at the \"Treason Trial,\" where he was defended by Bram Fischer. Known for a time as the Black Pimpernel, he was put on trial at Rivona for his actions related to the Spear of the Nation movement, the military branch of his party. He was imprisoned on Robben Island until being released by F.W. de Klerk. For 10 points, name this": {
+    "guess": "Nelson Mandela",
+    "confidence": [
+      [
+        "Nel",
+        -0.04984228
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Mandela",
+        0.0
+      ]
+    ]
+  },
+  "This man was censured by his party for a militant speech in Sophiatown. Prior to being prosecuted, this man gave the \"I am Prepared to Die\" speech. He was one of the defendants at the \"Treason Trial,\" where he was defended by Bram Fischer. Known for a time as the Black Pimpernel, he was put on trial at Rivona for his actions related to the Spear of the Nation movement, the military branch of his party. He was imprisoned on Robben Island until being released by F.W. de Klerk. For 10 points, name this leader of the African National Congress, who fought for the end of apartheid before becoming president": {
+    "guess": "Nelson Mandela",
+    "confidence": [
+      [
+        "Nel",
+        -0.011331094
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Mandela",
+        0.0
+      ]
+    ]
+  },
+  "This man was censured by his party for a militant speech in Sophiatown. Prior to being prosecuted, this man gave the \"I am Prepared to Die\" speech. He was one of the defendants at the \"Treason Trial,\" where he was defended by Bram Fischer. Known for a time as the Black Pimpernel, he was put on trial at Rivona for his actions related to the Spear of the Nation movement, the military branch of his party. He was imprisoned on Robben Island until being released by F.W. de Klerk. For 10 points, name this leader of the African National Congress, who fought for the end of apartheid before becoming president of South Africa.": {
+    "guess": "Nelson Mandela",
+    "confidence": [
+      [
+        "Nel",
+        -0.003103327
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Mandela",
+        0.0
+      ]
+    ]
+  },
+  "The central character in this work expresses his wish to arrange a party for a group of peasants after": {
+    "guess": "The Cherry Orchard",
+    "confidence": [
+      [
+        "The",
+        -0.822916
+      ],
+      [
+        " Cherry",
+        -0.20345622
+      ],
+      [
+        " Orchard",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The central character in this work expresses his wish to arrange a party for a group of peasants after drinking champagne. In an aria in this opera, Don Ottavio vows to avenge the death of his betrothed's": {
+    "guess": "Don Giovanni",
+    "confidence": [
+      [
+        "Don",
+        -0.0012322536
+      ],
+      [
+        " Giovanni",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "The central character in this work expresses his wish to arrange a party for a group of peasants after drinking champagne. In an aria in this opera, Don Ottavio vows to avenge the death of his betrothed's father, Fuggi, crudele fuggi, and the title character escapes death at the hands of Zerlina and": {
+    "guess": "Don Giovanni",
+    "confidence": [
+      [
+        "Don",
+        -0.02171048
+      ],
+      [
+        " Giovanni",
+        0.0
+      ]
+    ]
+  },
+  "The central character in this work expresses his wish to arrange a party for a group of peasants after drinking champagne. In an aria in this opera, Don Ottavio vows to avenge the death of his betrothed's father, Fuggi, crudele fuggi, and the title character escapes death at the hands of Zerlina and Masetto only by switching clothes with his servant. At the end of this opera, Donna Elvira expresses": {
+    "guess": "Don Giovanni",
+    "confidence": [
+      [
+        "Don",
+        -0.00033784626
+      ],
+      [
+        " Giovanni",
+        0.0
+      ]
+    ]
+  },
+  "The central character in this work expresses his wish to arrange a party for a group of peasants after drinking champagne. In an aria in this opera, Don Ottavio vows to avenge the death of his betrothed's father, Fuggi, crudele fuggi, and the title character escapes death at the hands of Zerlina and Masetto only by switching clothes with his servant. At the end of this opera, Donna Elvira expresses her pity for the central character, and after he refuses to repent for his sinful life, the statue": {
+    "guess": "Don Giovanni",
+    "confidence": [
+      [
+        "Don",
+        -3.190179e-05
+      ],
+      [
+        " Giovanni",
+        0.0
+      ]
+    ]
+  },
+  "The central character in this work expresses his wish to arrange a party for a group of peasants after drinking champagne. In an aria in this opera, Don Ottavio vows to avenge the death of his betrothed's father, Fuggi, crudele fuggi, and the title character escapes death at the hands of Zerlina and Masetto only by switching clothes with his servant. At the end of this opera, Donna Elvira expresses her pity for the central character, and after he refuses to repent for his sinful life, the statue of the Commendatore drags him to hell. For 10 points, name this opera containing the Catalog Aria about": {
+    "guess": "Don Giovanni",
+    "confidence": [
+      [
+        "Don",
+        -3.4405064e-05
+      ],
+      [
+        " Giovanni",
+        0.0
+      ]
+    ]
+  },
+  "The central character in this work expresses his wish to arrange a party for a group of peasants after drinking champagne. In an aria in this opera, Don Ottavio vows to avenge the death of his betrothed's father, Fuggi, crudele fuggi, and the title character escapes death at the hands of Zerlina and Masetto only by switching clothes with his servant. At the end of this opera, Donna Elvira expresses her pity for the central character, and after he refuses to repent for his sinful life, the statue of the Commendatore drags him to hell. For 10 points, name this opera containing the Catalog Aria about the titular Spanish libertine, written by Wolfgang Amadeus Mozart.": {
+    "guess": "Don Giovanni",
+    "confidence": [
+      [
+        "Don",
+        -0.00017994174
+      ],
+      [
+        " Giovanni",
+        0.0
+      ]
+    ]
+  },
+  "This century featured an account of Byzantium complaining about its brackish water, despite the fact": {
+    "guess": "11th century",
+    "confidence": [
+      [
+        "11",
+        -0.86212
+      ],
+      [
+        "th",
+        -3.1281633e-07
+      ],
+      [
+        " century",
+        -0.0021956947
+      ]
+    ]
+  },
+  "This century featured an account of Byzantium complaining about its brackish water, despite the fact that its author, Liutprand of Cremona, was a guest of the Emperor. Liutprand also wrote about Marozia,": {
+    "guess": "10th century",
+    "confidence": [
+      [
+        "10",
+        -0.0037066122
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " century",
+        -0.0017070823
+      ]
+    ]
+  },
+  "This century featured an account of Byzantium complaining about its brackish water, despite the fact that its author, Liutprand of Cremona, was a guest of the Emperor. Liutprand also wrote about Marozia, who married Sergius III and put John XI in the papacy. In the Sixteenth century, Cardinal Baronius": {
+    "guess": "10th century",
+    "confidence": [
+      [
+        "10",
+        -0.015433547
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " century",
+        -0.00011772843
+      ]
+    ]
+  },
+  "This century featured an account of Byzantium complaining about its brackish water, despite the fact that its author, Liutprand of Cremona, was a guest of the Emperor. Liutprand also wrote about Marozia, who married Sergius III and put John XI in the papacy. In the Sixteenth century, Cardinal Baronius dubbed this century the Iron or Leaden century and it also saw the existence of the Saeculum obscurum": {
+    "guess": "10th century",
+    "confidence": [
+      [
+        "10",
+        -0.0034829434
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " century",
+        -0.00010163593
+      ]
+    ]
+  },
+  "This century featured an account of Byzantium complaining about its brackish water, despite the fact that its author, Liutprand of Cremona, was a guest of the Emperor. Liutprand also wrote about Marozia, who married Sergius III and put John XI in the papacy. In the Sixteenth century, Cardinal Baronius dubbed this century the Iron or Leaden century and it also saw the existence of the Saeculum obscurum or the Pornocracy. Poland under Mieszko I converted to Christianity, and Kievan Rus followed shortly": {
+    "guess": "10th century",
+    "confidence": [
+      [
+        "10",
+        -0.002697163
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " century",
+        -4.2153304e-05
+      ]
+    ]
+  },
+  "This century featured an account of Byzantium complaining about its brackish water, despite the fact that its author, Liutprand of Cremona, was a guest of the Emperor. Liutprand also wrote about Marozia, who married Sergius III and put John XI in the papacy. In the Sixteenth century, Cardinal Baronius dubbed this century the Iron or Leaden century and it also saw the existence of the Saeculum obscurum or the Pornocracy. Poland under Mieszko I converted to Christianity, and Kievan Rus followed shortly after. Seeing the foundation of Cluny and the forced marriage of Adelaide of Italy lead to an invasion": {
+    "guess": "10th century",
+    "confidence": [
+      [
+        "10",
+        -0.0066761854
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " century",
+        -9.829823e-05
+      ]
+    ]
+  },
+  "This century featured an account of Byzantium complaining about its brackish water, despite the fact that its author, Liutprand of Cremona, was a guest of the Emperor. Liutprand also wrote about Marozia, who married Sergius III and put John XI in the papacy. In the Sixteenth century, Cardinal Baronius dubbed this century the Iron or Leaden century and it also saw the existence of the Saeculum obscurum or the Pornocracy. Poland under Mieszko I converted to Christianity, and Kievan Rus followed shortly after. Seeing the foundation of Cluny and the forced marriage of Adelaide of Italy lead to an invasion by a man who would spawn a namesake renaissance, this century also saw the end of the Carolingian": {
+    "guess": "10th century",
+    "confidence": [
+      [
+        "10",
+        -0.0011998742
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " century",
+        -0.000112125854
+      ]
+    ]
+  },
+  "This century featured an account of Byzantium complaining about its brackish water, despite the fact that its author, Liutprand of Cremona, was a guest of the Emperor. Liutprand also wrote about Marozia, who married Sergius III and put John XI in the papacy. In the Sixteenth century, Cardinal Baronius dubbed this century the Iron or Leaden century and it also saw the existence of the Saeculum obscurum or the Pornocracy. Poland under Mieszko I converted to Christianity, and Kievan Rus followed shortly after. Seeing the foundation of Cluny and the forced marriage of Adelaide of Italy lead to an invasion by a man who would spawn a namesake renaissance, this century also saw the end of the Carolingian dynasty. For 10 points, name this century that was the darkest of the Dark Ages, which saw the": {
+    "guess": "10th century",
+    "confidence": [
+      [
+        "10",
+        -0.0007034953
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " century",
+        -1.247159e-05
+      ]
+    ]
+  },
+  "This century featured an account of Byzantium complaining about its brackish water, despite the fact that its author, Liutprand of Cremona, was a guest of the Emperor. Liutprand also wrote about Marozia, who married Sergius III and put John XI in the papacy. In the Sixteenth century, Cardinal Baronius dubbed this century the Iron or Leaden century and it also saw the existence of the Saeculum obscurum or the Pornocracy. Poland under Mieszko I converted to Christianity, and Kievan Rus followed shortly after. Seeing the foundation of Cluny and the forced marriage of Adelaide of Italy lead to an invasion by a man who would spawn a namesake renaissance, this century also saw the end of the Carolingian dynasty. For 10 points, name this century that was the darkest of the Dark Ages, which saw the establishment of the Ottonian and Capetian dynasties, and preceded the century that saw the First Crusade": {
+    "guess": "10th century",
+    "confidence": [
+      [
+        "10",
+        -0.0008093867
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " century",
+        -0.00020687809
+      ]
+    ]
+  },
+  "This century featured an account of Byzantium complaining about its brackish water, despite the fact that its author, Liutprand of Cremona, was a guest of the Emperor. Liutprand also wrote about Marozia, who married Sergius III and put John XI in the papacy. In the Sixteenth century, Cardinal Baronius dubbed this century the Iron or Leaden century and it also saw the existence of the Saeculum obscurum or the Pornocracy. Poland under Mieszko I converted to Christianity, and Kievan Rus followed shortly after. Seeing the foundation of Cluny and the forced marriage of Adelaide of Italy lead to an invasion by a man who would spawn a namesake renaissance, this century also saw the end of the Carolingian dynasty. For 10 points, name this century that was the darkest of the Dark Ages, which saw the establishment of the Ottonian and Capetian dynasties, and preceded the century that saw the First Crusade and the Norman invasion of England.": {
+    "guess": "10th century",
+    "confidence": [
+      [
+        "10",
+        -0.0015130773
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " century",
+        -0.00011009939
+      ]
+    ]
+  },
+  "Central notions of this group include marifa, while the hadarat are the levels of tajalliat and baqaa.": {
+    "guess": "Sufism",
+    "confidence": [
+      [
+        "S",
+        -0.16061006
+      ],
+      [
+        "uf",
+        -0.038043555
+      ],
+      [
+        "ism",
+        -1.998142e-05
+      ]
+    ]
+  },
+  "Central notions of this group include marifa, while the hadarat are the levels of tajalliat and baqaa. Members hope to achieve fana, or self-annihilation, and muraqaba is used to acquaint oneself with": {
+    "guess": "Sufism",
+    "confidence": [
+      [
+        "S",
+        -0.0023607828
+      ],
+      [
+        "uf",
+        -0.00033546583
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Central notions of this group include marifa, while the hadarat are the levels of tajalliat and baqaa. Members hope to achieve fana, or self-annihilation, and muraqaba is used to acquaint oneself with the Six Subtleties. They are organized into tariqas, examples of which include the Chishti and Mevlevi.": {
+    "guess": "Sufism",
+    "confidence": [
+      [
+        "S",
+        -0.0011736787
+      ],
+      [
+        "uf",
+        -0.00020354039
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Central notions of this group include marifa, while the hadarat are the levels of tajalliat and baqaa. Members hope to achieve fana, or self-annihilation, and muraqaba is used to acquaint oneself with the Six Subtleties. They are organized into tariqas, examples of which include the Chishti and Mevlevi. Famous exponents include the author of the Masnavi who founded the Mevlevi Order, Rumi, and in their": {
+    "guess": "Sufism",
+    "confidence": [
+      [
+        "S",
+        -0.0024069312
+      ],
+      [
+        "uf",
+        -0.00070992863
+      ],
+      [
+        "ism",
+        -7.9418505e-06
+      ]
+    ]
+  },
+  "Central notions of this group include marifa, while the hadarat are the levels of tajalliat and baqaa. Members hope to achieve fana, or self-annihilation, and muraqaba is used to acquaint oneself with the Six Subtleties. They are organized into tariqas, examples of which include the Chishti and Mevlevi. Famous exponents include the author of the Masnavi who founded the Mevlevi Order, Rumi, and in their search for love initiates are called dervishes. Taking their name from their wool clothing, for": {
+    "guess": "Sufism",
+    "confidence": [
+      [
+        "S",
+        -0.00020961977
+      ],
+      [
+        "uf",
+        -1.8624639e-06
+      ],
+      [
+        "ism",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "Central notions of this group include marifa, while the hadarat are the levels of tajalliat and baqaa. Members hope to achieve fana, or self-annihilation, and muraqaba is used to acquaint oneself with the Six Subtleties. They are organized into tariqas, examples of which include the Chishti and Mevlevi. Famous exponents include the author of the Masnavi who founded the Mevlevi Order, Rumi, and in their search for love initiates are called dervishes. Taking their name from their wool clothing, for 10 points, name this mystical sect of Islam.": {
+    "guess": "Sufism",
+    "confidence": [
+      [
+        "S",
+        -0.00015908109
+      ],
+      [
+        "uf",
+        -2.3392786e-06
+      ],
+      [
+        "ism",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The central crime in this story occurs while its victim is \"making Buffalo Bill's show look like magic-lantern": {
+    "guess": "The Silence of the Lambs",
+    "confidence": [
+      [
+        "The",
+        -0.19274268
+      ],
+      [
+        " Silence",
+        -0.0025108547
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -3.1281633e-07
+      ],
+      [
+        " Lamb",
+        0.0
+      ],
+      [
+        "s",
+        0.0
+      ]
+    ]
+  },
+  "The central crime in this story occurs while its victim is \"making Buffalo Bill's show look like magic-lantern views of Palestine.\" This short story's narrator dreams about being chained to a tree by a": {
+    "guess": "The Ransom of Red Chief",
+    "confidence": [
+      [
+        "The",
+        -0.67729723
+      ],
+      [
+        " R",
+        -0.00048143533
+      ],
+      [
+        "ansom",
+        -5.5122365e-07
+      ],
+      [
+        " of",
+        -5.5122365e-07
+      ],
+      [
+        " Red",
+        0.0
+      ],
+      [
+        " Chief",
+        -2.8160932e-06
+      ]
+    ]
+  },
+  "The central crime in this story occurs while its victim is \"making Buffalo Bill's show look like magic-lantern views of Palestine.\" This short story's narrator dreams about being chained to a tree by a redhead pilot until he hears the title character sitting on an accomplice's chest. That character,": {
+    "guess": "The Ransom of Red Chief",
+    "confidence": [
+      [
+        "The",
+        -0.5307922
+      ],
+      [
+        " R",
+        -0.0008058179
+      ],
+      [
+        "ansom",
+        -1.147242e-06
+      ],
+      [
+        " of",
+        -4.3202e-07
+      ],
+      [
+        " Red",
+        0.0
+      ],
+      [
+        " Chief",
+        -4.365741e-06
+      ]
+    ]
+  },
+  "The central crime in this story occurs while its victim is \"making Buffalo Bill's show look like magic-lantern views of Palestine.\" This short story's narrator dreams about being chained to a tree by a redhead pilot until he hears the title character sitting on an accomplice's chest. That character, Bill, is hit between the eyes with a piece of brick, shot behind the ear with a rock, burned with a": {
+    "guess": "The Ransom of Red Chief",
+    "confidence": [
+      [
+        "The",
+        -0.09017173
+      ],
+      [
+        " R",
+        -0.0033138848
+      ],
+      [
+        "ansom",
+        0.0
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Red",
+        -1.9361265e-07
+      ],
+      [
+        " Chief",
+        -3.888926e-06
+      ]
+    ]
+  },
+  "The central crime in this story occurs while its victim is \"making Buffalo Bill's show look like magic-lantern views of Palestine.\" This short story's narrator dreams about being chained to a tree by a redhead pilot until he hears the title character sitting on an accomplice's chest. That character, Bill, is hit between the eyes with a piece of brick, shot behind the ear with a rock, burned with a hot potato, and made to play Black Scout by the title character. That character of this story welcomes": {
+    "guess": "The Ransom of Red Chief",
+    "confidence": [
+      [
+        "The",
+        -0.05949442
+      ],
+      [
+        " R",
+        -0.00035548472
+      ],
+      [
+        "ansom",
+        0.0
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Red",
+        0.0
+      ],
+      [
+        " Chief",
+        -4.723352e-06
+      ]
+    ]
+  },
+  "The central crime in this story occurs while its victim is \"making Buffalo Bill's show look like magic-lantern views of Palestine.\" This short story's narrator dreams about being chained to a tree by a redhead pilot until he hears the title character sitting on an accomplice's chest. That character, Bill, is hit between the eyes with a piece of brick, shot behind the ear with a rock, burned with a hot potato, and made to play Black Scout by the title character. That character of this story welcomes the chance to run away from his father, Ebenezer Dorset, although he is abducted for money. For 10": {
+    "guess": "The Ransom of Red Chief",
+    "confidence": [
+      [
+        "The",
+        -0.045197085
+      ],
+      [
+        " R",
+        -0.004148561
+      ],
+      [
+        "ansom",
+        0.0
+      ],
+      [
+        " of",
+        -5.5122365e-07
+      ],
+      [
+        " Red",
+        0.0
+      ],
+      [
+        " Chief",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "The central crime in this story occurs while its victim is \"making Buffalo Bill's show look like magic-lantern views of Palestine.\" This short story's narrator dreams about being chained to a tree by a redhead pilot until he hears the title character sitting on an accomplice's chest. That character, Bill, is hit between the eyes with a piece of brick, shot behind the ear with a rock, burned with a hot potato, and made to play Black Scout by the title character. That character of this story welcomes the chance to run away from his father, Ebenezer Dorset, although he is abducted for money. For 10 points, name this O. Henry short story about a child who pretends to be the titular Indian.": {
+    "guess": "The Ransom of Red Chief",
+    "confidence": [
+      [
+        "The",
+        -0.05391858
+      ],
+      [
+        " R",
+        -0.0003088871
+      ],
+      [
+        "ansom",
+        0.0
+      ],
+      [
+        " of",
+        -1.6240566e-06
+      ],
+      [
+        " Red",
+        0.0
+      ],
+      [
+        " Chief",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "At the center of this work, a man wearing a shirt with baggy, black and white-striped sleeves sits with": {
+    "guess": "The Night Watch",
+    "confidence": [
+      [
+        "The",
+        -0.045667864
+      ],
+      [
+        " Night",
+        -0.0059929085
+      ],
+      [
+        " Watch",
+        -0.00672923
+      ]
+    ]
+  },
+  "At the center of this work, a man wearing a shirt with baggy, black and white-striped sleeves sits with his back to the viewer and his face cast to a scene on the right. On the left of this painting, which": {
+    "guess": "Las Meninas",
+    "confidence": [
+      [
+        "Las",
+        -0.10412011
+      ],
+      [
+        " Men",
+        -2.9756122e-05
+      ],
+      [
+        "inas",
+        0.0
+      ]
+    ]
+  },
+  "At the center of this work, a man wearing a shirt with baggy, black and white-striped sleeves sits with his back to the viewer and his face cast to a scene on the right. On the left of this painting, which hangs in the Contarelli Chapel, a wide-eyed, bearded man points at a young man in red slumping": {
+    "guess": "The Calling of Saint Matthew",
+    "confidence": [
+      [
+        "The",
+        -0.00015681623
+      ],
+      [
+        " Calling",
+        -2.0339032e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Saint",
+        -0.4740771
+      ],
+      [
+        " Matthew",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "At the center of this work, a man wearing a shirt with baggy, black and white-striped sleeves sits with his back to the viewer and his face cast to a scene on the right. On the left of this painting, which hangs in the Contarelli Chapel, a wide-eyed, bearded man points at a young man in red slumping over a wooden table, while a balding man peers through his spectacles at a pile of coins. An open window": {
+    "guess": "The Calling of Saint Matthew",
+    "confidence": [
+      [
+        "The",
+        -0.0006339244
+      ],
+      [
+        " Calling",
+        -4.596782e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Saint",
+        -0.31326187
+      ],
+      [
+        " Matthew",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "At the center of this work, a man wearing a shirt with baggy, black and white-striped sleeves sits with his back to the viewer and his face cast to a scene on the right. On the left of this painting, which hangs in the Contarelli Chapel, a wide-eyed, bearded man points at a young man in red slumping over a wooden table, while a balding man peers through his spectacles at a pile of coins. An open window and a harsh beam of light illuminate the title action of this painting, which occurs as a figure": {
+    "guess": "The Calling of Saint Matthew",
+    "confidence": [
+      [
+        "The",
+        -0.101026356
+      ],
+      [
+        " Calling",
+        -0.00015109812
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Saint",
+        -0.25192928
+      ],
+      [
+        " Matthew",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "At the center of this work, a man wearing a shirt with baggy, black and white-striped sleeves sits with his back to the viewer and his face cast to a scene on the right. On the left of this painting, which hangs in the Contarelli Chapel, a wide-eyed, bearded man points at a young man in red slumping over a wooden table, while a balding man peers through his spectacles at a pile of coins. An open window and a harsh beam of light illuminate the title action of this painting, which occurs as a figure on the right points his outstretched arm toward the center of the canvas. For 10 points, name this": {
+    "guess": "The Calling of Saint Matthew",
+    "confidence": [
+      [
+        "The",
+        -0.0017334905
+      ],
+      [
+        " Calling",
+        -8.6616266e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Saint",
+        -0.20141333
+      ],
+      [
+        " Matthew",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "At the center of this work, a man wearing a shirt with baggy, black and white-striped sleeves sits with his back to the viewer and his face cast to a scene on the right. On the left of this painting, which hangs in the Contarelli Chapel, a wide-eyed, bearded man points at a young man in red slumping over a wooden table, while a balding man peers through his spectacles at a pile of coins. An open window and a harsh beam of light illuminate the title action of this painting, which occurs as a figure on the right points his outstretched arm toward the center of the canvas. For 10 points, name this painting in which Jesus reaches out to a tax collector, a work by Caravaggio.": {
+    "guess": "The Calling of St Matthew (Caravaggio)",
+    "confidence": [
+      [
+        "The",
+        -0.0018022729
+      ],
+      [
+        " Calling",
+        -9.74638e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " St",
+        -0.018180612
+      ],
+      [
+        " Matthew",
+        -0.005240037
+      ],
+      [
+        " (",
+        -0.10057046
+      ],
+      [
+        "Car",
+        0.0
+      ],
+      [
+        "av",
+        -3.1281633e-07
+      ],
+      [
+        "aggio",
+        0.0
+      ],
+      [
+        ")",
+        -7.107425e-06
+      ]
+    ]
+  },
+  "\"It had to be central intelligence, the family, all of this, the agency- Mafia/ One big set of criminal": {
+    "guess": "Central Intelligence Agency",
+    "confidence": [
+      [
+        "Central",
+        -0.47980994
+      ],
+      [
+        " Intelligence",
+        0.0
+      ],
+      [
+        " Agency",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "\"It had to be central intelligence, the family, all of this, the agency- Mafia/ One big set of criminal gangs working together/* Hitmen/ Murderers everywhere/ The secret/ The drunk/ The brutal/ The dirty": {
+    "guess": "Central Intelligence Agency",
+    "confidence": [
+      [
+        "Central",
+        -0.34334388
+      ],
+      [
+        " Intelligence",
+        0.0
+      ],
+      [
+        " Agency",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "\"It had to be central intelligence, the family, all of this, the agency- Mafia/ One big set of criminal gangs working together/* Hitmen/ Murderers everywhere/ The secret/ The drunk/ The brutal/ The dirty rich/ On top of a slag heap of prisons/ Industrial cancer/ Plutonium smog/ Garbage cities/ Grandma's": {
+    "guess": "Central Intelligence Agency",
+    "confidence": [
+      [
+        "Central",
+        -0.98086226
+      ],
+      [
+        " Intelligence",
+        -1.9361265e-07
+      ],
+      [
+        " Agency",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "\"It had to be central intelligence, the family, all of this, the agency- Mafia/ One big set of criminal gangs working together/* Hitmen/ Murderers everywhere/ The secret/ The drunk/ The brutal/ The dirty rich/ On top of a slag heap of prisons/ Industrial cancer/ Plutonium smog/ Garbage cities/ Grandma's bed soft from fathers' resentment/ It had to be the rulers/ They wanted law and order/ And they": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6974659
+      ]
+    ]
+  },
+  "\"It had to be central intelligence, the family, all of this, the agency- Mafia/ One big set of criminal gangs working together/* Hitmen/ Murderers everywhere/ The secret/ The drunk/ The brutal/ The dirty rich/ On top of a slag heap of prisons/ Industrial cancer/ Plutonium smog/ Garbage cities/ Grandma's bed soft from fathers' resentment/ It had to be the rulers/ They wanted law and order/ And they got rich on wanton protection for the status quo/ They wanted junkies/ They wanted Attica/ They wanted": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.47481036
+      ]
+    ]
+  },
+  "\"It had to be central intelligence, the family, all of this, the agency- Mafia/ One big set of criminal gangs working together/* Hitmen/ Murderers everywhere/ The secret/ The drunk/ The brutal/ The dirty rich/ On top of a slag heap of prisons/ Industrial cancer/ Plutonium smog/ Garbage cities/ Grandma's bed soft from fathers' resentment/ It had to be the rulers/ They wanted law and order/ And they got rich on wanton protection for the status quo/ They wanted junkies/ They wanted Attica/ They wanted Kent State/ They wanted war in Indochina\". FTP, what is this poem by Allen Ginsberg which appears": {
+    "guess": "Plutonian Ode",
+    "confidence": [
+      [
+        "Pl",
+        -0.89903367
+      ],
+      [
+        "uton",
+        -2.1008714e-06
+      ],
+      [
+        "ian",
+        -0.0011702254
+      ],
+      [
+        " Ode",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "\"It had to be central intelligence, the family, all of this, the agency- Mafia/ One big set of criminal gangs working together/* Hitmen/ Murderers everywhere/ The secret/ The drunk/ The brutal/ The dirty rich/ On top of a slag heap of prisons/ Industrial cancer/ Plutonium smog/ Garbage cities/ Grandma's bed soft from fathers' resentment/ It had to be the rulers/ They wanted law and order/ And they got rich on wanton protection for the status quo/ They wanted junkies/ They wanted Attica/ They wanted Kent State/ They wanted war in Indochina\". FTP, what is this poem by Allen Ginsberg which appears on Rage Against the Machine's album Live & Rare?": {
+    "guess": "Hadda Be Playing on the Jukebox",
+    "confidence": [
+      [
+        "H",
+        -0.04062256
+      ],
+      [
+        "adda",
+        -0.0003745463
+      ],
+      [
+        " Be",
+        -0.0013648777
+      ],
+      [
+        " Playing",
+        -0.25412163
+      ],
+      [
+        " on",
+        -0.004620353
+      ],
+      [
+        " the",
+        -1.962381e-05
+      ],
+      [
+        " J",
+        -1.3306016e-05
+      ],
+      [
+        "uk",
+        -0.00033546583
+      ],
+      [
+        "ebox",
+        0.0
+      ]
+    ]
+  },
+  "The central innovation in this concept takes into account the diurnal motion of the earth around its": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.8013683
+      ],
+      [
+        ".",
+        -0.69316864
+      ]
+    ]
+  },
+  "The central innovation in this concept takes into account the diurnal motion of the earth around its axis while ignoring the sun's apparent motion due to earth's rotation. The eponymous principle was given": {
+    "guess": "Coriolis effect",
+    "confidence": [
+      [
+        "C",
+        -0.83172655
+      ],
+      [
+        "ori",
+        -9.7821416e-05
+      ],
+      [
+        "olis",
+        -2.220075e-06
+      ],
+      [
+        " effect",
+        -0.05449132
+      ]
+    ]
+  },
+  "The central innovation in this concept takes into account the diurnal motion of the earth around its axis while ignoring the sun's apparent motion due to earth's rotation. The eponymous principle was given its name in 1880 by Adolph Sprung. Deficiencies in this concept were finally rectified by William": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.22096303
+      ]
+    ]
+  },
+  "The central innovation in this concept takes into account the diurnal motion of the earth around its axis while ignoring the sun's apparent motion due to earth's rotation. The eponymous principle was given its name in 1880 by Adolph Sprung. Deficiencies in this concept were finally rectified by William Ferrell who included in his account the effect of Coriolis forces. Its namesake was interested in": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7039951
+      ]
+    ]
+  },
+  "The central innovation in this concept takes into account the diurnal motion of the earth around its axis while ignoring the sun's apparent motion due to earth's rotation. The eponymous principle was given its name in 1880 by Adolph Sprung. Deficiencies in this concept were finally rectified by William Ferrell who included in his account the effect of Coriolis forces. Its namesake was interested in the causes of the Trade Winds, which according to him had not been fully explained by the likes of": {
+    "guess": "Coriolis effect",
+    "confidence": [
+      [
+        "C",
+        -0.6247941
+      ],
+      [
+        "ori",
+        -0.4830109
+      ],
+      [
+        "olis",
+        -4.604148e-06
+      ],
+      [
+        " effect",
+        -0.0077736713
+      ]
+    ]
+  },
+  "The central innovation in this concept takes into account the diurnal motion of the earth around its axis while ignoring the sun's apparent motion due to earth's rotation. The eponymous principle was given its name in 1880 by Adolph Sprung. Deficiencies in this concept were finally rectified by William Ferrell who included in his account the effect of Coriolis forces. Its namesake was interested in the causes of the Trade Winds, which according to him had not been fully explained by the likes of Edmund Halley and Robert Hooke. Air is drawn into the Intertropical Conversion Zone via the action of": {
+    "guess": "Hadley cell",
+    "confidence": [
+      [
+        "Had",
+        -0.20357391
+      ],
+      [
+        "ley",
+        -2.1531068e-05
+      ],
+      [
+        " cell",
+        -0.028254468
+      ]
+    ]
+  },
+  "The central innovation in this concept takes into account the diurnal motion of the earth around its axis while ignoring the sun's apparent motion due to earth's rotation. The eponymous principle was given its name in 1880 by Adolph Sprung. Deficiencies in this concept were finally rectified by William Ferrell who included in his account the effect of Coriolis forces. Its namesake was interested in the causes of the Trade Winds, which according to him had not been fully explained by the likes of Edmund Halley and Robert Hooke. Air is drawn into the Intertropical Conversion Zone via the action of this pattern, for 10 points name this circulation model near the equator named after its English namesake.": {
+    "guess": "Hadley cell",
+    "confidence": [
+      [
+        "Had",
+        -0.0068760454
+      ],
+      [
+        "ley",
+        -5.5122365e-07
+      ],
+      [
+        " cell",
+        -0.0796851
+      ]
+    ]
+  },
+  "The center of its country's cotton industry, this island's southern coastline is known as the Uwa Sea,": {
+    "guess": "Shikoku",
+    "confidence": [
+      [
+        "Sh",
+        -0.009459976
+      ],
+      [
+        "ik",
+        0.0
+      ],
+      [
+        "oku",
+        0.0
+      ]
+    ]
+  },
+  "The center of its country's cotton industry, this island's southern coastline is known as the Uwa Sea, and the Onaruto Bridge joins it with Awaji. Found to the east of the (*) Bungo Strait, it includes": {
+    "guess": "Shikoku",
+    "confidence": [
+      [
+        "Sh",
+        -0.003709935
+      ],
+      [
+        "ik",
+        0.0
+      ],
+      [
+        "oku",
+        0.0
+      ]
+    ]
+  },
+  "The center of its country's cotton industry, this island's southern coastline is known as the Uwa Sea, and the Onaruto Bridge joins it with Awaji. Found to the east of the (*) Bungo Strait, it includes Kochi and Ehime prefectures, and it has such urban areas as Matsuyama and Tokushima. For 10 points\u2014": {
+    "guess": "Shikoku",
+    "confidence": [
+      [
+        "Sh",
+        -0.0009180088
+      ],
+      [
+        "ik",
+        0.0
+      ],
+      [
+        "oku",
+        0.0
+      ]
+    ]
+  },
+  "The center of its country's cotton industry, this island's southern coastline is known as the Uwa Sea, and the Onaruto Bridge joins it with Awaji. Found to the east of the (*) Bungo Strait, it includes Kochi and Ehime prefectures, and it has such urban areas as Matsuyama and Tokushima. For 10 points\u2014 name this island south of Honshu and east of Kyushu, the smallest of the four major Japanese islands.": {
+    "guess": "Shikoku",
+    "confidence": [
+      [
+        "Sh",
+        -2.6418418e-05
+      ],
+      [
+        "ik",
+        0.0
+      ],
+      [
+        "oku",
+        0.0
+      ]
+    ]
+  },
+  "Central to its belief system is the doctrine of two eternal, coexisting, independent categories known": {
+    "guess": "Jainism",
+    "confidence": [
+      [
+        "J",
+        -0.738147
+      ],
+      [
+        "ain",
+        -0.0017677662
+      ],
+      [
+        "ism",
+        -0.009517243
+      ]
+    ]
+  },
+  "Central to its belief system is the doctrine of two eternal, coexisting, independent categories known as jiva and ajiva. Divided into the sects Digambara and Svetambara, in this religion the actions of": {
+    "guess": "Jainism",
+    "confidence": [
+      [
+        "J",
+        -3.7697225e-06
+      ],
+      [
+        "ain",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Central to its belief system is the doctrine of two eternal, coexisting, independent categories known as jiva and ajiva. Divided into the sects Digambara and Svetambara, in this religion the actions of mind, speech, and body produce subtle karma, which becomes the cause of bondage, and the soul must": {
+    "guess": "Jainism",
+    "confidence": [
+      [
+        "J",
+        -1.1994775e-05
+      ],
+      [
+        "ain",
+        0.0
+      ],
+      [
+        "ism",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "Central to its belief system is the doctrine of two eternal, coexisting, independent categories known as jiva and ajiva. Divided into the sects Digambara and Svetambara, in this religion the actions of mind, speech, and body produce subtle karma, which becomes the cause of bondage, and the soul must be freed of karma through the three \"jewels\" of right faith, right knowledge, and right conduct to achieve": {
+    "guess": "Jainism",
+    "confidence": [
+      [
+        "J",
+        -0.00034821697
+      ],
+      [
+        "ain",
+        0.0
+      ],
+      [
+        "ism",
+        -9.133887e-06
+      ]
+    ]
+  },
+  "Central to its belief system is the doctrine of two eternal, coexisting, independent categories known as jiva and ajiva. Divided into the sects Digambara and Svetambara, in this religion the actions of mind, speech, and body produce subtle karma, which becomes the cause of bondage, and the soul must be freed of karma through the three \"jewels\" of right faith, right knowledge, and right conduct to achieve moksha. FTP, identify this religion often associated with the non-violence doctrine of ahimsa,": {
+    "guess": "Jainism",
+    "confidence": [
+      [
+        "J",
+        -0.0007338666
+      ],
+      [
+        "ain",
+        0.0
+      ],
+      [
+        "ism",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Central to its belief system is the doctrine of two eternal, coexisting, independent categories known as jiva and ajiva. Divided into the sects Digambara and Svetambara, in this religion the actions of mind, speech, and body produce subtle karma, which becomes the cause of bondage, and the soul must be freed of karma through the three \"jewels\" of right faith, right knowledge, and right conduct to achieve moksha. FTP, identify this religion often associated with the non-violence doctrine of ahimsa, founded by Nataputta Mahavira.": {
+    "guess": "Jainism",
+    "confidence": [
+      [
+        "J",
+        -0.00064512214
+      ],
+      [
+        "ain",
+        0.0
+      ],
+      [
+        "ism",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "At the center of this novel is a portrait ten years in the making that is finished at the story's end.": {
+    "guess": "The Picture of Dorian Gray",
+    "confidence": [
+      [
+        "The",
+        -0.025851406
+      ],
+      [
+        " Picture",
+        -0.00095529016
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " D",
+        -1.0280384e-06
+      ],
+      [
+        "orian",
+        0.0
+      ],
+      [
+        " Gray",
+        0.0
+      ]
+    ]
+  },
+  "At the center of this novel is a portrait ten years in the making that is finished at the story's end. Mrs. McNab restores the house of the central characters, who are frequented by the opium-using poet": {
+    "guess": "To the Lighthouse",
+    "confidence": [
+      [
+        "To",
+        -0.00013297916
+      ],
+      [
+        " the",
+        -2.9352968e-06
+      ],
+      [
+        " Lighthouse",
+        0.0
+      ]
+    ]
+  },
+  "At the center of this novel is a portrait ten years in the making that is finished at the story's end. Mrs. McNab restores the house of the central characters, who are frequented by the opium-using poet Augustus Carmichael. The marriage of Paul Rayley to Minta Doyle ends with Paul taking a mistress.": {
+    "guess": "To the Lighthouse",
+    "confidence": [
+      [
+        "To",
+        -0.0009132516
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Lighthouse",
+        0.0
+      ]
+    ]
+  },
+  "At the center of this novel is a portrait ten years in the making that is finished at the story's end. Mrs. McNab restores the house of the central characters, who are frequented by the opium-using poet Augustus Carmichael. The marriage of Paul Rayley to Minta Doyle ends with Paul taking a mistress. Its three sections include \"The Window,\" \"Time Passes,\" and the final section about the title object,": {
+    "guess": "To the Lighthouse",
+    "confidence": [
+      [
+        "To",
+        -0.0011755823
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Lighthouse",
+        0.0
+      ]
+    ]
+  },
+  "At the center of this novel is a portrait ten years in the making that is finished at the story's end. Mrs. McNab restores the house of the central characters, who are frequented by the opium-using poet Augustus Carmichael. The marriage of Paul Rayley to Minta Doyle ends with Paul taking a mistress. Its three sections include \"The Window,\" \"Time Passes,\" and the final section about the title object, which tells how Lily Briscoe finally completes her portrait of Mrs. Ramsay, whose husband was based": {
+    "guess": "To the Lighthouse",
+    "confidence": [
+      [
+        "To",
+        -0.00025228
+      ],
+      [
+        " the",
+        -1.6240566e-06
+      ],
+      [
+        " Lighthouse",
+        0.0
+      ]
+    ]
+  },
+  "At the center of this novel is a portrait ten years in the making that is finished at the story's end. Mrs. McNab restores the house of the central characters, who are frequented by the opium-using poet Augustus Carmichael. The marriage of Paul Rayley to Minta Doyle ends with Paul taking a mistress. Its three sections include \"The Window,\" \"Time Passes,\" and the final section about the title object, which tells how Lily Briscoe finally completes her portrait of Mrs. Ramsay, whose husband was based on the author's father, Leslie Stephens. FTP, identify this 1927 novel by Virginia Woolf.": {
+    "guess": "To the Lighthouse",
+    "confidence": [
+      [
+        "To",
+        -0.00010902656
+      ],
+      [
+        " the",
+        -2.4584822e-06
+      ],
+      [
+        " Lighthouse",
+        0.0
+      ]
+    ]
+  },
+  "The central secret in this novel takes shape after the death of the horse Wildfire. The title character's": {
+    "guess": "Silas Marner",
+    "confidence": [
+      [
+        "Sil",
+        -0.20189303
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        " Mar",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ]
+    ]
+  },
+  "The central secret in this novel takes shape after the death of the horse Wildfire. The title character's backstory is related early on, including his loss of his fianc\u00e9e Sarah and his betrayal at the": {
+    "guess": "Silas Marner",
+    "confidence": [
+      [
+        "Sil",
+        -0.4744042
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        " Mar",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ]
+    ]
+  },
+  "The central secret in this novel takes shape after the death of the horse Wildfire. The title character's backstory is related early on, including his loss of his fianc\u00e9e Sarah and his betrayal at the hands of his friend William Dane. He once again falls under suspicion after using a foxglove remedy": {
+    "guess": "Silas Marner",
+    "confidence": [
+      [
+        "Sil",
+        -0.0014285711
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        " Mar",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ]
+    ]
+  },
+  "The central secret in this novel takes shape after the death of the horse Wildfire. The title character's backstory is related early on, including his loss of his fianc\u00e9e Sarah and his betrayal at the hands of his friend William Dane. He once again falls under suspicion after using a foxglove remedy to cure the dropsy of his neighbor Sally Oates. He does grow close with another neighbor, Dolly Winthrop,": {
+    "guess": "Silas Marner",
+    "confidence": [
+      [
+        "Sil",
+        -0.048812523
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        " Mar",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ]
+    ]
+  },
+  "The central secret in this novel takes shape after the death of the horse Wildfire. The title character's backstory is related early on, including his loss of his fianc\u00e9e Sarah and his betrayal at the hands of his friend William Dane. He once again falls under suspicion after using a foxglove remedy to cure the dropsy of his neighbor Sally Oates. He does grow close with another neighbor, Dolly Winthrop, whose son Aaron marries his daughter at the novel's end. This happens after a visit from Nancy": {
+    "guess": "Silas Marner",
+    "confidence": [
+      [
+        "Sil",
+        -0.000109622575
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        " Mar",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ]
+    ]
+  },
+  "The central secret in this novel takes shape after the death of the horse Wildfire. The title character's backstory is related early on, including his loss of his fianc\u00e9e Sarah and his betrayal at the hands of his friend William Dane. He once again falls under suspicion after using a foxglove remedy to cure the dropsy of his neighbor Sally Oates. He does grow close with another neighbor, Dolly Winthrop, whose son Aaron marries his daughter at the novel's end. This happens after a visit from Nancy Lammeter and Godfrey Cass who fail to gain custody of the title character's daughter, Eppie. For 10": {
+    "guess": "Silas Marner",
+    "confidence": [
+      [
+        "Sil",
+        -3.1305768e-05
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        " Mar",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ]
+    ]
+  },
+  "The central secret in this novel takes shape after the death of the horse Wildfire. The title character's backstory is related early on, including his loss of his fianc\u00e9e Sarah and his betrayal at the hands of his friend William Dane. He once again falls under suspicion after using a foxglove remedy to cure the dropsy of his neighbor Sally Oates. He does grow close with another neighbor, Dolly Winthrop, whose son Aaron marries his daughter at the novel's end. This happens after a visit from Nancy Lammeter and Godfrey Cass who fail to gain custody of the title character's daughter, Eppie. For 10 points, name this novel about the titular weaver of Raveloe, a work by George Eliot.": {
+    "guess": "Silas Marner",
+    "confidence": [
+      [
+        "Sil",
+        -0.006722945
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        " Mar",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ]
+    ]
+  },
+  "The central concept in this work is irrational, since its actions are groundless, and it transcends space": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.28739053
+      ]
+    ]
+  },
+  "The central concept in this work is irrational, since its actions are groundless, and it transcends space and time, even though worldly manifestations of it are governed by space and time. It does not": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.14858931
+      ]
+    ]
+  },
+  "The central concept in this work is irrational, since its actions are groundless, and it transcends space and time, even though worldly manifestations of it are governed by space and time. It does not fulfill the principle of sufficient reason and the only adequate objectification of it is the Platonic": {
+    "guess": "The World as Will and Representation",
+    "confidence": [
+      [
+        "The",
+        -0.005280484
+      ],
+      [
+        " World",
+        -5.4550484e-05
+      ],
+      [
+        " as",
+        0.0
+      ],
+      [
+        " Will",
+        0.0
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " Representation",
+        0.0
+      ]
+    ]
+  },
+  "The central concept in this work is irrational, since its actions are groundless, and it transcends space and time, even though worldly manifestations of it are governed by space and time. It does not fulfill the principle of sufficient reason and the only adequate objectification of it is the Platonic Idea, covered in the third book. The author argues that \"no obtained object of desire can give lasting": {
+    "guess": "The World as Will and Representation",
+    "confidence": [
+      [
+        "The",
+        -0.008674731
+      ],
+      [
+        " World",
+        -2.4391957e-05
+      ],
+      [
+        " as",
+        0.0
+      ],
+      [
+        " Will",
+        0.0
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " Representation",
+        0.0
+      ]
+    ]
+  },
+  "The central concept in this work is irrational, since its actions are groundless, and it transcends space and time, even though worldly manifestations of it are governed by space and time. It does not fulfill the principle of sufficient reason and the only adequate objectification of it is the Platonic Idea, covered in the third book. The author argues that \"no obtained object of desire can give lasting satisfaction\" and that only the absence of happiness may be a true subject of art. Divided into": {
+    "guess": "The World as Will and Representation",
+    "confidence": [
+      [
+        "The",
+        -0.008634897
+      ],
+      [
+        " World",
+        -3.6908343e-05
+      ],
+      [
+        " as",
+        0.0
+      ],
+      [
+        " Will",
+        0.0
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " Representation",
+        0.0
+      ]
+    ]
+  },
+  "The central concept in this work is irrational, since its actions are groundless, and it transcends space and time, even though worldly manifestations of it are governed by space and time. It does not fulfill the principle of sufficient reason and the only adequate objectification of it is the Platonic Idea, covered in the third book. The author argues that \"no obtained object of desire can give lasting satisfaction\" and that only the absence of happiness may be a true subject of art. Divided into four books, the last of which discusses the ultimate goal of self-denial, and influenced by the author's": {
+    "guess": "The World as Will and Representation",
+    "confidence": [
+      [
+        "The",
+        -0.0007131471
+      ],
+      [
+        " World",
+        -8.590105e-05
+      ],
+      [
+        " as",
+        0.0
+      ],
+      [
+        " Will",
+        0.0
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " Representation",
+        0.0
+      ]
+    ]
+  },
+  "The central concept in this work is irrational, since its actions are groundless, and it transcends space and time, even though worldly manifestations of it are governed by space and time. It does not fulfill the principle of sufficient reason and the only adequate objectification of it is the Platonic Idea, covered in the third book. The author argues that \"no obtained object of desire can give lasting satisfaction\" and that only the absence of happiness may be a true subject of art. Divided into four books, the last of which discusses the ultimate goal of self-denial, and influenced by the author's interest in the Upanishads, FTP, name this most famous work of Arnold Schopenhauer.": {
+    "guess": "The World as Will and Representation",
+    "confidence": [
+      [
+        "The",
+        -0.011057372
+      ],
+      [
+        " World",
+        -1.9816675e-06
+      ],
+      [
+        " as",
+        0.0
+      ],
+      [
+        " Will",
+        0.0
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " Representation",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The central question in this work occurs when Cephalus says that our wealth can prevent us from being": {
+    "guess": "Republic (Plato)",
+    "confidence": [
+      [
+        "Republic",
+        -0.08084917
+      ],
+      [
+        " (",
+        -0.04883592
+      ],
+      [
+        "Pl",
+        -1.9361265e-07
+      ],
+      [
+        "ato",
+        0.0
+      ],
+      [
+        ")",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "The central question in this work occurs when Cephalus says that our wealth can prevent us from being unjust, but a debate unfolds when Socrates asks about the meaning of justice. Some of its important": {
+    "guess": "The Republic",
+    "confidence": [
+      [
+        "The",
+        -0.47662973
+      ],
+      [
+        " Republic",
+        -1.831257e-05
+      ]
+    ]
+  },
+  "The central question in this work occurs when Cephalus says that our wealth can prevent us from being unjust, but a debate unfolds when Socrates asks about the meaning of justice. Some of its important characters include Glaucon and Adeimantus, the principle speakers, and the silent spectators Lysias": {
+    "guess": "Republic (Plato)",
+    "confidence": [
+      [
+        "Republic",
+        -0.18571846
+      ],
+      [
+        " (",
+        -1.7432603e-06
+      ],
+      [
+        "Pl",
+        -4.441817e-05
+      ],
+      [
+        "ato",
+        0.0
+      ],
+      [
+        ")",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "The central question in this work occurs when Cephalus says that our wealth can prevent us from being unjust, but a debate unfolds when Socrates asks about the meaning of justice. Some of its important characters include Glaucon and Adeimantus, the principle speakers, and the silent spectators Lysias and Euthydemus. It is perhaps most famous for discussing a scene in which chained prisoners watch shadows": {
+    "guess": "Republic (Plato)",
+    "confidence": [
+      [
+        "Republic",
+        -0.0001246349
+      ],
+      [
+        " (",
+        -1.9361265e-07
+      ],
+      [
+        "Pl",
+        0.0
+      ],
+      [
+        "ato",
+        0.0
+      ],
+      [
+        ")",
+        0.0
+      ]
+    ]
+  },
+  "The central question in this work occurs when Cephalus says that our wealth can prevent us from being unjust, but a debate unfolds when Socrates asks about the meaning of justice. Some of its important characters include Glaucon and Adeimantus, the principle speakers, and the silent spectators Lysias and Euthydemus. It is perhaps most famous for discussing a scene in which chained prisoners watch shadows to illustrate the Allegory of the Cave. For ten points, identify this dialogue by Plato that": {
+    "guess": "Republic (Plato)",
+    "confidence": [
+      [
+        "Republic",
+        -3.619312e-05
+      ],
+      [
+        " (",
+        -5.9153886e-06
+      ],
+      [
+        "Pl",
+        -1.9361265e-07
+      ],
+      [
+        "ato",
+        0.0
+      ],
+      [
+        ")",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The central question in this work occurs when Cephalus says that our wealth can prevent us from being unjust, but a debate unfolds when Socrates asks about the meaning of justice. Some of its important characters include Glaucon and Adeimantus, the principle speakers, and the silent spectators Lysias and Euthydemus. It is perhaps most famous for discussing a scene in which chained prisoners watch shadows to illustrate the Allegory of the Cave. For ten points, identify this dialogue by Plato that discusses the idea of the philosopher-king ruling over the titular entity.": {
+    "guess": "Republic (Plato)",
+    "confidence": [
+      [
+        "Republic",
+        -3.8577193e-05
+      ],
+      [
+        " (",
+        -3.650519e-06
+      ],
+      [
+        "Pl",
+        0.0
+      ],
+      [
+        "ato",
+        0.0
+      ],
+      [
+        ")",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "Centering on the grim family of Thomas Grangrind, it was written by Charles Dickens.": {
+    "guess": "Hard Times",
+    "confidence": [
+      [
+        "Hard",
+        -4.0007635e-05
+      ],
+      [
+        " Times",
+        0.0
+      ]
+    ]
+  },
+  "The central character's stepdaughter-in-law goes to jail after punching the mayor, and Nettie unknowingly": {
+    "guess": "The Color Purple",
+    "confidence": [
+      [
+        "The",
+        -0.023896351
+      ],
+      [
+        " Color",
+        -0.0017293256
+      ],
+      [
+        " Purple",
+        0.0
+      ]
+    ]
+  },
+  "The central character's stepdaughter-in-law goes to jail after punching the mayor, and Nettie unknowingly meets her niece and nephew after befriending the missionaries Samuel and Corinne. From Samuel,": {
+    "guess": "The Color Purple",
+    "confidence": [
+      [
+        "The",
+        -0.030122431
+      ],
+      [
+        " Color",
+        -0.00012630376
+      ],
+      [
+        " Purple",
+        0.0
+      ]
+    ]
+  },
+  "The central character's stepdaughter-in-law goes to jail after punching the mayor, and Nettie unknowingly meets her niece and nephew after befriending the missionaries Samuel and Corinne. From Samuel, Nettie learns that Alphonso is only her stepfather and that her real father was lynched by a jealous": {
+    "guess": "The Color Purple",
+    "confidence": [
+      [
+        "The",
+        -0.008633242
+      ],
+      [
+        " Color",
+        -5.5122365e-07
+      ],
+      [
+        " Purple",
+        0.0
+      ]
+    ]
+  },
+  "The central character's stepdaughter-in-law goes to jail after punching the mayor, and Nettie unknowingly meets her niece and nephew after befriending the missionaries Samuel and Corinne. From Samuel, Nettie learns that Alphonso is only her stepfather and that her real father was lynched by a jealous mob. Nettie's sister Celie finally meets her biological children at the end of, for ten points, what": {
+    "guess": "The Color Purple",
+    "confidence": [
+      [
+        "The",
+        -0.0052403947
+      ],
+      [
+        " Color",
+        -4.3202e-07
+      ],
+      [
+        " Purple",
+        0.0
+      ]
+    ]
+  },
+  "The central character's stepdaughter-in-law goes to jail after punching the mayor, and Nettie unknowingly meets her niece and nephew after befriending the missionaries Samuel and Corinne. From Samuel, Nettie learns that Alphonso is only her stepfather and that her real father was lynched by a jealous mob. Nettie's sister Celie finally meets her biological children at the end of, for ten points, what Pulitzer Prize winning novel by Alice Walker?": {
+    "guess": "The Color Purple",
+    "confidence": [
+      [
+        "The",
+        -0.00023154958
+      ],
+      [
+        " Color",
+        -1.9361265e-07
+      ],
+      [
+        " Purple",
+        0.0
+      ]
+    ]
+  },
+  "Centered at the Universal House of Justice in Haifa, Israel, its fundamental tenets are set forth in": {
+    "guess": "Bah\u00e1\u02bc\u00ed Faith",
+    "confidence": [
+      [
+        "Bah",
+        -0.041743446
+      ],
+      [
+        "\u00e1",
+        -5.2001665e-06
+      ],
+      [
+        "\u02bc",
+        -5.0139948e-05
+      ],
+      [
+        "\u00ed",
+        -1.9361265e-07
+      ],
+      [
+        " Faith",
+        -5.5146502e-05
+      ]
+    ]
+  },
+  "Centered at the Universal House of Justice in Haifa, Israel, its fundamental tenets are set forth in works like The Book of Certitude. Its founder became a follower of the Bab at the age of twenty-seven,": {
+    "guess": "Bah\u00e1'\u00ed Faith",
+    "confidence": [
+      [
+        "Bah",
+        -2.5107178e-05
+      ],
+      [
+        "\u00e1",
+        0.0
+      ],
+      [
+        "'",
+        -0.42941445
+      ],
+      [
+        "\u00ed",
+        -1.9361265e-07
+      ],
+      [
+        " Faith",
+        0.0
+      ]
+    ]
+  },
+  "Centered at the Universal House of Justice in Haifa, Israel, its fundamental tenets are set forth in works like The Book of Certitude. Its founder became a follower of the Bab at the age of twenty-seven, and began to preach tolerance and acceptance to all. This faith recognizes the divinity of Abraham,": {
+    "guess": "Bah\u00e1'\u00ed Faith",
+    "confidence": [
+      [
+        "Bah",
+        -3.6908343e-05
+      ],
+      [
+        "\u00e1",
+        0.0
+      ],
+      [
+        "'",
+        -0.20194018
+      ],
+      [
+        "\u00ed",
+        0.0
+      ],
+      [
+        " Faith",
+        0.0
+      ]
+    ]
+  },
+  "Centered at the Universal House of Justice in Haifa, Israel, its fundamental tenets are set forth in works like The Book of Certitude. Its founder became a follower of the Bab at the age of twenty-seven, and began to preach tolerance and acceptance to all. This faith recognizes the divinity of Abraham, Zoroaster, Moses, Krishna, Jesus, and Muhammad, claiming that its founder is the latest manifestation": {
+    "guess": "Bah\u00e1'\u00ed Faith",
+    "confidence": [
+      [
+        "Bah",
+        -0.00047583276
+      ],
+      [
+        "\u00e1",
+        0.0
+      ],
+      [
+        "'",
+        -5.2001665e-06
+      ],
+      [
+        "\u00ed",
+        0.0
+      ],
+      [
+        " Faith",
+        0.0
+      ]
+    ]
+  },
+  "Centered at the Universal House of Justice in Haifa, Israel, its fundamental tenets are set forth in works like The Book of Certitude. Its founder became a follower of the Bab at the age of twenty-seven, and began to preach tolerance and acceptance to all. This faith recognizes the divinity of Abraham, Zoroaster, Moses, Krishna, Jesus, and Muhammad, claiming that its founder is the latest manifestation of the divine. For 10 points, name this \"universal religion\" founded in 1863 by Bah\u0101'Ull\u0101h.": {
+    "guess": "Bah\u00e1'\u00ed Faith",
+    "confidence": [
+      [
+        "Bah",
+        -0.0028204473
+      ],
+      [
+        "\u00e1",
+        0.0
+      ],
+      [
+        "'",
+        -1.2664457e-06
+      ],
+      [
+        "\u00ed",
+        0.0
+      ],
+      [
+        " Faith",
+        0.0
+      ]
+    ]
+  },
+  "Central dominant types of these objects become large due to collisions. Ones forming new components at": {
+    "guess": "Galaxies",
+    "confidence": [
+      [
+        "Gal",
+        -0.15105464
+      ],
+      [
+        "ax",
+        -1.147242e-06
+      ],
+      [
+        "ies",
+        0.0
+      ]
+    ]
+  },
+  "Central dominant types of these objects become large due to collisions. Ones forming new components at an unusually high rate are known as starburst ones. According to Hubble's law, more distant ones of": {
+    "guess": "Galaxies",
+    "confidence": [
+      [
+        "Gal",
+        -8.8285124e-05
+      ],
+      [
+        "ax",
+        0.0
+      ],
+      [
+        "ies",
+        0.0
+      ]
+    ]
+  },
+  "Central dominant types of these objects become large due to collisions. Ones forming new components at an unusually high rate are known as starburst ones. According to Hubble's law, more distant ones of these objects move away faster the more distant they are. If these objects are not irregular they": {
+    "guess": "Galaxies",
+    "confidence": [
+      [
+        "Gal",
+        -0.013143525
+      ],
+      [
+        "ax",
+        0.0
+      ],
+      [
+        "ies",
+        0.0
+      ]
+    ]
+  },
+  "Central dominant types of these objects become large due to collisions. Ones forming new components at an unusually high rate are known as starburst ones. According to Hubble's law, more distant ones of these objects move away faster the more distant they are. If these objects are not irregular they are either elliptical, barred spiral, or spiral. For 10 points, name this term for a group of stars": {
+    "guess": "Galaxy",
+    "confidence": [
+      [
+        "Galaxy",
+        -0.0016647083
+      ]
+    ]
+  },
+  "Central dominant types of these objects become large due to collisions. Ones forming new components at an unusually high rate are known as starburst ones. According to Hubble's law, more distant ones of these objects move away faster the more distant they are. If these objects are not irregular they are either elliptical, barred spiral, or spiral. For 10 points, name this term for a group of stars bound by gravity and orbiting together, such as the Andromeda one or our Milky Way.": {
+    "guess": "Galaxies",
+    "confidence": [
+      [
+        "Gal",
+        -0.093690515
+      ],
+      [
+        "ax",
+        -9.0883464e-07
+      ],
+      [
+        "ies",
+        0.0
+      ]
+    ]
+  },
+  "In one of these, the central figure wears only a turban and sheaths a long sword; its political significance": {
+    "guess": "Judith and Holofernes",
+    "confidence": [
+      [
+        "Jud",
+        -0.03400999
+      ],
+      [
+        "ith",
+        0.0
+      ],
+      [
+        " and",
+        -0.23188946
+      ],
+      [
+        " H",
+        -0.00017350474
+      ],
+      [
+        "olo",
+        0.0
+      ],
+      [
+        "fer",
+        -1.9361265e-07
+      ],
+      [
+        "nes",
+        0.0
+      ]
+    ]
+  },
+  "In one of these, the central figure wears only a turban and sheaths a long sword; its political significance helped win its creator, Antonin Merci\u00e9, the Legion of Honor. The title figure wears a two-strapped": {
+    "guess": "Gloria Victis",
+    "confidence": [
+      [
+        "Gl",
+        -0.058056474
+      ],
+      [
+        "oria",
+        -8.418666e-06
+      ],
+      [
+        " Vict",
+        -3.488188e-05
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "In one of these, the central figure wears only a turban and sheaths a long sword; its political significance helped win its creator, Antonin Merci\u00e9, the Legion of Honor. The title figure wears a two-strapped garment that exposes his arms and is also see-through enough to show his ribs and nipples in": {
+    "guess": "David (Michelangelo)",
+    "confidence": [
+      [
+        "David",
+        -0.14439705
+      ],
+      [
+        " (",
+        -0.5566384
+      ],
+      [
+        "Michel",
+        -0.16499895
+      ],
+      [
+        "angelo",
+        -1.60477e-05
+      ],
+      [
+        ")",
+        -0.0021356288
+      ]
+    ]
+  },
+  "In one of these, the central figure wears only a turban and sheaths a long sword; its political significance helped win its creator, Antonin Merci\u00e9, the Legion of Honor. The title figure wears a two-strapped garment that exposes his arms and is also see-through enough to show his ribs and nipples in the version of this scene done for Florence by Verrocchio. Bernini's depiction mimics the pose of the": {
+    "guess": "David",
+    "confidence": [
+      [
+        "David",
+        -0.000288153
+      ]
+    ]
+  },
+  "In one of these, the central figure wears only a turban and sheaths a long sword; its political significance helped win its creator, Antonin Merci\u00e9, the Legion of Honor. The title figure wears a two-strapped garment that exposes his arms and is also see-through enough to show his ribs and nipples in the version of this scene done for Florence by Verrocchio. Bernini's depiction mimics the pose of the Discobolos, and another depicts its subject in action, biting his lower lip and stepping outside his": {
+    "guess": "David",
+    "confidence": [
+      [
+        "David",
+        -0.00014561474
+      ]
+    ]
+  },
+  "In one of these, the central figure wears only a turban and sheaths a long sword; its political significance helped win its creator, Antonin Merci\u00e9, the Legion of Honor. The title figure wears a two-strapped garment that exposes his arms and is also see-through enough to show his ribs and nipples in the version of this scene done for Florence by Verrocchio. Bernini's depiction mimics the pose of the Discobolos, and another depicts its subject in action, biting his lower lip and stepping outside his plinth. A more effeminate one wears a flowered hat and has one hand on his hip; that example is the": {
+    "guess": "David",
+    "confidence": [
+      [
+        "David",
+        -0.000634878
+      ]
+    ]
+  },
+  "In one of these, the central figure wears only a turban and sheaths a long sword; its political significance helped win its creator, Antonin Merci\u00e9, the Legion of Honor. The title figure wears a two-strapped garment that exposes his arms and is also see-through enough to show his ribs and nipples in the version of this scene done for Florence by Verrocchio. Bernini's depiction mimics the pose of the Discobolos, and another depicts its subject in action, biting his lower lip and stepping outside his plinth. A more effeminate one wears a flowered hat and has one hand on his hip; that example is the first freestanding nude created since antiquity. For 10 points, name these 3D depictions of the biblical": {
+    "guess": "David",
+    "confidence": [
+      [
+        "David",
+        -0.00060772157
+      ]
+    ]
+  },
+  "In one of these, the central figure wears only a turban and sheaths a long sword; its political significance helped win its creator, Antonin Merci\u00e9, the Legion of Honor. The title figure wears a two-strapped garment that exposes his arms and is also see-through enough to show his ribs and nipples in the version of this scene done for Florence by Verrocchio. Bernini's depiction mimics the pose of the Discobolos, and another depicts its subject in action, biting his lower lip and stepping outside his plinth. A more effeminate one wears a flowered hat and has one hand on his hip; that example is the first freestanding nude created since antiquity. For 10 points, name these 3D depictions of the biblical slayer of Goliath.": {
+    "guess": "David (sculpture)",
+    "confidence": [
+      [
+        "David",
+        -0.0010747304
+      ],
+      [
+        " (",
+        -0.48513114
+      ],
+      [
+        "sc",
+        -0.57564354
+      ],
+      [
+        "ulpt",
+        -6.704273e-07
+      ],
+      [
+        "ure",
+        -0.0013269031
+      ],
+      [
+        ")",
+        -7.076218e-05
+      ]
+    ]
+  },
+  "One of its central scenes in Act I contains a tune that Beethoven first used in the scherzo to one of": {
+    "guess": "Fidelio",
+    "confidence": [
+      [
+        "F",
+        -0.01375806
+      ],
+      [
+        "idel",
+        0.0
+      ],
+      [
+        "io",
+        0.0
+      ]
+    ]
+  },
+  "One of its central scenes in Act I contains a tune that Beethoven first used in the scherzo to one of his Razumovsky quartets. It was originally divided into seven tableaux, of which the third was set": {
+    "guess": "The Creatures of Prometheus",
+    "confidence": [
+      [
+        "The",
+        -0.72986126
+      ],
+      [
+        " Creat",
+        -0.30698895
+      ],
+      [
+        "ures",
+        0.0
+      ],
+      [
+        " of",
+        -3.7697225e-06
+      ],
+      [
+        " Prom",
+        -6.704273e-07
+      ],
+      [
+        "etheus",
+        0.0
+      ]
+    ]
+  },
+  "One of its central scenes in Act I contains a tune that Beethoven first used in the scherzo to one of his Razumovsky quartets. It was originally divided into seven tableaux, of which the third was set in a cell and the fourth at an inn at the border. The second version was modified to have an interlude": {
+    "guess": "Fidelio",
+    "confidence": [
+      [
+        "F",
+        -0.07308451
+      ],
+      [
+        "idel",
+        0.0
+      ],
+      [
+        "io",
+        0.0
+      ]
+    ]
+  },
+  "One of its central scenes in Act I contains a tune that Beethoven first used in the scherzo to one of his Razumovsky quartets. It was originally divided into seven tableaux, of which the third was set in a cell and the fourth at an inn at the border. The second version was modified to have an interlude of a \"Polish\" third act and a scene of the title character going mad with guilt, but still included": {
+    "guess": "Fidelio",
+    "confidence": [
+      [
+        "F",
+        -0.24384494
+      ],
+      [
+        "idel",
+        0.0
+      ],
+      [
+        "io",
+        0.0
+      ]
+    ]
+  },
+  "One of its central scenes in Act I contains a tune that Beethoven first used in the scherzo to one of his Razumovsky quartets. It was originally divided into seven tableaux, of which the third was set in a cell and the fourth at an inn at the border. The second version was modified to have an interlude of a \"Polish\" third act and a scene of the title character going mad with guilt, but still included the character of Pimen and the famous Coronation Scene. FTP, identify this opera that drew partly": {
+    "guess": "Boris Godunov (opera)",
+    "confidence": [
+      [
+        "B",
+        -0.005224864
+      ],
+      [
+        "oris",
+        0.0
+      ],
+      [
+        " God",
+        -1.1637165e-05
+      ],
+      [
+        "un",
+        -4.3202e-07
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        " (",
+        -0.062314518
+      ],
+      [
+        "opera",
+        -2.7014437e-05
+      ],
+      [
+        ")",
+        -0.00016313401
+      ]
+    ]
+  },
+  "One of its central scenes in Act I contains a tune that Beethoven first used in the scherzo to one of his Razumovsky quartets. It was originally divided into seven tableaux, of which the third was set in a cell and the fourth at an inn at the border. The second version was modified to have an interlude of a \"Polish\" third act and a scene of the title character going mad with guilt, but still included the character of Pimen and the famous Coronation Scene. FTP, identify this opera that drew partly on the work of Karamzin and more on that of Pushkin, the magnum opus of Mussorgsky.": {
+    "guess": "Boris Godunov (opera)",
+    "confidence": [
+      [
+        "B",
+        -0.00083416636
+      ],
+      [
+        "oris",
+        0.0
+      ],
+      [
+        " God",
+        -1.6882126e-05
+      ],
+      [
+        "un",
+        -1.9361265e-07
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        " (",
+        -0.3872658
+      ],
+      [
+        "opera",
+        -2.1531068e-05
+      ],
+      [
+        ")",
+        -8.506662e-05
+      ]
+    ]
+  },
+  "For centuries, its precise location was unclear, so a monument to this event was erected near Detmold,": {
+    "guess": "Battle of the Teutoburg Forest",
+    "confidence": [
+      [
+        "Battle",
+        -0.05919055
+      ],
+      [
+        " of",
+        -4.3202e-07
+      ],
+      [
+        " the",
+        -0.00020354039
+      ],
+      [
+        " Te",
+        -1.9361265e-07
+      ],
+      [
+        "ut",
+        0.0
+      ],
+      [
+        "ob",
+        0.0
+      ],
+      [
+        "urg",
+        -4.3202e-07
+      ],
+      [
+        " Forest",
+        0.0
+      ]
+    ]
+  },
+  "For centuries, its precise location was unclear, so a monument to this event was erected near Detmold, some 50 kilometers from the actual site. The victorious leader was able to unite the previously warring": {
+    "guess": "Battle of the Teutoburg Forest",
+    "confidence": [
+      [
+        "Battle",
+        -0.017382884
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -0.0006265374
+      ],
+      [
+        " Te",
+        -1.9361265e-07
+      ],
+      [
+        "ut",
+        0.0
+      ],
+      [
+        "ob",
+        0.0
+      ],
+      [
+        "urg",
+        -1.147242e-06
+      ],
+      [
+        " Forest",
+        0.0
+      ]
+    ]
+  },
+  "For centuries, its precise location was unclear, so a monument to this event was erected near Detmold, some 50 kilometers from the actual site. The victorious leader was able to unite the previously warring Chatti and Bructeri lie in wait for his foes, who supposed him their ally and who had trained": {
+    "guess": "Battle of the Teutoburg Forest",
+    "confidence": [
+      [
+        "Battle",
+        -0.0057423753
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " the",
+        -0.0021851186
+      ],
+      [
+        " Te",
+        -1.9361265e-07
+      ],
+      [
+        "ut",
+        0.0
+      ],
+      [
+        "ob",
+        0.0
+      ],
+      [
+        "urg",
+        -1.504853e-06
+      ],
+      [
+        " Forest",
+        0.0
+      ]
+    ]
+  },
+  "For centuries, its precise location was unclear, so a monument to this event was erected near Detmold, some 50 kilometers from the actual site. The victorious leader was able to unite the previously warring Chatti and Bructeri lie in wait for his foes, who supposed him their ally and who had trained him while he was a hostage. Upon learning of the loss, Augustus was said to have shouted \"Quintilius": {
+    "guess": "Battle of the Teutoburg Forest",
+    "confidence": [
+      [
+        "Battle",
+        -0.012457259
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -0.0009115827
+      ],
+      [
+        " Te",
+        0.0
+      ],
+      [
+        "ut",
+        0.0
+      ],
+      [
+        "ob",
+        0.0
+      ],
+      [
+        "urg",
+        -1.147242e-06
+      ],
+      [
+        " Forest",
+        0.0
+      ]
+    ]
+  },
+  "For centuries, its precise location was unclear, so a monument to this event was erected near Detmold, some 50 kilometers from the actual site. The victorious leader was able to unite the previously warring Chatti and Bructeri lie in wait for his foes, who supposed him their ally and who had trained him while he was a hostage. Upon learning of the loss, Augustus was said to have shouted \"Quintilius Varus, give me back my legions!\" For ten points, name this 9 CE battle which established the limits": {
+    "guess": "Battle of the Teutoburg Forest",
+    "confidence": [
+      [
+        "Battle",
+        -0.00029518234
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -0.00043066923
+      ],
+      [
+        " Te",
+        -1.9361265e-07
+      ],
+      [
+        "ut",
+        0.0
+      ],
+      [
+        "ob",
+        0.0
+      ],
+      [
+        "urg",
+        -6.704273e-07
+      ],
+      [
+        " Forest",
+        0.0
+      ]
+    ]
+  },
+  "For centuries, its precise location was unclear, so a monument to this event was erected near Detmold, some 50 kilometers from the actual site. The victorious leader was able to unite the previously warring Chatti and Bructeri lie in wait for his foes, who supposed him their ally and who had trained him while he was a hostage. Upon learning of the loss, Augustus was said to have shouted \"Quintilius Varus, give me back my legions!\" For ten points, name this 9 CE battle which established the limits of the Roman Empire at the Rhine after the forces of Arminius completely annihilated a Roman army of": {
+    "guess": "Battle of Teutoburg Forest",
+    "confidence": [
+      [
+        "Battle",
+        -0.00056268455
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Te",
+        -0.008614569
+      ],
+      [
+        "ut",
+        0.0
+      ],
+      [
+        "ob",
+        0.0
+      ],
+      [
+        "urg",
+        0.0
+      ],
+      [
+        " Forest",
+        0.0
+      ]
+    ]
+  },
+  "For centuries, its precise location was unclear, so a monument to this event was erected near Detmold, some 50 kilometers from the actual site. The victorious leader was able to unite the previously warring Chatti and Bructeri lie in wait for his foes, who supposed him their ally and who had trained him while he was a hostage. Upon learning of the loss, Augustus was said to have shouted \"Quintilius Varus, give me back my legions!\" For ten points, name this 9 CE battle which established the limits of the Roman Empire at the Rhine after the forces of Arminius completely annihilated a Roman army of over 20,000 troops.": {
+    "guess": "Battle of Teutoburg Forest",
+    "confidence": [
+      [
+        "Battle",
+        -0.0015264062
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Te",
+        -0.0028048719
+      ],
+      [
+        "ut",
+        -5.5122365e-07
+      ],
+      [
+        "ob",
+        0.0
+      ],
+      [
+        "urg",
+        0.0
+      ],
+      [
+        " Forest",
+        0.0
+      ]
+    ]
+  },
+  "The central family in this novel lives next door to Levaque and Bouteloup, whose morning rituals they": {
+    "guess": "Germinal",
+    "confidence": [
+      [
+        "G",
+        -0.00038431733
+      ],
+      [
+        "erm",
+        -1.9361265e-07
+      ],
+      [
+        "inal",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The central family in this novel lives next door to Levaque and Bouteloup, whose morning rituals they regularly hear. That family receives charity from the shopkeeper Maigrat, who trades food and money": {
+    "guess": "Germinal (novel)",
+    "confidence": [
+      [
+        "G",
+        -0.011087202
+      ],
+      [
+        "erm",
+        0.0
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " (",
+        -0.018186001
+      ],
+      [
+        "nov",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ],
+      [
+        ")",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The central family in this novel lives next door to Levaque and Bouteloup, whose morning rituals they regularly hear. That family receives charity from the shopkeeper Maigrat, who trades food and money for a caress from the eldest daughter. The protagonist gains a new ideology from Pluchart, which he": {
+    "guess": "Germinal",
+    "confidence": [
+      [
+        "G",
+        -0.00062570296
+      ],
+      [
+        "erm",
+        -3.5313153e-06
+      ],
+      [
+        "inal",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The central family in this novel lives next door to Levaque and Bouteloup, whose morning rituals they regularly hear. That family receives charity from the shopkeeper Maigrat, who trades food and money for a caress from the eldest daughter. The protagonist gains a new ideology from Pluchart, which he discusses with Souvarine at Rasseneur's. Having come from Marchienne to Montsou, he befriends \"Bonnemort\"": {
+    "guess": "Germinal",
+    "confidence": [
+      [
+        "G",
+        -0.0003278368
+      ],
+      [
+        "erm",
+        0.0
+      ],
+      [
+        "inal",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The central family in this novel lives next door to Levaque and Bouteloup, whose morning rituals they regularly hear. That family receives charity from the shopkeeper Maigrat, who trades food and money for a caress from the eldest daughter. The protagonist gains a new ideology from Pluchart, which he discusses with Souvarine at Rasseneur's. Having come from Marchienne to Montsou, he befriends \"Bonnemort\" and eventually kills Chaval, his rival for the affections of Catherine Maheu. An avowed socialist,": {
+    "guess": "Germinal",
+    "confidence": [
+      [
+        "G",
+        -0.00076996326
+      ],
+      [
+        "erm",
+        -1.9361265e-07
+      ],
+      [
+        "inal",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The central family in this novel lives next door to Levaque and Bouteloup, whose morning rituals they regularly hear. That family receives charity from the shopkeeper Maigrat, who trades food and money for a caress from the eldest daughter. The protagonist gains a new ideology from Pluchart, which he discusses with Souvarine at Rasseneur's. Having come from Marchienne to Montsou, he befriends \"Bonnemort\" and eventually kills Chaval, his rival for the affections of Catherine Maheu. An avowed socialist, he leads a strike against the local mine that results in a massacre. For 10 points, name this": {
+    "guess": "Germinal (novel)",
+    "confidence": [
+      [
+        "G",
+        -0.0005551784
+      ],
+      [
+        "erm",
+        0.0
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " (",
+        -0.06203311
+      ],
+      [
+        "nov",
+        -3.1281633e-07
+      ],
+      [
+        "el",
+        0.0
+      ],
+      [
+        ")",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The central family in this novel lives next door to Levaque and Bouteloup, whose morning rituals they regularly hear. That family receives charity from the shopkeeper Maigrat, who trades food and money for a caress from the eldest daughter. The protagonist gains a new ideology from Pluchart, which he discusses with Souvarine at Rasseneur's. Having come from Marchienne to Montsou, he befriends \"Bonnemort\" and eventually kills Chaval, his rival for the affections of Catherine Maheu. An avowed socialist, he leads a strike against the local mine that results in a massacre. For 10 points, name this novel about Etienne Lantier, written by Emile Zola.": {
+    "guess": "Germinal (novel)",
+    "confidence": [
+      [
+        "G",
+        -0.00018292182
+      ],
+      [
+        "erm",
+        0.0
+      ],
+      [
+        "inal",
+        0.0
+      ],
+      [
+        " (",
+        -0.07908289
+      ],
+      [
+        "nov",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ],
+      [
+        ")",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Centering around a wealthy family, the first three acts of this play were originally performed at Versailles.": {
+    "guess": "The Misanthrope",
+    "confidence": [
+      [
+        "The",
+        -0.20470141
+      ],
+      [
+        " M",
+        -0.91736054
+      ],
+      [
+        "isan",
+        -5.9153886e-06
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        "rope",
+        0.0
+      ]
+    ]
+  },
+  "Centering around a wealthy family, the first three acts of this play were originally performed at Versailles. The title character is at the center of a web of controversy, agreeing to marry Mariane while": {
+    "guess": "Tartuffe",
+    "confidence": [
+      [
+        "T",
+        -0.20350426
+      ],
+      [
+        "art",
+        -9.0883464e-07
+      ],
+      [
+        "uff",
+        -1.9361265e-07
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "Centering around a wealthy family, the first three acts of this play were originally performed at Versailles. The title character is at the center of a web of controversy, agreeing to marry Mariane while making a pass at her mother Elmire. Though Mariane's brother Damis attempts to convince their father": {
+    "guess": "Tartuffe",
+    "confidence": [
+      [
+        "T",
+        -0.00033891908
+      ],
+      [
+        "art",
+        0.0
+      ],
+      [
+        "uff",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "Centering around a wealthy family, the first three acts of this play were originally performed at Versailles. The title character is at the center of a web of controversy, agreeing to marry Mariane while making a pass at her mother Elmire. Though Mariane's brother Damis attempts to convince their father Orgon of the title character's misdeeds, he does not believe him at first. FTP, identify this Moliere": {
+    "guess": "Tartuffe",
+    "confidence": [
+      [
+        "T",
+        -0.0077957753
+      ],
+      [
+        "art",
+        0.0
+      ],
+      [
+        "uff",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "Centering around a wealthy family, the first three acts of this play were originally performed at Versailles. The title character is at the center of a web of controversy, agreeing to marry Mariane while making a pass at her mother Elmire. Though Mariane's brother Damis attempts to convince their father Orgon of the title character's misdeeds, he does not believe him at first. FTP, identify this Moliere play named for the deceitful holy man.": {
+    "guess": "Tartuffe",
+    "confidence": [
+      [
+        "T",
+        -0.0013296448
+      ],
+      [
+        "art",
+        0.0
+      ],
+      [
+        "uff",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "Its central basin is known as \"the cuvette,\" and its navigable portion begins at Kisangani. It receives": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -3.6431527e-05
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Its central basin is known as \"the cuvette,\" and its navigable portion begins at Kisangani. It receives the Luapula and Lualaba Rivers, from whose effluence at Boyoma Falls this river receives its name.": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.00019293126
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -6.9882217e-06
+      ]
+    ]
+  },
+  "Its central basin is known as \"the cuvette,\" and its navigable portion begins at Kisangani. It receives the Luapula and Lualaba Rivers, from whose effluence at Boyoma Falls this river receives its name. Further downstream, following the addition of the Ubangi River, is the Pool Malebo, a widening of": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -9.972867e-05
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "Its central basin is known as \"the cuvette,\" and its navigable portion begins at Kisangani. It receives the Luapula and Lualaba Rivers, from whose effluence at Boyoma Falls this river receives its name. Further downstream, following the addition of the Ubangi River, is the Pool Malebo, a widening of this river near two national capitals shortly before it tumbles over the Livingstone Falls on its way": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.002486477
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Its central basin is known as \"the cuvette,\" and its navigable portion begins at Kisangani. It receives the Luapula and Lualaba Rivers, from whose effluence at Boyoma Falls this river receives its name. Further downstream, following the addition of the Ubangi River, is the Pool Malebo, a widening of this river near two national capitals shortly before it tumbles over the Livingstone Falls on its way to the Atlantic Ocean. For 10 points, name this second longest river in Africa, which forms part of": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -0.0025747095
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "Its central basin is known as \"the cuvette,\" and its navigable portion begins at Kisangani. It receives the Luapula and Lualaba Rivers, from whose effluence at Boyoma Falls this river receives its name. Further downstream, following the addition of the Ubangi River, is the Pool Malebo, a widening of this river near two national capitals shortly before it tumbles over the Livingstone Falls on its way to the Atlantic Ocean. For 10 points, name this second longest river in Africa, which forms part of the boundary between a namesake \"Republic\" and \"Democratic Republic.\"": {
+    "guess": "Congo River",
+    "confidence": [
+      [
+        "C",
+        -7.7318386e-05
+      ],
+      [
+        "ongo",
+        0.0
+      ],
+      [
+        " River",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The central executive controls this system and uses the phonological loop and the visuospacial buffer,": {
+    "guess": "Working memory",
+    "confidence": [
+      [
+        "Working",
+        -0.03812056
+      ],
+      [
+        " memory",
+        -8.923875e-05
+      ]
+    ]
+  },
+  "The central executive controls this system and uses the phonological loop and the visuospacial buffer, and all of these parts can operate partially independent of each other to conserve resources. It allows": {
+    "guess": "Working memory",
+    "confidence": [
+      [
+        "Working",
+        -0.014302649
+      ],
+      [
+        " memory",
+        -7.672237e-05
+      ]
+    ]
+  },
+  "The central executive controls this system and uses the phonological loop and the visuospacial buffer, and all of these parts can operate partially independent of each other to conserve resources. It allows for rehearsal in a process similar to overt speech and hearing. The system shows evidence of a": {
+    "guess": "Working memory",
+    "confidence": [
+      [
+        "Working",
+        -0.0629242
+      ],
+      [
+        " memory",
+        -0.00040183295
+      ]
+    ]
+  },
+  "The central executive controls this system and uses the phonological loop and the visuospacial buffer, and all of these parts can operate partially independent of each other to conserve resources. It allows for rehearsal in a process similar to overt speech and hearing. The system shows evidence of a word length effect and also allows for the recency effect on the serial position curve. For ten points,": {
+    "guess": "Working memory",
+    "confidence": [
+      [
+        "Working",
+        -0.0017449157
+      ],
+      [
+        " memory",
+        -0.00033629662
+      ]
+    ]
+  },
+  "The central executive controls this system and uses the phonological loop and the visuospacial buffer, and all of these parts can operate partially independent of each other to conserve resources. It allows for rehearsal in a process similar to overt speech and hearing. The system shows evidence of a word length effect and also allows for the recency effect on the serial position curve. For ten points, name this system capable of holding seven plus or minus two chunks.": {
+    "guess": "Working memory",
+    "confidence": [
+      [
+        "Working",
+        -0.08970182
+      ],
+      [
+        " memory",
+        -0.00043162284
+      ]
+    ]
+  },
+  "Below the central chandelier in this painting are the artist's signature and a declaration in Latin that": {
+    "guess": "Arnolfini Portrait",
+    "confidence": [
+      [
+        "Arn",
+        -0.00017135908
+      ],
+      [
+        "olf",
+        0.0
+      ],
+      [
+        "ini",
+        0.0
+      ],
+      [
+        " Portrait",
+        0.0
+      ]
+    ]
+  },
+  "Below the central chandelier in this painting are the artist's signature and a declaration in Latin that the artist was there to witness the titular event, as shown by the images of himself and a priest": {
+    "guess": "Arnolfini Portrait",
+    "confidence": [
+      [
+        "Arn",
+        -0.014292089
+      ],
+      [
+        "olf",
+        -1.9361265e-07
+      ],
+      [
+        "ini",
+        0.0
+      ],
+      [
+        " Portrait",
+        -3.0545007e-06
+      ]
+    ]
+  },
+  "Below the central chandelier in this painting are the artist's signature and a declaration in Latin that the artist was there to witness the titular event, as shown by the images of himself and a priest reflected in a convex mirror below. A small terrier stands between the two main figures, a man in": {
+    "guess": "Arnolfini Portrait",
+    "confidence": [
+      [
+        "Arn",
+        -9.066919e-05
+      ],
+      [
+        "olf",
+        0.0
+      ],
+      [
+        "ini",
+        0.0
+      ],
+      [
+        " Portrait",
+        0.0
+      ]
+    ]
+  },
+  "Below the central chandelier in this painting are the artist's signature and a declaration in Latin that the artist was there to witness the titular event, as shown by the images of himself and a priest reflected in a convex mirror below. A small terrier stands between the two main figures, a man in a black garment and a large hat and a woman in a white veil and green dress, who looks as if she may": {
+    "guess": "Arnolfini Portrait",
+    "confidence": [
+      [
+        "Arn",
+        -0.005202213
+      ],
+      [
+        "olf",
+        0.0
+      ],
+      [
+        "ini",
+        0.0
+      ],
+      [
+        " Portrait",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Below the central chandelier in this painting are the artist's signature and a declaration in Latin that the artist was there to witness the titular event, as shown by the images of himself and a priest reflected in a convex mirror below. A small terrier stands between the two main figures, a man in a black garment and a large hat and a woman in a white veil and green dress, who looks as if she may be pregnant. For 10 points, name this Jan van Eyck painting showing the nuptials of an Italian couple.": {
+    "guess": "Arnolfini Portrait",
+    "confidence": [
+      [
+        "Arn",
+        -7.612634e-05
+      ],
+      [
+        "olf",
+        0.0
+      ],
+      [
+        "ini",
+        0.0
+      ],
+      [
+        " Portrait",
+        0.0
+      ]
+    ]
+  },
+  "The central character of this novel is comforted for a time by the ghost of a Native American woman named": {
+    "guess": "Beloved",
+    "confidence": [
+      [
+        "Bel",
+        -0.187519
+      ],
+      [
+        "oved",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The central character of this novel is comforted for a time by the ghost of a Native American woman named Morning Light. In one scene, a bunch of chickens disappear into a hole in the ground after attacking": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.2502184
+      ]
+    ]
+  },
+  "The central character of this novel is comforted for a time by the ghost of a Native American woman named Morning Light. In one scene, a bunch of chickens disappear into a hole in the ground after attacking each other so furiously that they produce a tornado. The kindly Dr. John Brown rescues the central": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.21193446
+      ]
+    ]
+  },
+  "The central character of this novel is comforted for a time by the ghost of a Native American woman named Morning Light. In one scene, a bunch of chickens disappear into a hole in the ground after attacking each other so furiously that they produce a tornado. The kindly Dr. John Brown rescues the central character from a dovecote on the central ranch after she has a breakdown. The central character's": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.038544703
+      ]
+    ]
+  },
+  "The central character of this novel is comforted for a time by the ghost of a Native American woman named Morning Light. In one scene, a bunch of chickens disappear into a hole in the ground after attacking each other so furiously that they produce a tornado. The kindly Dr. John Brown rescues the central character from a dovecote on the central ranch after she has a breakdown. The central character's older sister Gertrudis flees from a shower and is swept up naked onto horseback by a soldier after": {
+    "guess": "Like Water for Chocolate",
+    "confidence": [
+      [
+        "Like",
+        -0.0020485516
+      ],
+      [
+        " Water",
+        0.0
+      ],
+      [
+        " for",
+        -7.9418505e-06
+      ],
+      [
+        " Chocolate",
+        0.0
+      ]
+    ]
+  },
+  "The central character of this novel is comforted for a time by the ghost of a Native American woman named Morning Light. In one scene, a bunch of chickens disappear into a hole in the ground after attacking each other so furiously that they produce a tornado. The kindly Dr. John Brown rescues the central character from a dovecote on the central ranch after she has a breakdown. The central character's older sister Gertrudis flees from a shower and is swept up naked onto horseback by a soldier after eating a dish of quail in rose-petal sauce. A family tradition prohibiting the youngest de la Garza": {
+    "guess": "Like Water for Chocolate",
+    "confidence": [
+      [
+        "Like",
+        -0.024755683
+      ],
+      [
+        " Water",
+        0.0
+      ],
+      [
+        " for",
+        -0.061967686
+      ],
+      [
+        " Chocolate",
+        0.0
+      ]
+    ]
+  },
+  "The central character of this novel is comforted for a time by the ghost of a Native American woman named Morning Light. In one scene, a bunch of chickens disappear into a hole in the ground after attacking each other so furiously that they produce a tornado. The kindly Dr. John Brown rescues the central character from a dovecote on the central ranch after she has a breakdown. The central character's older sister Gertrudis flees from a shower and is swept up naked onto horseback by a soldier after eating a dish of quail in rose-petal sauce. A family tradition prohibiting the youngest de la Garza daughter from marrying keeps Pedro Muzquiz and Tita apart in, FTP, this novel whose chapters begin": {
+    "guess": "Like Water for Chocolate",
+    "confidence": [
+      [
+        "Like",
+        -0.0058748717
+      ],
+      [
+        " Water",
+        0.0
+      ],
+      [
+        " for",
+        -0.061967913
+      ],
+      [
+        " Chocolate",
+        0.0
+      ]
+    ]
+  },
+  "The central character of this novel is comforted for a time by the ghost of a Native American woman named Morning Light. In one scene, a bunch of chickens disappear into a hole in the ground after attacking each other so furiously that they produce a tornado. The kindly Dr. John Brown rescues the central character from a dovecote on the central ranch after she has a breakdown. The central character's older sister Gertrudis flees from a shower and is swept up naked onto horseback by a soldier after eating a dish of quail in rose-petal sauce. A family tradition prohibiting the youngest de la Garza daughter from marrying keeps Pedro Muzquiz and Tita apart in, FTP, this novel whose chapters begin with recipes, written by Laura Esquivel.": {
+    "guess": "Like Water for Chocolate",
+    "confidence": [
+      [
+        "Like",
+        -0.00034642892
+      ],
+      [
+        " Water",
+        0.0
+      ],
+      [
+        " for",
+        -0.5759396
+      ],
+      [
+        " Chocolate",
+        0.0
+      ]
+    ]
+  },
+  "The central character of this novel names a bra marketed as a \"swing top\" by Elaine for J. Peterman in": {
+    "guess": "The Great Gatsby",
+    "confidence": [
+      [
+        "The",
+        -0.13611795
+      ],
+      [
+        " Great",
+        -0.027007768
+      ],
+      [
+        " Gatsby",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "The central character of this novel names a bra marketed as a \"swing top\" by Elaine for J. Peterman in a Seinfeld episode. In an episode of South Park, Timmy is diagnosed with ADD after being read this": {
+    "guess": "A Farewell to Arms",
+    "confidence": [
+      [
+        "A",
+        -0.73234767
+      ],
+      [
+        " Fare",
+        -0.06838815
+      ],
+      [
+        "well",
+        0.0
+      ],
+      [
+        " to",
+        -1.4855664e-05
+      ],
+      [
+        " Arms",
+        0.0
+      ]
+    ]
+  },
+  "The central character of this novel names a bra marketed as a \"swing top\" by Elaine for J. Peterman in a Seinfeld episode. In an episode of South Park, Timmy is diagnosed with ADD after being read this novel and failing to remember what type of car the title character drives. Its most notable film adaptation": {
+    "guess": "The Great Gatsby (2013 film)",
+    "confidence": [
+      [
+        "The",
+        -0.038261227
+      ],
+      [
+        " Great",
+        -1.7432603e-06
+      ],
+      [
+        " Gatsby",
+        0.0
+      ],
+      [
+        " (",
+        -0.2850371
+      ],
+      [
+        "201",
+        -0.001194156
+      ],
+      [
+        "3",
+        0.0
+      ],
+      [
+        " film",
+        -0.0011934409
+      ],
+      [
+        ")",
+        -0.00042304752
+      ]
+    ]
+  },
+  "The central character of this novel names a bra marketed as a \"swing top\" by Elaine for J. Peterman in a Seinfeld episode. In an episode of South Park, Timmy is diagnosed with ADD after being read this novel and failing to remember what type of car the title character drives. Its most notable film adaptation from 1974 was narrated by Sam Waterston and stars Robert Redford opposite Mia Farrow playing": {
+    "guess": "The Great Gatsby",
+    "confidence": [
+      [
+        "The",
+        -0.0070191724
+      ],
+      [
+        " Great",
+        -7.89631e-07
+      ],
+      [
+        " Gatsby",
+        0.0
+      ]
+    ]
+  },
+  "The central character of this novel names a bra marketed as a \"swing top\" by Elaine for J. Peterman in a Seinfeld episode. In an episode of South Park, Timmy is diagnosed with ADD after being read this novel and failing to remember what type of car the title character drives. Its most notable film adaptation from 1974 was narrated by Sam Waterston and stars Robert Redford opposite Mia Farrow playing his love interest Daisy. Narrated by Nick Carraway, For 10 points, name this novel written by F. Scott": {
+    "guess": "The Great Gatsby",
+    "confidence": [
+      [
+        "The",
+        -0.20142114
+      ],
+      [
+        " Great",
+        0.0
+      ],
+      [
+        " Gatsby",
+        0.0
+      ]
+    ]
+  },
+  "The central character of this novel names a bra marketed as a \"swing top\" by Elaine for J. Peterman in a Seinfeld episode. In an episode of South Park, Timmy is diagnosed with ADD after being read this novel and failing to remember what type of car the title character drives. Its most notable film adaptation from 1974 was narrated by Sam Waterston and stars Robert Redford opposite Mia Farrow playing his love interest Daisy. Narrated by Nick Carraway, For 10 points, name this novel written by F. Scott Fitzgerald.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.029752806
+      ]
+    ]
+  },
+  "The central facility of this program was visited by Jesse Croach and Ulysses Stabler, and that facility's": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0752342
+      ]
+    ]
+  },
+  "The central facility of this program was visited by Jesse Croach and Ulysses Stabler, and that facility's construction was overseen by Manes Pratt. An attempt to acquire material for this program resulted": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9097877
+      ]
+    ]
+  },
+  "The central facility of this program was visited by Jesse Croach and Ulysses Stabler, and that facility's construction was overseen by Manes Pratt. An attempt to acquire material for this program resulted in the Plumbat affair, and it was headed by Ernest Bergmann. Its existence was revealed in an interview": {
+    "guess": "Israeli nuclear program",
+    "confidence": [
+      [
+        "Isra",
+        -0.26736495
+      ],
+      [
+        "eli",
+        0.0
+      ],
+      [
+        " nuclear",
+        -0.001318812
+      ],
+      [
+        " program",
+        -0.004761073
+      ]
+    ]
+  },
+  "The central facility of this program was visited by Jesse Croach and Ulysses Stabler, and that facility's construction was overseen by Manes Pratt. An attempt to acquire material for this program resulted in the Plumbat affair, and it was headed by Ernest Bergmann. Its existence was revealed in an interview with Peter Hounam, after which the interviewee was lured to Italy by Cheryl Bentov and captured.": {
+    "guess": "Nuclear program of Israel",
+    "confidence": [
+      [
+        "N",
+        -0.7438925
+      ],
+      [
+        "uclear",
+        -9.610702e-06
+      ],
+      [
+        " program",
+        -0.35372686
+      ],
+      [
+        " of",
+        -4.3202e-07
+      ],
+      [
+        " Israel",
+        -6.6232446e-05
+      ]
+    ]
+  },
+  "The central facility of this program was visited by Jesse Croach and Ulysses Stabler, and that facility's construction was overseen by Manes Pratt. An attempt to acquire material for this program resulted in the Plumbat affair, and it was headed by Ernest Bergmann. Its existence was revealed in an interview with Peter Hounam, after which the interviewee was lured to Italy by Cheryl Bentov and captured. It is headquartered at Dimona and was revealed by (*) Mordechai Vanunu. Its host nation maintains": {
+    "guess": "Nuclear program of Israel",
+    "confidence": [
+      [
+        "N",
+        -0.29433653
+      ],
+      [
+        "uclear",
+        -1.1041146e-05
+      ],
+      [
+        " program",
+        -0.25374767
+      ],
+      [
+        " of",
+        -6.704273e-07
+      ],
+      [
+        " Israel",
+        -1.0325924e-05
+      ]
+    ]
+  },
+  "The central facility of this program was visited by Jesse Croach and Ulysses Stabler, and that facility's construction was overseen by Manes Pratt. An attempt to acquire material for this program resulted in the Plumbat affair, and it was headed by Ernest Bergmann. Its existence was revealed in an interview with Peter Hounam, after which the interviewee was lured to Italy by Cheryl Bentov and captured. It is headquartered at Dimona and was revealed by (*) Mordechai Vanunu. Its host nation maintains a deliberate policy of ambiguity regarding it, and it would probably use the Jericho missile as a": {
+    "guess": "Nuclear weapons and Israel",
+    "confidence": [
+      [
+        "N",
+        -0.2041487
+      ],
+      [
+        "uclear",
+        -8.180258e-06
+      ],
+      [
+        " weapons",
+        -0.034212068
+      ],
+      [
+        " and",
+        -0.0437294
+      ],
+      [
+        " Israel",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "The central facility of this program was visited by Jesse Croach and Ulysses Stabler, and that facility's construction was overseen by Manes Pratt. An attempt to acquire material for this program resulted in the Plumbat affair, and it was headed by Ernest Bergmann. Its existence was revealed in an interview with Peter Hounam, after which the interviewee was lured to Italy by Cheryl Bentov and captured. It is headquartered at Dimona and was revealed by (*) Mordechai Vanunu. Its host nation maintains a deliberate policy of ambiguity regarding it, and it would probably use the Jericho missile as a delivery system. For 10 points, name this program whose creation was probably ordered by Shimon Peres": {
+    "guess": "Israeli nuclear program",
+    "confidence": [
+      [
+        "Isra",
+        -0.59535617
+      ],
+      [
+        "eli",
+        0.0
+      ],
+      [
+        " nuclear",
+        -0.0015370006
+      ],
+      [
+        " program",
+        -0.038184825
+      ]
+    ]
+  },
+  "The central facility of this program was visited by Jesse Croach and Ulysses Stabler, and that facility's construction was overseen by Manes Pratt. An attempt to acquire material for this program resulted in the Plumbat affair, and it was headed by Ernest Bergmann. Its existence was revealed in an interview with Peter Hounam, after which the interviewee was lured to Italy by Cheryl Bentov and captured. It is headquartered at Dimona and was revealed by (*) Mordechai Vanunu. Its host nation maintains a deliberate policy of ambiguity regarding it, and it would probably use the Jericho missile as a delivery system. For 10 points, name this program whose creation was probably ordered by Shimon Peres and has around one hundred warheads, a program that has developed weapons of mass destruction in": {
+    "guess": "Israeli nuclear program",
+    "confidence": [
+      [
+        "Isra",
+        -0.373511
+      ],
+      [
+        "eli",
+        0.0
+      ],
+      [
+        " nuclear",
+        -0.0015095012
+      ],
+      [
+        " program",
+        -0.03818711
+      ]
+    ]
+  },
+  "The central facility of this program was visited by Jesse Croach and Ulysses Stabler, and that facility's construction was overseen by Manes Pratt. An attempt to acquire material for this program resulted in the Plumbat affair, and it was headed by Ernest Bergmann. Its existence was revealed in an interview with Peter Hounam, after which the interviewee was lured to Italy by Cheryl Bentov and captured. It is headquartered at Dimona and was revealed by (*) Mordechai Vanunu. Its host nation maintains a deliberate policy of ambiguity regarding it, and it would probably use the Jericho missile as a delivery system. For 10 points, name this program whose creation was probably ordered by Shimon Peres and has around one hundred warheads, a program that has developed weapons of mass destruction in a non-Arab Middle Eastern nation.": {
+    "guess": "Israeli nuclear program",
+    "confidence": [
+      [
+        "Isra",
+        -0.48916024
+      ],
+      [
+        "eli",
+        -3.1281633e-07
+      ],
+      [
+        " nuclear",
+        -0.0025307143
+      ],
+      [
+        " program",
+        -0.020661
+      ]
+    ]
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "CAAX is a recognition motif for an enzyme that adds this type of molecule to Ras and other proteins.": {
+    "guess": "Prenyl group",
+    "confidence": [
+      [
+        "Pren",
+        -0.15610279
+      ],
+      [
+        "yl",
+        0.0
+      ],
+      [
+        " group",
+        -0.134612
+      ]
+    ]
+  },
+  "CAAX is a recognition motif for an enzyme that adds this type of molecule to Ras and other proteins.  The cyclization of these compounds involves enzymes with an \"aspartate-rich\" DXXDD motif that produce": {
+    "guess": "Terpenes",
+    "confidence": [
+      [
+        "Ter",
+        -0.7928711
+      ],
+      [
+        "pen",
+        -0.38687104
+      ],
+      [
+        "es",
+        -0.3350997
+      ]
+    ]
+  },
+  "CAAX is a recognition motif for an enzyme that adds this type of molecule to Ras and other proteins.  The cyclization of these compounds involves enzymes with an \"aspartate-rich\" DXXDD motif that produce intermediates like bornyl diphosphate.  Biosynthesis of some of these compounds, such as artemesinin,": {
+    "guess": "Terpene",
+    "confidence": [
+      [
+        "Ter",
+        -0.014759324
+      ],
+      [
+        "p",
+        -0.10020667
+      ],
+      [
+        "ene",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "CAAX is a recognition motif for an enzyme that adds this type of molecule to Ras and other proteins.  The cyclization of these compounds involves enzymes with an \"aspartate-rich\" DXXDD motif that produce intermediates like bornyl diphosphate.  Biosynthesis of some of these compounds, such as artemesinin, takes place in specialized secretory structures like glandular trichomes, where a plastidial type": {
+    "guess": "Terpene",
+    "confidence": [
+      [
+        "Ter",
+        -0.01871591
+      ],
+      [
+        "p",
+        -0.25192907
+      ],
+      [
+        "ene",
+        0.0
+      ]
+    ]
+  },
+  "CAAX is a recognition motif for an enzyme that adds this type of molecule to Ras and other proteins.  The cyclization of these compounds involves enzymes with an \"aspartate-rich\" DXXDD motif that produce intermediates like bornyl diphosphate.  Biosynthesis of some of these compounds, such as artemesinin, takes place in specialized secretory structures like glandular trichomes, where a plastidial type of synthesis is employed.  Enzymes important in their production include DXR and HMGR, and these": {
+    "guess": "Terpenes",
+    "confidence": [
+      [
+        "Ter",
+        -0.048962258
+      ],
+      [
+        "pen",
+        -0.011047935
+      ],
+      [
+        "es",
+        -0.012533665
+      ]
+    ]
+  },
+  "CAAX is a recognition motif for an enzyme that adds this type of molecule to Ras and other proteins.  The cyclization of these compounds involves enzymes with an \"aspartate-rich\" DXXDD motif that produce intermediates like bornyl diphosphate.  Biosynthesis of some of these compounds, such as artemesinin, takes place in specialized secretory structures like glandular trichomes, where a plastidial type of synthesis is employed.  Enzymes important in their production include DXR and HMGR, and these compounds are derived from two isomeric precursors, IPP and DMAPP, which can be generated from either": {
+    "guess": "Terpene",
+    "confidence": [
+      [
+        "Ter",
+        -0.020824004
+      ],
+      [
+        "p",
+        -0.6931472
+      ],
+      [
+        "ene",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "CAAX is a recognition motif for an enzyme that adds this type of molecule to Ras and other proteins.  The cyclization of these compounds involves enzymes with an \"aspartate-rich\" DXXDD motif that produce intermediates like bornyl diphosphate.  Biosynthesis of some of these compounds, such as artemesinin, takes place in specialized secretory structures like glandular trichomes, where a plastidial type of synthesis is employed.  Enzymes important in their production include DXR and HMGR, and these compounds are derived from two isomeric precursors, IPP and DMAPP, which can be generated from either 2-C-methyl-D-erythritol-4-phosphate or mevalonic acid.  Examples of this class of compounds include": {
+    "guess": "Terpenoid",
+    "confidence": [
+      [
+        "Ter",
+        -0.005608304
+      ],
+      [
+        "pen",
+        -0.5759394
+      ],
+      [
+        "oid",
+        -0.20690733
+      ]
+    ]
+  },
+  "CAAX is a recognition motif for an enzyme that adds this type of molecule to Ras and other proteins.  The cyclization of these compounds involves enzymes with an \"aspartate-rich\" DXXDD motif that produce intermediates like bornyl diphosphate.  Biosynthesis of some of these compounds, such as artemesinin, takes place in specialized secretory structures like glandular trichomes, where a plastidial type of synthesis is employed.  Enzymes important in their production include DXR and HMGR, and these compounds are derived from two isomeric precursors, IPP and DMAPP, which can be generated from either 2-C-methyl-D-erythritol-4-phosphate or mevalonic acid.  Examples of this class of compounds include taxanes and giberellins, as well as squalene, testosterone, and other steroids.  For 10 points, name": {
+    "guess": "Terpenoid",
+    "confidence": [
+      [
+        "Ter",
+        -0.0074644047
+      ],
+      [
+        "pen",
+        -0.38687104
+      ],
+      [
+        "oid",
+        -0.14293186
+      ]
+    ]
+  },
+  "CAAX is a recognition motif for an enzyme that adds this type of molecule to Ras and other proteins.  The cyclization of these compounds involves enzymes with an \"aspartate-rich\" DXXDD motif that produce intermediates like bornyl diphosphate.  Biosynthesis of some of these compounds, such as artemesinin, takes place in specialized secretory structures like glandular trichomes, where a plastidial type of synthesis is employed.  Enzymes important in their production include DXR and HMGR, and these compounds are derived from two isomeric precursors, IPP and DMAPP, which can be generated from either 2-C-methyl-D-erythritol-4-phosphate or mevalonic acid.  Examples of this class of compounds include taxanes and giberellins, as well as squalene, testosterone, and other steroids.  For 10 points, name this class of organic molecules which are made of subunits of isoprene.": {
+    "guess": "Terpenes",
+    "confidence": [
+      [
+        "Ter",
+        -0.062340055
+      ],
+      [
+        "pen",
+        -0.38687104
+      ],
+      [
+        "es",
+        -0.015081575
+      ]
+    ]
+  },
+  "Cabanel's Birth of Venus, shown near the original at the Musee d'Orsay, is often taken as a point of": {
+    "guess": "Academic Art",
+    "confidence": [
+      [
+        "Academic",
+        -0.13399957
+      ],
+      [
+        " Art",
+        -0.053636268
+      ]
+    ]
+  },
+  "Cabanel's Birth of Venus, shown near the original at the Musee d'Orsay, is often taken as a point of departure for discussing this work. A second version painted in 1873 moves the title figure to the background": {
+    "guess": "Olympia",
+    "confidence": [
+      [
+        "Olymp",
+        -0.12371922
+      ],
+      [
+        "ia",
+        0.0
+      ]
+    ]
+  },
+  "Cabanel's Birth of Venus, shown near the original at the Musee d'Orsay, is often taken as a point of departure for discussing this work. A second version painted in 1873 moves the title figure to the background as a gentleman with a cane looks on and a black servant hurries to cover her with a white": {
+    "guess": "Olympia",
+    "confidence": [
+      [
+        "Olymp",
+        -0.026225403
+      ],
+      [
+        "ia",
+        0.0
+      ]
+    ]
+  },
+  "Cabanel's Birth of Venus, shown near the original at the Musee d'Orsay, is often taken as a point of departure for discussing this work. A second version painted in 1873 moves the title figure to the background as a gentleman with a cane looks on and a black servant hurries to cover her with a white sheet. That \"Modern\" version by Cezanne is in sharp contrast to the original, where the title woman": {
+    "guess": "Olympia",
+    "confidence": [
+      [
+        "Olymp",
+        -0.018452272
+      ],
+      [
+        "ia",
+        0.0
+      ]
+    ]
+  },
+  "Cabanel's Birth of Venus, shown near the original at the Musee d'Orsay, is often taken as a point of departure for discussing this work. A second version painted in 1873 moves the title figure to the background as a gentleman with a cane looks on and a black servant hurries to cover her with a white sheet. That \"Modern\" version by Cezanne is in sharp contrast to the original, where the title woman wears a flower behind her left ear, a black string around her neck, and little else, and brazenly stares": {
+    "guess": "Olympia",
+    "confidence": [
+      [
+        "Olymp",
+        -0.40855703
+      ],
+      [
+        "ia",
+        0.0
+      ]
+    ]
+  },
+  "Cabanel's Birth of Venus, shown near the original at the Musee d'Orsay, is often taken as a point of departure for discussing this work. A second version painted in 1873 moves the title figure to the background as a gentleman with a cane looks on and a black servant hurries to cover her with a white sheet. That \"Modern\" version by Cezanne is in sharp contrast to the original, where the title woman wears a flower behind her left ear, a black string around her neck, and little else, and brazenly stares out of the canvas. FTP identify this nude which caused an uproar at the Salon of 1865, a work by": {
+    "guess": "Olympia",
+    "confidence": [
+      [
+        "Olymp",
+        -0.043524902
+      ],
+      [
+        "ia",
+        0.0
+      ]
+    ]
+  },
+  "Cabanel's Birth of Venus, shown near the original at the Musee d'Orsay, is often taken as a point of departure for discussing this work. A second version painted in 1873 moves the title figure to the background as a gentleman with a cane looks on and a black servant hurries to cover her with a white sheet. That \"Modern\" version by Cezanne is in sharp contrast to the original, where the title woman wears a flower behind her left ear, a black string around her neck, and little else, and brazenly stares out of the canvas. FTP identify this nude which caused an uproar at the Salon of 1865, a work by Manet.": {
+    "guess": "Olympia",
+    "confidence": [
+      [
+        "Olymp",
+        -0.03018513
+      ],
+      [
+        "ia",
+        0.0
+      ]
+    ]
+  },
+  "The cabinet member John Gardner played a major role in much of its legislation. Establishing the Corporation": {
+    "guess": "Great Society",
+    "confidence": [
+      [
+        "Great",
+        -0.04906488
+      ],
+      [
+        " Society",
+        0.0
+      ]
+    ]
+  },
+  "The cabinet member John Gardner played a major role in much of its legislation. Establishing the Corporation for Public Broadcasting and the National Endowment for the Arts, it also included the Upward": {
+    "guess": "Great Society",
+    "confidence": [
+      [
+        "Great",
+        -1.11603495e-05
+      ],
+      [
+        " Society",
+        0.0
+      ]
+    ]
+  },
+  "The cabinet member John Gardner played a major role in much of its legislation. Establishing the Corporation for Public Broadcasting and the National Endowment for the Arts, it also included the Upward Bound and Model Cities programs. Public education funding was increased heavily, and the Head Start": {
+    "guess": "Great Society",
+    "confidence": [
+      [
+        "Great",
+        -2.0219828e-05
+      ],
+      [
+        " Society",
+        0.0
+      ]
+    ]
+  },
+  "The cabinet member John Gardner played a major role in much of its legislation. Establishing the Corporation for Public Broadcasting and the National Endowment for the Arts, it also included the Upward Bound and Model Cities programs. Public education funding was increased heavily, and the Head Start and Medicare programs were established as a part of it. For 10 points, name this nationwide reform": {
+    "guess": "Great Society",
+    "confidence": [
+      [
+        "Great",
+        -1.9743013e-05
+      ],
+      [
+        " Society",
+        0.0
+      ]
+    ]
+  },
+  "The cabinet member John Gardner played a major role in much of its legislation. Establishing the Corporation for Public Broadcasting and the National Endowment for the Arts, it also included the Upward Bound and Model Cities programs. Public education funding was increased heavily, and the Head Start and Medicare programs were established as a part of it. For 10 points, name this nationwide reform program including the \"war on poverty\", declared in a 1965 speech by Lyndon Johnson.": {
+    "guess": "Great Society",
+    "confidence": [
+      [
+        "Great",
+        -7.016616e-05
+      ],
+      [
+        " Society",
+        0.0
+      ]
+    ]
+  },
+  "Cable 243 was sent out in the wake of an incident in which members of this religion were attacked as": {
+    "guess": "Buddhism",
+    "confidence": [
+      [
+        "B",
+        -0.00062737183
+      ],
+      [
+        "udd",
+        0.0
+      ],
+      [
+        "h",
+        -0.0002036596
+      ],
+      [
+        "ism",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "Cable 243 was sent out in the wake of an incident in which members of this religion were attacked as soldiers confiscated an intact heart. Associated Press reporter Peter Arnett was punched on the nose": {
+    "guess": "Buddhism",
+    "confidence": [
+      [
+        "B",
+        -0.003491858
+      ],
+      [
+        "udd",
+        0.0
+      ],
+      [
+        "h",
+        -0.0011703447
+      ],
+      [
+        "ism",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "Cable 243 was sent out in the wake of an incident in which members of this religion were attacked as soldiers confiscated an intact heart. Associated Press reporter Peter Arnett was punched on the nose while covering protests held by this religious group. Diplomats William Trueheart and Frederick Nolting": {
+    "guess": "Buddhism",
+    "confidence": [
+      [
+        "B",
+        -0.0019061435
+      ],
+      [
+        "udd",
+        0.0
+      ],
+      [
+        "h",
+        -0.00012344286
+      ],
+      [
+        "ism",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Cable 243 was sent out in the wake of an incident in which members of this religion were attacked as soldiers confiscated an intact heart. Associated Press reporter Peter Arnett was punched on the nose while covering protests held by this religious group. Diplomats William Trueheart and Frederick Nolting disagreed about what to do about the mistreatment of people of this religion. Several members of": {
+    "guess": "Buddhism",
+    "confidence": [
+      [
+        "B",
+        -0.014484428
+      ],
+      [
+        "udd",
+        0.0
+      ],
+      [
+        "h",
+        -0.00055327115
+      ],
+      [
+        "ism",
+        -2.7729659e-05
+      ]
+    ]
+  },
+  "Cable 243 was sent out in the wake of an incident in which members of this religion were attacked as soldiers confiscated an intact heart. Associated Press reporter Peter Arnett was punched on the nose while covering protests held by this religious group. Diplomats William Trueheart and Frederick Nolting disagreed about what to do about the mistreatment of people of this religion. Several members of this religion were shot for flying a flag with blue, yellow, red, white, and orange vertical stripes,": {
+    "guess": "Buddhism",
+    "confidence": [
+      [
+        "B",
+        -0.017418265
+      ],
+      [
+        "udd",
+        0.0
+      ],
+      [
+        "h",
+        -7.505351e-05
+      ],
+      [
+        "ism",
+        -3.5313153e-06
+      ]
+    ]
+  },
+  "Cable 243 was sent out in the wake of an incident in which members of this religion were attacked as soldiers confiscated an intact heart. Associated Press reporter Peter Arnett was punched on the nose while covering protests held by this religious group. Diplomats William Trueheart and Frederick Nolting disagreed about what to do about the mistreatment of people of this religion. Several members of this religion were shot for flying a flag with blue, yellow, red, white, and orange vertical stripes, and a sixth stripe consisting of all five of those colors, on Vesak day. The \"crisis\" named for": {
+    "guess": "Buddhist crisis",
+    "confidence": [
+      [
+        "B",
+        -0.056140598
+      ],
+      [
+        "udd",
+        -1.9361265e-07
+      ],
+      [
+        "hist",
+        -0.57594067
+      ],
+      [
+        " crisis",
+        -0.03805343
+      ]
+    ]
+  },
+  "Cable 243 was sent out in the wake of an incident in which members of this religion were attacked as soldiers confiscated an intact heart. Associated Press reporter Peter Arnett was punched on the nose while covering protests held by this religious group. Diplomats William Trueheart and Frederick Nolting disagreed about what to do about the mistreatment of people of this religion. Several members of this religion were shot for flying a flag with blue, yellow, red, white, and orange vertical stripes, and a sixth stripe consisting of all five of those colors, on Vesak day. The \"crisis\" named for this religion ended after two brothers were (*) executed at the back of an armored personnel carrier.": {
+    "guess": "Buddhist crisis",
+    "confidence": [
+      [
+        "B",
+        -0.020810228
+      ],
+      [
+        "udd",
+        -1.9361265e-07
+      ],
+      [
+        "hist",
+        -0.03804161
+      ],
+      [
+        " crisis",
+        -0.029784745
+      ]
+    ]
+  },
+  "Cable 243 was sent out in the wake of an incident in which members of this religion were attacked as soldiers confiscated an intact heart. Associated Press reporter Peter Arnett was punched on the nose while covering protests held by this religious group. Diplomats William Trueheart and Frederick Nolting disagreed about what to do about the mistreatment of people of this religion. Several members of this religion were shot for flying a flag with blue, yellow, red, white, and orange vertical stripes, and a sixth stripe consisting of all five of those colors, on Vesak day. The \"crisis\" named for this religion ended after two brothers were (*) executed at the back of an armored personnel carrier. The horrible woman Madame Nhu equated members of this religion with Communists. Malcolm Browne won": {
+    "guess": "Buddhism",
+    "confidence": [
+      [
+        "B",
+        -0.0014452338
+      ],
+      [
+        "udd",
+        0.0
+      ],
+      [
+        "h",
+        -0.0009115827
+      ],
+      [
+        "ism",
+        -7.9418505e-06
+      ]
+    ]
+  },
+  "Cable 243 was sent out in the wake of an incident in which members of this religion were attacked as soldiers confiscated an intact heart. Associated Press reporter Peter Arnett was punched on the nose while covering protests held by this religious group. Diplomats William Trueheart and Frederick Nolting disagreed about what to do about the mistreatment of people of this religion. Several members of this religion were shot for flying a flag with blue, yellow, red, white, and orange vertical stripes, and a sixth stripe consisting of all five of those colors, on Vesak day. The \"crisis\" named for this religion ended after two brothers were (*) executed at the back of an armored personnel carrier. The horrible woman Madame Nhu equated members of this religion with Communists. Malcolm Browne won a Pulitzer for his photograph of the death of a member of this religious group, Thich Quang Duc, by": {
+    "guess": "Buddhism",
+    "confidence": [
+      [
+        "B",
+        -0.00089931575
+      ],
+      [
+        "udd",
+        0.0
+      ],
+      [
+        "h",
+        -0.00015848507
+      ],
+      [
+        "ism",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "Cable 243 was sent out in the wake of an incident in which members of this religion were attacked as soldiers confiscated an intact heart. Associated Press reporter Peter Arnett was punched on the nose while covering protests held by this religious group. Diplomats William Trueheart and Frederick Nolting disagreed about what to do about the mistreatment of people of this religion. Several members of this religion were shot for flying a flag with blue, yellow, red, white, and orange vertical stripes, and a sixth stripe consisting of all five of those colors, on Vesak day. The \"crisis\" named for this religion ended after two brothers were (*) executed at the back of an armored personnel carrier. The horrible woman Madame Nhu equated members of this religion with Communists. Malcolm Browne won a Pulitzer for his photograph of the death of a member of this religious group, Thich Quang Duc, by self-immolation. For 10 points, name this persecuted majority religion in South Vietnam during the": {
+    "guess": "Buddhism",
+    "confidence": [
+      [
+        "B",
+        -0.019357672
+      ],
+      [
+        "udd",
+        -5.5122365e-07
+      ],
+      [
+        "h",
+        -0.078898266
+      ],
+      [
+        "ism",
+        -0.00033546583
+      ]
+    ]
+  },
+  "Cable 243 was sent out in the wake of an incident in which members of this religion were attacked as soldiers confiscated an intact heart. Associated Press reporter Peter Arnett was punched on the nose while covering protests held by this religious group. Diplomats William Trueheart and Frederick Nolting disagreed about what to do about the mistreatment of people of this religion. Several members of this religion were shot for flying a flag with blue, yellow, red, white, and orange vertical stripes, and a sixth stripe consisting of all five of those colors, on Vesak day. The \"crisis\" named for this religion ended after two brothers were (*) executed at the back of an armored personnel carrier. The horrible woman Madame Nhu equated members of this religion with Communists. Malcolm Browne won a Pulitzer for his photograph of the death of a member of this religious group, Thich Quang Duc, by self-immolation. For 10 points, name this persecuted majority religion in South Vietnam during the presidency of the Catholic Ngo Dinh Diem.": {
+    "guess": "Buddhism",
+    "confidence": [
+      [
+        "B",
+        -0.004033045
+      ],
+      [
+        "udd",
+        0.0
+      ],
+      [
+        "h",
+        -0.00033546583
+      ],
+      [
+        "ism",
+        -2.577686e-06
+      ]
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "The cohesion of these entities is mediated by a GP IIb/IIIa receptor. Their dense granules contain nucleotides,": {
+    "guess": "Platelet",
+    "confidence": [
+      [
+        "Plate",
+        -9.849109e-06
+      ],
+      [
+        "let",
+        -7.493431e-05
+      ]
+    ]
+  },
+  "The cohesion of these entities is mediated by a GP IIb/IIIa receptor. Their dense granules contain nucleotides, ATP, calcium, and serotonin, and among the growth factors they secrete from their alpha granules": {
+    "guess": "Platelet",
+    "confidence": [
+      [
+        "Plate",
+        -0.00012630376
+      ],
+      [
+        "let",
+        -6.6232446e-05
+      ]
+    ]
+  },
+  "The cohesion of these entities is mediated by a GP IIb/IIIa receptor. Their dense granules contain nucleotides, ATP, calcium, and serotonin, and among the growth factors they secrete from their alpha granules are TGF-beta and fibronectin. One receptor deficiency in these structures weakens their interaction": {
+    "guess": "Platelet",
+    "confidence": [
+      [
+        "Plate",
+        -0.00020818933
+      ],
+      [
+        "let",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The cohesion of these entities is mediated by a GP IIb/IIIa receptor. Their dense granules contain nucleotides, ATP, calcium, and serotonin, and among the growth factors they secrete from their alpha granules are TGF-beta and fibronectin. One receptor deficiency in these structures weakens their interaction with the von Willebrand factor secreted by the endothelium of blood vessels. They form by pinching": {
+    "guess": "Platelet",
+    "confidence": [
+      [
+        "Plate",
+        -1.3306016e-05
+      ],
+      [
+        "let",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The cohesion of these entities is mediated by a GP IIb/IIIa receptor. Their dense granules contain nucleotides, ATP, calcium, and serotonin, and among the growth factors they secrete from their alpha granules are TGF-beta and fibronectin. One receptor deficiency in these structures weakens their interaction with the von Willebrand factor secreted by the endothelium of blood vessels. They form by pinching off of large, multinucleate cells called megakaryocytes, and aspirin inhibits their function": {
+    "guess": "Platelet",
+    "confidence": [
+      [
+        "Plate",
+        -1.0564331e-05
+      ],
+      [
+        "let",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The cohesion of these entities is mediated by a GP IIb/IIIa receptor. Their dense granules contain nucleotides, ATP, calcium, and serotonin, and among the growth factors they secrete from their alpha granules are TGF-beta and fibronectin. One receptor deficiency in these structures weakens their interaction with the von Willebrand factor secreted by the endothelium of blood vessels. They form by pinching off of large, multinucleate cells called megakaryocytes, and aspirin inhibits their function by irreversibly inactivating COX-1 enzymes, which inhibits the clotting cascade. For 10 points, name": {
+    "guess": "Platelet",
+    "confidence": [
+      [
+        "Plate",
+        -4.978234e-05
+      ],
+      [
+        "let",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The cohesion of these entities is mediated by a GP IIb/IIIa receptor. Their dense granules contain nucleotides, ATP, calcium, and serotonin, and among the growth factors they secrete from their alpha granules are TGF-beta and fibronectin. One receptor deficiency in these structures weakens their interaction with the von Willebrand factor secreted by the endothelium of blood vessels. They form by pinching off of large, multinucleate cells called megakaryocytes, and aspirin inhibits their function by irreversibly inactivating COX-1 enzymes, which inhibits the clotting cascade. For 10 points, name these cell fragments whose aggregation initiates the clotting process.": {
+    "guess": "Platelet",
+    "confidence": [
+      [
+        "Plate",
+        -3.5597102e-05
+      ],
+      [
+        "let",
+        -4.3202e-07
+      ]
+    ]
+  }
+}

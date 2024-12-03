@@ -1,0 +1,1568 @@
+{
+  "In samples, the presence of gram negative cocci pairs displaying a typical kidney bean shape is usually": {
+    "guess": "Neisseria",
+    "confidence": [
+      [
+        "Ne",
+        -0.06282804
+      ],
+      [
+        "isser",
+        -5.5122365e-07
+      ],
+      [
+        "ia",
+        -2.3795938e-05
+      ]
+    ]
+  },
+  "In samples, the presence of gram negative cocci pairs displaying a typical kidney bean shape is usually a diagnostic of this disease.  Occasionally, it can lead to pelvic inflammatory disease or even death": {
+    "guess": "Gonorrhea",
+    "confidence": [
+      [
+        "G",
+        -0.0034405345
+      ],
+      [
+        "on",
+        -4.8425554e-06
+      ],
+      [
+        "orr",
+        0.0
+      ],
+      [
+        "hea",
+        -4.5491004e-05
+      ]
+    ]
+  },
+  "In samples, the presence of gram negative cocci pairs displaying a typical kidney bean shape is usually a diagnostic of this disease.  Occasionally, it can lead to pelvic inflammatory disease or even death if the infection spreads to the lungs, heart, or brain.  A member of the genus Neisseria, it is": {
+    "guess": "Gonorrhea",
+    "confidence": [
+      [
+        "G",
+        -0.0016520909
+      ],
+      [
+        "on",
+        -6.2729996e-06
+      ],
+      [
+        "orr",
+        0.0
+      ],
+      [
+        "hea",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "In samples, the presence of gram negative cocci pairs displaying a typical kidney bean shape is usually a diagnostic of this disease.  Occasionally, it can lead to pelvic inflammatory disease or even death if the infection spreads to the lungs, heart, or brain.  A member of the genus Neisseria, it is usually treated with Cetriaxone, Cefixime, Ciprofloaxin, or Ofloxacin, but not Penicillin, as it has": {
+    "guess": "Gonorrhea",
+    "confidence": [
+      [
+        "G",
+        -0.0017597905
+      ],
+      [
+        "on",
+        -4.8425554e-06
+      ],
+      [
+        "orr",
+        0.0
+      ],
+      [
+        "hea",
+        -7.493431e-05
+      ]
+    ]
+  },
+  "In samples, the presence of gram negative cocci pairs displaying a typical kidney bean shape is usually a diagnostic of this disease.  Occasionally, it can lead to pelvic inflammatory disease or even death if the infection spreads to the lungs, heart, or brain.  A member of the genus Neisseria, it is usually treated with Cetriaxone, Cefixime, Ciprofloaxin, or Ofloxacin, but not Penicillin, as it has developed resistance to that drug.  Characterized by appearance of pus and a burning feeling during": {
+    "guess": "Gonorrhea",
+    "confidence": [
+      [
+        "G",
+        -0.00011880126
+      ],
+      [
+        "on",
+        -4.8425554e-06
+      ],
+      [
+        "orr",
+        0.0
+      ],
+      [
+        "hea",
+        -7.493431e-05
+      ]
+    ]
+  },
+  "In samples, the presence of gram negative cocci pairs displaying a typical kidney bean shape is usually a diagnostic of this disease.  Occasionally, it can lead to pelvic inflammatory disease or even death if the infection spreads to the lungs, heart, or brain.  A member of the genus Neisseria, it is usually treated with Cetriaxone, Cefixime, Ciprofloaxin, or Ofloxacin, but not Penicillin, as it has developed resistance to that drug.  Characterized by appearance of pus and a burning feeling during urination, this is, FTP, what venereal disease also known as \"the clap?\"": {
+    "guess": "Gonorrhea",
+    "confidence": [
+      [
+        "G",
+        -0.0015527135
+      ],
+      [
+        "on",
+        -1.9361265e-07
+      ],
+      [
+        "orr",
+        0.0
+      ],
+      [
+        "hea",
+        -7.9418505e-06
+      ]
+    ]
+  },
+  "When Samos fell to the Persians, the Athenian tyrant Hipparchus made sure to rescue this poet. His popularity": {
+    "guess": "Anacreon",
+    "confidence": [
+      [
+        "An",
+        -0.016479693
+      ],
+      [
+        "acre",
+        -5.5122365e-07
+      ],
+      [
+        "on",
+        0.0
+      ]
+    ]
+  },
+  "When Samos fell to the Persians, the Athenian tyrant Hipparchus made sure to rescue this poet. His popularity was reflected in the statue of him on the Acropolis, and in the many red-figure vases which": {
+    "guess": "Anacreon",
+    "confidence": [
+      [
+        "An",
+        -0.022401167
+      ],
+      [
+        "acre",
+        -3.1281633e-07
+      ],
+      [
+        "on",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "When Samos fell to the Persians, the Athenian tyrant Hipparchus made sure to rescue this poet. His popularity was reflected in the statue of him on the Acropolis, and in the many red-figure vases which show him playing the lyre as young men dance around him with abandon. When Francis Scott Key wrote": {
+    "guess": "Anacreon",
+    "confidence": [
+      [
+        "An",
+        -0.011470282
+      ],
+      [
+        "acre",
+        -2.220075e-06
+      ],
+      [
+        "on",
+        0.0
+      ]
+    ]
+  },
+  "When Samos fell to the Persians, the Athenian tyrant Hipparchus made sure to rescue this poet. His popularity was reflected in the statue of him on the Acropolis, and in the many red-figure vases which show him playing the lyre as young men dance around him with abandon. When Francis Scott Key wrote his famous lines, he matched them to the tune of a British drinking song that invoked the name of this": {
+    "guess": "Anacreon",
+    "confidence": [
+      [
+        "An",
+        -0.002753642
+      ],
+      [
+        "acre",
+        -6.0345924e-06
+      ],
+      [
+        "on",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "When Samos fell to the Persians, the Athenian tyrant Hipparchus made sure to rescue this poet. His popularity was reflected in the statue of him on the Acropolis, and in the many red-figure vases which show him playing the lyre as young men dance around him with abandon. When Francis Scott Key wrote his famous lines, he matched them to the tune of a British drinking song that invoked the name of this Greek poet. FTP, name the 6th-century B.C. poet of many drinking songs and frivolous love songs.": {
+    "guess": "Anacreon",
+    "confidence": [
+      [
+        "An",
+        -0.00026920327
+      ],
+      [
+        "acre",
+        -3.2929079e-06
+      ],
+      [
+        "on",
+        0.0
+      ]
+    ]
+  },
+  "Sanderson's version of this property allows estimation of bond energies due to known bond lengths, while": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.48032165
+      ],
+      [
+        "rone",
+        -1.5213274e-05
+      ],
+      [
+        "gat",
+        -4.3202e-07
+      ],
+      [
+        "ivity",
+        0.0
+      ]
+    ]
+  },
+  "Sanderson's version of this property allows estimation of bond energies due to known bond lengths, while the Allred-Rochow scale define it in terms of covalent radius. A small difference in this quantity": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -6.749814e-06
+      ],
+      [
+        "rone",
+        0.0
+      ],
+      [
+        "gat",
+        0.0
+      ],
+      [
+        "ivity",
+        0.0
+      ]
+    ]
+  },
+  "Sanderson's version of this property allows estimation of bond energies due to known bond lengths, while the Allred-Rochow scale define it in terms of covalent radius. A small difference in this quantity leads to a polar covalent bond, while a large difference results in an ionic bond. The Mulliken scale": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.0028757267
+      ],
+      [
+        "rone",
+        -6.392203e-06
+      ],
+      [
+        "gat",
+        0.0
+      ],
+      [
+        "ivity",
+        0.0
+      ]
+    ]
+  },
+  "Sanderson's version of this property allows estimation of bond energies due to known bond lengths, while the Allred-Rochow scale define it in terms of covalent radius. A small difference in this quantity leads to a polar covalent bond, while a large difference results in an ionic bond. The Mulliken scale defines it as the mean of electron affinity and ionization energy, while the more common Pauling": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.001519265
+      ],
+      [
+        "rone",
+        -5.5122365e-07
+      ],
+      [
+        "gat",
+        0.0
+      ],
+      [
+        "ivity",
+        0.0
+      ]
+    ]
+  },
+  "Sanderson's version of this property allows estimation of bond energies due to known bond lengths, while the Allred-Rochow scale define it in terms of covalent radius. A small difference in this quantity leads to a polar covalent bond, while a large difference results in an ionic bond. The Mulliken scale defines it as the mean of electron affinity and ionization energy, while the more common Pauling scale sets the greatest value at 4.0. For 10 points, name this property defined as the tendency of": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.00020485163
+      ],
+      [
+        "rone",
+        -1.9361265e-07
+      ],
+      [
+        "gat",
+        0.0
+      ],
+      [
+        "ivity",
+        0.0
+      ]
+    ]
+  },
+  "Sanderson's version of this property allows estimation of bond energies due to known bond lengths, while the Allred-Rochow scale define it in terms of covalent radius. A small difference in this quantity leads to a polar covalent bond, while a large difference results in an ionic bond. The Mulliken scale defines it as the mean of electron affinity and ionization energy, while the more common Pauling scale sets the greatest value at 4.0. For 10 points, name this property defined as the tendency of an atom to attract electrons in a bond.": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.002508359
+      ],
+      [
+        "rone",
+        -1.504853e-06
+      ],
+      [
+        "gat",
+        0.0
+      ],
+      [
+        "ivity",
+        0.0
+      ]
+    ]
+  },
+  "Samuel Zasadius was expelled from Poland for attempting to spread this religion, which John Honterus": {
+    "guess": "Lutheranism",
+    "confidence": [
+      [
+        "L",
+        -0.08368738
+      ],
+      [
+        "uther",
+        -1.9361265e-07
+      ],
+      [
+        "an",
+        0.0
+      ],
+      [
+        "ism",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "Samuel Zasadius was expelled from Poland for attempting to spread this religion, which John Honterus introduced to Transylvania. More radical forms of this Christian denomination were advocated by Andreas": {
+    "guess": "Lutheranism",
+    "confidence": [
+      [
+        "L",
+        -0.0011733212
+      ],
+      [
+        "uther",
+        -1.9361265e-07
+      ],
+      [
+        "an",
+        -1.3856493e-06
+      ],
+      [
+        "ism",
+        -2.8921695e-05
+      ]
+    ]
+  },
+  "Samuel Zasadius was expelled from Poland for attempting to spread this religion, which John Honterus introduced to Transylvania. More radical forms of this Christian denomination were advocated by Andreas Karlstadt, a colleague of this faith's early leaders, and by Phillip Spener, who stressed mysticism.": {
+    "guess": "Lutheranism",
+    "confidence": [
+      [
+        "L",
+        -0.00031115196
+      ],
+      [
+        "uther",
+        -1.9361265e-07
+      ],
+      [
+        "an",
+        0.0
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Samuel Zasadius was expelled from Poland for attempting to spread this religion, which John Honterus introduced to Transylvania. More radical forms of this Christian denomination were advocated by Andreas Karlstadt, a colleague of this faith's early leaders, and by Phillip Spener, who stressed mysticism. In one country, this religion was adopted because of the unpopularity of the Catholic Archbishop": {
+    "guess": "Lutheranism",
+    "confidence": [
+      [
+        "L",
+        -0.00041827938
+      ],
+      [
+        "uther",
+        0.0
+      ],
+      [
+        "an",
+        0.0
+      ],
+      [
+        "ism",
+        -2.8160932e-06
+      ]
+    ]
+  },
+  "Samuel Zasadius was expelled from Poland for attempting to spread this religion, which John Honterus introduced to Transylvania. More radical forms of this Christian denomination were advocated by Andreas Karlstadt, a colleague of this faith's early leaders, and by Phillip Spener, who stressed mysticism. In one country, this religion was adopted because of the unpopularity of the Catholic Archbishop Trolle, and its sub-groups include the Pietists. This faith's doctrine of \"Sacramental Union\", which": {
+    "guess": "Lutheranism",
+    "confidence": [
+      [
+        "L",
+        -5.0378356e-05
+      ],
+      [
+        "uther",
+        0.0
+      ],
+      [
+        "an",
+        0.0
+      ],
+      [
+        "ism",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Samuel Zasadius was expelled from Poland for attempting to spread this religion, which John Honterus introduced to Transylvania. More radical forms of this Christian denomination were advocated by Andreas Karlstadt, a colleague of this faith's early leaders, and by Phillip Spener, who stressed mysticism. In one country, this religion was adopted because of the unpopularity of the Catholic Archbishop Trolle, and its sub-groups include the Pietists. This faith's doctrine of \"Sacramental Union\", which affirms the Real Presence while rejecting Transubstantiation, is sometimes called Consubstantiation.": {
+    "guess": "Lutheranism",
+    "confidence": [
+      [
+        "L",
+        -9.253091e-06
+      ],
+      [
+        "uther",
+        0.0
+      ],
+      [
+        "an",
+        0.0
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Samuel Zasadius was expelled from Poland for attempting to spread this religion, which John Honterus introduced to Transylvania. More radical forms of this Christian denomination were advocated by Andreas Karlstadt, a colleague of this faith's early leaders, and by Phillip Spener, who stressed mysticism. In one country, this religion was adopted because of the unpopularity of the Catholic Archbishop Trolle, and its sub-groups include the Pietists. This faith's doctrine of \"Sacramental Union\", which affirms the Real Presence while rejecting Transubstantiation, is sometimes called Consubstantiation. Heeding the Augsburg Confession, for ten points name this Protestant denomination originating from": {
+    "guess": "Lutheranism",
+    "confidence": [
+      [
+        "L",
+        -6.9882217e-06
+      ],
+      [
+        "uther",
+        0.0
+      ],
+      [
+        "an",
+        0.0
+      ],
+      [
+        "ism",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Samuel Zasadius was expelled from Poland for attempting to spread this religion, which John Honterus introduced to Transylvania. More radical forms of this Christian denomination were advocated by Andreas Karlstadt, a colleague of this faith's early leaders, and by Phillip Spener, who stressed mysticism. In one country, this religion was adopted because of the unpopularity of the Catholic Archbishop Trolle, and its sub-groups include the Pietists. This faith's doctrine of \"Sacramental Union\", which affirms the Real Presence while rejecting Transubstantiation, is sometimes called Consubstantiation. Heeding the Augsburg Confession, for ten points name this Protestant denomination originating from the 95 theses of its namesake German founder.": {
+    "guess": "Lutheranism",
+    "confidence": [
+      [
+        "L",
+        -0.0046396917
+      ],
+      [
+        "uther",
+        0.0
+      ],
+      [
+        "an",
+        -1.9361265e-07
+      ],
+      [
+        "ism",
+        -6.0033854e-05
+      ]
+    ]
+  },
+  "Sanderson defined it as the ratio of atomic number to atomic volume, divided by the expected ratio as": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.44862306
+      ],
+      [
+        "rone",
+        -1.2233183e-05
+      ],
+      [
+        "gat",
+        -1.9361265e-07
+      ],
+      [
+        "ivity",
+        0.0
+      ]
+    ]
+  },
+  "Sanderson defined it as the ratio of atomic number to atomic volume, divided by the expected ratio as extrapolated from noble gas data. Another measure of it is based on the square root of differences": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.10134752
+      ],
+      [
+        "rone",
+        -0.00016146517
+      ],
+      [
+        "gat",
+        0.0
+      ],
+      [
+        "ivity",
+        0.0
+      ]
+    ]
+  },
+  "Sanderson defined it as the ratio of atomic number to atomic volume, divided by the expected ratio as extrapolated from noble gas data. Another measure of it is based on the square root of differences in ionic resonance energy between two elements, while Mulliken defines it as the average of first ionization": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -0.014216395
+      ],
+      [
+        "rone",
+        -1.9504607e-05
+      ],
+      [
+        "gat",
+        0.0
+      ],
+      [
+        "ivity",
+        0.0
+      ]
+    ]
+  },
+  "Sanderson defined it as the ratio of atomic number to atomic volume, divided by the expected ratio as extrapolated from noble gas data. Another measure of it is based on the square root of differences in ionic resonance energy between two elements, while Mulliken defines it as the average of first ionization energy and electron affinity. For 10 points, name this tendency of an atom to attract electrons": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -3.261701e-05
+      ],
+      [
+        "rone",
+        0.0
+      ],
+      [
+        "gat",
+        0.0
+      ],
+      [
+        "ivity",
+        0.0
+      ]
+    ]
+  },
+  "Sanderson defined it as the ratio of atomic number to atomic volume, divided by the expected ratio as extrapolated from noble gas data. Another measure of it is based on the square root of differences in ionic resonance energy between two elements, while Mulliken defines it as the average of first ionization energy and electron affinity. For 10 points, name this tendency of an atom to attract electrons of other atoms to itself, for which fluorine has a value of 4.0 according to the Pauling scale.": {
+    "guess": "Electronegativity",
+    "confidence": [
+      [
+        "Elect",
+        -9.968313e-06
+      ],
+      [
+        "rone",
+        0.0
+      ],
+      [
+        "gat",
+        0.0
+      ],
+      [
+        "ivity",
+        0.0
+      ]
+    ]
+  },
+  "Samples prepared for this process are often either stained with uranyl acetate, or are adsorbed to metal,": {
+    "guess": "Electron microscopy",
+    "confidence": [
+      [
+        "Electron",
+        -0.5523301
+      ],
+      [
+        " microscopy",
+        -0.013601898
+      ]
+    ]
+  },
+  "Samples prepared for this process are often either stained with uranyl acetate, or are adsorbed to metal, which is then dissolved by acid. Since most biological specimens are destroyed by this technique,": {
+    "guess": "Transmission electron microscopy",
+    "confidence": [
+      [
+        "Transmission",
+        -0.7465569
+      ],
+      [
+        " electron",
+        -0.0046202415
+      ],
+      [
+        " microscopy",
+        -1.4498052e-05
+      ]
+    ]
+  },
+  "Samples prepared for this process are often either stained with uranyl acetate, or are adsorbed to metal, which is then dissolved by acid. Since most biological specimens are destroyed by this technique, it often takes place at \"cryo\" temperatures. Samples for this process are often sliced into thin": {
+    "guess": "Cryo-electron microscopy",
+    "confidence": [
+      [
+        "Cry",
+        -0.54670644
+      ],
+      [
+        "o",
+        -0.0015773557
+      ],
+      [
+        "-elect",
+        -0.0012029698
+      ],
+      [
+        "ron",
+        0.0
+      ],
+      [
+        " microscopy",
+        -9.610702e-06
+      ]
+    ]
+  },
+  "Samples prepared for this process are often either stained with uranyl acetate, or are adsorbed to metal, which is then dissolved by acid. Since most biological specimens are destroyed by this technique, it often takes place at \"cryo\" temperatures. Samples for this process are often sliced into thin pieces and coated in gold. This technique can determine the morphology of a surface in its \"scanning\"": {
+    "guess": "Scanning electron microscope",
+    "confidence": [
+      [
+        "Scanning",
+        -0.025265513
+      ],
+      [
+        " electron",
+        -0.100207105
+      ],
+      [
+        " microscope",
+        -0.38687208
+      ]
+    ]
+  },
+  "Samples prepared for this process are often either stained with uranyl acetate, or are adsorbed to metal, which is then dissolved by acid. Since most biological specimens are destroyed by this technique, it often takes place at \"cryo\" temperatures. Samples for this process are often sliced into thin pieces and coated in gold. This technique can determine the morphology of a surface in its \"scanning\" variant. Both that type and the \"transmission\" form of this technique use particles with shorter de": {
+    "guess": "Electron microscopy",
+    "confidence": [
+      [
+        "Electron",
+        -0.00646774
+      ],
+      [
+        " microscopy",
+        -0.021152377
+      ]
+    ]
+  },
+  "Samples prepared for this process are often either stained with uranyl acetate, or are adsorbed to metal, which is then dissolved by acid. Since most biological specimens are destroyed by this technique, it often takes place at \"cryo\" temperatures. Samples for this process are often sliced into thin pieces and coated in gold. This technique can determine the morphology of a surface in its \"scanning\" variant. Both that type and the \"transmission\" form of this technique use particles with shorter de Broglie wavelengths than photons. For 10 points, name this technique which fires a beam of negatively": {
+    "guess": "Electron microscopy",
+    "confidence": [
+      [
+        "Electron",
+        -0.000121662146
+      ],
+      [
+        " microscopy",
+        -5.407367e-05
+      ]
+    ]
+  },
+  "Samples prepared for this process are often either stained with uranyl acetate, or are adsorbed to metal, which is then dissolved by acid. Since most biological specimens are destroyed by this technique, it often takes place at \"cryo\" temperatures. Samples for this process are often sliced into thin pieces and coated in gold. This technique can determine the morphology of a surface in its \"scanning\" variant. Both that type and the \"transmission\" form of this technique use particles with shorter de Broglie wavelengths than photons. For 10 points, name this technique which fires a beam of negatively charged particles to magnify images.": {
+    "guess": "Electron microscopy",
+    "confidence": [
+      [
+        "Electron",
+        -0.010619398
+      ],
+      [
+        " microscopy",
+        -0.029760096
+      ]
+    ]
+  },
+  "\"Salvator Mundi\" by Herbert Howells. Psalm 130, \"Out of the Deep\", by John Rutter. Psalm 121, \"I Will": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.12398979
+      ]
+    ]
+  },
+  "\"Salvator Mundi\" by Herbert Howells. Psalm 130, \"Out of the Deep\", by John Rutter. Psalm 121, \"I Will Lift Up My Eyes\", also by Herbert Howells. The words \"Hallelujah\" and \"La il Allah\", by Delius. \"In": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.20928274
+      ],
+      [
+        "qu",
+        -4.3202e-07
+      ],
+      [
+        "iem",
+        -0.00080450665
+      ]
+    ]
+  },
+  "\"Salvator Mundi\" by Herbert Howells. Psalm 130, \"Out of the Deep\", by John Rutter. Psalm 121, \"I Will Lift Up My Eyes\", also by Herbert Howells. The words \"Hallelujah\" and \"La il Allah\", by Delius. \"In Paradisum\", by Gabriel Faure. \"Wie lieb-lich sind dei-ne Woh-nun-gen\", by Johannes Brahms. \"When Lilacs": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.25866
+      ],
+      [
+        "qu",
+        -5.5122365e-07
+      ],
+      [
+        "iem",
+        -0.0009115827
+      ]
+    ]
+  },
+  "\"Salvator Mundi\" by Herbert Howells. Psalm 130, \"Out of the Deep\", by John Rutter. Psalm 121, \"I Will Lift Up My Eyes\", also by Herbert Howells. The words \"Hallelujah\" and \"La il Allah\", by Delius. \"In Paradisum\", by Gabriel Faure. \"Wie lieb-lich sind dei-ne Woh-nun-gen\", by Johannes Brahms. \"When Lilacs Last in the Dooryard Bloom'd\", by Paul Hindemith. Wilfred Owen's \"Strange Meeting\", by Benjamin": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.103504136
+      ],
+      [
+        "qu",
+        -3.1281633e-07
+      ],
+      [
+        "iem",
+        -3.5477897e-05
+      ]
+    ]
+  },
+  "\"Salvator Mundi\" by Herbert Howells. Psalm 130, \"Out of the Deep\", by John Rutter. Psalm 121, \"I Will Lift Up My Eyes\", also by Herbert Howells. The words \"Hallelujah\" and \"La il Allah\", by Delius. \"In Paradisum\", by Gabriel Faure. \"Wie lieb-lich sind dei-ne Woh-nun-gen\", by Johannes Brahms. \"When Lilacs Last in the Dooryard Bloom'd\", by Paul Hindemith. Wilfred Owen's \"Strange Meeting\", by Benjamin Britten. All of these are non-traditional texts used in musical settings of, FTP, what Office of the": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.0016002024
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "iem",
+        0.0
+      ]
+    ]
+  },
+  "\"Salvator Mundi\" by Herbert Howells. Psalm 130, \"Out of the Deep\", by John Rutter. Psalm 121, \"I Will Lift Up My Eyes\", also by Herbert Howells. The words \"Hallelujah\" and \"La il Allah\", by Delius. \"In Paradisum\", by Gabriel Faure. \"Wie lieb-lich sind dei-ne Woh-nun-gen\", by Johannes Brahms. \"When Lilacs Last in the Dooryard Bloom'd\", by Paul Hindemith. Wilfred Owen's \"Strange Meeting\", by Benjamin Britten. All of these are non-traditional texts used in musical settings of, FTP, what Office of the Dead?": {
+    "guess": "Requiem",
+    "confidence": [
+      [
+        "Re",
+        -0.00044985735
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "iem",
+        0.0
+      ]
+    ]
+  },
+  "Samuel Monk wrote a 1935 work that studied \"critical theories\" of this concept in 18th century England.": {
+    "guess": "Sublime",
+    "confidence": [
+      [
+        "S",
+        -0.22768626
+      ],
+      [
+        "ubl",
+        0.0
+      ],
+      [
+        "ime",
+        -0.00026133584
+      ]
+    ]
+  },
+  "Samuel Monk wrote a 1935 work that studied \"critical theories\" of this concept in 18th century England.   One of the earliest descriptions of it in modern times comes from John Dennis, who discussed it": {
+    "guess": "Sublime",
+    "confidence": [
+      [
+        "S",
+        -0.4961586
+      ],
+      [
+        "ubl",
+        0.0
+      ],
+      [
+        "ime",
+        -0.00043066923
+      ]
+    ]
+  },
+  "Samuel Monk wrote a 1935 work that studied \"critical theories\" of this concept in 18th century England.   One of the earliest descriptions of it in modern times comes from John Dennis, who discussed it in relation to a Grand Tour of the Alps he had made, while it was said to \"arise from visible objects\"": {
+    "guess": "Sublime",
+    "confidence": [
+      [
+        "S",
+        -0.16058865
+      ],
+      [
+        "ubl",
+        0.0
+      ],
+      [
+        "ime",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "Samuel Monk wrote a 1935 work that studied \"critical theories\" of this concept in 18th century England.   One of the earliest descriptions of it in modern times comes from John Dennis, who discussed it in relation to a Grand Tour of the Alps he had made, while it was said to \"arise from visible objects\" in a work by Joseph Addison.  Jean-Francois Lyotard wrote a work discussing this from a postmodern": {
+    "guess": "Sublime",
+    "confidence": [
+      [
+        "S",
+        -0.03866525
+      ],
+      [
+        "ubl",
+        0.0
+      ],
+      [
+        "ime",
+        0.0
+      ]
+    ]
+  },
+  "Samuel Monk wrote a 1935 work that studied \"critical theories\" of this concept in 18th century England.   One of the earliest descriptions of it in modern times comes from John Dennis, who discussed it in relation to a Grand Tour of the Alps he had made, while it was said to \"arise from visible objects\" in a work by Joseph Addison.  Jean-Francois Lyotard wrote a work discussing this from a postmodern perspective, called \"Lessons on the Analytic of\" this concept.  It was divided into mathematical": {
+    "guess": "Sublime (philosophy)",
+    "confidence": [
+      [
+        "S",
+        -0.03160322
+      ],
+      [
+        "ubl",
+        0.0
+      ],
+      [
+        "ime",
+        -1.9361265e-07
+      ],
+      [
+        " (",
+        -0.0011773703
+      ],
+      [
+        "ph",
+        -4.4537377e-05
+      ],
+      [
+        "ilos",
+        0.0
+      ],
+      [
+        "ophy",
+        -4.3202e-07
+      ],
+      [
+        ")",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "Samuel Monk wrote a 1935 work that studied \"critical theories\" of this concept in 18th century England.   One of the earliest descriptions of it in modern times comes from John Dennis, who discussed it in relation to a Grand Tour of the Alps he had made, while it was said to \"arise from visible objects\" in a work by Joseph Addison.  Jean-Francois Lyotard wrote a work discussing this from a postmodern perspective, called \"Lessons on the Analytic of\" this concept.  It was divided into mathematical and dynamical forms and said to belong to Reason rather than Understanding in Critique of Judgment,": {
+    "guess": "Sublime (philosophy)",
+    "confidence": [
+      [
+        "S",
+        -0.00016098835
+      ],
+      [
+        "ubl",
+        0.0
+      ],
+      [
+        "ime",
+        -1.9361265e-07
+      ],
+      [
+        " (",
+        -0.011084135
+      ],
+      [
+        "ph",
+        -4.8425554e-06
+      ],
+      [
+        "ilos",
+        0.0
+      ],
+      [
+        "ophy",
+        -1.9361265e-07
+      ],
+      [
+        ")",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Samuel Monk wrote a 1935 work that studied \"critical theories\" of this concept in 18th century England.   One of the earliest descriptions of it in modern times comes from John Dennis, who discussed it in relation to a Grand Tour of the Alps he had made, while it was said to \"arise from visible objects\" in a work by Joseph Addison.  Jean-Francois Lyotard wrote a work discussing this from a postmodern perspective, called \"Lessons on the Analytic of\" this concept.  It was divided into mathematical and dynamical forms and said to belong to Reason rather than Understanding in Critique of Judgment, while vastness, obscurity, and terror were associated with this concept by Edmund Burke.  Subject of": {
+    "guess": "Sublime (philosophy)",
+    "confidence": [
+      [
+        "S",
+        -0.00010318558
+      ],
+      [
+        "ubl",
+        0.0
+      ],
+      [
+        "ime",
+        0.0
+      ],
+      [
+        " (",
+        -0.0031828247
+      ],
+      [
+        "ph",
+        -1.3663626e-05
+      ],
+      [
+        "ilos",
+        0.0
+      ],
+      [
+        "ophy",
+        0.0
+      ],
+      [
+        ")",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "Samuel Monk wrote a 1935 work that studied \"critical theories\" of this concept in 18th century England.   One of the earliest descriptions of it in modern times comes from John Dennis, who discussed it in relation to a Grand Tour of the Alps he had made, while it was said to \"arise from visible objects\" in a work by Joseph Addison.  Jean-Francois Lyotard wrote a work discussing this from a postmodern perspective, called \"Lessons on the Analytic of\" this concept.  It was divided into mathematical and dynamical forms and said to belong to Reason rather than Understanding in Critique of Judgment, while vastness, obscurity, and terror were associated with this concept by Edmund Burke.  Subject of a treatise by Longinus, FTP,  name this aesthetic notion that both Kant and Burke contrasted with \"the": {
+    "guess": "Sublime (philosophy)",
+    "confidence": [
+      [
+        "S",
+        -0.0039856737
+      ],
+      [
+        "ubl",
+        0.0
+      ],
+      [
+        "ime",
+        -1.9361265e-07
+      ],
+      [
+        " (",
+        -0.00020509004
+      ],
+      [
+        "ph",
+        -7.8987236e-05
+      ],
+      [
+        "ilos",
+        0.0
+      ],
+      [
+        "ophy",
+        -1.9361265e-07
+      ],
+      [
+        ")",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "Samuel Monk wrote a 1935 work that studied \"critical theories\" of this concept in 18th century England.   One of the earliest descriptions of it in modern times comes from John Dennis, who discussed it in relation to a Grand Tour of the Alps he had made, while it was said to \"arise from visible objects\" in a work by Joseph Addison.  Jean-Francois Lyotard wrote a work discussing this from a postmodern perspective, called \"Lessons on the Analytic of\" this concept.  It was divided into mathematical and dynamical forms and said to belong to Reason rather than Understanding in Critique of Judgment, while vastness, obscurity, and terror were associated with this concept by Edmund Burke.  Subject of a treatise by Longinus, FTP,  name this aesthetic notion that both Kant and Burke contrasted with \"the Beautiful.\"": {
+    "guess": "Sublime (philosophy)",
+    "confidence": [
+      [
+        "S",
+        -0.0011736787
+      ],
+      [
+        "ubl",
+        0.0
+      ],
+      [
+        "ime",
+        -1.9361265e-07
+      ],
+      [
+        " (",
+        -0.0004331725
+      ],
+      [
+        "ph",
+        -0.00016873659
+      ],
+      [
+        "ilos",
+        0.0
+      ],
+      [
+        "ophy",
+        -1.9361265e-07
+      ],
+      [
+        ")",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "Samuel Chase was impeached for his vigorous prosecution of these laws. William Duane, Matthew Lyon, and": {
+    "guess": "Alien and Sedition Acts",
+    "confidence": [
+      [
+        "Alien",
+        -0.22752
+      ],
+      [
+        " and",
+        -1.9361265e-07
+      ],
+      [
+        " Sed",
+        -1.9361265e-07
+      ],
+      [
+        "ition",
+        0.0
+      ],
+      [
+        " Acts",
+        -0.00010008628
+      ]
+    ]
+  },
+  "Samuel Chase was impeached for his vigorous prosecution of these laws. William Duane, Matthew Lyon, and James Callender were among those convicted under these laws, which guard against possible hostilities": {
+    "guess": "Alien and Sedition Acts",
+    "confidence": [
+      [
+        "Alien",
+        -0.1010478
+      ],
+      [
+        " and",
+        -9.0883464e-07
+      ],
+      [
+        " Sed",
+        -9.4914985e-06
+      ],
+      [
+        "ition",
+        -1.9361265e-07
+      ],
+      [
+        " Acts",
+        -0.00012035091
+      ]
+    ]
+  },
+  "Samuel Chase was impeached for his vigorous prosecution of these laws. William Duane, Matthew Lyon, and James Callender were among those convicted under these laws, which guard against possible hostilities erupting from the XYZ affair. Opposed by the Virginia and Kentucky Resolutions, they banned publishing": {
+    "guess": "Alien and Sedition Acts",
+    "confidence": [
+      [
+        "Alien",
+        -0.005984609
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " Sed",
+        -0.00017970333
+      ],
+      [
+        "ition",
+        0.0
+      ],
+      [
+        " Acts",
+        -0.030278
+      ]
+    ]
+  },
+  "Samuel Chase was impeached for his vigorous prosecution of these laws. William Duane, Matthew Lyon, and James Callender were among those convicted under these laws, which guard against possible hostilities erupting from the XYZ affair. Opposed by the Virginia and Kentucky Resolutions, they banned publishing \"false, scandalous, and malicious\" writings. For 10 points, the Naturalization Act and the Enemies": {
+    "guess": "Alien and Sedition Acts",
+    "confidence": [
+      [
+        "Alien",
+        -0.004493735
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " Sed",
+        -5.1689596e-05
+      ],
+      [
+        "ition",
+        0.0
+      ],
+      [
+        " Acts",
+        -0.01143434
+      ]
+    ]
+  },
+  "Samuel Chase was impeached for his vigorous prosecution of these laws. William Duane, Matthew Lyon, and James Callender were among those convicted under these laws, which guard against possible hostilities erupting from the XYZ affair. Opposed by the Virginia and Kentucky Resolutions, they banned publishing \"false, scandalous, and malicious\" writings. For 10 points, the Naturalization Act and the Enemies Act were part of what set of laws passed by the John Adams administration?": {
+    "guess": "Alien and Sedition Acts",
+    "confidence": [
+      [
+        "Alien",
+        -0.003295467
+      ],
+      [
+        " and",
+        0.0
+      ],
+      [
+        " Sed",
+        -1.6762922e-05
+      ],
+      [
+        "ition",
+        0.0
+      ],
+      [
+        " Acts",
+        -0.0041980674
+      ]
+    ]
+  },
+  "Sam Green killed Bill Lang over the lynching of this man's half-brother Jesus (HAY-soos). Harry Love": {
+    "guess": "Joaquin Murrieta",
+    "confidence": [
+      [
+        "J",
+        -0.0020554543
+      ],
+      [
+        "oa",
+        0.0
+      ],
+      [
+        "quin",
+        -0.3132665
+      ],
+      [
+        " Mur",
+        -3.1281633e-07
+      ],
+      [
+        "ri",
+        -6.511407e-06
+      ],
+      [
+        "eta",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Sam Green killed Bill Lang over the lynching of this man's half-brother Jesus (HAY-soos). Harry Love led a group of rangers tracking him down. After Love caught up to his group of bandits at Arroyo Cantua,": {
+    "guess": "Joaqu\u00edn Murrieta",
+    "confidence": [
+      [
+        "J",
+        -0.023536734
+      ],
+      [
+        "oa",
+        0.0
+      ],
+      [
+        "qu",
+        -0.47407722
+      ],
+      [
+        "\u00edn",
+        -4.3202e-07
+      ],
+      [
+        " Mur",
+        -6.749814e-06
+      ],
+      [
+        "ri",
+        -5.025915e-05
+      ],
+      [
+        "eta",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Sam Green killed Bill Lang over the lynching of this man's half-brother Jesus (HAY-soos). Harry Love led a group of rangers tracking him down. After Love caught up to his group of bandits at Arroyo Cantua, William Byrnes supposedly shot, then decapitated him, although modern historians believe the head": {
+    "guess": "Joaqu\u00edn Murrieta",
+    "confidence": [
+      [
+        "J",
+        -0.0234388
+      ],
+      [
+        "oa",
+        0.0
+      ],
+      [
+        "qu",
+        -0.47407722
+      ],
+      [
+        "\u00edn",
+        -3.1281633e-07
+      ],
+      [
+        " Mur",
+        -4.365741e-06
+      ],
+      [
+        "ri",
+        -2.9160103e-05
+      ],
+      [
+        "eta",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Sam Green killed Bill Lang over the lynching of this man's half-brother Jesus (HAY-soos). Harry Love led a group of rangers tracking him down. After Love caught up to his group of bandits at Arroyo Cantua, William Byrnes supposedly shot, then decapitated him, although modern historians believe the head belonged to an Indian named Chappo. Family history says he died shortly after the attack at a rancho": {
+    "guess": "Joaquin Murrieta",
+    "confidence": [
+      [
+        "J",
+        -0.0088415835
+      ],
+      [
+        "oa",
+        0.0
+      ],
+      [
+        "quin",
+        -0.57594126
+      ],
+      [
+        " Mur",
+        0.0
+      ],
+      [
+        "ri",
+        -5.3193703e-06
+      ],
+      [
+        "eta",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Sam Green killed Bill Lang over the lynching of this man's half-brother Jesus (HAY-soos). Harry Love led a group of rangers tracking him down. After Love caught up to his group of bandits at Arroyo Cantua, William Byrnes supposedly shot, then decapitated him, although modern historians believe the head belonged to an Indian named Chappo. Family history says he died shortly after the attack at a rancho in Alameda County, insisting that the \"Anglos\" must never know his fate. FTP, name this Chicano": {
+    "guess": "Joaquin Murrieta",
+    "confidence": [
+      [
+        "J",
+        -0.03515465
+      ],
+      [
+        "oa",
+        0.0
+      ],
+      [
+        "quin",
+        -0.5759398
+      ],
+      [
+        " Mur",
+        0.0
+      ],
+      [
+        "ri",
+        -6.869018e-06
+      ],
+      [
+        "eta",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Sam Green killed Bill Lang over the lynching of this man's half-brother Jesus (HAY-soos). Harry Love led a group of rangers tracking him down. After Love caught up to his group of bandits at Arroyo Cantua, William Byrnes supposedly shot, then decapitated him, although modern historians believe the head belonged to an Indian named Chappo. Family history says he died shortly after the attack at a rancho in Alameda County, insisting that the \"Anglos\" must never know his fate. FTP, name this Chicano folk hero, the subject of the 1936 film The Robin Hood of El Dorado.": {
+    "guess": "Joaqu\u00edn Murrieta",
+    "confidence": [
+      [
+        "J",
+        -0.025274117
+      ],
+      [
+        "oa",
+        0.0
+      ],
+      [
+        "qu",
+        -0.69314843
+      ],
+      [
+        "\u00edn",
+        0.0
+      ],
+      [
+        " Mur",
+        -3.1281633e-07
+      ],
+      [
+        "ri",
+        -0.00012964146
+      ],
+      [
+        "eta",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "Salt-free conditions prevent stereochemical drift from occurring in this reaction. The conversion of": {
+    "guess": "Wittig reaction",
+    "confidence": [
+      [
+        "W",
+        -0.03833775
+      ],
+      [
+        "itt",
+        -9.610702e-06
+      ],
+      [
+        "ig",
+        0.0
+      ],
+      [
+        " reaction",
+        -9.133887e-06
+      ]
+    ]
+  },
+  "Salt-free conditions prevent stereochemical drift from occurring in this reaction. The conversion of an erythro compound to a threo compound in this reaction changes the stereochemistry of the product": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.35054332
+      ]
+    ]
+  },
+  "Salt-free conditions prevent stereochemical drift from occurring in this reaction. The conversion of an erythro compound to a threo compound in this reaction changes the stereochemistry of the product from Z to E in its Schlosser modification. Either a betaine [BEE-tuh-een] or a compound containing a": {
+    "guess": "Wittig reaction",
+    "confidence": [
+      [
+        "W",
+        -0.14391015
+      ],
+      [
+        "itt",
+        -1.2664457e-06
+      ],
+      [
+        "ig",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.00016015393
+      ]
+    ]
+  },
+  "Salt-free conditions prevent stereochemical drift from occurring in this reaction. The conversion of an erythro compound to a threo compound in this reaction changes the stereochemistry of the product from Z to E in its Schlosser modification. Either a betaine [BEE-tuh-een] or a compound containing a four-membered ring called oxaphosphetane is the intermediate in this reaction, which begins with a": {
+    "guess": "Wittig reaction",
+    "confidence": [
+      [
+        "W",
+        -0.014342374
+      ],
+      [
+        "itt",
+        -1.504853e-06
+      ],
+      [
+        "ig",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.00018125297
+      ]
+    ]
+  },
+  "Salt-free conditions prevent stereochemical drift from occurring in this reaction. The conversion of an erythro compound to a threo compound in this reaction changes the stereochemistry of the product from Z to E in its Schlosser modification. Either a betaine [BEE-tuh-een] or a compound containing a four-membered ring called oxaphosphetane is the intermediate in this reaction, which begins with a phosphonium salt being treated with a strong base to give an ylide [IL-id]. For 10 points, name this": {
+    "guess": "Wittig reaction",
+    "confidence": [
+      [
+        "W",
+        -0.000260859
+      ],
+      [
+        "itt",
+        -6.704273e-07
+      ],
+      [
+        "ig",
+        0.0
+      ],
+      [
+        " reaction",
+        -2.1769476e-05
+      ]
+    ]
+  },
+  "Salt-free conditions prevent stereochemical drift from occurring in this reaction. The conversion of an erythro compound to a threo compound in this reaction changes the stereochemistry of the product from Z to E in its Schlosser modification. Either a betaine [BEE-tuh-een] or a compound containing a four-membered ring called oxaphosphetane is the intermediate in this reaction, which begins with a phosphonium salt being treated with a strong base to give an ylide [IL-id]. For 10 points, name this organic chemistry reaction that converts aldehydes or ketones into alkenes.": {
+    "guess": "Wittig reaction",
+    "confidence": [
+      [
+        "W",
+        -0.00034380643
+      ],
+      [
+        "itt",
+        -3.1281633e-07
+      ],
+      [
+        "ig",
+        0.0
+      ],
+      [
+        " reaction",
+        -3.5477897e-05
+      ]
+    ]
+  },
+  "Sammy Singer's friend Lew Rabinowitz dies in this author's novel Closing Time. One of this man's characters": {
+    "guess": "Joseph Heller",
+    "confidence": [
+      [
+        "Joseph",
+        -0.38721743
+      ],
+      [
+        " H",
+        0.0
+      ],
+      [
+        "eller",
+        0.0
+      ]
+    ]
+  },
+  "Sammy Singer's friend Lew Rabinowitz dies in this author's novel Closing Time. One of this man's characters asks if there are any prayers without reference to God. Colonel Cathcart and the owner of M+M": {
+    "guess": "Joseph Heller",
+    "confidence": [
+      [
+        "Joseph",
+        -0.10053812
+      ],
+      [
+        " H",
+        0.0
+      ],
+      [
+        "eller",
+        0.0
+      ]
+    ]
+  },
+  "Sammy Singer's friend Lew Rabinowitz dies in this author's novel Closing Time. One of this man's characters asks if there are any prayers without reference to God. Colonel Cathcart and the owner of M+M Enterprises appear in another of his works, in which (*) Major Major Major is promoted because of his": {
+    "guess": "Joseph Heller",
+    "confidence": [
+      [
+        "Joseph",
+        -0.01734985
+      ],
+      [
+        " H",
+        0.0
+      ],
+      [
+        "eller",
+        0.0
+      ]
+    ]
+  },
+  "Sammy Singer's friend Lew Rabinowitz dies in this author's novel Closing Time. One of this man's characters asks if there are any prayers without reference to God. Colonel Cathcart and the owner of M+M Enterprises appear in another of his works, in which (*) Major Major Major is promoted because of his name and Milo Minderbinder profits from war. For 10 points, name this author who created John Yossarian": {
+    "guess": "Joseph Heller",
+    "confidence": [
+      [
+        "Joseph",
+        -0.0033432364
+      ],
+      [
+        " H",
+        0.0
+      ],
+      [
+        "eller",
+        0.0
+      ]
+    ]
+  },
+  "Sammy Singer's friend Lew Rabinowitz dies in this author's novel Closing Time. One of this man's characters asks if there are any prayers without reference to God. Colonel Cathcart and the owner of M+M Enterprises appear in another of his works, in which (*) Major Major Major is promoted because of his name and Milo Minderbinder profits from war. For 10 points, name this author who created John Yossarian in his novel Catch-22.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7098879
+      ]
+    ]
+  }
+}

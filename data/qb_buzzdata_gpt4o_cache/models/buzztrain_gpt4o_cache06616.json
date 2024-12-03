@@ -1,0 +1,83 @@
+{
+  "R. A. Fisher suggested this scientist falsified data because of the exactness of his ratios, and his": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.72684586
+      ]
+    ]
+  },
+  "R. A. Fisher suggested this scientist falsified data because of the exactness of his ratios, and his most significant paper was Experiments in Plant Hybridization. One result of this man's work was the": {
+    "guess": "Mendelian inheritance",
+    "confidence": [
+      [
+        "M",
+        -0.72883373
+      ],
+      [
+        "endel",
+        -1.9146995e-05
+      ],
+      [
+        "ian",
+        -0.000110457004
+      ],
+      [
+        " inheritance",
+        -0.009926193
+      ]
+    ]
+  },
+  "R. A. Fisher suggested this scientist falsified data because of the exactness of his ratios, and his most significant paper was Experiments in Plant Hybridization. One result of this man's work was the law of independent assortment, discovered by examining traits like tall vs. dwarf and round vs. wrinkled.": {
+    "guess": "Gregor Mendel",
+    "confidence": [
+      [
+        "Gregor",
+        -0.0458752
+      ],
+      [
+        " Mend",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ]
+    ]
+  },
+  "R. A. Fisher suggested this scientist falsified data because of the exactness of his ratios, and his most significant paper was Experiments in Plant Hybridization. One result of this man's work was the law of independent assortment, discovered by examining traits like tall vs. dwarf and round vs. wrinkled. For 10 points, name this biologist and monk whose breeding of pea plants led to the basic principles": {
+    "guess": "Gregor Mendel",
+    "confidence": [
+      [
+        "Gregor",
+        -0.06343753
+      ],
+      [
+        " Mend",
+        0.0
+      ],
+      [
+        "el",
+        0.0
+      ]
+    ]
+  },
+  "R. A. Fisher suggested this scientist falsified data because of the exactness of his ratios, and his most significant paper was Experiments in Plant Hybridization. One result of this man's work was the law of independent assortment, discovered by examining traits like tall vs. dwarf and round vs. wrinkled. For 10 points, name this biologist and monk whose breeding of pea plants led to the basic principles of heredity.": {
+    "guess": "Gregor Mendel",
+    "confidence": [
+      [
+        "Gregor",
+        -0.022166837
+      ],
+      [
+        " Mend",
+        -1.9361265e-07
+      ],
+      [
+        "el",
+        0.0
+      ]
+    ]
+  }
+}

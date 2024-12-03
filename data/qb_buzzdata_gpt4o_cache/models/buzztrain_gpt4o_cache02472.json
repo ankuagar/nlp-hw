@@ -1,0 +1,304 @@
+{
+  "The Glenn-Nye law governs these objects' movement, which can be facilitated by basal sliding. Areas affected": {
+    "guess": "Glaciers",
+    "confidence": [
+      [
+        "Gl",
+        -0.0042339168
+      ],
+      [
+        "ac",
+        -0.003446707
+      ],
+      [
+        "iers",
+        0.0
+      ]
+    ]
+  },
+  "The Glenn-Nye law governs these objects' movement, which can be facilitated by basal sliding. Areas affected by them are subject to isostatic rebound. They produce chatter marks through plucking, and affected": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.0009796976
+      ],
+      [
+        "acier",
+        -0.31656274
+      ]
+    ]
+  },
+  "The Glenn-Nye law governs these objects' movement, which can be facilitated by basal sliding. Areas affected by them are subject to isostatic rebound. They produce chatter marks through plucking, and affected areas are marked by kames and kettles. Sometimes featuring moulins and ogives, these features": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.0002815968
+      ],
+      [
+        "acier",
+        -0.113049425
+      ]
+    ]
+  },
+  "The Glenn-Nye law governs these objects' movement, which can be facilitated by basal sliding. Areas affected by them are subject to isostatic rebound. They produce chatter marks through plucking, and affected areas are marked by kames and kettles. Sometimes featuring moulins and ogives, these features can form eskers and paternosters. They carve out U- or V-shaped valleys, as well as inlets called": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.10202138
+      ],
+      [
+        "acier",
+        -0.0036524567
+      ]
+    ]
+  },
+  "The Glenn-Nye law governs these objects' movement, which can be facilitated by basal sliding. Areas affected by them are subject to isostatic rebound. They produce chatter marks through plucking, and affected areas are marked by kames and kettles. Sometimes featuring moulins and ogives, these features can form eskers and paternosters. They carve out U- or V-shaped valleys, as well as inlets called fjords, and leave behind drumlins and moraines. Calving on the edges of these objects produces icebergs.": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.0010351915
+      ],
+      [
+        "acier",
+        -0.00080855226
+      ]
+    ]
+  },
+  "The Glenn-Nye law governs these objects' movement, which can be facilitated by basal sliding. Areas affected by them are subject to isostatic rebound. They produce chatter marks through plucking, and affected areas are marked by kames and kettles. Sometimes featuring moulins and ogives, these features can form eskers and paternosters. They carve out U- or V-shaped valleys, as well as inlets called fjords, and leave behind drumlins and moraines. Calving on the edges of these objects produces icebergs. For 10 points, name these large frozen rivers of ice.": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.0024788661
+      ],
+      [
+        "acier",
+        -0.0017057711
+      ]
+    ]
+  },
+  "Glenn Gould wrote one of these with lyrics about writing one, and Verdi's Falstaff opens with one for": {
+    "guess": "Madrigal",
+    "confidence": [
+      [
+        "M",
+        -0.66417116
+      ],
+      [
+        "adr",
+        -0.0010948539
+      ],
+      [
+        "igal",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "Glenn Gould wrote one of these with lyrics about writing one, and Verdi's Falstaff opens with one for ten voices. They can be classified by whether they have a real or tonal answer and consist of alternating": {
+    "guess": "Fugue",
+    "confidence": [
+      [
+        "F",
+        -0.0028594397
+      ],
+      [
+        "ug",
+        -7.226629e-06
+      ],
+      [
+        "ue",
+        0.0
+      ]
+    ]
+  },
+  "Glenn Gould wrote one of these with lyrics about writing one, and Verdi's Falstaff opens with one for ten voices. They can be classified by whether they have a real or tonal answer and consist of alternating expositions and episodes in which key changes are accomplished. (*) J. S. Bach created complete": {
+    "guess": "Fugue",
+    "confidence": [
+      [
+        "F",
+        -0.37263066
+      ],
+      [
+        "ug",
+        -0.0025473624
+      ],
+      [
+        "ue",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Glenn Gould wrote one of these with lyrics about writing one, and Verdi's Falstaff opens with one for ten voices. They can be classified by whether they have a real or tonal answer and consist of alternating expositions and episodes in which key changes are accomplished. (*) J. S. Bach created complete cycles of them in The Well-Tempered Clavier and The Art of, FTP, what musical form associated with": {
+    "guess": "Fugue",
+    "confidence": [
+      [
+        "F",
+        -0.00055613206
+      ],
+      [
+        "ug",
+        -1.9816675e-06
+      ],
+      [
+        "ue",
+        0.0
+      ]
+    ]
+  },
+  "Glenn Gould wrote one of these with lyrics about writing one, and Verdi's Falstaff opens with one for ten voices. They can be classified by whether they have a real or tonal answer and consist of alternating expositions and episodes in which key changes are accomplished. (*) J. S. Bach created complete cycles of them in The Well-Tempered Clavier and The Art of, FTP, what musical form associated with the Baroque, based on contrapuntal arrangement and re-arrangement of a single theme?": {
+    "guess": "Fugue",
+    "confidence": [
+      [
+        "F",
+        -0.0012057078
+      ],
+      [
+        "ug",
+        -7.9418505e-06
+      ],
+      [
+        "ue",
+        0.0
+      ]
+    ]
+  },
+  "Glenn Reeder argued against John Harvey's 1981 article claiming that this was a misnomer, and Joseph": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.54617417
+      ]
+    ]
+  },
+  "Glenn Reeder argued against John Harvey's 1981 article claiming that this was a misnomer, and Joseph Forgas showed that it is less severe in people in bad moods. Evidence for this comes from a 1977 paper": {
+    "guess": "Fundamental attribution error",
+    "confidence": [
+      [
+        "Fund",
+        -0.5146538
+      ],
+      [
+        "amental",
+        -3.1281633e-07
+      ],
+      [
+        " attribution",
+        -0.38687122
+      ],
+      [
+        " error",
+        0.0
+      ]
+    ]
+  },
+  "Glenn Reeder argued against John Harvey's 1981 article claiming that this was a misnomer, and Joseph Forgas showed that it is less severe in people in bad moods. Evidence for this comes from a 1977 paper in which neutral observers rated people who asked difficult questions more knowledgeable than their": {
+    "guess": "Fundamental attribution error",
+    "confidence": [
+      [
+        "Fund",
+        -0.12148737
+      ],
+      [
+        "amental",
+        -3.1281633e-07
+      ],
+      [
+        " attribution",
+        -0.4740777
+      ],
+      [
+        " error",
+        0.0
+      ]
+    ]
+  },
+  "Glenn Reeder argued against John Harvey's 1981 article claiming that this was a misnomer, and Joseph Forgas showed that it is less severe in people in bad moods. Evidence for this comes from a 1977 paper in which neutral observers rated people who asked difficult questions more knowledgeable than their counterparts who could not answer them, and from a 1967 paper by Jones and Harris in which people": {
+    "guess": "Fundamental attribution error",
+    "confidence": [
+      [
+        "Fund",
+        -0.03293288
+      ],
+      [
+        "amental",
+        0.0
+      ],
+      [
+        " attribution",
+        -0.12692854
+      ],
+      [
+        " error",
+        0.0
+      ]
+    ]
+  },
+  "Glenn Reeder argued against John Harvey's 1981 article claiming that this was a misnomer, and Joseph Forgas showed that it is less severe in people in bad moods. Evidence for this comes from a 1977 paper in which neutral observers rated people who asked difficult questions more knowledgeable than their counterparts who could not answer them, and from a 1967 paper by Jones and Harris in which people listening to a speech about Castro identified the speaker's true beliefs as consistent with the speech.": {
+    "guess": "Fundamental attribution error",
+    "confidence": [
+      [
+        "Fund",
+        -0.020520985
+      ],
+      [
+        "amental",
+        0.0
+      ],
+      [
+        " attribution",
+        -0.018149942
+      ],
+      [
+        " error",
+        0.0
+      ]
+    ]
+  },
+  "Glenn Reeder argued against John Harvey's 1981 article claiming that this was a misnomer, and Joseph Forgas showed that it is less severe in people in bad moods. Evidence for this comes from a 1977 paper in which neutral observers rated people who asked difficult questions more knowledgeable than their counterparts who could not answer them, and from a 1967 paper by Jones and Harris in which people listening to a speech about Castro identified the speaker's true beliefs as consistent with the speech.  For ten points name this common mistake, discovered by Lee Ross, in which people underestimate": {
+    "guess": "Fundamental attribution error",
+    "confidence": [
+      [
+        "Fund",
+        -0.0048196805
+      ],
+      [
+        "amental",
+        0.0
+      ],
+      [
+        " attribution",
+        -0.00026133584
+      ],
+      [
+        " error",
+        0.0
+      ]
+    ]
+  },
+  "Glenn Reeder argued against John Harvey's 1981 article claiming that this was a misnomer, and Joseph Forgas showed that it is less severe in people in bad moods. Evidence for this comes from a 1977 paper in which neutral observers rated people who asked difficult questions more knowledgeable than their counterparts who could not answer them, and from a 1967 paper by Jones and Harris in which people listening to a speech about Castro identified the speaker's true beliefs as consistent with the speech.  For ten points name this common mistake, discovered by Lee Ross, in which people underestimate the effect of situational factors and overestimate the effect of internal factors on one's behavior.": {
+    "guess": "Fundamental attribution error",
+    "confidence": [
+      [
+        "Fund",
+        -0.0082048485
+      ],
+      [
+        "amental",
+        0.0
+      ],
+      [
+        " attribution",
+        -0.16022564
+      ],
+      [
+        " error",
+        0.0
+      ]
+    ]
+  }
+}

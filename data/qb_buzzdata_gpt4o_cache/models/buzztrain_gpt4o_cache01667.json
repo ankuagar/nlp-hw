@@ -1,0 +1,414 @@
+{
+  "Either pyridine complexes or potassium bifluoride can be used in this reaction to form the monoadduct": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0766315
+      ]
+    ]
+  },
+  "Either pyridine complexes or potassium bifluoride can be used in this reaction to form the monoadduct instead of a polysubstituted product. A common reagent for this reaction is a bicyclic nonane called": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.54204607
+      ],
+      [
+        ".",
+        -0.38689485
+      ]
+    ]
+  },
+  "Either pyridine complexes or potassium bifluoride can be used in this reaction to form the monoadduct instead of a polysubstituted product. A common reagent for this reaction is a bicyclic nonane called 9-BBN. To stop dimerizations, this reaction's solvent is usually THF. The formation of a pi complex": {
+    "guess": "Hydroboration-oxidation",
+    "confidence": [
+      [
+        "Hyd",
+        -0.0018524815
+      ],
+      [
+        "ro",
+        -2.3392786e-06
+      ],
+      [
+        "bor",
+        -0.00010580806
+      ],
+      [
+        "ation",
+        0.0
+      ],
+      [
+        "-",
+        -0.27391338
+      ],
+      [
+        "oxid",
+        -1.4378848e-05
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "Either pyridine complexes or potassium bifluoride can be used in this reaction to form the monoadduct instead of a polysubstituted product. A common reagent for this reaction is a bicyclic nonane called 9-BBN. To stop dimerizations, this reaction's solvent is usually THF. The formation of a pi complex in this reaction explains its syn stereochemistry, and its regiochemistry is explained both by sterics": {
+    "guess": "Hydroboration-oxidation",
+    "confidence": [
+      [
+        "Hyd",
+        -0.00022284771
+      ],
+      [
+        "ro",
+        -6.392203e-06
+      ],
+      [
+        "bor",
+        -1.0280384e-06
+      ],
+      [
+        "ation",
+        0.0
+      ],
+      [
+        "-",
+        -0.02694687
+      ],
+      [
+        "oxid",
+        -4.246537e-06
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "Either pyridine complexes or potassium bifluoride can be used in this reaction to form the monoadduct instead of a polysubstituted product. A common reagent for this reaction is a bicyclic nonane called 9-BBN. To stop dimerizations, this reaction's solvent is usually THF. The formation of a pi complex in this reaction explains its syn stereochemistry, and its regiochemistry is explained both by sterics and because a nonbonding p orbital accepts electrons from a pi bonding orbital. In a reaction discovered": {
+    "guess": "Hydroboration-oxidation",
+    "confidence": [
+      [
+        "Hyd",
+        -0.014562557
+      ],
+      [
+        "ro",
+        -5.5122365e-07
+      ],
+      [
+        "bor",
+        -1.2664457e-06
+      ],
+      [
+        "ation",
+        0.0
+      ],
+      [
+        "-",
+        -0.2296999
+      ],
+      [
+        "oxid",
+        -7.58424e-06
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "Either pyridine complexes or potassium bifluoride can be used in this reaction to form the monoadduct instead of a polysubstituted product. A common reagent for this reaction is a bicyclic nonane called 9-BBN. To stop dimerizations, this reaction's solvent is usually THF. The formation of a pi complex in this reaction explains its syn stereochemistry, and its regiochemistry is explained both by sterics and because a nonbonding p orbital accepts electrons from a pi bonding orbital. In a reaction discovered by Herb Brown, the intermediate from this reaction is treated with basic hydrogen peroxide": {
+    "guess": "Hydroboration-oxidation",
+    "confidence": [
+      [
+        "Hyd",
+        -0.0007467369
+      ],
+      [
+        "ro",
+        -6.704273e-07
+      ],
+      [
+        "bor",
+        0.0
+      ],
+      [
+        "ation",
+        0.0
+      ],
+      [
+        "-",
+        -0.28714105
+      ],
+      [
+        "oxid",
+        -4.9617593e-06
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "Either pyridine complexes or potassium bifluoride can be used in this reaction to form the monoadduct instead of a polysubstituted product. A common reagent for this reaction is a bicyclic nonane called 9-BBN. To stop dimerizations, this reaction's solvent is usually THF. The formation of a pi complex in this reaction explains its syn stereochemistry, and its regiochemistry is explained both by sterics and because a nonbonding p orbital accepts electrons from a pi bonding orbital. In a reaction discovered by Herb Brown, the intermediate from this reaction is treated with basic hydrogen peroxide to generate alcohols where the hydroxyl group is on the less substituted carbon. For 10 points, name": {
+    "guess": "Hydroboration-oxidation",
+    "confidence": [
+      [
+        "Hyd",
+        -0.0035499395
+      ],
+      [
+        "ro",
+        -5.5122365e-07
+      ],
+      [
+        "bor",
+        0.0
+      ],
+      [
+        "ation",
+        0.0
+      ],
+      [
+        "-",
+        -0.32012767
+      ],
+      [
+        "oxid",
+        -6.511407e-06
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "Either pyridine complexes or potassium bifluoride can be used in this reaction to form the monoadduct instead of a polysubstituted product. A common reagent for this reaction is a bicyclic nonane called 9-BBN. To stop dimerizations, this reaction's solvent is usually THF. The formation of a pi complex in this reaction explains its syn stereochemistry, and its regiochemistry is explained both by sterics and because a nonbonding p orbital accepts electrons from a pi bonding orbital. In a reaction discovered by Herb Brown, the intermediate from this reaction is treated with basic hydrogen peroxide to generate alcohols where the hydroxyl group is on the less substituted carbon. For 10 points, name this anti-Markovnikov addition to alkenes of the element with atomic number 5.": {
+    "guess": "Hydroboration-oxidation",
+    "confidence": [
+      [
+        "Hyd",
+        -0.00021831797
+      ],
+      [
+        "ro",
+        -4.365741e-06
+      ],
+      [
+        "bor",
+        0.0
+      ],
+      [
+        "ation",
+        0.0
+      ],
+      [
+        "-",
+        -0.5254096
+      ],
+      [
+        "oxid",
+        -2.3392786e-06
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "Either the name of this mathematician or Toricelli is used to name a point inside a triangle such that": {
+    "guess": "Fermat point",
+    "confidence": [
+      [
+        "F",
+        -0.00789951
+      ],
+      [
+        "erm",
+        0.0
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        " point",
+        -0.0835898
+      ]
+    ]
+  },
+  "Either the name of this mathematician or Toricelli is used to name a point inside a triangle such that segements from that point to the three vertices form 120-degree angles with each other and the sum": {
+    "guess": "Fermat point",
+    "confidence": [
+      [
+        "F",
+        -0.013198001
+      ],
+      [
+        "erm",
+        -3.1281633e-07
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        " point",
+        -0.022449084
+      ]
+    ]
+  },
+  "Either the name of this mathematician or Toricelli is used to name a point inside a triangle such that segements from that point to the three vertices form 120-degree angles with each other and the sum of those three segments is minimized. This person's name is used for a group of numbers that are sometimes": {
+    "guess": "Fermat point",
+    "confidence": [
+      [
+        "F",
+        -0.04376523
+      ],
+      [
+        "erm",
+        -0.00150629
+      ],
+      [
+        "at",
+        -1.9361265e-07
+      ],
+      [
+        " point",
+        -0.15211585
+      ]
+    ]
+  },
+  "Either the name of this mathematician or Toricelli is used to name a point inside a triangle such that segements from that point to the three vertices form 120-degree angles with each other and the sum of those three segments is minimized. This person's name is used for a group of numbers that are sometimes called primes even though all the examples tested beyond the first five are composite. This": {
+    "guess": "Fermat number",
+    "confidence": [
+      [
+        "F",
+        -0.03483418
+      ],
+      [
+        "erm",
+        -3.1737043e-06
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        " number",
+        -0.083942264
+      ]
+    ]
+  },
+  "Either the name of this mathematician or Toricelli is used to name a point inside a triangle such that segements from that point to the three vertices form 120-degree angles with each other and the sum of those three segments is minimized. This person's name is used for a group of numbers that are sometimes called primes even though all the examples tested beyond the first five are composite. This mathematician is also the namesake of a theorem that a natural number raised to the p minus one power,": {
+    "guess": "Fermat's Last Theorem",
+    "confidence": [
+      [
+        "F",
+        -0.0132822255
+      ],
+      [
+        "erm",
+        -1.9361265e-07
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "'s",
+        -0.3820095
+      ],
+      [
+        " Last",
+        -0.53531027
+      ],
+      [
+        " The",
+        -1.0445127e-05
+      ],
+      [
+        "orem",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Either the name of this mathematician or Toricelli is used to name a point inside a triangle such that segements from that point to the three vertices form 120-degree angles with each other and the sum of those three segments is minimized. This person's name is used for a group of numbers that are sometimes called primes even though all the examples tested beyond the first five are composite. This mathematician is also the namesake of a theorem that a natural number raised to the p minus one power, minus one, is evenly divisible by p, where p is any prime number; that is his \"little theorem\". Identify": {
+    "guess": "Fermat point",
+    "confidence": [
+      [
+        "F",
+        -0.0712329
+      ],
+      [
+        "erm",
+        -1.9361265e-07
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        " point",
+        -0.054455522
+      ]
+    ]
+  },
+  "Either the name of this mathematician or Toricelli is used to name a point inside a triangle such that segements from that point to the three vertices form 120-degree angles with each other and the sum of those three segments is minimized. This person's name is used for a group of numbers that are sometimes called primes even though all the examples tested beyond the first five are composite. This mathematician is also the namesake of a theorem that a natural number raised to the p minus one power, minus one, is evenly divisible by p, where p is any prime number; that is his \"little theorem\". Identify this namesake of the theorem that there are no solutions for an integer n greater than 2 to": {
+    "guess": "Fermat point",
+    "confidence": [
+      [
+        "F",
+        -0.45589957
+      ],
+      [
+        "erm",
+        -3.1281633e-07
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        " point",
+        -0.24489024
+      ]
+    ]
+  },
+  "Either the name of this mathematician or Toricelli is used to name a point inside a triangle such that segements from that point to the three vertices form 120-degree angles with each other and the sum of those three segments is minimized. This person's name is used for a group of numbers that are sometimes called primes even though all the examples tested beyond the first five are composite. This mathematician is also the namesake of a theorem that a natural number raised to the p minus one power, minus one, is evenly divisible by p, where p is any prime number; that is his \"little theorem\". Identify this namesake of the theorem that there are no solutions for an integer n greater than 2 to the equation x to the n plus y to the n equals z to the n, which is his Last Theorem.": {
+    "guess": "Fermat's Last Theorem",
+    "confidence": [
+      [
+        "F",
+        -0.097074114
+      ],
+      [
+        "erm",
+        0.0
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "'s",
+        -0.31761166
+      ],
+      [
+        " Last",
+        -0.08786671
+      ],
+      [
+        " The",
+        -5.5122365e-07
+      ],
+      [
+        "orem",
+        -1.9361265e-07
+      ]
+    ]
+  }
+}

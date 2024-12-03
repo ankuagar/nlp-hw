@@ -1,0 +1,235 @@
+{
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called": {
+    "guess": "Starquake",
+    "confidence": [
+      [
+        "Star",
+        -0.04660912
+      ],
+      [
+        "quake",
+        -0.00033629662
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called starquakes. Above the Tolman-Oppenheimer- Volkoff limit of 2-3 solar masses, they may be less likely": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -0.010820604
+      ],
+      [
+        "utron",
+        0.0
+      ],
+      [
+        " star",
+        -9.133887e-06
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called starquakes. Above the Tolman-Oppenheimer- Volkoff limit of 2-3 solar masses, they may be less likely than quark stars, but they are the only compact objects just above the Chandrasekhar limit on the": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -0.0007144584
+      ],
+      [
+        "utron",
+        0.0
+      ],
+      [
+        " star",
+        -4.9617593e-06
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called starquakes. Above the Tolman-Oppenheimer- Volkoff limit of 2-3 solar masses, they may be less likely than quark stars, but they are the only compact objects just above the Chandrasekhar limit on the size of a white dwarf. The periodic radiation emitted along the axes of their extremely fast rotation": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -0.31711167
+      ],
+      [
+        "utron",
+        0.0
+      ],
+      [
+        " star",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called starquakes. Above the Tolman-Oppenheimer- Volkoff limit of 2-3 solar masses, they may be less likely than quark stars, but they are the only compact objects just above the Chandrasekhar limit on the size of a white dwarf. The periodic radiation emitted along the axes of their extremely fast rotation gives most of them the name of pulsars. Created following Type II, Ib, or Ic supernovae and lighter": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -0.0016676846
+      ],
+      [
+        "utron",
+        0.0
+      ],
+      [
+        " star",
+        -7.465036e-06
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called starquakes. Above the Tolman-Oppenheimer- Volkoff limit of 2-3 solar masses, they may be less likely than quark stars, but they are the only compact objects just above the Chandrasekhar limit on the size of a white dwarf. The periodic radiation emitted along the axes of their extremely fast rotation gives most of them the name of pulsars. Created following Type II, Ib, or Ic supernovae and lighter than black holes, for ten points, what remnants of stellar collapse are nonetheless so massive that": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -0.00019483852
+      ],
+      [
+        "utron",
+        0.0
+      ],
+      [
+        " star",
+        -6.6306106e-06
+      ]
+    ]
+  },
+  "Geminga is a rare example of a radio-quiet one, and their solid ionic crusts can break up in so-called starquakes. Above the Tolman-Oppenheimer- Volkoff limit of 2-3 solar masses, they may be less likely than quark stars, but they are the only compact objects just above the Chandrasekhar limit on the size of a white dwarf. The periodic radiation emitted along the axes of their extremely fast rotation gives most of them the name of pulsars. Created following Type II, Ib, or Ic supernovae and lighter than black holes, for ten points, what remnants of stellar collapse are nonetheless so massive that they contain matter too dense for electrons to remain in orbit around protons?": {
+    "guess": "Neutron star",
+    "confidence": [
+      [
+        "Ne",
+        -6.206032e-05
+      ],
+      [
+        "utron",
+        0.0
+      ],
+      [
+        " star",
+        -7.58424e-06
+      ]
+    ]
+  },
+  "Geman and Geman introduced a procedure named for this man that differs from the Metropolis algorithm": {
+    "guess": "Simulated annealing",
+    "confidence": [
+      [
+        "Sim",
+        -0.21000104
+      ],
+      [
+        "ulated",
+        -1.9361265e-07
+      ],
+      [
+        " anne",
+        -0.0040800627
+      ],
+      [
+        "aling",
+        0.0
+      ]
+    ]
+  },
+  "Geman and Geman introduced a procedure named for this man that differs from the Metropolis algorithm in that only one parameter of interest is estimated during each step. In addition to his sampling method,": {
+    "guess": "Gibbs sampling",
+    "confidence": [
+      [
+        "G",
+        -0.024152152
+      ],
+      [
+        "ib",
+        -2.9352968e-06
+      ],
+      [
+        "bs",
+        0.0
+      ],
+      [
+        " sampling",
+        -0.016204456
+      ]
+    ]
+  },
+  "Geman and Geman introduced a procedure named for this man that differs from the Metropolis algorithm in that only one parameter of interest is estimated during each step. In addition to his sampling method, he lends his name to the mixing paradox and to the overshooting of finite Fourier series approximations": {
+    "guess": "Gibbs",
+    "confidence": [
+      [
+        "G",
+        -0.00596198
+      ],
+      [
+        "ib",
+        -2.6968896e-06
+      ],
+      [
+        "bs",
+        0.0
+      ]
+    ]
+  },
+  "Geman and Geman introduced a procedure named for this man that differs from the Metropolis algorithm in that only one parameter of interest is estimated during each step. In addition to his sampling method, he lends his name to the mixing paradox and to the overshooting of finite Fourier series approximations to a jump discontinuity. He introduced the notion of chemical potential, and deduced a relation": {
+    "guess": "Gibbs sampling",
+    "confidence": [
+      [
+        "G",
+        -0.22567976
+      ],
+      [
+        "ib",
+        -0.0017904938
+      ],
+      [
+        "bs",
+        0.0
+      ],
+      [
+        " sampling",
+        -0.05481548
+      ]
+    ]
+  },
+  "Geman and Geman introduced a procedure named for this man that differs from the Metropolis algorithm in that only one parameter of interest is estimated during each step. In addition to his sampling method, he lends his name to the mixing paradox and to the overshooting of finite Fourier series approximations to a jump discontinuity. He introduced the notion of chemical potential, and deduced a relation for closed systems in equilibrium between the numbers of chemical components, degrees of freedom": {
+    "guess": "Gibbs sampling",
+    "confidence": [
+      [
+        "G",
+        -0.21908197
+      ],
+      [
+        "ib",
+        -0.00040493225
+      ],
+      [
+        "bs",
+        0.0
+      ],
+      [
+        " sampling",
+        -0.05879352
+      ]
+    ]
+  },
+  "Geman and Geman introduced a procedure named for this man that differs from the Metropolis algorithm in that only one parameter of interest is estimated during each step. In addition to his sampling method, he lends his name to the mixing paradox and to the overshooting of finite Fourier series approximations to a jump discontinuity. He introduced the notion of chemical potential, and deduced a relation for closed systems in equilibrium between the numbers of chemical components, degrees of freedom and separate phases. FTP name this physical chemist who also introduced a namesake free energy.": {
+    "guess": "Gibbs",
+    "confidence": [
+      [
+        "G",
+        -0.31900075
+      ],
+      [
+        "ib",
+        -8.418666e-06
+      ],
+      [
+        "bs",
+        0.0
+      ]
+    ]
+  }
+}

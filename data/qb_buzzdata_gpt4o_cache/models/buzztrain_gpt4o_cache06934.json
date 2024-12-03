@@ -1,0 +1,892 @@
+{
+  "In Saul Bellow's novel More Die of Heartbreak, botanist Benn Crader visits this place to collect lichens.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5137669
+      ]
+    ]
+  },
+  "In Saul Bellow's novel More Die of Heartbreak, botanist Benn Crader visits this place to collect lichens. Harper chews down a tree in this location in Angels in America before being rescued by Mr. Lies.": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -0.12409719
+      ],
+      [
+        "ar",
+        0.0
+      ],
+      [
+        "ctica",
+        -0.00033546583
+      ]
+    ]
+  },
+  "In Saul Bellow's novel More Die of Heartbreak, botanist Benn Crader visits this place to collect lichens. Harper chews down a tree in this location in Angels in America before being rescued by Mr. Lies. The protagonist of The Narrative of Arthur Gordon Pym of Nantucket visits an island inhabited by black": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -0.007949772
+      ],
+      [
+        "ar",
+        0.0
+      ],
+      [
+        "ctica",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "In Saul Bellow's novel More Die of Heartbreak, botanist Benn Crader visits this place to collect lichens. Harper chews down a tree in this location in Angels in America before being rescued by Mr. Lies. The protagonist of The Narrative of Arthur Gordon Pym of Nantucket visits an island inhabited by black natives at this location, whose Kelvinator Station is where Joe Kavalier is stationed during WWII.": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -0.00048405782
+      ],
+      [
+        "ar",
+        0.0
+      ],
+      [
+        "ctica",
+        -0.00012344286
+      ]
+    ]
+  },
+  "In Saul Bellow's novel More Die of Heartbreak, botanist Benn Crader visits this place to collect lichens. Harper chews down a tree in this location in Angels in America before being rescued by Mr. Lies. The protagonist of The Narrative of Arthur Gordon Pym of Nantucket visits an island inhabited by black natives at this location, whose Kelvinator Station is where Joe Kavalier is stationed during WWII. Scientists discover a the ruins of an intelligent civilization at this location in H. P. Lovecraft's": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -0.00085678935
+      ],
+      [
+        "ar",
+        0.0
+      ],
+      [
+        "ctica",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "In Saul Bellow's novel More Die of Heartbreak, botanist Benn Crader visits this place to collect lichens. Harper chews down a tree in this location in Angels in America before being rescued by Mr. Lies. The protagonist of The Narrative of Arthur Gordon Pym of Nantucket visits an island inhabited by black natives at this location, whose Kelvinator Station is where Joe Kavalier is stationed during WWII. Scientists discover a the ruins of an intelligent civilization at this location in H. P. Lovecraft's At the Mountains of Madness. Captain Nemo uses the Nautilus to cut through the ice at this location": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -6.086828e-05
+      ],
+      [
+        "ar",
+        0.0
+      ],
+      [
+        "ctica",
+        -0.00026133584
+      ]
+    ]
+  },
+  "In Saul Bellow's novel More Die of Heartbreak, botanist Benn Crader visits this place to collect lichens. Harper chews down a tree in this location in Angels in America before being rescued by Mr. Lies. The protagonist of The Narrative of Arthur Gordon Pym of Nantucket visits an island inhabited by black natives at this location, whose Kelvinator Station is where Joe Kavalier is stationed during WWII. Scientists discover a the ruins of an intelligent civilization at this location in H. P. Lovecraft's At the Mountains of Madness. Captain Nemo uses the Nautilus to cut through the ice at this location in Twenty Thousand Leagues under the Sea. For 10 points, name this extremely cold continent.": {
+    "guess": "Antarctica",
+    "confidence": [
+      [
+        "Ant",
+        -1.342522e-05
+      ],
+      [
+        "ar",
+        0.0
+      ],
+      [
+        "ctica",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "To save bandwidth, some versions of these objects make use of a technique in which all odd lines, then": {
+    "guess": "Interlaced video",
+    "confidence": [
+      [
+        "Inter",
+        -0.0069327587
+      ],
+      [
+        "l",
+        -0.005233883
+      ],
+      [
+        "aced",
+        -0.0040784013
+      ],
+      [
+        " video",
+        -6.945094e-05
+      ]
+    ]
+  },
+  "To save bandwidth, some versions of these objects make use of a technique in which all odd lines, then all even lines, are traced. That technique is called interlacing. Most Windows NT-based operating": {
+    "guess": "Bitmap Images",
+    "confidence": [
+      [
+        "Bitmap",
+        -0.9212869
+      ],
+      [
+        " Images",
+        -1.0974467
+      ]
+    ]
+  },
+  "To save bandwidth, some versions of these objects make use of a technique in which all odd lines, then all even lines, are traced. That technique is called interlacing. Most Windows NT-based operating systems use a setting of 60 hertz as the default refresh rate for these pieces of hardware. Older examples": {
+    "guess": "Monitor",
+    "confidence": [
+      [
+        "Monitor",
+        -0.88638496
+      ]
+    ]
+  },
+  "To save bandwidth, some versions of these objects make use of a technique in which all odd lines, then all even lines, are traced. That technique is called interlacing. Most Windows NT-based operating systems use a setting of 60 hertz as the default refresh rate for these pieces of hardware. Older examples of them can suffer from phosphor burn-in, while newer versions can suffer from dead or stuck": {
+    "guess": "Monitor",
+    "confidence": [
+      [
+        "Monitor",
+        -0.15361665
+      ]
+    ]
+  },
+  "To save bandwidth, some versions of these objects make use of a technique in which all odd lines, then all even lines, are traced. That technique is called interlacing. Most Windows NT-based operating systems use a setting of 60 hertz as the default refresh rate for these pieces of hardware. Older examples of them can suffer from phosphor burn-in, while newer versions can suffer from dead or stuck pixels. For 10 points, identify these pieces of computer hardware, which are now less likely to use": {
+    "guess": "Monitor",
+    "confidence": [
+      [
+        "Monitor",
+        -0.72006476
+      ]
+    ]
+  },
+  "To save bandwidth, some versions of these objects make use of a technique in which all odd lines, then all even lines, are traced. That technique is called interlacing. Most Windows NT-based operating systems use a setting of 60 hertz as the default refresh rate for these pieces of hardware. Older examples of them can suffer from phosphor burn-in, while newer versions can suffer from dead or stuck pixels. For 10 points, identify these pieces of computer hardware, which are now less likely to use CRTs than LCDs, and which are used to display images.": {
+    "guess": "Monitor",
+    "confidence": [
+      [
+        "Monitor",
+        -0.5151492
+      ]
+    ]
+  },
+  "A savant who lives in the castle of Makaria explains the stars to this character, whose son injures himself": {
+    "guess": "Wilhelm Meister",
+    "confidence": [
+      [
+        "Wil",
+        -0.04837556
+      ],
+      [
+        "helm",
+        -5.5122365e-07
+      ],
+      [
+        " Meister",
+        -0.000114033115
+      ]
+    ]
+  },
+  "A savant who lives in the castle of Makaria explains the stars to this character, whose son injures himself after he is shoved into stones by Hersilia. He is saved by the \"Amazon\" Natalia, and his foster": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.47870758
+      ]
+    ]
+  },
+  "A savant who lives in the castle of Makaria explains the stars to this character, whose son injures himself after he is shoved into stones by Hersilia. He is saved by the \"Amazon\" Natalia, and his foster daughter, who was fathered by an incestuous priest turned harpist, uses her long hair to staunch": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.74839467
+      ]
+    ]
+  },
+  "A savant who lives in the castle of Makaria explains the stars to this character, whose son injures himself after he is shoved into stones by Hersilia. He is saved by the \"Amazon\" Natalia, and his foster daughter, who was fathered by an incestuous priest turned harpist, uses her long hair to staunch his bullet wound. He sends word of the Nut-Brown Maid to Lenardo and meets the geologist Montan. This": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.3309241
+      ]
+    ]
+  },
+  "A savant who lives in the castle of Makaria explains the stars to this character, whose son injures himself after he is shoved into stones by Hersilia. He is saved by the \"Amazon\" Natalia, and his foster daughter, who was fathered by an incestuous priest turned harpist, uses her long hair to staunch his bullet wound. He sends word of the Nut-Brown Maid to Lenardo and meets the geologist Montan. This lover of of Philina eventually becomes a Renunciant, and throws away his poetry after weeping in front": {
+    "guess": "Wilhelm Meister",
+    "confidence": [
+      [
+        "Wil",
+        -0.055423338
+      ],
+      [
+        "helm",
+        0.0
+      ],
+      [
+        " Meister",
+        -0.00035524633
+      ]
+    ]
+  },
+  "A savant who lives in the castle of Makaria explains the stars to this character, whose son injures himself after he is shoved into stones by Hersilia. He is saved by the \"Amazon\" Natalia, and his foster daughter, who was fathered by an incestuous priest turned harpist, uses her long hair to staunch his bullet wound. He sends word of the Nut-Brown Maid to Lenardo and meets the geologist Montan. This lover of of Philina eventually becomes a Renunciant, and throws away his poetry after weeping in front of Werner. His father encourages him to settle down and start a business, which he does only after": {
+    "guess": "Wilhelm Meister",
+    "confidence": [
+      [
+        "Wil",
+        -0.038365055
+      ],
+      [
+        "helm",
+        0.0
+      ],
+      [
+        " Meister",
+        -0.00038503256
+      ]
+    ]
+  },
+  "A savant who lives in the castle of Makaria explains the stars to this character, whose son injures himself after he is shoved into stones by Hersilia. He is saved by the \"Amazon\" Natalia, and his foster daughter, who was fathered by an incestuous priest turned harpist, uses her long hair to staunch his bullet wound. He sends word of the Nut-Brown Maid to Lenardo and meets the geologist Montan. This lover of of Philina eventually becomes a Renunciant, and throws away his poetry after weeping in front of Werner. His father encourages him to settle down and start a business, which he does only after finding out that his first love, Mariana, is cheating on him. He adopts Mignon after joining a traveling": {
+    "guess": "Wilhelm Meister",
+    "confidence": [
+      [
+        "Wil",
+        -0.22625217
+      ],
+      [
+        "helm",
+        0.0
+      ],
+      [
+        " Meister",
+        -7.822647e-06
+      ]
+    ]
+  },
+  "A savant who lives in the castle of Makaria explains the stars to this character, whose son injures himself after he is shoved into stones by Hersilia. He is saved by the \"Amazon\" Natalia, and his foster daughter, who was fathered by an incestuous priest turned harpist, uses her long hair to staunch his bullet wound. He sends word of the Nut-Brown Maid to Lenardo and meets the geologist Montan. This lover of of Philina eventually becomes a Renunciant, and throws away his poetry after weeping in front of Werner. His father encourages him to settle down and start a business, which he does only after finding out that his first love, Mariana, is cheating on him. He adopts Mignon after joining a traveling troupe, and is the father of Felix. For 10 points, name this man, whose apprenticeship and": {
+    "guess": "Wilhelm Meister",
+    "confidence": [
+      [
+        "Wil",
+        -0.034166794
+      ],
+      [
+        "helm",
+        0.0
+      ],
+      [
+        " Meister",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "A savant who lives in the castle of Makaria explains the stars to this character, whose son injures himself after he is shoved into stones by Hersilia. He is saved by the \"Amazon\" Natalia, and his foster daughter, who was fathered by an incestuous priest turned harpist, uses her long hair to staunch his bullet wound. He sends word of the Nut-Brown Maid to Lenardo and meets the geologist Montan. This lover of of Philina eventually becomes a Renunciant, and throws away his poetry after weeping in front of Werner. His father encourages him to settle down and start a business, which he does only after finding out that his first love, Mariana, is cheating on him. He adopts Mignon after joining a traveling troupe, and is the father of Felix. For 10 points, name this man, whose apprenticeship and travels are the subject of a bildungsroman by Johann Wolfgang von Goethe.": {
+    "guess": "Wilhelm Meister",
+    "confidence": [
+      [
+        "Wil",
+        -0.14298528
+      ],
+      [
+        "helm",
+        0.0
+      ],
+      [
+        " Meister",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "To save him from being sacrificed to Moloch, Hezekiah's mother smears him with the blood of these creatures.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.33155835
+      ]
+    ]
+  },
+  "To save him from being sacrificed to Moloch, Hezekiah's mother smears him with the blood of these creatures. Benvenuto Cellini allegedly saw one of these creatures, after which his father punched him in": {
+    "guess": "Dragon",
+    "confidence": [
+      [
+        "Dragon",
+        -0.76410484
+      ]
+    ]
+  },
+  "To save him from being sacrificed to Moloch, Hezekiah's mother smears him with the blood of these creatures. Benvenuto Cellini allegedly saw one of these creatures, after which his father punched him in the ear to make him remember it. Some Jewish sources posit that myrtlewood is required for their creation,": {
+    "guess": "Golem",
+    "confidence": [
+      [
+        "G",
+        -0.5887993
+      ],
+      [
+        "olem",
+        -0.0001470452
+      ]
+    ]
+  },
+  "To save him from being sacrificed to Moloch, Hezekiah's mother smears him with the blood of these creatures. Benvenuto Cellini allegedly saw one of these creatures, after which his father punched him in the ear to make him remember it. Some Jewish sources posit that myrtlewood is required for their creation, while Aristotle believed they were born from chalcites and had wings. These creatures can poison": {
+    "guess": "Basilisk",
+    "confidence": [
+      [
+        "B",
+        -0.010477727
+      ],
+      [
+        "asil",
+        -0.0011773703
+      ],
+      [
+        "isk",
+        -7.703444e-06
+      ]
+    ]
+  },
+  "To save him from being sacrificed to Moloch, Hezekiah's mother smears him with the blood of these creatures. Benvenuto Cellini allegedly saw one of these creatures, after which his father punched him in the ear to make him remember it. Some Jewish sources posit that myrtlewood is required for their creation, while Aristotle believed they were born from chalcites and had wings. These creatures can poison apple trees by climbing them. Their silk, hair or wool can be spun into garments that protect": {
+    "guess": "Salamander",
+    "confidence": [
+      [
+        "Sal",
+        -1.1446925
+      ],
+      [
+        "am",
+        0.0
+      ],
+      [
+        "ander",
+        -0.004116154
+      ]
+    ]
+  },
+  "To save him from being sacrificed to Moloch, Hezekiah's mother smears him with the blood of these creatures. Benvenuto Cellini allegedly saw one of these creatures, after which his father punched him in the ear to make him remember it. Some Jewish sources posit that myrtlewood is required for their creation, while Aristotle believed they were born from chalcites and had wings. These creatures can poison apple trees by climbing them. Their silk, hair or wool can be spun into garments that protect the wearer from certain types of damage. According to Paracelsus, these creatures are the counterparts": {
+    "guess": "Basilisk",
+    "confidence": [
+      [
+        "B",
+        -0.26717806
+      ],
+      [
+        "asil",
+        -0.0019380349
+      ],
+      [
+        "isk",
+        -3.1544176e-05
+      ]
+    ]
+  },
+  "To save him from being sacrificed to Moloch, Hezekiah's mother smears him with the blood of these creatures. Benvenuto Cellini allegedly saw one of these creatures, after which his father punched him in the ear to make him remember it. Some Jewish sources posit that myrtlewood is required for their creation, while Aristotle believed they were born from chalcites and had wings. These creatures can poison apple trees by climbing them. Their silk, hair or wool can be spun into garments that protect the wearer from certain types of damage. According to Paracelsus, these creatures are the counterparts of sylphs, undines and gnomes. These creatures are most commonly sighted when (*) rotting wood is": {
+    "guess": "Salamander",
+    "confidence": [
+      [
+        "Sal",
+        -0.03420711
+      ],
+      [
+        "am",
+        -1.9361265e-07
+      ],
+      [
+        "ander",
+        -0.0036096973
+      ]
+    ]
+  },
+  "To save him from being sacrificed to Moloch, Hezekiah's mother smears him with the blood of these creatures. Benvenuto Cellini allegedly saw one of these creatures, after which his father punched him in the ear to make him remember it. Some Jewish sources posit that myrtlewood is required for their creation, while Aristotle believed they were born from chalcites and had wings. These creatures can poison apple trees by climbing them. Their silk, hair or wool can be spun into garments that protect the wearer from certain types of damage. According to Paracelsus, these creatures are the counterparts of sylphs, undines and gnomes. These creatures are most commonly sighted when (*) rotting wood is burned, causing them to scamper through the flames. For 10 points, name these fire elementals, a legendary": {
+    "guess": "Salamander",
+    "confidence": [
+      [
+        "Sal",
+        -0.0031071305
+      ],
+      [
+        "am",
+        0.0
+      ],
+      [
+        "ander",
+        -0.004079709
+      ]
+    ]
+  },
+  "To save him from being sacrificed to Moloch, Hezekiah's mother smears him with the blood of these creatures. Benvenuto Cellini allegedly saw one of these creatures, after which his father punched him in the ear to make him remember it. Some Jewish sources posit that myrtlewood is required for their creation, while Aristotle believed they were born from chalcites and had wings. These creatures can poison apple trees by climbing them. Their silk, hair or wool can be spun into garments that protect the wearer from certain types of damage. According to Paracelsus, these creatures are the counterparts of sylphs, undines and gnomes. These creatures are most commonly sighted when (*) rotting wood is burned, causing them to scamper through the flames. For 10 points, name these fire elementals, a legendary type of amphibian.": {
+    "guess": "Salamander",
+    "confidence": [
+      [
+        "Sal",
+        -0.00030269218
+      ],
+      [
+        "am",
+        0.0
+      ],
+      [
+        "ander",
+        -0.000109622575
+      ]
+    ]
+  },
+  "He was saved by Judson Roberts, and was nicknamed \"Hell-Cat.\" The college roommate of Jim Lefferts, he": {
+    "guess": "Elmer Gantry",
+    "confidence": [
+      [
+        "El",
+        -0.002108267
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        " Gan",
+        0.0
+      ],
+      [
+        "try",
+        0.0
+      ]
+    ]
+  },
+  "He was saved by Judson Roberts, and was nicknamed \"Hell-Cat.\" The college roommate of Jim Lefferts, he later entered Mizpah Theological Seminary. His indiscretions with wine and women got him kicked out,": {
+    "guess": "Elmer Gantry",
+    "confidence": [
+      [
+        "El",
+        -8.566264e-05
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        " Gan",
+        0.0
+      ],
+      [
+        "try",
+        0.0
+      ]
+    ]
+  },
+  "He was saved by Judson Roberts, and was nicknamed \"Hell-Cat.\" The college roommate of Jim Lefferts, he later entered Mizpah Theological Seminary. His indiscretions with wine and women got him kicked out, however, and he became the crack salesman of the Pequod Farm Implement Company before re-entering": {
+    "guess": "Elmer Gantry",
+    "confidence": [
+      [
+        "El",
+        -0.00016492206
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        " Gan",
+        0.0
+      ],
+      [
+        "try",
+        0.0
+      ]
+    ]
+  },
+  "He was saved by Judson Roberts, and was nicknamed \"Hell-Cat.\" The college roommate of Jim Lefferts, he later entered Mizpah Theological Seminary. His indiscretions with wine and women got him kicked out, however, and he became the crack salesman of the Pequod Farm Implement Company before re-entering the world of religion. He joins the Methodists after an encounter with Bishop Wesley Toomis, and preaches": {
+    "guess": "Elmer Gantry",
+    "confidence": [
+      [
+        "El",
+        -0.00012928384
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        " Gan",
+        0.0
+      ],
+      [
+        "try",
+        0.0
+      ]
+    ]
+  },
+  "He was saved by Judson Roberts, and was nicknamed \"Hell-Cat.\" The college roommate of Jim Lefferts, he later entered Mizpah Theological Seminary. His indiscretions with wine and women got him kicked out, however, and he became the crack salesman of the Pequod Farm Implement Company before re-entering the world of religion. He joins the Methodists after an encounter with Bishop Wesley Toomis, and preaches at Banjo Crossing, Rudd Center, Vulcan, and Sparta. This occurred after the death of his partner": {
+    "guess": "Elmer Gantry",
+    "confidence": [
+      [
+        "El",
+        -9.0788395e-05
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        " Gan",
+        0.0
+      ],
+      [
+        "try",
+        0.0
+      ]
+    ]
+  },
+  "He was saved by Judson Roberts, and was nicknamed \"Hell-Cat.\" The college roommate of Jim Lefferts, he later entered Mizpah Theological Seminary. His indiscretions with wine and women got him kicked out, however, and he became the crack salesman of the Pequod Farm Implement Company before re-entering the world of religion. He joins the Methodists after an encounter with Bishop Wesley Toomis, and preaches at Banjo Crossing, Rudd Center, Vulcan, and Sparta. This occurred after the death of his partner sister Sharon Falconer, and before he became the pastor of a large church in Zenith. FTP identify": {
+    "guess": "Elmer Gantry",
+    "confidence": [
+      [
+        "El",
+        -0.00024488938
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        " Gan",
+        0.0
+      ],
+      [
+        "try",
+        0.0
+      ]
+    ]
+  },
+  "He was saved by Judson Roberts, and was nicknamed \"Hell-Cat.\" The college roommate of Jim Lefferts, he later entered Mizpah Theological Seminary. His indiscretions with wine and women got him kicked out, however, and he became the crack salesman of the Pequod Farm Implement Company before re-entering the world of religion. He joins the Methodists after an encounter with Bishop Wesley Toomis, and preaches at Banjo Crossing, Rudd Center, Vulcan, and Sparta. This occurred after the death of his partner sister Sharon Falconer, and before he became the pastor of a large church in Zenith. FTP identify this religious hypocrite, the titular subject of a Sinclair Lewis novel.": {
+    "guess": "Elmer Gantry",
+    "confidence": [
+      [
+        "El",
+        -0.00023357604
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        " Gan",
+        0.0
+      ],
+      [
+        "try",
+        0.0
+      ]
+    ]
+  },
+  "This man was saved during a failed assassination attempt by Fritz Platten. This leader's writings include": {
+    "guess": "Vladimir Lenin",
+    "confidence": [
+      [
+        "V",
+        -0.018191965
+      ],
+      [
+        "ladimir",
+        -3.1281633e-07
+      ],
+      [
+        " Lenin",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man was saved during a failed assassination attempt by Fritz Platten. This leader's writings include Imperialism, the Highest Stage of Capitalism, and a work in which he argues for the creation of": {
+    "guess": "Vladimir Lenin",
+    "confidence": [
+      [
+        "V",
+        -0.10581998
+      ],
+      [
+        "ladimir",
+        -0.00015908109
+      ],
+      [
+        " Lenin",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This man was saved during a failed assassination attempt by Fritz Platten. This leader's writings include Imperialism, the Highest Stage of Capitalism, and a work in which he argues for the creation of a vanguard, What is to be Done? This politician attacked social democrats in his (*) April Theses,": {
+    "guess": "Vladimir Lenin",
+    "confidence": [
+      [
+        "V",
+        -0.00046749215
+      ],
+      [
+        "ladimir",
+        0.0
+      ],
+      [
+        " Lenin",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man was saved during a failed assassination attempt by Fritz Platten. This leader's writings include Imperialism, the Highest Stage of Capitalism, and a work in which he argues for the creation of a vanguard, What is to be Done? This politician attacked social democrats in his (*) April Theses, and returned to Russia in a \"sealed train\" to oppose the Mensheviks. This man, who worked with Leon": {
+    "guess": "Vladimir Lenin",
+    "confidence": [
+      [
+        "V",
+        -0.008345773
+      ],
+      [
+        "ladimir",
+        0.0
+      ],
+      [
+        " Lenin",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man was saved during a failed assassination attempt by Fritz Platten. This leader's writings include Imperialism, the Highest Stage of Capitalism, and a work in which he argues for the creation of a vanguard, What is to be Done? This politician attacked social democrats in his (*) April Theses, and returned to Russia in a \"sealed train\" to oppose the Mensheviks. This man, who worked with Leon Trotsky, implemented the New Economic Policy. For 10 points, name this Russian leader who led the October": {
+    "guess": "Vladimir Lenin",
+    "confidence": [
+      [
+        "V",
+        -0.005672322
+      ],
+      [
+        "ladimir",
+        0.0
+      ],
+      [
+        " Lenin",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man was saved during a failed assassination attempt by Fritz Platten. This leader's writings include Imperialism, the Highest Stage of Capitalism, and a work in which he argues for the creation of a vanguard, What is to be Done? This politician attacked social democrats in his (*) April Theses, and returned to Russia in a \"sealed train\" to oppose the Mensheviks. This man, who worked with Leon Trotsky, implemented the New Economic Policy. For 10 points, name this Russian leader who led the October Revolution.": {
+    "guess": "Vladimir Lenin",
+    "confidence": [
+      [
+        "V",
+        -0.00989267
+      ],
+      [
+        "ladimir",
+        0.0
+      ],
+      [
+        " Lenin",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The 2004 Saville inquiry overturned Lord Widgery's earlier findings about this event. It was a result": {
+    "guess": "Bloody Sunday (1972)",
+    "confidence": [
+      [
+        "Blo",
+        -0.100826025
+      ],
+      [
+        "ody",
+        0.0
+      ],
+      [
+        " Sunday",
+        0.0
+      ],
+      [
+        " (",
+        -0.00019948746
+      ],
+      [
+        "197",
+        -2.7014437e-05
+      ],
+      [
+        "2",
+        0.0
+      ],
+      [
+        ")",
+        -0.00020950058
+      ]
+    ]
+  },
+  "The 2004 Saville inquiry overturned Lord Widgery's earlier findings about this event. It was a result of the closing of Guildhall Square, which led soldiers to divert a march to the Free Corner. It occurred": {
+    "guess": "Bloody Sunday (1972)",
+    "confidence": [
+      [
+        "Blo",
+        -0.33373484
+      ],
+      [
+        "ody",
+        0.0
+      ],
+      [
+        " Sunday",
+        0.0
+      ],
+      [
+        " (",
+        -0.00013476722
+      ],
+      [
+        "197",
+        -9.72254e-05
+      ],
+      [
+        "2",
+        0.0
+      ],
+      [
+        ")",
+        -0.00014573395
+      ]
+    ]
+  },
+  "The 2004 Saville inquiry overturned Lord Widgery's earlier findings about this event. It was a result of the closing of Guildhall Square, which led soldiers to divert a march to the Free Corner. It occurred at a demonstration against imprisonment without charge that took place in (*) Londonderry in 1972.": {
+    "guess": "Bloody Sunday (1972)",
+    "confidence": [
+      [
+        "Blo",
+        -0.001591869
+      ],
+      [
+        "ody",
+        0.0
+      ],
+      [
+        " Sunday",
+        0.0
+      ],
+      [
+        " (",
+        -0.000121542944
+      ],
+      [
+        "197",
+        -6.098748e-05
+      ],
+      [
+        "2",
+        0.0
+      ],
+      [
+        ")",
+        -4.298773e-05
+      ]
+    ]
+  },
+  "The 2004 Saville inquiry overturned Lord Widgery's earlier findings about this event. It was a result of the closing of Guildhall Square, which led soldiers to divert a march to the Free Corner. It occurred at a demonstration against imprisonment without charge that took place in (*) Londonderry in 1972. Thirteen of the protesters were killed by British army shooters, though the question of who shot": {
+    "guess": "Bloody Sunday (1972)",
+    "confidence": [
+      [
+        "Blo",
+        -0.0061257333
+      ],
+      [
+        "ody",
+        0.0
+      ],
+      [
+        " Sunday",
+        0.0
+      ],
+      [
+        " (",
+        -0.00012201976
+      ],
+      [
+        "197",
+        -1.7120534e-05
+      ],
+      [
+        "2",
+        0.0
+      ],
+      [
+        ")",
+        -3.3093824e-05
+      ]
+    ]
+  },
+  "The 2004 Saville inquiry overturned Lord Widgery's earlier findings about this event. It was a result of the closing of Guildhall Square, which led soldiers to divert a march to the Free Corner. It occurred at a demonstration against imprisonment without charge that took place in (*) Londonderry in 1972. Thirteen of the protesters were killed by British army shooters, though the question of who shot first was contested by the Northern Ireland Civil Rights Association. For 10 points, identify this": {
+    "guess": "Bloody Sunday (1972)",
+    "confidence": [
+      [
+        "Blo",
+        -0.021314716
+      ],
+      [
+        "ody",
+        0.0
+      ],
+      [
+        " Sunday",
+        -1.50940705e-05
+      ],
+      [
+        " (",
+        -0.003194351
+      ],
+      [
+        "197",
+        -9.293406e-05
+      ],
+      [
+        "2",
+        0.0
+      ],
+      [
+        ")",
+        -0.00040207137
+      ]
+    ]
+  },
+  "The 2004 Saville inquiry overturned Lord Widgery's earlier findings about this event. It was a result of the closing of Guildhall Square, which led soldiers to divert a march to the Free Corner. It occurred at a demonstration against imprisonment without charge that took place in (*) Londonderry in 1972. Thirteen of the protesters were killed by British army shooters, though the question of who shot first was contested by the Northern Ireland Civil Rights Association. For 10 points, identify this sanguine event, named for its occurrence on a certain day of the week.": {
+    "guess": "Bloody Sunday (1972)",
+    "confidence": [
+      [
+        "Blo",
+        -0.008543537
+      ],
+      [
+        "ody",
+        0.0
+      ],
+      [
+        " Sunday",
+        -9.114601e-05
+      ],
+      [
+        " (",
+        -0.012611252
+      ],
+      [
+        "197",
+        -5.7649777e-05
+      ],
+      [
+        "2",
+        0.0
+      ],
+      [
+        ")",
+        -7.147741e-05
+      ]
+    ]
+  }
+}

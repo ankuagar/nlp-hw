@@ -1,0 +1,80 @@
+{
+  "The AFISMA mission was authorized to intervene in this country. The reconquest of Kidal occurred in this": {
+    "guess": "Mali",
+    "confidence": [
+      [
+        "M",
+        -0.0007450681
+      ],
+      [
+        "ali",
+        -0.00010950337
+      ]
+    ]
+  },
+  "The AFISMA mission was authorized to intervene in this country. The reconquest of Kidal occurred in this country, which was entered by an expeditionary force led by Thierry Burkhard as part of Operation": {
+    "guess": "Mali",
+    "confidence": [
+      [
+        "M",
+        -2.486877e-05
+      ],
+      [
+        "ali",
+        -1.1637165e-05
+      ]
+    ]
+  },
+  "The AFISMA mission was authorized to intervene in this country. The reconquest of Kidal occurred in this country, which was entered by an expeditionary force led by Thierry Burkhard as part of Operation Serval. The MNLA-controlled Republic of Azawad was declared in this country, in an area where a collection": {
+    "guess": "Mali",
+    "confidence": [
+      [
+        "M",
+        -1.8431772e-05
+      ],
+      [
+        "ali",
+        0.0
+      ]
+    ]
+  },
+  "The AFISMA mission was authorized to intervene in this country. The reconquest of Kidal occurred in this country, which was entered by an expeditionary force led by Thierry Burkhard as part of Operation Serval. The MNLA-controlled Republic of Azawad was declared in this country, in an area where a collection of priceless pre-colonial manuscripts was torched. Amadou Toumani Tour\u00e9 once led this country,": {
+    "guess": "Mali",
+    "confidence": [
+      [
+        "M",
+        -5.705376e-05
+      ],
+      [
+        "ali",
+        0.0
+      ]
+    ]
+  },
+  "The AFISMA mission was authorized to intervene in this country. The reconquest of Kidal occurred in this country, which was entered by an expeditionary force led by Thierry Burkhard as part of Operation Serval. The MNLA-controlled Republic of Azawad was declared in this country, in an area where a collection of priceless pre-colonial manuscripts was torched. Amadou Toumani Tour\u00e9 once led this country, to which Francois Hollande deployed two thousand troops in January 2013. For 10 points, name this": {
+    "guess": "Mali",
+    "confidence": [
+      [
+        "M",
+        -8.244414e-05
+      ],
+      [
+        "ali",
+        0.0
+      ]
+    ]
+  },
+  "The AFISMA mission was authorized to intervene in this country. The reconquest of Kidal occurred in this country, which was entered by an expeditionary force led by Thierry Burkhard as part of Operation Serval. The MNLA-controlled Republic of Azawad was declared in this country, in an area where a collection of priceless pre-colonial manuscripts was torched. Amadou Toumani Tour\u00e9 once led this country, to which Francois Hollande deployed two thousand troops in January 2013. For 10 points, name this African country where Islamist rebels inspired a 2012 coup and occupied cities such as Timbuktu.": {
+    "guess": "Mali",
+    "confidence": [
+      [
+        "M",
+        -0.0001136755
+      ],
+      [
+        "ali",
+        0.0
+      ]
+    ]
+  }
+}

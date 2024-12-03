@@ -1,0 +1,127 @@
+{
+  "The KDEL retention sequence signals which proteins remain in this organelle, and one of this organelle's": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.006292668
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -0.00010616567
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "The KDEL retention sequence signals which proteins remain in this organelle, and one of this organelle's functions is glycosylation (gly-COSS-ill-AY-shun) of proteins. COPI (cop one) and COPII (cop two)": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.13722327
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -7.862962e-05
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "The KDEL retention sequence signals which proteins remain in this organelle, and one of this organelle's functions is glycosylation (gly-COSS-ill-AY-shun) of proteins. COPI (cop one) and COPII (cop two) proteins aid in transporting proteins between the Golgi body and this organelle. The presence or absence": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.0075151767
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -2.319992e-05
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "The KDEL retention sequence signals which proteins remain in this organelle, and one of this organelle's functions is glycosylation (gly-COSS-ill-AY-shun) of proteins. COPI (cop one) and COPII (cop two) proteins aid in transporting proteins between the Golgi body and this organelle. The presence or absence of ribosomes on the surface of these organelles determines whether they are of the \"rough\" or": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.0041580573
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -4.143808e-05
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  },
+  "The KDEL retention sequence signals which proteins remain in this organelle, and one of this organelle's functions is glycosylation (gly-COSS-ill-AY-shun) of proteins. COPI (cop one) and COPII (cop two) proteins aid in transporting proteins between the Golgi body and this organelle. The presence or absence of ribosomes on the surface of these organelles determines whether they are of the \"rough\" or \"smooth\" variety. For 10 points, name this organelle that helps fold and transport proteins.": {
+    "guess": "Endoplasmic reticulum",
+    "confidence": [
+      [
+        "End",
+        -0.00020509004
+      ],
+      [
+        "oplas",
+        0.0
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " ret",
+        -8.8285124e-05
+      ],
+      [
+        "iculum",
+        0.0
+      ]
+    ]
+  }
+}

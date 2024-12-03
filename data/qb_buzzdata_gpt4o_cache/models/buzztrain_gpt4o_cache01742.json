@@ -1,0 +1,70 @@
+{
+  "In environmental chemistry, this law predicts the distribution of pollutants between water and the atmosphere.": {
+    "guess": "Henry's Law",
+    "confidence": [
+      [
+        "Henry",
+        -0.0035380595
+      ],
+      [
+        "'s",
+        -4.0246043e-05
+      ],
+      [
+        " Law",
+        -0.008614569
+      ]
+    ]
+  },
+  "In environmental chemistry, this law predicts the distribution of pollutants between water and the atmosphere. It also explains why bubbles come out of solution when a carbonated beverage is opened. It": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.0089306785
+      ],
+      [
+        "'s",
+        -5.8365e-05
+      ],
+      [
+        " law",
+        -0.018149942
+      ]
+    ]
+  },
+  "In environmental chemistry, this law predicts the distribution of pollutants between water and the atmosphere. It also explains why bubbles come out of solution when a carbonated beverage is opened. It holds whenever Raoult's law holds for a solvent. For 10 points\u2014name this law which states that the": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.00043519895
+      ],
+      [
+        "'s",
+        -9.014684e-06
+      ],
+      [
+        " law",
+        -0.005233883
+      ]
+    ]
+  },
+  "In environmental chemistry, this law predicts the distribution of pollutants between water and the atmosphere. It also explains why bubbles come out of solution when a carbonated beverage is opened. It holds whenever Raoult's law holds for a solvent. For 10 points\u2014name this law which states that the vapor pressure of a solute is proportional to the solute's mole fraction.": {
+    "guess": "Henry's law",
+    "confidence": [
+      [
+        "Henry",
+        -0.062758185
+      ],
+      [
+        "'s",
+        -7.9418505e-06
+      ],
+      [
+        " law",
+        -0.00029625517
+      ]
+    ]
+  }
+}

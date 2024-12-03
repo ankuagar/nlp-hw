@@ -1,0 +1,178 @@
+{
+  "The omega minus one of these particles was predicted by Murray Gell-Mann. A strangeness number is added": {
+    "guess": "Baryon",
+    "confidence": [
+      [
+        "B",
+        -0.89812154
+      ],
+      [
+        "ary",
+        -7.89631e-07
+      ],
+      [
+        "on",
+        -0.0007100478
+      ]
+    ]
+  },
+  "The omega minus one of these particles was predicted by Murray Gell-Mann. A strangeness number is added to this class of particles, which is equal to negative one times the number of strange quarks included": {
+    "guess": "Baryon",
+    "confidence": [
+      [
+        "B",
+        -0.022501415
+      ],
+      [
+        "ary",
+        -1.9361265e-07
+      ],
+      [
+        "on",
+        -0.00012344286
+      ]
+    ]
+  },
+  "The omega minus one of these particles was predicted by Murray Gell-Mann. A strangeness number is added to this class of particles, which is equal to negative one times the number of strange quarks included in one of these particles, and they are organized via the (*) Eightfold Way. These particles are": {
+    "guess": "Baryon",
+    "confidence": [
+      [
+        "B",
+        -0.0036598109
+      ],
+      [
+        "ary",
+        0.0
+      ],
+      [
+        "on",
+        -0.018150061
+      ]
+    ]
+  },
+  "The omega minus one of these particles was predicted by Murray Gell-Mann. A strangeness number is added to this class of particles, which is equal to negative one times the number of strange quarks included in one of these particles, and they are organized via the (*) Eightfold Way. These particles are made of up of three quarks. For 10 points, identify this class of particles, which includes the protons": {
+    "guess": "Baryon",
+    "confidence": [
+      [
+        "B",
+        -0.0002663424
+      ],
+      [
+        "ary",
+        -1.9361265e-07
+      ],
+      [
+        "on",
+        -0.0009114635
+      ]
+    ]
+  },
+  "The omega minus one of these particles was predicted by Murray Gell-Mann. A strangeness number is added to this class of particles, which is equal to negative one times the number of strange quarks included in one of these particles, and they are organized via the (*) Eightfold Way. These particles are made of up of three quarks. For 10 points, identify this class of particles, which includes the protons and neutrons.": {
+    "guess": "Baryon",
+    "confidence": [
+      [
+        "B",
+        -0.00029780483
+      ],
+      [
+        "ary",
+        0.0
+      ],
+      [
+        "on",
+        -0.00015848507
+      ]
+    ]
+  },
+  "Omega languages with this property consist of infinite words which are equivalent to B\u00fcchi automata.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.57832694
+      ]
+    ]
+  },
+  "Omega languages with this property consist of infinite words which are equivalent to B\u00fcchi automata. This property describes sets of strings which correspond to DSPACE of big O of one; such languages must": {
+    "guess": "REGULAR",
+    "confidence": [
+      [
+        "REG",
+        -0.28473297
+      ],
+      [
+        "ULAR",
+        0.0
+      ]
+    ]
+  },
+  "Omega languages with this property consist of infinite words which are equivalent to B\u00fcchi automata. This property describes sets of strings which correspond to DSPACE of big O of one; such languages must have a finite number of \"distinguishing strings\" such that each appended string forms an equivalence": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7362653
+      ]
+    ]
+  },
+  "Omega languages with this property consist of infinite words which are equivalent to B\u00fcchi automata. This property describes sets of strings which correspond to DSPACE of big O of one; such languages must have a finite number of \"distinguishing strings\" such that each appended string forms an equivalence class. These languages are the subject of the Myhill\u0096Nerode theorem and correspond to type-3 languages,": {
+    "guess": "REGULAR",
+    "confidence": [
+      [
+        "REG",
+        -0.19133198
+      ],
+      [
+        "ULAR",
+        0.0
+      ]
+    ]
+  },
+  "Omega languages with this property consist of infinite words which are equivalent to B\u00fcchi automata. This property describes sets of strings which correspond to DSPACE of big O of one; such languages must have a finite number of \"distinguishing strings\" such that each appended string forms an equivalence class. These languages are the subject of the Myhill\u0096Nerode theorem and correspond to type-3 languages, right-linear grammars, and left-linear grammars. Concatenation and the Kleene Star are two": {
+    "guess": "REGULAR",
+    "confidence": [
+      [
+        "REG",
+        -0.269372
+      ],
+      [
+        "ULAR",
+        0.0
+      ]
+    ]
+  },
+  "Omega languages with this property consist of infinite words which are equivalent to B\u00fcchi automata. This property describes sets of strings which correspond to DSPACE of big O of one; such languages must have a finite number of \"distinguishing strings\" such that each appended string forms an equivalence class. These languages are the subject of the Myhill\u0096Nerode theorem and correspond to type-3 languages, right-linear grammars, and left-linear grammars. Concatenation and the Kleene Star are two operations that can be applied to a tool described by this adjective, which can be used to search for": {
+    "guess": "REGULAR EXPRESSIONS",
+    "confidence": [
+      [
+        "REG",
+        -0.23841748
+      ],
+      [
+        "ULAR",
+        -1.9361265e-07
+      ],
+      [
+        " EXPRESS",
+        -0.6037623
+      ],
+      [
+        "IONS",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "Omega languages with this property consist of infinite words which are equivalent to B\u00fcchi automata. This property describes sets of strings which correspond to DSPACE of big O of one; such languages must have a finite number of \"distinguishing strings\" such that each appended string forms an equivalence class. These languages are the subject of the Myhill\u0096Nerode theorem and correspond to type-3 languages, right-linear grammars, and left-linear grammars. Concatenation and the Kleene Star are two operations that can be applied to a tool described by this adjective, which can be used to search for strings. For 10 points, expressions that are used by Linux's \"grep\" can be described by what adjective?": {
+    "guess": "Regular expressions",
+    "confidence": [
+      [
+        "Regular",
+        -0.23733822
+      ],
+      [
+        " expressions",
+        -0.13816927
+      ]
+    ]
+  }
+}

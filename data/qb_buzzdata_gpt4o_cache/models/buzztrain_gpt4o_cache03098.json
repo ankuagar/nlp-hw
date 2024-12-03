@@ -1,0 +1,223 @@
+{
+  "ibn Abi Bakr Muhammad ibn al-Hasan _Ibn Khaldun_  The rotation rate of this object is the angular momentum": {
+    "guess": "Earth",
+    "confidence": [
+      [
+        "Earth",
+        -0.106124595
+      ]
+    ]
+  },
+  "ibn Abi Bakr Muhammad ibn al-Hasan _Ibn Khaldun_  The rotation rate of this object is the angular momentum partial of the mean perturbation. Both this object and one of the vectors from which it is derived": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.1153692
+      ]
+    ]
+  },
+  "ibn Abi Bakr Muhammad ibn al-Hasan _Ibn Khaldun_  The rotation rate of this object is the angular momentum partial of the mean perturbation. Both this object and one of the vectors from which it is derived are conserved by systems with S O-naught three comma one and S O four symmetries. It is given by": {
+    "guess": "Runge\u2013Lenz vector",
+    "confidence": [
+      [
+        "Run",
+        -0.5527503
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.576548
+      ],
+      [
+        "L",
+        -2.8160932e-06
+      ],
+      [
+        "enz",
+        -4.0842064e-05
+      ],
+      [
+        " vector",
+        -0.0031945894
+      ]
+    ]
+  },
+  "ibn Abi Bakr Muhammad ibn al-Hasan _Ibn Khaldun_  The rotation rate of this object is the angular momentum partial of the mean perturbation. Both this object and one of the vectors from which it is derived are conserved by systems with S O-naught three comma one and S O four symmetries. It is given by the cross product of the linear and angular momenta divided by the coupling constant, minus the formal": {
+    "guess": "Runge\u2013Lenz vector",
+    "confidence": [
+      [
+        "Run",
+        -0.17476419
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.16077451
+      ],
+      [
+        "L",
+        -9.0883464e-07
+      ],
+      [
+        "enz",
+        -1.700133e-05
+      ],
+      [
+        " vector",
+        -1.342522e-05
+      ]
+    ]
+  },
+  "ibn Abi Bakr Muhammad ibn al-Hasan _Ibn Khaldun_  The rotation rate of this object is the angular momentum partial of the mean perturbation. Both this object and one of the vectors from which it is derived are conserved by systems with S O-naught three comma one and S O four symmetries. It is given by the cross product of the linear and angular momenta divided by the coupling constant, minus the formal charge times the radial unit vector, and is proportional to the eccentricity vector. Along with": {
+    "guess": "Runge\u2013Lenz vector",
+    "confidence": [
+      [
+        "Run",
+        -0.41647094
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.38751644
+      ],
+      [
+        "L",
+        -4.3202e-07
+      ],
+      [
+        "enz",
+        -1.0325924e-05
+      ],
+      [
+        " vector",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "ibn Abi Bakr Muhammad ibn al-Hasan _Ibn Khaldun_  The rotation rate of this object is the angular momentum partial of the mean perturbation. Both this object and one of the vectors from which it is derived are conserved by systems with S O-naught three comma one and S O four symmetries. It is given by the cross product of the linear and angular momenta divided by the coupling constant, minus the formal charge times the radial unit vector, and is proportional to the eccentricity vector. Along with angular momentum, it is a constant for motion in an inverse-square central force. FTP, name this vector": {
+    "guess": "Runge\u2013Lenz vector",
+    "confidence": [
+      [
+        "Run",
+        -0.4847357
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.6003565
+      ],
+      [
+        "L",
+        0.0
+      ],
+      [
+        "enz",
+        -5.8841815e-05
+      ],
+      [
+        " vector",
+        -8.5781845e-05
+      ]
+    ]
+  },
+  "ibn Abi Bakr Muhammad ibn al-Hasan _Ibn Khaldun_  The rotation rate of this object is the angular momentum partial of the mean perturbation. Both this object and one of the vectors from which it is derived are conserved by systems with S O-naught three comma one and S O four symmetries. It is given by the cross product of the linear and angular momenta divided by the coupling constant, minus the formal charge times the radial unit vector, and is proportional to the eccentricity vector. Along with angular momentum, it is a constant for motion in an inverse-square central force. FTP, name this vector in orbit theory that is sometimes named for Lapalce, but is usually named for two Germans; a mathematician": {
+    "guess": "Runge\u2013Lenz vector",
+    "confidence": [
+      [
+        "Run",
+        -0.49425736
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.25601128
+      ],
+      [
+        "L",
+        -3.1281633e-07
+      ],
+      [
+        "enz",
+        -2.4630364e-05
+      ],
+      [
+        " vector",
+        -0.00015288251
+      ]
+    ]
+  },
+  "ibn Abi Bakr Muhammad ibn al-Hasan _Ibn Khaldun_  The rotation rate of this object is the angular momentum partial of the mean perturbation. Both this object and one of the vectors from which it is derived are conserved by systems with S O-naught three comma one and S O four symmetries. It is given by the cross product of the linear and angular momenta divided by the coupling constant, minus the formal charge times the radial unit vector, and is proportional to the eccentricity vector. Along with angular momentum, it is a constant for motion in an inverse-square central force. FTP, name this vector in orbit theory that is sometimes named for Lapalce, but is usually named for two Germans; a mathematician who has a numerical integration algorithm with Kutta and a physicist with the same name": {
+    "guess": "Runge\u2013Lenz vector",
+    "confidence": [
+      [
+        "Run",
+        -0.4976194
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.16044906
+      ],
+      [
+        "L",
+        -5.5122365e-07
+      ],
+      [
+        "enz",
+        -1.6882126e-05
+      ],
+      [
+        " vector",
+        -4.85903e-05
+      ]
+    ]
+  },
+  "ibn Abi Bakr Muhammad ibn al-Hasan _Ibn Khaldun_  The rotation rate of this object is the angular momentum partial of the mean perturbation. Both this object and one of the vectors from which it is derived are conserved by systems with S O-naught three comma one and S O four symmetries. It is given by the cross product of the linear and angular momenta divided by the coupling constant, minus the formal charge times the radial unit vector, and is proportional to the eccentricity vector. Along with angular momentum, it is a constant for motion in an inverse-square central force. FTP, name this vector in orbit theory that is sometimes named for Lapalce, but is usually named for two Germans; a mathematician who has a numerical integration algorithm with Kutta and a physicist with the same name as another whose namesake law is Le Chatelier's principle for electromagnets.": {
+    "guess": "Runge\u2013Lenz vector",
+    "confidence": [
+      [
+        "Run",
+        -0.20924744
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.25473195
+      ],
+      [
+        "L",
+        -5.5122365e-07
+      ],
+      [
+        "enz",
+        -1.3306016e-05
+      ],
+      [
+        " vector",
+        -0.00027170655
+      ]
+    ]
+  }
+}

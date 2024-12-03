@@ -1,0 +1,2426 @@
+{
+  "Denali makes use of a process termed para this to run x86 architecture on certain machines advanced by": {
+    "guess": "Paravirtualization",
+    "confidence": [
+      [
+        "Par",
+        -0.29950273
+      ],
+      [
+        "av",
+        -1.9361265e-07
+      ],
+      [
+        "irtual",
+        -3.1281633e-07
+      ],
+      [
+        "ization",
+        0.0
+      ]
+    ]
+  },
+  "Denali makes use of a process termed para this to run x86 architecture on certain machines advanced by Popek and Goldberg. Examples of those machines described by this adjective include Java Runtime Environment,": {
+    "guess": "Virtualization",
+    "confidence": [
+      [
+        "Virtual",
+        -0.0059818854
+      ],
+      [
+        "ization",
+        -0.052340962
+      ]
+    ]
+  },
+  "Denali makes use of a process termed para this to run x86 architecture on certain machines advanced by Popek and Goldberg. Examples of those machines described by this adjective include Java Runtime Environment, which sends commands and receives outputs from the Java software, and the memory of this": {
+    "guess": "Paravirtualization",
+    "confidence": [
+      [
+        "Par",
+        -0.06686978
+      ],
+      [
+        "av",
+        0.0
+      ],
+      [
+        "irtual",
+        -1.9361265e-07
+      ],
+      [
+        "ization",
+        -1.0445127e-05
+      ]
+    ]
+  },
+  "Denali makes use of a process termed para this to run x86 architecture on certain machines advanced by Popek and Goldberg. Examples of those machines described by this adjective include Java Runtime Environment, which sends commands and receives outputs from the Java software, and the memory of this type frees up RAM by moving unused physical memory to the hard disk. Certain entities described by this": {
+    "guess": "Virtualization",
+    "confidence": [
+      [
+        "Virtual",
+        -0.032954566
+      ],
+      [
+        "ization",
+        -0.013391857
+      ]
+    ]
+  },
+  "Denali makes use of a process termed para this to run x86 architecture on certain machines advanced by Popek and Goldberg. Examples of those machines described by this adjective include Java Runtime Environment, which sends commands and receives outputs from the Java software, and the memory of this type frees up RAM by moving unused physical memory to the hard disk. Certain entities described by this adjective are formed by reflections in all convex mirrors, and, when an object is within the focal": {
+    "guess": "Virtualization",
+    "confidence": [
+      [
+        "Virtual",
+        -0.035854623
+      ],
+      [
+        "ization",
+        -0.7257111
+      ]
+    ]
+  },
+  "Denali makes use of a process termed para this to run x86 architecture on certain machines advanced by Popek and Goldberg. Examples of those machines described by this adjective include Java Runtime Environment, which sends commands and receives outputs from the Java software, and the memory of this type frees up RAM by moving unused physical memory to the hard disk. Certain entities described by this adjective are formed by reflections in all convex mirrors, and, when an object is within the focal length, converging lenses also lead to those images described by this adjective. For 10 points, identify": {
+    "guess": "Virtual",
+    "confidence": [
+      [
+        "Virtual",
+        -0.04072214
+      ]
+    ]
+  },
+  "Denali makes use of a process termed para this to run x86 architecture on certain machines advanced by Popek and Goldberg. Examples of those machines described by this adjective include Java Runtime Environment, which sends commands and receives outputs from the Java software, and the memory of this type frees up RAM by moving unused physical memory to the hard disk. Certain entities described by this adjective are formed by reflections in all convex mirrors, and, when an object is within the focal length, converging lenses also lead to those images described by this adjective. For 10 points, identify this adjective, which contrasts with real images in optics and names a type of technology that": {
+    "guess": "Virtual",
+    "confidence": [
+      [
+        "Virtual",
+        -0.016184049
+      ]
+    ]
+  },
+  "Denali makes use of a process termed para this to run x86 architecture on certain machines advanced by Popek and Goldberg. Examples of those machines described by this adjective include Java Runtime Environment, which sends commands and receives outputs from the Java software, and the memory of this type frees up RAM by moving unused physical memory to the hard disk. Certain entities described by this adjective are formed by reflections in all convex mirrors, and, when an object is within the focal length, converging lenses also lead to those images described by this adjective. For 10 points, identify this adjective, which contrasts with real images in optics and names a type of technology that simulates the feel of a fake alternate world called its namesake reality.": {
+    "guess": "Virtual",
+    "confidence": [
+      [
+        "Virtual",
+        -0.008175405
+      ]
+    ]
+  },
+  "Denoted by a 4 by 4 matrix incoporating an arbitrary rotation and boost, it alters a four-vector of charge": {
+    "guess": "Lorentz transformation",
+    "confidence": [
+      [
+        "Lor",
+        -0.0011015183
+      ],
+      [
+        "entz",
+        -4.8425554e-06
+      ],
+      [
+        " transformation",
+        -4.1557283e-05
+      ]
+    ]
+  },
+  "Denoted by a 4 by 4 matrix incoporating an arbitrary rotation and boost, it alters a four-vector of charge and current density just as it does a four-vector of time and position. It can be derived by assuming": {
+    "guess": "Lorentz transformation",
+    "confidence": [
+      [
+        "Lor",
+        -0.005238141
+      ],
+      [
+        "entz",
+        -5.5122365e-07
+      ],
+      [
+        " transformation",
+        -8.89548e-06
+      ]
+    ]
+  },
+  "Denoted by a 4 by 4 matrix incoporating an arbitrary rotation and boost, it alters a four-vector of charge and current density just as it does a four-vector of time and position. It can be derived by assuming equality of inertial reference frames and the constancy of the speed of light. For ten points,": {
+    "guess": "Lorentz transformation",
+    "confidence": [
+      [
+        "Lor",
+        -0.0006439301
+      ],
+      [
+        "entz",
+        -4.3202e-07
+      ],
+      [
+        " transformation",
+        -3.0232935e-05
+      ]
+    ]
+  },
+  "Denoted by a 4 by 4 matrix incoporating an arbitrary rotation and boost, it alters a four-vector of charge and current density just as it does a four-vector of time and position. It can be derived by assuming equality of inertial reference frames and the constancy of the speed of light. For ten points, reference frame changes in special relativity are described by what transformation.": {
+    "guess": "Lorentz transformation",
+    "confidence": [
+      [
+        "Lor",
+        -5.080963e-06
+      ],
+      [
+        "entz",
+        -5.5122365e-07
+      ],
+      [
+        " transformation",
+        -1.9385403e-05
+      ]
+    ]
+  },
+  "To denote quantities, this language uses a measure word, such as \"ge\" [GUH], between the number and the": {
+    "guess": "Chinese language",
+    "confidence": [
+      [
+        "Chinese",
+        -0.06529048
+      ],
+      [
+        " language",
+        -0.01874738
+      ]
+    ]
+  },
+  "To denote quantities, this language uses a measure word, such as \"ge\" [GUH], between the number and the object. This language differentiates between homophones through four different tones, indicated in": {
+    "guess": "Mandarin Chinese",
+    "confidence": [
+      [
+        "Mand",
+        -0.39391088
+      ],
+      [
+        "arin",
+        0.0
+      ],
+      [
+        " Chinese",
+        -1.5928495e-05
+      ]
+    ]
+  },
+  "To denote quantities, this language uses a measure word, such as \"ge\" [GUH], between the number and the object. This language differentiates between homophones through four different tones, indicated in one writing system by markings above the vowel. Romanization systems for this language include Wade-Giles": {
+    "guess": "Mandarin Chinese",
+    "confidence": [
+      [
+        "Mand",
+        -0.47545537
+      ],
+      [
+        "arin",
+        0.0
+      ],
+      [
+        " Chinese",
+        -6.869018e-06
+      ]
+    ]
+  },
+  "To denote quantities, this language uses a measure word, such as \"ge\" [GUH], between the number and the object. This language differentiates between homophones through four different tones, indicated in one writing system by markings above the vowel. Romanization systems for this language include Wade-Giles and Pinyin. This language's word for \"person\" is \"ren,\" and this language's speakers call it": {
+    "guess": "Mandarin Chinese",
+    "confidence": [
+      [
+        "Mand",
+        -0.18265201
+      ],
+      [
+        "arin",
+        0.0
+      ],
+      [
+        " Chinese",
+        -1.5451682e-05
+      ]
+    ]
+  },
+  "To denote quantities, this language uses a measure word, such as \"ge\" [GUH], between the number and the object. This language differentiates between homophones through four different tones, indicated in one writing system by markings above the vowel. Romanization systems for this language include Wade-Giles and Pinyin. This language's word for \"person\" is \"ren,\" and this language's speakers call it Zhongwen [JONG-wen]. For 10 points, name this language, which, like Cantonese, is spoken widely in": {
+    "guess": "Mandarin Chinese",
+    "confidence": [
+      [
+        "Mand",
+        -0.082593456
+      ],
+      [
+        "arin",
+        0.0
+      ],
+      [
+        " Chinese",
+        -0.00015467056
+      ]
+    ]
+  },
+  "To denote quantities, this language uses a measure word, such as \"ge\" [GUH], between the number and the object. This language differentiates between homophones through four different tones, indicated in one writing system by markings above the vowel. Romanization systems for this language include Wade-Giles and Pinyin. This language's word for \"person\" is \"ren,\" and this language's speakers call it Zhongwen [JONG-wen]. For 10 points, name this language, which, like Cantonese, is spoken widely in China.": {
+    "guess": "Mandarin Chinese",
+    "confidence": [
+      [
+        "Mand",
+        -0.023873424
+      ],
+      [
+        "arin",
+        0.0
+      ],
+      [
+        " Chinese",
+        -1.92662e-05
+      ]
+    ]
+  },
+  "The denominator of the Thiele modulus is the rate of this process, whose anisotropic type is used to": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.09984738
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "The denominator of the Thiele modulus is the rate of this process, whose anisotropic type is used to reduce image noise. Explained by the Ehrenfest model, this process is used to enrich uranium and dope": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.05573513
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "The denominator of the Thiele modulus is the rate of this process, whose anisotropic type is used to reduce image noise. Explained by the Ehrenfest model, this process is used to enrich uranium and dope semiconductors. Its rate is inversely proportional to the square root of molar mass, and proportional": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.23878604
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "The denominator of the Thiele modulus is the rate of this process, whose anisotropic type is used to reduce image noise. Explained by the Ehrenfest model, this process is used to enrich uranium and dope semiconductors. Its rate is inversely proportional to the square root of molar mass, and proportional to the gradient of the concentration field. Governed by Fick's laws and Graham's law, it causes": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.08027572
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "The denominator of the Thiele modulus is the rate of this process, whose anisotropic type is used to reduce image noise. Explained by the Ehrenfest model, this process is used to enrich uranium and dope semiconductors. Its rate is inversely proportional to the square root of molar mass, and proportional to the gradient of the concentration field. Governed by Fick's laws and Graham's law, it causes water to move through semi-permeable membranes in osmosis. For 10 points, name this process by which": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.0052508297
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "The denominator of the Thiele modulus is the rate of this process, whose anisotropic type is used to reduce image noise. Explained by the Ehrenfest model, this process is used to enrich uranium and dope semiconductors. Its rate is inversely proportional to the square root of molar mass, and proportional to the gradient of the concentration field. Governed by Fick's laws and Graham's law, it causes water to move through semi-permeable membranes in osmosis. For 10 points, name this process by which particles move from regions of high concentration to those of low concentration.": {
+    "guess": "Diffusion",
+    "confidence": [
+      [
+        "Diff",
+        -0.0052530877
+      ],
+      [
+        "usion",
+        0.0
+      ]
+    ]
+  },
+  "A now-demolished addition to this structure housed a statue depicting Apollo surrounded by six nymphs,": {
+    "guess": "Palace of Versailles",
+    "confidence": [
+      [
+        "Pal",
+        -0.049630743
+      ],
+      [
+        "ace",
+        -6.704273e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Versailles",
+        0.0
+      ]
+    ]
+  },
+  "A now-demolished addition to this structure housed a statue depicting Apollo surrounded by six nymphs, the product of a collaboration between Giradon and Regnaudin. Frescoes by Antoine Coypel and Charles": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6538993
+      ]
+    ]
+  },
+  "A now-demolished addition to this structure housed a statue depicting Apollo surrounded by six nymphs, the product of a collaboration between Giradon and Regnaudin. Frescoes by Antoine Coypel and Charles de la Fosse adorn a chapel here, while a painting found here shows a man on horseback looking through": {
+    "guess": "Palace of Versailles",
+    "confidence": [
+      [
+        "Pal",
+        -0.018176045
+      ],
+      [
+        "ace",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Versailles",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A now-demolished addition to this structure housed a statue depicting Apollo surrounded by six nymphs, the product of a collaboration between Giradon and Regnaudin. Frescoes by Antoine Coypel and Charles de la Fosse adorn a chapel here, while a painting found here shows a man on horseback looking through a telescope as he hands a map to a companion. A controversial series of multicolored balloon-like": {
+    "guess": "Palace of Versailles",
+    "confidence": [
+      [
+        "Pal",
+        -0.47699058
+      ],
+      [
+        "ace",
+        -3.1281633e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Versailles",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "A now-demolished addition to this structure housed a statue depicting Apollo surrounded by six nymphs, the product of a collaboration between Giradon and Regnaudin. Frescoes by Antoine Coypel and Charles de la Fosse adorn a chapel here, while a painting found here shows a man on horseback looking through a telescope as he hands a map to a companion. A controversial series of multicolored balloon-like sculptures was exhibited in this building by (*) Takashi Murakami, while Saturn is encircled by cupids": {
+    "guess": "Palace of Versailles",
+    "confidence": [
+      [
+        "Pal",
+        -0.0026535362
+      ],
+      [
+        "ace",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Versailles",
+        0.0
+      ]
+    ]
+  },
+  "A now-demolished addition to this structure housed a statue depicting Apollo surrounded by six nymphs, the product of a collaboration between Giradon and Regnaudin. Frescoes by Antoine Coypel and Charles de la Fosse adorn a chapel here, while a painting found here shows a man on horseback looking through a telescope as he hands a map to a companion. A controversial series of multicolored balloon-like sculptures was exhibited in this building by (*) Takashi Murakami, while Saturn is encircled by cupids and shellfish in a prominent fountain here. Its most famous gallery features a series of 17 arched": {
+    "guess": "Palace of Versailles",
+    "confidence": [
+      [
+        "Pal",
+        -0.0027880035
+      ],
+      [
+        "ace",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Versailles",
+        0.0
+      ]
+    ]
+  },
+  "A now-demolished addition to this structure housed a statue depicting Apollo surrounded by six nymphs, the product of a collaboration between Giradon and Regnaudin. Frescoes by Antoine Coypel and Charles de la Fosse adorn a chapel here, while a painting found here shows a man on horseback looking through a telescope as he hands a map to a companion. A controversial series of multicolored balloon-like sculptures was exhibited in this building by (*) Takashi Murakami, while Saturn is encircled by cupids and shellfish in a prominent fountain here. Its most famous gallery features a series of 17 arched windows, which enable a view of the gardens within the namesake objects. The triumph of Charles": {
+    "guess": "Palace of Versailles",
+    "confidence": [
+      [
+        "Pal",
+        -0.001862357
+      ],
+      [
+        "ace",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Versailles",
+        0.0
+      ]
+    ]
+  },
+  "A now-demolished addition to this structure housed a statue depicting Apollo surrounded by six nymphs, the product of a collaboration between Giradon and Regnaudin. Frescoes by Antoine Coypel and Charles de la Fosse adorn a chapel here, while a painting found here shows a man on horseback looking through a telescope as he hands a map to a companion. A controversial series of multicolored balloon-like sculptures was exhibited in this building by (*) Takashi Murakami, while Saturn is encircled by cupids and shellfish in a prominent fountain here. Its most famous gallery features a series of 17 arched windows, which enable a view of the gardens within the namesake objects. The triumph of Charles Le Brun, for 10 points, name this home to the Hall of Mirrors, a French palace built for Louis XIV.": {
+    "guess": "Palace of Versailles",
+    "confidence": [
+      [
+        "Pal",
+        -0.00028636496
+      ],
+      [
+        "ace",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Versailles",
+        0.0
+      ]
+    ]
+  },
+  "In some denominations, \"epiclesis\" precedes this practice, and Justin Martyr's First Apology is sometimes": {
+    "guess": "Eucharist",
+    "confidence": [
+      [
+        "E",
+        -0.004048483
+      ],
+      [
+        "uchar",
+        0.0
+      ],
+      [
+        "ist",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "In some denominations, \"epiclesis\" precedes this practice, and Justin Martyr's First Apology is sometimes used as evidence that early practicioners believed in \"real presence\". In the Eastern Orthodox": {
+    "guess": "Eucharist",
+    "confidence": [
+      [
+        "E",
+        -0.020582063
+      ],
+      [
+        "uchar",
+        0.0
+      ],
+      [
+        "ist",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "In some denominations, \"epiclesis\" precedes this practice, and Justin Martyr's First Apology is sometimes used as evidence that early practicioners believed in \"real presence\". In the Eastern Orthodox church, this ritual is accompanied by the [*] anaphora prayer; Scriptural precedent for this ritual": {
+    "guess": "Eucharist",
+    "confidence": [
+      [
+        "E",
+        -0.0015120045
+      ],
+      [
+        "uchar",
+        0.0
+      ],
+      [
+        "ist",
+        0.0
+      ]
+    ]
+  },
+  "In some denominations, \"epiclesis\" precedes this practice, and Justin Martyr's First Apology is sometimes used as evidence that early practicioners believed in \"real presence\". In the Eastern Orthodox church, this ritual is accompanied by the [*] anaphora prayer; Scriptural precedent for this ritual is found in Matthew 26:28 and Mark 14:24. At the Marburg Colloquy, Luther and Zwingli diverged in their": {
+    "guess": "Eucharist",
+    "confidence": [
+      [
+        "E",
+        -0.00022737744
+      ],
+      [
+        "uchar",
+        0.0
+      ],
+      [
+        "ist",
+        0.0
+      ]
+    ]
+  },
+  "In some denominations, \"epiclesis\" precedes this practice, and Justin Martyr's First Apology is sometimes used as evidence that early practicioners believed in \"real presence\". In the Eastern Orthodox church, this ritual is accompanied by the [*] anaphora prayer; Scriptural precedent for this ritual is found in Matthew 26:28 and Mark 14:24. At the Marburg Colloquy, Luther and Zwingli diverged in their doctrine regarding a component of this ritual known as transubstantiation. For 10 points, identify": {
+    "guess": "Eucharist",
+    "confidence": [
+      [
+        "E",
+        -0.000111291425
+      ],
+      [
+        "uchar",
+        0.0
+      ],
+      [
+        "ist",
+        0.0
+      ]
+    ]
+  },
+  "In some denominations, \"epiclesis\" precedes this practice, and Justin Martyr's First Apology is sometimes used as evidence that early practicioners believed in \"real presence\". In the Eastern Orthodox church, this ritual is accompanied by the [*] anaphora prayer; Scriptural precedent for this ritual is found in Matthew 26:28 and Mark 14:24. At the Marburg Colloquy, Luther and Zwingli diverged in their doctrine regarding a component of this ritual known as transubstantiation. For 10 points, identify this rite, which involves the consumption of bread and wine as the body and blood of Jesus.": {
+    "guess": "Eucharist",
+    "confidence": [
+      [
+        "E",
+        -0.00010616567
+      ],
+      [
+        "uchar",
+        0.0
+      ],
+      [
+        "ist",
+        0.0
+      ]
+    ]
+  },
+  "This Democrat holds a gavel and gestures towards a man atop a pedestal in a cartoon captioned \"Ready": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5953617
+      ]
+    ]
+  },
+  "This Democrat holds a gavel and gestures towards a man atop a pedestal in a cartoon captioned \"Ready for Business,\" which depicts the Irish Tammany Hall vote \"for sale.\" He lost an election after decrying": {
+    "guess": "Samuel J. Tilden",
+    "confidence": [
+      [
+        "Samuel",
+        -0.06214313
+      ],
+      [
+        " J",
+        -0.023356006
+      ],
+      [
+        ".",
+        -3.1281633e-07
+      ],
+      [
+        " T",
+        -4.3202e-07
+      ],
+      [
+        "ilden",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "This Democrat holds a gavel and gestures towards a man atop a pedestal in a cartoon captioned \"Ready for Business,\" which depicts the Irish Tammany Hall vote \"for sale.\" He lost an election after decrying tariffs as contrary to \"American fairness.\" George Osgoodby posed as an expatriate Brit to get the": {
+    "guess": "James G. Blaine",
+    "confidence": [
+      [
+        "James",
+        -0.6812201
+      ],
+      [
+        " G",
+        -0.0020448635
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Bla",
+        -3.650519e-06
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "This Democrat holds a gavel and gestures towards a man atop a pedestal in a cartoon captioned \"Ready for Business,\" which depicts the Irish Tammany Hall vote \"for sale.\" He lost an election after decrying tariffs as contrary to \"American fairness.\" George Osgoodby posed as an expatriate Brit to get the British to admit that this man was their favored candidate in the Murchison letter. He was jeered": {
+    "guess": "Grover Cleveland",
+    "confidence": [
+      [
+        "Gro",
+        -0.011442474
+      ],
+      [
+        "ver",
+        0.0
+      ],
+      [
+        " Cleveland",
+        0.0
+      ]
+    ]
+  },
+  "This Democrat holds a gavel and gestures towards a man atop a pedestal in a cartoon captioned \"Ready for Business,\" which depicts the Irish Tammany Hall vote \"for sale.\" He lost an election after decrying tariffs as contrary to \"American fairness.\" George Osgoodby posed as an expatriate Brit to get the British to admit that this man was their favored candidate in the Murchison letter. He was jeered with the catchphrase \"Ma, ma, where's my pa?,\" but defeated a man who suffered from the \"Rum, Romanism,": {
+    "guess": "Grover Cleveland",
+    "confidence": [
+      [
+        "Gro",
+        -0.027862696
+      ],
+      [
+        "ver",
+        0.0
+      ],
+      [
+        " Cleveland",
+        0.0
+      ]
+    ]
+  },
+  "This Democrat holds a gavel and gestures towards a man atop a pedestal in a cartoon captioned \"Ready for Business,\" which depicts the Irish Tammany Hall vote \"for sale.\" He lost an election after decrying tariffs as contrary to \"American fairness.\" George Osgoodby posed as an expatriate Brit to get the British to admit that this man was their favored candidate in the Murchison letter. He was jeered with the catchphrase \"Ma, ma, where's my pa?,\" but defeated a man who suffered from the \"Rum, Romanism, and Rebellion\" speech. For 10 points, name this president who lost to Benjamin Harrison, who served": {
+    "guess": "Grover Cleveland",
+    "confidence": [
+      [
+        "Gro",
+        -0.005436401
+      ],
+      [
+        "ver",
+        0.0
+      ],
+      [
+        " Cleveland",
+        0.0
+      ]
+    ]
+  },
+  "This Democrat holds a gavel and gestures towards a man atop a pedestal in a cartoon captioned \"Ready for Business,\" which depicts the Irish Tammany Hall vote \"for sale.\" He lost an election after decrying tariffs as contrary to \"American fairness.\" George Osgoodby posed as an expatriate Brit to get the British to admit that this man was their favored candidate in the Murchison letter. He was jeered with the catchphrase \"Ma, ma, where's my pa?,\" but defeated a man who suffered from the \"Rum, Romanism, and Rebellion\" speech. For 10 points, name this president who lost to Benjamin Harrison, who served between this man's two non-consecutive terms.": {
+    "guess": "Grover Cleveland",
+    "confidence": [
+      [
+        "Gro",
+        -0.039480016
+      ],
+      [
+        "ver",
+        0.0
+      ],
+      [
+        " Cleveland",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The demoness Surpanakha had her nose and ears cut off as punishment for attacking this figure. This woman": {
+    "guess": "Sita",
+    "confidence": [
+      [
+        "S",
+        -0.0023272445
+      ],
+      [
+        "ita",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The demoness Surpanakha had her nose and ears cut off as punishment for attacking this figure. This woman raised the twins Lava and Kusha alone after gossip among the citizens of Ayodhya drove her husband": {
+    "guess": "Sita",
+    "confidence": [
+      [
+        "S",
+        -0.00649462
+      ],
+      [
+        "ita",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "The demoness Surpanakha had her nose and ears cut off as punishment for attacking this figure. This woman raised the twins Lava and Kusha alone after gossip among the citizens of Ayodhya drove her husband to cast her out. That husband won the right to marry her after he was the only man to successfully": {
+    "guess": "Sita",
+    "confidence": [
+      [
+        "S",
+        -0.011950879
+      ],
+      [
+        "ita",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "The demoness Surpanakha had her nose and ears cut off as punishment for attacking this figure. This woman raised the twins Lava and Kusha alone after gossip among the citizens of Ayodhya drove her husband to cast her out. That husband won the right to marry her after he was the only man to successfully lift Shiva's bow. This princess of Mithila was the adopted daughter of Janaka, who found her in a": {
+    "guess": "Sita",
+    "confidence": [
+      [
+        "S",
+        -0.0022636133
+      ],
+      [
+        "ita",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "The demoness Surpanakha had her nose and ears cut off as punishment for attacking this figure. This woman raised the twins Lava and Kusha alone after gossip among the citizens of Ayodhya drove her husband to cast her out. That husband won the right to marry her after he was the only man to successfully lift Shiva's bow. This princess of Mithila was the adopted daughter of Janaka, who found her in a furrow while plowing a field. She entered a burning pyre to prove her purity, after she voluntarily": {
+    "guess": "Sita",
+    "confidence": [
+      [
+        "S",
+        -0.0028633662
+      ],
+      [
+        "ita",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The demoness Surpanakha had her nose and ears cut off as punishment for attacking this figure. This woman raised the twins Lava and Kusha alone after gossip among the citizens of Ayodhya drove her husband to cast her out. That husband won the right to marry her after he was the only man to successfully lift Shiva's bow. This princess of Mithila was the adopted daughter of Janaka, who found her in a furrow while plowing a field. She entered a burning pyre to prove her purity, after she voluntarily accompanied her husband and Lakshmana in a fourteen year exile. She once asked her husband to catch": {
+    "guess": "Sita",
+    "confidence": [
+      [
+        "S",
+        -0.0006008114
+      ],
+      [
+        "ita",
+        -1.4855664e-05
+      ]
+    ]
+  },
+  "The demoness Surpanakha had her nose and ears cut off as punishment for attacking this figure. This woman raised the twins Lava and Kusha alone after gossip among the citizens of Ayodhya drove her husband to cast her out. That husband won the right to marry her after he was the only man to successfully lift Shiva's bow. This princess of Mithila was the adopted daughter of Janaka, who found her in a furrow while plowing a field. She entered a burning pyre to prove her purity, after she voluntarily accompanied her husband and Lakshmana in a fourteen year exile. She once asked her husband to catch a golden deer which turned out to be Maricha in disguise. Subsequently, Hanuman jumped across the ocean": {
+    "guess": "Sita",
+    "confidence": [
+      [
+        "S",
+        -0.00020032188
+      ],
+      [
+        "ita",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The demoness Surpanakha had her nose and ears cut off as punishment for attacking this figure. This woman raised the twins Lava and Kusha alone after gossip among the citizens of Ayodhya drove her husband to cast her out. That husband won the right to marry her after he was the only man to successfully lift Shiva's bow. This princess of Mithila was the adopted daughter of Janaka, who found her in a furrow while plowing a field. She entered a burning pyre to prove her purity, after she voluntarily accompanied her husband and Lakshmana in a fourteen year exile. She once asked her husband to catch a golden deer which turned out to be Maricha in disguise. Subsequently, Hanuman jumped across the ocean to find her, and a bridge to Lanka was built to rescue, for 10 points, which figure kidnapped by": {
+    "guess": "Sita",
+    "confidence": [
+      [
+        "S",
+        -4.1318875e-05
+      ],
+      [
+        "ita",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The demoness Surpanakha had her nose and ears cut off as punishment for attacking this figure. This woman raised the twins Lava and Kusha alone after gossip among the citizens of Ayodhya drove her husband to cast her out. That husband won the right to marry her after he was the only man to successfully lift Shiva's bow. This princess of Mithila was the adopted daughter of Janaka, who found her in a furrow while plowing a field. She entered a burning pyre to prove her purity, after she voluntarily accompanied her husband and Lakshmana in a fourteen year exile. She once asked her husband to catch a golden deer which turned out to be Maricha in disguise. Subsequently, Hanuman jumped across the ocean to find her, and a bridge to Lanka was built to rescue, for 10 points, which figure kidnapped by Ravana, the wife of Rama.": {
+    "guess": "Sita",
+    "confidence": [
+      [
+        "S",
+        -2.8444882e-05
+      ],
+      [
+        "ita",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "This denomination rejects the idea that the wicked dead are punished in Hell, instead holding that those": {
+    "guess": "Jehovah's Witnesses",
+    "confidence": [
+      [
+        "Jeh",
+        -0.62219214
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        "ah",
+        0.0
+      ],
+      [
+        "'s",
+        -9.627177e-05
+      ],
+      [
+        " Witness",
+        0.0
+      ],
+      [
+        "es",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "This denomination rejects the idea that the wicked dead are punished in Hell, instead holding that those not saved and resurrected by God will simply cease to exist, a fate they term the \"common grave\".": {
+    "guess": "Jehovah's Witnesses",
+    "confidence": [
+      [
+        "Jeh",
+        -0.000113913906
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        "ah",
+        0.0
+      ],
+      [
+        "'s",
+        -0.00010902656
+      ],
+      [
+        " Witness",
+        0.0
+      ],
+      [
+        "es",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "This denomination rejects the idea that the wicked dead are punished in Hell, instead holding that those not saved and resurrected by God will simply cease to exist, a fate they term the \"common grave\". This denomination traces its origin to the Bible Students movement led by Charles Russell. They interpret": {
+    "guess": "Jehovah's Witnesses",
+    "confidence": [
+      [
+        "Jeh",
+        -0.0001407274
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        "ah",
+        0.0
+      ],
+      [
+        "'s",
+        -8.4947416e-05
+      ],
+      [
+        " Witness",
+        0.0
+      ],
+      [
+        "es",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "This denomination rejects the idea that the wicked dead are punished in Hell, instead holding that those not saved and resurrected by God will simply cease to exist, a fate they term the \"common grave\". This denomination traces its origin to the Bible Students movement led by Charles Russell. They interpret Old Testament references to \"the Word\" or Archangel Michael to be references to pre-incarnation": {
+    "guess": "Jehovah's Witnesses",
+    "confidence": [
+      [
+        "Jeh",
+        -9.841743e-05
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        "ah",
+        0.0
+      ],
+      [
+        "'s",
+        -0.00020354039
+      ],
+      [
+        " Witness",
+        0.0
+      ],
+      [
+        "es",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This denomination rejects the idea that the wicked dead are punished in Hell, instead holding that those not saved and resurrected by God will simply cease to exist, a fate they term the \"common grave\". This denomination traces its origin to the Bible Students movement led by Charles Russell. They interpret Old Testament references to \"the Word\" or Archangel Michael to be references to pre-incarnation Christ. Since this denomination holds that Christ was a creation of God, they are non-Nicean and": {
+    "guess": "Jehovah's Witnesses",
+    "confidence": [
+      [
+        "Jeh",
+        -0.00017982253
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        "ah",
+        0.0
+      ],
+      [
+        "'s",
+        -0.00013989297
+      ],
+      [
+        " Witness",
+        0.0
+      ],
+      [
+        "es",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "This denomination rejects the idea that the wicked dead are punished in Hell, instead holding that those not saved and resurrected by God will simply cease to exist, a fate they term the \"common grave\". This denomination traces its origin to the Bible Students movement led by Charles Russell. They interpret Old Testament references to \"the Word\" or Archangel Michael to be references to pre-incarnation Christ. Since this denomination holds that Christ was a creation of God, they are non-Nicean and anti-Trinitarian. This denomination trains its missionaries at the Gilead School and its adherents": {
+    "guess": "Jehovah's Witnesses",
+    "confidence": [
+      [
+        "Jeh",
+        -0.00018387179
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        "ah",
+        0.0
+      ],
+      [
+        "'s",
+        -4.012684e-05
+      ],
+      [
+        " Witness",
+        0.0
+      ],
+      [
+        "es",
+        0.0
+      ]
+    ]
+  },
+  "This denomination rejects the idea that the wicked dead are punished in Hell, instead holding that those not saved and resurrected by God will simply cease to exist, a fate they term the \"common grave\". This denomination traces its origin to the Bible Students movement led by Charles Russell. They interpret Old Testament references to \"the Word\" or Archangel Michael to be references to pre-incarnation Christ. Since this denomination holds that Christ was a creation of God, they are non-Nicean and anti-Trinitarian. This denomination trains its missionaries at the Gilead School and its adherents meet at Kingdom Halls, and they interpret a Biblical prohibition on eating blood to apply to transfusions": {
+    "guess": "Jehovah's Witnesses",
+    "confidence": [
+      [
+        "Jeh",
+        -0.00014263466
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        "ah",
+        0.0
+      ],
+      [
+        "'s",
+        -6.6113236e-05
+      ],
+      [
+        " Witness",
+        0.0
+      ],
+      [
+        "es",
+        0.0
+      ]
+    ]
+  },
+  "This denomination rejects the idea that the wicked dead are punished in Hell, instead holding that those not saved and resurrected by God will simply cease to exist, a fate they term the \"common grave\". This denomination traces its origin to the Bible Students movement led by Charles Russell. They interpret Old Testament references to \"the Word\" or Archangel Michael to be references to pre-incarnation Christ. Since this denomination holds that Christ was a creation of God, they are non-Nicean and anti-Trinitarian. This denomination trains its missionaries at the Gilead School and its adherents meet at Kingdom Halls, and they interpret a Biblical prohibition on eating blood to apply to transfusions as well. For ten points, name this Christian denomination perhaps most notable for door-to-door": {
+    "guess": "Jehovah's Witnesses",
+    "confidence": [
+      [
+        "Jeh",
+        -0.00018256421
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        "ah",
+        0.0
+      ],
+      [
+        "'s",
+        -3.1305768e-05
+      ],
+      [
+        " Witness",
+        0.0
+      ],
+      [
+        "es",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "This denomination rejects the idea that the wicked dead are punished in Hell, instead holding that those not saved and resurrected by God will simply cease to exist, a fate they term the \"common grave\". This denomination traces its origin to the Bible Students movement led by Charles Russell. They interpret Old Testament references to \"the Word\" or Archangel Michael to be references to pre-incarnation Christ. Since this denomination holds that Christ was a creation of God, they are non-Nicean and anti-Trinitarian. This denomination trains its missionaries at the Gilead School and its adherents meet at Kingdom Halls, and they interpret a Biblical prohibition on eating blood to apply to transfusions as well. For ten points, name this Christian denomination perhaps most notable for door-to-door proselytizing.": {
+    "guess": "Jehovah's Witnesses",
+    "confidence": [
+      [
+        "Jeh",
+        -5.3358446e-05
+      ],
+      [
+        "ov",
+        0.0
+      ],
+      [
+        "ah",
+        0.0
+      ],
+      [
+        "'s",
+        -6.6113236e-05
+      ],
+      [
+        " Witness",
+        0.0
+      ],
+      [
+        "es",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Denouncing someone behind his or her back offsets the benefit gained from observing it, and one of the": {
+    "guess": "Laws of Hammurabi",
+    "confidence": [
+      [
+        "L",
+        -1.1584703
+      ],
+      [
+        "aws",
+        -0.2563166
+      ],
+      [
+        " of",
+        -0.001182608
+      ],
+      [
+        " Hamm",
+        -0.95022255
+      ],
+      [
+        "ur",
+        -1.9361265e-07
+      ],
+      [
+        "abi",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Denouncing someone behind his or her back offsets the benefit gained from observing it, and one of the practices it prohibits can be done until a white thread is easily distinguishable from a black one.": {
+    "guess": "Fasting in Islam",
+    "confidence": [
+      [
+        "F",
+        -0.16763291
+      ],
+      [
+        "asting",
+        -0.00012356207
+      ],
+      [
+        " in",
+        -0.098159775
+      ],
+      [
+        " Islam",
+        -7.362307e-05
+      ]
+    ]
+  },
+  "Denouncing someone behind his or her back offsets the benefit gained from observing it, and one of the practices it prohibits can be done until a white thread is easily distinguishable from a black one. One of its days marks the time that a certain object was revealed to Samaa Adunya; that \"Night of": {
+    "guess": "Laylat al-Qadr",
+    "confidence": [
+      [
+        "Lay",
+        -0.35242653
+      ],
+      [
+        "lat",
+        -1.9361265e-07
+      ],
+      [
+        " al",
+        -3.5716304e-05
+      ],
+      [
+        "-Q",
+        -3.2929079e-06
+      ],
+      [
+        "adr",
+        -3.0545007e-06
+      ]
+    ]
+  },
+  "Denouncing someone behind his or her back offsets the benefit gained from observing it, and one of the practices it prohibits can be done until a white thread is easily distinguishable from a black one. One of its days marks the time that a certain object was revealed to Samaa Adunya; that \"Night of Measures\" is known as the Laylat al-Qadr. Six nonconsecutive days of Shawwal follow it, and the main": {
+    "guess": "Eid al-Fitr",
+    "confidence": [
+      [
+        "E",
+        -0.69720894
+      ],
+      [
+        "id",
+        0.0
+      ],
+      [
+        " al",
+        -6.0153056e-05
+      ],
+      [
+        "-F",
+        -4.3202e-07
+      ],
+      [
+        "itr",
+        0.0
+      ]
+    ]
+  },
+  "Denouncing someone behind his or her back offsets the benefit gained from observing it, and one of the practices it prohibits can be done until a white thread is easily distinguishable from a black one. One of its days marks the time that a certain object was revealed to Samaa Adunya; that \"Night of Measures\" is known as the Laylat al-Qadr. Six nonconsecutive days of Shawwal follow it, and the main activity during it is known as sawm. It ends with the iftar, but it is ceremoniously broken by the": {
+    "guess": "Eid al-Fitr",
+    "confidence": [
+      [
+        "E",
+        -0.099559836
+      ],
+      [
+        "id",
+        0.0
+      ],
+      [
+        " al",
+        -0.00011152984
+      ],
+      [
+        "-F",
+        0.0
+      ],
+      [
+        "itr",
+        0.0
+      ]
+    ]
+  },
+  "Denouncing someone behind his or her back offsets the benefit gained from observing it, and one of the practices it prohibits can be done until a white thread is easily distinguishable from a black one. One of its days marks the time that a certain object was revealed to Samaa Adunya; that \"Night of Measures\" is known as the Laylat al-Qadr. Six nonconsecutive days of Shawwal follow it, and the main activity during it is known as sawm. It ends with the iftar, but it is ceremoniously broken by the Eid ul-Fitr. For 10 points, name this month of fasting in Islam.": {
+    "guess": "Ramadan",
+    "confidence": [
+      [
+        "Ram",
+        -3.1305768e-05
+      ],
+      [
+        "adan",
+        0.0
+      ]
+    ]
+  },
+  "This denomination's founder created a namesake \"Quadrilateral\" methodology for understanding the four": {
+    "guess": "Methodist Church",
+    "confidence": [
+      [
+        "Method",
+        -0.011274518
+      ],
+      [
+        "ist",
+        -0.31326398
+      ],
+      [
+        " Church",
+        -0.15228826
+      ]
+    ]
+  },
+  "This denomination's founder created a namesake \"Quadrilateral\" methodology for understanding the four sources of theology. An early leader of this movement, who later broke with it, was George Whitefield.": {
+    "guess": "Methodism",
+    "confidence": [
+      [
+        "Method",
+        -0.29051992
+      ],
+      [
+        "ism",
+        -0.0011982053
+      ]
+    ]
+  },
+  "This denomination's founder created a namesake \"Quadrilateral\" methodology for understanding the four sources of theology. An early leader of this movement, who later broke with it, was George Whitefield. This denomination's founder wrote a notable \"Covenant Prayer\", and this denomination's liturgical": {
+    "guess": "Methodism",
+    "confidence": [
+      [
+        "Method",
+        -0.011853698
+      ],
+      [
+        "ism",
+        -0.00029625517
+      ]
+    ]
+  },
+  "This denomination's founder created a namesake \"Quadrilateral\" methodology for understanding the four sources of theology. An early leader of this movement, who later broke with it, was George Whitefield. This denomination's founder wrote a notable \"Covenant Prayer\", and this denomination's liturgical calendar uniquely contains a period called \"Kingdomtide\", which preceeds Advent. This denomination": {
+    "guess": "Methodism",
+    "confidence": [
+      [
+        "Method",
+        -0.002970215
+      ],
+      [
+        "ism",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "This denomination's founder created a namesake \"Quadrilateral\" methodology for understanding the four sources of theology. An early leader of this movement, who later broke with it, was George Whitefield. This denomination's founder wrote a notable \"Covenant Prayer\", and this denomination's liturgical calendar uniquely contains a period called \"Kingdomtide\", which preceeds Advent. This denomination takes a prevenient view of God's grace, which they view as a gift that is always available but can": {
+    "guess": "Methodism",
+    "confidence": [
+      [
+        "Method",
+        -0.0069898153
+      ],
+      [
+        "ism",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "This denomination's founder created a namesake \"Quadrilateral\" methodology for understanding the four sources of theology. An early leader of this movement, who later broke with it, was George Whitefield. This denomination's founder wrote a notable \"Covenant Prayer\", and this denomination's liturgical calendar uniquely contains a period called \"Kingdomtide\", which preceeds Advent. This denomination takes a prevenient view of God's grace, which they view as a gift that is always available but can be refused, a doctrine taken from Jacobus Arminius, and they also believe in the continuous action of": {
+    "guess": "Methodism",
+    "confidence": [
+      [
+        "Method",
+        -0.005201502
+      ],
+      [
+        "ism",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "This denomination's founder created a namesake \"Quadrilateral\" methodology for understanding the four sources of theology. An early leader of this movement, who later broke with it, was George Whitefield. This denomination's founder wrote a notable \"Covenant Prayer\", and this denomination's liturgical calendar uniquely contains a period called \"Kingdomtide\", which preceeds Advent. This denomination takes a prevenient view of God's grace, which they view as a gift that is always available but can be refused, a doctrine taken from Jacobus Arminius, and they also believe in the continuous action of the Holy Spirit on the believer's soul, and the need for rebirth in belief, though a similar group": {
+    "guess": "Methodism",
+    "confidence": [
+      [
+        "Method",
+        -0.0024988484
+      ],
+      [
+        "ism",
+        -2.7729659e-05
+      ]
+    ]
+  },
+  "This denomination's founder created a namesake \"Quadrilateral\" methodology for understanding the four sources of theology. An early leader of this movement, who later broke with it, was George Whitefield. This denomination's founder wrote a notable \"Covenant Prayer\", and this denomination's liturgical calendar uniquely contains a period called \"Kingdomtide\", which preceeds Advent. This denomination takes a prevenient view of God's grace, which they view as a gift that is always available but can be refused, a doctrine taken from Jacobus Arminius, and they also believe in the continuous action of the Holy Spirit on the believer's soul, and the need for rebirth in belief, though a similar group they practice infant baptism. For ten points, name this evangelical Protestant denomination founded": {
+    "guess": "Methodism",
+    "confidence": [
+      [
+        "Method",
+        -0.008960096
+      ],
+      [
+        "ism",
+        -2.4391957e-05
+      ]
+    ]
+  },
+  "This denomination's founder created a namesake \"Quadrilateral\" methodology for understanding the four sources of theology. An early leader of this movement, who later broke with it, was George Whitefield. This denomination's founder wrote a notable \"Covenant Prayer\", and this denomination's liturgical calendar uniquely contains a period called \"Kingdomtide\", which preceeds Advent. This denomination takes a prevenient view of God's grace, which they view as a gift that is always available but can be refused, a doctrine taken from Jacobus Arminius, and they also believe in the continuous action of the Holy Spirit on the believer's soul, and the need for rebirth in belief, though a similar group they practice infant baptism. For ten points, name this evangelical Protestant denomination founded by Charles and John Wesley.": {
+    "guess": "Methodism",
+    "confidence": [
+      [
+        "Method",
+        -0.00028684177
+      ],
+      [
+        "ism",
+        -1.1041146e-05
+      ]
+    ]
+  },
+  "The density and volume of these structures can be measured and trapped on melinex tape in an instrument": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.42701608
+      ]
+    ]
+  },
+  "The density and volume of these structures can be measured and trapped on melinex tape in an instrument known as a Burkard Sampler. One specific type of these objects can only be fully observed by combining": {
+    "guess": "Spores",
+    "confidence": [
+      [
+        "Spo",
+        -0.2138909
+      ],
+      [
+        "res",
+        0.0
+      ]
+    ]
+  },
+  "The density and volume of these structures can be measured and trapped on melinex tape in an instrument known as a Burkard Sampler. One specific type of these objects can only be fully observed by combining water, iodine, and potassium iodine into Melzer's Reagent. Another specific type of these structures": {
+    "guess": "Spores",
+    "confidence": [
+      [
+        "Spo",
+        -0.6637165
+      ],
+      [
+        "res",
+        0.0
+      ]
+    ]
+  },
+  "The density and volume of these structures can be measured and trapped on melinex tape in an instrument known as a Burkard Sampler. One specific type of these objects can only be fully observed by combining water, iodine, and potassium iodine into Melzer's Reagent. Another specific type of these structures prevents the entrance of conidia via a protective sheath known as the (*) ascus. The \"resting\"": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7934348
+      ]
+    ]
+  },
+  "The density and volume of these structures can be measured and trapped on melinex tape in an instrument known as a Burkard Sampler. One specific type of these objects can only be fully observed by combining water, iodine, and potassium iodine into Melzer's Reagent. Another specific type of these structures prevents the entrance of conidia via a protective sheath known as the (*) ascus. The \"resting\" ones are produced through meiosis and can survive harsh temperatures through a thick cell wall. In": {
+    "guess": "Spores",
+    "confidence": [
+      [
+        "Spo",
+        -0.05136439
+      ],
+      [
+        "res",
+        0.0
+      ]
+    ]
+  },
+  "The density and volume of these structures can be measured and trapped on melinex tape in an instrument known as a Burkard Sampler. One specific type of these objects can only be fully observed by combining water, iodine, and potassium iodine into Melzer's Reagent. Another specific type of these structures prevents the entrance of conidia via a protective sheath known as the (*) ascus. The \"resting\" ones are produced through meiosis and can survive harsh temperatures through a thick cell wall. In alternation of generations, these structures grow into a gametophyte after being formed by meiosis.": {
+    "guess": "Spores",
+    "confidence": [
+      [
+        "Spo",
+        -0.32337454
+      ],
+      [
+        "res",
+        0.0
+      ]
+    ]
+  },
+  "The density and volume of these structures can be measured and trapped on melinex tape in an instrument known as a Burkard Sampler. One specific type of these objects can only be fully observed by combining water, iodine, and potassium iodine into Melzer's Reagent. Another specific type of these structures prevents the entrance of conidia via a protective sheath known as the (*) ascus. The \"resting\" ones are produced through meiosis and can survive harsh temperatures through a thick cell wall. In alternation of generations, these structures grow into a gametophyte after being formed by meiosis. For 10 points, identify these reproductive structures used by ferns and fungi, which are asexually": {
+    "guess": "Spores",
+    "confidence": [
+      [
+        "Spo",
+        -0.43579635
+      ],
+      [
+        "res",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The density and volume of these structures can be measured and trapped on melinex tape in an instrument known as a Burkard Sampler. One specific type of these objects can only be fully observed by combining water, iodine, and potassium iodine into Melzer's Reagent. Another specific type of these structures prevents the entrance of conidia via a protective sheath known as the (*) ascus. The \"resting\" ones are produced through meiosis and can survive harsh temperatures through a thick cell wall. In alternation of generations, these structures grow into a gametophyte after being formed by meiosis. For 10 points, identify these reproductive structures used by ferns and fungi, which are asexually reproducing, unlike seeds.": {
+    "guess": "Spores",
+    "confidence": [
+      [
+        "Spo",
+        -0.17123343
+      ],
+      [
+        "res",
+        0.0
+      ]
+    ]
+  },
+  "A Democratic Congressman once jokingly admitted on this show that \"Cocaine is a fun thing to do.\" That": {
+    "guess": "Real Time with Bill Maher",
+    "confidence": [
+      [
+        "Real",
+        -0.2705941
+      ],
+      [
+        " Time",
+        0.0
+      ],
+      [
+        " with",
+        -1.1517961e-05
+      ],
+      [
+        " Bill",
+        0.0
+      ],
+      [
+        " Mah",
+        0.0
+      ],
+      [
+        "er",
+        0.0
+      ]
+    ]
+  },
+  "A Democratic Congressman once jokingly admitted on this show that \"Cocaine is a fun thing to do.\" That answer prompted Democratic leaders to ban all party members from being interviewed for this show's": {
+    "guess": "The Colbert Report",
+    "confidence": [
+      [
+        "The",
+        -0.50658554
+      ],
+      [
+        " Col",
+        -0.0017826409
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " Report",
+        0.0
+      ]
+    ]
+  },
+  "A Democratic Congressman once jokingly admitted on this show that \"Cocaine is a fun thing to do.\" That answer prompted Democratic leaders to ban all party members from being interviewed for this show's four hundred  thirty-four part segment \"Better Know a District.\" Other examples of this show's segments": {
+    "guess": "The Colbert Report",
+    "confidence": [
+      [
+        "The",
+        -0.0038421135
+      ],
+      [
+        " Col",
+        -4.365741e-06
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " Report",
+        0.0
+      ]
+    ]
+  },
+  "A Democratic Congressman once jokingly admitted on this show that \"Cocaine is a fun thing to do.\" That answer prompted Democratic leaders to ban all party members from being interviewed for this show's four hundred  thirty-four part segment \"Better Know a District.\" Other examples of this show's segments include \"Cheating Death,\" \"The Word,\" and \"Thought for Food\". The host of this show famously announced": {
+    "guess": "The Colbert Report",
+    "confidence": [
+      [
+        "The",
+        -0.0026584163
+      ],
+      [
+        " Col",
+        -2.1769476e-05
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " Report",
+        0.0
+      ]
+    ]
+  },
+  "A Democratic Congressman once jokingly admitted on this show that \"Cocaine is a fun thing to do.\" That answer prompted Democratic leaders to ban all party members from being interviewed for this show's four hundred  thirty-four part segment \"Better Know a District.\" Other examples of this show's segments include \"Cheating Death,\" \"The Word,\" and \"Thought for Food\". The host of this show famously announced in the fall of 2010 that  he would host a \"Rally to Restore Fear\" in Washington D.C. until a": {
+    "guess": "The Colbert Report",
+    "confidence": [
+      [
+        "The",
+        -0.00054624176
+      ],
+      [
+        " Col",
+        -7.89631e-07
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " Report",
+        0.0
+      ]
+    ]
+  },
+  "A Democratic Congressman once jokingly admitted on this show that \"Cocaine is a fun thing to do.\" That answer prompted Democratic leaders to ban all party members from being interviewed for this show's four hundred  thirty-four part segment \"Better Know a District.\" Other examples of this show's segments include \"Cheating Death,\" \"The Word,\" and \"Thought for Food\". The host of this show famously announced in the fall of 2010 that  he would host a \"Rally to Restore Fear\" in Washington D.C. until a paperwork miscue forced him to merge his  rally with Jon Stewart's \"Rally to Restore Sanity.\" For 10": {
+    "guess": "The Colbert Report",
+    "confidence": [
+      [
+        "The",
+        -0.00040195213
+      ],
+      [
+        " Col",
+        -6.9882217e-06
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " Report",
+        0.0
+      ]
+    ]
+  },
+  "A Democratic Congressman once jokingly admitted on this show that \"Cocaine is a fun thing to do.\" That answer prompted Democratic leaders to ban all party members from being interviewed for this show's four hundred  thirty-four part segment \"Better Know a District.\" Other examples of this show's segments include \"Cheating Death,\" \"The Word,\" and \"Thought for Food\". The host of this show famously announced in the fall of 2010 that  he would host a \"Rally to Restore Fear\" in Washington D.C. until a paperwork miscue forced him to merge his  rally with Jon Stewart's \"Rally to Restore Sanity.\" For 10 points, name this Comedy Central show hosted by satirist  Stephen Colbert.": {
+    "guess": "The Colbert Report",
+    "confidence": [
+      [
+        "The",
+        -9.4914985e-06
+      ],
+      [
+        " Col",
+        -1.9361265e-07
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " Report",
+        0.0
+      ]
+    ]
+  },
+  "Dennis R. Dean has argued that one line in this poem is intended as a quote of Joshua Reynolds, and the": {
+    "guess": "The Deserted Village",
+    "confidence": [
+      [
+        "The",
+        -0.6486145
+      ],
+      [
+        " Desert",
+        -0.28425652
+      ],
+      [
+        "ed",
+        0.0
+      ],
+      [
+        " Village",
+        0.0
+      ]
+    ]
+  },
+  "Dennis R. Dean has argued that one line in this poem is intended as a quote of Joshua Reynolds, and the lines \"Don't know / Nice, though\" appear in a Desmond Skirrow poem titled for [this poem] \"summarized.\"": {
+    "guess": "The Rime of the Ancient Mariner",
+    "confidence": [
+      [
+        "The",
+        -0.85330147
+      ],
+      [
+        " R",
+        -0.114260815
+      ],
+      [
+        "ime",
+        -0.07889056
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -3.7697225e-06
+      ],
+      [
+        " Ancient",
+        -6.392203e-06
+      ],
+      [
+        " Mar",
+        -1.9361265e-07
+      ],
+      [
+        "iner",
+        0.0
+      ]
+    ]
+  },
+  "Dennis R. Dean has argued that one line in this poem is intended as a quote of Joshua Reynolds, and the lines \"Don't know / Nice, though\" appear in a Desmond Skirrow poem titled for [this poem] \"summarized.\" This poem speaks of a figure that can \"express a flowery tale more sweetly than our rhyme,\" and": {
+    "guess": "Ode on a Grecian Urn",
+    "confidence": [
+      [
+        "O",
+        -0.008685129
+      ],
+      [
+        "de",
+        0.0
+      ],
+      [
+        " on",
+        -3.1281633e-07
+      ],
+      [
+        " a",
+        0.0
+      ],
+      [
+        " Gre",
+        -1.9361265e-07
+      ],
+      [
+        "c",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Ur",
+        -1.9361265e-07
+      ],
+      [
+        "n",
+        0.0
+      ]
+    ]
+  },
+  "Dennis R. Dean has argued that one line in this poem is intended as a quote of Joshua Reynolds, and the lines \"Don't know / Nice, though\" appear in a Desmond Skirrow poem titled for [this poem] \"summarized.\" This poem speaks of a figure that can \"express a flowery tale more sweetly than our rhyme,\" and it asks questions like \"what struggle to escape?\" and \"what wild ecstasy?\" Another section of this": {
+    "guess": "Ode on a Grecian Urn",
+    "confidence": [
+      [
+        "O",
+        -0.0053626527
+      ],
+      [
+        "de",
+        0.0
+      ],
+      [
+        " on",
+        -1.9361265e-07
+      ],
+      [
+        " a",
+        0.0
+      ],
+      [
+        " Gre",
+        0.0
+      ],
+      [
+        "c",
+        -7.89631e-07
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Ur",
+        -1.9361265e-07
+      ],
+      [
+        "n",
+        0.0
+      ]
+    ]
+  },
+  "Dennis R. Dean has argued that one line in this poem is intended as a quote of Joshua Reynolds, and the lines \"Don't know / Nice, though\" appear in a Desmond Skirrow poem titled for [this poem] \"summarized.\" This poem speaks of a figure that can \"express a flowery tale more sweetly than our rhyme,\" and it asks questions like \"what struggle to escape?\" and \"what wild ecstasy?\" Another section of this poems asks \"what little town by river or sea-shore [. . .] is emptied of its folk, this pious morn?\"": {
+    "guess": "Ode on a Grecian Urn",
+    "confidence": [
+      [
+        "O",
+        -0.0004446124
+      ],
+      [
+        "de",
+        -1.9361265e-07
+      ],
+      [
+        " on",
+        0.0
+      ],
+      [
+        " a",
+        0.0
+      ],
+      [
+        " Gre",
+        -1.9361265e-07
+      ],
+      [
+        "c",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Ur",
+        0.0
+      ],
+      [
+        "n",
+        0.0
+      ]
+    ]
+  },
+  "Dennis R. Dean has argued that one line in this poem is intended as a quote of Joshua Reynolds, and the lines \"Don't know / Nice, though\" appear in a Desmond Skirrow poem titled for [this poem] \"summarized.\" This poem speaks of a figure that can \"express a flowery tale more sweetly than our rhyme,\" and it asks questions like \"what struggle to escape?\" and \"what wild ecstasy?\" Another section of this poems asks \"what little town by river or sea-shore [. . .] is emptied of its folk, this pious morn?\" This poem describes a (*) \"happy melodist, unwearied, for ever piping songs for ever new\" after claiming": {
+    "guess": "Ode on a Grecian Urn",
+    "confidence": [
+      [
+        "O",
+        -0.0006959928
+      ],
+      [
+        "de",
+        -1.9361265e-07
+      ],
+      [
+        " on",
+        0.0
+      ],
+      [
+        " a",
+        0.0
+      ],
+      [
+        " Gre",
+        -1.9361265e-07
+      ],
+      [
+        "c",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Ur",
+        0.0
+      ],
+      [
+        "n",
+        0.0
+      ]
+    ]
+  },
+  "Dennis R. Dean has argued that one line in this poem is intended as a quote of Joshua Reynolds, and the lines \"Don't know / Nice, though\" appear in a Desmond Skirrow poem titled for [this poem] \"summarized.\" This poem speaks of a figure that can \"express a flowery tale more sweetly than our rhyme,\" and it asks questions like \"what struggle to escape?\" and \"what wild ecstasy?\" Another section of this poems asks \"what little town by river or sea-shore [. . .] is emptied of its folk, this pious morn?\" This poem describes a (*) \"happy melodist, unwearied, for ever piping songs for ever new\" after claiming that \"heard melodies are sweet, but those unheard are sweeter.\" This poem addresses \"thou still": {
+    "guess": "Ode on a Grecian Urn",
+    "confidence": [
+      [
+        "O",
+        -0.0016908926
+      ],
+      [
+        "de",
+        -3.1281633e-07
+      ],
+      [
+        " on",
+        0.0
+      ],
+      [
+        " a",
+        0.0
+      ],
+      [
+        " Gre",
+        -3.1281633e-07
+      ],
+      [
+        "c",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Ur",
+        0.0
+      ],
+      [
+        "n",
+        0.0
+      ]
+    ]
+  },
+  "Dennis R. Dean has argued that one line in this poem is intended as a quote of Joshua Reynolds, and the lines \"Don't know / Nice, though\" appear in a Desmond Skirrow poem titled for [this poem] \"summarized.\" This poem speaks of a figure that can \"express a flowery tale more sweetly than our rhyme,\" and it asks questions like \"what struggle to escape?\" and \"what wild ecstasy?\" Another section of this poems asks \"what little town by river or sea-shore [. . .] is emptied of its folk, this pious morn?\" This poem describes a (*) \"happy melodist, unwearied, for ever piping songs for ever new\" after claiming that \"heard melodies are sweet, but those unheard are sweeter.\" This poem addresses \"thou still unravish'd bride of quietness,\" and it ends by proclaiming something \"that is all ye know on earth,": {
+    "guess": "Ode on a Grecian Urn",
+    "confidence": [
+      [
+        "O",
+        -0.0019369621
+      ],
+      [
+        "de",
+        -1.9361265e-07
+      ],
+      [
+        " on",
+        0.0
+      ],
+      [
+        " a",
+        0.0
+      ],
+      [
+        " Gre",
+        0.0
+      ],
+      [
+        "c",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Ur",
+        0.0
+      ],
+      [
+        "n",
+        0.0
+      ]
+    ]
+  },
+  "Dennis R. Dean has argued that one line in this poem is intended as a quote of Joshua Reynolds, and the lines \"Don't know / Nice, though\" appear in a Desmond Skirrow poem titled for [this poem] \"summarized.\" This poem speaks of a figure that can \"express a flowery tale more sweetly than our rhyme,\" and it asks questions like \"what struggle to escape?\" and \"what wild ecstasy?\" Another section of this poems asks \"what little town by river or sea-shore [. . .] is emptied of its folk, this pious morn?\" This poem describes a (*) \"happy melodist, unwearied, for ever piping songs for ever new\" after claiming that \"heard melodies are sweet, but those unheard are sweeter.\" This poem addresses \"thou still unravish'd bride of quietness,\" and it ends by proclaiming something \"that is all ye know on earth, and all ye need to know.\" For 10 points, name this poem that claims \"beauty is truth, truth beauty,\"": {
+    "guess": "Ode on a Grecian Urn",
+    "confidence": [
+      [
+        "O",
+        -0.000117370815
+      ],
+      [
+        "de",
+        0.0
+      ],
+      [
+        " on",
+        0.0
+      ],
+      [
+        " a",
+        0.0
+      ],
+      [
+        " Gre",
+        -3.1281633e-07
+      ],
+      [
+        "c",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Ur",
+        0.0
+      ],
+      [
+        "n",
+        0.0
+      ]
+    ]
+  },
+  "Dennis R. Dean has argued that one line in this poem is intended as a quote of Joshua Reynolds, and the lines \"Don't know / Nice, though\" appear in a Desmond Skirrow poem titled for [this poem] \"summarized.\" This poem speaks of a figure that can \"express a flowery tale more sweetly than our rhyme,\" and it asks questions like \"what struggle to escape?\" and \"what wild ecstasy?\" Another section of this poems asks \"what little town by river or sea-shore [. . .] is emptied of its folk, this pious morn?\" This poem describes a (*) \"happy melodist, unwearied, for ever piping songs for ever new\" after claiming that \"heard melodies are sweet, but those unheard are sweeter.\" This poem addresses \"thou still unravish'd bride of quietness,\" and it ends by proclaiming something \"that is all ye know on earth, and all ye need to know.\" For 10 points, name this poem that claims \"beauty is truth, truth beauty,\" an ode by John Keats.": {
+    "guess": "Ode on a Grecian Urn",
+    "confidence": [
+      [
+        "O",
+        -2.9160103e-05
+      ],
+      [
+        "de",
+        0.0
+      ],
+      [
+        " on",
+        0.0
+      ],
+      [
+        " a",
+        0.0
+      ],
+      [
+        " Gre",
+        0.0
+      ],
+      [
+        "c",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Ur",
+        0.0
+      ],
+      [
+        "n",
+        0.0
+      ]
+    ]
+  },
+  "De Moivre's equation allows one to simplify high powers of trigonometric functions with these numbers": {
+    "guess": "Complex numbers",
+    "confidence": [
+      [
+        "Complex",
+        -0.04881071
+      ],
+      [
+        " numbers",
+        -0.07762804
+      ]
+    ]
+  },
+  "De Moivre's equation allows one to simplify high powers of trigonometric functions with these numbers as arguments. In second order linear differential equations, eigenvalues of this type imply sinusoidal": {
+    "guess": "Complex number",
+    "confidence": [
+      [
+        "Complex",
+        -0.038674187
+      ],
+      [
+        " number",
+        -0.6932284
+      ]
+    ]
+  },
+  "De Moivre's equation allows one to simplify high powers of trigonometric functions with these numbers as arguments. In second order linear differential equations, eigenvalues of this type imply sinusoidal solutions. Quaternions are an extension of these with two more members, and Cardano introduced them": {
+    "guess": "Complex numbers",
+    "confidence": [
+      [
+        "Complex",
+        -0.0041206693
+      ],
+      [
+        " numbers",
+        -0.20142971
+      ]
+    ]
+  },
+  "De Moivre's equation allows one to simplify high powers of trigonometric functions with these numbers as arguments. In second order linear differential equations, eigenvalues of this type imply sinusoidal solutions. Quaternions are an extension of these with two more members, and Cardano introduced them in the sixteenth century to solve cubic equations. The fundamental theorem of algebra guarantees": {
+    "guess": "Complex number",
+    "confidence": [
+      [
+        "Complex",
+        -0.016601985
+      ],
+      [
+        " number",
+        -0.10567519
+      ]
+    ]
+  },
+  "De Moivre's equation allows one to simplify high powers of trigonometric functions with these numbers as arguments. In second order linear differential equations, eigenvalues of this type imply sinusoidal solutions. Quaternions are an extension of these with two more members, and Cardano introduced them in the sixteenth century to solve cubic equations. The fundamental theorem of algebra guarantees that all polynomials can be uniquely factored over this field, the set of which is denoted by a blackboard": {
+    "guess": "Complex number",
+    "confidence": [
+      [
+        "Complex",
+        -0.0026565127
+      ],
+      [
+        " number",
+        -0.04884578
+      ]
+    ]
+  },
+  "De Moivre's equation allows one to simplify high powers of trigonometric functions with these numbers as arguments. In second order linear differential equations, eigenvalues of this type imply sinusoidal solutions. Quaternions are an extension of these with two more members, and Cardano introduced them in the sixteenth century to solve cubic equations. The fundamental theorem of algebra guarantees that all polynomials can be uniquely factored over this field, the set of which is denoted by a blackboard C. For ten points, name this type of number with form A plus B I, the sum of a real and an imaginary": {
+    "guess": "Complex number",
+    "confidence": [
+      [
+        "Complex",
+        -0.0026603162
+      ],
+      [
+        " number",
+        -0.0032820483
+      ]
+    ]
+  },
+  "De Moivre's equation allows one to simplify high powers of trigonometric functions with these numbers as arguments. In second order linear differential equations, eigenvalues of this type imply sinusoidal solutions. Quaternions are an extension of these with two more members, and Cardano introduced them in the sixteenth century to solve cubic equations. The fundamental theorem of algebra guarantees that all polynomials can be uniquely factored over this field, the set of which is denoted by a blackboard C. For ten points, name this type of number with form A plus B I, the sum of a real and an imaginary part.": {
+    "guess": "Complex number",
+    "confidence": [
+      [
+        "Complex",
+        -0.001542119
+      ],
+      [
+        " number",
+        -0.0013886855
+      ]
+    ]
+  },
+  "The Denkm\u00e4ler series catalogs the works of this man, who composed a set of keyboard variations entitled": {
+    "guess": "Johann Sebastian Bach",
+    "confidence": [
+      [
+        "Joh",
+        -0.19639742
+      ],
+      [
+        "ann",
+        -2.1531068e-05
+      ],
+      [
+        " Sebastian",
+        -0.1251575
+      ],
+      [
+        " Bach",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Denkm\u00e4ler series catalogs the works of this man, who composed a set of keyboard variations entitled Hexachordum Apollionis. He was a church organist in Eisenbach and Erfurt and tutored Johann Christoph": {
+    "guess": "Johann Pachelbel",
+    "confidence": [
+      [
+        "Joh",
+        -0.39416128
+      ],
+      [
+        "ann",
+        -9.0883464e-07
+      ],
+      [
+        " P",
+        -6.704273e-07
+      ],
+      [
+        "achel",
+        -5.5122365e-07
+      ],
+      [
+        "bel",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The Denkm\u00e4ler series catalogs the works of this man, who composed a set of keyboard variations entitled Hexachordum Apollionis. He was a church organist in Eisenbach and Erfurt and tutored Johann Christoph Bach. He is best known today for a single work of twenty-eight variations in two counterpoint techniques": {
+    "guess": "Johann Pachelbel",
+    "confidence": [
+      [
+        "Joh",
+        -0.6348602
+      ],
+      [
+        "ann",
+        -1.9361265e-07
+      ],
+      [
+        " P",
+        -5.080963e-06
+      ],
+      [
+        "achel",
+        -4.3202e-07
+      ],
+      [
+        "bel",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Denkm\u00e4ler series catalogs the works of this man, who composed a set of keyboard variations entitled Hexachordum Apollionis. He was a church organist in Eisenbach and Erfurt and tutored Johann Christoph Bach. He is best known today for a single work of twenty-eight variations in two counterpoint techniques over ground bass, written for an ensemble of violins and continuo, which contains a rarely-performed": {
+    "guess": "Johann Pachelbel",
+    "confidence": [
+      [
+        "Joh",
+        -0.0484369
+      ],
+      [
+        "ann",
+        -1.9361265e-07
+      ],
+      [
+        " P",
+        -0.00020973898
+      ],
+      [
+        "achel",
+        -1.2664457e-06
+      ],
+      [
+        "bel",
+        0.0
+      ]
+    ]
+  },
+  "The Denkm\u00e4ler series catalogs the works of this man, who composed a set of keyboard variations entitled Hexachordum Apollionis. He was a church organist in Eisenbach and Erfurt and tutored Johann Christoph Bach. He is best known today for a single work of twenty-eight variations in two counterpoint techniques over ground bass, written for an ensemble of violins and continuo, which contains a rarely-performed Gigue [jig]. For 10 points, name this one- hit German composer of \"Canon in D.\"": {
+    "guess": "Johann Pachelbel",
+    "confidence": [
+      [
+        "Joh",
+        -0.0066473987
+      ],
+      [
+        "ann",
+        -7.89631e-07
+      ],
+      [
+        " P",
+        -3.1281633e-07
+      ],
+      [
+        "achel",
+        0.0
+      ],
+      [
+        "bel",
+        0.0
+      ]
+    ]
+  },
+  "DeMoivre's [duh-MWAHV's] theorem can be used when raising this type of number to a power. Euler's [OY-lur'z]": {
+    "guess": "Complex number",
+    "confidence": [
+      [
+        "Complex",
+        -0.0007379195
+      ],
+      [
+        " number",
+        -0.019082168
+      ]
+    ]
+  },
+  "DeMoivre's [duh-MWAHV's] theorem can be used when raising this type of number to a power. Euler's [OY-lur'z] formula relates the exponential and polar descriptions of these numbers, and they can also be": {
+    "guess": "Complex number",
+    "confidence": [
+      [
+        "Complex",
+        -0.00039409203
+      ],
+      [
+        " number",
+        -0.011966547
+      ]
+    ]
+  },
+  "DeMoivre's [duh-MWAHV's] theorem can be used when raising this type of number to a power. Euler's [OY-lur'z] formula relates the exponential and polar descriptions of these numbers, and they can also be plotted as points on the Cartesian plane, a format called the (*) Argand diagram. The absolute value": {
+    "guess": "Complex Numbers",
+    "confidence": [
+      [
+        "Complex",
+        -0.0015558054
+      ],
+      [
+        " Numbers",
+        -0.06361831
+      ]
+    ]
+  },
+  "DeMoivre's [duh-MWAHV's] theorem can be used when raising this type of number to a power. Euler's [OY-lur'z] formula relates the exponential and polar descriptions of these numbers, and they can also be plotted as points on the Cartesian plane, a format called the (*) Argand diagram. The absolute value on these numbers is called the modulus, and taking the conjugate means negating the imaginary part": {
+    "guess": "Complex numbers",
+    "confidence": [
+      [
+        "Complex",
+        -3.1424974e-05
+      ],
+      [
+        " numbers",
+        -0.314044
+      ]
+    ]
+  },
+  "DeMoivre's [duh-MWAHV's] theorem can be used when raising this type of number to a power. Euler's [OY-lur'z] formula relates the exponential and polar descriptions of these numbers, and they can also be plotted as points on the Cartesian plane, a format called the (*) Argand diagram. The absolute value on these numbers is called the modulus, and taking the conjugate means negating the imaginary part of these numbers. For 10 points, name this type of number often written in the form a + b i.": {
+    "guess": "Complex number",
+    "confidence": [
+      [
+        "Complex",
+        -2.8206474e-05
+      ],
+      [
+        " number",
+        -0.00015884268
+      ]
+    ]
+  },
+  "The density of this quantity for a disk is often modelled using an exponential times a hyperbolic secant": {
+    "guess": "Stellar disk",
+    "confidence": [
+      [
+        "St",
+        -0.3930726
+      ],
+      [
+        "ellar",
+        -5.5122365e-07
+      ],
+      [
+        " disk",
+        -0.37917662
+      ]
+    ]
+  },
+  "The density of this quantity for a disk is often modelled using an exponential times a hyperbolic secant squared function. For objects on the main sequence, this quantity is related to the mass by a 3.9-degree": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.03717708
+      ],
+      [
+        "inos",
+        -1.6240566e-06
+      ],
+      [
+        "ity",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The density of this quantity for a disk is often modelled using an exponential times a hyperbolic secant squared function. For objects on the main sequence, this quantity is related to the mass by a 3.9-degree power law. Taking four pi G M c times the mass of the photon, all over the Thompson scattering": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.2607067
+      ],
+      [
+        "inos",
+        -1.9361265e-07
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "The density of this quantity for a disk is often modelled using an exponential times a hyperbolic secant squared function. For objects on the main sequence, this quantity is related to the mass by a 3.9-degree power law. Taking four pi G M c times the mass of the photon, all over the Thompson scattering cross section, gives an upper bound for it, near which objects have strong radiation-driven winds.": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.35245398
+      ],
+      [
+        "inos",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "The density of this quantity for a disk is often modelled using an exponential times a hyperbolic secant squared function. For objects on the main sequence, this quantity is related to the mass by a 3.9-degree power law. Taking four pi G M c times the mass of the photon, all over the Thompson scattering cross section, gives an upper bound for it, near which objects have strong radiation-driven winds. Henrietta Leavitt discovered a relationship between this quantity and period for Cephied variables,": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.010900789
+      ],
+      [
+        "inos",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "The density of this quantity for a disk is often modelled using an exponential times a hyperbolic secant squared function. For objects on the main sequence, this quantity is related to the mass by a 3.9-degree power law. Taking four pi G M c times the mass of the photon, all over the Thompson scattering cross section, gives an upper bound for it, near which objects have strong radiation-driven winds. Henrietta Leavitt discovered a relationship between this quantity and period for Cephied variables, allowing them to be used as standard candles. It is bound by the Eddington limit and varies as the": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.010323053
+      ],
+      [
+        "inos",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "The density of this quantity for a disk is often modelled using an exponential times a hyperbolic secant squared function. For objects on the main sequence, this quantity is related to the mass by a 3.9-degree power law. Taking four pi G M c times the mass of the photon, all over the Thompson scattering cross section, gives an upper bound for it, near which objects have strong radiation-driven winds. Henrietta Leavitt discovered a relationship between this quantity and period for Cephied variables, allowing them to be used as standard candles. It is bound by the Eddington limit and varies as the fourth power of temperature according to an application of the Stefan-Boltzmann equation. For 10 points,": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.00204201
+      ],
+      [
+        "inos",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "The density of this quantity for a disk is often modelled using an exponential times a hyperbolic secant squared function. For objects on the main sequence, this quantity is related to the mass by a 3.9-degree power law. Taking four pi G M c times the mass of the photon, all over the Thompson scattering cross section, gives an upper bound for it, near which objects have strong radiation-driven winds. Henrietta Leavitt discovered a relationship between this quantity and period for Cephied variables, allowing them to be used as standard candles. It is bound by the Eddington limit and varies as the fourth power of temperature according to an application of the Stefan-Boltzmann equation. For 10 points, name this measure of a stellar object that is the energy emitted during a unit of time.": {
+    "guess": "Luminosity",
+    "confidence": [
+      [
+        "Lum",
+        -0.0015335473
+      ],
+      [
+        "inos",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  }
+}

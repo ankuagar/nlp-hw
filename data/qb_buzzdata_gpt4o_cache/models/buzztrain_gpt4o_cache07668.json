@@ -1,0 +1,101 @@
+{
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally": {
+    "guess": "Income Inequality",
+    "confidence": [
+      [
+        "Income",
+        -0.43805006
+      ],
+      [
+        " Ine",
+        -0.47410017
+      ],
+      [
+        "quality",
+        0.0
+      ]
+    ]
+  },
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally in the last 20 years. One economist credits a predicted increase in this statistic over time": {
+    "guess": "Global income inequality",
+    "confidence": [
+      [
+        "Global",
+        -0.3517568
+      ],
+      [
+        " income",
+        -0.9958071
+      ],
+      [
+        " inequality",
+        -0.00010568886
+      ]
+    ]
+  },
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally in the last 20 years. One economist credits a predicted increase in this statistic over time to his large estimates for elasticity of capital-labor substitution. This statistic is the y-axis of": {
+    "guess": "Income inequality",
+    "confidence": [
+      [
+        "Income",
+        -0.95193744
+      ],
+      [
+        " inequality",
+        -0.012587346
+      ]
+    ]
+  },
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally in the last 20 years. One economist credits a predicted increase in this statistic over time to his large estimates for elasticity of capital-labor substitution. This statistic is the y-axis of a graph showing a Kuznets curve, along which it initially increases, then decreases as per capita": {
+    "guess": "Income inequality",
+    "confidence": [
+      [
+        "Income",
+        -0.035610773
+      ],
+      [
+        " inequality",
+        -0.0011843961
+      ]
+    ]
+  },
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally in the last 20 years. One economist credits a predicted increase in this statistic over time to his large estimates for elasticity of capital-labor substitution. This statistic is the y-axis of a graph showing a Kuznets curve, along which it initially increases, then decreases as per capita incomes rise with development. Capital in the Twenty-First Century predicts that developed countries": {
+    "guess": "Economic inequality",
+    "confidence": [
+      [
+        "Economic",
+        -0.21909757
+      ],
+      [
+        " inequality",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally in the last 20 years. One economist credits a predicted increase in this statistic over time to his large estimates for elasticity of capital-labor substitution. This statistic is the y-axis of a graph showing a Kuznets curve, along which it initially increases, then decreases as per capita incomes rise with development. Capital in the Twenty-First Century predicts that developed countries will see large increases in this statistic, which is most commonly measured using the Gini coefficient.": {
+    "guess": "Income inequality",
+    "confidence": [
+      [
+        "Income",
+        -0.01013379
+      ],
+      [
+        " inequality",
+        -0.100211196
+      ]
+    ]
+  },
+  "Tyler Cowen cited a study by Lakner and Milanovic to argue that this quantity has decreased overall globally in the last 20 years. One economist credits a predicted increase in this statistic over time to his large estimates for elasticity of capital-labor substitution. This statistic is the y-axis of a graph showing a Kuznets curve, along which it initially increases, then decreases as per capita incomes rise with development. Capital in the Twenty-First Century predicts that developed countries will see large increases in this statistic, which is most commonly measured using the Gini coefficient. For 10 points, identify this statistic representing uneven distribution of economic resources.": {
+    "guess": "Income inequality",
+    "confidence": [
+      [
+        "Income",
+        -0.014681677
+      ],
+      [
+        " inequality",
+        -0.20142153
+      ]
+    ]
+  }
+}

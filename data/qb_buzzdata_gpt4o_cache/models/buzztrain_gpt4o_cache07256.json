@@ -1,0 +1,155 @@
+{
+  "A sword is evident on the bottom left resting on the red cloth on which the title character also rests.": {
+    "guess": "Oath of the Horatii",
+    "confidence": [
+      [
+        "O",
+        -0.43625292
+      ],
+      [
+        "ath",
+        -0.018251669
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " the",
+        -0.00015705463
+      ],
+      [
+        " Hor",
+        -2.0339032e-05
+      ],
+      [
+        "atii",
+        -5.2001665e-06
+      ]
+    ]
+  },
+  "A sword is evident on the bottom left resting on the red cloth on which the title character also rests. Of the other figure in this painting, we see only his down-turned head, one full hand, and his legs.": {
+    "guess": "Salome with the Head of John the Baptist",
+    "confidence": [
+      [
+        "Sal",
+        -0.27232006
+      ],
+      [
+        "ome",
+        -0.0020731718
+      ],
+      [
+        " with",
+        -0.0026393915
+      ],
+      [
+        " the",
+        -5.5122365e-07
+      ],
+      [
+        " Head",
+        -5.5577775e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " John",
+        -0.01957841
+      ],
+      [
+        " the",
+        -4.3202e-07
+      ],
+      [
+        " Baptist",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A sword is evident on the bottom left resting on the red cloth on which the title character also rests. Of the other figure in this painting, we see only his down-turned head, one full hand, and his legs. That hand grasps the bridle of the horse that dominates the entire top of this painting. The title": {
+    "guess": "The answer is: Napoleon Crossing the Alps",
+    "confidence": [
+      [
+        "The",
+        -0.9890967
+      ],
+      [
+        " answer",
+        -0.8833268
+      ],
+      [
+        " is",
+        -0.006737393
+      ],
+      [
+        ":",
+        -0.1651933
+      ],
+      [
+        " Napoleon",
+        -0.74060035
+      ],
+      [
+        " Crossing",
+        -0.00076972484
+      ],
+      [
+        " the",
+        -2.6968896e-06
+      ],
+      [
+        " Alps",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "A sword is evident on the bottom left resting on the red cloth on which the title character also rests. Of the other figure in this painting, we see only his down-turned head, one full hand, and his legs. That hand grasps the bridle of the horse that dominates the entire top of this painting. The title character lies on his back at the bottom with his arms raised to the sky after receiving a heavenly": {
+    "guess": "The Conversion of Saint Paul",
+    "confidence": [
+      [
+        "The",
+        -0.30967185
+      ],
+      [
+        " Conversion",
+        -0.0020205937
+      ],
+      [
+        " of",
+        -4.8425554e-06
+      ],
+      [
+        " Saint",
+        -0.012044752
+      ],
+      [
+        " Paul",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "A sword is evident on the bottom left resting on the red cloth on which the title character also rests. Of the other figure in this painting, we see only his down-turned head, one full hand, and his legs. That hand grasps the bridle of the horse that dominates the entire top of this painting. The title character lies on his back at the bottom with his arms raised to the sky after receiving a heavenly vision on his way to Damascus. FTP, name this Caravaggio depiction of an apostle.": {
+    "guess": "Conversion of Saint Paul",
+    "confidence": [
+      [
+        "Conversion",
+        -0.20344543
+      ],
+      [
+        " of",
+        -0.5231236
+      ],
+      [
+        " Saint",
+        -0.57669204
+      ],
+      [
+        " Paul",
+        -4.3202e-07
+      ]
+    ]
+  }
+}

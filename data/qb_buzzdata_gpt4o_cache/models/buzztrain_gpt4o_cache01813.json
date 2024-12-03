@@ -1,0 +1,538 @@
+{
+  "This man espoused his socialist ideas in Wealth in the Hands of the Few, and like William McKinley, this": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.19136733
+      ]
+    ]
+  },
+  "This man espoused his socialist ideas in Wealth in the Hands of the Few, and like William McKinley, this president served in the Army of West Virginia during the Civil War. A city and department in Paraguay": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.78272575
+      ]
+    ]
+  },
+  "This man espoused his socialist ideas in Wealth in the Hands of the Few, and like William McKinley, this president served in the Army of West Virginia during the Civil War. A city and department in Paraguay are named for this man because he arbitrated the end of the War of the Triple Alliance. Although": {
+    "guess": "Rutherford B. Hayes",
+    "confidence": [
+      [
+        "R",
+        -0.20798199
+      ],
+      [
+        "utherford",
+        0.0
+      ],
+      [
+        " B",
+        -1.640531e-05
+      ],
+      [
+        ".",
+        -1.504853e-06
+      ],
+      [
+        " Hayes",
+        0.0
+      ]
+    ]
+  },
+  "This man espoused his socialist ideas in Wealth in the Hands of the Few, and like William McKinley, this president served in the Army of West Virginia during the Civil War. A city and department in Paraguay are named for this man because he arbitrated the end of the War of the Triple Alliance. Although he was overridden, this president vetoed the Bland-Allison Act, and the Great Railroad Strike occurred": {
+    "guess": "Rutherford B. Hayes",
+    "confidence": [
+      [
+        "R",
+        -0.038438935
+      ],
+      [
+        "utherford",
+        0.0
+      ],
+      [
+        " B",
+        -1.6166903e-05
+      ],
+      [
+        ".",
+        -4.3202e-07
+      ],
+      [
+        " Hayes",
+        0.0
+      ]
+    ]
+  },
+  "This man espoused his socialist ideas in Wealth in the Hands of the Few, and like William McKinley, this president served in the Army of West Virginia during the Civil War. A city and department in Paraguay are named for this man because he arbitrated the end of the War of the Triple Alliance. Although he was overridden, this president vetoed the Bland-Allison Act, and the Great Railroad Strike occurred during his administration. For 10 points, name this one term president from Ohio whose victory": {
+    "guess": "Rutherford B. Hayes",
+    "confidence": [
+      [
+        "R",
+        -0.008153643
+      ],
+      [
+        "utherford",
+        0.0
+      ],
+      [
+        " B",
+        -6.749814e-06
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Hayes",
+        0.0
+      ]
+    ]
+  },
+  "This man espoused his socialist ideas in Wealth in the Hands of the Few, and like William McKinley, this president served in the Army of West Virginia during the Civil War. A city and department in Paraguay are named for this man because he arbitrated the end of the War of the Triple Alliance. Although he was overridden, this president vetoed the Bland-Allison Act, and the Great Railroad Strike occurred during his administration. For 10 points, name this one term president from Ohio whose victory over Samuel Tilden in the Election of 1876 resulted in the end of Reconstruction.": {
+    "guess": "Rutherford B. Hayes",
+    "confidence": [
+      [
+        "R",
+        -0.0065311072
+      ],
+      [
+        "utherford",
+        0.0
+      ],
+      [
+        " B",
+        -3.888926e-06
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Hayes",
+        0.0
+      ]
+    ]
+  },
+  "It is especially useful in converting negative or fractional exponents into ordinary algebraic expressions": {
+    "guess": "Exponentiation",
+    "confidence": [
+      [
+        "Exponent",
+        -0.7366233
+      ],
+      [
+        "iation",
+        -3.2736214e-05
+      ]
+    ]
+  },
+  "It is especially useful in converting negative or fractional exponents into ordinary algebraic expressions from which the leading-order dependence may be determined.  It can be written in the form \"(n": {
+    "guess": "Binomial theorem",
+    "confidence": [
+      [
+        "Bin",
+        -0.044198714
+      ],
+      [
+        "omial",
+        -1.9361265e-07
+      ],
+      [
+        " theorem",
+        -0.662042
+      ]
+    ]
+  },
+  "It is especially useful in converting negative or fractional exponents into ordinary algebraic expressions from which the leading-order dependence may be determined.  It can be written in the form \"(n choose r) times a to the n minus r, times b to the r.  Newton stated it in general form in 1676, and": {
+    "guess": "Binomial theorem",
+    "confidence": [
+      [
+        "Bin",
+        -0.00031770815
+      ],
+      [
+        "omial",
+        -1.9361265e-07
+      ],
+      [
+        " theorem",
+        -0.47407836
+      ]
+    ]
+  },
+  "It is especially useful in converting negative or fractional exponents into ordinary algebraic expressions from which the leading-order dependence may be determined.  It can be written in the form \"(n choose r) times a to the n minus r, times b to the r.  Newton stated it in general form in 1676, and Bernoulli's later proof of it was published in 1713.  It is often connected to Pascal's triangle, in": {
+    "guess": "Binomial theorem",
+    "confidence": [
+      [
+        "Bin",
+        -0.00017743846
+      ],
+      [
+        "omial",
+        -5.5122365e-07
+      ],
+      [
+        " theorem",
+        -0.00080450665
+      ]
+    ]
+  },
+  "It is especially useful in converting negative or fractional exponents into ordinary algebraic expressions from which the leading-order dependence may be determined.  It can be written in the form \"(n choose r) times a to the n minus r, times b to the r.  Newton stated it in general form in 1676, and Bernoulli's later proof of it was published in 1713.  It is often connected to Pascal's triangle, in which you can quickly look up the coefficients of any term in an expansion.  FTP, name this theorem": {
+    "guess": "Binomial Theorem",
+    "confidence": [
+      [
+        "Bin",
+        -0.0003495282
+      ],
+      [
+        "omial",
+        0.0
+      ],
+      [
+        " The",
+        -0.018149942
+      ],
+      [
+        "orem",
+        0.0
+      ]
+    ]
+  },
+  "It is especially useful in converting negative or fractional exponents into ordinary algebraic expressions from which the leading-order dependence may be determined.  It can be written in the form \"(n choose r) times a to the n minus r, times b to the r.  Newton stated it in general form in 1676, and Bernoulli's later proof of it was published in 1713.  It is often connected to Pascal's triangle, in which you can quickly look up the coefficients of any term in an expansion.  FTP, name this theorem that allows for the expansion of its namesake algebraic expression without requiring the explicit": {
+    "guess": "Binomial Theorem",
+    "confidence": [
+      [
+        "Bin",
+        -0.00040505143
+      ],
+      [
+        "omial",
+        0.0
+      ],
+      [
+        " The",
+        -0.038041495
+      ],
+      [
+        "orem",
+        0.0
+      ]
+    ]
+  },
+  "It is especially useful in converting negative or fractional exponents into ordinary algebraic expressions from which the leading-order dependence may be determined.  It can be written in the form \"(n choose r) times a to the n minus r, times b to the r.  Newton stated it in general form in 1676, and Bernoulli's later proof of it was published in 1713.  It is often connected to Pascal's triangle, in which you can quickly look up the coefficients of any term in an expansion.  FTP, name this theorem that allows for the expansion of its namesake algebraic expression without requiring the explicit multiplication of the binomial terms.": {
+    "guess": "Binomial Theorem",
+    "confidence": [
+      [
+        "Bin",
+        -2.3915141e-05
+      ],
+      [
+        "omial",
+        0.0
+      ],
+      [
+        " The",
+        -0.006715371
+      ],
+      [
+        "orem",
+        0.0
+      ]
+    ]
+  },
+  "Especially good solvents for this procedure include carbon disulfide and carbon tetrachloride, though": {
+    "guess": "Recrystallization",
+    "confidence": [
+      [
+        "Re",
+        -0.009071265
+      ],
+      [
+        "cr",
+        -1.3856493e-06
+      ],
+      [
+        "ystall",
+        -2.1008714e-06
+      ],
+      [
+        "ization",
+        0.0
+      ]
+    ]
+  },
+  "Especially good solvents for this procedure include carbon disulfide and carbon tetrachloride, though both are highly toxic. For testing coatings and powders, this technique can be used with attenuated": {
+    "guess": "Infrared spectroscopy",
+    "confidence": [
+      [
+        "Infra",
+        -0.19449504
+      ],
+      [
+        "red",
+        -1.9361265e-07
+      ],
+      [
+        " spectroscopy",
+        -0.000335939
+      ]
+    ]
+  },
+  "Especially good solvents for this procedure include carbon disulfide and carbon tetrachloride, though both are highly toxic. For testing coatings and powders, this technique can be used with attenuated total reflectance. Liquids are placed between two salt plates as preparation for this technique, while": {
+    "guess": "Infrared spectroscopy",
+    "confidence": [
+      [
+        "Infra",
+        -0.0008280907
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " spectroscopy",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "Especially good solvents for this procedure include carbon disulfide and carbon tetrachloride, though both are highly toxic. For testing coatings and powders, this technique can be used with attenuated total reflectance. Liquids are placed between two salt plates as preparation for this technique, while solid compounds are ground in combination with (*) potassium bromide and pressed into a thin disc.": {
+    "guess": "Infrared spectroscopy",
+    "confidence": [
+      [
+        "Infra",
+        -0.00038991994
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " spectroscopy",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "Especially good solvents for this procedure include carbon disulfide and carbon tetrachloride, though both are highly toxic. For testing coatings and powders, this technique can be used with attenuated total reflectance. Liquids are placed between two salt plates as preparation for this technique, while solid compounds are ground in combination with (*) potassium bromide and pressed into a thin disc. This technique relies on stimulating the vibrational modes of molecules. The output from this technique": {
+    "guess": "Infrared spectroscopy",
+    "confidence": [
+      [
+        "Infra",
+        -0.013049874
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " spectroscopy",
+        -1.0445127e-05
+      ]
+    ]
+  },
+  "Especially good solvents for this procedure include carbon disulfide and carbon tetrachloride, though both are highly toxic. For testing coatings and powders, this technique can be used with attenuated total reflectance. Liquids are placed between two salt plates as preparation for this technique, while solid compounds are ground in combination with (*) potassium bromide and pressed into a thin disc. This technique relies on stimulating the vibrational modes of molecules. The output from this technique is a plot of transmittance versus wavenumber in inverse centimeters and includes a \"fingerprint\"": {
+    "guess": "Infrared spectroscopy",
+    "confidence": [
+      [
+        "Infra",
+        -0.003704943
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " spectroscopy",
+        -2.2127088e-05
+      ]
+    ]
+  },
+  "Especially good solvents for this procedure include carbon disulfide and carbon tetrachloride, though both are highly toxic. For testing coatings and powders, this technique can be used with attenuated total reflectance. Liquids are placed between two salt plates as preparation for this technique, while solid compounds are ground in combination with (*) potassium bromide and pressed into a thin disc. This technique relies on stimulating the vibrational modes of molecules. The output from this technique is a plot of transmittance versus wavenumber in inverse centimeters and includes a \"fingerprint\" for each molecule. For 10 points, name this common lab technique for identifying functional groups": {
+    "guess": "Infrared spectroscopy",
+    "confidence": [
+      [
+        "Infra",
+        -0.00014120422
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " spectroscopy",
+        -9.651017e-05
+      ]
+    ]
+  },
+  "Especially good solvents for this procedure include carbon disulfide and carbon tetrachloride, though both are highly toxic. For testing coatings and powders, this technique can be used with attenuated total reflectance. Liquids are placed between two salt plates as preparation for this technique, while solid compounds are ground in combination with (*) potassium bromide and pressed into a thin disc. This technique relies on stimulating the vibrational modes of molecules. The output from this technique is a plot of transmittance versus wavenumber in inverse centimeters and includes a \"fingerprint\" for each molecule. For 10 points, name this common lab technique for identifying functional groups in molecules using radiation wavelengths just longer than visible light.": {
+    "guess": "Infrared spectroscopy",
+    "confidence": [
+      [
+        "Infra",
+        -6.563642e-05
+      ],
+      [
+        "red",
+        0.0
+      ],
+      [
+        " spectroscopy",
+        -7.5411124e-05
+      ]
+    ]
+  },
+  "An especially old one of these entities states that the cup bearer of the king of Kish was Sargon the": {
+    "guess": "Sargon of Akkad",
+    "confidence": [
+      [
+        "S",
+        -0.14701809
+      ],
+      [
+        "argon",
+        -0.31326476
+      ],
+      [
+        " of",
+        -0.00030543018
+      ],
+      [
+        " Akk",
+        0.0
+      ],
+      [
+        "ad",
+        0.0
+      ]
+    ]
+  },
+  "An especially old one of these entities states that the cup bearer of the king of Kish was Sargon the Great, while another notes that an individual tutored by Bairam Khan was named Akbar. Another of these": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.2847737
+      ]
+    ]
+  },
+  "An especially old one of these entities states that the cup bearer of the king of Kish was Sargon the Great, while another notes that an individual tutored by Bairam Khan was named Akbar. Another of these entities concerns the apprenticeship of Michael Faraday to a bookbinder. Though the \"invisible hand\"": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.85860306
+      ]
+    ]
+  },
+  "An especially old one of these entities states that the cup bearer of the king of Kish was Sargon the Great, while another notes that an individual tutored by Bairam Khan was named Akbar. Another of these entities concerns the apprenticeship of Michael Faraday to a bookbinder. Though the \"invisible hand\" is not one, the \"pin factory\" example may be one for The Wealth of Nations, and another opening": {
+    "guess": "Biography",
+    "confidence": [
+      [
+        "Biography",
+        -0.81802535
+      ]
+    ]
+  },
+  "An especially old one of these entities states that the cup bearer of the king of Kish was Sargon the Great, while another notes that an individual tutored by Bairam Khan was named Akbar. Another of these entities concerns the apprenticeship of Michael Faraday to a bookbinder. Though the \"invisible hand\" is not one, the \"pin factory\" example may be one for The Wealth of Nations, and another opening with the words \"Inscribed on a cocktail napkin\" describes the Laffer curve. For zero points, identify": {
+    "guess": "Anecdote",
+    "confidence": [
+      [
+        "A",
+        -0.3115108
+      ],
+      [
+        "ne",
+        -0.0004977479
+      ],
+      [
+        "cd",
+        -3.1281633e-07
+      ],
+      [
+        "ote",
+        -0.011058666
+      ]
+    ]
+  },
+  "An especially old one of these entities states that the cup bearer of the king of Kish was Sargon the Great, while another notes that an individual tutored by Bairam Khan was named Akbar. Another of these entities concerns the apprenticeship of Michael Faraday to a bookbinder. Though the \"invisible hand\" is not one, the \"pin factory\" example may be one for The Wealth of Nations, and another opening with the words \"Inscribed on a cocktail napkin\" describes the Laffer curve. For zero points, identify this term for clues that have been used so often that they are reflex-buzzed by quizbowl players": {
+    "guess": "Stock clue",
+    "confidence": [
+      [
+        "Stock",
+        -0.109745495
+      ],
+      [
+        " clue",
+        -0.38037592
+      ]
+    ]
+  },
+  "An especially old one of these entities states that the cup bearer of the king of Kish was Sargon the Great, while another notes that an individual tutored by Bairam Khan was named Akbar. Another of these entities concerns the apprenticeship of Michael Faraday to a bookbinder. Though the \"invisible hand\" is not one, the \"pin factory\" example may be one for The Wealth of Nations, and another opening with the words \"Inscribed on a cocktail napkin\" describes the Laffer curve. For zero points, identify this term for clues that have been used so often that they are reflex-buzzed by quizbowl players with no context for the clue's information.": {
+    "guess": "Stock clue",
+    "confidence": [
+      [
+        "Stock",
+        -0.022480551
+      ],
+      [
+        " clue",
+        -0.41397062
+      ]
+    ]
+  },
+  "Especially plentiful in the Antarctic Ocean, many of the nearly 90 species of these crustaceans emit": {
+    "guess": "Krill",
+    "confidence": [
+      [
+        "Kr",
+        -0.0893162
+      ],
+      [
+        "ill",
+        0.0
+      ]
+    ]
+  },
+  "Especially plentiful in the Antarctic Ocean, many of the nearly 90 species of these crustaceans emit a blue-green light that helps them congregate. Though they range in size from less than half an inch": {
+    "guess": "Krill",
+    "confidence": [
+      [
+        "Kr",
+        -0.0025399902
+      ],
+      [
+        "ill",
+        0.0
+      ]
+    ]
+  },
+  "Especially plentiful in the Antarctic Ocean, many of the nearly 90 species of these crustaceans emit a blue-green light that helps them congregate. Though they range in size from less than half an inch to nearly three inches in length, their major predators are among the largest on earth, consuming up": {
+    "guess": "Krill",
+    "confidence": [
+      [
+        "Kr",
+        -0.01386164
+      ],
+      [
+        "ill",
+        0.0
+      ]
+    ]
+  },
+  "Especially plentiful in the Antarctic Ocean, many of the nearly 90 species of these crustaceans emit a blue-green light that helps them congregate. Though they range in size from less than half an inch to nearly three inches in length, their major predators are among the largest on earth, consuming up to 4000 lbs. of them in one feeding. For 10 points, name this major food source for baleen whales.": {
+    "guess": "Krill",
+    "confidence": [
+      [
+        "Kr",
+        -0.00020926216
+      ],
+      [
+        "ill",
+        0.0
+      ]
+    ]
+  }
+}

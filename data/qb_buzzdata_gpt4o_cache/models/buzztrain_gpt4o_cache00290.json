@@ -1,0 +1,125 @@
+{
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap.": {
+    "guess": "Antihydrogen",
+    "confidence": [
+      [
+        "Ant",
+        -0.01835421
+      ],
+      [
+        "ih",
+        -0.079579525
+      ],
+      [
+        "yd",
+        0.0
+      ],
+      [
+        "rogen",
+        0.0
+      ]
+    ]
+  },
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap. The existence of another type of this substance was proposed by Dirac to explain quantum states with": {
+    "guess": "Antimatter",
+    "confidence": [
+      [
+        "Ant",
+        -0.05844693
+      ],
+      [
+        "im",
+        -0.0005225312
+      ],
+      [
+        "atter",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap. The existence of another type of this substance was proposed by Dirac to explain quantum states with negative energies and was first observed by Carl Anderson. Because the Sakharov conditions were satisfied,": {
+    "guess": "Baryogenesis",
+    "confidence": [
+      [
+        "B",
+        -0.23127684
+      ],
+      [
+        "ary",
+        -6.9882217e-06
+      ],
+      [
+        "ogenesis",
+        -0.03804539
+      ]
+    ]
+  },
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap. The existence of another type of this substance was proposed by Dirac to explain quantum states with negative energies and was first observed by Carl Anderson. Because the Sakharov conditions were satisfied, CP-symmetry violation explains why there is less of this substance produced than its (*) counterpart.": {
+    "guess": "Antimatter",
+    "confidence": [
+      [
+        "Ant",
+        -0.0056150584
+      ],
+      [
+        "im",
+        -0.00015979631
+      ],
+      [
+        "atter",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap. The existence of another type of this substance was proposed by Dirac to explain quantum states with negative energies and was first observed by Carl Anderson. Because the Sakharov conditions were satisfied, CP-symmetry violation explains why there is less of this substance produced than its (*) counterpart. This substance produces high-energy gamma rays when it comes into contact with normal particles,": {
+    "guess": "Antimatter",
+    "confidence": [
+      [
+        "Ant",
+        -0.003936037
+      ],
+      [
+        "im",
+        -1.0206721e-05
+      ],
+      [
+        "atter",
+        0.0
+      ]
+    ]
+  },
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap. The existence of another type of this substance was proposed by Dirac to explain quantum states with negative energies and was first observed by Carl Anderson. Because the Sakharov conditions were satisfied, CP-symmetry violation explains why there is less of this substance produced than its (*) counterpart. This substance produces high-energy gamma rays when it comes into contact with normal particles, which have the same mass but opposite charge as particles of this type. The positron is an example": {
+    "guess": "Antimatter",
+    "confidence": [
+      [
+        "Ant",
+        -0.00018399098
+      ],
+      [
+        "im",
+        -2.1531068e-05
+      ],
+      [
+        "atter",
+        0.0
+      ]
+    ]
+  },
+  "The ATRAP project collected one type of this substance from radioactive sodium-22 in a Penning trap. The existence of another type of this substance was proposed by Dirac to explain quantum states with negative energies and was first observed by Carl Anderson. Because the Sakharov conditions were satisfied, CP-symmetry violation explains why there is less of this substance produced than its (*) counterpart. This substance produces high-energy gamma rays when it comes into contact with normal particles, which have the same mass but opposite charge as particles of this type. The positron is an example of, for ten points, what type of material which rapidly annihilates with matter?": {
+    "guess": "Antimatter",
+    "confidence": [
+      [
+        "Ant",
+        -0.004788834
+      ],
+      [
+        "im",
+        -3.1281633e-07
+      ],
+      [
+        "atter",
+        -1.9361265e-07
+      ]
+    ]
+  }
+}

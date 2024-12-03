@@ -1,0 +1,112 @@
+{
+  "Ichiro Suzuki once claimed that his favorite actress is this wife of Jesse James. She has played a character": {
+    "guess": "SANDRA BULLOCK",
+    "confidence": [
+      [
+        "S",
+        -0.003434715
+      ],
+      [
+        "AND",
+        -2.1769476e-05
+      ],
+      [
+        "RA",
+        -1.9361265e-07
+      ],
+      [
+        " BUL",
+        -4.3202e-07
+      ],
+      [
+        "LOCK",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "Ichiro Suzuki once claimed that his favorite actress is this wife of Jesse James. She has played a character who is at a wedding when she is forced to tend to her boss's \"emergency\" of not knowing what": {
+    "guess": "Sandra Bullock",
+    "confidence": [
+      [
+        "Sandra",
+        -0.002770644
+      ],
+      [
+        " Bull",
+        -3.1281633e-07
+      ],
+      [
+        "ock",
+        0.0
+      ]
+    ]
+  },
+  "Ichiro Suzuki once claimed that his favorite actress is this wife of Jesse James. She has played a character who is at a wedding when she is forced to tend to her boss's \"emergency\" of not knowing what to wear, a woman named Annie Porter forced to drive a bus, and a victim of a carjacking named Jean": {
+    "guess": "Sandra Bullock",
+    "confidence": [
+      [
+        "Sandra",
+        -6.253713e-05
+      ],
+      [
+        " Bull",
+        0.0
+      ],
+      [
+        "ock",
+        0.0
+      ]
+    ]
+  },
+  "Ichiro Suzuki once claimed that his favorite actress is this wife of Jesse James. She has played a character who is at a wedding when she is forced to tend to her boss's \"emergency\" of not knowing what to wear, a woman named Annie Porter forced to drive a bus, and a victim of a carjacking named Jean Cabot. In addition to these roles in Two Weeks' Notice, Speed, and Crash, she more recently portrayed": {
+    "guess": "Sandra Bullock",
+    "confidence": [
+      [
+        "Sandra",
+        -0.0016636353
+      ],
+      [
+        " Bull",
+        0.0
+      ],
+      [
+        "ock",
+        0.0
+      ]
+    ]
+  },
+  "Ichiro Suzuki once claimed that his favorite actress is this wife of Jesse James. She has played a character who is at a wedding when she is forced to tend to her boss's \"emergency\" of not knowing what to wear, a woman named Annie Porter forced to drive a bus, and a victim of a carjacking named Jean Cabot. In addition to these roles in Two Weeks' Notice, Speed, and Crash, she more recently portrayed a Canadian publishing executive who travels to Alaska to pretend to marry her assistant. For 10 points,": {
+    "guess": "Sandra Bullock",
+    "confidence": [
+      [
+        "Sandra",
+        -4.365741e-06
+      ],
+      [
+        " Bull",
+        0.0
+      ],
+      [
+        "ock",
+        0.0
+      ]
+    ]
+  },
+  "Ichiro Suzuki once claimed that his favorite actress is this wife of Jesse James. She has played a character who is at a wedding when she is forced to tend to her boss's \"emergency\" of not knowing what to wear, a woman named Annie Porter forced to drive a bus, and a victim of a carjacking named Jean Cabot. In addition to these roles in Two Weeks' Notice, Speed, and Crash, she more recently portrayed a Canadian publishing executive who travels to Alaska to pretend to marry her assistant. For 10 points, identify this star of Miss Congeniality and The Proposal.": {
+    "guess": "Sandra Bullock",
+    "confidence": [
+      [
+        "Sandra",
+        -1.6240566e-06
+      ],
+      [
+        " Bull",
+        0.0
+      ],
+      [
+        "ock",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "If the tax rate lies to the left of T'', higher taxes would raise government revenue.  If to the right,": {
+    "guess": "Laffer curve",
+    "confidence": [
+      [
+        "L",
+        -0.033831954
+      ],
+      [
+        "affer",
+        -4.3202e-07
+      ],
+      [
+        " curve",
+        -4.608702e-05
+      ]
+    ]
+  },
+  "If the tax rate lies to the left of T'', higher taxes would raise government revenue.  If to the right, reducing taxes would harder work and ultimately increase revenue.  First sketched out on a napkin,": {
+    "guess": "Laffer curve",
+    "confidence": [
+      [
+        "L",
+        -0.030139789
+      ],
+      [
+        "affer",
+        0.0
+      ],
+      [
+        " curve",
+        -0.00026288547
+      ]
+    ]
+  },
+  "If the tax rate lies to the left of T'', higher taxes would raise government revenue.  If to the right, reducing taxes would harder work and ultimately increase revenue.  First sketched out on a napkin, it was the graph of choice of the Reagan era.  FTP, what little bit of bullshit posited an inverse": {
+    "guess": "Laffer curve",
+    "confidence": [
+      [
+        "L",
+        -0.0030701645
+      ],
+      [
+        "affer",
+        0.0
+      ],
+      [
+        " curve",
+        -0.000626895
+      ]
+    ]
+  },
+  "If the tax rate lies to the left of T'', higher taxes would raise government revenue.  If to the right, reducing taxes would harder work and ultimately increase revenue.  First sketched out on a napkin, it was the graph of choice of the Reagan era.  FTP, what little bit of bullshit posited an inverse relationship between taxes and revenues?": {
+    "guess": "Laffer Curve",
+    "confidence": [
+      [
+        "L",
+        -0.00013965457
+      ],
+      [
+        "affer",
+        -1.147242e-06
+      ],
+      [
+        " Curve",
+        -0.5759402
+      ]
+    ]
+  },
+  "This taxonomical classification is divided into two subclasses: Prototheria and Theria, which refer to": {
+    "guess": "Mammalia",
+    "confidence": [
+      [
+        "M",
+        -0.078947075
+      ],
+      [
+        "amm",
+        -3.1281633e-07
+      ],
+      [
+        "alia",
+        -0.25199655
+      ]
+    ]
+  },
+  "This taxonomical classification is divided into two subclasses: Prototheria and Theria, which refer to the way in which embryos are developed. All organisms possess a neocortex, a part of the brain that": {
+    "guess": "Mammalia",
+    "confidence": [
+      [
+        "M",
+        -0.006764514
+      ],
+      [
+        "amm",
+        -1.9361265e-07
+      ],
+      [
+        "alia",
+        -0.20157628
+      ]
+    ]
+  },
+  "This taxonomical classification is divided into two subclasses: Prototheria and Theria, which refer to the way in which embryos are developed. All organisms possess a neocortex, a part of the brain that is unique to this class. Most organisms in this class have the sex-determining region Y, although": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.63494563
+      ]
+    ]
+  },
+  "This taxonomical classification is divided into two subclasses: Prototheria and Theria, which refer to the way in which embryos are developed. All organisms possess a neocortex, a part of the brain that is unique to this class. Most organisms in this class have the sex-determining region Y, although the platypus has the ZW system similar to that of birds. Except for the five species of monotremes,": {
+    "guess": "Mammalia",
+    "confidence": [
+      [
+        "M",
+        -0.011194247
+      ],
+      [
+        "amm",
+        -4.3202e-07
+      ],
+      [
+        "alia",
+        -0.02324967
+      ]
+    ]
+  },
+  "This taxonomical classification is divided into two subclasses: Prototheria and Theria, which refer to the way in which embryos are developed. All organisms possess a neocortex, a part of the brain that is unique to this class. Most organisms in this class have the sex-determining region Y, although the platypus has the ZW system similar to that of birds. Except for the five species of monotremes, all organisms in this class give birth to live young. For 10 points, identify this class of vertebrate": {
+    "guess": "Mammalia",
+    "confidence": [
+      [
+        "M",
+        -0.0040877783
+      ],
+      [
+        "amm",
+        0.0
+      ],
+      [
+        "alia",
+        -0.00071147823
+      ]
+    ]
+  },
+  "This taxonomical classification is divided into two subclasses: Prototheria and Theria, which refer to the way in which embryos are developed. All organisms possess a neocortex, a part of the brain that is unique to this class. Most organisms in this class have the sex-determining region Y, although the platypus has the ZW system similar to that of birds. Except for the five species of monotremes, all organisms in this class give birth to live young. For 10 points, identify this class of vertebrate animals whose name comes from the specialized sweat glands that produce milk.": {
+    "guess": "Mammalia",
+    "confidence": [
+      [
+        "M",
+        -0.0009170551
+      ],
+      [
+        "amm",
+        0.0
+      ],
+      [
+        "alia",
+        -0.014171031
+      ]
+    ]
+  },
+  "This taxon is referred to as \"Craniata\" when it is expanded to admit the hagfish, and classes contained": {
+    "guess": "Vertebrate",
+    "confidence": [
+      [
+        "Ver",
+        -0.00019984508
+      ],
+      [
+        "te",
+        0.0
+      ],
+      [
+        "brate",
+        -0.011673083
+      ]
+    ]
+  },
+  "This taxon is referred to as \"Craniata\" when it is expanded to admit the hagfish, and classes contained in this taxon include Agnatha, the jawless fish. Other classes include cartilaginous and bony fishes,": {
+    "guess": "Vertebrate",
+    "confidence": [
+      [
+        "Ver",
+        -8.10137e-05
+      ],
+      [
+        "te",
+        0.0
+      ],
+      [
+        "brate",
+        -0.0045212656
+      ]
+    ]
+  },
+  "This taxon is referred to as \"Craniata\" when it is expanded to admit the hagfish, and classes contained in this taxon include Agnatha, the jawless fish. Other classes include cartilaginous and bony fishes, Chondricthyes and Osteicthyes. FTP, identify this sub-phylum, home to the classes Aves and Mammalia,": {
+    "guess": "Vertebrate",
+    "confidence": [
+      [
+        "Ver",
+        -7.696077e-05
+      ],
+      [
+        "te",
+        0.0
+      ],
+      [
+        "brate",
+        -0.3872074
+      ]
+    ]
+  },
+  "This taxon is referred to as \"Craniata\" when it is expanded to admit the hagfish, and classes contained in this taxon include Agnatha, the jawless fish. Other classes include cartilaginous and bony fishes, Chondricthyes and Osteicthyes. FTP, identify this sub-phylum, home to the classes Aves and Mammalia, named for its possession of a spinal column, which shares its name with the series of bones that": {
+    "guess": "Vertebrate",
+    "confidence": [
+      [
+        "Ver",
+        -0.00013905855
+      ],
+      [
+        "te",
+        0.0
+      ],
+      [
+        "brate",
+        -0.2025565
+      ]
+    ]
+  },
+  "This taxon is referred to as \"Craniata\" when it is expanded to admit the hagfish, and classes contained in this taxon include Agnatha, the jawless fish. Other classes include cartilaginous and bony fishes, Chondricthyes and Osteicthyes. FTP, identify this sub-phylum, home to the classes Aves and Mammalia, named for its possession of a spinal column, which shares its name with the series of bones that make up that column, which come in cervical, thoracic, and lumbar types.": {
+    "guess": "Vertebrate",
+    "confidence": [
+      [
+        "Ver",
+        -7.7199176e-05
+      ],
+      [
+        "te",
+        0.0
+      ],
+      [
+        "brate",
+        -0.011809514
+      ]
+    ]
+  }
+}

@@ -1,0 +1,2619 @@
+{
+  "They were governed by kings called \"Suleyman\" the last of whom built the pyramids.  The highest one is": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.0117540285
+      ]
+    ]
+  },
+  "They were governed by kings called \"Suleyman\" the last of whom built the pyramids.  The highest one is Iblis who led a revolt in Heaven although King Solomon had a diamond ring that could control them.": {
+    "guess": "Djinn",
+    "confidence": [
+      [
+        "Dj",
+        -0.52463603
+      ],
+      [
+        "inn",
+        -0.00026133584
+      ]
+    ]
+  },
+  "They were governed by kings called \"Suleyman\" the last of whom built the pyramids.  The highest one is Iblis who led a revolt in Heaven although King Solomon had a diamond ring that could control them.  They were created from smokeless fire and were divided into categories such as si'la, ghul, and ifrit.": {
+    "guess": "Jinn",
+    "confidence": [
+      [
+        "J",
+        -0.043133587
+      ],
+      [
+        "inn",
+        -7.505351e-05
+      ]
+    ]
+  },
+  "They were governed by kings called \"Suleyman\" the last of whom built the pyramids.  The highest one is Iblis who led a revolt in Heaven although King Solomon had a diamond ring that could control them.  They were created from smokeless fire and were divided into categories such as si'la, ghul, and ifrit.  Created 2000 years before Adam by Allah, FTP, what are these demons in Islam that can grant wishes": {
+    "guess": "Jinn",
+    "confidence": [
+      [
+        "J",
+        -0.0067299344
+      ],
+      [
+        "inn",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "They were governed by kings called \"Suleyman\" the last of whom built the pyramids.  The highest one is Iblis who led a revolt in Heaven although King Solomon had a diamond ring that could control them.  They were created from smokeless fire and were divided into categories such as si'la, ghul, and ifrit.  Created 2000 years before Adam by Allah, FTP, what are these demons in Islam that can grant wishes and may live in magic lamps?": {
+    "guess": "Jinn",
+    "confidence": [
+      [
+        "J",
+        -0.00073398574
+      ],
+      [
+        "inn",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "A government laboratory in Guatemala zaps them with radiation and covers them with orange dye before": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.25468874
+      ]
+    ]
+  },
+  "A government laboratory in Guatemala zaps them with radiation and covers them with orange dye before they are shipped to MacDill Air Force Base, where they're grown, chilled, loaded onto a USDA plane,": {
+    "guess": "Screwworm Fly Eradication",
+    "confidence": [
+      [
+        "S",
+        -0.083690785
+      ],
+      [
+        "cre",
+        -0.0040848088
+      ],
+      [
+        "ww",
+        -3.1281633e-07
+      ],
+      [
+        "orm",
+        0.0
+      ],
+      [
+        " Fly",
+        -1.2235318
+      ],
+      [
+        " Er",
+        -0.38569978
+      ],
+      [
+        "ad",
+        -2.3392786e-06
+      ],
+      [
+        "ication",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "A government laboratory in Guatemala zaps them with radiation and covers them with orange dye before they are shipped to MacDill Air Force Base, where they're grown, chilled, loaded onto a USDA plane, and dumped in the air as a \"people-friendly\" alternative to malathion. For ten points, what insect will": {
+    "guess": "Sterile insect technique",
+    "confidence": [
+      [
+        "Ster",
+        -0.8191562
+      ],
+      [
+        "ile",
+        -7.703444e-06
+      ],
+      [
+        " insect",
+        -0.02417333
+      ],
+      [
+        " technique",
+        -0.0004214979
+      ]
+    ]
+  },
+  "A government laboratory in Guatemala zaps them with radiation and covers them with orange dye before they are shipped to MacDill Air Force Base, where they're grown, chilled, loaded onto a USDA plane, and dumped in the air as a \"people-friendly\" alternative to malathion. For ten points, what insect will waste time trying to mate with these sterilized partners in their 30 day lifespan, an agricultural": {
+    "guess": "Mediterranean fruit fly",
+    "confidence": [
+      [
+        "Medit",
+        -0.21612795
+      ],
+      [
+        "err",
+        -1.9361265e-07
+      ],
+      [
+        "anean",
+        -1.9361265e-07
+      ],
+      [
+        " fruit",
+        -0.0017118285
+      ],
+      [
+        " fly",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "A government laboratory in Guatemala zaps them with radiation and covers them with orange dye before they are shipped to MacDill Air Force Base, where they're grown, chilled, loaded onto a USDA plane, and dumped in the air as a \"people-friendly\" alternative to malathion. For ten points, what insect will waste time trying to mate with these sterilized partners in their 30 day lifespan, an agricultural scourge.": {
+    "guess": "Mediterranean fruit fly",
+    "confidence": [
+      [
+        "Medit",
+        -0.06581109
+      ],
+      [
+        "err",
+        0.0
+      ],
+      [
+        "anean",
+        -1.9361265e-07
+      ],
+      [
+        " fruit",
+        -0.0010386447
+      ],
+      [
+        " fly",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "This man's government was responsible for the arrest of a group of authors for \"offending the public": {
+    "guess": "Recep Tayyip Erdo\u011fan",
+    "confidence": [
+      [
+        "Rece",
+        -0.16632926
+      ],
+      [
+        "p",
+        0.0
+      ],
+      [
+        " Tayy",
+        -1.0280384e-06
+      ],
+      [
+        "ip",
+        0.0
+      ],
+      [
+        " Erdo\u011fan",
+        -0.0040794704
+      ]
+    ]
+  },
+  "This man's government was responsible for the arrest of a group of authors for \"offending the public morals\" that became known as the \"Three Marias.\" This man appointed Jose Melo e Castro as the head of": {
+    "guess": "Marcelo Caetano",
+    "confidence": [
+      [
+        "Marc",
+        -0.050094593
+      ],
+      [
+        "elo",
+        -0.38687137
+      ],
+      [
+        " Ca",
+        -2.2603901e-05
+      ],
+      [
+        "etano",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "This man's government was responsible for the arrest of a group of authors for \"offending the public morals\" that became known as the \"Three Marias.\" This man appointed Jose Melo e Castro as the head of his party as a part of what he considered an \"evolution within continuity\" after taking over for his": {
+    "guess": "Marcelo Caetano",
+    "confidence": [
+      [
+        "Marc",
+        -0.0035214368
+      ],
+      [
+        "elo",
+        -0.25192907
+      ],
+      [
+        " Ca",
+        -4.8425554e-06
+      ],
+      [
+        "etano",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man's government was responsible for the arrest of a group of authors for \"offending the public morals\" that became known as the \"Three Marias.\" This man appointed Jose Melo e Castro as the head of his party as a part of what he considered an \"evolution within continuity\" after taking over for his predecessor. This man renamed one group created by that predecessor the General Directorate of Security,": {
+    "guess": "Marcelo Caetano",
+    "confidence": [
+      [
+        "Marc",
+        -0.0014789172
+      ],
+      [
+        "elo",
+        -0.038041495
+      ],
+      [
+        " Ca",
+        -4.1273333e-06
+      ],
+      [
+        "etano",
+        0.0
+      ]
+    ]
+  },
+  "This man's government was responsible for the arrest of a group of authors for \"offending the public morals\" that became known as the \"Three Marias.\" This man appointed Jose Melo e Castro as the head of his party as a part of what he considered an \"evolution within continuity\" after taking over for his predecessor. This man renamed one group created by that predecessor the General Directorate of Security, or DGS, and took away some of the powers once held by the PIDE. This man claimed he knew \"that": {
+    "guess": "Marcelo Caetano",
+    "confidence": [
+      [
+        "Marc",
+        -0.0003710894
+      ],
+      [
+        "elo",
+        -0.25192907
+      ],
+      [
+        " Ca",
+        -1.147242e-06
+      ],
+      [
+        "etano",
+        0.0
+      ]
+    ]
+  },
+  "This man's government was responsible for the arrest of a group of authors for \"offending the public morals\" that became known as the \"Three Marias.\" This man appointed Jose Melo e Castro as the head of his party as a part of what he considered an \"evolution within continuity\" after taking over for his predecessor. This man renamed one group created by that predecessor the General Directorate of Security, or DGS, and took away some of the powers once held by the PIDE. This man claimed he knew \"that a coup d'etat\u2026was now inevitable\" after reading a book by his general, Antonio de Spinola. For 10": {
+    "guess": "Marcelo Caetano",
+    "confidence": [
+      [
+        "Marc",
+        -0.00011868205
+      ],
+      [
+        "elo",
+        -0.16022412
+      ],
+      [
+        " Ca",
+        -1.3856493e-06
+      ],
+      [
+        "etano",
+        0.0
+      ]
+    ]
+  },
+  "This man's government was responsible for the arrest of a group of authors for \"offending the public morals\" that became known as the \"Three Marias.\" This man appointed Jose Melo e Castro as the head of his party as a part of what he considered an \"evolution within continuity\" after taking over for his predecessor. This man renamed one group created by that predecessor the General Directorate of Security, or DGS, and took away some of the powers once held by the PIDE. This man claimed he knew \"that a coup d'etat\u2026was now inevitable\" after reading a book by his general, Antonio de Spinola. For 10 points, name this ruler who ruled for six years as the last Prime Minister of the Estado Novo before": {
+    "guess": "Marcelo Caetano",
+    "confidence": [
+      [
+        "Marc",
+        -0.00021164624
+      ],
+      [
+        "elo",
+        -0.061967686
+      ],
+      [
+        " Ca",
+        -9.0883464e-07
+      ],
+      [
+        "etano",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man's government was responsible for the arrest of a group of authors for \"offending the public morals\" that became known as the \"Three Marias.\" This man appointed Jose Melo e Castro as the head of his party as a part of what he considered an \"evolution within continuity\" after taking over for his predecessor. This man renamed one group created by that predecessor the General Directorate of Security, or DGS, and took away some of the powers once held by the PIDE. This man claimed he knew \"that a coup d'etat\u2026was now inevitable\" after reading a book by his general, Antonio de Spinola. For 10 points, name this ruler who ruled for six years as the last Prime Minister of the Estado Novo before being overthrown by the Carnation Revolution.": {
+    "guess": "Marcelo Caetano",
+    "confidence": [
+      [
+        "Marc",
+        -0.00026884564
+      ],
+      [
+        "elo",
+        -0.023245478
+      ],
+      [
+        " Ca",
+        -1.7432603e-06
+      ],
+      [
+        "etano",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A government of this country was brought down in the Guillaume Affair, a spy scandal affecting the cabinet": {
+    "guess": "West Germany",
+    "confidence": [
+      [
+        "West",
+        -0.24555153
+      ],
+      [
+        " Germany",
+        0.0
+      ]
+    ]
+  },
+  "A government of this country was brought down in the Guillaume Affair, a spy scandal affecting the cabinet that had pursued the \"Ostpolitik\" foreign relations approach of Willy Brandt. The first leader": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.25796294
+      ]
+    ]
+  },
+  "A government of this country was brought down in the Guillaume Affair, a spy scandal affecting the cabinet that had pursued the \"Ostpolitik\" foreign relations approach of Willy Brandt. The first leader of this country after its creation was Konrad Adenauer. Citizens of this country benefitted from a": {
+    "guess": "West Germany",
+    "confidence": [
+      [
+        "West",
+        -0.20266184
+      ],
+      [
+        " Germany",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "A government of this country was brought down in the Guillaume Affair, a spy scandal affecting the cabinet that had pursued the \"Ostpolitik\" foreign relations approach of Willy Brandt. The first leader of this country after its creation was Konrad Adenauer. Citizens of this country benefitted from a 1948 (*) \"airlift\" to a district that it controlled. For 10 points, name this country which was reunified": {
+    "guess": "Germany reunification",
+    "confidence": [
+      [
+        "Germany",
+        -0.104299694
+      ],
+      [
+        " reun",
+        -0.18278478
+      ],
+      [
+        "ification",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "A government of this country was brought down in the Guillaume Affair, a spy scandal affecting the cabinet that had pursued the \"Ostpolitik\" foreign relations approach of Willy Brandt. The first leader of this country after its creation was Konrad Adenauer. Citizens of this country benefitted from a 1948 (*) \"airlift\" to a district that it controlled. For 10 points, name this country which was reunified with a former Communist state following the fall of the Berlin Wall.": {
+    "guess": "West Germany",
+    "confidence": [
+      [
+        "West",
+        -0.2663949
+      ],
+      [
+        " Germany",
+        0.0
+      ]
+    ]
+  },
+  "This man's government was created by John Lambert's Instrument of Government. He commanded the Eastern": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.01855198
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "This man's government was created by John Lambert's Instrument of Government. He commanded the Eastern Association Army, and this man crushed the Levellers in Burford. This man's general Thomas Fairfax": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.03421725
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "This man's government was created by John Lambert's Instrument of Government. He commanded the Eastern Association Army, and this man crushed the Levellers in Burford. This man's general Thomas Fairfax defeated Prince Rupert of the Palatine at a battle fought south of Leicester. This man's troops won": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.0815915
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "This man's government was created by John Lambert's Instrument of Government. He commanded the Eastern Association Army, and this man crushed the Levellers in Burford. This man's general Thomas Fairfax defeated Prince Rupert of the Palatine at a battle fought south of Leicester. This man's troops won at Marston Moor and [*] Naseby. Later, this man instituted the Barebones Parliament in opposition to": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.0048466153
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "This man's government was created by John Lambert's Instrument of Government. He commanded the Eastern Association Army, and this man crushed the Levellers in Burford. This man's general Thomas Fairfax defeated Prince Rupert of the Palatine at a battle fought south of Leicester. This man's troops won at Marston Moor and [*] Naseby. Later, this man instituted the Barebones Parliament in opposition to the Long Parliament and Rump Parliament, before he got rid of Parliament altogether and ruled with": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.0401291
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "This man's government was created by John Lambert's Instrument of Government. He commanded the Eastern Association Army, and this man crushed the Levellers in Burford. This man's general Thomas Fairfax defeated Prince Rupert of the Palatine at a battle fought south of Leicester. This man's troops won at Marston Moor and [*] Naseby. Later, this man instituted the Barebones Parliament in opposition to the Long Parliament and Rump Parliament, before he got rid of Parliament altogether and ruled with the help of his Roundhead allies in the New Model Army. For 10 points, name this conqueror of Ireland": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.0008893063
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "This man's government was created by John Lambert's Instrument of Government. He commanded the Eastern Association Army, and this man crushed the Levellers in Burford. This man's general Thomas Fairfax defeated Prince Rupert of the Palatine at a battle fought south of Leicester. This man's troops won at Marston Moor and [*] Naseby. Later, this man instituted the Barebones Parliament in opposition to the Long Parliament and Rump Parliament, before he got rid of Parliament altogether and ruled with the help of his Roundhead allies in the New Model Army. For 10 points, name this conqueror of Ireland and Lord Protector of England.": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.006880188
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "One of these governments was dominated by regents of the Hojo clan. Another sent the diplomat Faxecura": {
+    "guess": "Tokugawa shogunate",
+    "confidence": [
+      [
+        "Tok",
+        -0.04687725
+      ],
+      [
+        "ug",
+        -2.6968896e-06
+      ],
+      [
+        "awa",
+        0.0
+      ],
+      [
+        " sh",
+        -0.0009139668
+      ],
+      [
+        "og",
+        -5.5122365e-07
+      ],
+      [
+        "unate",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One of these governments was dominated by regents of the Hojo clan. Another sent the diplomat Faxecura to Acapulco and the Vatican, but later banned Christianity prior to the Shimabara rebellion. That": {
+    "guess": "Tokugawa shogunate",
+    "confidence": [
+      [
+        "Tok",
+        -0.17821123
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "awa",
+        0.0
+      ],
+      [
+        " sh",
+        -1.18755715e-05
+      ],
+      [
+        "og",
+        0.0
+      ],
+      [
+        "unate",
+        0.0
+      ]
+    ]
+  },
+  "One of these governments was dominated by regents of the Hojo clan. Another sent the diplomat Faxecura to Acapulco and the Vatican, but later banned Christianity prior to the Shimabara rebellion. That one came to power after the Battle of Sekigahara and instituted sakoku, an isolationist policy ended": {
+    "guess": "Tokugawa shogunate",
+    "confidence": [
+      [
+        "Tok",
+        -0.10272674
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "awa",
+        0.0
+      ],
+      [
+        " sh",
+        -2.9352968e-06
+      ],
+      [
+        "og",
+        0.0
+      ],
+      [
+        "unate",
+        0.0
+      ]
+    ]
+  },
+  "One of these governments was dominated by regents of the Hojo clan. Another sent the diplomat Faxecura to Acapulco and the Vatican, but later banned Christianity prior to the Shimabara rebellion. That one came to power after the Battle of Sekigahara and instituted sakoku, an isolationist policy ended in 1867.  For 10 points, name this form of governance exemplified by the rule of Ieyasu Tokugawa, in": {
+    "guess": "Tokugawa shogunate",
+    "confidence": [
+      [
+        "Tok",
+        -0.0016808906
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "awa",
+        0.0
+      ],
+      [
+        " sh",
+        -6.704273e-07
+      ],
+      [
+        "og",
+        -1.9361265e-07
+      ],
+      [
+        "unate",
+        0.0
+      ]
+    ]
+  },
+  "One of these governments was dominated by regents of the Hojo clan. Another sent the diplomat Faxecura to Acapulco and the Vatican, but later banned Christianity prior to the Shimabara rebellion. That one came to power after the Battle of Sekigahara and instituted sakoku, an isolationist policy ended in 1867.  For 10 points, name this form of governance exemplified by the rule of Ieyasu Tokugawa, in which power rested with the namesake Japanese warlord.": {
+    "guess": "Tokugawa shogunate",
+    "confidence": [
+      [
+        "Tok",
+        -0.030110285
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "awa",
+        0.0
+      ],
+      [
+        " sh",
+        -1.0280384e-06
+      ],
+      [
+        "og",
+        -4.3202e-07
+      ],
+      [
+        "unate",
+        0.0
+      ]
+    ]
+  },
+  "The governor of this state just defeated a challenge from its Attorney General Terry Goddard, and one": {
+    "guess": "Arizona",
+    "confidence": [
+      [
+        "Arizona",
+        -0.021351015
+      ]
+    ]
+  },
+  "The governor of this state just defeated a challenge from its Attorney General Terry Goddard, and one of its sena- tors just defeated Rodney Glassman. In 1997, this state's governor resigned when he was": {
+    "guess": "Arizona",
+    "confidence": [
+      [
+        "Arizona",
+        -0.02019988
+      ]
+    ]
+  },
+  "The governor of this state just defeated a challenge from its Attorney General Terry Goddard, and one of its sena- tors just defeated Rodney Glassman. In 1997, this state's governor resigned when he was convicted of bank fraud, and in 1988, its governor was impeached for obstruction of justice. In addition": {
+    "guess": "Arizona",
+    "confidence": [
+      [
+        "Arizona",
+        -0.0008014074
+      ]
+    ]
+  },
+  "The governor of this state just defeated a challenge from its Attorney General Terry Goddard, and one of its sena- tors just defeated Rodney Glassman. In 1997, this state's governor resigned when he was convicted of bank fraud, and in 1988, its governor was impeached for obstruction of justice. In addition to Fife Symington and Evan Mecham, an- other recent governor of this state is now the Secretary": {
+    "guess": "Arizona",
+    "confidence": [
+      [
+        "Arizona",
+        -0.010534705
+      ]
+    ]
+  },
+  "The governor of this state just defeated a challenge from its Attorney General Terry Goddard, and one of its sena- tors just defeated Rodney Glassman. In 1997, this state's governor resigned when he was convicted of bank fraud, and in 1988, its governor was impeached for obstruction of justice. In addition to Fife Symington and Evan Mecham, an- other recent governor of this state is now the Secretary of Homeland Security, Janet Napolitano. Current Governor Jan Brewer is closely associated with its": {
+    "guess": "Arizona",
+    "confidence": [
+      [
+        "Arizona",
+        -7.302705e-05
+      ]
+    ]
+  },
+  "The governor of this state just defeated a challenge from its Attorney General Terry Goddard, and one of its sena- tors just defeated Rodney Glassman. In 1997, this state's governor resigned when he was convicted of bank fraud, and in 1988, its governor was impeached for obstruction of justice. In addition to Fife Symington and Evan Mecham, an- other recent governor of this state is now the Secretary of Homeland Security, Janet Napolitano. Current Governor Jan Brewer is closely associated with its SB1070 law, named the Support Our Law Enforcement and Safe Neighbor- hoods Act, an anti-immigration": {
+    "guess": "Arizona",
+    "confidence": [
+      [
+        "Arizona",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "The governor of this state just defeated a challenge from its Attorney General Terry Goddard, and one of its sena- tors just defeated Rodney Glassman. In 1997, this state's governor resigned when he was convicted of bank fraud, and in 1988, its governor was impeached for obstruction of justice. In addition to Fife Symington and Evan Mecham, an- other recent governor of this state is now the Secretary of Homeland Security, Janet Napolitano. Current Governor Jan Brewer is closely associated with its SB1070 law, named the Support Our Law Enforcement and Safe Neighbor- hoods Act, an anti-immigration measure that has led to boycotts of this state. Name this home state of Senator John McCain.": {
+    "guess": "Arizona",
+    "confidence": [
+      [
+        "Arizona",
+        -4.1273333e-06
+      ]
+    ]
+  },
+  "As the governor of Cilicia, this man was the first Roman official to meet with a Parthian ambassador,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5131524
+      ]
+    ]
+  },
+  "As the governor of Cilicia, this man was the first Roman official to meet with a Parthian ambassador, and he served under Quintus Catulus in defeating the Cimbri at the Battle of Vercellae. His victories": {
+    "guess": "Lucius Cornelius Sulla",
+    "confidence": [
+      [
+        "Luc",
+        -0.19353467
+      ],
+      [
+        "ius",
+        -0.20141529
+      ],
+      [
+        " Corn",
+        -7.004696e-05
+      ],
+      [
+        "elius",
+        0.0
+      ],
+      [
+        " S",
+        -1.2352386e-05
+      ],
+      [
+        "ulla",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "As the governor of Cilicia, this man was the first Roman official to meet with a Parthian ambassador, and he served under Quintus Catulus in defeating the Cimbri at the Battle of Vercellae. His victories at Orchomenos and Chaeronea over Archelaus led to the end of the Mithridatic War, after which he": {
+    "guess": "Sulla",
+    "confidence": [
+      [
+        "S",
+        -0.0037547098
+      ],
+      [
+        "ulla",
+        0.0
+      ]
+    ]
+  },
+  "As the governor of Cilicia, this man was the first Roman official to meet with a Parthian ambassador, and he served under Quintus Catulus in defeating the Cimbri at the Battle of Vercellae. His victories at Orchomenos and Chaeronea over Archelaus led to the end of the Mithridatic War, after which he turned his attention to a Rome led by Cinna. In his most famous post, he greatly reduced the power of": {
+    "guess": "Sulla",
+    "confidence": [
+      [
+        "S",
+        -0.018683737
+      ],
+      [
+        "ulla",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "As the governor of Cilicia, this man was the first Roman official to meet with a Parthian ambassador, and he served under Quintus Catulus in defeating the Cimbri at the Battle of Vercellae. His victories at Orchomenos and Chaeronea over Archelaus led to the end of the Mithridatic War, after which he turned his attention to a Rome led by Cinna. In his most famous post, he greatly reduced the power of the Tribunes and strengthened the Senate, depite executing 1,500 nobles. With the help of King Bocchus,": {
+    "guess": "Sulla",
+    "confidence": [
+      [
+        "S",
+        -0.0134032685
+      ],
+      [
+        "ulla",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "As the governor of Cilicia, this man was the first Roman official to meet with a Parthian ambassador, and he served under Quintus Catulus in defeating the Cimbri at the Battle of Vercellae. His victories at Orchomenos and Chaeronea over Archelaus led to the end of the Mithridatic War, after which he turned his attention to a Rome led by Cinna. In his most famous post, he greatly reduced the power of the Tribunes and strengthened the Senate, depite executing 1,500 nobles. With the help of King Bocchus, he captured Jugurtha, although credit was given to his superior and rival. For 10 points, name": {
+    "guess": "Sulla",
+    "confidence": [
+      [
+        "S",
+        -0.017472146
+      ],
+      [
+        "ulla",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "As the governor of Cilicia, this man was the first Roman official to meet with a Parthian ambassador, and he served under Quintus Catulus in defeating the Cimbri at the Battle of Vercellae. His victories at Orchomenos and Chaeronea over Archelaus led to the end of the Mithridatic War, after which he turned his attention to a Rome led by Cinna. In his most famous post, he greatly reduced the power of the Tribunes and strengthened the Senate, depite executing 1,500 nobles. With the help of King Bocchus, he captured Jugurtha, although credit was given to his superior and rival. For 10 points, name this Roman general, the enemy of Marius.": {
+    "guess": "Sulla",
+    "confidence": [
+      [
+        "S",
+        -0.001372969
+      ],
+      [
+        "ulla",
+        0.0
+      ]
+    ]
+  },
+  "This government's \"Foundation for the Study of Human Programs\" kept track of school grades for a selective": {
+    "guess": "Vichy France",
+    "confidence": [
+      [
+        "V",
+        -0.0017112361
+      ],
+      [
+        "ichy",
+        0.0
+      ],
+      [
+        " France",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This government's \"Foundation for the Study of Human Programs\" kept track of school grades for a selective breeding program. This government conducted the Vel'd'hiy raids, which sent people to the Dracy": {
+    "guess": "Vichy France",
+    "confidence": [
+      [
+        "V",
+        -0.1275387
+      ],
+      [
+        "ichy",
+        0.0
+      ],
+      [
+        " France",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "This government's \"Foundation for the Study of Human Programs\" kept track of school grades for a selective breeding program. This government conducted the Vel'd'hiy raids, which sent people to the Dracy concentration camp. Its secret police was called the Milice, and its prime minister was named Laval.": {
+    "guess": "Vichy France",
+    "confidence": [
+      [
+        "V",
+        -0.0031854364
+      ],
+      [
+        "ichy",
+        0.0
+      ],
+      [
+        " France",
+        0.0
+      ]
+    ]
+  },
+  "This government's \"Foundation for the Study of Human Programs\" kept track of school grades for a selective breeding program. This government conducted the Vel'd'hiy raids, which sent people to the Dracy concentration camp. Its secret police was called the Milice, and its prime minister was named Laval. Its slogan was \"Work, Family, Fatherland,\" which replaced the more familiar \"Liberty, Equality, Fraternity.\"": {
+    "guess": "Vichy France",
+    "confidence": [
+      [
+        "V",
+        -0.0001311911
+      ],
+      [
+        "ichy",
+        0.0
+      ],
+      [
+        " France",
+        0.0
+      ]
+    ]
+  },
+  "This government's \"Foundation for the Study of Human Programs\" kept track of school grades for a selective breeding program. This government conducted the Vel'd'hiy raids, which sent people to the Dracy concentration camp. Its secret police was called the Milice, and its prime minister was named Laval. Its slogan was \"Work, Family, Fatherland,\" which replaced the more familiar \"Liberty, Equality, Fraternity.\" For 10 points, name this government led by General Petain, which was pro-Nazi and led France": {
+    "guess": "Vichy France",
+    "confidence": [
+      [
+        "V",
+        -7.600714e-05
+      ],
+      [
+        "ichy",
+        0.0
+      ],
+      [
+        " France",
+        0.0
+      ]
+    ]
+  },
+  "This government's \"Foundation for the Study of Human Programs\" kept track of school grades for a selective breeding program. This government conducted the Vel'd'hiy raids, which sent people to the Dracy concentration camp. Its secret police was called the Milice, and its prime minister was named Laval. Its slogan was \"Work, Family, Fatherland,\" which replaced the more familiar \"Liberty, Equality, Fraternity.\" For 10 points, name this government led by General Petain, which was pro-Nazi and led France after its surrender to Germany in World War II.": {
+    "guess": "Vichy France",
+    "confidence": [
+      [
+        "V",
+        -9.901345e-05
+      ],
+      [
+        "ichy",
+        0.0
+      ],
+      [
+        " France",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man's government eliminated the manufacturing tax and replaced it with a five percent VAT paid by": {
+    "guess": "Nicol\u00e1s Maduro",
+    "confidence": [
+      [
+        "N",
+        -0.9705839
+      ],
+      [
+        "icol",
+        -0.18585081
+      ],
+      [
+        "\u00e1s",
+        -6.704273e-07
+      ],
+      [
+        " Maduro",
+        -0.0004154185
+      ]
+    ]
+  },
+  "This man's government eliminated the manufacturing tax and replaced it with a five percent VAT paid by consumers called the Goods and Services Tax. His government also issued a moratorium on cod fishing": {
+    "guess": "Brian Mulroney",
+    "confidence": [
+      [
+        "Brian",
+        -0.18619661
+      ],
+      [
+        " Mul",
+        -0.00033808468
+      ],
+      [
+        "r",
+        0.0
+      ],
+      [
+        "oney",
+        0.0
+      ]
+    ]
+  },
+  "This man's government eliminated the manufacturing tax and replaced it with a five percent VAT paid by consumers called the Goods and Services Tax. His government also issued a moratorium on cod fishing after he won an election on the strength of an all-provinces strategy and a strong debate performance,": {
+    "guess": "Brian Mulroney",
+    "confidence": [
+      [
+        "Brian",
+        -0.12364105
+      ],
+      [
+        " Mul",
+        -0.00366611
+      ],
+      [
+        "r",
+        0.0
+      ],
+      [
+        "oney",
+        0.0
+      ]
+    ]
+  },
+  "This man's government eliminated the manufacturing tax and replaced it with a five percent VAT paid by consumers called the Goods and Services Tax. His government also issued a moratorium on cod fishing after he won an election on the strength of an all-provinces strategy and a strong debate performance, where he gave the legendary retort \"You had an option, sir.\" His government accepted refugees from": {
+    "guess": "Brian Mulroney",
+    "confidence": [
+      [
+        "Brian",
+        -0.037616897
+      ],
+      [
+        " Mul",
+        0.0
+      ],
+      [
+        "r",
+        0.0
+      ],
+      [
+        "oney",
+        0.0
+      ]
+    ]
+  },
+  "This man's government eliminated the manufacturing tax and replaced it with a five percent VAT paid by consumers called the Goods and Services Tax. His government also issued a moratorium on cod fishing after he won an election on the strength of an all-provinces strategy and a strong debate performance, where he gave the legendary retort \"You had an option, sir.\" His government accepted refugees from the pro-American governments in Guatamala and El Salvador and engineered a failed agreement in Charlottetown": {
+    "guess": "Brian Mulroney",
+    "confidence": [
+      [
+        "Brian",
+        -0.0054552625
+      ],
+      [
+        " Mul",
+        0.0
+      ],
+      [
+        "r",
+        0.0
+      ],
+      [
+        "oney",
+        0.0
+      ]
+    ]
+  },
+  "This man's government eliminated the manufacturing tax and replaced it with a five percent VAT paid by consumers called the Goods and Services Tax. His government also issued a moratorium on cod fishing after he won an election on the strength of an all-provinces strategy and a strong debate performance, where he gave the legendary retort \"You had an option, sir.\" His government accepted refugees from the pro-American governments in Guatamala and El Salvador and engineered a failed agreement in Charlottetown that was to replace the Meech Lake Accord. He was succeeded by the less popular Kim Campbell": {
+    "guess": "Brian Mulroney",
+    "confidence": [
+      [
+        "Brian",
+        -0.00020735491
+      ],
+      [
+        " Mul",
+        0.0
+      ],
+      [
+        "r",
+        0.0
+      ],
+      [
+        "oney",
+        0.0
+      ]
+    ]
+  },
+  "This man's government eliminated the manufacturing tax and replaced it with a five percent VAT paid by consumers called the Goods and Services Tax. His government also issued a moratorium on cod fishing after he won an election on the strength of an all-provinces strategy and a strong debate performance, where he gave the legendary retort \"You had an option, sir.\" His government accepted refugees from the pro-American governments in Guatamala and El Salvador and engineered a failed agreement in Charlottetown that was to replace the Meech Lake Accord. He was succeeded by the less popular Kim Campbell as PM and Progressive Conservative leader. For 10 points, name this Prime Minister of Canada from": {
+    "guess": "Brian Mulroney",
+    "confidence": [
+      [
+        "Brian",
+        -0.0026173936
+      ],
+      [
+        " Mul",
+        0.0
+      ],
+      [
+        "r",
+        0.0
+      ],
+      [
+        "oney",
+        0.0
+      ]
+    ]
+  },
+  "This man's government eliminated the manufacturing tax and replaced it with a five percent VAT paid by consumers called the Goods and Services Tax. His government also issued a moratorium on cod fishing after he won an election on the strength of an all-provinces strategy and a strong debate performance, where he gave the legendary retort \"You had an option, sir.\" His government accepted refugees from the pro-American governments in Guatamala and El Salvador and engineered a failed agreement in Charlottetown that was to replace the Meech Lake Accord. He was succeeded by the less popular Kim Campbell as PM and Progressive Conservative leader. For 10 points, name this Prime Minister of Canada from 1984 to 1993.": {
+    "guess": "Brian Mulroney",
+    "confidence": [
+      [
+        "Brian",
+        -0.3133816
+      ],
+      [
+        " Mul",
+        0.0
+      ],
+      [
+        "r",
+        0.0
+      ],
+      [
+        "oney",
+        0.0
+      ]
+    ]
+  },
+  "This government's anti-smoking policies were represented in a propaganda poster showing a chain-smoker": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5078413
+      ]
+    ]
+  },
+  "This government's anti-smoking policies were represented in a propaganda poster showing a chain-smoker being consumed by his cigarette. It encouraged workers using the \"Strength Through Joy\" campaign,": {
+    "guess": "Nazi Germany",
+    "confidence": [
+      [
+        "N",
+        -0.0013178583
+      ],
+      [
+        "azi",
+        0.0
+      ],
+      [
+        " Germany",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "This government's anti-smoking policies were represented in a propaganda poster showing a chain-smoker being consumed by his cigarette. It encouraged workers using the \"Strength Through Joy\" campaign, and members of this government formed the ODESSA network. Opposed by the White Rose student group, this": {
+    "guess": "Nazi Germany",
+    "confidence": [
+      [
+        "N",
+        -0.012715066
+      ],
+      [
+        "azi",
+        -3.1281633e-07
+      ],
+      [
+        " Germany",
+        -6.511407e-06
+      ]
+    ]
+  },
+  "This government's anti-smoking policies were represented in a propaganda poster showing a chain-smoker being consumed by his cigarette. It encouraged workers using the \"Strength Through Joy\" campaign, and members of this government formed the ODESSA network. Opposed by the White Rose student group, this government held the Wannsee Conference and constructed a no speed-limit highway called the autobahn.": {
+    "guess": "Nazi Germany",
+    "confidence": [
+      [
+        "N",
+        -0.002239947
+      ],
+      [
+        "azi",
+        -5.5122365e-07
+      ],
+      [
+        " Germany",
+        0.0
+      ]
+    ]
+  },
+  "This government's anti-smoking policies were represented in a propaganda poster showing a chain-smoker being consumed by his cigarette. It encouraged workers using the \"Strength Through Joy\" campaign, and members of this government formed the ODESSA network. Opposed by the White Rose student group, this government held the Wannsee Conference and constructed a no speed-limit highway called the autobahn. This government held massive rallies in Nuremberg and launched a 1939 invasion of Poland employing": {
+    "guess": "Nazi Germany",
+    "confidence": [
+      [
+        "N",
+        -0.0032702836
+      ],
+      [
+        "azi",
+        0.0
+      ],
+      [
+        " Germany",
+        0.0
+      ]
+    ]
+  },
+  "This government's anti-smoking policies were represented in a propaganda poster showing a chain-smoker being consumed by his cigarette. It encouraged workers using the \"Strength Through Joy\" campaign, and members of this government formed the ODESSA network. Opposed by the White Rose student group, this government held the Wannsee Conference and constructed a no speed-limit highway called the autobahn. This government held massive rallies in Nuremberg and launched a 1939 invasion of Poland employing tactics which were inaccurately called blitzkrieg. For 10 points, name this government that ruled": {
+    "guess": "Nazi Germany",
+    "confidence": [
+      [
+        "N",
+        -0.0012571377
+      ],
+      [
+        "azi",
+        0.0
+      ],
+      [
+        " Germany",
+        0.0
+      ]
+    ]
+  },
+  "This government's anti-smoking policies were represented in a propaganda poster showing a chain-smoker being consumed by his cigarette. It encouraged workers using the \"Strength Through Joy\" campaign, and members of this government formed the ODESSA network. Opposed by the White Rose student group, this government held the Wannsee Conference and constructed a no speed-limit highway called the autobahn. This government held massive rallies in Nuremberg and launched a 1939 invasion of Poland employing tactics which were inaccurately called blitzkrieg. For 10 points, name this government that ruled Germany during World War II, led by Adolf Hitler.": {
+    "guess": "Nazi Germany",
+    "confidence": [
+      [
+        "N",
+        -0.01422744
+      ],
+      [
+        "azi",
+        -1.9361265e-07
+      ],
+      [
+        " Germany",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "While Governor of Virginia, this man suppressed Gabriel Prosser's rebellion, and later he helped Robert": {
+    "guess": "James Monroe",
+    "confidence": [
+      [
+        "James",
+        -0.010093314
+      ],
+      [
+        " Monroe",
+        0.0
+      ]
+    ]
+  },
+  "While Governor of Virginia, this man suppressed Gabriel Prosser's rebellion, and later he helped Robert Livingston negotiate the Louisiana Purchase. After the Spanish foreign minister Luis de Onis and": {
+    "guess": "Adams\u2013On\u00eds Treaty",
+    "confidence": [
+      [
+        "Ad",
+        -0.0061906683
+      ],
+      [
+        "ams",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.2519531
+      ],
+      [
+        "On",
+        -6.2729996e-06
+      ],
+      [
+        "\u00eds",
+        -3.5477897e-05
+      ],
+      [
+        " Treaty",
+        -8.864273e-05
+      ]
+    ]
+  },
+  "While Governor of Virginia, this man suppressed Gabriel Prosser's rebellion, and later he helped Robert Livingston negotiate the Louisiana Purchase. After the Spanish foreign minister Luis de Onis and his Secretary of State John Quincy Adams signed a treaty, this president acquired Florida. His nearly": {
+    "guess": "James Monroe",
+    "confidence": [
+      [
+        "James",
+        -0.05759676
+      ],
+      [
+        " Monroe",
+        0.0
+      ]
+    ]
+  },
+  "While Governor of Virginia, this man suppressed Gabriel Prosser's rebellion, and later he helped Robert Livingston negotiate the Louisiana Purchase. After the Spanish foreign minister Luis de Onis and his Secretary of State John Quincy Adams signed a treaty, this president acquired Florida. His nearly (*) unanimous election in 1820 was indicative of the \"Era of Good Feelings\" during his term. The Clark": {
+    "guess": "James Monroe",
+    "confidence": [
+      [
+        "James",
+        -0.04551958
+      ],
+      [
+        " Monroe",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "While Governor of Virginia, this man suppressed Gabriel Prosser's rebellion, and later he helped Robert Livingston negotiate the Louisiana Purchase. After the Spanish foreign minister Luis de Onis and his Secretary of State John Quincy Adams signed a treaty, this president acquired Florida. His nearly (*) unanimous election in 1820 was indicative of the \"Era of Good Feelings\" during his term. The Clark Memorandum and Roosevelt Corollary were additions to one policy promulgated by this man. James": {
+    "guess": "Monroe Doctrine",
+    "confidence": [
+      [
+        "Mon",
+        -0.4891538
+      ],
+      [
+        "roe",
+        0.0
+      ],
+      [
+        " Doctrine",
+        -8.3159364e-05
+      ]
+    ]
+  },
+  "While Governor of Virginia, this man suppressed Gabriel Prosser's rebellion, and later he helped Robert Livingston negotiate the Louisiana Purchase. After the Spanish foreign minister Luis de Onis and his Secretary of State John Quincy Adams signed a treaty, this president acquired Florida. His nearly (*) unanimous election in 1820 was indicative of the \"Era of Good Feelings\" during his term. The Clark Memorandum and Roosevelt Corollary were additions to one policy promulgated by this man. James Madison was succeeded by, for ten points, what president, who issued a doctrine prohibiting European": {
+    "guess": "James Monroe",
+    "confidence": [
+      [
+        "James",
+        -0.3887593
+      ],
+      [
+        " Monroe",
+        0.0
+      ]
+    ]
+  },
+  "While Governor of Virginia, this man suppressed Gabriel Prosser's rebellion, and later he helped Robert Livingston negotiate the Louisiana Purchase. After the Spanish foreign minister Luis de Onis and his Secretary of State John Quincy Adams signed a treaty, this president acquired Florida. His nearly (*) unanimous election in 1820 was indicative of the \"Era of Good Feelings\" during his term. The Clark Memorandum and Roosevelt Corollary were additions to one policy promulgated by this man. James Madison was succeeded by, for ten points, what president, who issued a doctrine prohibiting European nations from interfering in Latin America?": {
+    "guess": "James Monroe",
+    "confidence": [
+      [
+        "James",
+        -0.06415098
+      ],
+      [
+        " Monroe",
+        0.0
+      ]
+    ]
+  },
+  "Gouverneur Morris was an early proponent of this structure that cut through   Montezuma Marsh on its": {
+    "guess": "Erie Canal",
+    "confidence": [
+      [
+        "Er",
+        -0.0046390994
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " Canal",
+        0.0
+      ]
+    ]
+  },
+  "Gouverneur Morris was an early proponent of this structure that cut through   Montezuma Marsh on its path through the Mohawk Valley. It was derided by its critics  as \"DeWitt Clinton's big (*) ditch,\"": {
+    "guess": "Erie Canal",
+    "confidence": [
+      [
+        "Er",
+        -0.0017373014
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " Canal",
+        0.0
+      ]
+    ]
+  },
+  "Gouverneur Morris was an early proponent of this structure that cut through   Montezuma Marsh on its path through the Mohawk Valley. It was derided by its critics  as \"DeWitt Clinton's big (*) ditch,\" but this structure's completion in 1825 helped make  New York City the largest port in the United States.": {
+    "guess": "Erie Canal",
+    "confidence": [
+      [
+        "Er",
+        -0.011132007
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " Canal",
+        0.0
+      ]
+    ]
+  },
+  "Gouverneur Morris was an early proponent of this structure that cut through   Montezuma Marsh on its path through the Mohawk Valley. It was derided by its critics  as \"DeWitt Clinton's big (*) ditch,\" but this structure's completion in 1825 helped make  New York City the largest port in the United States. The Hudson River was connected to  Buffalo by, for 10 points, what canal that ends at a namesake": {
+    "guess": "Erie Canal",
+    "confidence": [
+      [
+        "Er",
+        -0.0037579248
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " Canal",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Gouverneur Morris was an early proponent of this structure that cut through   Montezuma Marsh on its path through the Mohawk Valley. It was derided by its critics  as \"DeWitt Clinton's big (*) ditch,\" but this structure's completion in 1825 helped make  New York City the largest port in the United States. The Hudson River was connected to  Buffalo by, for 10 points, what canal that ends at a namesake Great Lake?": {
+    "guess": "Erie Canal",
+    "confidence": [
+      [
+        "Er",
+        -0.0059564104
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " Canal",
+        0.0
+      ]
+    ]
+  },
+  "Governors of this state include Fenimore Chatterton, Leslie Miller, and Alonzo Clark. A war over land": {
+    "guess": "Wyoming",
+    "confidence": [
+      [
+        "Wy",
+        -0.00037168543
+      ],
+      [
+        "oming",
+        0.0
+      ]
+    ]
+  },
+  "Governors of this state include Fenimore Chatterton, Leslie Miller, and Alonzo Clark. A war over land rights and cattle theft against Nathan Champion and his followers, known as the Red Sash Gang, took": {
+    "guess": "Wyoming",
+    "confidence": [
+      [
+        "Wy",
+        -0.00022296692
+      ],
+      [
+        "oming",
+        0.0
+      ]
+    ]
+  },
+  "Governors of this state include Fenimore Chatterton, Leslie Miller, and Alonzo Clark. A war over land rights and cattle theft against Nathan Champion and his followers, known as the Red Sash Gang, took place here in 1892 in Johnson County. One of three states to see the establishment of the world's first": {
+    "guess": "Wyoming",
+    "confidence": [
+      [
+        "Wy",
+        -2.3319124e-05
+      ],
+      [
+        "oming",
+        0.0
+      ]
+    ]
+  },
+  "Governors of this state include Fenimore Chatterton, Leslie Miller, and Alonzo Clark. A war over land rights and cattle theft against Nathan Champion and his followers, known as the Red Sash Gang, took place here in 1892 in Johnson County. One of three states to see the establishment of the world's first national park, it is probably best known for being the proving grounds of such political figures": {
+    "guess": "Wyoming",
+    "confidence": [
+      [
+        "Wy",
+        -1.4021238e-05
+      ],
+      [
+        "oming",
+        0.0
+      ]
+    ]
+  },
+  "Governors of this state include Fenimore Chatterton, Leslie Miller, and Alonzo Clark. A war over land rights and cattle theft against Nathan Champion and his followers, known as the Red Sash Gang, took place here in 1892 in Johnson County. One of three states to see the establishment of the world's first national park, it is probably best known for being the proving grounds of such political figures as Esther Morris and Nellie Tayloe Ross. Known as the \"equality state,\" for ten points, name this": {
+    "guess": "Wyoming",
+    "confidence": [
+      [
+        "Wy",
+        -2.1008714e-06
+      ],
+      [
+        "oming",
+        0.0
+      ]
+    ]
+  },
+  "Governors of this state include Fenimore Chatterton, Leslie Miller, and Alonzo Clark. A war over land rights and cattle theft against Nathan Champion and his followers, known as the Red Sash Gang, took place here in 1892 in Johnson County. One of three states to see the establishment of the world's first national park, it is probably best known for being the proving grounds of such political figures as Esther Morris and Nellie Tayloe Ross. Known as the \"equality state,\" for ten points, name this state, the first to recognize a woman's right to vote.": {
+    "guess": "Wyoming",
+    "confidence": [
+      [
+        "Wy",
+        -1.6240566e-06
+      ],
+      [
+        "oming",
+        0.0
+      ]
+    ]
+  },
+  "As governor, George Wolf helped pass the Free School Act of 1834 in this U.S. state, and Johan Printz": {
+    "guess": "Pennsylvania",
+    "confidence": [
+      [
+        "Penn",
+        -0.009892196
+      ],
+      [
+        "sylvania",
+        0.0
+      ]
+    ]
+  },
+  "As governor, George Wolf helped pass the Free School Act of 1834 in this U.S. state, and Johan Printz founded its first permanent settlement at Tincicum Island. This state was the location of Fries' Rebellion,": {
+    "guess": "Pennsylvania",
+    "confidence": [
+      [
+        "Penn",
+        -1.7835755e-05
+      ],
+      [
+        "sylvania",
+        0.0
+      ]
+    ]
+  },
+  "As governor, George Wolf helped pass the Free School Act of 1834 in this U.S. state, and Johan Printz founded its first permanent settlement at Tincicum Island. This state was the location of Fries' Rebellion, and it also saw the Battle of Bushy Run during Pontiac's Rebellion. John (*) Dickinson hailed": {
+    "guess": "Pennsylvania",
+    "confidence": [
+      [
+        "Penn",
+        -0.000134052
+      ],
+      [
+        "sylvania",
+        0.0
+      ]
+    ]
+  },
+  "As governor, George Wolf helped pass the Free School Act of 1834 in this U.S. state, and Johan Printz founded its first permanent settlement at Tincicum Island. This state was the location of Fries' Rebellion, and it also saw the Battle of Bushy Run during Pontiac's Rebellion. John (*) Dickinson hailed from this state, from which he wrote \"Letters from a Farmer in [this state]\" During the French and": {
+    "guess": "Pennsylvania",
+    "confidence": [
+      [
+        "Penn",
+        -0.0003832445
+      ],
+      [
+        "sylvania",
+        0.0
+      ]
+    ]
+  },
+  "As governor, George Wolf helped pass the Free School Act of 1834 in this U.S. state, and Johan Printz founded its first permanent settlement at Tincicum Island. This state was the location of Fries' Rebellion, and it also saw the Battle of Bushy Run during Pontiac's Rebellion. John (*) Dickinson hailed from this state, from which he wrote \"Letters from a Farmer in [this state]\" During the French and Indian War,  George Washington would surrender Fort Necessity in this state before later losing the": {
+    "guess": "Pennsylvania",
+    "confidence": [
+      [
+        "Penn",
+        -0.00035036262
+      ],
+      [
+        "sylvania",
+        0.0
+      ]
+    ]
+  },
+  "As governor, George Wolf helped pass the Free School Act of 1834 in this U.S. state, and Johan Printz founded its first permanent settlement at Tincicum Island. This state was the location of Fries' Rebellion, and it also saw the Battle of Bushy Run during Pontiac's Rebellion. John (*) Dickinson hailed from this state, from which he wrote \"Letters from a Farmer in [this state]\" During the French and Indian War,  George Washington would surrender Fort Necessity in this state before later losing the Battle of Germantown and encamping at Valley Forge in the American Revolution. For 10 points, name": {
+    "guess": "Pennsylvania",
+    "confidence": [
+      [
+        "Penn",
+        -0.0015066477
+      ],
+      [
+        "sylvania",
+        0.0
+      ]
+    ]
+  },
+  "As governor, George Wolf helped pass the Free School Act of 1834 in this U.S. state, and Johan Printz founded its first permanent settlement at Tincicum Island. This state was the location of Fries' Rebellion, and it also saw the Battle of Bushy Run during Pontiac's Rebellion. John (*) Dickinson hailed from this state, from which he wrote \"Letters from a Farmer in [this state]\" During the French and Indian War,  George Washington would surrender Fort Necessity in this state before later losing the Battle of Germantown and encamping at Valley Forge in the American Revolution. For 10 points, name this U.S. state where the Declaration of Independence was signed in Philadelphia.": {
+    "guess": "Pennsylvania",
+    "confidence": [
+      [
+        "Penn",
+        -2.2603901e-05
+      ],
+      [
+        "sylvania",
+        0.0
+      ]
+    ]
+  },
+  "This governor of the Order of Christ, a spin-off of the Knights Templar, condemned his brother to captivity": {
+    "guess": "Prince Henry the Navigator",
+    "confidence": [
+      [
+        "Prince",
+        -0.00058341504
+      ],
+      [
+        " Henry",
+        -1.9146995e-05
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Navigator",
+        0.0
+      ]
+    ]
+  },
+  "This governor of the Order of Christ, a spin-off of the Knights Templar, condemned his brother to captivity under Cala Ben Cala as part of a failed peace agreement. While in the service of this man, Gil": {
+    "guess": "Prince Henry the Navigator",
+    "confidence": [
+      [
+        "Prince",
+        -0.0003062646
+      ],
+      [
+        " Henry",
+        -1.0280384e-06
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Navigator",
+        0.0
+      ]
+    ]
+  },
+  "This governor of the Order of Christ, a spin-off of the Knights Templar, condemned his brother to captivity under Cala Ben Cala as part of a failed peace agreement. While in the service of this man, Gil Eanes became the first European to travel past Cape Bojador. This grandson of John of Gaunt began": {
+    "guess": "Prince Henry the Navigator",
+    "confidence": [
+      [
+        "Prince",
+        -0.07982533
+      ],
+      [
+        " Henry",
+        -1.0087517e-05
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Navigator",
+        0.0
+      ]
+    ]
+  },
+  "This governor of the Order of Christ, a spin-off of the Knights Templar, condemned his brother to captivity under Cala Ben Cala as part of a failed peace agreement. While in the service of this man, Gil Eanes became the first European to travel past Cape Bojador. This grandson of John of Gaunt began the Aviz dynasty, and though he never found Prester John, his expeditions from Lagos were so lucrative": {
+    "guess": "Prince Henry the Navigator",
+    "confidence": [
+      [
+        "Prince",
+        -0.03388012
+      ],
+      [
+        " Henry",
+        -4.1273333e-06
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Navigator",
+        0.0
+      ]
+    ]
+  },
+  "This governor of the Order of Christ, a spin-off of the Knights Templar, condemned his brother to captivity under Cala Ben Cala as part of a failed peace agreement. While in the service of this man, Gil Eanes became the first European to travel past Cape Bojador. This grandson of John of Gaunt began the Aviz dynasty, and though he never found Prester John, his expeditions from Lagos were so lucrative that he was able to mint his nation's first gold coin, the cruzado. For 10 points, name this Portuguese": {
+    "guess": "Prince Henry the Navigator",
+    "confidence": [
+      [
+        "Prince",
+        -0.04739638
+      ],
+      [
+        " Henry",
+        -1.6286107e-05
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Navigator",
+        0.0
+      ]
+    ]
+  },
+  "This governor of the Order of Christ, a spin-off of the Knights Templar, condemned his brother to captivity under Cala Ben Cala as part of a failed peace agreement. While in the service of this man, Gil Eanes became the first European to travel past Cape Bojador. This grandson of John of Gaunt began the Aviz dynasty, and though he never found Prester John, his expeditions from Lagos were so lucrative that he was able to mint his nation's first gold coin, the cruzado. For 10 points, name this Portuguese prince who sent explorers as far as Sierra Leone and whose epithet reflects his interest in seafaring.": {
+    "guess": "Prince Henry the Navigator",
+    "confidence": [
+      [
+        "Prince",
+        -0.06586669
+      ],
+      [
+        " Henry",
+        -6.704273e-07
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Navigator",
+        0.0
+      ]
+    ]
+  },
+  "This man's government won an International Court of Justice hearing over possession of Daman and Diu,": {
+    "guess": "Narendra Modi",
+    "confidence": [
+      [
+        "Nar",
+        -0.7362086
+      ],
+      [
+        "endra",
+        -0.00026956087
+      ],
+      [
+        " Modi",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "This man's government won an International Court of Justice hearing over possession of Daman and Diu, but quickly lost those territories anyway. He used the slogan \"Proudly Alone\" to describe his resistance": {
+    "guess": "Salazar",
+    "confidence": [
+      [
+        "Sal",
+        -0.2601287
+      ],
+      [
+        "azar",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "This man's government won an International Court of Justice hearing over possession of Daman and Diu, but quickly lost those territories anyway. He used the slogan \"Proudly Alone\" to describe his resistance to decolanization, and a protest of his regime's imprisonment of two students for a toast led": {
+    "guess": "Ant\u00f3nio de Oliveira Salazar",
+    "confidence": [
+      [
+        "Ant",
+        -0.5930839
+      ],
+      [
+        "\u00f3nio",
+        -6.647085e-05
+      ],
+      [
+        " de",
+        -0.023250137
+      ],
+      [
+        " Oliveira",
+        -9.968313e-06
+      ],
+      [
+        " Sal",
+        -4.3202e-07
+      ],
+      [
+        "azar",
+        0.0
+      ]
+    ]
+  },
+  "This man's government won an International Court of Justice hearing over possession of Daman and Diu, but quickly lost those territories anyway. He used the slogan \"Proudly Alone\" to describe his resistance to decolanization, and a protest of his regime's imprisonment of two students for a toast led to the founding of Amnesty International. Succeeded by Marcello Caetano after a 1968 stroke, he had": {
+    "guess": "Ant\u00f3nio de Oliveira Salazar",
+    "confidence": [
+      [
+        "Ant",
+        -0.088242434
+      ],
+      [
+        "\u00f3nio",
+        -2.355753e-05
+      ],
+      [
+        " de",
+        -0.02630367
+      ],
+      [
+        " Oliveira",
+        -9.0883464e-07
+      ],
+      [
+        " Sal",
+        -1.9361265e-07
+      ],
+      [
+        "azar",
+        0.0
+      ]
+    ]
+  },
+  "This man's government won an International Court of Justice hearing over possession of Daman and Diu, but quickly lost those territories anyway. He used the slogan \"Proudly Alone\" to describe his resistance to decolanization, and a protest of his regime's imprisonment of two students for a toast led to the founding of Amnesty International. Succeeded by Marcello Caetano after a 1968 stroke, he had served as finance minister under Carmona and then became prime minister, in which role this economist": {
+    "guess": "Ant\u00f3nio de Oliveira Salazar",
+    "confidence": [
+      [
+        "Ant",
+        -0.0017425317
+      ],
+      [
+        "\u00f3nio",
+        -2.0935051e-05
+      ],
+      [
+        " de",
+        -0.0017027946
+      ],
+      [
+        " Oliveira",
+        -4.3202e-07
+      ],
+      [
+        " Sal",
+        0.0
+      ],
+      [
+        "azar",
+        0.0
+      ]
+    ]
+  },
+  "This man's government won an International Court of Justice hearing over possession of Daman and Diu, but quickly lost those territories anyway. He used the slogan \"Proudly Alone\" to describe his resistance to decolanization, and a protest of his regime's imprisonment of two students for a toast led to the founding of Amnesty International. Succeeded by Marcello Caetano after a 1968 stroke, he had served as finance minister under Carmona and then became prime minister, in which role this economist began the Estado Novo. FTP, name this forty-two year dictator of Portugal.": {
+    "guess": "Ant\u00f3nio de Oliveira Salazar",
+    "confidence": [
+      [
+        "Ant",
+        -0.009895744
+      ],
+      [
+        "\u00f3nio",
+        -3.0545007e-06
+      ],
+      [
+        " de",
+        -1.6240566e-06
+      ],
+      [
+        " Oliveira",
+        0.0
+      ],
+      [
+        " Sal",
+        0.0
+      ],
+      [
+        "azar",
+        0.0
+      ]
+    ]
+  },
+  "Governor Francis Head denied responsibility for this event and for the events at Fort Schlosser. After": {
+    "guess": "Caroline affair",
+    "confidence": [
+      [
+        "Car",
+        -0.00018887833
+      ],
+      [
+        "oline",
+        0.0
+      ],
+      [
+        " affair",
+        -5.157039e-05
+      ]
+    ]
+  },
+  "Governor Francis Head denied responsibility for this event and for the events at Fort Schlosser. After this event, Benjamin Lett murdered a loyalist involved in the violence, and retaliation for this event": {
+    "guess": "Caroline affair",
+    "confidence": [
+      [
+        "Car",
+        -0.05061739
+      ],
+      [
+        "oline",
+        -1.9361265e-07
+      ],
+      [
+        " affair",
+        -0.0028052295
+      ]
+    ]
+  },
+  "Governor Francis Head denied responsibility for this event and for the events at Fort Schlosser. After this event, Benjamin Lett murdered a loyalist involved in the violence, and retaliation for this event saw the Sir Robert Peel burned. Amos Dufee was killed in conjunction with this event, which was": {
+    "guess": "Caroline affair",
+    "confidence": [
+      [
+        "Car",
+        -0.038823966
+      ],
+      [
+        "oline",
+        -9.0883464e-07
+      ],
+      [
+        " affair",
+        -0.0019287518
+      ]
+    ]
+  },
+  "Governor Francis Head denied responsibility for this event and for the events at Fort Schlosser. After this event, Benjamin Lett murdered a loyalist involved in the violence, and retaliation for this event saw the Sir Robert Peel burned. Amos Dufee was killed in conjunction with this event, which was ordered by Allan McNab and Andrew Drew. The object at the center of this even was en route to Navy": {
+    "guess": "Caroline affair",
+    "confidence": [
+      [
+        "Car",
+        -0.0007513785
+      ],
+      [
+        "oline",
+        0.0
+      ],
+      [
+        " affair",
+        -0.00012344286
+      ]
+    ]
+  },
+  "Governor Francis Head denied responsibility for this event and for the events at Fort Schlosser. After this event, Benjamin Lett murdered a loyalist involved in the violence, and retaliation for this event saw the Sir Robert Peel burned. Amos Dufee was killed in conjunction with this event, which was ordered by Allan McNab and Andrew Drew. The object at the center of this even was en route to Navy Island, where a Republic of Canada had been set up by William MacKenzie. General Winfield Scott was": {
+    "guess": "Caroline affair",
+    "confidence": [
+      [
+        "Car",
+        -0.00030245376
+      ],
+      [
+        "oline",
+        0.0
+      ],
+      [
+        " affair",
+        -0.00012344286
+      ]
+    ]
+  },
+  "Governor Francis Head denied responsibility for this event and for the events at Fort Schlosser. After this event, Benjamin Lett murdered a loyalist involved in the violence, and retaliation for this event saw the Sir Robert Peel burned. Amos Dufee was killed in conjunction with this event, which was ordered by Allan McNab and Andrew Drew. The object at the center of this even was en route to Navy Island, where a Republic of Canada had been set up by William MacKenzie. General Winfield Scott was sent to quell hostility on the American border after this event, but the tensions surrounding this event": {
+    "guess": "Caroline affair",
+    "confidence": [
+      [
+        "Car",
+        -0.002508478
+      ],
+      [
+        "oline",
+        -3.1281633e-07
+      ],
+      [
+        " affair",
+        -0.0036030365
+      ]
+    ]
+  },
+  "Governor Francis Head denied responsibility for this event and for the events at Fort Schlosser. After this event, Benjamin Lett murdered a loyalist involved in the violence, and retaliation for this event saw the Sir Robert Peel burned. Amos Dufee was killed in conjunction with this event, which was ordered by Allan McNab and Andrew Drew. The object at the center of this even was en route to Navy Island, where a Republic of Canada had been set up by William MacKenzie. General Winfield Scott was sent to quell hostility on the American border after this event, but the tensions surrounding this event were not alleviated until the Webster-Ashburton Treaty. For ten points, identify this event which": {
+    "guess": "Caroline Affair",
+    "confidence": [
+      [
+        "Car",
+        -0.052735377
+      ],
+      [
+        "oline",
+        -3.5313153e-06
+      ],
+      [
+        " Affair",
+        -0.033698145
+      ]
+    ]
+  },
+  "Governor Francis Head denied responsibility for this event and for the events at Fort Schlosser. After this event, Benjamin Lett murdered a loyalist involved in the violence, and retaliation for this event saw the Sir Robert Peel burned. Amos Dufee was killed in conjunction with this event, which was ordered by Allan McNab and Andrew Drew. The object at the center of this even was en route to Navy Island, where a Republic of Canada had been set up by William MacKenzie. General Winfield Scott was sent to quell hostility on the American border after this event, but the tensions surrounding this event were not alleviated until the Webster-Ashburton Treaty. For ten points, identify this event which nearly brought the US to war with Britain, in which a certain boat filled with arms was set on fire": {
+    "guess": "Caroline Affair",
+    "confidence": [
+      [
+        "Car",
+        -0.027324729
+      ],
+      [
+        "oline",
+        -7.226629e-06
+      ],
+      [
+        " Affair",
+        -0.012629017
+      ]
+    ]
+  },
+  "Governor Francis Head denied responsibility for this event and for the events at Fort Schlosser. After this event, Benjamin Lett murdered a loyalist involved in the violence, and retaliation for this event saw the Sir Robert Peel burned. Amos Dufee was killed in conjunction with this event, which was ordered by Allan McNab and Andrew Drew. The object at the center of this even was en route to Navy Island, where a Republic of Canada had been set up by William MacKenzie. General Winfield Scott was sent to quell hostility on the American border after this event, but the tensions surrounding this event were not alleviated until the Webster-Ashburton Treaty. For ten points, identify this event which nearly brought the US to war with Britain, in which a certain boat filled with arms was set on fire and sent over Niagara Falls.": {
+    "guess": "Caroline affair",
+    "confidence": [
+      [
+        "Car",
+        -0.023908922
+      ],
+      [
+        "oline",
+        -1.9816675e-06
+      ],
+      [
+        " affair",
+        -0.00593674
+      ]
+    ]
+  },
+  "As governor of his state, this man once removed and imprisoned Mayor Richard Cheatham. This man gave": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.36958146
+      ]
+    ]
+  },
+  "As governor of his state, this man once removed and imprisoned Mayor Richard Cheatham. This man gave a disastrous series of speeches denouncing people like Wendell Phillips. As a young man, he was taught": {
+    "guess": "Andrew Johnson",
+    "confidence": [
+      [
+        "Andrew",
+        -0.94651824
+      ],
+      [
+        " Johnson",
+        -0.0001592003
+      ]
+    ]
+  },
+  "As governor of his state, this man once removed and imprisoned Mayor Richard Cheatham. This man gave a disastrous series of speeches denouncing people like Wendell Phillips. As a young man, he was taught arithmetic and writing by his future wife, Eliza. Besides giving the \"Swing Around the Circle\" speeches,": {
+    "guess": "Andrew Johnson",
+    "confidence": [
+      [
+        "Andrew",
+        -0.00093420944
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "As governor of his state, this man once removed and imprisoned Mayor Richard Cheatham. This man gave a disastrous series of speeches denouncing people like Wendell Phillips. As a young man, he was taught arithmetic and writing by his future wife, Eliza. Besides giving the \"Swing Around the Circle\" speeches, this man drank three tumblers of whiskey before one inauguration, making him unable to finish": {
+    "guess": "Andrew Johnson",
+    "confidence": [
+      [
+        "Andrew",
+        -0.00035083943
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "As governor of his state, this man once removed and imprisoned Mayor Richard Cheatham. This man gave a disastrous series of speeches denouncing people like Wendell Phillips. As a young man, he was taught arithmetic and writing by his future wife, Eliza. Besides giving the \"Swing Around the Circle\" speeches, this man drank three tumblers of whiskey before one inauguration, making him unable to finish swearing in new senators. An event during this man's presidency involved attacks on Canadian forts": {
+    "guess": "Andrew Johnson",
+    "confidence": [
+      [
+        "Andrew",
+        -0.0036449726
+      ],
+      [
+        " Johnson",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "As governor of his state, this man once removed and imprisoned Mayor Richard Cheatham. This man gave a disastrous series of speeches denouncing people like Wendell Phillips. As a young man, he was taught arithmetic and writing by his future wife, Eliza. Besides giving the \"Swing Around the Circle\" speeches, this man drank three tumblers of whiskey before one inauguration, making him unable to finish swearing in new senators. An event during this man's presidency involved attacks on Canadian forts called the Fenian raids. He later represented Tennessee as the only former president to serve in the": {
+    "guess": "Andrew Johnson",
+    "confidence": [
+      [
+        "Andrew",
+        -0.0070982464
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "As governor of his state, this man once removed and imprisoned Mayor Richard Cheatham. This man gave a disastrous series of speeches denouncing people like Wendell Phillips. As a young man, he was taught arithmetic and writing by his future wife, Eliza. Besides giving the \"Swing Around the Circle\" speeches, this man drank three tumblers of whiskey before one inauguration, making him unable to finish swearing in new senators. An event during this man's presidency involved attacks on Canadian forts called the Fenian raids. He later represented Tennessee as the only former president to serve in the Senate. The most notable event during his presidency came when he attempted to remove Edwin Stanton": {
+    "guess": "Andrew Johnson",
+    "confidence": [
+      [
+        "Andrew",
+        -0.0003306977
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "As governor of his state, this man once removed and imprisoned Mayor Richard Cheatham. This man gave a disastrous series of speeches denouncing people like Wendell Phillips. As a young man, he was taught arithmetic and writing by his future wife, Eliza. Besides giving the \"Swing Around the Circle\" speeches, this man drank three tumblers of whiskey before one inauguration, making him unable to finish swearing in new senators. An event during this man's presidency involved attacks on Canadian forts called the Fenian raids. He later represented Tennessee as the only former president to serve in the Senate. The most notable event during his presidency came when he attempted to remove Edwin Stanton from the Cabinet in violation of the Tenure of Office Act. For 10 points, name this first U.S. President": {
+    "guess": "Andrew Johnson",
+    "confidence": [
+      [
+        "Andrew",
+        -0.0019790723
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "As governor of his state, this man once removed and imprisoned Mayor Richard Cheatham. This man gave a disastrous series of speeches denouncing people like Wendell Phillips. As a young man, he was taught arithmetic and writing by his future wife, Eliza. Besides giving the \"Swing Around the Circle\" speeches, this man drank three tumblers of whiskey before one inauguration, making him unable to finish swearing in new senators. An event during this man's presidency involved attacks on Canadian forts called the Fenian raids. He later represented Tennessee as the only former president to serve in the Senate. The most notable event during his presidency came when he attempted to remove Edwin Stanton from the Cabinet in violation of the Tenure of Office Act. For 10 points, name this first U.S. President to be impeached.": {
+    "guess": "Andrew Johnson",
+    "confidence": [
+      [
+        "Andrew",
+        -0.014465518
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  },
+  "This man's Government House became known as \"The Command Post\" upon his taking power. This man took refuge": {
+    "guess": "Idi Amin",
+    "confidence": [
+      [
+        "Idi",
+        -0.01452333
+      ],
+      [
+        " Amin",
+        0.0
+      ]
+    ]
+  },
+  "This man's Government House became known as \"The Command Post\" upon his taking power. This man took refuge in Saudi Arabia after being deposed and was paid to not enter politics. Operation Thunderbolt": {
+    "guess": "Idi Amin",
+    "confidence": [
+      [
+        "Idi",
+        -0.004593892
+      ],
+      [
+        " Amin",
+        0.0
+      ]
+    ]
+  },
+  "This man's Government House became known as \"The Command Post\" upon his taking power. This man took refuge in Saudi Arabia after being deposed and was paid to not enter politics. Operation Thunderbolt was an attempt to rescue Israelis from this man's country. This man received aid from Muammar Qaddafi": {
+    "guess": "Idi Amin",
+    "confidence": [
+      [
+        "Idi",
+        -0.03047967
+      ],
+      [
+        " Amin",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This man's Government House became known as \"The Command Post\" upon his taking power. This man took refuge in Saudi Arabia after being deposed and was paid to not enter politics. Operation Thunderbolt was an attempt to rescue Israelis from this man's country. This man received aid from Muammar Qaddafi after denouncing Israel, and he removed all Asians from his country. This man was a member of the": {
+    "guess": "Idi Amin",
+    "confidence": [
+      [
+        "Idi",
+        -0.00023405286
+      ],
+      [
+        " Amin",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man's Government House became known as \"The Command Post\" upon his taking power. This man took refuge in Saudi Arabia after being deposed and was paid to not enter politics. Operation Thunderbolt was an attempt to rescue Israelis from this man's country. This man received aid from Muammar Qaddafi after denouncing Israel, and he removed all Asians from his country. This man was a member of the King's African Rifles early in his career, and he came to power after the ousting of Obote. For 10 points,": {
+    "guess": "Idi Amin",
+    "confidence": [
+      [
+        "Idi",
+        -0.0008488174
+      ],
+      [
+        " Amin",
+        0.0
+      ]
+    ]
+  },
+  "This man's Government House became known as \"The Command Post\" upon his taking power. This man took refuge in Saudi Arabia after being deposed and was paid to not enter politics. Operation Thunderbolt was an attempt to rescue Israelis from this man's country. This man received aid from Muammar Qaddafi after denouncing Israel, and he removed all Asians from his country. This man was a member of the King's African Rifles early in his career, and he came to power after the ousting of Obote. For 10 points, name this dictator of Uganda.": {
+    "guess": "Idi Amin",
+    "confidence": [
+      [
+        "Idi",
+        -6.289474e-05
+      ],
+      [
+        " Amin",
+        0.0
+      ]
+    ]
+  },
+  "A government slogan in this country was, \"To keep you is no benefit. To destroy you is no loss.\" In this": {
+    "guess": "Khmer Rouge",
+    "confidence": [
+      [
+        "Kh",
+        -0.87245286
+      ],
+      [
+        "mer",
+        -7.89631e-07
+      ],
+      [
+        " Rouge",
+        -6.9882217e-06
+      ]
+    ]
+  },
+  "A government slogan in this country was, \"To keep you is no benefit. To destroy you is no loss.\" In this country, a man nicknamed \"Comrade Duch\" was promoted to head of the Santebal in 1975. An exiled": {
+    "guess": "Khmer Rouge",
+    "confidence": [
+      [
+        "Kh",
+        -0.8536569
+      ],
+      [
+        "mer",
+        -2.3392786e-06
+      ],
+      [
+        " Rouge",
+        -5.9153886e-06
+      ]
+    ]
+  },
+  "A government slogan in this country was, \"To keep you is no benefit. To destroy you is no loss.\" In this country, a man nicknamed \"Comrade Duch\" was promoted to head of the Santebal in 1975. An exiled government called GRUNK was formed after a 1970 coup in this country forced the prime minister to hide": {
+    "guess": "Khmer Rouge",
+    "confidence": [
+      [
+        "Kh",
+        -0.24528506
+      ],
+      [
+        "mer",
+        -1.9361265e-07
+      ],
+      [
+        " Rouge",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "A government slogan in this country was, \"To keep you is no benefit. To destroy you is no loss.\" In this country, a man nicknamed \"Comrade Duch\" was promoted to head of the Santebal in 1975. An exiled government called GRUNK was formed after a 1970 coup in this country forced the prime minister to hide in Beijing. In this nation, Brother Number One came to power during Year Zero after overthrowing": {
+    "guess": "Khmer Rouge",
+    "confidence": [
+      [
+        "Kh",
+        -0.034740347
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        " Rouge",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "A government slogan in this country was, \"To keep you is no benefit. To destroy you is no loss.\" In this country, a man nicknamed \"Comrade Duch\" was promoted to head of the Santebal in 1975. An exiled government called GRUNK was formed after a 1970 coup in this country forced the prime minister to hide in Beijing. In this nation, Brother Number One came to power during Year Zero after overthrowing Prince Sihanouk. The US launched Operation Freedom Deal, a bombing campaign, against this nation under": {
+    "guess": "Cambodia\u2013United States relations",
+    "confidence": [
+      [
+        "Camb",
+        -0.32726496
+      ],
+      [
+        "odia",
+        -0.00043066923
+      ],
+      [
+        "\u2013",
+        -1.2903979
+      ],
+      [
+        "United",
+        -0.00020735491
+      ],
+      [
+        " States",
+        -2.7848862e-05
+      ],
+      [
+        " relations",
+        -0.0004521222
+      ]
+    ]
+  },
+  "A government slogan in this country was, \"To keep you is no benefit. To destroy you is no loss.\" In this country, a man nicknamed \"Comrade Duch\" was promoted to head of the Santebal in 1975. An exiled government called GRUNK was formed after a 1970 coup in this country forced the prime minister to hide in Beijing. In this nation, Brother Number One came to power during Year Zero after overthrowing Prince Sihanouk. The US launched Operation Freedom Deal, a bombing campaign, against this nation under President Nixon. A genocide in this country was carried out in \"killing fields.\" For 10 points, name": {
+    "guess": "Cambodia",
+    "confidence": [
+      [
+        "Camb",
+        -0.0093654925
+      ],
+      [
+        "odia",
+        -0.00026133584
+      ]
+    ]
+  },
+  "A government slogan in this country was, \"To keep you is no benefit. To destroy you is no loss.\" In this country, a man nicknamed \"Comrade Duch\" was promoted to head of the Santebal in 1975. An exiled government called GRUNK was formed after a 1970 coup in this country forced the prime minister to hide in Beijing. In this nation, Brother Number One came to power during Year Zero after overthrowing Prince Sihanouk. The US launched Operation Freedom Deal, a bombing campaign, against this nation under President Nixon. A genocide in this country was carried out in \"killing fields.\" For 10 points, name this country home to Angkor Wat and Pol Pot's Khmer Rouge.": {
+    "guess": "Cambodia",
+    "confidence": [
+      [
+        "Camb",
+        -0.009034284
+      ],
+      [
+        "odia",
+        -0.0009115827
+      ]
+    ]
+  },
+  "Governor John McKeithen declared this structure \"would be the greatest building in the history of mankind!\"": {
+    "guess": "Superdome",
+    "confidence": [
+      [
+        "Super",
+        -0.21216272
+      ],
+      [
+        "d",
+        -5.5122365e-07
+      ],
+      [
+        "ome",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Governor John McKeithen declared this structure \"would be the greatest building in the history of mankind!\" The 2012 Kentucky men's basketball team won a championship in this building with a star center": {
+    "guess": "Mercedes-Benz Superdome",
+    "confidence": [
+      [
+        "Mercedes",
+        -0.059829418
+      ],
+      [
+        "-Benz",
+        -1.6240566e-06
+      ],
+      [
+        " Super",
+        0.0
+      ],
+      [
+        "d",
+        0.0
+      ],
+      [
+        "ome",
+        0.0
+      ]
+    ]
+  },
+  "Governor John McKeithen declared this structure \"would be the greatest building in the history of mankind!\" The 2012 Kentucky men's basketball team won a championship in this building with a star center who now plays professionally next door, Anthony Davis. Outside this building, a statue entitled \"Rebirth\"": {
+    "guess": "Mercedes-Benz Superdome",
+    "confidence": [
+      [
+        "Mercedes",
+        -0.089316085
+      ],
+      [
+        "-Benz",
+        -3.4121115e-06
+      ],
+      [
+        " Super",
+        0.0
+      ],
+      [
+        "d",
+        0.0
+      ],
+      [
+        "ome",
+        0.0
+      ]
+    ]
+  },
+  "Governor John McKeithen declared this structure \"would be the greatest building in the history of mankind!\" The 2012 Kentucky men's basketball team won a championship in this building with a star center who now plays professionally next door, Anthony Davis. Outside this building, a statue entitled \"Rebirth\" commemorates a blocked punt that occurred during this stadium's reopening in 2006, a year after": {
+    "guess": "Mercedes-Benz Superdome",
+    "confidence": [
+      [
+        "Mercedes",
+        -0.20835151
+      ],
+      [
+        "-Benz",
+        -1.2664457e-06
+      ],
+      [
+        " Super",
+        0.0
+      ],
+      [
+        "d",
+        0.0
+      ],
+      [
+        "ome",
+        0.0
+      ]
+    ]
+  },
+  "Governor John McKeithen declared this structure \"would be the greatest building in the history of mankind!\" The 2012 Kentucky men's basketball team won a championship in this building with a star center who now plays professionally next door, Anthony Davis. Outside this building, a statue entitled \"Rebirth\" commemorates a blocked punt that occurred during this stadium's reopening in 2006, a year after it suffered wind and water damage and housed over fifteen thousand refugees. In February 2013, a": {
+    "guess": "Mercedes-Benz Superdome",
+    "confidence": [
+      [
+        "Mercedes",
+        -0.5841377
+      ],
+      [
+        "-Benz",
+        -1.147242e-06
+      ],
+      [
+        " Super",
+        0.0
+      ],
+      [
+        "d",
+        0.0
+      ],
+      [
+        "ome",
+        0.0
+      ]
+    ]
+  },
+  "Governor John McKeithen declared this structure \"would be the greatest building in the history of mankind!\" The 2012 Kentucky men's basketball team won a championship in this building with a star center who now plays professionally next door, Anthony Davis. Outside this building, a statue entitled \"Rebirth\" commemorates a blocked punt that occurred during this stadium's reopening in 2006, a year after it suffered wind and water damage and housed over fifteen thousand refugees. In February 2013, a power outage in this building interrupted Super Bowl XLVII (\"forty-seven\") for over half an hour. For": {
+    "guess": "Superdome",
+    "confidence": [
+      [
+        "Super",
+        -0.5020715
+      ],
+      [
+        "d",
+        0.0
+      ],
+      [
+        "ome",
+        0.0
+      ]
+    ]
+  },
+  "Governor John McKeithen declared this structure \"would be the greatest building in the history of mankind!\" The 2012 Kentucky men's basketball team won a championship in this building with a star center who now plays professionally next door, Anthony Davis. Outside this building, a statue entitled \"Rebirth\" commemorates a blocked punt that occurred during this stadium's reopening in 2006, a year after it suffered wind and water damage and housed over fifteen thousand refugees. In February 2013, a power outage in this building interrupted Super Bowl XLVII (\"forty-seven\") for over half an hour. For 10 points, name this stadium damaged by Hurricane Katrina, the home of the New Orleans Saints.": {
+    "guess": "Superdome",
+    "confidence": [
+      [
+        "Super",
+        -0.4580993
+      ],
+      [
+        "d",
+        0.0
+      ],
+      [
+        "ome",
+        0.0
+      ]
+    ]
+  },
+  "This government placed a tax on the number of doors and windows on a building to estimate property taxes.": {
+    "guess": "Window tax",
+    "confidence": [
+      [
+        "Window",
+        -0.0024002704
+      ],
+      [
+        " tax",
+        -0.008625921
+      ]
+    ]
+  },
+  "This government placed a tax on the number of doors and windows on a building to estimate property taxes. This government increased the powers of its own \"inspectors of the hall\", leading to the deportation": {
+    "guess": "Ancien R\u00e9gime",
+    "confidence": [
+      [
+        "Anc",
+        -0.7881132
+      ],
+      [
+        "ien",
+        -6.6113236e-05
+      ],
+      [
+        " R\u00e9g",
+        -0.00100935
+      ],
+      [
+        "ime",
+        0.0
+      ]
+    ]
+  },
+  "This government placed a tax on the number of doors and windows on a building to estimate property taxes. This government increased the powers of its own \"inspectors of the hall\", leading to the deportation of Charles Pichegru and Paul Barras after a failed coup. The Coup of Floreal targeted Constitutional": {
+    "guess": "French Directory",
+    "confidence": [
+      [
+        "French",
+        -0.043370586
+      ],
+      [
+        " Directory",
+        -1.27099975e-05
+      ]
+    ]
+  },
+  "This government placed a tax on the number of doors and windows on a building to estimate property taxes. This government increased the powers of its own \"inspectors of the hall\", leading to the deportation of Charles Pichegru and Paul Barras after a failed coup. The Coup of Floreal targeted Constitutional Circles formed by Jacobins under this government. This government's first victory was on 13 Vend\u00e9miaire": {
+    "guess": "French Directory",
+    "confidence": [
+      [
+        "French",
+        -0.010012116
+      ],
+      [
+        " Directory",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "This government placed a tax on the number of doors and windows on a building to estimate property taxes. This government increased the powers of its own \"inspectors of the hall\", leading to the deportation of Charles Pichegru and Paul Barras after a failed coup. The Coup of Floreal targeted Constitutional Circles formed by Jacobins under this government. This government's first victory was on 13 Vend\u00e9miaire against some chouans. The (*) Abb\u00e9 Siey\u00e8s was the last leader of this government. The Constitution": {
+    "guess": "French Directory",
+    "confidence": [
+      [
+        "French",
+        -0.23400919
+      ],
+      [
+        " Directory",
+        -1.7954959e-05
+      ]
+    ]
+  },
+  "This government placed a tax on the number of doors and windows on a building to estimate property taxes. This government increased the powers of its own \"inspectors of the hall\", leading to the deportation of Charles Pichegru and Paul Barras after a failed coup. The Coup of Floreal targeted Constitutional Circles formed by Jacobins under this government. This government's first victory was on 13 Vend\u00e9miaire against some chouans. The (*) Abb\u00e9 Siey\u00e8s was the last leader of this government. The Constitution of the Year III created this government, which had a legislative body composed of the Council": {
+    "guess": "French Directory",
+    "confidence": [
+      [
+        "French",
+        -0.5130676
+      ],
+      [
+        " Directory",
+        -1.18755715e-05
+      ]
+    ]
+  },
+  "This government placed a tax on the number of doors and windows on a building to estimate property taxes. This government increased the powers of its own \"inspectors of the hall\", leading to the deportation of Charles Pichegru and Paul Barras after a failed coup. The Coup of Floreal targeted Constitutional Circles formed by Jacobins under this government. This government's first victory was on 13 Vend\u00e9miaire against some chouans. The (*) Abb\u00e9 Siey\u00e8s was the last leader of this government. The Constitution of the Year III created this government, which had a legislative body composed of the Council of Ancients and the Council of Five Hundred. For 10 points, name this French Revolutionary government": {
+    "guess": "Directory (French Revolution)",
+    "confidence": [
+      [
+        "Directory",
+        -0.0673042
+      ],
+      [
+        " (",
+        -0.47429752
+      ],
+      [
+        "French",
+        -0.28371117
+      ],
+      [
+        " Revolution",
+        -0.5902712
+      ],
+      [
+        ")",
+        -0.00041637212
+      ]
+    ]
+  },
+  "This government placed a tax on the number of doors and windows on a building to estimate property taxes. This government increased the powers of its own \"inspectors of the hall\", leading to the deportation of Charles Pichegru and Paul Barras after a failed coup. The Coup of Floreal targeted Constitutional Circles formed by Jacobins under this government. This government's first victory was on 13 Vend\u00e9miaire against some chouans. The (*) Abb\u00e9 Siey\u00e8s was the last leader of this government. The Constitution of the Year III created this government, which had a legislative body composed of the Council of Ancients and the Council of Five Hundred. For 10 points, name this French Revolutionary government that preceded the Consulate and followed the Reign of Terror.": {
+    "guess": "Directory (French Revolution)",
+    "confidence": [
+      [
+        "Directory",
+        -0.1531159
+      ],
+      [
+        " (",
+        -0.062151194
+      ],
+      [
+        "French",
+        -0.5631772
+      ],
+      [
+        " Revolution",
+        -0.03664433
+      ],
+      [
+        ")",
+        -9.770221e-05
+      ]
+    ]
+  }
+}

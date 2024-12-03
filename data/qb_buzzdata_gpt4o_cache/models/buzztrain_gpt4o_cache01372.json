@@ -1,0 +1,1090 @@
+{
+  "The double data rate version of this technology achieves greater bandwidth by transferring data on both": {
+    "guess": "DDR SDRAM",
+    "confidence": [
+      [
+        "DDR",
+        -0.028461186
+      ],
+      [
+        " SDR",
+        -0.0002069973
+      ],
+      [
+        "AM",
+        0.0
+      ]
+    ]
+  },
+  "The double data rate version of this technology achieves greater bandwidth by transferring data on both the rising and falling edges of the clock signal. The current synchronous model uses an internal": {
+    "guess": "DDR SDRAM",
+    "confidence": [
+      [
+        "DDR",
+        -0.010135095
+      ],
+      [
+        " SDR",
+        -0.00021498026
+      ],
+      [
+        "AM",
+        0.0
+      ]
+    ]
+  },
+  "The double data rate version of this technology achieves greater bandwidth by transferring data on both the rising and falling edges of the clock signal. The current synchronous model uses an internal finite state machine to pipeline incoming commands and the speed of its operation is associated with": {
+    "guess": "DDR SDRAM",
+    "confidence": [
+      [
+        "DDR",
+        -0.061807107
+      ],
+      [
+        " SDR",
+        -0.0002582402
+      ],
+      [
+        "AM",
+        0.0
+      ]
+    ]
+  },
+  "The double data rate version of this technology achieves greater bandwidth by transferring data on both the rising and falling edges of the clock signal. The current synchronous model uses an internal finite state machine to pipeline incoming commands and the speed of its operation is associated with the pipelining latency. By nature the device is volatile and the in the past its types include both": {
+    "guess": "DDR SDRAM",
+    "confidence": [
+      [
+        "DDR",
+        -0.119050786
+      ],
+      [
+        " SDR",
+        -7.4695905e-05
+      ],
+      [
+        "AM",
+        0.0
+      ]
+    ]
+  },
+  "The double data rate version of this technology achieves greater bandwidth by transferring data on both the rising and falling edges of the clock signal. The current synchronous model uses an internal finite state machine to pipeline incoming commands and the speed of its operation is associated with the pipelining latency. By nature the device is volatile and the in the past its types include both single and dual in-line. With a most basic set-up storing each bit on a unique capacitor, FTP, name": {
+    "guess": "DDR SDRAM",
+    "confidence": [
+      [
+        "DDR",
+        -0.13835105
+      ],
+      [
+        " SDR",
+        -0.00014036978
+      ],
+      [
+        "AM",
+        0.0
+      ]
+    ]
+  },
+  "The double data rate version of this technology achieves greater bandwidth by transferring data on both the rising and falling edges of the clock signal. The current synchronous model uses an internal finite state machine to pipeline incoming commands and the speed of its operation is associated with the pipelining latency. By nature the device is volatile and the in the past its types include both single and dual in-line. With a most basic set-up storing each bit on a unique capacitor, FTP, name this type of memory which is one aspect associated with a computer's speed.": {
+    "guess": "DRAM",
+    "confidence": [
+      [
+        "DR",
+        -0.9939743
+      ],
+      [
+        "AM",
+        0.0
+      ]
+    ]
+  },
+  "He has a double, Aghora, who is sometimes represented as his evil twin and is always attended by the": {
+    "guess": "Rudra",
+    "confidence": [
+      [
+        "R",
+        -0.60123986
+      ],
+      [
+        "ud",
+        -0.0058497502
+      ],
+      [
+        "ra",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "He has a double, Aghora, who is sometimes represented as his evil twin and is always attended by the beautiful Bhadra.  Impressed by the penance of Parashurama, he offered his mystical axe Parashu as a": {
+    "guess": "Shiva",
+    "confidence": [
+      [
+        "Sh",
+        -0.2399388
+      ],
+      [
+        "iva",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "He has a double, Aghora, who is sometimes represented as his evil twin and is always attended by the beautiful Bhadra.  Impressed by the penance of Parashurama, he offered his mystical axe Parashu as a boon.  Among his many personifications are Ishwar, Shakta, and Dhurjati, though the most famous is": {
+    "guess": "Shiva",
+    "confidence": [
+      [
+        "Sh",
+        -0.012373207
+      ],
+      [
+        "iva",
+        0.0
+      ]
+    ]
+  },
+  "He has a double, Aghora, who is sometimes represented as his evil twin and is always attended by the beautiful Bhadra.  Impressed by the penance of Parashurama, he offered his mystical axe Parashu as a boon.  Among his many personifications are Ishwar, Shakta, and Dhurjati, though the most famous is the cosmic dancer, Nataraja.  In art, like Rama, he is shown with blue skin and is often riding his": {
+    "guess": "Nandi",
+    "confidence": [
+      [
+        "N",
+        -0.6946974
+      ],
+      [
+        "andi",
+        -1.4498052e-05
+      ]
+    ]
+  },
+  "He has a double, Aghora, who is sometimes represented as his evil twin and is always attended by the beautiful Bhadra.  Impressed by the penance of Parashurama, he offered his mystical axe Parashu as a boon.  Among his many personifications are Ishwar, Shakta, and Dhurjati, though the most famous is the cosmic dancer, Nataraja.  In art, like Rama, he is shown with blue skin and is often riding his great bull, Nandi.  FTP, name this husband of Parvathi and father of Ganesh, the Hindu destroyer god.": {
+    "guess": "Shiva",
+    "confidence": [
+      [
+        "Sh",
+        -0.046474274
+      ],
+      [
+        "iva",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "A double mutation of the gene Rb may lead to this phenomena occurring in the eye, and a regulator of": {
+    "guess": "Retinoblastoma",
+    "confidence": [
+      [
+        "Ret",
+        -9.253091e-06
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "oblast",
+        -1.9361265e-07
+      ],
+      [
+        "oma",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "A double mutation of the gene Rb may lead to this phenomena occurring in the eye, and a regulator of a process associated with this disease is PUMA, whose expression is induced by the protein p53. That": {
+    "guess": "Retinoblastoma",
+    "confidence": [
+      [
+        "Ret",
+        -9.4914985e-06
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "oblast",
+        0.0
+      ],
+      [
+        "oma",
+        0.0
+      ]
+    ]
+  },
+  "A double mutation of the gene Rb may lead to this phenomena occurring in the eye, and a regulator of a process associated with this disease is PUMA, whose expression is induced by the protein p53. That protein may initiate apoptosis, the programmed cell death whose absence is responsible for the proliferation": {
+    "guess": "Retinoblastoma",
+    "confidence": [
+      [
+        "Ret",
+        -4.246537e-06
+      ],
+      [
+        "in",
+        0.0
+      ],
+      [
+        "oblast",
+        0.0
+      ],
+      [
+        "oma",
+        0.0
+      ]
+    ]
+  },
+  "A double mutation of the gene Rb may lead to this phenomena occurring in the eye, and a regulator of a process associated with this disease is PUMA, whose expression is induced by the protein p53. That protein may initiate apoptosis, the programmed cell death whose absence is responsible for the proliferation of this disease, and manifestations of this disease can be classified as either benign or": {
+    "guess": "Retinoblastoma",
+    "confidence": [
+      [
+        "Ret",
+        -0.026908915
+      ],
+      [
+        "in",
+        -4.3202e-07
+      ],
+      [
+        "oblast",
+        0.0
+      ],
+      [
+        "oma",
+        0.0
+      ]
+    ]
+  },
+  "A double mutation of the gene Rb may lead to this phenomena occurring in the eye, and a regulator of a process associated with this disease is PUMA, whose expression is induced by the protein p53. That protein may initiate apoptosis, the programmed cell death whose absence is responsible for the proliferation of this disease, and manifestations of this disease can be classified as either benign or malignant. For 10 points, name this disease characterized by the growth of tumors.": {
+    "guess": "Cancer",
+    "confidence": [
+      [
+        "Cancer",
+        -0.028332919
+      ]
+    ]
+  },
+  "With Douglas Fairbanks, Mary Pickford, and D.W. Griffith, this man co-founded United Artists. This man": {
+    "guess": "Charlie Chaplin",
+    "confidence": [
+      [
+        "Charlie",
+        -0.0052622184
+      ],
+      [
+        " Chap",
+        0.0
+      ],
+      [
+        "lin",
+        0.0
+      ]
+    ]
+  },
+  "With Douglas Fairbanks, Mary Pickford, and D.W. Griffith, this man co-founded United Artists. This man feuded with the prospector Big Jim McKay in one film, and he played a factory worker who is pulled": {
+    "guess": "Charlie Chaplin",
+    "confidence": [
+      [
+        "Charlie",
+        -0.023801245
+      ],
+      [
+        " Chap",
+        0.0
+      ],
+      [
+        "lin",
+        0.0
+      ]
+    ]
+  },
+  "With Douglas Fairbanks, Mary Pickford, and D.W. Griffith, this man co-founded United Artists. This man feuded with the prospector Big Jim McKay in one film, and he played a factory worker who is pulled through a machine's gears in another film. In addition to The Gold Rush and Modern Times, this man": {
+    "guess": "Charlie Chaplin",
+    "confidence": [
+      [
+        "Charlie",
+        -0.073285274
+      ],
+      [
+        " Chap",
+        0.0
+      ],
+      [
+        "lin",
+        0.0
+      ]
+    ]
+  },
+  "With Douglas Fairbanks, Mary Pickford, and D.W. Griffith, this man co-founded United Artists. This man feuded with the prospector Big Jim McKay in one film, and he played a factory worker who is pulled through a machine's gears in another film. In addition to The Gold Rush and Modern Times, this man played the dictator of Tomania in a parody of Adolf Hitler in his film The Great Dictator. For 10 points,": {
+    "guess": "Charlie Chaplin",
+    "confidence": [
+      [
+        "Charlie",
+        -0.0022397083
+      ],
+      [
+        " Chap",
+        0.0
+      ],
+      [
+        "lin",
+        0.0
+      ]
+    ]
+  },
+  "With Douglas Fairbanks, Mary Pickford, and D.W. Griffith, this man co-founded United Artists. This man feuded with the prospector Big Jim McKay in one film, and he played a factory worker who is pulled through a machine's gears in another film. In addition to The Gold Rush and Modern Times, this man played the dictator of Tomania in a parody of Adolf Hitler in his film The Great Dictator. For 10 points, name this British actor known for his iconic \"Little Tramp\" character.": {
+    "guess": "Charlie Chaplin",
+    "confidence": [
+      [
+        "Charlie",
+        -0.0006080792
+      ],
+      [
+        " Chap",
+        0.0
+      ],
+      [
+        "lin",
+        0.0
+      ]
+    ]
+  },
+  "A Will Douglas poem claims he \"is dead, and risen, and dead again/ And risen the third time after he": {
+    "guess": "Lazarus",
+    "confidence": [
+      [
+        "L",
+        -0.5395615
+      ],
+      [
+        "azar",
+        -5.080963e-06
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "A Will Douglas poem claims he \"is dead, and risen, and dead again/ And risen the third time after he is slain,\" while another poem addressed to his man ends \"Help us to save free conscience from the paw/": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.14659618
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "A Will Douglas poem claims he \"is dead, and risen, and dead again/ And risen the third time after he is slain,\" while another poem addressed to his man ends \"Help us to save free conscience from the paw/ Of hireling wolves, whose Gospel is their maw.\" Brian Kennelly analyzed the \"curse\" of this man in": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.49805743
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "A Will Douglas poem claims he \"is dead, and risen, and dead again/ And risen the third time after he is slain,\" while another poem addressed to his man ends \"Help us to save free conscience from the paw/ Of hireling wolves, whose Gospel is their maw.\" Brian Kennelly analyzed the \"curse\" of this man in Irish poetry, a topic dealt with by Yeats in a poem discussing his \"murderous crew.\" Victor (*) Hugo": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.7707722
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "A Will Douglas poem claims he \"is dead, and risen, and dead again/ And risen the third time after he is slain,\" while another poem addressed to his man ends \"Help us to save free conscience from the paw/ Of hireling wolves, whose Gospel is their maw.\" Brian Kennelly analyzed the \"curse\" of this man in Irish poetry, a topic dealt with by Yeats in a poem discussing his \"murderous crew.\" Victor (*) Hugo attempted to overcome \"tottering classicism\" and \"false romanticism\" in the Preface to his 1827 drama": {
+    "guess": "Cromwell",
+    "confidence": [
+      [
+        "C",
+        -0.6553073
+      ],
+      [
+        "rom",
+        -1.504853e-06
+      ],
+      [
+        "well",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "A Will Douglas poem claims he \"is dead, and risen, and dead again/ And risen the third time after he is slain,\" while another poem addressed to his man ends \"Help us to save free conscience from the paw/ Of hireling wolves, whose Gospel is their maw.\" Brian Kennelly analyzed the \"curse\" of this man in Irish poetry, a topic dealt with by Yeats in a poem discussing his \"murderous crew.\" Victor (*) Hugo attempted to overcome \"tottering classicism\" and \"false romanticism\" in the Preface to his 1827 drama about this man, while one of Andrew Marvell's poems about him compares him to Time, noting that": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.7593066
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "A Will Douglas poem claims he \"is dead, and risen, and dead again/ And risen the third time after he is slain,\" while another poem addressed to his man ends \"Help us to save free conscience from the paw/ Of hireling wolves, whose Gospel is their maw.\" Brian Kennelly analyzed the \"curse\" of this man in Irish poetry, a topic dealt with by Yeats in a poem discussing his \"murderous crew.\" Victor (*) Hugo attempted to overcome \"tottering classicism\" and \"false romanticism\" in the Preface to his 1827 drama about this man, while one of Andrew Marvell's poems about him compares him to Time, noting that he \"alone with greater vigor runs.\" Thomas Gray alluded to those poems when he paired a version of": {
+    "guess": "Cromwell (Oliver Cromwell)",
+    "confidence": [
+      [
+        "C",
+        -0.23755454
+      ],
+      [
+        "rom",
+        -1.8624639e-06
+      ],
+      [
+        "well",
+        -6.704273e-07
+      ],
+      [
+        " (",
+        -0.43686917
+      ],
+      [
+        "Oliver",
+        -0.75323683
+      ],
+      [
+        " Crom",
+        -0.063186884
+      ],
+      [
+        "well",
+        -1.504853e-06
+      ],
+      [
+        ")",
+        -0.030209871
+      ]
+    ]
+  },
+  "A Will Douglas poem claims he \"is dead, and risen, and dead again/ And risen the third time after he is slain,\" while another poem addressed to his man ends \"Help us to save free conscience from the paw/ Of hireling wolves, whose Gospel is their maw.\" Brian Kennelly analyzed the \"curse\" of this man in Irish poetry, a topic dealt with by Yeats in a poem discussing his \"murderous crew.\" Victor (*) Hugo attempted to overcome \"tottering classicism\" and \"false romanticism\" in the Preface to his 1827 drama about this man, while one of Andrew Marvell's poems about him compares him to Time, noting that he \"alone with greater vigor runs.\" Thomas Gray alluded to those poems when he paired a version of this man \"guiltless of his country's blood\" with a \"mute inglorious Milton\"; that Horatian ode claimed": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.1319573
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "A Will Douglas poem claims he \"is dead, and risen, and dead again/ And risen the third time after he is slain,\" while another poem addressed to his man ends \"Help us to save free conscience from the paw/ Of hireling wolves, whose Gospel is their maw.\" Brian Kennelly analyzed the \"curse\" of this man in Irish poetry, a topic dealt with by Yeats in a poem discussing his \"murderous crew.\" Victor (*) Hugo attempted to overcome \"tottering classicism\" and \"false romanticism\" in the Preface to his 1827 drama about this man, while one of Andrew Marvell's poems about him compares him to Time, noting that he \"alone with greater vigor runs.\" Thomas Gray alluded to those poems when he paired a version of this man \"guiltless of his country's blood\" with a \"mute inglorious Milton\"; that Horatian ode claimed he could not \"cease/ The inglorious arts of peace\" upon his return from Ireland. For 10 points, name": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.040583868
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "A Will Douglas poem claims he \"is dead, and risen, and dead again/ And risen the third time after he is slain,\" while another poem addressed to his man ends \"Help us to save free conscience from the paw/ Of hireling wolves, whose Gospel is their maw.\" Brian Kennelly analyzed the \"curse\" of this man in Irish poetry, a topic dealt with by Yeats in a poem discussing his \"murderous crew.\" Victor (*) Hugo attempted to overcome \"tottering classicism\" and \"false romanticism\" in the Preface to his 1827 drama about this man, while one of Andrew Marvell's poems about him compares him to Time, noting that he \"alone with greater vigor runs.\" Thomas Gray alluded to those poems when he paired a version of this man \"guiltless of his country's blood\" with a \"mute inglorious Milton\"; that Horatian ode claimed he could not \"cease/ The inglorious arts of peace\" upon his return from Ireland. For 10 points, name this Lord Protector.": {
+    "guess": "Oliver Cromwell",
+    "confidence": [
+      [
+        "Oliver",
+        -0.00012570774
+      ],
+      [
+        " Crom",
+        0.0
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "A double one of these devices exhibits chaotic motion. Bullet speed can be calculated with a \"ballistic\"": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.026628852
+      ],
+      [
+        "ulum",
+        0.0
+      ]
+    ]
+  },
+  "A double one of these devices exhibits chaotic motion. Bullet speed can be calculated with a \"ballistic\" one of these devices, while a \"physical\" one has a massive rod. The one of Foucault's demonstrated": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.0036735905
+      ],
+      [
+        "ulum",
+        0.0
+      ]
+    ]
+  },
+  "A double one of these devices exhibits chaotic motion. Bullet speed can be calculated with a \"ballistic\" one of these devices, while a \"physical\" one has a massive rod. The one of Foucault's demonstrated that the earth rotated, and it is helpful to use the approximation sin theta equals theta for problems": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.0036345155
+      ],
+      [
+        "ulum",
+        0.0
+      ]
+    ]
+  },
+  "A double one of these devices exhibits chaotic motion. Bullet speed can be calculated with a \"ballistic\" one of these devices, while a \"physical\" one has a massive rod. The one of Foucault's demonstrated that the earth rotated, and it is helpful to use the approximation sin theta equals theta for problems involving this system. Exhibiting simple harmonic motion, for 10 points, name this device, the": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -0.00038241007
+      ],
+      [
+        "ulum",
+        0.0
+      ]
+    ]
+  },
+  "A double one of these devices exhibits chaotic motion. Bullet speed can be calculated with a \"ballistic\" one of these devices, while a \"physical\" one has a massive rod. The one of Foucault's demonstrated that the earth rotated, and it is helpful to use the approximation sin theta equals theta for problems involving this system. Exhibiting simple harmonic motion, for 10 points, name this device, the simplest of which is a bob at the end of a string.": {
+    "guess": "Pendulum",
+    "confidence": [
+      [
+        "Pend",
+        -9.8536635e-05
+      ],
+      [
+        "ulum",
+        0.0
+      ]
+    ]
+  },
+  "Douglas Irwin argued that this legislation's targeting of the domestic tin plate industry, which was": {
+    "guess": "McKinley Tariff",
+    "confidence": [
+      [
+        "Mc",
+        -0.0023710122
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ],
+      [
+        " Tar",
+        -1.504853e-06
+      ],
+      [
+        "iff",
+        0.0
+      ]
+    ]
+  },
+  "Douglas Irwin argued that this legislation's targeting of the domestic tin plate industry, which was written to expire after seven years if it did not succeed, did accelerate its growth by a decade. Irwin": {
+    "guess": "McKinley Tariff",
+    "confidence": [
+      [
+        "Mc",
+        -0.03784225
+      ],
+      [
+        "Kin",
+        -1.9361265e-07
+      ],
+      [
+        "ley",
+        0.0
+      ],
+      [
+        " Tar",
+        -6.511407e-06
+      ],
+      [
+        "iff",
+        0.0
+      ]
+    ]
+  },
+  "Douglas Irwin argued that this legislation's targeting of the domestic tin plate industry, which was written to expire after seven years if it did not succeed, did accelerate its growth by a decade. Irwin also calculated that this legislation would have increased federal government revenue and hence": {
+    "guess": "McKinley Tariff",
+    "confidence": [
+      [
+        "Mc",
+        -0.3557003
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ],
+      [
+        " Tar",
+        -2.8160932e-06
+      ],
+      [
+        "iff",
+        0.0
+      ]
+    ]
+  },
+  "Douglas Irwin argued that this legislation's targeting of the domestic tin plate industry, which was written to expire after seven years if it did not succeed, did accelerate its growth by a decade. Irwin also calculated that this legislation would have increased federal government revenue and hence the problematic surplus, validating the arguments Democrats made against it, except for the fact that": {
+    "guess": "McKinley Tariff",
+    "confidence": [
+      [
+        "Mc",
+        -0.34210524
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ],
+      [
+        " Tar",
+        -3.5313153e-06
+      ],
+      [
+        "iff",
+        0.0
+      ]
+    ]
+  },
+  "Douglas Irwin argued that this legislation's targeting of the domestic tin plate industry, which was written to expire after seven years if it did not succeed, did accelerate its growth by a decade. Irwin also calculated that this legislation would have increased federal government revenue and hence the problematic surplus, validating the arguments Democrats made against it, except for the fact that it put sugar on the (*) duty-free list. This legislation's namesake proposed it as Chairman of the": {
+    "guess": "McKinley Tariff",
+    "confidence": [
+      [
+        "Mc",
+        -0.28690538
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ],
+      [
+        " Tar",
+        -6.869018e-06
+      ],
+      [
+        "iff",
+        0.0
+      ]
+    ]
+  },
+  "Douglas Irwin argued that this legislation's targeting of the domestic tin plate industry, which was written to expire after seven years if it did not succeed, did accelerate its growth by a decade. Irwin also calculated that this legislation would have increased federal government revenue and hence the problematic surplus, validating the arguments Democrats made against it, except for the fact that it put sugar on the (*) duty-free list. This legislation's namesake proposed it as Chairman of the Ways and Means Committee after he lost the speakership election to Thomas Reed, and he was thereafter": {
+    "guess": "McKinley Tariff",
+    "confidence": [
+      [
+        "Mc",
+        -0.016146393
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ],
+      [
+        " Tar",
+        -9.133887e-06
+      ],
+      [
+        "iff",
+        0.0
+      ]
+    ]
+  },
+  "Douglas Irwin argued that this legislation's targeting of the domestic tin plate industry, which was written to expire after seven years if it did not succeed, did accelerate its growth by a decade. Irwin also calculated that this legislation would have increased federal government revenue and hence the problematic surplus, validating the arguments Democrats made against it, except for the fact that it put sugar on the (*) duty-free list. This legislation's namesake proposed it as Chairman of the Ways and Means Committee after he lost the speakership election to Thomas Reed, and he was thereafter known as the \"Napoleon of Protection.\" This legislation eventually cost the Republicans Congress": {
+    "guess": "McKinley Tariff",
+    "confidence": [
+      [
+        "Mc",
+        -0.0009866041
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ],
+      [
+        " Tar",
+        -1.8624639e-06
+      ],
+      [
+        "iff",
+        0.0
+      ]
+    ]
+  },
+  "Douglas Irwin argued that this legislation's targeting of the domestic tin plate industry, which was written to expire after seven years if it did not succeed, did accelerate its growth by a decade. Irwin also calculated that this legislation would have increased federal government revenue and hence the problematic surplus, validating the arguments Democrats made against it, except for the fact that it put sugar on the (*) duty-free list. This legislation's namesake proposed it as Chairman of the Ways and Means Committee after he lost the speakership election to Thomas Reed, and he was thereafter known as the \"Napoleon of Protection.\" This legislation eventually cost the Republicans Congress and the Presidency and it was replaced by the Wilson-Gorman Tariff. For 10 points, name this 1890 legislation": {
+    "guess": "McKinley Tariff",
+    "confidence": [
+      [
+        "Mc",
+        -0.00010854974
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ],
+      [
+        " Tar",
+        -9.0883464e-07
+      ],
+      [
+        "iff",
+        0.0
+      ]
+    ]
+  },
+  "Douglas Irwin argued that this legislation's targeting of the domestic tin plate industry, which was written to expire after seven years if it did not succeed, did accelerate its growth by a decade. Irwin also calculated that this legislation would have increased federal government revenue and hence the problematic surplus, validating the arguments Democrats made against it, except for the fact that it put sugar on the (*) duty-free list. This legislation's namesake proposed it as Chairman of the Ways and Means Committee after he lost the speakership election to Thomas Reed, and he was thereafter known as the \"Napoleon of Protection.\" This legislation eventually cost the Republicans Congress and the Presidency and it was replaced by the Wilson-Gorman Tariff. For 10 points, name this 1890 legislation sponsored by an Ohioan who was elected President in 1896.": {
+    "guess": "McKinley Tariff",
+    "confidence": [
+      [
+        "Mc",
+        -3.3213026e-05
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ],
+      [
+        " Tar",
+        -1.147242e-06
+      ],
+      [
+        "iff",
+        0.0
+      ]
+    ]
+  },
+  "Doug MacAyeal argues that discharges from this body of water caused the Dansgard-Oeschger cycle. The": {
+    "guess": "Lake Agassiz",
+    "confidence": [
+      [
+        "Lake",
+        -0.060228616
+      ],
+      [
+        " Ag",
+        -0.003931645
+      ],
+      [
+        "ass",
+        -1.147242e-06
+      ],
+      [
+        "iz",
+        0.0
+      ]
+    ]
+  },
+  "Doug MacAyeal argues that discharges from this body of water caused the Dansgard-Oeschger cycle. The Nastapoka arc under this body of water may be the remains of an ancient impact event. Just north of": {
+    "guess": "Hudson Bay",
+    "confidence": [
+      [
+        "Hud",
+        -6.253713e-05
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Bay",
+        0.0
+      ]
+    ]
+  },
+  "Doug MacAyeal argues that discharges from this body of water caused the Dansgard-Oeschger cycle. The Nastapoka arc under this body of water may be the remains of an ancient impact event. Just north of this body, one can find the Barnes cap. Despite a global rise in sea levels, this body of water has": {
+    "guess": "Hudson Bay",
+    "confidence": [
+      [
+        "Hud",
+        -6.372917e-05
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Bay",
+        0.0
+      ]
+    ]
+  },
+  "Doug MacAyeal argues that discharges from this body of water caused the Dansgard-Oeschger cycle. The Nastapoka arc under this body of water may be the remains of an ancient impact event. Just north of this body, one can find the Barnes cap. Despite a global rise in sea levels, this body of water has shrunk over the past 10,000 years due to (*) isostatic lift, the result of its interactions with the": {
+    "guess": "Hudson Bay",
+    "confidence": [
+      [
+        "Hud",
+        -3.917321e-05
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Bay",
+        0.0
+      ]
+    ]
+  },
+  "Doug MacAyeal argues that discharges from this body of water caused the Dansgard-Oeschger cycle. The Nastapoka arc under this body of water may be the remains of an ancient impact event. Just north of this body, one can find the Barnes cap. Despite a global rise in sea levels, this body of water has shrunk over the past 10,000 years due to (*) isostatic lift, the result of its interactions with the Laurentide Ice Sheet, and this body of water was the final watershed of Lake Agassiz and received the": {
+    "guess": "Hudson Bay",
+    "confidence": [
+      [
+        "Hud",
+        -3.059055e-05
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Bay",
+        0.0
+      ]
+    ]
+  },
+  "Doug MacAyeal argues that discharges from this body of water caused the Dansgard-Oeschger cycle. The Nastapoka arc under this body of water may be the remains of an ancient impact event. Just north of this body, one can find the Barnes cap. Despite a global rise in sea levels, this body of water has shrunk over the past 10,000 years due to (*) isostatic lift, the result of its interactions with the Laurentide Ice Sheet, and this body of water was the final watershed of Lake Agassiz and received the draining water of Lake Agassiz at the end of the last Ice Age. Containing the Belcher Islands, this": {
+    "guess": "Hudson Bay",
+    "confidence": [
+      [
+        "Hud",
+        -5.8961017e-05
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Bay",
+        0.0
+      ]
+    ]
+  },
+  "Doug MacAyeal argues that discharges from this body of water caused the Dansgard-Oeschger cycle. The Nastapoka arc under this body of water may be the remains of an ancient impact event. Just north of this body, one can find the Barnes cap. Despite a global rise in sea levels, this body of water has shrunk over the past 10,000 years due to (*) isostatic lift, the result of its interactions with the Laurentide Ice Sheet, and this body of water was the final watershed of Lake Agassiz and received the draining water of Lake Agassiz at the end of the last Ice Age. Containing the Belcher Islands, this is, for 10 points, what large bay of the Arctic Ocean that cuts into Canada?": {
+    "guess": "Hudson Bay",
+    "confidence": [
+      [
+        "Hud",
+        -0.00013548243
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " Bay",
+        0.0
+      ]
+    ]
+  },
+  "The double basses sustain an A-flat in this opera's lengthy second-act monologue. This opera's opening": {
+    "guess": "Wozzeck",
+    "confidence": [
+      [
+        "W",
+        -0.3697702
+      ],
+      [
+        "oz",
+        -0.00036239854
+      ],
+      [
+        "ze",
+        0.0
+      ],
+      [
+        "ck",
+        0.0
+      ]
+    ]
+  },
+  "The double basses sustain an A-flat in this opera's lengthy second-act monologue. This opera's opening act features the tenor singing his father's name \"Walse\" and includes the love duet \"Wintersturme.\"": {
+    "guess": "Die Walk\u00fcre",
+    "confidence": [
+      [
+        "Die",
+        -7.600714e-05
+      ],
+      [
+        " Walk",
+        -6.704273e-07
+      ],
+      [
+        "\u00fcre",
+        -2.2007884e-05
+      ]
+    ]
+  },
+  "The double basses sustain an A-flat in this opera's lengthy second-act monologue. This opera's opening act features the tenor singing his father's name \"Walse\" and includes the love duet \"Wintersturme.\" One character in this opera introduces himself as \"woeful,\" or Wehwalt, instead of revealing his true": {
+    "guess": "Die Walk\u00fcre",
+    "confidence": [
+      [
+        "Die",
+        -4.596782e-05
+      ],
+      [
+        " Walk",
+        -9.0883464e-07
+      ],
+      [
+        "\u00fcre",
+        -5.3193703e-06
+      ]
+    ]
+  },
+  "The double basses sustain an A-flat in this opera's lengthy second-act monologue. This opera's opening act features the tenor singing his father's name \"Walse\" and includes the love duet \"Wintersturme.\" One character in this opera introduces himself as \"woeful,\" or Wehwalt, instead of revealing his true name, and later has his weapon shattered by a spear strike. This opera ends with the Magic Fire": {
+    "guess": "Die Walk\u00fcre",
+    "confidence": [
+      [
+        "Die",
+        -6.5994034e-05
+      ],
+      [
+        " Walk",
+        -5.5122365e-07
+      ],
+      [
+        "\u00fcre",
+        -6.392203e-06
+      ]
+    ]
+  },
+  "The double basses sustain an A-flat in this opera's lengthy second-act monologue. This opera's opening act features the tenor singing his father's name \"Walse\" and includes the love duet \"Wintersturme.\" One character in this opera introduces himself as \"woeful,\" or Wehwalt, instead of revealing his true name, and later has his weapon shattered by a spear strike. This opera ends with the Magic Fire Music, representing the circle of flame that Loge has lit to protect the title character. The prelude": {
+    "guess": "Die Walk\u00fcre",
+    "confidence": [
+      [
+        "Die",
+        -7.851042e-05
+      ],
+      [
+        " Walk",
+        -9.0883464e-07
+      ],
+      [
+        "\u00fcre",
+        -3.5313153e-06
+      ]
+    ]
+  },
+  "The double basses sustain an A-flat in this opera's lengthy second-act monologue. This opera's opening act features the tenor singing his father's name \"Walse\" and includes the love duet \"Wintersturme.\" One character in this opera introduces himself as \"woeful,\" or Wehwalt, instead of revealing his true name, and later has his weapon shattered by a spear strike. This opera ends with the Magic Fire Music, representing the circle of flame that Loge has lit to protect the title character. The prelude to its third act incorporates the battle cry \"Hojotoho\" and has its galloping main theme played by": {
+    "guess": "Die Walk\u00fcre",
+    "confidence": [
+      [
+        "Die",
+        -0.0001752928
+      ],
+      [
+        " Walk",
+        -4.3202e-07
+      ],
+      [
+        "\u00fcre",
+        -6.6306106e-06
+      ]
+    ]
+  },
+  "The double basses sustain an A-flat in this opera's lengthy second-act monologue. This opera's opening act features the tenor singing his father's name \"Walse\" and includes the love duet \"Wintersturme.\" One character in this opera introduces himself as \"woeful,\" or Wehwalt, instead of revealing his true name, and later has his weapon shattered by a spear strike. This opera ends with the Magic Fire Music, representing the circle of flame that Loge has lit to protect the title character. The prelude to its third act incorporates the battle cry \"Hojotoho\" and has its galloping main theme played by the brass. For 10 points, name this second opera of the Ring Cycle, in which the sisters of the title": {
+    "guess": "Die Walk\u00fcre",
+    "confidence": [
+      [
+        "Die",
+        -9.6867785e-05
+      ],
+      [
+        " Walk",
+        -4.3202e-07
+      ],
+      [
+        "\u00fcre",
+        -1.1041146e-05
+      ]
+    ]
+  },
+  "The double basses sustain an A-flat in this opera's lengthy second-act monologue. This opera's opening act features the tenor singing his father's name \"Walse\" and includes the love duet \"Wintersturme.\" One character in this opera introduces himself as \"woeful,\" or Wehwalt, instead of revealing his true name, and later has his weapon shattered by a spear strike. This opera ends with the Magic Fire Music, representing the circle of flame that Loge has lit to protect the title character. The prelude to its third act incorporates the battle cry \"Hojotoho\" and has its galloping main theme played by the brass. For 10 points, name this second opera of the Ring Cycle, in which the sisters of the title character, Brunnhilde, go on a famous \"ride.\"": {
+    "guess": "Die Walk\u00fcre",
+    "confidence": [
+      [
+        "Die",
+        -7.7318386e-05
+      ],
+      [
+        " Walk",
+        -4.3202e-07
+      ],
+      [
+        "\u00fcre",
+        -7.5530326e-05
+      ]
+    ]
+  }
+}

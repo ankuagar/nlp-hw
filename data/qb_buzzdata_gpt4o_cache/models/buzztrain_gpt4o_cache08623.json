@@ -1,0 +1,87 @@
+{
+  "In 1964, Wladyslaw Moes claimed to be the inspiration for this work of literature, which was also partly": {
+    "guess": "Death in Venice",
+    "confidence": [
+      [
+        "Death",
+        -0.0010909239
+      ],
+      [
+        " in",
+        -1.504853e-06
+      ],
+      [
+        " Venice",
+        0.0
+      ]
+    ]
+  },
+  "In 1964, Wladyslaw Moes claimed to be the inspiration for this work of literature, which was also partly inspired by an outbreak in Palermo.  Its main character, the author of the book A Study in Abjection,": {
+    "guess": "Death in Venice",
+    "confidence": [
+      [
+        "Death",
+        -0.02999797
+      ],
+      [
+        " in",
+        -6.2729996e-06
+      ],
+      [
+        " Venice",
+        0.0
+      ]
+    ]
+  },
+  "In 1964, Wladyslaw Moes claimed to be the inspiration for this work of literature, which was also partly inspired by an outbreak in Palermo.  Its main character, the author of the book A Study in Abjection, nearly leaves for home, but an accident with his luggage gives him an excuse to continue his vacation": {
+    "guess": "Death in Venice",
+    "confidence": [
+      [
+        "Death",
+        -0.011436345
+      ],
+      [
+        " in",
+        -1.7835755e-05
+      ],
+      [
+        " Venice",
+        0.0
+      ]
+    ]
+  },
+  "In 1964, Wladyslaw Moes claimed to be the inspiration for this work of literature, which was also partly inspired by an outbreak in Palermo.  Its main character, the author of the book A Study in Abjection, nearly leaves for home, but an accident with his luggage gives him an excuse to continue his vacation where, obsessed with a boy he thinks is named Tadzio, he dies of cholera.  FTP, name this 1912": {
+    "guess": "Death in Venice",
+    "confidence": [
+      [
+        "Death",
+        -0.004708276
+      ],
+      [
+        " in",
+        0.0
+      ],
+      [
+        " Venice",
+        0.0
+      ]
+    ]
+  },
+  "In 1964, Wladyslaw Moes claimed to be the inspiration for this work of literature, which was also partly inspired by an outbreak in Palermo.  Its main character, the author of the book A Study in Abjection, nearly leaves for home, but an accident with his luggage gives him an excuse to continue his vacation where, obsessed with a boy he thinks is named Tadzio, he dies of cholera.  FTP, name this 1912 novella by Thomas Mann.": {
+    "guess": "Death in Venice",
+    "confidence": [
+      [
+        "Death",
+        -0.00023500649
+      ],
+      [
+        " in",
+        0.0
+      ],
+      [
+        " Venice",
+        0.0
+      ]
+    ]
+  }
+}

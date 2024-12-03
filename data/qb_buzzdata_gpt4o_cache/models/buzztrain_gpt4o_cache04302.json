@@ -1,0 +1,251 @@
+{
+  "The Lewis-Randall rule states that the coefficient of this property in an ideal solution is equal to": {
+    "guess": "Fugacity coefficient",
+    "confidence": [
+      [
+        "F",
+        -0.32294443
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "acity",
+        0.0
+      ],
+      [
+        " coefficient",
+        -0.34729773
+      ]
+    ]
+  },
+  "The Lewis-Randall rule states that the coefficient of this property in an ideal solution is equal to its coefficient for a pure species in the same physical state, temperature, and pressure of the solution.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.72232467
+      ]
+    ]
+  },
+  "The Lewis-Randall rule states that the coefficient of this property in an ideal solution is equal to its coefficient for a pure species in the same physical state, temperature, and pressure of the solution. It was devised to quantify differences between the properties of pure and salt water.  It is equal": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9840794
+      ]
+    ]
+  },
+  "The Lewis-Randall rule states that the coefficient of this property in an ideal solution is equal to its coefficient for a pure species in the same physical state, temperature, and pressure of the solution. It was devised to quantify differences between the properties of pure and salt water.  It is equal to the exponential of the standard reference free energy divided by the kinetic temperature.  For": {
+    "guess": "Fugacity",
+    "confidence": [
+      [
+        "F",
+        -0.68218094
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "acity",
+        0.0
+      ]
+    ]
+  },
+  "The Lewis-Randall rule states that the coefficient of this property in an ideal solution is equal to its coefficient for a pure species in the same physical state, temperature, and pressure of the solution. It was devised to quantify differences between the properties of pure and salt water.  It is equal to the exponential of the standard reference free energy divided by the kinetic temperature.  For an ideal gas, its coefficient is by definition unity. FTP, what thermodynamic quantity measures the": {
+    "guess": "Fugacity",
+    "confidence": [
+      [
+        "F",
+        -0.63407606
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "acity",
+        0.0
+      ]
+    ]
+  },
+  "The Lewis-Randall rule states that the coefficient of this property in an ideal solution is equal to its coefficient for a pure species in the same physical state, temperature, and pressure of the solution. It was devised to quantify differences between the properties of pure and salt water.  It is equal to the exponential of the standard reference free energy divided by the kinetic temperature.  For an ideal gas, its coefficient is by definition unity. FTP, what thermodynamic quantity measures the tendency of a gas to expand or escape?": {
+    "guess": "Fugacity",
+    "confidence": [
+      [
+        "F",
+        -0.014380212
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "acity",
+        0.0
+      ]
+    ]
+  },
+  "Lewis Theobald was chosen as the \"hero\" in the first two versions because of his publication of Shakespeare": {
+    "guess": "Shakespeare Restored",
+    "confidence": [
+      [
+        "Sh",
+        -0.36518615
+      ],
+      [
+        "akespeare",
+        -0.0015255718
+      ],
+      [
+        " Rest",
+        -0.026509164
+      ],
+      [
+        "ored",
+        -2.7968066e-05
+      ]
+    ]
+  },
+  "Lewis Theobald was chosen as the \"hero\" in the first two versions because of his publication of Shakespeare Restored, which insulted the author of this work in a number of ways. Another reason was Theobald's": {
+    "guess": "The Dunciad",
+    "confidence": [
+      [
+        "The",
+        -0.019396842
+      ],
+      [
+        " D",
+        -0.000104377614
+      ],
+      [
+        "unci",
+        -3.4121115e-06
+      ],
+      [
+        "ad",
+        0.0
+      ]
+    ]
+  },
+  "Lewis Theobald was chosen as the \"hero\" in the first two versions because of his publication of Shakespeare Restored, which insulted the author of this work in a number of ways. Another reason was Theobald's failures as a playwright, which would allow the goddess Dulness access to that medium as well.": {
+    "guess": "The Dunciad",
+    "confidence": [
+      [
+        "The",
+        -3.9054008e-05
+      ],
+      [
+        " D",
+        -1.9361265e-07
+      ],
+      [
+        "unci",
+        -1.9361265e-07
+      ],
+      [
+        "ad",
+        0.0
+      ]
+    ]
+  },
+  "Lewis Theobald was chosen as the \"hero\" in the first two versions because of his publication of Shakespeare Restored, which insulted the author of this work in a number of ways. Another reason was Theobald's failures as a playwright, which would allow the goddess Dulness access to that medium as well. The third addition had several alterations, including changing the hero to Colley Cibber. FTP, name": {
+    "guess": "The Dunciad",
+    "confidence": [
+      [
+        "The",
+        -0.00055994286
+      ],
+      [
+        " D",
+        -5.5122365e-07
+      ],
+      [
+        "unci",
+        0.0
+      ],
+      [
+        "ad",
+        0.0
+      ]
+    ]
+  },
+  "Lewis Theobald was chosen as the \"hero\" in the first two versions because of his publication of Shakespeare Restored, which insulted the author of this work in a number of ways. Another reason was Theobald's failures as a playwright, which would allow the goddess Dulness access to that medium as well. The third addition had several alterations, including changing the hero to Colley Cibber. FTP, name this satirical poem written by Alexander Pope.": {
+    "guess": "The Dunciad",
+    "confidence": [
+      [
+        "The",
+        -0.00015002528
+      ],
+      [
+        " D",
+        -1.9361265e-07
+      ],
+      [
+        "unci",
+        0.0
+      ],
+      [
+        "ad",
+        0.0
+      ]
+    ]
+  },
+  "Lewis Mumford compared these entities to magnets and containers in his book about this concept \"in history,\"": {
+    "guess": "City",
+    "confidence": [
+      [
+        "City",
+        -0.011567515
+      ]
+    ]
+  },
+  "Lewis Mumford compared these entities to magnets and containers in his book about this concept \"in history,\" and Jane Jacobs wrote about the \"Death and Lifeof Great American\" ones. Ernest Burgess developed": {
+    "guess": "Cities",
+    "confidence": [
+      [
+        "Cities",
+        -0.42776525
+      ]
+    ]
+  },
+  "Lewis Mumford compared these entities to magnets and containers in his book about this concept \"in history,\" and Jane Jacobs wrote about the \"Death and Lifeof Great American\" ones. Ernest Burgess developed a model for these using concentric rings that centers on the central business district, while Lincoln": {
+    "guess": "Cities",
+    "confidence": [
+      [
+        "Cities",
+        -0.6360513
+      ]
+    ]
+  },
+  "Lewis Mumford compared these entities to magnets and containers in his book about this concept \"in history,\" and Jane Jacobs wrote about the \"Death and Lifeof Great American\" ones. Ernest Burgess developed a model for these using concentric rings that centers on the central business district, while Lincoln Steffens attacked their corruption in a book about the \"shame\" of these entities. Planned ones": {
+    "guess": "Cities",
+    "confidence": [
+      [
+        "Cities",
+        -0.22142923
+      ]
+    ]
+  },
+  "Lewis Mumford compared these entities to magnets and containers in his book about this concept \"in history,\" and Jane Jacobs wrote about the \"Death and Lifeof Great American\" ones. Ernest Burgess developed a model for these using concentric rings that centers on the central business district, while Lincoln Steffens attacked their corruption in a book about the \"shame\" of these entities. Planned ones include Chandigarh, Astana, and Canberra. For 10 points, name these highly populated entities, whose": {
+    "guess": "City",
+    "confidence": [
+      [
+        "City",
+        -0.022106435
+      ]
+    ]
+  },
+  "Lewis Mumford compared these entities to magnets and containers in his book about this concept \"in history,\" and Jane Jacobs wrote about the \"Death and Lifeof Great American\" ones. Ernest Burgess developed a model for these using concentric rings that centers on the central business district, while Lincoln Steffens attacked their corruption in a book about the \"shame\" of these entities. Planned ones include Chandigarh, Astana, and Canberra. For 10 points, name these highly populated entities, whose American examples include Phoenix and Chicago.": {
+    "guess": "City",
+    "confidence": [
+      [
+        "City",
+        -0.15046962
+      ]
+    ]
+  }
+}

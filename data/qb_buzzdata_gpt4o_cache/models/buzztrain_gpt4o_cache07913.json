@@ -1,0 +1,67 @@
+{
+  "The Upanishads describe this concept as bitter fruit being eaten by a bird. In Jainism, this concept": {
+    "guess": "Karma",
+    "confidence": [
+      [
+        "K",
+        -0.002986256
+      ],
+      [
+        "arma",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The Upanishads describe this concept as bitter fruit being eaten by a bird. In Jainism, this concept is compared to dirt that is attracted to one's soul, and is divided into \"harming\" and \"non-harming\"": {
+    "guess": "Karma",
+    "confidence": [
+      [
+        "K",
+        -0.003215738
+      ],
+      [
+        "arma",
+        -4.00813e-06
+      ]
+    ]
+  },
+  "The Upanishads describe this concept as bitter fruit being eaten by a bird. In Jainism, this concept is compared to dirt that is attracted to one's soul, and is divided into \"harming\" and \"non-harming\" types. This concept is contrasted with (*) fate, since it is created by humans' choices, and this concept": {
+    "guess": "Karma",
+    "confidence": [
+      [
+        "K",
+        -0.0020489092
+      ],
+      [
+        "arma",
+        0.0
+      ]
+    ]
+  },
+  "The Upanishads describe this concept as bitter fruit being eaten by a bird. In Jainism, this concept is compared to dirt that is attracted to one's soul, and is divided into \"harming\" and \"non-harming\" types. This concept is contrasted with (*) fate, since it is created by humans' choices, and this concept drives the cycle of rebirth in Buddhism. For 10 points, name this concept in Indian religion,": {
+    "guess": "Karma",
+    "confidence": [
+      [
+        "K",
+        -5.4908094e-05
+      ],
+      [
+        "arma",
+        0.0
+      ]
+    ]
+  },
+  "The Upanishads describe this concept as bitter fruit being eaten by a bird. In Jainism, this concept is compared to dirt that is attracted to one's soul, and is divided into \"harming\" and \"non-harming\" types. This concept is contrasted with (*) fate, since it is created by humans' choices, and this concept drives the cycle of rebirth in Buddhism. For 10 points, name this concept in Indian religion, in which positive actions yield positive results.": {
+    "guess": "Karma",
+    "confidence": [
+      [
+        "K",
+        -1.473646e-05
+      ],
+      [
+        "arma",
+        0.0
+      ]
+    ]
+  }
+}

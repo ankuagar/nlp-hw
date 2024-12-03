@@ -1,0 +1,5144 @@
+{
+  "Defective versions of these can result in RCPD, AMN, and X-linked adrenoleukodystrophy. Another defect": {
+    "guess": "ABCD1 gene",
+    "confidence": [
+      [
+        "AB",
+        -0.13127854
+      ],
+      [
+        "CD",
+        -4.3202e-07
+      ],
+      [
+        "1",
+        -0.00020616286
+      ],
+      [
+        " gene",
+        -0.22980505
+      ]
+    ]
+  },
+  "Defective versions of these can result in RCPD, AMN, and X-linked adrenoleukodystrophy. Another defect results in the inability to metabolize phytanic acid, a condition known as Refsum disease, and it": {
+    "guess": "Peroxisome",
+    "confidence": [
+      [
+        "Per",
+        -0.023395257
+      ],
+      [
+        "ox",
+        -1.9146995e-05
+      ],
+      [
+        "is",
+        -1.147242e-06
+      ],
+      [
+        "ome",
+        -0.1272631
+      ]
+    ]
+  },
+  "Defective versions of these can result in RCPD, AMN, and X-linked adrenoleukodystrophy. Another defect results in the inability to metabolize phytanic acid, a condition known as Refsum disease, and it is also the location where plasmalogen synthesis begins. Some proteins being targeted to this organelle": {
+    "guess": "Peroxisome",
+    "confidence": [
+      [
+        "Per",
+        -0.00014942927
+      ],
+      [
+        "ox",
+        -4.3202e-07
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "ome",
+        -0.00012356207
+      ]
+    ]
+  },
+  "Defective versions of these can result in RCPD, AMN, and X-linked adrenoleukodystrophy. Another defect results in the inability to metabolize phytanic acid, a condition known as Refsum disease, and it is also the location where plasmalogen synthesis begins. Some proteins being targeted to this organelle rely on a string of serine-lysine-leucine residues at the C-terminus, the SLK sequence. Those amino": {
+    "guess": "Peroxisome",
+    "confidence": [
+      [
+        "Per",
+        -0.00073018594
+      ],
+      [
+        "ox",
+        0.0
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "ome",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Defective versions of these can result in RCPD, AMN, and X-linked adrenoleukodystrophy. Another defect results in the inability to metabolize phytanic acid, a condition known as Refsum disease, and it is also the location where plasmalogen synthesis begins. Some proteins being targeted to this organelle rely on a string of serine-lysine-leucine residues at the C-terminus, the SLK sequence. Those amino acids bind to PTSR receptors, defects in which can cause Zellweger syndrome. Fatty acids are oxidized": {
+    "guess": "Peroxisome",
+    "confidence": [
+      [
+        "Per",
+        -2.3438328e-05
+      ],
+      [
+        "ox",
+        0.0
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "ome",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Defective versions of these can result in RCPD, AMN, and X-linked adrenoleukodystrophy. Another defect results in the inability to metabolize phytanic acid, a condition known as Refsum disease, and it is also the location where plasmalogen synthesis begins. Some proteins being targeted to this organelle rely on a string of serine-lysine-leucine residues at the C-terminus, the SLK sequence. Those amino acids bind to PTSR receptors, defects in which can cause Zellweger syndrome. Fatty acids are oxidized to acetyl CoA here, though it is best known for the enzyme catalase. For 10 points, name this": {
+    "guess": "Peroxisome",
+    "confidence": [
+      [
+        "Per",
+        -0.00039897207
+      ],
+      [
+        "ox",
+        0.0
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "ome",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Defective versions of these can result in RCPD, AMN, and X-linked adrenoleukodystrophy. Another defect results in the inability to metabolize phytanic acid, a condition known as Refsum disease, and it is also the location where plasmalogen synthesis begins. Some proteins being targeted to this organelle rely on a string of serine-lysine-leucine residues at the C-terminus, the SLK sequence. Those amino acids bind to PTSR receptors, defects in which can cause Zellweger syndrome. Fatty acids are oxidized to acetyl CoA here, though it is best known for the enzyme catalase. For 10 points, name this organelle that isolates and degrades toxic peroxide species.": {
+    "guess": "Peroxisome",
+    "confidence": [
+      [
+        "Per",
+        -0.0011732018
+      ],
+      [
+        "ox",
+        0.0
+      ],
+      [
+        "is",
+        0.0
+      ],
+      [
+        "ome",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Defects in mannose phosphorylation lead to their failure and I-cell disease, characterized by inclusion": {
+    "guess": "Lysosome",
+    "confidence": [
+      [
+        "L",
+        -0.0032793102
+      ],
+      [
+        "ys",
+        0.0
+      ],
+      [
+        "osome",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "Defects in mannose phosphorylation lead to their failure and I-cell disease, characterized by inclusion bodies similar to those seen in Tay-Sachs disease. In excess, Vitamin A can induce hepatotoxicity": {
+    "guess": "Lysosome",
+    "confidence": [
+      [
+        "L",
+        -0.62888485
+      ],
+      [
+        "ys",
+        -0.0031785443
+      ],
+      [
+        "osome",
+        -6.849731e-05
+      ]
+    ]
+  },
+  "Defects in mannose phosphorylation lead to their failure and I-cell disease, characterized by inclusion bodies similar to those seen in Tay-Sachs disease. In excess, Vitamin A can induce hepatotoxicity by weakening the membrane of these organelles in the liver. This break in their membrane releases hydrolytic": {
+    "guess": "Lysosome",
+    "confidence": [
+      [
+        "L",
+        -0.0003034074
+      ],
+      [
+        "ys",
+        0.0
+      ],
+      [
+        "osome",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Defects in mannose phosphorylation lead to their failure and I-cell disease, characterized by inclusion bodies similar to those seen in Tay-Sachs disease. In excess, Vitamin A can induce hepatotoxicity by weakening the membrane of these organelles in the liver. This break in their membrane releases hydrolytic enzymes, which cause the death of the cell. FTP, name these organelles active during apoptosis,": {
+    "guess": "Lysosome",
+    "confidence": [
+      [
+        "L",
+        -0.0010380488
+      ],
+      [
+        "ys",
+        0.0
+      ],
+      [
+        "osome",
+        -1.4855664e-05
+      ]
+    ]
+  },
+  "Defects in mannose phosphorylation lead to their failure and I-cell disease, characterized by inclusion bodies similar to those seen in Tay-Sachs disease. In excess, Vitamin A can induce hepatotoxicity by weakening the membrane of these organelles in the liver. This break in their membrane releases hydrolytic enzymes, which cause the death of the cell. FTP, name these organelles active during apoptosis, which act as the digestive system of the cell.": {
+    "guess": "Lysosome",
+    "confidence": [
+      [
+        "L",
+        -0.014927627
+      ],
+      [
+        "ys",
+        0.0
+      ],
+      [
+        "osome",
+        -1.0445127e-05
+      ]
+    ]
+  },
+  "These are defined by the presence or absence of a \"sticky site\" for an endonuclease, and are generally": {
+    "guess": "Restriction enzyme recognition sites",
+    "confidence": [
+      [
+        "Restriction",
+        -0.056573626
+      ],
+      [
+        " enzyme",
+        -0.44030935
+      ],
+      [
+        " recognition",
+        -0.043109383
+      ],
+      [
+        " sites",
+        -0.6933744
+      ]
+    ]
+  },
+  "These are defined by the presence or absence of a \"sticky site\" for an endonuclease, and are generally named for the endonucleases used to create them, so common types include BamHI and Mspl.  These indicators": {
+    "guess": "Restriction fragment length polymorphism",
+    "confidence": [
+      [
+        "Restriction",
+        -0.12965089
+      ],
+      [
+        " fragment",
+        -0.5835747
+      ],
+      [
+        " length",
+        -0.0005263421
+      ],
+      [
+        " polym",
+        0.0
+      ],
+      [
+        "orphism",
+        -0.20141363
+      ]
+    ]
+  },
+  "These are defined by the presence or absence of a \"sticky site\" for an endonuclease, and are generally named for the endonucleases used to create them, so common types include BamHI and Mspl.  These indicators are mainly found in non-coding genetic material, so their discovery greatly expanded the fraction": {
+    "guess": "Restriction fragment length polymorphism",
+    "confidence": [
+      [
+        "Restriction",
+        -0.0063978503
+      ],
+      [
+        " fragment",
+        -0.16733164
+      ],
+      [
+        " length",
+        -0.00017183588
+      ],
+      [
+        " polym",
+        0.0
+      ],
+      [
+        "orphism",
+        -0.12692904
+      ]
+    ]
+  },
+  "These are defined by the presence or absence of a \"sticky site\" for an endonuclease, and are generally named for the endonucleases used to create them, so common types include BamHI and Mspl.  These indicators are mainly found in non-coding genetic material, so their discovery greatly expanded the fraction of the genome that could be analyzed.  Many, but not all, of them arise from single nucleotide": {
+    "guess": "Restriction fragment length polymorphism",
+    "confidence": [
+      [
+        "Restriction",
+        -0.022044512
+      ],
+      [
+        " fragment",
+        -0.20242946
+      ],
+      [
+        " length",
+        -2.0935051e-05
+      ],
+      [
+        " polym",
+        0.0
+      ],
+      [
+        "orphism",
+        -0.6326004
+      ]
+    ]
+  },
+  "These are defined by the presence or absence of a \"sticky site\" for an endonuclease, and are generally named for the endonucleases used to create them, so common types include BamHI and Mspl.  These indicators are mainly found in non-coding genetic material, so their discovery greatly expanded the fraction of the genome that could be analyzed.  Many, but not all, of them arise from single nucleotide polymorphisms, and they comprise the major DNA markers, along with VNTR's and microsatellite polymorphisms.": {
+    "guess": "Restriction fragment length polymorphism",
+    "confidence": [
+      [
+        "Restriction",
+        -0.38731447
+      ],
+      [
+        " fragment",
+        -0.0019329203
+      ],
+      [
+        " length",
+        -1.1637165e-05
+      ],
+      [
+        " polym",
+        0.0
+      ],
+      [
+        "orphism",
+        -0.033646043
+      ]
+    ]
+  },
+  "These are defined by the presence or absence of a \"sticky site\" for an endonuclease, and are generally named for the endonucleases used to create them, so common types include BamHI and Mspl.  These indicators are mainly found in non-coding genetic material, so their discovery greatly expanded the fraction of the genome that could be analyzed.  Many, but not all, of them arise from single nucleotide polymorphisms, and they comprise the major DNA markers, along with VNTR's and microsatellite polymorphisms.  FTP, name these DNA markers that may be analyzed by Southern blotting and that are defined": {
+    "guess": "Restriction fragment length polymorphisms",
+    "confidence": [
+      [
+        "Restriction",
+        -0.38863388
+      ],
+      [
+        " fragment",
+        -0.002479939
+      ],
+      [
+        " length",
+        -8.657073e-06
+      ],
+      [
+        " polym",
+        0.0
+      ],
+      [
+        "orph",
+        -0.63260037
+      ],
+      [
+        "isms",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "These are defined by the presence or absence of a \"sticky site\" for an endonuclease, and are generally named for the endonucleases used to create them, so common types include BamHI and Mspl.  These indicators are mainly found in non-coding genetic material, so their discovery greatly expanded the fraction of the genome that could be analyzed.  Many, but not all, of them arise from single nucleotide polymorphisms, and they comprise the major DNA markers, along with VNTR's and microsatellite polymorphisms.  FTP, name these DNA markers that may be analyzed by Southern blotting and that are defined as differences in nucleic acid sequences that give rise to different fragment lengths under the action": {
+    "guess": "Restriction fragment length polymorphisms",
+    "confidence": [
+      [
+        "Restriction",
+        -0.5774622
+      ],
+      [
+        " fragment",
+        -0.023246527
+      ],
+      [
+        " length",
+        -7.89631e-07
+      ],
+      [
+        " polym",
+        0.0
+      ],
+      [
+        "orph",
+        -0.34844512
+      ],
+      [
+        "isms",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "These are defined by the presence or absence of a \"sticky site\" for an endonuclease, and are generally named for the endonucleases used to create them, so common types include BamHI and Mspl.  These indicators are mainly found in non-coding genetic material, so their discovery greatly expanded the fraction of the genome that could be analyzed.  Many, but not all, of them arise from single nucleotide polymorphisms, and they comprise the major DNA markers, along with VNTR's and microsatellite polymorphisms.  FTP, name these DNA markers that may be analyzed by Southern blotting and that are defined as differences in nucleic acid sequences that give rise to different fragment lengths under the action of a restriction enzyme.": {
+    "guess": "Restriction fragment length polymorphisms",
+    "confidence": [
+      [
+        "Restriction",
+        -0.252351
+      ],
+      [
+        " fragment",
+        -0.023245713
+      ],
+      [
+        " length",
+        -3.1281633e-07
+      ],
+      [
+        " polym",
+        0.0
+      ],
+      [
+        "orph",
+        -0.6931474
+      ],
+      [
+        "isms",
+        -0.00029685118
+      ]
+    ]
+  },
+  "After defeating a revolt led by Conrad the Red, this ruler allied the crown with the Catholic Church,": {
+    "guess": "Otto I, Holy Roman Emperor",
+    "confidence": [
+      [
+        "Ot",
+        -0.00016730615
+      ],
+      [
+        "to",
+        -3.7697225e-06
+      ],
+      [
+        " I",
+        -0.0007104054
+      ],
+      [
+        ",",
+        -0.00782026
+      ],
+      [
+        " Holy",
+        0.0
+      ],
+      [
+        " Roman",
+        0.0
+      ],
+      [
+        " Emperor",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "After defeating a revolt led by Conrad the Red, this ruler allied the crown with the Catholic Church, greatly increasing royal power.  He married Edith and Adelaide, whom he rescued from a marriage with": {
+    "guess": "Otto I, Holy Roman Emperor",
+    "confidence": [
+      [
+        "Ot",
+        -0.005315462
+      ],
+      [
+        "to",
+        -4.3202e-07
+      ],
+      [
+        " I",
+        -0.04858964
+      ],
+      [
+        ",",
+        -0.003662668
+      ],
+      [
+        " Holy",
+        0.0
+      ],
+      [
+        " Roman",
+        0.0
+      ],
+      [
+        " Emperor",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "After defeating a revolt led by Conrad the Red, this ruler allied the crown with the Catholic Church, greatly increasing royal power.  He married Edith and Adelaide, whom he rescued from a marriage with Berengar II, and had three children, one of whom reigned after him.  This king also defeated the Magyars": {
+    "guess": "Otto the Great",
+    "confidence": [
+      [
+        "Ot",
+        -0.00914462
+      ],
+      [
+        "to",
+        -6.704273e-07
+      ],
+      [
+        " the",
+        -0.003602202
+      ],
+      [
+        " Great",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "After defeating a revolt led by Conrad the Red, this ruler allied the crown with the Catholic Church, greatly increasing royal power.  He married Edith and Adelaide, whom he rescued from a marriage with Berengar II, and had three children, one of whom reigned after him.  This king also defeated the Magyars in the Lechfeld in 955.  FTP, identify this son of Henry the Fowler crowned emperor in 962 by": {
+    "guess": "Otto the Great",
+    "confidence": [
+      [
+        "Ot",
+        -0.00024144349
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " the",
+        -9.615256e-05
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "After defeating a revolt led by Conrad the Red, this ruler allied the crown with the Catholic Church, greatly increasing royal power.  He married Edith and Adelaide, whom he rescued from a marriage with Berengar II, and had three children, one of whom reigned after him.  This king also defeated the Magyars in the Lechfeld in 955.  FTP, identify this son of Henry the Fowler crowned emperor in 962 by John XII, often considered the first Holy Roman Emperor.": {
+    "guess": "Otto the Great",
+    "confidence": [
+      [
+        "Ot",
+        -0.0004914338
+      ],
+      [
+        "to",
+        0.0
+      ],
+      [
+        " the",
+        -0.0009115827
+      ],
+      [
+        " Great",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man was defeated by George Clinton for the position of Governor of New York. He succeeded his rival": {
+    "guess": "Morgan Lewis (governor)",
+    "confidence": [
+      [
+        "Morgan",
+        -0.52597135
+      ],
+      [
+        " Lewis",
+        0.0
+      ],
+      [
+        " (",
+        -0.4741711
+      ],
+      [
+        "go",
+        -0.017274633
+      ],
+      [
+        "vern",
+        -1.9361265e-07
+      ],
+      [
+        "or",
+        0.0
+      ],
+      [
+        ")",
+        -0.0025484352
+      ]
+    ]
+  },
+  "This man was defeated by George Clinton for the position of Governor of New York. He succeeded his rival Henry Laurens as President of the Continental Congress. His court heard, but never ruled on, the": {
+    "guess": "Jay Court",
+    "confidence": [
+      [
+        "Jay",
+        -0.180741
+      ],
+      [
+        " Court",
+        -0.52631634
+      ]
+    ]
+  },
+  "This man was defeated by George Clinton for the position of Governor of New York. He succeeded his rival Henry Laurens as President of the Continental Congress. His court heard, but never ruled on, the case known as Hayburn's Case. He was the chief negotiator of a treaty in which the United States gave": {
+    "guess": "John Jay",
+    "confidence": [
+      [
+        "John",
+        -0.0002937519
+      ],
+      [
+        " Jay",
+        0.0
+      ]
+    ]
+  },
+  "This man was defeated by George Clinton for the position of Governor of New York. He succeeded his rival Henry Laurens as President of the Continental Congress. His court heard, but never ruled on, the case known as Hayburn's Case. He was the chief negotiator of a treaty in which the United States gave most favored nation status to Great Britain in return for Britain agreeing to evacuate the six western": {
+    "guess": "John Jay",
+    "confidence": [
+      [
+        "John",
+        -0.0036604067
+      ],
+      [
+        " Jay",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This man was defeated by George Clinton for the position of Governor of New York. He succeeded his rival Henry Laurens as President of the Continental Congress. His court heard, but never ruled on, the case known as Hayburn's Case. He was the chief negotiator of a treaty in which the United States gave most favored nation status to Great Britain in return for Britain agreeing to evacuate the six western (*) forts by 1796, a treaty which bears his name. Along with Alexander Hamilton and James Madison,": {
+    "guess": "John Jay",
+    "confidence": [
+      [
+        "John",
+        -0.09647644
+      ],
+      [
+        " Jay",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "This man was defeated by George Clinton for the position of Governor of New York. He succeeded his rival Henry Laurens as President of the Continental Congress. His court heard, but never ruled on, the case known as Hayburn's Case. He was the chief negotiator of a treaty in which the United States gave most favored nation status to Great Britain in return for Britain agreeing to evacuate the six western (*) forts by 1796, a treaty which bears his name. Along with Alexander Hamilton and James Madison, he wrote the Federalist Papers. For 10 points, name this first Chief Justice of the United States.": {
+    "guess": "John Jay",
+    "confidence": [
+      [
+        "John",
+        -0.030140132
+      ],
+      [
+        " Jay",
+        0.0
+      ]
+    ]
+  },
+  "A defector from this man's regime later published the book Red Horizons, which detailed many of this\n": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -7.886803e-05
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        -7.493431e-05
+      ],
+      [
+        "au",
+        -1.9361265e-07
+      ],
+      [
+        "\u0219",
+        -6.9882217e-06
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "A defector from this man's regime later published the book Red Horizons, which detailed many of this\n ruler's shadowy operations. Salvador Dali complimented this man on his use of a scepter. This man\n": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -3.7146747e-05
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        -2.1008714e-06
+      ],
+      [
+        "au",
+        0.0
+      ],
+      [
+        "\u0219",
+        -1.2664457e-06
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "A defector from this man's regime later published the book Red Horizons, which detailed many of this\n ruler's shadowy operations. Salvador Dali complimented this man on his use of a scepter. This man\n advocated youth involvement in construction and got rid of collegiate sociology programs as part of": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -0.00012833021
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        -3.4121115e-06
+      ],
+      [
+        "au",
+        -1.9361265e-07
+      ],
+      [
+        "\u0219",
+        -2.9352968e-06
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "A defector from this man's regime later published the book Red Horizons, which detailed many of this\n ruler's shadowy operations. Salvador Dali complimented this man on his use of a scepter. This man\n advocated youth involvement in construction and got rid of collegiate sociology programs as part of his\n \"July Theses\". Another of his policies declared mothers who had more than 10 children as \"heroines\"": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -2.7014437e-05
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        -1.0280384e-06
+      ],
+      [
+        "au",
+        0.0
+      ],
+      [
+        "\u0219",
+        -4.246537e-06
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "A defector from this man's regime later published the book Red Horizons, which detailed many of this\n ruler's shadowy operations. Salvador Dali complimented this man on his use of a scepter. This man\n advocated youth involvement in construction and got rid of collegiate sociology programs as part of his\n \"July Theses\". Another of his policies declared mothers who had more than 10 children as \"heroines\" and\n outlawed most cases of abortion. This man's downfall came after he attempted to remove Laszlo": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -9.221884e-05
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        -6.9882217e-06
+      ],
+      [
+        "au",
+        -1.9361265e-07
+      ],
+      [
+        "\u0219",
+        -3.7697225e-06
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "A defector from this man's regime later published the book Red Horizons, which detailed many of this\n ruler's shadowy operations. Salvador Dali complimented this man on his use of a scepter. This man\n advocated youth involvement in construction and got rid of collegiate sociology programs as part of his\n \"July Theses\". Another of his policies declared mothers who had more than 10 children as \"heroines\" and\n outlawed most cases of abortion. This man's downfall came after he attempted to remove Laszlo Tokes\n from his position as a pastor in Timisora, and he succeeded Gheorghe Gheorghiu-Dej as the": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -0.0007431608
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        0.0
+      ],
+      [
+        "au",
+        0.0
+      ],
+      [
+        "\u0219",
+        -4.3202e-07
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "A defector from this man's regime later published the book Red Horizons, which detailed many of this\n ruler's shadowy operations. Salvador Dali complimented this man on his use of a scepter. This man\n advocated youth involvement in construction and got rid of collegiate sociology programs as part of his\n \"July Theses\". Another of his policies declared mothers who had more than 10 children as \"heroines\" and\n outlawed most cases of abortion. This man's downfall came after he attempted to remove Laszlo Tokes\n from his position as a pastor in Timisora, and he succeeded Gheorghe Gheorghiu-Dej as the General\n Secretary of his nation's Communist Party. For 10 points, name this man who was executed along": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -0.00048274655
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        0.0
+      ],
+      [
+        "au",
+        0.0
+      ],
+      [
+        "\u0219",
+        -5.5122365e-07
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "A defector from this man's regime later published the book Red Horizons, which detailed many of this\n ruler's shadowy operations. Salvador Dali complimented this man on his use of a scepter. This man\n advocated youth involvement in construction and got rid of collegiate sociology programs as part of his\n \"July Theses\". Another of his policies declared mothers who had more than 10 children as \"heroines\" and\n outlawed most cases of abortion. This man's downfall came after he attempted to remove Laszlo Tokes\n from his position as a pastor in Timisora, and he succeeded Gheorghe Gheorghiu-Dej as the General\n Secretary of his nation's Communist Party. For 10 points, name this man who was executed along with his\n wife Elena on Christmas Day, 1989, the communist dictator of Romania.": {
+    "guess": "Nicolae Ceau\u0219escu",
+    "confidence": [
+      [
+        "Nic",
+        -0.00081534684
+      ],
+      [
+        "ola",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ],
+      [
+        " Ce",
+        0.0
+      ],
+      [
+        "au",
+        0.0
+      ],
+      [
+        "\u0219",
+        -4.3202e-07
+      ],
+      [
+        "escu",
+        0.0
+      ]
+    ]
+  },
+  "After defeating an invading force from Mesopotamia that kidnapped his nephew, this man was blessed by": {
+    "guess": "Abraham",
+    "confidence": [
+      [
+        "Ab",
+        -0.6002318
+      ],
+      [
+        "raham",
+        -8.657073e-06
+      ]
+    ]
+  },
+  "After defeating an invading force from Mesopotamia that kidnapped his nephew, this man was blessed by the king of Salem, named Melchizedek. Because of his wife's beauty, he lied that they were siblings,": {
+    "guess": "Abraham",
+    "confidence": [
+      [
+        "Ab",
+        -0.00017994174
+      ],
+      [
+        "raham",
+        0.0
+      ]
+    ]
+  },
+  "After defeating an invading force from Mesopotamia that kidnapped his nephew, this man was blessed by the king of Salem, named Melchizedek. Because of his wife's beauty, he lied that they were siblings, which caused both Pharoah and Abilimech to try to marry her. This man died five years early to be": {
+    "guess": "Abraham",
+    "confidence": [
+      [
+        "Ab",
+        -0.0024946835
+      ],
+      [
+        "raham",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "After defeating an invading force from Mesopotamia that kidnapped his nephew, this man was blessed by the king of Salem, named Melchizedek. Because of his wife's beauty, he lied that they were siblings, which caused both Pharoah and Abilimech to try to marry her. This man died five years early to be spared of the pain of seeing the sale of his grandson Esau's birthright. This man's wife was infertile": {
+    "guess": "Isaac",
+    "confidence": [
+      [
+        "Isa",
+        -0.5862735
+      ],
+      [
+        "ac",
+        0.0
+      ]
+    ]
+  },
+  "After defeating an invading force from Mesopotamia that kidnapped his nephew, this man was blessed by the king of Salem, named Melchizedek. Because of his wife's beauty, he lied that they were siblings, which caused both Pharoah and Abilimech to try to marry her. This man died five years early to be spared of the pain of seeing the sale of his grandson Esau's birthright. This man's wife was infertile so he laid with his handmaiden Hagar. For 10 points, name this Biblical figure who almost sacrificed": {
+    "guess": "Abraham",
+    "confidence": [
+      [
+        "Ab",
+        -4.9305523e-05
+      ],
+      [
+        "raham",
+        0.0
+      ]
+    ]
+  },
+  "After defeating an invading force from Mesopotamia that kidnapped his nephew, this man was blessed by the king of Salem, named Melchizedek. Because of his wife's beauty, he lied that they were siblings, which caused both Pharoah and Abilimech to try to marry her. This man died five years early to be spared of the pain of seeing the sale of his grandson Esau's birthright. This man's wife was infertile so he laid with his handmaiden Hagar. For 10 points, name this Biblical figure who almost sacrificed his son Isaac to God on Mount Horeb and whose name means \"father of many nations,\" the patriarch": {
+    "guess": "Abraham",
+    "confidence": [
+      [
+        "Ab",
+        -0.06299215
+      ],
+      [
+        "raham",
+        0.0
+      ]
+    ]
+  },
+  "After defeating an invading force from Mesopotamia that kidnapped his nephew, this man was blessed by the king of Salem, named Melchizedek. Because of his wife's beauty, he lied that they were siblings, which caused both Pharoah and Abilimech to try to marry her. This man died five years early to be spared of the pain of seeing the sale of his grandson Esau's birthright. This man's wife was infertile so he laid with his handmaiden Hagar. For 10 points, name this Biblical figure who almost sacrificed his son Isaac to God on Mount Horeb and whose name means \"father of many nations,\" the patriarch of Islam, Christianity, and Judaism.": {
+    "guess": "Abraham",
+    "confidence": [
+      [
+        "Ab",
+        -0.01871369
+      ],
+      [
+        "raham",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated an enemy of Taxiles at a location now known as the Jhelum [JEY-luhm] River. A conspiracy": {
+    "guess": "Alexander the Great",
+    "confidence": [
+      [
+        "Alexander",
+        -0.0030258407
+      ],
+      [
+        " the",
+        -1.60477e-05
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated an enemy of Taxiles at a location now known as the Jhelum [JEY-luhm] River. A conspiracy to kill this man led to the executions of Philotas and Parmenion. His friend Hephaestion died": {
+    "guess": "Alexander the Great",
+    "confidence": [
+      [
+        "Alexander",
+        -0.0345819
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated an enemy of Taxiles at a location now known as the Jhelum [JEY-luhm] River. A conspiracy to kill this man led to the executions of Philotas and Parmenion. His friend Hephaestion died at Ecbatana [ek-BAH-tah-nah], and he regretted murdering Cleitus, who saved his life at the Battle of": {
+    "guess": "Alexander the Great",
+    "confidence": [
+      [
+        "Alexander",
+        -0.02114608
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated an enemy of Taxiles at a location now known as the Jhelum [JEY-luhm] River. A conspiracy to kill this man led to the executions of Philotas and Parmenion. His friend Hephaestion died at Ecbatana [ek-BAH-tah-nah], and he regretted murdering Cleitus, who saved his life at the Battle of the Granicus River. This man helped his father at the Battle of Chaeronea [ker-uh-NEE-uh], and his": {
+    "guess": "Alexander the Great",
+    "confidence": [
+      [
+        "Alexander",
+        -0.008448973
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated an enemy of Taxiles at a location now known as the Jhelum [JEY-luhm] River. A conspiracy to kill this man led to the executions of Philotas and Parmenion. His friend Hephaestion died at Ecbatana [ek-BAH-tah-nah], and he regretted murdering Cleitus, who saved his life at the Battle of the Granicus River. This man helped his father at the Battle of Chaeronea [ker-uh-NEE-uh], and his rival successors were known as the Diadochi. This man defeated Darius III at the battles of Gaugamela": {
+    "guess": "Alexander the Great",
+    "confidence": [
+      [
+        "Alexander",
+        -0.0009099139
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated an enemy of Taxiles at a location now known as the Jhelum [JEY-luhm] River. A conspiracy to kill this man led to the executions of Philotas and Parmenion. His friend Hephaestion died at Ecbatana [ek-BAH-tah-nah], and he regretted murdering Cleitus, who saved his life at the Battle of the Granicus River. This man helped his father at the Battle of Chaeronea [ker-uh-NEE-uh], and his rival successors were known as the Diadochi. This man defeated Darius III at the battles of Gaugamela and Issus [IS-uhs] in the fourth century BC. For 10 points, name this son of Philip II of Macedon": {
+    "guess": "Alexander the Great",
+    "confidence": [
+      [
+        "Alexander",
+        -0.029785786
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated an enemy of Taxiles at a location now known as the Jhelum [JEY-luhm] River. A conspiracy to kill this man led to the executions of Philotas and Parmenion. His friend Hephaestion died at Ecbatana [ek-BAH-tah-nah], and he regretted murdering Cleitus, who saved his life at the Battle of the Granicus River. This man helped his father at the Battle of Chaeronea [ker-uh-NEE-uh], and his rival successors were known as the Diadochi. This man defeated Darius III at the battles of Gaugamela and Issus [IS-uhs] in the fourth century BC. For 10 points, name this son of Philip II of Macedon who rode the horse Bucephalus, and cut the Gordian knot.": {
+    "guess": "Alexander the Great",
+    "confidence": [
+      [
+        "Alexander",
+        -0.00026610398
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Great",
+        0.0
+      ]
+    ]
+  },
+  "He defeated James Campbell and Lawrence Neal in elections for governor, and his lone appointment to the": {
+    "guess": "William McKinley",
+    "confidence": [
+      [
+        "William",
+        -0.0557428
+      ],
+      [
+        " Mc",
+        -3.1281633e-07
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        -2.2007884e-05
+      ]
+    ]
+  },
+  "He defeated James Campbell and Lawrence Neal in elections for governor, and his lone appointment to the Supreme Court was Joseph McKenna.  During his presidency the Maximum Freight Case was decided, and": {
+    "guess": "William McKinley",
+    "confidence": [
+      [
+        "William",
+        -0.103139065
+      ],
+      [
+        " Mc",
+        0.0
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ]
+    ]
+  },
+  "He defeated James Campbell and Lawrence Neal in elections for governor, and his lone appointment to the Supreme Court was Joseph McKenna.  During his presidency the Maximum Freight Case was decided, and this president signed the Gold Standard Act into law. He was criticized for his nomination of the": {
+    "guess": "William McKinley",
+    "confidence": [
+      [
+        "William",
+        -0.031622626
+      ],
+      [
+        " Mc",
+        0.0
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ]
+    ]
+  },
+  "He defeated James Campbell and Lawrence Neal in elections for governor, and his lone appointment to the Supreme Court was Joseph McKenna.  During his presidency the Maximum Freight Case was decided, and this president signed the Gold Standard Act into law. He was criticized for his nomination of the possibly senile John Sherman to Secretary of State.  Campaigning on the slogan \"prosperity at home and": {
+    "guess": "William McKinley",
+    "confidence": [
+      [
+        "William",
+        -0.00048179293
+      ],
+      [
+        " Mc",
+        0.0
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ]
+    ]
+  },
+  "He defeated James Campbell and Lawrence Neal in elections for governor, and his lone appointment to the Supreme Court was Joseph McKenna.  During his presidency the Maximum Freight Case was decided, and this president signed the Gold Standard Act into law. He was criticized for his nomination of the possibly senile John Sherman to Secretary of State.  Campaigning on the slogan \"prosperity at home and prestige abroad\", his administration would win what later Secretary of State John Hay called a \"splendid": {
+    "guess": "William McKinley",
+    "confidence": [
+      [
+        "William",
+        -0.0006052183
+      ],
+      [
+        " Mc",
+        0.0
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ]
+    ]
+  },
+  "He defeated James Campbell and Lawrence Neal in elections for governor, and his lone appointment to the Supreme Court was Joseph McKenna.  During his presidency the Maximum Freight Case was decided, and this president signed the Gold Standard Act into law. He was criticized for his nomination of the possibly senile John Sherman to Secretary of State.  Campaigning on the slogan \"prosperity at home and prestige abroad\", his administration would win what later Secretary of State John Hay called a \"splendid little war\".  Elected in large part due to the work of his campaign manager Mark Hanna and signer": {
+    "guess": "William McKinley",
+    "confidence": [
+      [
+        "William",
+        -3.1544176e-05
+      ],
+      [
+        " Mc",
+        0.0
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ]
+    ]
+  },
+  "He defeated James Campbell and Lawrence Neal in elections for governor, and his lone appointment to the Supreme Court was Joseph McKenna.  During his presidency the Maximum Freight Case was decided, and this president signed the Gold Standard Act into law. He was criticized for his nomination of the possibly senile John Sherman to Secretary of State.  Campaigning on the slogan \"prosperity at home and prestige abroad\", his administration would win what later Secretary of State John Hay called a \"splendid little war\".  Elected in large part due to the work of his campaign manager Mark Hanna and signer of the Dingley Tariff, this is, for 10 points, what president who served during the Spanish-American": {
+    "guess": "William McKinley",
+    "confidence": [
+      [
+        "William",
+        -1.342522e-05
+      ],
+      [
+        " Mc",
+        0.0
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ]
+    ]
+  },
+  "He defeated James Campbell and Lawrence Neal in elections for governor, and his lone appointment to the Supreme Court was Joseph McKenna.  During his presidency the Maximum Freight Case was decided, and this president signed the Gold Standard Act into law. He was criticized for his nomination of the possibly senile John Sherman to Secretary of State.  Campaigning on the slogan \"prosperity at home and prestige abroad\", his administration would win what later Secretary of State John Hay called a \"splendid little war\".  Elected in large part due to the work of his campaign manager Mark Hanna and signer of the Dingley Tariff, this is, for 10 points, what president who served during the Spanish-American War and whose assassination in Buffalo led to Theodore Roosevelt's presidency?": {
+    "guess": "William McKinley",
+    "confidence": [
+      [
+        "William",
+        -9.72254e-05
+      ],
+      [
+        " Mc",
+        0.0
+      ],
+      [
+        "Kin",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ]
+    ]
+  },
+  "This man defended the British soldiers accused of carrying out the Boston Massacre. In the First Continental": {
+    "guess": "John Adams",
+    "confidence": [
+      [
+        "John",
+        -0.020395897
+      ],
+      [
+        " Adams",
+        0.0
+      ]
+    ]
+  },
+  "This man defended the British soldiers accused of carrying out the Boston Massacre. In the First Continental Congress, this man nominated George Washington to be commander of the Continental Army. This": {
+    "guess": "John Adams",
+    "confidence": [
+      [
+        "John",
+        -0.00010318558
+      ],
+      [
+        " Adams",
+        0.0
+      ]
+    ]
+  },
+  "This man defended the British soldiers accused of carrying out the Boston Massacre. In the First Continental Congress, this man nominated George Washington to be commander of the Continental Army. This politician appointed Thomas Jefferson to write the Declaration of Independence. During this man's presidency,": {
+    "guess": "John Adams",
+    "confidence": [
+      [
+        "John",
+        -0.00013977377
+      ],
+      [
+        " Adams",
+        0.0
+      ]
+    ]
+  },
+  "This man defended the British soldiers accused of carrying out the Boston Massacre. In the First Continental Congress, this man nominated George Washington to be commander of the Continental Army. This politician appointed Thomas Jefferson to write the Declaration of Independence. During this man's presidency, the Quasi-War with France occurred, having been sparked by the XYZ affair. The Alien and": {
+    "guess": "John Adams",
+    "confidence": [
+      [
+        "John",
+        -0.03373583
+      ],
+      [
+        " Adams",
+        0.0
+      ]
+    ]
+  },
+  "This man defended the British soldiers accused of carrying out the Boston Massacre. In the First Continental Congress, this man nominated George Washington to be commander of the Continental Army. This politician appointed Thomas Jefferson to write the Declaration of Independence. During this man's presidency, the Quasi-War with France occurred, having been sparked by the XYZ affair. The Alien and Sedition Acts were passed by, for 10 points, what Federalist president, the second president of the": {
+    "guess": "John Adams",
+    "confidence": [
+      [
+        "John",
+        -0.011118565
+      ],
+      [
+        " Adams",
+        0.0
+      ]
+    ]
+  },
+  "This man defended the British soldiers accused of carrying out the Boston Massacre. In the First Continental Congress, this man nominated George Washington to be commander of the Continental Army. This politician appointed Thomas Jefferson to write the Declaration of Independence. During this man's presidency, the Quasi-War with France occurred, having been sparked by the XYZ affair. The Alien and Sedition Acts were passed by, for 10 points, what Federalist president, the second president of the United States?": {
+    "guess": "John Adams",
+    "confidence": [
+      [
+        "John",
+        -0.0001530017
+      ],
+      [
+        " Adams",
+        0.0
+      ]
+    ]
+  },
+  "This man defended his poetry by writing \"Kill my style/and you break Pavlowa's legs/and you blind Ty": {
+    "guess": "E. E. Cummings",
+    "confidence": [
+      [
+        "E",
+        -1.1043874
+      ],
+      [
+        ".",
+        -0.01816235
+      ],
+      [
+        " E",
+        -4.3202e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " C",
+        -1.3856493e-06
+      ],
+      [
+        "ummings",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This man defended his poetry by writing \"Kill my style/and you break Pavlowa's legs/and you blind Ty Cobb's batting eye.\" He wrote a poem in which he notes that the title place is wicked because he has": {
+    "guess": "E. E. Cummings",
+    "confidence": [
+      [
+        "E",
+        -1.1703871
+      ],
+      [
+        ".",
+        -0.0011741555
+      ],
+      [
+        " E",
+        -4.3202e-07
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " C",
+        -2.1008714e-06
+      ],
+      [
+        "ummings",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man defended his poetry by writing \"Kill my style/and you break Pavlowa's legs/and you blind Ty Cobb's batting eye.\" He wrote a poem in which he notes that the title place is wicked because he has \"\u2026.seen your painted women and the gas lamps luring the farm boys.\" This man wrote a collection of": {
+    "guess": "Carl Sandburg",
+    "confidence": [
+      [
+        "Carl",
+        -0.123043664
+      ],
+      [
+        " Sand",
+        -4.3202e-07
+      ],
+      [
+        "burg",
+        0.0
+      ]
+    ]
+  },
+  "This man defended his poetry by writing \"Kill my style/and you break Pavlowa's legs/and you blind Ty Cobb's batting eye.\" He wrote a poem in which he notes that the title place is wicked because he has \"\u2026.seen your painted women and the gas lamps luring the farm boys.\" This man wrote a collection of children's tales called (*) Rutabaga Stories, and described the \"War Years\" and \"Prairie Years\" of one": {
+    "guess": "Carl Sandburg",
+    "confidence": [
+      [
+        "Carl",
+        -0.006132134
+      ],
+      [
+        " Sand",
+        -1.9361265e-07
+      ],
+      [
+        "burg",
+        0.0
+      ]
+    ]
+  },
+  "This man defended his poetry by writing \"Kill my style/and you break Pavlowa's legs/and you blind Ty Cobb's batting eye.\" He wrote a poem in which he notes that the title place is wicked because he has \"\u2026.seen your painted women and the gas lamps luring the farm boys.\" This man wrote a collection of children's tales called (*) Rutabaga Stories, and described the \"War Years\" and \"Prairie Years\" of one of his subjects. For 10 points, name this biographer of Abraham Lincoln and the poet of \"Chicago.\"": {
+    "guess": "Carl Sandburg",
+    "confidence": [
+      [
+        "Carl",
+        -0.00042114028
+      ],
+      [
+        " Sand",
+        0.0
+      ],
+      [
+        "burg",
+        0.0
+      ]
+    ]
+  },
+  "This man defined the three types of furniture to be \"type-needs,\" \"human-limb,\" and \"type-furniture\"": {
+    "guess": "Le Corbusier",
+    "confidence": [
+      [
+        "Le",
+        -0.10844721
+      ],
+      [
+        " Cor",
+        -1.3663626e-05
+      ],
+      [
+        "bus",
+        0.0
+      ],
+      [
+        "ier",
+        0.0
+      ]
+    ]
+  },
+  "This man defined the three types of furniture to be \"type-needs,\" \"human-limb,\" and \"type-furniture\" in his book The Decorative Art of Today, and he designed a set of tubular steel chairs for the Maison": {
+    "guess": "Le Corbusier",
+    "confidence": [
+      [
+        "Le",
+        -0.014934438
+      ],
+      [
+        " Cor",
+        0.0
+      ],
+      [
+        "bus",
+        0.0
+      ],
+      [
+        "ier",
+        0.0
+      ]
+    ]
+  },
+  "This man defined the three types of furniture to be \"type-needs,\" \"human-limb,\" and \"type-furniture\" in his book The Decorative Art of Today, and he designed a set of tubular steel chairs for the Maison la Roche. He used the ideas of the Vitruvian man and the golden mean in his Modulor system, exemplified": {
+    "guess": "Le Corbusier",
+    "confidence": [
+      [
+        "Le",
+        -0.13797583
+      ],
+      [
+        " Cor",
+        -1.504853e-06
+      ],
+      [
+        "bus",
+        0.0
+      ],
+      [
+        "ier",
+        0.0
+      ]
+    ]
+  },
+  "This man defined the three types of furniture to be \"type-needs,\" \"human-limb,\" and \"type-furniture\" in his book The Decorative Art of Today, and he designed a set of tubular steel chairs for the Maison la Roche. He used the ideas of the Vitruvian man and the golden mean in his Modulor system, exemplified in the Villa Garche. Father Courtier sponsored his priory at La Tourette and his Notre Dame du": {
+    "guess": "Le Corbusier",
+    "confidence": [
+      [
+        "Le",
+        -0.009423952
+      ],
+      [
+        " Cor",
+        -1.9361265e-07
+      ],
+      [
+        "bus",
+        0.0
+      ],
+      [
+        "ier",
+        0.0
+      ]
+    ]
+  },
+  "This man defined the three types of furniture to be \"type-needs,\" \"human-limb,\" and \"type-furniture\" in his book The Decorative Art of Today, and he designed a set of tubular steel chairs for the Maison la Roche. He used the ideas of the Vitruvian man and the golden mean in his Modulor system, exemplified in the Villa Garche. Father Courtier sponsored his priory at La Tourette and his Notre Dame du Haut. The \"five points\" he outlined in Towards A New Architecture were put into practice in the piloti-supported": {
+    "guess": "Le Corbusier",
+    "confidence": [
+      [
+        "Le",
+        -0.0035970984
+      ],
+      [
+        " Cor",
+        0.0
+      ],
+      [
+        "bus",
+        0.0
+      ],
+      [
+        "ier",
+        0.0
+      ]
+    ]
+  },
+  "This man defined the three types of furniture to be \"type-needs,\" \"human-limb,\" and \"type-furniture\" in his book The Decorative Art of Today, and he designed a set of tubular steel chairs for the Maison la Roche. He used the ideas of the Vitruvian man and the golden mean in his Modulor system, exemplified in the Villa Garche. Father Courtier sponsored his priory at La Tourette and his Notre Dame du Haut. The \"five points\" he outlined in Towards A New Architecture were put into practice in the piloti-supported Villa Savoye. For 10 points, name this modern architect, a Swiss/French proponent of the": {
+    "guess": "Le Corbusier",
+    "confidence": [
+      [
+        "Le",
+        -0.0073697423
+      ],
+      [
+        " Cor",
+        -3.1281633e-07
+      ],
+      [
+        "bus",
+        0.0
+      ],
+      [
+        "ier",
+        0.0
+      ]
+    ]
+  },
+  "This man defined the three types of furniture to be \"type-needs,\" \"human-limb,\" and \"type-furniture\" in his book The Decorative Art of Today, and he designed a set of tubular steel chairs for the Maison la Roche. He used the ideas of the Vitruvian man and the golden mean in his Modulor system, exemplified in the Villa Garche. Father Courtier sponsored his priory at La Tourette and his Notre Dame du Haut. The \"five points\" he outlined in Towards A New Architecture were put into practice in the piloti-supported Villa Savoye. For 10 points, name this modern architect, a Swiss/French proponent of the International School.": {
+    "guess": "Le Corbusier",
+    "confidence": [
+      [
+        "Le",
+        -0.0018783048
+      ],
+      [
+        " Cor",
+        -3.1281633e-07
+      ],
+      [
+        "bus",
+        0.0
+      ],
+      [
+        "ier",
+        0.0
+      ]
+    ]
+  },
+  "After defeating the Akim-Akwapim alliance, this empire defeated the Fante people. In 1748, the Nsafohene": {
+    "guess": "Ashanti Empire",
+    "confidence": [
+      [
+        "Ash",
+        -0.010014478
+      ],
+      [
+        "anti",
+        -1.0280384e-06
+      ],
+      [
+        " Empire",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "After defeating the Akim-Akwapim alliance, this empire defeated the Fante people. In 1748, the Nsafohene revolted against the leader of this empire, Opoku Ware. A notable female member of this empire,": {
+    "guess": "Ashanti Empire",
+    "confidence": [
+      [
+        "Ash",
+        -0.014333205
+      ],
+      [
+        "anti",
+        -1.2664457e-06
+      ],
+      [
+        " Empire",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "After defeating the Akim-Akwapim alliance, this empire defeated the Fante people. In 1748, the Nsafohene revolted against the leader of this empire, Opoku Ware. A notable female member of this empire, Queen Yaa of the Edweso tribe, led its resistance against European troops in 1900. This empire won the": {
+    "guess": "Ashanti Empire",
+    "confidence": [
+      [
+        "Ash",
+        -0.0019916822
+      ],
+      [
+        "anti",
+        -7.89631e-07
+      ],
+      [
+        " Empire",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "After defeating the Akim-Akwapim alliance, this empire defeated the Fante people. In 1748, the Nsafohene revolted against the leader of this empire, Opoku Ware. A notable female member of this empire, Queen Yaa of the Edweso tribe, led its resistance against European troops in 1900. This empire won the Battle of Feyiase to culminate its victory over Denkiyra, and signed the Treaty of Fomena after its": {
+    "guess": "Ashanti Empire",
+    "confidence": [
+      [
+        "Ash",
+        -0.0054246695
+      ],
+      [
+        "anti",
+        -4.3202e-07
+      ],
+      [
+        " Empire",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "After defeating the Akim-Akwapim alliance, this empire defeated the Fante people. In 1748, the Nsafohene revolted against the leader of this empire, Opoku Ware. A notable female member of this empire, Queen Yaa of the Edweso tribe, led its resistance against European troops in 1900. This empire won the Battle of Feyiase to culminate its victory over Denkiyra, and signed the Treaty of Fomena after its capital was burned in 1874. Founded by King Osei Tutu, this empire was again attacked when Prempeh": {
+    "guess": "Ashanti Empire",
+    "confidence": [
+      [
+        "Ash",
+        -0.062132146
+      ],
+      [
+        "anti",
+        -1.504853e-06
+      ],
+      [
+        " Empire",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "After defeating the Akim-Akwapim alliance, this empire defeated the Fante people. In 1748, the Nsafohene revolted against the leader of this empire, Opoku Ware. A notable female member of this empire, Queen Yaa of the Edweso tribe, led its resistance against European troops in 1900. This empire won the Battle of Feyiase to culminate its victory over Denkiyra, and signed the Treaty of Fomena after its capital was burned in 1874. Founded by King Osei Tutu, this empire was again attacked when Prempeh I refused to give Frederick Hodgson an object traditionally thought to have been called from the ?": {
+    "guess": "Golden Stool",
+    "confidence": [
+      [
+        "Golden",
+        -0.019352177
+      ],
+      [
+        " Stool",
+        -2.7968066e-05
+      ]
+    ]
+  },
+  "After defeating the Akim-Akwapim alliance, this empire defeated the Fante people. In 1748, the Nsafohene revolted against the leader of this empire, Opoku Ware. A notable female member of this empire, Queen Yaa of the Edweso tribe, led its resistance against European troops in 1900. This empire won the Battle of Feyiase to culminate its victory over Denkiyra, and signed the Treaty of Fomena after its capital was burned in 1874. Founded by King Osei Tutu, this empire was again attacked when Prempeh I refused to give Frederick Hodgson an object traditionally thought to have been called from the ? heavens by Okomfo Anokye. Centered at Kumasi, this empire lasted from 1670 to 1902, and ruled much": {
+    "guess": "Ashanti Empire",
+    "confidence": [
+      [
+        "Ash",
+        -0.0026057446
+      ],
+      [
+        "anti",
+        -7.89631e-07
+      ],
+      [
+        " Empire",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "After defeating the Akim-Akwapim alliance, this empire defeated the Fante people. In 1748, the Nsafohene revolted against the leader of this empire, Opoku Ware. A notable female member of this empire, Queen Yaa of the Edweso tribe, led its resistance against European troops in 1900. This empire won the Battle of Feyiase to culminate its victory over Denkiyra, and signed the Treaty of Fomena after its capital was burned in 1874. Founded by King Osei Tutu, this empire was again attacked when Prempeh I refused to give Frederick Hodgson an object traditionally thought to have been called from the ? heavens by Okomfo Anokye. Centered at Kumasi, this empire lasted from 1670 to 1902, and ruled much of modern-day Ghana. FTP, name this African Empire whose leaders sat on the throne of the Golden Stool.": {
+    "guess": "Ashanti Empire",
+    "confidence": [
+      [
+        "Ash",
+        -0.0032997471
+      ],
+      [
+        "anti",
+        -1.147242e-06
+      ],
+      [
+        " Empire",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man defended his Tory political views in his Passive Obedience, and he also wrote Advice to the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.95185155
+      ]
+    ]
+  },
+  "This man defended his Tory political views in his Passive Obedience, and he also wrote Advice to the Tories Who Have Taken Oaths. He attacked Deism in Alciphron; or, The Minute Philosopher, advocated drinking": {
+    "guess": "George Berkeley",
+    "confidence": [
+      [
+        "George",
+        -0.008787107
+      ],
+      [
+        " Berkeley",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man defended his Tory political views in his Passive Obedience, and he also wrote Advice to the Tories Who Have Taken Oaths. He attacked Deism in Alciphron; or, The Minute Philosopher, advocated drinking pine tar in Siris, and believed that everything except the spiritual exists only if it can be": {
+    "guess": "George Berkeley",
+    "confidence": [
+      [
+        "George",
+        -0.12240533
+      ],
+      [
+        " Berkeley",
+        0.0
+      ]
+    ]
+  },
+  "This man defended his Tory political views in his Passive Obedience, and he also wrote Advice to the Tories Who Have Taken Oaths. He attacked Deism in Alciphron; or, The Minute Philosopher, advocated drinking pine tar in Siris, and believed that everything except the spiritual exists only if it can be perceived. This author of An Essay Towards a New Theory of Vision explained his views in Three Dialogues": {
+    "guess": "George Berkeley",
+    "confidence": [
+      [
+        "George",
+        -0.0020836433
+      ],
+      [
+        " Berkeley",
+        0.0
+      ]
+    ]
+  },
+  "This man defended his Tory political views in his Passive Obedience, and he also wrote Advice to the Tories Who Have Taken Oaths. He attacked Deism in Alciphron; or, The Minute Philosopher, advocated drinking pine tar in Siris, and believed that everything except the spiritual exists only if it can be perceived. This author of An Essay Towards a New Theory of Vision explained his views in Three Dialogues between Hylas and Philonus. For 10 points, name this Irish bishop who wrote the Treatise Concerning": {
+    "guess": "George Berkeley",
+    "confidence": [
+      [
+        "George",
+        -0.003591041
+      ],
+      [
+        " Berkeley",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man defended his Tory political views in his Passive Obedience, and he also wrote Advice to the Tories Who Have Taken Oaths. He attacked Deism in Alciphron; or, The Minute Philosopher, advocated drinking pine tar in Siris, and believed that everything except the spiritual exists only if it can be perceived. This author of An Essay Towards a New Theory of Vision explained his views in Three Dialogues between Hylas and Philonus. For 10 points, name this Irish bishop who wrote the Treatise Concerning the Principles of Human Knowledge.": {
+    "guess": "George Berkeley",
+    "confidence": [
+      [
+        "George",
+        -0.0013566674
+      ],
+      [
+        " Berkeley",
+        0.0
+      ]
+    ]
+  },
+  "The defending general in this battle may have disobeyed orders to retreat given by Queen Victoria in": {
+    "guess": "Battle of Isandlwana",
+    "confidence": [
+      [
+        "Battle",
+        -0.008803064
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Is",
+        -1.085116
+      ],
+      [
+        "and",
+        -2.1008714e-06
+      ],
+      [
+        "l",
+        -4.9617593e-06
+      ],
+      [
+        "wana",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The defending general in this battle may have disobeyed orders to retreat given by Queen Victoria in early 1884. Despite this, he and his defenders held out in the city on the Blue Nile that they were": {
+    "guess": "Siege of Khartoum",
+    "confidence": [
+      [
+        "Sie",
+        -0.36002952
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Kh",
+        -6.704273e-07
+      ],
+      [
+        "art",
+        -5.5122365e-07
+      ],
+      [
+        "oum",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "The defending general in this battle may have disobeyed orders to retreat given by Queen Victoria in early 1884. Despite this, he and his defenders held out in the city on the Blue Nile that they were defending for nearly 10 months, despite low food stores and an increasing Mahdist presence. In January": {
+    "guess": "Siege of Khartoum",
+    "confidence": [
+      [
+        "Sie",
+        -0.7602339
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Kh",
+        0.0
+      ],
+      [
+        "art",
+        0.0
+      ],
+      [
+        "oum",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The defending general in this battle may have disobeyed orders to retreat given by Queen Victoria in early 1884. Despite this, he and his defenders held out in the city on the Blue Nile that they were defending for nearly 10 months, despite low food stores and an increasing Mahdist presence. In January of 1885, the Mahdists broke into the city, massacring the entire garrison including that commanding": {
+    "guess": "Khartoum",
+    "confidence": [
+      [
+        "Kh",
+        -0.19628839
+      ],
+      [
+        "art",
+        0.0
+      ],
+      [
+        "oum",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The defending general in this battle may have disobeyed orders to retreat given by Queen Victoria in early 1884. Despite this, he and his defenders held out in the city on the Blue Nile that they were defending for nearly 10 months, despite low food stores and an increasing Mahdist presence. In January of 1885, the Mahdists broke into the city, massacring the entire garrison including that commanding general, Chinese Gordon. For 10 points, identify this battle that occurred at the present day capital": {
+    "guess": "Siege of Khartoum",
+    "confidence": [
+      [
+        "Sie",
+        -0.50644517
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Kh",
+        0.0
+      ],
+      [
+        "art",
+        0.0
+      ],
+      [
+        "oum",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The defending general in this battle may have disobeyed orders to retreat given by Queen Victoria in early 1884. Despite this, he and his defenders held out in the city on the Blue Nile that they were defending for nearly 10 months, despite low food stores and an increasing Mahdist presence. In January of 1885, the Mahdists broke into the city, massacring the entire garrison including that commanding general, Chinese Gordon. For 10 points, identify this battle that occurred at the present day capital of Sudan.": {
+    "guess": "Khartoum",
+    "confidence": [
+      [
+        "Kh",
+        -0.10147838
+      ],
+      [
+        "art",
+        0.0
+      ],
+      [
+        "oum",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "A deficiency of this element may cause eclampsia, and kieserite is a hydrated form of a sulfate of this": {
+    "guess": "Magnesium",
+    "confidence": [
+      [
+        "Mag",
+        -0.011070811
+      ],
+      [
+        "nesium",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A deficiency of this element may cause eclampsia, and kieserite is a hydrated form of a sulfate of this element. The equilibrium of a class of compounds containing this metal is named for Schlenk. Ions": {
+    "guess": "Magnesium",
+    "confidence": [
+      [
+        "Mag",
+        -0.021277724
+      ],
+      [
+        "nesium",
+        0.0
+      ]
+    ]
+  },
+  "A deficiency of this element may cause eclampsia, and kieserite is a hydrated form of a sulfate of this element. The equilibrium of a class of compounds containing this metal is named for Schlenk. Ions of this metal block NMDA receptors, and a class of compounds in which this element is bonded to a halogen": {
+    "guess": "Magnesium",
+    "confidence": [
+      [
+        "Mag",
+        -0.5014698
+      ],
+      [
+        "nesium",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A deficiency of this element may cause eclampsia, and kieserite is a hydrated form of a sulfate of this element. The equilibrium of a class of compounds containing this metal is named for Schlenk. Ions of this metal block NMDA receptors, and a class of compounds in which this element is bonded to a halogen are used to form (*) carbon-carbon bonds. This metal's chloride is often added to PCR mixes to": {
+    "guess": "Magnesium",
+    "confidence": [
+      [
+        "Mag",
+        -0.006244803
+      ],
+      [
+        "nesium",
+        0.0
+      ]
+    ]
+  },
+  "A deficiency of this element may cause eclampsia, and kieserite is a hydrated form of a sulfate of this element. The equilibrium of a class of compounds containing this metal is named for Schlenk. Ions of this metal block NMDA receptors, and a class of compounds in which this element is bonded to a halogen are used to form (*) carbon-carbon bonds. This metal's chloride is often added to PCR mixes to increase the stability of single stranded DNA. This element is bonded to bromine in Grignard reagents,": {
+    "guess": "Magnesium",
+    "confidence": [
+      [
+        "Mag",
+        -0.0043839593
+      ],
+      [
+        "nesium",
+        0.0
+      ]
+    ]
+  },
+  "A deficiency of this element may cause eclampsia, and kieserite is a hydrated form of a sulfate of this element. The equilibrium of a class of compounds containing this metal is named for Schlenk. Ions of this metal block NMDA receptors, and a class of compounds in which this element is bonded to a halogen are used to form (*) carbon-carbon bonds. This metal's chloride is often added to PCR mixes to increase the stability of single stranded DNA. This element is bonded to bromine in Grignard reagents, and is found in the center of the chlorin ring of chlorophyll. The sulfate of this element is Epsom": {
+    "guess": "Magnesium",
+    "confidence": [
+      [
+        "Mag",
+        -0.00011927807
+      ],
+      [
+        "nesium",
+        0.0
+      ]
+    ]
+  },
+  "A deficiency of this element may cause eclampsia, and kieserite is a hydrated form of a sulfate of this element. The equilibrium of a class of compounds containing this metal is named for Schlenk. Ions of this metal block NMDA receptors, and a class of compounds in which this element is bonded to a halogen are used to form (*) carbon-carbon bonds. This metal's chloride is often added to PCR mixes to increase the stability of single stranded DNA. This element is bonded to bromine in Grignard reagents, and is found in the center of the chlorin ring of chlorophyll. The sulfate of this element is Epsom salt. For 10 points, name this element with atomic number 12 and symbol Mg.": {
+    "guess": "Magnesium",
+    "confidence": [
+      [
+        "Mag",
+        -0.4744708
+      ],
+      [
+        "nesium",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated the Amalekites by holding his hands up through the duration of the battle. This figure": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.25495622
+      ]
+    ]
+  },
+  "This man defeated the Amalekites by holding his hands up through the duration of the battle. This figure mounted a brass serpent on a pole to save his followers from snakebites. After this figure struck": {
+    "guess": "Moses",
+    "confidence": [
+      [
+        "M",
+        -0.06357235
+      ],
+      [
+        "oses",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated the Amalekites by holding his hands up through the duration of the battle. This figure mounted a brass serpent on a pole to save his followers from snakebites. After this figure struck rock with his staff to create water, he was forbidden from crossing the (*) Jordan River. While living": {
+    "guess": "Moses",
+    "confidence": [
+      [
+        "M",
+        -0.008975337
+      ],
+      [
+        "oses",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated the Amalekites by holding his hands up through the duration of the battle. This figure mounted a brass serpent on a pole to save his followers from snakebites. After this figure struck rock with his staff to create water, he was forbidden from crossing the (*) Jordan River. While living as a shepherd in Midian, this figure married Zipporah and spoke to God through a burning bush.": {
+    "guess": "Moses",
+    "confidence": [
+      [
+        "M",
+        -0.06274128
+      ],
+      [
+        "oses",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man defeated the Amalekites by holding his hands up through the duration of the battle. This figure mounted a brass serpent on a pole to save his followers from snakebites. After this figure struck rock with his staff to create water, he was forbidden from crossing the (*) Jordan River. While living as a shepherd in Midian, this figure married Zipporah and spoke to God through a burning bush. This leader, who was succeeded by Joshua, wrote the Torah and received the Ten Commandments on Mount": {
+    "guess": "Moses",
+    "confidence": [
+      [
+        "M",
+        -0.015705734
+      ],
+      [
+        "oses",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man defeated the Amalekites by holding his hands up through the duration of the battle. This figure mounted a brass serpent on a pole to save his followers from snakebites. After this figure struck rock with his staff to create water, he was forbidden from crossing the (*) Jordan River. While living as a shepherd in Midian, this figure married Zipporah and spoke to God through a burning bush. This leader, who was succeeded by Joshua, wrote the Torah and received the Ten Commandments on Mount Sinai. For ten points, identify this Biblical figure who parted the Red Sea when leading the Israelites": {
+    "guess": "Moses",
+    "confidence": [
+      [
+        "M",
+        -0.023477701
+      ],
+      [
+        "oses",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated the Amalekites by holding his hands up through the duration of the battle. This figure mounted a brass serpent on a pole to save his followers from snakebites. After this figure struck rock with his staff to create water, he was forbidden from crossing the (*) Jordan River. While living as a shepherd in Midian, this figure married Zipporah and spoke to God through a burning bush. This leader, who was succeeded by Joshua, wrote the Torah and received the Ten Commandments on Mount Sinai. For ten points, identify this Biblical figure who parted the Red Sea when leading the Israelites on their exodus from Egypt.": {
+    "guess": "Moses",
+    "confidence": [
+      [
+        "M",
+        -0.030444521
+      ],
+      [
+        "oses",
+        0.0
+      ]
+    ]
+  },
+  "The deep varieties of these are driven by temperature gradients and density. The thermohaline type is": {
+    "guess": "Ocean currents",
+    "confidence": [
+      [
+        "Ocean",
+        -0.03577308
+      ],
+      [
+        " currents",
+        -0.035080876
+      ]
+    ]
+  },
+  "The deep varieties of these are driven by temperature gradients and density. The thermohaline type is currently being investigated by a series of underwater robots called Argo, and is caused by a cycle": {
+    "guess": "Ocean currents",
+    "confidence": [
+      [
+        "Ocean",
+        -0.039932225
+      ],
+      [
+        " currents",
+        -0.0039398368
+      ]
+    ]
+  },
+  "The deep varieties of these are driven by temperature gradients and density. The thermohaline type is currently being investigated by a series of underwater robots called Argo, and is caused by a cycle of upwellings and downwellings. Southerly trade winds cause upwellings in the Humboldt one of these,": {
+    "guess": "Ocean currents",
+    "confidence": [
+      [
+        "Ocean",
+        -0.28760907
+      ],
+      [
+        " currents",
+        -0.1175798
+      ]
+    ]
+  },
+  "The deep varieties of these are driven by temperature gradients and density. The thermohaline type is currently being investigated by a series of underwater robots called Argo, and is caused by a cycle of upwellings and downwellings. Southerly trade winds cause upwellings in the Humboldt one of these, and Taylor caps occur at the surface of the ocean because of the rotating types of these. The Sverdrup": {
+    "guess": "Ocean current",
+    "confidence": [
+      [
+        "Ocean",
+        -0.043734416
+      ],
+      [
+        " current",
+        -0.04666782
+      ]
+    ]
+  },
+  "The deep varieties of these are driven by temperature gradients and density. The thermohaline type is currently being investigated by a series of underwater robots called Argo, and is caused by a cycle of upwellings and downwellings. Southerly trade winds cause upwellings in the Humboldt one of these, and Taylor caps occur at the surface of the ocean because of the rotating types of these. The Sverdrup measure for magnitude of these is proportional to the curl of wind stress. The OSCAR data set is": {
+    "guess": "Ocean currents",
+    "confidence": [
+      [
+        "Ocean",
+        -0.010656555
+      ],
+      [
+        " currents",
+        -0.33150986
+      ]
+    ]
+  },
+  "The deep varieties of these are driven by temperature gradients and density. The thermohaline type is currently being investigated by a series of underwater robots called Argo, and is caused by a cycle of upwellings and downwellings. Southerly trade winds cause upwellings in the Humboldt one of these, and Taylor caps occur at the surface of the ocean because of the rotating types of these. The Sverdrup measure for magnitude of these is proportional to the curl of wind stress. The OSCAR data set is often used to evaluate the surface type of these. Identify these movements of ocean water, exemplified": {
+    "guess": "Ocean current",
+    "confidence": [
+      [
+        "Ocean",
+        -0.030288411
+      ],
+      [
+        " current",
+        -0.100260705
+      ]
+    ]
+  },
+  "The deep varieties of these are driven by temperature gradients and density. The thermohaline type is currently being investigated by a series of underwater robots called Argo, and is caused by a cycle of upwellings and downwellings. Southerly trade winds cause upwellings in the Humboldt one of these, and Taylor caps occur at the surface of the ocean because of the rotating types of these. The Sverdrup measure for magnitude of these is proportional to the curl of wind stress. The OSCAR data set is often used to evaluate the surface type of these. Identify these movements of ocean water, exemplified by the Gulf Stream .": {
+    "guess": "Ocean current",
+    "confidence": [
+      [
+        "Ocean",
+        -0.01956964
+      ],
+      [
+        " current",
+        -0.07899466
+      ]
+    ]
+  },
+  "One of the defenders of this movement wrote Telemachus and Dialogues of the Dead as moral instruction": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7254108
+      ]
+    ]
+  },
+  "One of the defenders of this movement wrote Telemachus and Dialogues of the Dead as moral instruction for a royal heir, while another advanced the cause for sainthood of Jeronimo Simon. Juan Falconi was": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.104146965
+      ]
+    ]
+  },
+  "One of the defenders of this movement wrote Telemachus and Dialogues of the Dead as moral instruction for a royal heir, while another advanced the cause for sainthood of Jeronimo Simon. Juan Falconi was an early supporter of this belief system, which was criticized by Paolo Segneri. The author of Dux": {
+    "guess": "Jansenism",
+    "confidence": [
+      [
+        "J",
+        -0.06657148
+      ],
+      [
+        "ansen",
+        -9.0883464e-07
+      ],
+      [
+        "ism",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "One of the defenders of this movement wrote Telemachus and Dialogues of the Dead as moral instruction for a royal heir, while another advanced the cause for sainthood of Jeronimo Simon. Juan Falconi was an early supporter of this belief system, which was criticized by Paolo Segneri. The author of Dux Spiritualis was its prime defender within the Catholic Church, while another of its defenders publicly": {
+    "guess": "Quietism",
+    "confidence": [
+      [
+        "Quiet",
+        -0.59515095
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One of the defenders of this movement wrote Telemachus and Dialogues of the Dead as moral instruction for a royal heir, while another advanced the cause for sainthood of Jeronimo Simon. Juan Falconi was an early supporter of this belief system, which was criticized by Paolo Segneri. The author of Dux Spiritualis was its prime defender within the Catholic Church, while another of its defenders publicly fought with Bossuet after publishing his Maxims of the Saints. This sect gained a foothold in the": {
+    "guess": "Quietism",
+    "confidence": [
+      [
+        "Quiet",
+        -0.010821189
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "One of the defenders of this movement wrote Telemachus and Dialogues of the Dead as moral instruction for a royal heir, while another advanced the cause for sainthood of Jeronimo Simon. Juan Falconi was an early supporter of this belief system, which was criticized by Paolo Segneri. The author of Dux Spiritualis was its prime defender within the Catholic Church, while another of its defenders publicly fought with Bossuet after publishing his Maxims of the Saints. This sect gained a foothold in the French court when Bishop Fenelon's spiritual directee Mme. Guyot converted Mme. de Maintenon to this": {
+    "guess": "Quietism",
+    "confidence": [
+      [
+        "Quiet",
+        -0.00044306272
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "One of the defenders of this movement wrote Telemachus and Dialogues of the Dead as moral instruction for a royal heir, while another advanced the cause for sainthood of Jeronimo Simon. Juan Falconi was an early supporter of this belief system, which was criticized by Paolo Segneri. The author of Dux Spiritualis was its prime defender within the Catholic Church, while another of its defenders publicly fought with Bossuet after publishing his Maxims of the Saints. This sect gained a foothold in the French court when Bishop Fenelon's spiritual directee Mme. Guyot converted Mme. de Maintenon to this heresy. Championed by Miguel Molinos, FTP, name this mystic Christian philosophy which advocated": {
+    "guess": "Quietism",
+    "confidence": [
+      [
+        "Quiet",
+        -0.000807606
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "One of the defenders of this movement wrote Telemachus and Dialogues of the Dead as moral instruction for a royal heir, while another advanced the cause for sainthood of Jeronimo Simon. Juan Falconi was an early supporter of this belief system, which was criticized by Paolo Segneri. The author of Dux Spiritualis was its prime defender within the Catholic Church, while another of its defenders publicly fought with Bossuet after publishing his Maxims of the Saints. This sect gained a foothold in the French court when Bishop Fenelon's spiritual directee Mme. Guyot converted Mme. de Maintenon to this heresy. Championed by Miguel Molinos, FTP, name this mystic Christian philosophy which advocated passive contemplation of God.": {
+    "guess": "Quietism",
+    "confidence": [
+      [
+        "Quiet",
+        -0.00012475411
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "He defeated Bhadalasa to end the Nanda Dynasty, and a legend about this man says that he was born  virtually": {
+    "guess": "Chandragupta Maurya",
+    "confidence": [
+      [
+        "Ch",
+        -0.032195088
+      ],
+      [
+        "andr",
+        -1.9862217e-05
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "pta",
+        -1.9361265e-07
+      ],
+      [
+        " Maur",
+        -4.3202e-07
+      ],
+      [
+        "ya",
+        0.0
+      ]
+    ]
+  },
+  "He defeated Bhadalasa to end the Nanda Dynasty, and a legend about this man says that he was born  virtually a slave, who was forced to go with a buyer to Taxila, where he met (*) Alexander the Great and": {
+    "guess": "Chandragupta Maurya",
+    "confidence": [
+      [
+        "Ch",
+        -0.0062651816
+      ],
+      [
+        "andr",
+        -1.1756368e-05
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "pta",
+        -1.2664457e-06
+      ],
+      [
+        " Maur",
+        -1.0280384e-06
+      ],
+      [
+        "ya",
+        0.0
+      ]
+    ]
+  },
+  "He defeated Bhadalasa to end the Nanda Dynasty, and a legend about this man says that he was born  virtually a slave, who was forced to go with a buyer to Taxila, where he met (*) Alexander the Great and got licked by a lion in his sleep. He ioncorporated Magadha and Punjab into his new kingdom and fought": {
+    "guess": "Chandragupta Maurya",
+    "confidence": [
+      [
+        "Ch",
+        -0.017608374
+      ],
+      [
+        "andr",
+        -3.1737043e-06
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "pta",
+        0.0
+      ],
+      [
+        " Maur",
+        -6.704273e-07
+      ],
+      [
+        "ya",
+        0.0
+      ]
+    ]
+  },
+  "He defeated Bhadalasa to end the Nanda Dynasty, and a legend about this man says that he was born  virtually a slave, who was forced to go with a buyer to Taxila, where he met (*) Alexander the Great and got licked by a lion in his sleep. He ioncorporated Magadha and Punjab into his new kingdom and fought off a Seleucid invasion, while consulting the Artathastra before fasting to death. For 10 points\u2014": {
+    "guess": "Chandragupta Maurya",
+    "confidence": [
+      [
+        "Ch",
+        -0.02827359
+      ],
+      [
+        "andr",
+        -5.5122365e-07
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "pta",
+        0.0
+      ],
+      [
+        " Maur",
+        -1.0280384e-06
+      ],
+      [
+        "ya",
+        0.0
+      ]
+    ]
+  },
+  "He defeated Bhadalasa to end the Nanda Dynasty, and a legend about this man says that he was born  virtually a slave, who was forced to go with a buyer to Taxila, where he met (*) Alexander the Great and got licked by a lion in his sleep. He ioncorporated Magadha and Punjab into his new kingdom and fought off a Seleucid invasion, while consulting the Artathastra before fasting to death. For 10 points\u2014  name this Mauryan founder.": {
+    "guess": "Chandragupta Maurya",
+    "confidence": [
+      [
+        "Ch",
+        -0.0006324976
+      ],
+      [
+        "andr",
+        -4.3202e-07
+      ],
+      [
+        "agu",
+        0.0
+      ],
+      [
+        "pta",
+        0.0
+      ],
+      [
+        " Maur",
+        -2.4584822e-06
+      ],
+      [
+        "ya",
+        0.0
+      ]
+    ]
+  },
+  "He defeated Confederate Humphrey Marshall at Prestonburg, Kentucky to gain promotion to brigadier general,": {
+    "guess": "James A. Garfield",
+    "confidence": [
+      [
+        "James",
+        -0.0038952034
+      ],
+      [
+        " A",
+        -0.031635214
+      ],
+      [
+        ".",
+        -4.3202e-07
+      ],
+      [
+        " Garfield",
+        -1.4974867e-05
+      ]
+    ]
+  },
+  "He defeated Confederate Humphrey Marshall at Prestonburg, Kentucky to gain promotion to brigadier general, and he was elected as an Ohio representative to Congress while he was still in the army. One of": {
+    "guess": "James A. Garfield",
+    "confidence": [
+      [
+        "James",
+        -0.0073864358
+      ],
+      [
+        " A",
+        -0.0015170074
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " Garfield",
+        -5.6769813e-06
+      ]
+    ]
+  },
+  "He defeated Confederate Humphrey Marshall at Prestonburg, Kentucky to gain promotion to brigadier general, and he was elected as an Ohio representative to Congress while he was still in the army. One of the attorneys of Ex parte Milligan, he was nominated for the presidency as a compromise when the Republican": {
+    "guess": "James A. Garfield",
+    "confidence": [
+      [
+        "James",
+        -0.10263594
+      ],
+      [
+        " A",
+        -0.00017171667
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Garfield",
+        0.0
+      ]
+    ]
+  },
+  "He defeated Confederate Humphrey Marshall at Prestonburg, Kentucky to gain promotion to brigadier general, and he was elected as an Ohio representative to Congress while he was still in the army. One of the attorneys of Ex parte Milligan, he was nominated for the presidency as a compromise when the Republican Party could not decide between Ulysses Grant and James Blaine. For ten points, name this ambidextrous": {
+    "guess": "James A. Garfield",
+    "confidence": [
+      [
+        "James",
+        -0.017131206
+      ],
+      [
+        " A",
+        -3.6431527e-05
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Garfield",
+        0.0
+      ]
+    ]
+  },
+  "He defeated Confederate Humphrey Marshall at Prestonburg, Kentucky to gain promotion to brigadier general, and he was elected as an Ohio representative to Congress while he was still in the army. One of the attorneys of Ex parte Milligan, he was nominated for the presidency as a compromise when the Republican Party could not decide between Ulysses Grant and James Blaine. For ten points, name this ambidextrous Republican president of the United States who was shot and killed in 1881 by the insane": {
+    "guess": "James A. Garfield",
+    "confidence": [
+      [
+        "James",
+        -0.003400148
+      ],
+      [
+        " A",
+        -0.00020437481
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Garfield",
+        0.0
+      ]
+    ]
+  },
+  "He defeated Confederate Humphrey Marshall at Prestonburg, Kentucky to gain promotion to brigadier general, and he was elected as an Ohio representative to Congress while he was still in the army. One of the attorneys of Ex parte Milligan, he was nominated for the presidency as a compromise when the Republican Party could not decide between Ulysses Grant and James Blaine. For ten points, name this ambidextrous Republican president of the United States who was shot and killed in 1881 by the insane office- seeker, Charles Guiteau.": {
+    "guess": "James A. Garfield",
+    "confidence": [
+      [
+        "James",
+        -0.015427679
+      ],
+      [
+        " A",
+        -0.20142709
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Garfield",
+        0.0
+      ]
+    ]
+  },
+  "It can be defined either as the locus of the focus of a parabola rolling along a straight line, the evolute": {
+    "guess": "Catenary",
+    "confidence": [
+      [
+        "C",
+        -0.07905988
+      ],
+      [
+        "aten",
+        0.0
+      ],
+      [
+        "ary",
+        0.0
+      ]
+    ]
+  },
+  "It can be defined either as the locus of the focus of a parabola rolling along a straight line, the evolute of the tractrix, and the locus of the mid- point of the vertical line segment between the curves": {
+    "guess": "Catenary",
+    "confidence": [
+      [
+        "C",
+        -0.0004185178
+      ],
+      [
+        "aten",
+        -1.3856493e-06
+      ],
+      [
+        "ary",
+        0.0
+      ]
+    ]
+  },
+  "It can be defined either as the locus of the focus of a parabola rolling along a straight line, the evolute of the tractrix, and the locus of the mid- point of the vertical line segment between the curves e to the x and e to the minus x. It is best defined, however, as the shape of a perfectly flexible": {
+    "guess": "Catenary",
+    "confidence": [
+      [
+        "C",
+        -0.0028678775
+      ],
+      [
+        "aten",
+        0.0
+      ],
+      [
+        "ary",
+        0.0
+      ]
+    ]
+  },
+  "It can be defined either as the locus of the focus of a parabola rolling along a straight line, the evolute of the tractrix, and the locus of the mid- point of the vertical line segment between the curves e to the x and e to the minus x. It is best defined, however, as the shape of a perfectly flexible chain suspended by its ends and acted on by gravity, hence the name given to it by Huygens, which": {
+    "guess": "Catenary",
+    "confidence": [
+      [
+        "C",
+        -0.001990017
+      ],
+      [
+        "aten",
+        0.0
+      ],
+      [
+        "ary",
+        0.0
+      ]
+    ]
+  },
+  "It can be defined either as the locus of the focus of a parabola rolling along a straight line, the evolute of the tractrix, and the locus of the mid- point of the vertical line segment between the curves e to the x and e to the minus x. It is best defined, however, as the shape of a perfectly flexible chain suspended by its ends and acted on by gravity, hence the name given to it by Huygens, which is from the Latin for \"chain\".": {
+    "guess": "Catenary",
+    "confidence": [
+      [
+        "C",
+        -0.00048536903
+      ],
+      [
+        "aten",
+        0.0
+      ],
+      [
+        "ary",
+        0.0
+      ]
+    ]
+  },
+  "This man was defeated by a \"Legion of Hell\" under the leadership of Tom\u00e1s Boves. He arrested his erstwhile": {
+    "guess": "Sim\u00f3n Bol\u00edvar",
+    "confidence": [
+      [
+        "Sim",
+        -0.4568995
+      ],
+      [
+        "\u00f3n",
+        -3.1281633e-07
+      ],
+      [
+        " Bol\u00ed",
+        -3.7697225e-06
+      ],
+      [
+        "var",
+        0.0
+      ]
+    ]
+  },
+  "This man was defeated by a \"Legion of Hell\" under the leadership of Tom\u00e1s Boves. He arrested his erstwhile ally Francisco de Miranda for making peace with his enemy Domingo de Monteverde, and he named": {
+    "guess": "Sim\u00f3n Bol\u00edvar",
+    "confidence": [
+      [
+        "Sim",
+        -0.0016857705
+      ],
+      [
+        "\u00f3n",
+        0.0
+      ],
+      [
+        " Bol\u00ed",
+        -4.4849444e-06
+      ],
+      [
+        "var",
+        0.0
+      ]
+    ]
+  },
+  "This man was defeated by a \"Legion of Hell\" under the leadership of Tom\u00e1s Boves. He arrested his erstwhile ally Francisco de Miranda for making peace with his enemy Domingo de Monteverde, and he named Francisco Santander his vice president. This leader issued the Letter from Jamaica and won the Battle": {
+    "guess": "Sim\u00f3n Bol\u00edvar",
+    "confidence": [
+      [
+        "Sim",
+        -0.00021486107
+      ],
+      [
+        "\u00f3n",
+        0.0
+      ],
+      [
+        " Bol\u00ed",
+        -2.1531068e-05
+      ],
+      [
+        "var",
+        0.0
+      ]
+    ]
+  },
+  "This man was defeated by a \"Legion of Hell\" under the leadership of Tom\u00e1s Boves. He arrested his erstwhile ally Francisco de Miranda for making peace with his enemy Domingo de Monteverde, and he named Francisco Santander his vice president. This leader issued the Letter from Jamaica and won the Battle of Junin. After writing the Cartagena Manifesto, he led the Admirable Campaign, during which he issued": {
+    "guess": "Sim\u00f3n Bol\u00edvar",
+    "confidence": [
+      [
+        "Sim",
+        -0.00054886425
+      ],
+      [
+        "\u00f3n",
+        0.0
+      ],
+      [
+        " Bol\u00ed",
+        -4.0246043e-05
+      ],
+      [
+        "var",
+        0.0
+      ]
+    ]
+  },
+  "This man was defeated by a \"Legion of Hell\" under the leadership of Tom\u00e1s Boves. He arrested his erstwhile ally Francisco de Miranda for making peace with his enemy Domingo de Monteverde, and he named Francisco Santander his vice president. This leader issued the Letter from Jamaica and won the Battle of Junin. After writing the Cartagena Manifesto, he led the Admirable Campaign, during which he issued the (*) Decree of War to the Death. This winner at the Battles of Carabobo and Boyac\u00e1 met Jos\u00e9": {
+    "guess": "Sim\u00f3n Bol\u00edvar",
+    "confidence": [
+      [
+        "Sim",
+        -0.00081475085
+      ],
+      [
+        "\u00f3n",
+        0.0
+      ],
+      [
+        " Bol\u00ed",
+        -2.1650272e-05
+      ],
+      [
+        "var",
+        0.0
+      ]
+    ]
+  },
+  "This man was defeated by a \"Legion of Hell\" under the leadership of Tom\u00e1s Boves. He arrested his erstwhile ally Francisco de Miranda for making peace with his enemy Domingo de Monteverde, and he named Francisco Santander his vice president. This leader issued the Letter from Jamaica and won the Battle of Junin. After writing the Cartagena Manifesto, he led the Admirable Campaign, during which he issued the (*) Decree of War to the Death. This winner at the Battles of Carabobo and Boyac\u00e1 met Jos\u00e9 de San Martin at the Guayaquil Conference. For ten points, identify this leader who liberated much of": {
+    "guess": "Sim\u00f3n Bol\u00edvar",
+    "confidence": [
+      [
+        "Sim",
+        -6.6947665e-05
+      ],
+      [
+        "\u00f3n",
+        0.0
+      ],
+      [
+        " Bol\u00ed",
+        -2.1531068e-05
+      ],
+      [
+        "var",
+        0.0
+      ]
+    ]
+  },
+  "This man was defeated by a \"Legion of Hell\" under the leadership of Tom\u00e1s Boves. He arrested his erstwhile ally Francisco de Miranda for making peace with his enemy Domingo de Monteverde, and he named Francisco Santander his vice president. This leader issued the Letter from Jamaica and won the Battle of Junin. After writing the Cartagena Manifesto, he led the Admirable Campaign, during which he issued the (*) Decree of War to the Death. This winner at the Battles of Carabobo and Boyac\u00e1 met Jos\u00e9 de San Martin at the Guayaquil Conference. For ten points, identify this leader who liberated much of South America and established Gran Colombia.": {
+    "guess": "Sim\u00f3n Bol\u00edvar",
+    "confidence": [
+      [
+        "Sim",
+        -4.298773e-05
+      ],
+      [
+        "\u00f3n",
+        -1.9361265e-07
+      ],
+      [
+        " Bol\u00ed",
+        -6.9882217e-06
+      ],
+      [
+        "var",
+        0.0
+      ]
+    ]
+  },
+  "The defeat and subsequent flight of the Phocians prior to this battle foreshadowed the doom of the losing": {
+    "guess": "Battle of Thermopylae",
+    "confidence": [
+      [
+        "Battle",
+        -0.755977
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Therm",
+        -0.070050254
+      ],
+      [
+        "opy",
+        0.0
+      ],
+      [
+        "la",
+        -1.9361265e-07
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "The defeat and subsequent flight of the Phocians prior to this battle foreshadowed the doom of the losing side, which was betrayed by Ephialtes. Taking place at the location of the so-called \"hot gates\",": {
+    "guess": "Battle of Thermopylae",
+    "confidence": [
+      [
+        "Battle",
+        -0.6995842
+      ],
+      [
+        " of",
+        -6.704273e-07
+      ],
+      [
+        " Therm",
+        0.0
+      ],
+      [
+        "opy",
+        0.0
+      ],
+      [
+        "la",
+        -1.9361265e-07
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "The defeat and subsequent flight of the Phocians prior to this battle foreshadowed the doom of the losing side, which was betrayed by Ephialtes. Taking place at the location of the so-called \"hot gates\", the winning army under Xerxes I was nearly forty times the size of the losing army, which suffered": {
+    "guess": "Battle of Thermopylae",
+    "confidence": [
+      [
+        "Battle",
+        -0.015679212
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Therm",
+        0.0
+      ],
+      [
+        "opy",
+        0.0
+      ],
+      [
+        "la",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "The defeat and subsequent flight of the Phocians prior to this battle foreshadowed the doom of the losing side, which was betrayed by Ephialtes. Taking place at the location of the so-called \"hot gates\", the winning army under Xerxes I was nearly forty times the size of the losing army, which suffered the death of its leader, Leonidas. For 10 points, name this 480 BCE battle where the Persian force": {
+    "guess": "Battle of Thermopylae",
+    "confidence": [
+      [
+        "Battle",
+        -0.0004355566
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Therm",
+        0.0
+      ],
+      [
+        "opy",
+        0.0
+      ],
+      [
+        "la",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "The defeat and subsequent flight of the Phocians prior to this battle foreshadowed the doom of the losing side, which was betrayed by Ephialtes. Taking place at the location of the so-called \"hot gates\", the winning army under Xerxes I was nearly forty times the size of the losing army, which suffered the death of its leader, Leonidas. For 10 points, name this 480 BCE battle where the Persian force killed all 300 Spartan defenders of the namesake pass.": {
+    "guess": "Battle of Thermopylae",
+    "confidence": [
+      [
+        "Battle",
+        -0.69429374
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Therm",
+        0.0
+      ],
+      [
+        "opy",
+        0.0
+      ],
+      [
+        "la",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "The \"deeply virtual\" version of this effect has been measured by HERMES due to its interference with": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.574651
+      ]
+    ]
+  },
+  "The \"deeply virtual\" version of this effect has been measured by HERMES due to its interference with the Bethe-Heitler effect.  The Sunyaev-Zel'dovich effect is related to the inverse of this effect, while": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.00279763
+      ],
+      [
+        "pton",
+        -3.88156e-05
+      ],
+      [
+        " scattering",
+        -0.0074428744
+      ]
+    ]
+  },
+  "The \"deeply virtual\" version of this effect has been measured by HERMES due to its interference with the Bethe-Heitler effect.  The Sunyaev-Zel'dovich effect is related to the inverse of this effect, while in the detection of gamma rays, this gives rise to a namesake \"edge.\" The differential cross- section": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.26805604
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " scattering",
+        -0.003718127
+      ]
+    ]
+  },
+  "The \"deeply virtual\" version of this effect has been measured by HERMES due to its interference with the Bethe-Heitler effect.  The Sunyaev-Zel'dovich effect is related to the inverse of this effect, while in the detection of gamma rays, this gives rise to a namesake \"edge.\" The differential cross- section for this process is given by the Klein-Nishina formula, and the namesake wavelength is given": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.00071302796
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " scattering",
+        -4.823269e-05
+      ]
+    ]
+  },
+  "The \"deeply virtual\" version of this effect has been measured by HERMES due to its interference with the Bethe-Heitler effect.  The Sunyaev-Zel'dovich effect is related to the inverse of this effect, while in the detection of gamma rays, this gives rise to a namesake \"edge.\" The differential cross- section for this process is given by the Klein-Nishina formula, and the namesake wavelength is given by Planck's constant over the mass of the electron times the speed of light.  The wavelenght shift depends": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.0013295256
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " scattering",
+        -9.972867e-05
+      ]
+    ]
+  },
+  "The \"deeply virtual\" version of this effect has been measured by HERMES due to its interference with the Bethe-Heitler effect.  The Sunyaev-Zel'dovich effect is related to the inverse of this effect, while in the detection of gamma rays, this gives rise to a namesake \"edge.\" The differential cross- section for this process is given by the Klein-Nishina formula, and the namesake wavelength is given by Planck's constant over the mass of the electron times the speed of light.  The wavelenght shift depends on the scattering angle in, FTP, this effect in which a photon loses energy after scattering": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -3.6908343e-05
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " scattering",
+        -0.00013858173
+      ]
+    ]
+  },
+  "The \"deeply virtual\" version of this effect has been measured by HERMES due to its interference with the Bethe-Heitler effect.  The Sunyaev-Zel'dovich effect is related to the inverse of this effect, while in the detection of gamma rays, this gives rise to a namesake \"edge.\" The differential cross- section for this process is given by the Klein-Nishina formula, and the namesake wavelength is given by Planck's constant over the mass of the electron times the speed of light.  The wavelenght shift depends on the scattering angle in, FTP, this effect in which a photon loses energy after scattering off of an electron, which demonstrates the particle nature of light.": {
+    "guess": "Compton scattering",
+    "confidence": [
+      [
+        "Com",
+        -0.00026503115
+      ],
+      [
+        "pton",
+        0.0
+      ],
+      [
+        " scattering",
+        -0.0040653404
+      ]
+    ]
+  },
+  "This man defined a collection of inner products defined on a tangent space at each point on a manifold": {
+    "guess": "Riemannian geometry",
+    "confidence": [
+      [
+        "R",
+        -0.5343693
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        "ann",
+        0.0
+      ],
+      [
+        "ian",
+        -2.486877e-05
+      ],
+      [
+        " geometry",
+        -1.2760644
+      ]
+    ]
+  },
+  "This man defined a collection of inner products defined on a tangent space at each point on a manifold as his metric, a key concept in the branch of geometry he developed. He also developed a function": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.525017
+      ]
+    ]
+  },
+  "This man defined a collection of inner products defined on a tangent space at each point on a manifold as his metric, a key concept in the branch of geometry he developed. He also developed a function of n equal to the infinite sum of one over k to the n and hypothesized that one half is the real part": {
+    "guess": "Riemann hypothesis",
+    "confidence": [
+      [
+        "R",
+        -0.1298294
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        "ann",
+        0.0
+      ],
+      [
+        " hypothesis",
+        -0.06448454
+      ]
+    ]
+  },
+  "This man defined a collection of inner products defined on a tangent space at each point on a manifold as his metric, a key concept in the branch of geometry he developed. He also developed a function of n equal to the infinite sum of one over k to the n and hypothesized that one half is the real part of all nontrivial zeroes of that namesake zeta function. A student of Gauss, For 10 points, name this": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.40837184
+      ]
+    ]
+  },
+  "This man defined a collection of inner products defined on a tangent space at each point on a manifold as his metric, a key concept in the branch of geometry he developed. He also developed a function of n equal to the infinite sum of one over k to the n and hypothesized that one half is the real part of all nontrivial zeroes of that namesake zeta function. A student of Gauss, For 10 points, name this German mathematician whose namesake sums are used to approximate definite integrals.": {
+    "guess": "Bernhard Riemann",
+    "confidence": [
+      [
+        "Bern",
+        -0.13485214
+      ],
+      [
+        "hard",
+        -4.3202e-07
+      ],
+      [
+        " R",
+        0.0
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        "ann",
+        0.0
+      ]
+    ]
+  },
+  "This man defended the participants in the Christiana Riot, in addition to supporting the Morrill Tariff.": {
+    "guess": "Thaddeus Stevens",
+    "confidence": [
+      [
+        "Th",
+        -0.018614704
+      ],
+      [
+        "adde",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Stevens",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "This man defended the participants in the Christiana Riot, in addition to supporting the Morrill Tariff. A member of the Appropriations Committee, this man was succeed in his district by Henry Muhlenberg.": {
+    "guess": "Thaddeus Stevens",
+    "confidence": [
+      [
+        "Th",
+        -0.048622563
+      ],
+      [
+        "adde",
+        -6.704273e-07
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Stevens",
+        0.0
+      ]
+    ]
+  },
+  "This man defended the participants in the Christiana Riot, in addition to supporting the Morrill Tariff. A member of the Appropriations Committee, this man was succeed in his district by Henry Muhlenberg. This man preceded Justin Morrill as Chairman of the House Ways and Means Committee. His iron works": {
+    "guess": "Thaddeus Stevens",
+    "confidence": [
+      [
+        "Th",
+        -0.00030650303
+      ],
+      [
+        "adde",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Stevens",
+        -5.080963e-06
+      ]
+    ]
+  },
+  "This man defended the participants in the Christiana Riot, in addition to supporting the Morrill Tariff. A member of the Appropriations Committee, this man was succeed in his district by Henry Muhlenberg. This man preceded Justin Morrill as Chairman of the House Ways and Means Committee. His iron works were destroyed by Robert E. Lee's troops, and this supporter of the Confiscation Act called for total": {
+    "guess": "Thaddeus Stevens",
+    "confidence": [
+      [
+        "Th",
+        -0.00092408445
+      ],
+      [
+        "adde",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Stevens",
+        -4.9617593e-06
+      ]
+    ]
+  },
+  "This man defended the participants in the Christiana Riot, in addition to supporting the Morrill Tariff. A member of the Appropriations Committee, this man was succeed in his district by Henry Muhlenberg. This man preceded Justin Morrill as Chairman of the House Ways and Means Committee. His iron works were destroyed by Robert E. Lee's troops, and this supporter of the Confiscation Act called for total war against the south and opposed the Crittenden Compromise. This man, who introduced the impeachment": {
+    "guess": "Thaddeus Stevens",
+    "confidence": [
+      [
+        "Th",
+        -0.00033689264
+      ],
+      [
+        "adde",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Stevens",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "This man defended the participants in the Christiana Riot, in addition to supporting the Morrill Tariff. A member of the Appropriations Committee, this man was succeed in his district by Henry Muhlenberg. This man preceded Justin Morrill as Chairman of the House Ways and Means Committee. His iron works were destroyed by Robert E. Lee's troops, and this supporter of the Confiscation Act called for total war against the south and opposed the Crittenden Compromise. This man, who introduced the impeachment proceedings against Andrew Johnson, drafted the Reconstruction Act and the Fourteenth Amendment.": {
+    "guess": "Thaddeus Stevens",
+    "confidence": [
+      [
+        "Th",
+        -0.0001844678
+      ],
+      [
+        "adde",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Stevens",
+        0.0
+      ]
+    ]
+  },
+  "This man defended the participants in the Christiana Riot, in addition to supporting the Morrill Tariff. A member of the Appropriations Committee, this man was succeed in his district by Henry Muhlenberg. This man preceded Justin Morrill as Chairman of the House Ways and Means Committee. His iron works were destroyed by Robert E. Lee's troops, and this supporter of the Confiscation Act called for total war against the south and opposed the Crittenden Compromise. This man, who introduced the impeachment proceedings against Andrew Johnson, drafted the Reconstruction Act and the Fourteenth Amendment. For ten points, identify this member of the Radical Republicans, who was a representative from Pennsylvania.": {
+    "guess": "Thaddeus Stevens",
+    "confidence": [
+      [
+        "Th",
+        -0.0004484269
+      ],
+      [
+        "adde",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Stevens",
+        0.0
+      ]
+    ]
+  },
+  "Defeating the armies of Norway and Ireland earned this man the titles Thane of Glamis and Cawdor, but,": {
+    "guess": "Macbeth",
+    "confidence": [
+      [
+        "Mac",
+        -7.5530326e-05
+      ],
+      [
+        "beth",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Defeating the armies of Norway and Ireland earned this man the titles Thane of Glamis and Cawdor, but, unsatisfied with his position, murdered the king and took power. When a former friend threatens his": {
+    "guess": "Macbeth",
+    "confidence": [
+      [
+        "Mac",
+        -0.00014346908
+      ],
+      [
+        "beth",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Defeating the armies of Norway and Ireland earned this man the titles Thane of Glamis and Cawdor, but, unsatisfied with his position, murdered the king and took power. When a former friend threatens his lineage, this man orders that he and his son Fleance be killed. His murders, driven by either his": {
+    "guess": "Macbeth",
+    "confidence": [
+      [
+        "Mac",
+        -1.5332478e-05
+      ],
+      [
+        "beth",
+        0.0
+      ]
+    ]
+  },
+  "Defeating the armies of Norway and Ireland earned this man the titles Thane of Glamis and Cawdor, but, unsatisfied with his position, murdered the king and took power. When a former friend threatens his lineage, this man orders that he and his son Fleance be killed. His murders, driven by either his wife's ambition or the witches' prophecies, are avenged after Banquo's ghost haunts him at a dinner": {
+    "guess": "Macbeth",
+    "confidence": [
+      [
+        "Mac",
+        -0.00018137218
+      ],
+      [
+        "beth",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Defeating the armies of Norway and Ireland earned this man the titles Thane of Glamis and Cawdor, but, unsatisfied with his position, murdered the king and took power. When a former friend threatens his lineage, this man orders that he and his son Fleance be killed. His murders, driven by either his wife's ambition or the witches' prophecies, are avenged after Banquo's ghost haunts him at a dinner party, and when he is beheaded by Macduff. For 10 points, name this tragedy by Shakespeare about a Scottish": {
+    "guess": "Macbeth",
+    "confidence": [
+      [
+        "Mac",
+        -5.3596854e-05
+      ],
+      [
+        "beth",
+        0.0
+      ]
+    ]
+  },
+  "Defeating the armies of Norway and Ireland earned this man the titles Thane of Glamis and Cawdor, but, unsatisfied with his position, murdered the king and took power. When a former friend threatens his lineage, this man orders that he and his son Fleance be killed. His murders, driven by either his wife's ambition or the witches' prophecies, are avenged after Banquo's ghost haunts him at a dinner party, and when he is beheaded by Macduff. For 10 points, name this tragedy by Shakespeare about a Scottish king.": {
+    "guess": "Macbeth",
+    "confidence": [
+      [
+        "Mac",
+        -0.0004925066
+      ],
+      [
+        "beth",
+        0.0
+      ]
+    ]
+  },
+  "He defended his doctoral dissertation on \"Tschirnhaus transformations: algebraic equations with one unknown\"": {
+    "guess": "\u00c9variste Galois",
+    "confidence": [
+      [
+        "\u00c9",
+        -0.6935191
+      ],
+      [
+        "var",
+        -0.0025376098
+      ],
+      [
+        "iste",
+        -4.8425554e-06
+      ],
+      [
+        " G",
+        -1.9361265e-07
+      ],
+      [
+        "alo",
+        0.0
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "He defended his doctoral dissertation on \"Tschirnhaus transformations: algebraic equations with one unknown\" under the supervision of Franz Meyer. This physicist's most important contribution was partially": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7032492
+      ]
+    ]
+  },
+  "He defended his doctoral dissertation on \"Tschirnhaus transformations: algebraic equations with one unknown\" under the supervision of Franz Meyer. This physicist's most important contribution was partially anticipated by the work of Nordstrom and Larmor, who both used the flat (*) Minkowski space, which": {
+    "guess": "Albert Einstein",
+    "confidence": [
+      [
+        "Albert",
+        -0.07228352
+      ],
+      [
+        " Einstein",
+        0.0
+      ]
+    ]
+  },
+  "He defended his doctoral dissertation on \"Tschirnhaus transformations: algebraic equations with one unknown\" under the supervision of Franz Meyer. This physicist's most important contribution was partially anticipated by the work of Nordstrom and Larmor, who both used the flat (*) Minkowski space, which could not explain the deflection of light in a gravitational field. He utilized a universal tensor": {
+    "guess": "Einstein field equations",
+    "confidence": [
+      [
+        "Ein",
+        -0.48757148
+      ],
+      [
+        "stein",
+        -6.704273e-07
+      ],
+      [
+        " field",
+        -0.5075298
+      ],
+      [
+        " equations",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "He defended his doctoral dissertation on \"Tschirnhaus transformations: algebraic equations with one unknown\" under the supervision of Franz Meyer. This physicist's most important contribution was partially anticipated by the work of Nordstrom and Larmor, who both used the flat (*) Minkowski space, which could not explain the deflection of light in a gravitational field. He utilized a universal tensor from which the electromagnetic and gravitational fields arise, with a cylindrical condition or \"fifth": {
+    "guess": "Kaluza\u2013Klein theory",
+    "confidence": [
+      [
+        "K",
+        -0.09928904
+      ],
+      [
+        "alu",
+        -1.9361265e-07
+      ],
+      [
+        "za",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.6936518
+      ],
+      [
+        "K",
+        -4.3202e-07
+      ],
+      [
+        "lein",
+        0.0
+      ],
+      [
+        " theory",
+        -5.3193703e-06
+      ]
+    ]
+  },
+  "He defended his doctoral dissertation on \"Tschirnhaus transformations: algebraic equations with one unknown\" under the supervision of Franz Meyer. This physicist's most important contribution was partially anticipated by the work of Nordstrom and Larmor, who both used the flat (*) Minkowski space, which could not explain the deflection of light in a gravitational field. He utilized a universal tensor from which the electromagnetic and gravitational fields arise, with a cylindrical condition or \"fifth world dimension.\" For 10 points, name this German mathematician, whose work was modified by Klein": {
+    "guess": "Kaluza-Klein theory",
+    "confidence": [
+      [
+        "K",
+        -0.17297862
+      ],
+      [
+        "alu",
+        -1.9361265e-07
+      ],
+      [
+        "za",
+        0.0
+      ],
+      [
+        "-K",
+        -0.16199964
+      ],
+      [
+        "lein",
+        0.0
+      ],
+      [
+        " theory",
+        -0.00026777282
+      ]
+    ]
+  },
+  "He defended his doctoral dissertation on \"Tschirnhaus transformations: algebraic equations with one unknown\" under the supervision of Franz Meyer. This physicist's most important contribution was partially anticipated by the work of Nordstrom and Larmor, who both used the flat (*) Minkowski space, which could not explain the deflection of light in a gravitational field. He utilized a universal tensor from which the electromagnetic and gravitational fields arise, with a cylindrical condition or \"fifth world dimension.\" For 10 points, name this German mathematician, whose work was modified by Klein and forms the basis of modern string theory.": {
+    "guess": "Kaluza-Klein theory",
+    "confidence": [
+      [
+        "K",
+        -0.064785026
+      ],
+      [
+        "alu",
+        0.0
+      ],
+      [
+        "za",
+        0.0
+      ],
+      [
+        "-K",
+        -0.10248124
+      ],
+      [
+        "lein",
+        0.0
+      ],
+      [
+        " theory",
+        -0.00044508922
+      ]
+    ]
+  },
+  "Deep-level transient spectroscopy works by observing the transient value of this quantity related to": {
+    "guess": "Capacitance",
+    "confidence": [
+      [
+        "Cap",
+        -0.08397427
+      ],
+      [
+        "acit",
+        -1.2664457e-06
+      ],
+      [
+        "ance",
+        0.0
+      ]
+    ]
+  },
+  "Deep-level transient spectroscopy works by observing the transient value of this quantity related to the change in width of the depletion region of a diode. An inverting voltage amplifier increases this": {
+    "guess": "Capacitance",
+    "confidence": [
+      [
+        "Cap",
+        -0.030189054
+      ],
+      [
+        "acit",
+        -4.8425554e-06
+      ],
+      [
+        "ance",
+        0.0
+      ]
+    ]
+  },
+  "Deep-level transient spectroscopy works by observing the transient value of this quantity related to the change in width of the depletion region of a diode. An inverting voltage amplifier increases this quantity in the Miller effect. The inverse of this quantity is called the (*) elastance, and like": {
+    "guess": "Capacitance",
+    "confidence": [
+      [
+        "Cap",
+        -0.0024973024
+      ],
+      [
+        "acit",
+        0.0
+      ],
+      [
+        "ance",
+        0.0
+      ]
+    ]
+  },
+  "Deep-level transient spectroscopy works by observing the transient value of this quantity related to the change in width of the depletion region of a diode. An inverting voltage amplifier increases this quantity in the Miller effect. The inverse of this quantity is called the (*) elastance, and like inductance this quantity can be altered in crosstalk. The value of this quantity is increased by the": {
+    "guess": "Capacitance",
+    "confidence": [
+      [
+        "Cap",
+        -0.00013619766
+      ],
+      [
+        "acit",
+        -2.1531068e-05
+      ],
+      [
+        "ance",
+        0.0
+      ]
+    ]
+  },
+  "Deep-level transient spectroscopy works by observing the transient value of this quantity related to the change in width of the depletion region of a diode. An inverting voltage amplifier increases this quantity in the Miller effect. The inverse of this quantity is called the (*) elastance, and like inductance this quantity can be altered in crosstalk. The value of this quantity is increased by the insertion of a dialectric, and it's proportional to area and inversely proportional to separation.": {
+    "guess": "Capacitance",
+    "confidence": [
+      [
+        "Cap",
+        -0.00366611
+      ],
+      [
+        "acit",
+        -7.9418505e-06
+      ],
+      [
+        "ance",
+        0.0
+      ]
+    ]
+  },
+  "Deep-level transient spectroscopy works by observing the transient value of this quantity related to the change in width of the depletion region of a diode. An inverting voltage amplifier increases this quantity in the Miller effect. The inverse of this quantity is called the (*) elastance, and like inductance this quantity can be altered in crosstalk. The value of this quantity is increased by the insertion of a dialectric, and it's proportional to area and inversely proportional to separation. This quantity adds in parallel configurations, but its reciprocal adds in a series configuration. For": {
+    "guess": "Capacitance",
+    "confidence": [
+      [
+        "Cap",
+        -0.00073173555
+      ],
+      [
+        "acit",
+        -6.704273e-07
+      ],
+      [
+        "ance",
+        0.0
+      ]
+    ]
+  },
+  "Deep-level transient spectroscopy works by observing the transient value of this quantity related to the change in width of the depletion region of a diode. An inverting voltage amplifier increases this quantity in the Miller effect. The inverse of this quantity is called the (*) elastance, and like inductance this quantity can be altered in crosstalk. The value of this quantity is increased by the insertion of a dialectric, and it's proportional to area and inversely proportional to separation. This quantity adds in parallel configurations, but its reciprocal adds in a series configuration. For 10 points, name this quantity which is equal to charge divided by voltage, usually measured in Farads.": {
+    "guess": "Capacitance",
+    "confidence": [
+      [
+        "Cap",
+        -2.9517714e-05
+      ],
+      [
+        "acit",
+        -5.5122365e-07
+      ],
+      [
+        "ance",
+        0.0
+      ]
+    ]
+  },
+  "The defenders' numbers were lessened by the lack of support from Thessaly and Thebes. The original plan": {
+    "guess": "Battle of Thermopylae",
+    "confidence": [
+      [
+        "Battle",
+        -0.005723167
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Therm",
+        -3.1281633e-07
+      ],
+      [
+        "opy",
+        0.0
+      ],
+      [
+        "la",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "The defenders' numbers were lessened by the lack of support from Thessaly and Thebes. The original plan was to launch a defense in the Tembi valley, but the invading army was warned of this trap by Alexander": {
+    "guess": "Battle of Thermopylae",
+    "confidence": [
+      [
+        "Battle",
+        -0.014834023
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " Therm",
+        -0.00018685187
+      ],
+      [
+        "opy",
+        0.0
+      ],
+      [
+        "la",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "The defenders' numbers were lessened by the lack of support from Thessaly and Thebes. The original plan was to launch a defense in the Tembi valley, but the invading army was warned of this trap by Alexander I of Macedon. While Ephialtes' betrayal caused the 900 defenders to ultimately lose the battle,": {
+    "guess": "Battle of Thermopylae",
+    "confidence": [
+      [
+        "Battle",
+        -0.008418352
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Therm",
+        -3.1281633e-07
+      ],
+      [
+        "opy",
+        0.0
+      ],
+      [
+        "la",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "The defenders' numbers were lessened by the lack of support from Thessaly and Thebes. The original plan was to launch a defense in the Tembi valley, but the invading army was warned of this trap by Alexander I of Macedon. While Ephialtes' betrayal caused the 900 defenders to ultimately lose the battle, it allowed Athens to be evacuated and a much larger Greek force to mobilize. FTP, name this 480 B.C.": {
+    "guess": "Battle of Thermopylae",
+    "confidence": [
+      [
+        "Battle",
+        -7.660316e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Therm",
+        0.0
+      ],
+      [
+        "opy",
+        0.0
+      ],
+      [
+        "la",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "The defenders' numbers were lessened by the lack of support from Thessaly and Thebes. The original plan was to launch a defense in the Tembi valley, but the invading army was warned of this trap by Alexander I of Macedon. While Ephialtes' betrayal caused the 900 defenders to ultimately lose the battle, it allowed Athens to be evacuated and a much larger Greek force to mobilize. FTP, name this 480 B.C. battle where a small army of Thespians and Spartans made a last stand against a much larger Persian": {
+    "guess": "Battle of Thermopylae",
+    "confidence": [
+      [
+        "Battle",
+        -0.003529398
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Therm",
+        0.0
+      ],
+      [
+        "opy",
+        0.0
+      ],
+      [
+        "la",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "The defenders' numbers were lessened by the lack of support from Thessaly and Thebes. The original plan was to launch a defense in the Tembi valley, but the invading army was warned of this trap by Alexander I of Macedon. While Ephialtes' betrayal caused the 900 defenders to ultimately lose the battle, it allowed Athens to be evacuated and a much larger Greek force to mobilize. FTP, name this 480 B.C. battle where a small army of Thespians and Spartans made a last stand against a much larger Persian force of Xerxes I.": {
+    "guess": "Battle of Thermopylae",
+    "confidence": [
+      [
+        "Battle",
+        -0.00012106613
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Therm",
+        0.0
+      ],
+      [
+        "opy",
+        0.0
+      ],
+      [
+        "la",
+        0.0
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated such rival claimants as Pescennius Niger and Clodius Albinus after coming to power,": {
+    "guess": "Septimius Severus",
+    "confidence": [
+      [
+        "Sept",
+        -2.0696643e-05
+      ],
+      [
+        "imi",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Sever",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated such rival claimants as Pescennius Niger and Clodius Albinus after coming to power, and he attempted to forestall palace coups by replacing the entire Praetorian Guard. After the death": {
+    "guess": "Septimius Severus",
+    "confidence": [
+      [
+        "Sept",
+        -0.0009583895
+      ],
+      [
+        "imi",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Sever",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated such rival claimants as Pescennius Niger and Clodius Albinus after coming to power, and he attempted to forestall palace coups by replacing the entire Praetorian Guard. After the death of this man, his wife Julia Domna exercised great power over his successors. He bade his time as governor": {
+    "guess": "Septimius Severus",
+    "confidence": [
+      [
+        "Sept",
+        -0.0008383385
+      ],
+      [
+        "imi",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Sever",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated such rival claimants as Pescennius Niger and Clodius Albinus after coming to power, and he attempted to forestall palace coups by replacing the entire Praetorian Guard. After the death of this man, his wife Julia Domna exercised great power over his successors. He bade his time as governor of Upper Pannonia during the chaos following the murder of Commodus, eventually using the unavenged": {
+    "guess": "Septimius Severus",
+    "confidence": [
+      [
+        "Sept",
+        -0.0058104135
+      ],
+      [
+        "imi",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Sever",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated such rival claimants as Pescennius Niger and Clodius Albinus after coming to power, and he attempted to forestall palace coups by replacing the entire Praetorian Guard. After the death of this man, his wife Julia Domna exercised great power over his successors. He bade his time as governor of Upper Pannonia during the chaos following the murder of Commodus, eventually using the unavenged death of Pertinax as a pretext to overthrow a rich man who had won the Imperial throne at an": {
+    "guess": "Septimius Severus",
+    "confidence": [
+      [
+        "Sept",
+        -0.021600705
+      ],
+      [
+        "imi",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Sever",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated such rival claimants as Pescennius Niger and Clodius Albinus after coming to power, and he attempted to forestall palace coups by replacing the entire Praetorian Guard. After the death of this man, his wife Julia Domna exercised great power over his successors. He bade his time as governor of Upper Pannonia during the chaos following the murder of Commodus, eventually using the unavenged death of Pertinax as a pretext to overthrow a rich man who had won the Imperial throne at an auction, Didius Julianus. For 10 points, name this Roman emperor who ruled from 193 to 211 and was": {
+    "guess": "Septimius Severus",
+    "confidence": [
+      [
+        "Sept",
+        -0.0033923062
+      ],
+      [
+        "imi",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Sever",
+        0.0
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "This man defeated such rival claimants as Pescennius Niger and Clodius Albinus after coming to power, and he attempted to forestall palace coups by replacing the entire Praetorian Guard. After the death of this man, his wife Julia Domna exercised great power over his successors. He bade his time as governor of Upper Pannonia during the chaos following the murder of Commodus, eventually using the unavenged death of Pertinax as a pretext to overthrow a rich man who had won the Imperial throne at an auction, Didius Julianus. For 10 points, name this Roman emperor who ruled from 193 to 211 and was the namesake of a group that included Elagabalus, Geta, and Caracalla, the Severan Dynasty.": {
+    "guess": "Septimius Severus",
+    "confidence": [
+      [
+        "Sept",
+        -0.18607974
+      ],
+      [
+        "imi",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        " Sever",
+        -1.9361265e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "One of these defines greatness as finding \"quarrel in a straw / When honour's at stake\". Another describes": {
+    "guess": "Hamlet",
+    "confidence": [
+      [
+        "Ham",
+        -0.062198132
+      ],
+      [
+        "let",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "One of these defines greatness as finding \"quarrel in a straw / When honour's at stake\". Another describes a woman's way of doting on her former husband \"As if increase of appetite had grown / By what": {
+    "guess": "Hamlet",
+    "confidence": [
+      [
+        "Ham",
+        -0.20383258
+      ],
+      [
+        "let",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "One of these defines greatness as finding \"quarrel in a straw / When honour's at stake\". Another describes a woman's way of doting on her former husband \"As if increase of appetite had grown / By what it fed on\". One of these ends \"My thoughts be bloody or be nothing worth!\" after beginning \"How all": {
+    "guess": "Hamlet",
+    "confidence": [
+      [
+        "Ham",
+        -0.12720747
+      ],
+      [
+        "let",
+        0.0
+      ]
+    ]
+  },
+  "One of these defines greatness as finding \"quarrel in a straw / When honour's at stake\". Another describes a woman's way of doting on her former husband \"As if increase of appetite had grown / By what it fed on\". One of these ends \"My thoughts be bloody or be nothing worth!\" after beginning \"How all occasions do inform against me\". Another of these describes death as \"the undiscovered country from": {
+    "guess": "Hamlet",
+    "confidence": [
+      [
+        "Ham",
+        -0.5698467
+      ],
+      [
+        "let",
+        -1.3902034e-05
+      ]
+    ]
+  },
+  "One of these defines greatness as finding \"quarrel in a straw / When honour's at stake\". Another describes a woman's way of doting on her former husband \"As if increase of appetite had grown / By what it fed on\". One of these ends \"My thoughts be bloody or be nothing worth!\" after beginning \"How all occasions do inform against me\". Another of these describes death as \"the undiscovered country from whose bourn / no traveller returns\" and as \"to sleep: perchance to dream\". For 10 points, name these": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.75656676
+      ]
+    ]
+  },
+  "One of these defines greatness as finding \"quarrel in a straw / When honour's at stake\". Another describes a woman's way of doting on her former husband \"As if increase of appetite had grown / By what it fed on\". One of these ends \"My thoughts be bloody or be nothing worth!\" after beginning \"How all occasions do inform against me\". Another of these describes death as \"the undiscovered country from whose bourn / no traveller returns\" and as \"to sleep: perchance to dream\". For 10 points, name these speeches given by a certain Shakespearean character, the most famous of which begins \"To be or not": {
+    "guess": "Hamlet's Soliloquies",
+    "confidence": [
+      [
+        "Ham",
+        -0.48170006
+      ],
+      [
+        "let",
+        -4.4849444e-06
+      ],
+      [
+        "'s",
+        -0.084389925
+      ],
+      [
+        " Sol",
+        -0.5232596
+      ],
+      [
+        "ilo",
+        0.0
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "ies",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "One of these defines greatness as finding \"quarrel in a straw / When honour's at stake\". Another describes a woman's way of doting on her former husband \"As if increase of appetite had grown / By what it fed on\". One of these ends \"My thoughts be bloody or be nothing worth!\" after beginning \"How all occasions do inform against me\". Another of these describes death as \"the undiscovered country from whose bourn / no traveller returns\" and as \"to sleep: perchance to dream\". For 10 points, name these speeches given by a certain Shakespearean character, the most famous of which begins \"To be or not to be\".": {
+    "guess": "Hamlet's soliloquies",
+    "confidence": [
+      [
+        "Ham",
+        -0.2186366
+      ],
+      [
+        "let",
+        -4.365741e-06
+      ],
+      [
+        "'s",
+        -0.2616925
+      ],
+      [
+        " sol",
+        -0.69323766
+      ],
+      [
+        "ilo",
+        0.0
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "ies",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "The defenders formed a compact line known as the \"hoary apple-tree position\" on the Senlac Ridge in which": {
+    "guess": "Battle of Hastings",
+    "confidence": [
+      [
+        "Battle",
+        -0.0002356025
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hastings",
+        0.0
+      ]
+    ]
+  },
+  "The defenders formed a compact line known as the \"hoary apple-tree position\" on the Senlac Ridge in which their flanks were guarded by steep ravines and the forest of Anderid covered their rear. The attackers": {
+    "guess": "Battle of Hastings",
+    "confidence": [
+      [
+        "Battle",
+        -0.00010938417
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hastings",
+        0.0
+      ]
+    ]
+  },
+  "The defenders formed a compact line known as the \"hoary apple-tree position\" on the Senlac Ridge in which their flanks were guarded by steep ravines and the forest of Anderid covered their rear. The attackers had to march six miles and formed into three division north of Telham Hill. The crippling attack": {
+    "guess": "Battle of Hastings",
+    "confidence": [
+      [
+        "Battle",
+        -0.00020997738
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hastings",
+        0.0
+      ]
+    ]
+  },
+  "The defenders formed a compact line known as the \"hoary apple-tree position\" on the Senlac Ridge in which their flanks were guarded by steep ravines and the forest of Anderid covered their rear. The attackers had to march six miles and formed into three division north of Telham Hill. The crippling attack was delivered by Eustace of Boulogne against the right flank after the defenders had been drawn": {
+    "guess": "Battle of Hastings",
+    "confidence": [
+      [
+        "Battle",
+        -0.0005973545
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hastings",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The defenders formed a compact line known as the \"hoary apple-tree position\" on the Senlac Ridge in which their flanks were guarded by steep ravines and the forest of Anderid covered their rear. The attackers had to march six miles and formed into three division north of Telham Hill. The crippling attack was delivered by Eustace of Boulogne against the right flank after the defenders had been drawn off by a feint retreat. Large-scale resistance ended after the death of King Harold Godwinson who had": {
+    "guess": "Battle of Hastings",
+    "confidence": [
+      [
+        "Battle",
+        -0.00030543018
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hastings",
+        0.0
+      ]
+    ]
+  },
+  "The defenders formed a compact line known as the \"hoary apple-tree position\" on the Senlac Ridge in which their flanks were guarded by steep ravines and the forest of Anderid covered their rear. The attackers had to march six miles and formed into three division north of Telham Hill. The crippling attack was delivered by Eustace of Boulogne against the right flank after the defenders had been drawn off by a feint retreat. Large-scale resistance ended after the death of King Harold Godwinson who had successfully defended his kingdom just weeks before at Stamford Bridge. FTP, identify this 1066 battle": {
+    "guess": "Battle of Hastings",
+    "confidence": [
+      [
+        "Battle",
+        -5.5146502e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hastings",
+        0.0
+      ]
+    ]
+  },
+  "The defenders formed a compact line known as the \"hoary apple-tree position\" on the Senlac Ridge in which their flanks were guarded by steep ravines and the forest of Anderid covered their rear. The attackers had to march six miles and formed into three division north of Telham Hill. The crippling attack was delivered by Eustace of Boulogne against the right flank after the defenders had been drawn off by a feint retreat. Large-scale resistance ended after the death of King Harold Godwinson who had successfully defended his kingdom just weeks before at Stamford Bridge. FTP, identify this 1066 battle which made William the Conqueror king of England.": {
+    "guess": "Battle of Hastings",
+    "confidence": [
+      [
+        "Battle",
+        -0.38911366
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Hastings",
+        0.0
+      ]
+    ]
+  },
+  "This man defended his kingdom against an invading army with the help of his nephews, the Moliones, who": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.47504252
+      ],
+      [
+        ".",
+        -0.25194287
+      ]
+    ]
+  },
+  "This man defended his kingdom against an invading army with the help of his nephews, the Moliones, who wounded Iphicles during the fighting. He banished his eldest son Phyleus from Elis after refusing": {
+    "guess": "Augeas",
+    "confidence": [
+      [
+        "A",
+        -0.22853754
+      ],
+      [
+        "uge",
+        -0.00017123987
+      ],
+      [
+        "as",
+        -0.0015024792
+      ]
+    ]
+  },
+  "This man defended his kingdom against an invading army with the help of his nephews, the Moliones, who wounded Iphicles during the fighting. He banished his eldest son Phyleus from Elis after refusing to pay a hero on the grounds that the River-gods Peneius or Menius and Alpheus had done all the work.": {
+    "guess": "Augeas",
+    "confidence": [
+      [
+        "A",
+        -0.038611
+      ],
+      [
+        "uge",
+        -6.7901296e-05
+      ],
+      [
+        "as",
+        -0.0019287518
+      ]
+    ]
+  },
+  "This man defended his kingdom against an invading army with the help of his nephews, the Moliones, who wounded Iphicles during the fighting. He banished his eldest son Phyleus from Elis after refusing to pay a hero on the grounds that the River-gods Peneius or Menius and Alpheus had done all the work. By divine dispensation, his animals were inimitably fertile, immune to disease, and never miscarried.": {
+    "guess": "Augeas",
+    "confidence": [
+      [
+        "A",
+        -0.00069456233
+      ],
+      [
+        "uge",
+        -6.0345924e-06
+      ],
+      [
+        "as",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "This man defended his kingdom against an invading army with the help of his nephews, the Moliones, who wounded Iphicles during the fighting. He banished his eldest son Phyleus from Elis after refusing to pay a hero on the grounds that the River-gods Peneius or Menius and Alpheus had done all the work. By divine dispensation, his animals were inimitably fertile, immune to disease, and never miscarried. The Peloponnese suffered a pestilence originating in the stench from his sheep folds and cattle": {
+    "guess": "Augeas",
+    "confidence": [
+      [
+        "A",
+        -0.0010898546
+      ],
+      [
+        "uge",
+        -6.511407e-06
+      ],
+      [
+        "as",
+        -0.00015872349
+      ]
+    ]
+  },
+  "This man defended his kingdom against an invading army with the help of his nephews, the Moliones, who wounded Iphicles during the fighting. He banished his eldest son Phyleus from Elis after refusing to pay a hero on the grounds that the River-gods Peneius or Menius and Alpheus had done all the work. By divine dispensation, his animals were inimitably fertile, immune to disease, and never miscarried. The Peloponnese suffered a pestilence originating in the stench from his sheep folds and cattle yards, which were deep in dung. FTP, name this man whose filthy stables were cleaned by Heracles.": {
+    "guess": "Augeas",
+    "confidence": [
+      [
+        "A",
+        -0.0038819038
+      ],
+      [
+        "uge",
+        -4.3202e-07
+      ],
+      [
+        "as",
+        0.0
+      ]
+    ]
+  },
+  "This man was defeated at the Battle of Arsuf, allowing his foes to retake Joppa. Earlier, his forces": {
+    "guess": "Saladin",
+    "confidence": [
+      [
+        "Sal",
+        -0.008708764
+      ],
+      [
+        "adin",
+        0.0
+      ]
+    ]
+  },
+  "This man was defeated at the Battle of Arsuf, allowing his foes to retake Joppa. Earlier, his forces defeated Guy of Lusignan at the Horns of Hattin. His lands were divided among his sons Al-Afdal, Al-": {
+    "guess": "Saladin",
+    "confidence": [
+      [
+        "Sal",
+        -3.297462e-05
+      ],
+      [
+        "adin",
+        -3.888926e-06
+      ]
+    ]
+  },
+  "This man was defeated at the Battle of Arsuf, allowing his foes to retake Joppa. Earlier, his forces defeated Guy of Lusignan at the Horns of Hattin. His lands were divided among his sons Al-Afdal, Al- Zahir, and Al-Aziz after his death, fragmenting the new dynasty he had founded by taking advantage": {
+    "guess": "Saladin",
+    "confidence": [
+      [
+        "Sal",
+        -0.0013440428
+      ],
+      [
+        "adin",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man was defeated at the Battle of Arsuf, allowing his foes to retake Joppa. Earlier, his forces defeated Guy of Lusignan at the Horns of Hattin. His lands were divided among his sons Al-Afdal, Al- Zahir, and Al-Aziz after his death, fragmenting the new dynasty he had founded by taking advantage of popular opposition to the Shiite (*) Fatimids. This founder of a new Sunni dynasty in Egypt, the": {
+    "guess": "Saladin",
+    "confidence": [
+      [
+        "Sal",
+        -3.8338785e-05
+      ],
+      [
+        "adin",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "This man was defeated at the Battle of Arsuf, allowing his foes to retake Joppa. Earlier, his forces defeated Guy of Lusignan at the Horns of Hattin. His lands were divided among his sons Al-Afdal, Al- Zahir, and Al-Aziz after his death, fragmenting the new dynasty he had founded by taking advantage of popular opposition to the Shiite (*) Fatimids. This founder of a new Sunni dynasty in Egypt, the Ayyubids, was a Kurdish soldier whose actions led to the calling of the Third Crusade. For 10 points,": {
+    "guess": "Saladin",
+    "confidence": [
+      [
+        "Sal",
+        -1.2113979e-05
+      ],
+      [
+        "adin",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "This man was defeated at the Battle of Arsuf, allowing his foes to retake Joppa. Earlier, his forces defeated Guy of Lusignan at the Horns of Hattin. His lands were divided among his sons Al-Afdal, Al- Zahir, and Al-Aziz after his death, fragmenting the new dynasty he had founded by taking advantage of popular opposition to the Shiite (*) Fatimids. This founder of a new Sunni dynasty in Egypt, the Ayyubids, was a Kurdish soldier whose actions led to the calling of the Third Crusade. For 10 points, name this sultan who retook Jerusalem, the nephew of Nur ad-din.": {
+    "guess": "Saladin",
+    "confidence": [
+      [
+        "Sal",
+        -8.776276e-06
+      ],
+      [
+        "adin",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "The defeat of Alexander Petion solidified Henry I's rule of this country, but after Henry's suicide,": {
+    "guess": "Haiti",
+    "confidence": [
+      [
+        "H",
+        -0.0062201633
+      ],
+      [
+        "aiti",
+        -5.8603408e-05
+      ]
+    ]
+  },
+  "The defeat of Alexander Petion solidified Henry I's rule of this country, but after Henry's suicide, this nation's monarchy was not restored until the rule of Faustin I. Stenio Vincent became president": {
+    "guess": "Haiti",
+    "confidence": [
+      [
+        "H",
+        -2.0935051e-05
+      ],
+      [
+        "aiti",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "The defeat of Alexander Petion solidified Henry I's rule of this country, but after Henry's suicide, this nation's monarchy was not restored until the rule of Faustin I. Stenio Vincent became president of this nation after the Good Neighbor Policy ended a U.S. occupation in 1934. Bill Clinton reoccupied": {
+    "guess": "Haiti",
+    "confidence": [
+      [
+        "H",
+        -0.00013023747
+      ],
+      [
+        "aiti",
+        -0.00026157423
+      ]
+    ]
+  },
+  "The defeat of Alexander Petion solidified Henry I's rule of this country, but after Henry's suicide, this nation's monarchy was not restored until the rule of Faustin I. Stenio Vincent became president of this nation after the Good Neighbor Policy ended a U.S. occupation in 1934. Bill Clinton reoccupied this country in Operation Upholding Democracy, which restored the presidency of a man who was later": {
+    "guess": "Haiti",
+    "confidence": [
+      [
+        "H",
+        -0.00014489953
+      ],
+      [
+        "aiti",
+        -0.00015872349
+      ]
+    ]
+  },
+  "The defeat of Alexander Petion solidified Henry I's rule of this country, but after Henry's suicide, this nation's monarchy was not restored until the rule of Faustin I. Stenio Vincent became president of this nation after the Good Neighbor Policy ended a U.S. occupation in 1934. Bill Clinton reoccupied this country in Operation Upholding Democracy, which restored the presidency of a man who was later overthrown in a 2004 uprising and replaced by Rene Preval, Jean-Bertrand Aristide. For 10 points,": {
+    "guess": "Haiti",
+    "confidence": [
+      [
+        "H",
+        -0.019395554
+      ],
+      [
+        "aiti",
+        -9.627177e-05
+      ]
+    ]
+  },
+  "The defeat of Alexander Petion solidified Henry I's rule of this country, but after Henry's suicide, this nation's monarchy was not restored until the rule of Faustin I. Stenio Vincent became president of this nation after the Good Neighbor Policy ended a U.S. occupation in 1934. Bill Clinton reoccupied this country in Operation Upholding Democracy, which restored the presidency of a man who was later overthrown in a 2004 uprising and replaced by Rene Preval, Jean-Bertrand Aristide. For 10 points, name this Caribbean island nation whose independence movement against France was led by Toussaint": {
+    "guess": "Haiti",
+    "confidence": [
+      [
+        "H",
+        -0.013000335
+      ],
+      [
+        "aiti",
+        -0.018175106
+      ]
+    ]
+  },
+  "The defeat of Alexander Petion solidified Henry I's rule of this country, but after Henry's suicide, this nation's monarchy was not restored until the rule of Faustin I. Stenio Vincent became president of this nation after the Good Neighbor Policy ended a U.S. occupation in 1934. Bill Clinton reoccupied this country in Operation Upholding Democracy, which restored the presidency of a man who was later overthrown in a 2004 uprising and replaced by Rene Preval, Jean-Bertrand Aristide. For 10 points, name this Caribbean island nation whose independence movement against France was led by Toussaint L'Ouverture.": {
+    "guess": "Haiti",
+    "confidence": [
+      [
+        "H",
+        -0.0010217362
+      ],
+      [
+        "aiti",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "After defeating the demon Hiranyaksha, one god assumed the form of this animal to rescue Bhumidevi from": {
+    "guess": "Varaha",
+    "confidence": [
+      [
+        "Var",
+        -0.003178783
+      ],
+      [
+        "aha",
+        -2.9875326e-05
+      ]
+    ]
+  },
+  "After defeating the demon Hiranyaksha, one god assumed the form of this animal to rescue Bhumidevi from the bottom of the ocean. Plexippus and Toxeus were two brothers of Althaea who were killed after": {
+    "guess": "Varaha",
+    "confidence": [
+      [
+        "Var",
+        -0.0048417463
+      ],
+      [
+        "aha",
+        -3.4762674e-05
+      ]
+    ]
+  },
+  "After defeating the demon Hiranyaksha, one god assumed the form of this animal to rescue Bhumidevi from the bottom of the ocean. Plexippus and Toxeus were two brothers of Althaea who were killed after they argued over the pelt of one of these creatures. Ottar was changed into one of these creatures by": {
+    "guess": "Boar",
+    "confidence": [
+      [
+        "Bo",
+        -0.0019173339
+      ],
+      [
+        "ar",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "After defeating the demon Hiranyaksha, one god assumed the form of this animal to rescue Bhumidevi from the bottom of the ocean. Plexippus and Toxeus were two brothers of Althaea who were killed after they argued over the pelt of one of these creatures. Ottar was changed into one of these creatures by his lover Freya. The form of this animal was assumed by Vishnu's third avatar, Varaha. A (*) golden": {
+    "guess": "Boar",
+    "confidence": [
+      [
+        "Bo",
+        -0.075030215
+      ],
+      [
+        "ar",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "After defeating the demon Hiranyaksha, one god assumed the form of this animal to rescue Bhumidevi from the bottom of the ocean. Plexippus and Toxeus were two brothers of Althaea who were killed after they argued over the pelt of one of these creatures. Ottar was changed into one of these creatures by his lover Freya. The form of this animal was assumed by Vishnu's third avatar, Varaha. A (*) golden one of these animals, Gullinbursti, was owned by Freyr, and King Eurystheus hid in a jar when Heracles": {
+    "guess": "Boar",
+    "confidence": [
+      [
+        "Bo",
+        -0.07764613
+      ],
+      [
+        "ar",
+        -3.1305768e-05
+      ]
+    ]
+  },
+  "After defeating the demon Hiranyaksha, one god assumed the form of this animal to rescue Bhumidevi from the bottom of the ocean. Plexippus and Toxeus were two brothers of Althaea who were killed after they argued over the pelt of one of these creatures. Ottar was changed into one of these creatures by his lover Freya. The form of this animal was assumed by Vishnu's third avatar, Varaha. A (*) golden one of these animals, Gullinbursti, was owned by Freyr, and King Eurystheus hid in a jar when Heracles brought back one of these animals that he had to capture for his fourth labor. For 10 points, name": {
+    "guess": "Boar",
+    "confidence": [
+      [
+        "Bo",
+        -0.019500427
+      ],
+      [
+        "ar",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "After defeating the demon Hiranyaksha, one god assumed the form of this animal to rescue Bhumidevi from the bottom of the ocean. Plexippus and Toxeus were two brothers of Althaea who were killed after they argued over the pelt of one of these creatures. Ottar was changed into one of these creatures by his lover Freya. The form of this animal was assumed by Vishnu's third avatar, Varaha. A (*) golden one of these animals, Gullinbursti, was owned by Freyr, and King Eurystheus hid in a jar when Heracles brought back one of these animals that he had to capture for his fourth labor. For 10 points, name this type of animal that was hunted by Meleager, Atalanta, and others in the area around Calydon.": {
+    "guess": "Boar",
+    "confidence": [
+      [
+        "Bo",
+        -0.0149851795
+      ],
+      [
+        "ar",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "This man defined parrhesia in his lecture series Discourse and Truth, which was \"an attempt to consider": {
+    "guess": "Michel Foucault",
+    "confidence": [
+      [
+        "Michel",
+        -0.48812142
+      ],
+      [
+        " F",
+        0.0
+      ],
+      [
+        "ouc",
+        0.0
+      ],
+      [
+        "ault",
+        0.0
+      ]
+    ]
+  },
+  "This man defined parrhesia in his lecture series Discourse and Truth, which was \"an attempt to consider truth-telling as a specific activity.\" He began a book subtitled \"An Archaeology of the Human Sciences\"": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6869632
+      ]
+    ]
+  },
+  "This man defined parrhesia in his lecture series Discourse and Truth, which was \"an attempt to consider truth-telling as a specific activity.\" He began a book subtitled \"An Archaeology of the Human Sciences\" with a discussion of Las Meninas, then proceeded to outline his concept of the \"episteme.\" This": {
+    "guess": "The Order of Things",
+    "confidence": [
+      [
+        "The",
+        -0.16011585
+      ],
+      [
+        " Order",
+        -0.0006421421
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Things",
+        0.0
+      ]
+    ]
+  },
+  "This man defined parrhesia in his lecture series Discourse and Truth, which was \"an attempt to consider truth-telling as a specific activity.\" He began a book subtitled \"An Archaeology of the Human Sciences\" with a discussion of Las Meninas, then proceeded to outline his concept of the \"episteme.\" This author of The History of Sexuality theorized the dehumanizing \"medical gaze\" in his The Birth of": {
+    "guess": "Michel Foucault",
+    "confidence": [
+      [
+        "Michel",
+        -0.53898937
+      ],
+      [
+        " F",
+        0.0
+      ],
+      [
+        "ouc",
+        0.0
+      ],
+      [
+        "ault",
+        0.0
+      ]
+    ]
+  },
+  "This man defined parrhesia in his lecture series Discourse and Truth, which was \"an attempt to consider truth-telling as a specific activity.\" He began a book subtitled \"An Archaeology of the Human Sciences\" with a discussion of Las Meninas, then proceeded to outline his concept of the \"episteme.\" This author of The History of Sexuality theorized the dehumanizing \"medical gaze\" in his The Birth of the Clinic, and he described the \"unequal gaze\" afforded by Jeremy Bentham's Panopticon. For 10 points,": {
+    "guess": "Michel Foucault",
+    "confidence": [
+      [
+        "Michel",
+        -0.24120812
+      ],
+      [
+        " F",
+        0.0
+      ],
+      [
+        "ouc",
+        0.0
+      ],
+      [
+        "ault",
+        0.0
+      ]
+    ]
+  },
+  "This man defined parrhesia in his lecture series Discourse and Truth, which was \"an attempt to consider truth-telling as a specific activity.\" He began a book subtitled \"An Archaeology of the Human Sciences\" with a discussion of Las Meninas, then proceeded to outline his concept of the \"episteme.\" This author of The History of Sexuality theorized the dehumanizing \"medical gaze\" in his The Birth of the Clinic, and he described the \"unequal gaze\" afforded by Jeremy Bentham's Panopticon. For 10 points, name this French philosopher who analyzed the prison system in Discipline and Punish.": {
+    "guess": "Michel Foucault",
+    "confidence": [
+      [
+        "Michel",
+        -0.008439048
+      ],
+      [
+        " F",
+        0.0
+      ],
+      [
+        "ouc",
+        0.0
+      ],
+      [
+        "ault",
+        0.0
+      ]
+    ]
+  },
+  "The definitive book about this character was written in 2007 by William and Mary professor Scott Reynolds": {
+    "guess": "Spider-Man",
+    "confidence": [
+      [
+        "Spider",
+        -1.5712574
+      ],
+      [
+        "-Man",
+        -0.0003825293
+      ]
+    ]
+  },
+  "The definitive book about this character was written in 2007 by William and Mary professor Scott Reynolds Nelson, who argued that he is buried in a \"white house\" behind a Virginia penitentiary. This character's": {
+    "guess": "John Henry",
+    "confidence": [
+      [
+        "John",
+        -0.02984907
+      ],
+      [
+        " Henry",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The definitive book about this character was written in 2007 by William and Mary professor Scott Reynolds Nelson, who argued that he is buried in a \"white house\" behind a Virginia penitentiary. This character's wife is sometimes called Julie Ann, and in the stories frequently tells him, \"I've been true": {
+    "guess": "John Henry",
+    "confidence": [
+      [
+        "John",
+        -0.021728802
+      ],
+      [
+        " Henry",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The definitive book about this character was written in 2007 by William and Mary professor Scott Reynolds Nelson, who argued that he is buried in a \"white house\" behind a Virginia penitentiary. This character's wife is sometimes called Julie Ann, and in the stories frequently tells him, \"I've been true to you.\" In one account of his life, he receives fifty dollars from his white captain but dies shortly": {
+    "guess": "John Henry",
+    "confidence": [
+      [
+        "John",
+        -0.00043090762
+      ],
+      [
+        " Henry",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "The definitive book about this character was written in 2007 by William and Mary professor Scott Reynolds Nelson, who argued that he is buried in a \"white house\" behind a Virginia penitentiary. This character's wife is sometimes called Julie Ann, and in the stories frequently tells him, \"I've been true to you.\" In one account of his life, he receives fifty dollars from his white captain but dies shortly after telling his son that the \"Big Ben Tunnel gonna be the death of me.\" This character battles": {
+    "guess": "John Henry",
+    "confidence": [
+      [
+        "John",
+        -8.971556e-05
+      ],
+      [
+        " Henry",
+        0.0
+      ]
+    ]
+  },
+  "The definitive book about this character was written in 2007 by William and Mary professor Scott Reynolds Nelson, who argued that he is buried in a \"white house\" behind a Virginia penitentiary. This character's wife is sometimes called Julie Ann, and in the stories frequently tells him, \"I've been true to you.\" In one account of his life, he receives fifty dollars from his white captain but dies shortly after telling his son that the \"Big Ben Tunnel gonna be the death of me.\" This character battles a steam powered device while building a railroad tunnel and dies after winning the contest. For 10": {
+    "guess": "John Henry",
+    "confidence": [
+      [
+        "John",
+        -0.00013655527
+      ],
+      [
+        " Henry",
+        0.0
+      ]
+    ]
+  },
+  "The definitive book about this character was written in 2007 by William and Mary professor Scott Reynolds Nelson, who argued that he is buried in a \"white house\" behind a Virginia penitentiary. This character's wife is sometimes called Julie Ann, and in the stories frequently tells him, \"I've been true to you.\" In one account of his life, he receives fifty dollars from his white captain but dies shortly after telling his son that the \"Big Ben Tunnel gonna be the death of me.\" This character battles a steam powered device while building a railroad tunnel and dies after winning the contest. For 10 points, name this legendary \"steel-driving\" man from American folklore.": {
+    "guess": "John Henry",
+    "confidence": [
+      [
+        "John",
+        -3.7146747e-05
+      ],
+      [
+        " Henry",
+        0.0
+      ]
+    ]
+  },
+  "A deeply eutectic solvent is formed from a mixture of this compound and choline chloride. A method of": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.10400172
+      ]
+    ]
+  },
+  "A deeply eutectic solvent is formed from a mixture of this compound and choline chloride. A method of identifying H. pylori infections detects isotope-labeled carbon dioxide produced from this compound's": {
+    "guess": "Urea breath test",
+    "confidence": [
+      [
+        "U",
+        -0.010633437
+      ],
+      [
+        "rea",
+        -0.0009115827
+      ],
+      [
+        " breath",
+        -0.7096383
+      ],
+      [
+        " test",
+        -6.749814e-06
+      ]
+    ]
+  },
+  "A deeply eutectic solvent is formed from a mixture of this compound and choline chloride. A method of identifying H. pylori infections detects isotope-labeled carbon dioxide produced from this compound's degradation by a nickel metalloenzyme. Its biosynthesis depends on the presence of N-acetylglutamic": {
+    "guess": "Urea",
+    "confidence": [
+      [
+        "U",
+        -0.0041953367
+      ],
+      [
+        "rea",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "A deeply eutectic solvent is formed from a mixture of this compound and choline chloride. A method of identifying H. pylori infections detects isotope-labeled carbon dioxide produced from this compound's degradation by a nickel metalloenzyme. Its biosynthesis depends on the presence of N-acetylglutamic acid, the obligate allosteric activator of carbamoyl phosphate synthetase. Three ATPs are hydrolyzed": {
+    "guess": "Urea",
+    "confidence": [
+      [
+        "U",
+        -0.062350802
+      ],
+      [
+        "rea",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "A deeply eutectic solvent is formed from a mixture of this compound and choline chloride. A method of identifying H. pylori infections detects isotope-labeled carbon dioxide produced from this compound's degradation by a nickel metalloenzyme. Its biosynthesis depends on the presence of N-acetylglutamic acid, the obligate allosteric activator of carbamoyl phosphate synthetase. Three ATPs are hydrolyzed to two ADP and one AMP in producing this compound through non-standard (*) amino acid intermediates,": {
+    "guess": "Urea",
+    "confidence": [
+      [
+        "U",
+        -0.0015871046
+      ],
+      [
+        "rea",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A deeply eutectic solvent is formed from a mixture of this compound and choline chloride. A method of identifying H. pylori infections detects isotope-labeled carbon dioxide produced from this compound's degradation by a nickel metalloenzyme. Its biosynthesis depends on the presence of N-acetylglutamic acid, the obligate allosteric activator of carbamoyl phosphate synthetase. Three ATPs are hydrolyzed to two ADP and one AMP in producing this compound through non-standard (*) amino acid intermediates, such as citrulline and ornithine, in its namesake cycle. Friedrich Wohler disproved vitalism by": {
+    "guess": "Urea",
+    "confidence": [
+      [
+        "U",
+        -0.016356451
+      ],
+      [
+        "rea",
+        0.0
+      ]
+    ]
+  },
+  "A deeply eutectic solvent is formed from a mixture of this compound and choline chloride. A method of identifying H. pylori infections detects isotope-labeled carbon dioxide produced from this compound's degradation by a nickel metalloenzyme. Its biosynthesis depends on the presence of N-acetylglutamic acid, the obligate allosteric activator of carbamoyl phosphate synthetase. Three ATPs are hydrolyzed to two ADP and one AMP in producing this compound through non-standard (*) amino acid intermediates, such as citrulline and ornithine, in its namesake cycle. Friedrich Wohler disproved vitalism by synthesizing this compound from inorganic precursors. For 10 points, name this compound with formula": {
+    "guess": "Urea",
+    "confidence": [
+      [
+        "U",
+        -0.0706196
+      ],
+      [
+        "rea",
+        0.0
+      ]
+    ]
+  },
+  "A deeply eutectic solvent is formed from a mixture of this compound and choline chloride. A method of identifying H. pylori infections detects isotope-labeled carbon dioxide produced from this compound's degradation by a nickel metalloenzyme. Its biosynthesis depends on the presence of N-acetylglutamic acid, the obligate allosteric activator of carbamoyl phosphate synthetase. Three ATPs are hydrolyzed to two ADP and one AMP in producing this compound through non-standard (*) amino acid intermediates, such as citrulline and ornithine, in its namesake cycle. Friedrich Wohler disproved vitalism by synthesizing this compound from inorganic precursors. For 10 points, name this compound with formula CO(NH2)2, the form in which mammals excrete nitrogenous waste.": {
+    "guess": "Urea",
+    "confidence": [
+      [
+        "U",
+        -0.00793215
+      ],
+      [
+        "rea",
+        0.0
+      ]
+    ]
+  },
+  "Defects of GDP-fucose transporters in this organelle's membrane contribute to the Bombay blood type.": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -2.3080716e-05
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -4.012684e-05
+      ]
+    ]
+  },
+  "Defects of GDP-fucose transporters in this organelle's membrane contribute to the Bombay blood type. This organelle tends to be located near centrosomes in mammals, and it is found near exit sites of another": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -6.9882217e-06
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -4.5491004e-05
+      ]
+    ]
+  },
+  "Defects of GDP-fucose transporters in this organelle's membrane contribute to the Bombay blood type. This organelle tends to be located near centrosomes in mammals, and it is found near exit sites of another organelle to which it is connected by the vesicular-tubular cluster. Brefeldin A prevents the": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -0.0005062077
+      ],
+      [
+        "gi",
+        -5.5122365e-07
+      ],
+      [
+        " apparatus",
+        -0.008614688
+      ]
+    ]
+  },
+  "Defects of GDP-fucose transporters in this organelle's membrane contribute to the Bombay blood type. This organelle tends to be located near centrosomes in mammals, and it is found near exit sites of another organelle to which it is connected by the vesicular-tubular cluster. Brefeldin A prevents the action of COPII, which coats vesicles bound for this organelle. This organelle adds (*) mannose-6-phosphate": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -6.2775536e-05
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -0.00012356207
+      ]
+    ]
+  },
+  "Defects of GDP-fucose transporters in this organelle's membrane contribute to the Bombay blood type. This organelle tends to be located near centrosomes in mammals, and it is found near exit sites of another organelle to which it is connected by the vesicular-tubular cluster. Brefeldin A prevents the action of COPII, which coats vesicles bound for this organelle. This organelle adds (*) mannose-6-phosphate to proteins bound for lysosomes and can carry out other post-translational modifications like": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -7.278864e-05
+      ],
+      [
+        "gi",
+        -3.1281633e-07
+      ],
+      [
+        " apparatus",
+        -7.493431e-05
+      ]
+    ]
+  },
+  "Defects of GDP-fucose transporters in this organelle's membrane contribute to the Bombay blood type. This organelle tends to be located near centrosomes in mammals, and it is found near exit sites of another organelle to which it is connected by the vesicular-tubular cluster. Brefeldin A prevents the action of COPII, which coats vesicles bound for this organelle. This organelle adds (*) mannose-6-phosphate to proteins bound for lysosomes and can carry out other post-translational modifications like phosphorylation and sulfation. It has a cis face and a trans face and consists of a series of flattened,": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -0.0008350008
+      ],
+      [
+        "gi",
+        -4.3202e-07
+      ],
+      [
+        " apparatus",
+        -0.0002036596
+      ]
+    ]
+  },
+  "Defects of GDP-fucose transporters in this organelle's membrane contribute to the Bombay blood type. This organelle tends to be located near centrosomes in mammals, and it is found near exit sites of another organelle to which it is connected by the vesicular-tubular cluster. Brefeldin A prevents the action of COPII, which coats vesicles bound for this organelle. This organelle adds (*) mannose-6-phosphate to proteins bound for lysosomes and can carry out other post-translational modifications like phosphorylation and sulfation. It has a cis face and a trans face and consists of a series of flattened, membrane-enclosed discs called cisternae. It receives peptides from the rough endoplasmic reticulum": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -0.00045033416
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "Defects of GDP-fucose transporters in this organelle's membrane contribute to the Bombay blood type. This organelle tends to be located near centrosomes in mammals, and it is found near exit sites of another organelle to which it is connected by the vesicular-tubular cluster. Brefeldin A prevents the action of COPII, which coats vesicles bound for this organelle. This organelle adds (*) mannose-6-phosphate to proteins bound for lysosomes and can carry out other post-translational modifications like phosphorylation and sulfation. It has a cis face and a trans face and consists of a series of flattened, membrane-enclosed discs called cisternae. It receives peptides from the rough endoplasmic reticulum and packages them in vesicles for transport. For 10 points, name this organelle named for an": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -0.00012499251
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -3.5477897e-05
+      ]
+    ]
+  },
+  "Defects of GDP-fucose transporters in this organelle's membrane contribute to the Bombay blood type. This organelle tends to be located near centrosomes in mammals, and it is found near exit sites of another organelle to which it is connected by the vesicular-tubular cluster. Brefeldin A prevents the action of COPII, which coats vesicles bound for this organelle. This organelle adds (*) mannose-6-phosphate to proteins bound for lysosomes and can carry out other post-translational modifications like phosphorylation and sulfation. It has a cis face and a trans face and consists of a series of flattened, membrane-enclosed discs called cisternae. It receives peptides from the rough endoplasmic reticulum and packages them in vesicles for transport. For 10 points, name this organelle named for an Italian physician.": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -4.3583746e-05
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -2.1531068e-05
+      ]
+    ]
+  }
+}

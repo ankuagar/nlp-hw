@@ -1,0 +1,778 @@
+{
+  "It is separated from Maria Island to the southeast by the Mercury Passage, and its notable peaks include": {
+    "guess": "Tasmania",
+    "confidence": [
+      [
+        "Tas",
+        -0.107619755
+      ],
+      [
+        "mania",
+        -0.023248272
+      ]
+    ]
+  },
+  "It is separated from Maria Island to the southeast by the Mercury Passage, and its notable peaks include Cradle Mountain and the highest, Mount Ossa. In the southwest is Lake Pedder, now an artificial": {
+    "guess": "Tasmania",
+    "confidence": [
+      [
+        "Tas",
+        -0.0004388943
+      ],
+      [
+        "mania",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "It is separated from Maria Island to the southeast by the Mercury Passage, and its notable peaks include Cradle Mountain and the highest, Mount Ossa. In the southwest is Lake Pedder, now an artificial lake that comes within the area of South-West National Park. The south is also home to Bruny Island,": {
+    "guess": "Tasmania",
+    "confidence": [
+      [
+        "Tas",
+        -0.0059539257
+      ],
+      [
+        "mania",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "It is separated from Maria Island to the southeast by the Mercury Passage, and its notable peaks include Cradle Mountain and the highest, Mount Ossa. In the southwest is Lake Pedder, now an artificial lake that comes within the area of South-West National Park. The south is also home to Bruny Island, which is within Storm Bay, the outlet of the Derwent River estuary. Its major cities include Clarence,": {
+    "guess": "Tasmania",
+    "confidence": [
+      [
+        "Tas",
+        -0.00091456284
+      ],
+      [
+        "mania",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "It is separated from Maria Island to the southeast by the Mercury Passage, and its notable peaks include Cradle Mountain and the highest, Mount Ossa. In the southwest is Lake Pedder, now an artificial lake that comes within the area of South-West National Park. The south is also home to Bruny Island, which is within Storm Bay, the outlet of the Derwent River estuary. Its major cities include Clarence, Launceston, and Devonport, and to the northwest is Christmas Island. Situated on the south side": {
+    "guess": "Tasmania",
+    "confidence": [
+      [
+        "Tas",
+        -2.8206474e-05
+      ],
+      [
+        "mania",
+        0.0
+      ]
+    ]
+  },
+  "It is separated from Maria Island to the southeast by the Mercury Passage, and its notable peaks include Cradle Mountain and the highest, Mount Ossa. In the southwest is Lake Pedder, now an artificial lake that comes within the area of South-West National Park. The south is also home to Bruny Island, which is within Storm Bay, the outlet of the Derwent River estuary. Its major cities include Clarence, Launceston, and Devonport, and to the northwest is Christmas Island. Situated on the south side of the Bass Strait, FTP, name this island with capital at Hobart formerly known as Van Diemen's Land.": {
+    "guess": "Tasmania",
+    "confidence": [
+      [
+        "Tas",
+        -0.00016027314
+      ],
+      [
+        "mania",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Separated from the rest of the country by mountains including the Serra da Mantiquiera, this city has": {
+    "guess": "S\u00e3o Paulo",
+    "confidence": [
+      [
+        "S\u00e3o",
+        -0.0568659
+      ],
+      [
+        " Paulo",
+        -4.1273333e-06
+      ]
+    ]
+  },
+  "Separated from the rest of the country by mountains including the Serra da Mantiquiera, this city has the world's largest soccer stadium, Maracana. Squatter settlements, known as favelas, cover the slopes": {
+    "guess": "Rio de Janeiro",
+    "confidence": [
+      [
+        "Rio",
+        -0.00016563729
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " Janeiro",
+        0.0
+      ]
+    ]
+  },
+  "Separated from the rest of the country by mountains including the Serra da Mantiquiera, this city has the world's largest soccer stadium, Maracana. Squatter settlements, known as favelas, cover the slopes of those mountains, often encroaching on wealthy areas such as Gavea and Ipanema. Its most famous": {
+    "guess": "Rio de Janeiro",
+    "confidence": [
+      [
+        "Rio",
+        -0.0007254178
+      ],
+      [
+        " de",
+        -3.1281633e-07
+      ],
+      [
+        " Janeiro",
+        0.0
+      ]
+    ]
+  },
+  "Separated from the rest of the country by mountains including the Serra da Mantiquiera, this city has the world's largest soccer stadium, Maracana. Squatter settlements, known as favelas, cover the slopes of those mountains, often encroaching on wealthy areas such as Gavea and Ipanema. Its most famous landmark lies atop Corcovado Mountain, and its most famous mountain, lying on a peninsula in Guanabara": {
+    "guess": "Rio de Janeiro",
+    "confidence": [
+      [
+        "Rio",
+        -0.001982045
+      ],
+      [
+        " de",
+        -2.9352968e-06
+      ],
+      [
+        " Janeiro",
+        0.0
+      ]
+    ]
+  },
+  "Separated from the rest of the country by mountains including the Serra da Mantiquiera, this city has the world's largest soccer stadium, Maracana. Squatter settlements, known as favelas, cover the slopes of those mountains, often encroaching on wealthy areas such as Gavea and Ipanema. Its most famous landmark lies atop Corcovado Mountain, and its most famous mountain, lying on a peninsula in Guanabara Bay, is the Sugar Loaf. FTP, name this city overlooked by a statue of Christ the Redeemer, the": {
+    "guess": "Rio de Janeiro",
+    "confidence": [
+      [
+        "Rio",
+        -0.00030245376
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " Janeiro",
+        0.0
+      ]
+    ]
+  },
+  "Separated from the rest of the country by mountains including the Serra da Mantiquiera, this city has the world's largest soccer stadium, Maracana. Squatter settlements, known as favelas, cover the slopes of those mountains, often encroaching on wealthy areas such as Gavea and Ipanema. Its most famous landmark lies atop Corcovado Mountain, and its most famous mountain, lying on a peninsula in Guanabara Bay, is the Sugar Loaf. FTP, name this city overlooked by a statue of Christ the Redeemer, the second-largest city in Brazil.": {
+    "guess": "Rio de Janeiro",
+    "confidence": [
+      [
+        "Rio",
+        -6.0749073e-05
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " Janeiro",
+        0.0
+      ]
+    ]
+  },
+  "On September 21, 2010, this country's prime minster Omar Sharmarke resigned from his post, citing conflicts": {
+    "guess": "Somalia",
+    "confidence": [
+      [
+        "Som",
+        -0.07145302
+      ],
+      [
+        "alia",
+        -0.0021914218
+      ]
+    ]
+  },
+  "On September 21, 2010, this country's prime minster Omar Sharmarke resigned from his post, citing conflicts between himself and president Sharif Ahmed as reasons. In August, 32 people were killed when": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.77216107
+      ]
+    ]
+  },
+  "On September 21, 2010, this country's prime minster Omar Sharmarke resigned from his post, citing conflicts between himself and president Sharif Ahmed as reasons. In August, 32 people were killed when the Muna Hotel in this country's capital was stormed by the insurgency group al-Shabab, which is currently": {
+    "guess": "Somalia",
+    "confidence": [
+      [
+        "Som",
+        -0.059048973
+      ],
+      [
+        "alia",
+        -0.0019335162
+      ]
+    ]
+  },
+  "On September 21, 2010, this country's prime minster Omar Sharmarke resigned from his post, citing conflicts between himself and president Sharif Ahmed as reasons. In August, 32 people were killed when the Muna Hotel in this country's capital was stormed by the insurgency group al-Shabab, which is currently at war with this country's government and peacekeepers from nearby Kenya and Ethiopia. For 10": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.27996048
+      ]
+    ]
+  },
+  "On September 21, 2010, this country's prime minster Omar Sharmarke resigned from his post, citing conflicts between himself and president Sharif Ahmed as reasons. In August, 32 people were killed when the Muna Hotel in this country's capital was stormed by the insurgency group al-Shabab, which is currently at war with this country's government and peacekeepers from nearby Kenya and Ethiopia. For 10 points, name this African nation with its capital at Mogadishu which in recent years has also been": {
+    "guess": "Somalia",
+    "confidence": [
+      [
+        "Som",
+        -0.015500572
+      ],
+      [
+        "alia",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "On September 21, 2010, this country's prime minster Omar Sharmarke resigned from his post, citing conflicts between himself and president Sharif Ahmed as reasons. In August, 32 people were killed when the Muna Hotel in this country's capital was stormed by the insurgency group al-Shabab, which is currently at war with this country's government and peacekeepers from nearby Kenya and Ethiopia. For 10 points, name this African nation with its capital at Mogadishu which in recent years has also been the scene of many pirate attacks.": {
+    "guess": "Somalia",
+    "confidence": [
+      [
+        "Som",
+        -0.0032403397
+      ],
+      [
+        "alia",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "In the separately-published Postscript to this work, this book's author cites his own Opera aperta in": {
+    "guess": "The Name of the Rose",
+    "confidence": [
+      [
+        "The",
+        -0.026031567
+      ],
+      [
+        " Name",
+        -0.10049413
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -1.504853e-06
+      ],
+      [
+        " Rose",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "In the separately-published Postscript to this work, this book's author cites his own Opera aperta in a section on \"constructing the reader\" and claims \"I wrote a novel because I had a yen to do it\". ": {
+    "guess": "The Name of the Rose",
+    "confidence": [
+      [
+        "The",
+        -0.0028907058
+      ],
+      [
+        " Name",
+        -2.1008714e-06
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -2.9352968e-06
+      ],
+      [
+        " Rose",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "In the separately-published Postscript to this work, this book's author cites his own Opera aperta in a section on \"constructing the reader\" and claims \"I wrote a novel because I had a yen to do it\".  One character in this work gets a new pair of glasses from the glazier Nicholas and his discussions": {
+    "guess": "The Name of the Rose",
+    "confidence": [
+      [
+        "The",
+        -0.007817656
+      ],
+      [
+        " Name",
+        -2.6299214e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -9.0883464e-07
+      ],
+      [
+        " Rose",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "In the separately-published Postscript to this work, this book's author cites his own Opera aperta in a section on \"constructing the reader\" and claims \"I wrote a novel because I had a yen to do it\".  One character in this work gets a new pair of glasses from the glazier Nicholas and his discussions of herbalism are critiqued in the fake translator's note which precedes the story of this novel. In": {
+    "guess": "The Name of the Rose",
+    "confidence": [
+      [
+        "The",
+        -0.0072207535
+      ],
+      [
+        " Name",
+        -4.723352e-06
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -2.3392786e-06
+      ],
+      [
+        " Rose",
+        -4.00813e-06
+      ]
+    ]
+  },
+  "In the separately-published Postscript to this work, this book's author cites his own Opera aperta in a section on \"constructing the reader\" and claims \"I wrote a novel because I had a yen to do it\".  One character in this work gets a new pair of glasses from the glazier Nicholas and his discussions of herbalism are critiqued in the fake translator's note which precedes the story of this novel. In this work, Berengar is found with a black tongue, a result of poison being applied to a laughter-sanctioning": {
+    "guess": "The Name of the Rose",
+    "confidence": [
+      [
+        "The",
+        -0.0015678303
+      ],
+      [
+        " Name",
+        -9.0883464e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -1.8624639e-06
+      ],
+      [
+        " Rose",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "In the separately-published Postscript to this work, this book's author cites his own Opera aperta in a section on \"constructing the reader\" and claims \"I wrote a novel because I had a yen to do it\".  One character in this work gets a new pair of glasses from the glazier Nicholas and his discussions of herbalism are critiqued in the fake translator's note which precedes the story of this novel. In this work, Berengar is found with a black tongue, a result of poison being applied to a laughter-sanctioning tome hidden in the finis Africae. Both the Aedificum and the second volume of Aristotle's Poetics are": {
+    "guess": "The Name of the Rose",
+    "confidence": [
+      [
+        "The",
+        -0.0065311072
+      ],
+      [
+        " Name",
+        -7.89631e-07
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -1.147242e-06
+      ],
+      [
+        " Rose",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "In the separately-published Postscript to this work, this book's author cites his own Opera aperta in a section on \"constructing the reader\" and claims \"I wrote a novel because I had a yen to do it\".  One character in this work gets a new pair of glasses from the glazier Nicholas and his discussions of herbalism are critiqued in the fake translator's note which precedes the story of this novel. In this work, Berengar is found with a black tongue, a result of poison being applied to a laughter-sanctioning tome hidden in the finis Africae. Both the Aedificum and the second volume of Aristotle's Poetics are destroyed by the blind librarian Jorge of Burgos in, for 10 points, this novel in which Adso": {
+    "guess": "The Name of the Rose",
+    "confidence": [
+      [
+        "The",
+        -0.0031962506
+      ],
+      [
+        " Name",
+        -4.3202e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Rose",
+        0.0
+      ]
+    ]
+  },
+  "In the separately-published Postscript to this work, this book's author cites his own Opera aperta in a section on \"constructing the reader\" and claims \"I wrote a novel because I had a yen to do it\".  One character in this work gets a new pair of glasses from the glazier Nicholas and his discussions of herbalism are critiqued in the fake translator's note which precedes the story of this novel. In this work, Berengar is found with a black tongue, a result of poison being applied to a laughter-sanctioning tome hidden in the finis Africae. Both the Aedificum and the second volume of Aristotle's Poetics are destroyed by the blind librarian Jorge of Burgos in, for 10 points, this novel in which Adso of Melk helps William of Baskerville investigate a series of murders in a medieval monastery, by": {
+    "guess": "The Name of the Rose",
+    "confidence": [
+      [
+        "The",
+        -0.000653582
+      ],
+      [
+        " Name",
+        -1.0280384e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -9.0883464e-07
+      ],
+      [
+        " Rose",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "In the separately-published Postscript to this work, this book's author cites his own Opera aperta in a section on \"constructing the reader\" and claims \"I wrote a novel because I had a yen to do it\".  One character in this work gets a new pair of glasses from the glazier Nicholas and his discussions of herbalism are critiqued in the fake translator's note which precedes the story of this novel. In this work, Berengar is found with a black tongue, a result of poison being applied to a laughter-sanctioning tome hidden in the finis Africae. Both the Aedificum and the second volume of Aristotle's Poetics are destroyed by the blind librarian Jorge of Burgos in, for 10 points, this novel in which Adso of Melk helps William of Baskerville investigate a series of murders in a medieval monastery, by Umberto Eco.": {
+    "guess": "The Name of the Rose",
+    "confidence": [
+      [
+        "The",
+        -0.0004617704
+      ],
+      [
+        " Name",
+        -6.704273e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -1.504853e-06
+      ],
+      [
+        " Rose",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "In September 2009, Murray Straus presented the results of a study claiming that this measure of ability": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.73901576
+      ]
+    ]
+  },
+  "In September 2009, Murray Straus presented the results of a study claiming that this measure of ability was lower in children who were regularly spanked. The average of this measure for a population steadily": {
+    "guess": "IQ",
+    "confidence": [
+      [
+        "IQ",
+        -0.25260141
+      ]
+    ]
+  },
+  "In September 2009, Murray Straus presented the results of a study claiming that this measure of ability was lower in children who were regularly spanked. The average of this measure for a population steadily rises over time, a phenomenon known as the Flynn Effect. This measure is typically referenced": {
+    "guess": "IQ",
+    "confidence": [
+      [
+        "IQ",
+        -0.42028987
+      ]
+    ]
+  },
+  "In September 2009, Murray Straus presented the results of a study claiming that this measure of ability was lower in children who were regularly spanked. The average of this measure for a population steadily rises over time, a phenomenon known as the Flynn Effect. This measure is typically referenced to a normal distribution with mean one hundred and standard deviation fifteen. It was originally expressed": {
+    "guess": "IQ",
+    "confidence": [
+      [
+        "IQ",
+        -0.1315524
+      ]
+    ]
+  },
+  "In September 2009, Murray Straus presented the results of a study claiming that this measure of ability was lower in children who were regularly spanked. The average of this measure for a population steadily rises over time, a phenomenon known as the Flynn Effect. This measure is typically referenced to a normal distribution with mean one hundred and standard deviation fifteen. It was originally expressed as one hundred times the mental age divided by the chronological age. For 10 points, give this": {
+    "guess": "IQ",
+    "confidence": [
+      [
+        "IQ",
+        -0.02346256
+      ]
+    ]
+  },
+  "In September 2009, Murray Straus presented the results of a study claiming that this measure of ability was lower in children who were regularly spanked. The average of this measure for a population steadily rises over time, a phenomenon known as the Flynn Effect. This measure is typically referenced to a normal distribution with mean one hundred and standard deviation fifteen. It was originally expressed as one hundred times the mental age divided by the chronological age. For 10 points, give this measure of a human's intelligence.": {
+    "guess": "IQ",
+    "confidence": [
+      [
+        "IQ",
+        -0.00687533
+      ]
+    ]
+  },
+  "In September 2013, one of these individuals released a book co-written with Brock Thoene about \"living": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0268122
+      ]
+    ]
+  },
+  "In September 2013, one of these individuals released a book co-written with Brock Thoene about \"living with your decisions.\" In addition to Lance Easley, another one of these individuals threw a hat on": {
+    "guess": "NFL referee",
+    "confidence": [
+      [
+        "NFL",
+        -0.38566768
+      ],
+      [
+        " referee",
+        -0.29050672
+      ]
+    ]
+  },
+  "In September 2013, one of these individuals released a book co-written with Brock Thoene about \"living with your decisions.\" In addition to Lance Easley, another one of these individuals threw a hat on the ground that Kevin Ogletree slipped on. One of these individuals signaled interception while another": {
+    "guess": "Replacement referee",
+    "confidence": [
+      [
+        "Replacement",
+        -0.32711944
+      ],
+      [
+        " referee",
+        -0.75389475
+      ]
+    ]
+  },
+  "In September 2013, one of these individuals released a book co-written with Brock Thoene about \"living with your decisions.\" In addition to Lance Easley, another one of these individuals threw a hat on the ground that Kevin Ogletree slipped on. One of these individuals signaled interception while another signaled touchdown at the end of the infamous \"Fail Mary\" play between the Seahawks and Packers.": {
+    "guess": "NFL replacement officials",
+    "confidence": [
+      [
+        "NFL",
+        -0.43536437
+      ],
+      [
+        " replacement",
+        -0.10863757
+      ],
+      [
+        " officials",
+        -0.3294663
+      ]
+    ]
+  },
+  "In September 2013, one of these individuals released a book co-written with Brock Thoene about \"living with your decisions.\" In addition to Lance Easley, another one of these individuals threw a hat on the ground that Kevin Ogletree slipped on. One of these individuals signaled interception while another signaled touchdown at the end of the infamous \"Fail Mary\" play between the Seahawks and Packers. For 10 points, name these scab officials who patrolled pro football games while the NFL played hardball": {
+    "guess": "Replacement officials (NFL)",
+    "confidence": [
+      [
+        "Replacement",
+        -0.7058733
+      ],
+      [
+        " officials",
+        -0.1987095
+      ],
+      [
+        " (",
+        -0.25968337
+      ],
+      [
+        "NFL",
+        -0.13402991
+      ],
+      [
+        ")",
+        -0.023060393
+      ]
+    ]
+  },
+  "In September 2013, one of these individuals released a book co-written with Brock Thoene about \"living with your decisions.\" In addition to Lance Easley, another one of these individuals threw a hat on the ground that Kevin Ogletree slipped on. One of these individuals signaled interception while another signaled touchdown at the end of the infamous \"Fail Mary\" play between the Seahawks and Packers. For 10 points, name these scab officials who patrolled pro football games while the NFL played hardball with the real game officials.": {
+    "guess": "Replacement officials (NFL)",
+    "confidence": [
+      [
+        "Replacement",
+        -0.58806837
+      ],
+      [
+        " officials",
+        -0.4978332
+      ],
+      [
+        " (",
+        -0.39633343
+      ],
+      [
+        "NFL",
+        -0.1328932
+      ],
+      [
+        ")",
+        -0.0150905065
+      ]
+    ]
+  },
+  "It is separated from the island to the south by the Strait of Bonifacio. Featuring the cities of Rogliano,": {
+    "guess": "Corsica",
+    "confidence": [
+      [
+        "Cors",
+        -0.0037447368
+      ],
+      [
+        "ica",
+        0.0
+      ]
+    ]
+  },
+  "It is separated from the island to the south by the Strait of Bonifacio. Featuring the cities of Rogliano, Ajaccio (ah-jack-see-oh), Bastia, and Porto- Vecchio, the Ligurian Sea lies to the north and the": {
+    "guess": "Corsica",
+    "confidence": [
+      [
+        "Cors",
+        -0.0039100307
+      ],
+      [
+        "ica",
+        0.0
+      ]
+    ]
+  },
+  "It is separated from the island to the south by the Strait of Bonifacio. Featuring the cities of Rogliano, Ajaccio (ah-jack-see-oh), Bastia, and Porto- Vecchio, the Ligurian Sea lies to the north and the Tyrrhenian Sea lies to the east. FTP, name th  is Mediterranean island, owned by France, which is": {
+    "guess": "Corsica",
+    "confidence": [
+      [
+        "Cors",
+        -0.00075590453
+      ],
+      [
+        "ica",
+        0.0
+      ]
+    ]
+  },
+  "It is separated from the island to the south by the Strait of Bonifacio. Featuring the cities of Rogliano, Ajaccio (ah-jack-see-oh), Bastia, and Porto- Vecchio, the Ligurian Sea lies to the north and the Tyrrhenian Sea lies to the east. FTP, name th  is Mediterranean island, owned by France, which is best known as the homeland of Napoleon.": {
+    "guess": "Corsica",
+    "confidence": [
+      [
+        "Cors",
+        -0.0008353584
+      ],
+      [
+        "ica",
+        0.0
+      ]
+    ]
+  },
+  "On September 4, 1922, he flew his DH4B-Liberty 400 from Pablo  Beach, Florida to San Diego, becoming": {
+    "guess": "Jimmy Doolittle",
+    "confidence": [
+      [
+        "Jimmy",
+        -0.12542212
+      ],
+      [
+        " D",
+        -1.247159e-05
+      ],
+      [
+        "ool",
+        -3.1281633e-07
+      ],
+      [
+        "ittle",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "On September 4, 1922, he flew his DH4B-Liberty 400 from Pablo  Beach, Florida to San Diego, becoming the first person ever to  travel coast-to-coast in less than 24 hours. But he is more famous  for another": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0265803
+      ]
+    ]
+  },
+  "On September 4, 1922, he flew his DH4B-Liberty 400 from Pablo  Beach, Florida to San Diego, becoming the first person ever to  travel coast-to-coast in less than 24 hours. But he is more famous  for another long-distance flight he made twenty years later, taking  off from the USS Hornet, 800 miles away": {
+    "guess": "Doolittle Raid",
+    "confidence": [
+      [
+        "D",
+        -0.0167735
+      ],
+      [
+        "ool",
+        -3.1281633e-07
+      ],
+      [
+        "ittle",
+        -5.5122365e-07
+      ],
+      [
+        " Raid",
+        -6.301394e-05
+      ]
+    ]
+  },
+  "On September 4, 1922, he flew his DH4B-Liberty 400 from Pablo  Beach, Florida to San Diego, becoming the first person ever to  travel coast-to-coast in less than 24 hours. But he is more famous  for another long-distance flight he made twenty years later, taking  off from the USS Hornet, 800 miles away from his targets in Japan.  FTP, name this aviator, whose 1942 bombing raid on Tokyo was the  first": {
+    "guess": "Doolittle Raid",
+    "confidence": [
+      [
+        "D",
+        -0.11071838
+      ],
+      [
+        "ool",
+        0.0
+      ],
+      [
+        "ittle",
+        -6.704273e-07
+      ],
+      [
+        " Raid",
+        -5.8841815e-05
+      ]
+    ]
+  },
+  "On September 4, 1922, he flew his DH4B-Liberty 400 from Pablo  Beach, Florida to San Diego, becoming the first person ever to  travel coast-to-coast in less than 24 hours. But he is more famous  for another long-distance flight he made twenty years later, taking  off from the USS Hornet, 800 miles away from his targets in Japan.  FTP, name this aviator, whose 1942 bombing raid on Tokyo was the  first American success of World War II.": {
+    "guess": "James Harold Doolittle",
+    "confidence": [
+      [
+        "James",
+        -0.5310309
+      ],
+      [
+        " Harold",
+        -0.0033094853
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "ool",
+        0.0
+      ],
+      [
+        "ittle",
+        0.0
+      ]
+    ]
+  }
+}

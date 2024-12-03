@@ -1,0 +1,97 @@
+{
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.21079408
+      ],
+      [
+        ".",
+        -0.20142591
+      ]
+    ]
+  },
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the principle of relativity.\"  Also in the 20th century, Dietrich Mahnke proposed a \"new\" theory of them,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.15384656
+      ]
+    ]
+  },
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the principle of relativity.\"  Also in the 20th century, Dietrich Mahnke proposed a \"new\" theory of them, while they are the subject of Chapter 4 of an \"essay in descriptive metaphysics\" by Peter Strawson.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.29680148
+      ]
+    ]
+  },
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the principle of relativity.\"  Also in the 20th century, Dietrich Mahnke proposed a \"new\" theory of them, while they are the subject of Chapter 4 of an \"essay in descriptive metaphysics\" by Peter Strawson.  They are regarded as sources of motion in a book on their \"physical\" aspect written in 1756 by": {
+    "guess": "Substance",
+    "confidence": [
+      [
+        "Sub",
+        -0.620417
+      ],
+      [
+        "stance",
+        -0.018153688
+      ]
+    ]
+  },
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the principle of relativity.\"  Also in the 20th century, Dietrich Mahnke proposed a \"new\" theory of them, while they are the subject of Chapter 4 of an \"essay in descriptive metaphysics\" by Peter Strawson.  They are regarded as sources of motion in a book on their \"physical\" aspect written in 1756 by Immanuel Kant, while their best-known expositor discussed them in his Principles of Nature and of Grace.": {
+    "guess": "Monads",
+    "confidence": [
+      [
+        "Mon",
+        -0.48687413
+      ],
+      [
+        "ads",
+        -0.00010902656
+      ]
+    ]
+  },
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the principle of relativity.\"  Also in the 20th century, Dietrich Mahnke proposed a \"new\" theory of them, while they are the subject of Chapter 4 of an \"essay in descriptive metaphysics\" by Peter Strawson.  They are regarded as sources of motion in a book on their \"physical\" aspect written in 1756 by Immanuel Kant, while their best-known expositor discussed them in his Principles of Nature and of Grace.  FTP, give this concept whose name comes from the Greek for \"unit,\" which was proposed as the basic": {
+    "guess": "Monad",
+    "confidence": [
+      [
+        "Monad",
+        -0.4744736
+      ]
+    ]
+  },
+  "H. Wilton Carr produced a \"theory\" of these in a book which offered \"outlines of the philosophy of the principle of relativity.\"  Also in the 20th century, Dietrich Mahnke proposed a \"new\" theory of them, while they are the subject of Chapter 4 of an \"essay in descriptive metaphysics\" by Peter Strawson.  They are regarded as sources of motion in a book on their \"physical\" aspect written in 1756 by Immanuel Kant, while their best-known expositor discussed them in his Principles of Nature and of Grace.  FTP, give this concept whose name comes from the Greek for \"unit,\" which was proposed as the basic entity of the universe by Gottfried Wilhelm von Leibniz.": {
+    "guess": "Monad (philosophy)",
+    "confidence": [
+      [
+        "Monad",
+        -0.3142703
+      ],
+      [
+        " (",
+        -0.3925312
+      ],
+      [
+        "ph",
+        -0.0053982264
+      ],
+      [
+        "ilos",
+        -1.9361265e-07
+      ],
+      [
+        "ophy",
+        -4.365741e-06
+      ],
+      [
+        ")",
+        -8.89548e-06
+      ]
+    ]
+  }
+}

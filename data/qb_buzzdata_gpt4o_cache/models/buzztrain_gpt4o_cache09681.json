@@ -1,0 +1,380 @@
+{
+  "In zeolite pores, a confinement effect that acts primarily upon this entity reduces the gap between it": {
+    "guess": "Band gap",
+    "confidence": [
+      [
+        "Band",
+        -0.6263735
+      ],
+      [
+        " gap",
+        -0.021290677
+      ]
+    ]
+  },
+  "In zeolite pores, a confinement effect that acts primarily upon this entity reduces the gap between it and its counterpart.  The ionization potential of a closed-shell system may be determined by ascertaining": {
+    "guess": "HOMO-LUMO gap",
+    "confidence": [
+      [
+        "H",
+        -0.29224864
+      ],
+      [
+        "OMO",
+        -0.0031808019
+      ],
+      [
+        "-L",
+        -0.07583289
+      ],
+      [
+        "UM",
+        -5.5122365e-07
+      ],
+      [
+        "O",
+        0.0
+      ],
+      [
+        " gap",
+        -0.22124636
+      ]
+    ]
+  },
+  "In zeolite pores, a confinement effect that acts primarily upon this entity reduces the gap between it and its counterpart.  The ionization potential of a closed-shell system may be determined by ascertaining the negative of its energy, a relationship described by Koopman's theorem. Walsh's rule predicts": {
+    "guess": "HOMO",
+    "confidence": [
+      [
+        "H",
+        -0.031001303
+      ],
+      [
+        "OMO",
+        -0.0011712946
+      ]
+    ]
+  },
+  "In zeolite pores, a confinement effect that acts primarily upon this entity reduces the gap between it and its counterpart.  The ionization potential of a closed-shell system may be determined by ascertaining the negative of its energy, a relationship described by Koopman's theorem. Walsh's rule predicts that molecular structures are predicated on the stability of these, while in ring-opening electrocyclic": {
+    "guess": "HOMO",
+    "confidence": [
+      [
+        "H",
+        -0.30774486
+      ],
+      [
+        "OMO",
+        -0.00071028626
+      ]
+    ]
+  },
+  "In zeolite pores, a confinement effect that acts primarily upon this entity reduces the gap between it and its counterpart.  The ionization potential of a closed-shell system may be determined by ascertaining the negative of its energy, a relationship described by Koopman's theorem. Walsh's rule predicts that molecular structures are predicated on the stability of these, while in ring-opening electrocyclic reactions, their symmetry directs the symmetry of the newly formed p-orbitals.  Lewis bases": {
+    "guess": "Molecular orbitals",
+    "confidence": [
+      [
+        "M",
+        -0.82769704
+      ],
+      [
+        "olecular",
+        -4.3583746e-05
+      ],
+      [
+        " orbit",
+        -0.7932958
+      ],
+      [
+        "als",
+        0.0
+      ]
+    ]
+  },
+  "In zeolite pores, a confinement effect that acts primarily upon this entity reduces the gap between it and its counterpart.  The ionization potential of a closed-shell system may be determined by ascertaining the negative of its energy, a relationship described by Koopman's theorem. Walsh's rule predicts that molecular structures are predicated on the stability of these, while in ring-opening electrocyclic reactions, their symmetry directs the symmetry of the newly formed p-orbitals.  Lewis bases have a lone pair of electrons in this region, and the photochemical induction of cycloaddition of ethylene": {
+    "guess": "HOMO",
+    "confidence": [
+      [
+        "H",
+        -1.0984772
+      ],
+      [
+        "OMO",
+        -0.0025739942
+      ]
+    ]
+  },
+  "In zeolite pores, a confinement effect that acts primarily upon this entity reduces the gap between it and its counterpart.  The ionization potential of a closed-shell system may be determined by ascertaining the negative of its energy, a relationship described by Koopman's theorem. Walsh's rule predicts that molecular structures are predicated on the stability of these, while in ring-opening electrocyclic reactions, their symmetry directs the symmetry of the newly formed p-orbitals.  Lewis bases have a lone pair of electrons in this region, and the photochemical induction of cycloaddition of ethylene is activated by excitement of a pi electron that migrates to enter a new one of these. The Diels-Alder": {
+    "guess": "Molecular Orbital",
+    "confidence": [
+      [
+        "M",
+        -0.7589821
+      ],
+      [
+        "olecular",
+        -2.8802491e-05
+      ],
+      [
+        " Orb",
+        -0.30735272
+      ],
+      [
+        "ital",
+        0.0
+      ]
+    ]
+  },
+  "In zeolite pores, a confinement effect that acts primarily upon this entity reduces the gap between it and its counterpart.  The ionization potential of a closed-shell system may be determined by ascertaining the negative of its energy, a relationship described by Koopman's theorem. Walsh's rule predicts that molecular structures are predicated on the stability of these, while in ring-opening electrocyclic reactions, their symmetry directs the symmetry of the newly formed p-orbitals.  Lewis bases have a lone pair of electrons in this region, and the photochemical induction of cycloaddition of ethylene is activated by excitement of a pi electron that migrates to enter a new one of these. The Diels-Alder reaction involves interaction between this orbital of the diene and the opposite orbital": {
+    "guess": "HOMO",
+    "confidence": [
+      [
+        "H",
+        -0.129569
+      ],
+      [
+        "OMO",
+        -0.0011723675
+      ]
+    ]
+  },
+  "In zeolite pores, a confinement effect that acts primarily upon this entity reduces the gap between it and its counterpart.  The ionization potential of a closed-shell system may be determined by ascertaining the negative of its energy, a relationship described by Koopman's theorem. Walsh's rule predicts that molecular structures are predicated on the stability of these, while in ring-opening electrocyclic reactions, their symmetry directs the symmetry of the newly formed p-orbitals.  Lewis bases have a lone pair of electrons in this region, and the photochemical induction of cycloaddition of ethylene is activated by excitement of a pi electron that migrates to enter a new one of these. The Diels-Alder reaction involves interaction between this orbital of the diene and the opposite orbital of the dienophile.  For 10 points, name this frontier orbital that contains at least one electron.": {
+    "guess": "HOMO",
+    "confidence": [
+      [
+        "H",
+        -0.008498035
+      ],
+      [
+        "OMO",
+        -4.692145e-05
+      ]
+    ]
+  },
+  "In 2007, Zenph Studios released a \"re-performance\" of this man's 1955 debut album, the original performance": {
+    "guess": "Glenn Gould",
+    "confidence": [
+      [
+        "Gl",
+        -0.0017739502
+      ],
+      [
+        "enn",
+        0.0
+      ],
+      [
+        " Gould",
+        0.0
+      ]
+    ]
+  },
+  "In 2007, Zenph Studios released a \"re-performance\" of this man's 1955 debut album, the original performance of which kicked off this musician's love for the \"take-two-ness\" of the recording studio. Before": {
+    "guess": "Glenn Gould",
+    "confidence": [
+      [
+        "Gl",
+        -0.00062344177
+      ],
+      [
+        "enn",
+        0.0
+      ],
+      [
+        " Gould",
+        0.0
+      ]
+    ]
+  },
+  "In 2007, Zenph Studios released a \"re-performance\" of this man's 1955 debut album, the original performance of which kicked off this musician's love for the \"take-two-ness\" of the recording studio. Before a 1962 performance, Leonard Bernstein claimed no responsibility for this artist's slow interpretation": {
+    "guess": "Glenn Gould",
+    "confidence": [
+      [
+        "Gl",
+        -0.00067597756
+      ],
+      [
+        "enn",
+        0.0
+      ],
+      [
+        " Gould",
+        0.0
+      ]
+    ]
+  },
+  "In 2007, Zenph Studios released a \"re-performance\" of this man's 1955 debut album, the original performance of which kicked off this musician's love for the \"take-two-ness\" of the recording studio. Before a 1962 performance, Leonard Bernstein claimed no responsibility for this artist's slow interpretation of a Johannes Brahms piece. This performer of a 1955 recording of the Goldberg Variations had": {
+    "guess": "Glenn Gould",
+    "confidence": [
+      [
+        "Gl",
+        -0.0032292907
+      ],
+      [
+        "enn",
+        0.0
+      ],
+      [
+        " Gould",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In 2007, Zenph Studios released a \"re-performance\" of this man's 1955 debut album, the original performance of which kicked off this musician's love for the \"take-two-ness\" of the recording studio. Before a 1962 performance, Leonard Bernstein claimed no responsibility for this artist's slow interpretation of a Johannes Brahms piece. This performer of a 1955 recording of the Goldberg Variations had a habit of tapping his feet and humming while playing.  For 10 points, name this eccentric Canadian": {
+    "guess": "Glenn Gould",
+    "confidence": [
+      [
+        "Gl",
+        -6.384837e-05
+      ],
+      [
+        "enn",
+        0.0
+      ],
+      [
+        " Gould",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In 2007, Zenph Studios released a \"re-performance\" of this man's 1955 debut album, the original performance of which kicked off this musician's love for the \"take-two-ness\" of the recording studio. Before a 1962 performance, Leonard Bernstein claimed no responsibility for this artist's slow interpretation of a Johannes Brahms piece. This performer of a 1955 recording of the Goldberg Variations had a habit of tapping his feet and humming while playing.  For 10 points, name this eccentric Canadian pianist who was renowned for his interpretations of J.S. Bach.": {
+    "guess": "Glenn Gould",
+    "confidence": [
+      [
+        "Gl",
+        -8.196733e-05
+      ],
+      [
+        "enn",
+        0.0
+      ],
+      [
+        " Gould",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Zenodotos of Troezen credited him with one son, Aollios or Abillios, by Hersilia, who was herself later": {
+    "guess": "Romulus",
+    "confidence": [
+      [
+        "Rom",
+        -0.50455785
+      ],
+      [
+        "ulus",
+        -8.061054e-06
+      ]
+    ]
+  },
+  "Zenodotos of Troezen credited him with one son, Aollios or Abillios, by Hersilia, who was herself later deified as Hora. In one story, he was born to a maidservant after Tarchetius discovered a great,": {
+    "guess": "Romulus and Remus",
+    "confidence": [
+      [
+        "Rom",
+        -0.44615385
+      ],
+      [
+        "ulus",
+        -2.1008714e-06
+      ],
+      [
+        " and",
+        -0.4753775
+      ],
+      [
+        " Rem",
+        -2.3438328e-05
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Zenodotos of Troezen credited him with one son, Aollios or Abillios, by Hersilia, who was herself later deified as Hora. In one story, he was born to a maidservant after Tarchetius discovered a great, divine phallus growing out of the ground, although Tarchetius ordered his murder by Taretius. According": {
+    "guess": "Servius Tullius",
+    "confidence": [
+      [
+        "Serv",
+        -0.57246715
+      ],
+      [
+        "ius",
+        -2.2723105e-05
+      ],
+      [
+        " T",
+        -4.9617593e-06
+      ],
+      [
+        "ull",
+        -4.3202e-07
+      ],
+      [
+        "ius",
+        -2.808727e-05
+      ]
+    ]
+  },
+  "Zenodotos of Troezen credited him with one son, Aollios or Abillios, by Hersilia, who was herself later deified as Hora. In one story, he was born to a maidservant after Tarchetius discovered a great, divine phallus growing out of the ground, although Tarchetius ordered his murder by Taretius. According to another legend, after he was found at the Ruminal Fig Tree, he was suckled by Acca Larentia,": {
+    "guess": "Romulus and Remus",
+    "confidence": [
+      [
+        "Rom",
+        -0.049973715
+      ],
+      [
+        "ulus",
+        -3.1281633e-07
+      ],
+      [
+        " and",
+        -0.008929967
+      ],
+      [
+        " Rem",
+        -6.704273e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Zenodotos of Troezen credited him with one son, Aollios or Abillios, by Hersilia, who was herself later deified as Hora. In one story, he was born to a maidservant after Tarchetius discovered a great, divine phallus growing out of the ground, although Tarchetius ordered his murder by Taretius. According to another legend, after he was found at the Ruminal Fig Tree, he was suckled by Acca Larentia, the wife of his discoverer, Faestulus. He was identified with the god Quirinus and, with his brother,": {
+    "guess": "Romulus",
+    "confidence": [
+      [
+        "Rom",
+        -0.011832842
+      ],
+      [
+        "ulus",
+        0.0
+      ]
+    ]
+  },
+  "Zenodotos of Troezen credited him with one son, Aollios or Abillios, by Hersilia, who was herself later deified as Hora. In one story, he was born to a maidservant after Tarchetius discovered a great, divine phallus growing out of the ground, although Tarchetius ordered his murder by Taretius. According to another legend, after he was found at the Ruminal Fig Tree, he was suckled by Acca Larentia, the wife of his discoverer, Faestulus. He was identified with the god Quirinus and, with his brother, overthrew the usurper Amulius in favor of his grandfather Numitor. FTP, name this son of Mars and": {
+    "guess": "Romulus",
+    "confidence": [
+      [
+        "Rom",
+        -0.003450507
+      ],
+      [
+        "ulus",
+        0.0
+      ]
+    ]
+  },
+  "Zenodotos of Troezen credited him with one son, Aollios or Abillios, by Hersilia, who was herself later deified as Hora. In one story, he was born to a maidservant after Tarchetius discovered a great, divine phallus growing out of the ground, although Tarchetius ordered his murder by Taretius. According to another legend, after he was found at the Ruminal Fig Tree, he was suckled by Acca Larentia, the wife of his discoverer, Faestulus. He was identified with the god Quirinus and, with his brother, overthrew the usurper Amulius in favor of his grandfather Numitor. FTP, name this son of Mars and Rhea Silvia, brother of Remus, and founder of Rome.": {
+    "guess": "Romulus",
+    "confidence": [
+      [
+        "Rom",
+        -0.013765235
+      ],
+      [
+        "ulus",
+        0.0
+      ]
+    ]
+  }
+}

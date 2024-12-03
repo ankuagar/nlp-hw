@@ -1,0 +1,98 @@
+{
+  "A village schoolteacher, she turned to poetry after a short-lived affair with a railroad worker who killed": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.47289386
+      ]
+    ]
+  },
+  "A village schoolteacher, she turned to poetry after a short-lived affair with a railroad worker who killed himself. Her volumes included Ternura and Desolacion, while she gained immediate praise for her": {
+    "guess": "Gabriela Mistral",
+    "confidence": [
+      [
+        "Gab",
+        -0.031461034
+      ],
+      [
+        "ri",
+        0.0
+      ],
+      [
+        "ela",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "istr",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ]
+    ]
+  },
+  "A village schoolteacher, she turned to poetry after a short-lived affair with a railroad worker who killed himself. Her volumes included Ternura and Desolacion, while she gained immediate praise for her first collection, Sonnets of Death. For 10 points\u2014name this Chilean-born poet, the first Latin American": {
+    "guess": "Gabriela Mistral",
+    "confidence": [
+      [
+        "Gab",
+        -0.008730157
+      ],
+      [
+        "ri",
+        -1.9361265e-07
+      ],
+      [
+        "ela",
+        0.0
+      ],
+      [
+        " M",
+        -1.9361265e-07
+      ],
+      [
+        "istr",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ]
+    ]
+  },
+  "A village schoolteacher, she turned to poetry after a short-lived affair with a railroad worker who killed himself. Her volumes included Ternura and Desolacion, while she gained immediate praise for her first collection, Sonnets of Death. For 10 points\u2014name this Chilean-born poet, the first Latin American winner of the Nobel in Literature.": {
+    "guess": "Gabriela Mistral",
+    "confidence": [
+      [
+        "Gab",
+        -0.0028803572
+      ],
+      [
+        "ri",
+        -1.9361265e-07
+      ],
+      [
+        "ela",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "istr",
+        0.0
+      ],
+      [
+        "al",
+        0.0
+      ]
+    ]
+  }
+}

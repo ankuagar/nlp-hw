@@ -1,0 +1,63 @@
+{
+  "W.B. Yeats supposedly fell asleep while reading this work and awoke inspired to write \"The Lake Isle": {
+    "guess": "Walden",
+    "confidence": [
+      [
+        "Wal",
+        -0.027596239
+      ],
+      [
+        "den",
+        0.0
+      ]
+    ]
+  },
+  "W.B. Yeats supposedly fell asleep while reading this work and awoke inspired to write \"The Lake Isle of Innisfree.\" It concludes, \"The light which puts out our eyes is darkness to us. Only that day dawns": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.65521157
+      ]
+    ]
+  },
+  "W.B. Yeats supposedly fell asleep while reading this work and awoke inspired to write \"The Lake Isle of Innisfree.\" It concludes, \"The light which puts out our eyes is darkness to us. Only that day dawns to which we are awake. There is more day to dawn. The sun is but a morning star.\" Sections of it": {
+    "guess": "Walden",
+    "confidence": [
+      [
+        "Wal",
+        -0.014343787
+      ],
+      [
+        "den",
+        0.0
+      ]
+    ]
+  },
+  "W.B. Yeats supposedly fell asleep while reading this work and awoke inspired to write \"The Lake Isle of Innisfree.\" It concludes, \"The light which puts out our eyes is darkness to us. Only that day dawns to which we are awake. There is more day to dawn. The sun is but a morning star.\" Sections of it include Solitude, Economy, and Where I Lived & What I Lived For. FTP, name this Transcendalist reflection": {
+    "guess": "Walden",
+    "confidence": [
+      [
+        "Wal",
+        -1.3067608e-05
+      ],
+      [
+        "den",
+        0.0
+      ]
+    ]
+  },
+  "W.B. Yeats supposedly fell asleep while reading this work and awoke inspired to write \"The Lake Isle of Innisfree.\" It concludes, \"The light which puts out our eyes is darkness to us. Only that day dawns to which we are awake. There is more day to dawn. The sun is but a morning star.\" Sections of it include Solitude, Economy, and Where I Lived & What I Lived For. FTP, name this Transcendalist reflection on life in the woods written by Henry David Thoreau.": {
+    "guess": "Walden",
+    "confidence": [
+      [
+        "Wal",
+        -3.5313153e-06
+      ],
+      [
+        "den",
+        0.0
+      ]
+    ]
+  }
+}

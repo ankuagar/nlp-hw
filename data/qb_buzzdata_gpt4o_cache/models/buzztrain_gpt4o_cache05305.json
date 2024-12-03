@@ -1,0 +1,329 @@
+{
+  "The Nusselt number is a ratio between the coefficients of this process and a similar process, which can": {
+    "guess": "Conduction",
+    "confidence": [
+      [
+        "Con",
+        -0.22517328
+      ],
+      [
+        "duction",
+        -0.6326097
+      ]
+    ]
+  },
+  "The Nusselt number is a ratio between the coefficients of this process and a similar process, which can be estimated with the Churchill-Bernstein equation. Benard cells are formed during certain types": {
+    "guess": "Convection",
+    "confidence": [
+      [
+        "Con",
+        -0.01935732
+      ],
+      [
+        "vection",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Nusselt number is a ratio between the coefficients of this process and a similar process, which can be estimated with the Churchill-Bernstein equation. Benard cells are formed during certain types of this process, and quantities named for Grashof and Prandtl describe the onset of this process. It": {
+    "guess": "Convection",
+    "confidence": [
+      [
+        "Con",
+        -0.016315872
+      ],
+      [
+        "vection",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The Nusselt number is a ratio between the coefficients of this process and a similar process, which can be estimated with the Churchill-Bernstein equation. Benard cells are formed during certain types of this process, and quantities named for Grashof and Prandtl describe the onset of this process. It occurs when the critical value is exceeded by the Rayleigh number. For 10 points, identify this method": {
+    "guess": "Convection",
+    "confidence": [
+      [
+        "Con",
+        -0.014732541
+      ],
+      [
+        "vection",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The Nusselt number is a ratio between the coefficients of this process and a similar process, which can be estimated with the Churchill-Bernstein equation. Benard cells are formed during certain types of this process, and quantities named for Grashof and Prandtl describe the onset of this process. It occurs when the critical value is exceeded by the Rayleigh number. For 10 points, identify this method of heat transfer commonly observed in fluids.": {
+    "guess": "Convection",
+    "confidence": [
+      [
+        "Con",
+        -1.27099975e-05
+      ],
+      [
+        "vection",
+        0.0
+      ]
+    ]
+  },
+  "The Nurr1 gene is important for the development of cells that primarily produce this molecule. Cabergoline": {
+    "guess": "Dopamine",
+    "confidence": [
+      [
+        "D",
+        -0.0030560233
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "amine",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The Nurr1 gene is important for the development of cells that primarily produce this molecule. Cabergoline and bromocriptine activate this molecule's receptors, while haloperidol is an inverse agonist": {
+    "guess": "Dopamine",
+    "confidence": [
+      [
+        "D",
+        -8.061054e-06
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "amine",
+        0.0
+      ]
+    ]
+  },
+  "The Nurr1 gene is important for the development of cells that primarily produce this molecule. Cabergoline and bromocriptine activate this molecule's receptors, while haloperidol is an inverse agonist to those receptors. This molecule is transported to the nucleus accumbens from the ventral tegmental": {
+    "guess": "Dopamine",
+    "confidence": [
+      [
+        "D",
+        -4.00813e-06
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "amine",
+        0.0
+      ]
+    ]
+  },
+  "The Nurr1 gene is important for the development of cells that primarily produce this molecule. Cabergoline and bromocriptine activate this molecule's receptors, while haloperidol is an inverse agonist to those receptors. This molecule is transported to the nucleus accumbens from the ventral tegmental area by the mesolimbic pathway. This molecule is produced by the hydroxylation then subsequent decarboxylation": {
+    "guess": "Dopamine",
+    "confidence": [
+      [
+        "D",
+        -1.8789384e-05
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "amine",
+        0.0
+      ]
+    ]
+  },
+  "The Nurr1 gene is important for the development of cells that primarily produce this molecule. Cabergoline and bromocriptine activate this molecule's receptors, while haloperidol is an inverse agonist to those receptors. This molecule is transported to the nucleus accumbens from the ventral tegmental area by the mesolimbic pathway. This molecule is produced by the hydroxylation then subsequent decarboxylation of (*) tyrosine. This catecholamine inhibits the secretion of prolactin, and it is primarily": {
+    "guess": "Dopamine",
+    "confidence": [
+      [
+        "D",
+        -0.000557082
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "amine",
+        0.0
+      ]
+    ]
+  },
+  "The Nurr1 gene is important for the development of cells that primarily produce this molecule. Cabergoline and bromocriptine activate this molecule's receptors, while haloperidol is an inverse agonist to those receptors. This molecule is transported to the nucleus accumbens from the ventral tegmental area by the mesolimbic pathway. This molecule is produced by the hydroxylation then subsequent decarboxylation of (*) tyrosine. This catecholamine inhibits the secretion of prolactin, and it is primarily produced in a section of the basal ganglia known as the substantia nigra. For 10 points, name this": {
+    "guess": "Dopamine",
+    "confidence": [
+      [
+        "D",
+        -0.0002420395
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "amine",
+        0.0
+      ]
+    ]
+  },
+  "The Nurr1 gene is important for the development of cells that primarily produce this molecule. Cabergoline and bromocriptine activate this molecule's receptors, while haloperidol is an inverse agonist to those receptors. This molecule is transported to the nucleus accumbens from the ventral tegmental area by the mesolimbic pathway. This molecule is produced by the hydroxylation then subsequent decarboxylation of (*) tyrosine. This catecholamine inhibits the secretion of prolactin, and it is primarily produced in a section of the basal ganglia known as the substantia nigra. For 10 points, name this primary neurotransmitter involved in the reward pathway, which is under-produced in Parkinson's": {
+    "guess": "Dopamine",
+    "confidence": [
+      [
+        "D",
+        -0.000245247
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "amine",
+        0.0
+      ]
+    ]
+  },
+  "The Nurr1 gene is important for the development of cells that primarily produce this molecule. Cabergoline and bromocriptine activate this molecule's receptors, while haloperidol is an inverse agonist to those receptors. This molecule is transported to the nucleus accumbens from the ventral tegmental area by the mesolimbic pathway. This molecule is produced by the hydroxylation then subsequent decarboxylation of (*) tyrosine. This catecholamine inhibits the secretion of prolactin, and it is primarily produced in a section of the basal ganglia known as the substantia nigra. For 10 points, name this primary neurotransmitter involved in the reward pathway, which is under-produced in Parkinson's disease.": {
+    "guess": "Dopamine",
+    "confidence": [
+      [
+        "D",
+        -0.0024967063
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "amine",
+        0.0
+      ]
+    ]
+  },
+  "He nursed Edna St. Vincent Millay during her penultimate illness and rumors abounded about their relationship,": {
+    "guess": "Eugen Boissevain",
+    "confidence": [
+      [
+        "E",
+        -0.42413464
+      ],
+      [
+        "ugen",
+        -0.0065578716
+      ],
+      [
+        " Bo",
+        -0.6330651
+      ],
+      [
+        "isse",
+        -3.7697225e-06
+      ],
+      [
+        "vain",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "He nursed Edna St. Vincent Millay during her penultimate illness and rumors abounded about their relationship, leading to a caricature of him as Tithonus Pidgeon in C. Wright Mills' roman \u00e0 clef The Breadbasket.": {
+    "guess": "George Dillon",
+    "confidence": [
+      [
+        "George",
+        -0.82032937
+      ],
+      [
+        " Dillon",
+        -0.04132855
+      ]
+    ]
+  },
+  "He nursed Edna St. Vincent Millay during her penultimate illness and rumors abounded about their relationship, leading to a caricature of him as Tithonus Pidgeon in C. Wright Mills' roman \u00e0 clef The Breadbasket. He preceded Davis and Moore in his development of the theory of role allocation in public": {
+    "guess": "Talcott Parsons",
+    "confidence": [
+      [
+        "T",
+        -0.4810273
+      ],
+      [
+        "alc",
+        -6.0272258e-05
+      ],
+      [
+        "ott",
+        -1.147242e-06
+      ],
+      [
+        " Parsons",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "He nursed Edna St. Vincent Millay during her penultimate illness and rumors abounded about their relationship, leading to a caricature of him as Tithonus Pidgeon in C. Wright Mills' roman \u00e0 clef The Breadbasket. He preceded Davis and Moore in his development of the theory of role allocation in public education, which went hand in hand with his meritocracy theory of schools. This followed his reading": {
+    "guess": "Talcott Parsons",
+    "confidence": [
+      [
+        "T",
+        -0.6137646
+      ],
+      [
+        "alc",
+        -0.00031699296
+      ],
+      [
+        "ott",
+        -7.89631e-07
+      ],
+      [
+        " Parsons",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "He nursed Edna St. Vincent Millay during her penultimate illness and rumors abounded about their relationship, leading to a caricature of him as Tithonus Pidgeon in C. Wright Mills' roman \u00e0 clef The Breadbasket. He preceded Davis and Moore in his development of the theory of role allocation in public education, which went hand in hand with his meritocracy theory of schools. This followed his reading of Max Weber, whom he popularized in America. For ten points, name this American sociologist and author": {
+    "guess": "Robert K. Merton",
+    "confidence": [
+      [
+        "Robert",
+        -0.30669048
+      ],
+      [
+        " K",
+        -0.002644741
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " M",
+        -3.1281633e-07
+      ],
+      [
+        "erton",
+        0.0
+      ]
+    ]
+  },
+  "He nursed Edna St. Vincent Millay during her penultimate illness and rumors abounded about their relationship, leading to a caricature of him as Tithonus Pidgeon in C. Wright Mills' roman \u00e0 clef The Breadbasket. He preceded Davis and Moore in his development of the theory of role allocation in public education, which went hand in hand with his meritocracy theory of schools. This followed his reading of Max Weber, whom he popularized in America. For ten points, name this American sociologist and author of Social System and The Structure of Social Action.": {
+    "guess": "Talcott Parsons",
+    "confidence": [
+      [
+        "T",
+        -0.0008506055
+      ],
+      [
+        "alc",
+        -0.0005533903
+      ],
+      [
+        "ott",
+        -1.9361265e-07
+      ],
+      [
+        " Parsons",
+        0.0
+      ]
+    ]
+  }
+}

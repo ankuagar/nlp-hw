@@ -1,0 +1,3178 @@
+{
+  "Externally, this structure contains an irregular ridge known as the raphe, and its appearance is primarily": {
+    "guess": "Diatom",
+    "confidence": [
+      [
+        "D",
+        -0.03210343
+      ],
+      [
+        "iat",
+        -1.3856493e-06
+      ],
+      [
+        "om",
+        -8.180258e-06
+      ]
+    ]
+  },
+  "Externally, this structure contains an irregular ridge known as the raphe, and its appearance is primarily determined by the actions of the dartos and cremaster muscles.  The gubernaculum attaches the": {
+    "guess": "Scrotum",
+    "confidence": [
+      [
+        "Sc",
+        -0.0051213307
+      ],
+      [
+        "rot",
+        -3.1281633e-07
+      ],
+      [
+        "um",
+        0.0
+      ]
+    ]
+  },
+  "Externally, this structure contains an irregular ridge known as the raphe, and its appearance is primarily determined by the actions of the dartos and cremaster muscles.  The gubernaculum attaches the developmental predecessor of this structure to nearby organs; the failure of those organs to traverse": {
+    "guess": "Scrotum",
+    "confidence": [
+      [
+        "Sc",
+        -0.0005975929
+      ],
+      [
+        "rot",
+        -3.1281633e-07
+      ],
+      [
+        "um",
+        0.0
+      ]
+    ]
+  },
+  "Externally, this structure contains an irregular ridge known as the raphe, and its appearance is primarily determined by the actions of the dartos and cremaster muscles.  The gubernaculum attaches the developmental predecessor of this structure to nearby organs; the failure of those organs to traverse the inguinal canals and reside in this structure is known as cryptorchidism.  When the dartos and": {
+    "guess": "Scrotum",
+    "confidence": [
+      [
+        "Sc",
+        -0.00020139472
+      ],
+      [
+        "rot",
+        -9.0883464e-07
+      ],
+      [
+        "um",
+        0.0
+      ]
+    ]
+  },
+  "Externally, this structure contains an irregular ridge known as the raphe, and its appearance is primarily determined by the actions of the dartos and cremaster muscles.  The gubernaculum attaches the developmental predecessor of this structure to nearby organs; the failure of those organs to traverse the inguinal canals and reside in this structure is known as cryptorchidism.  When the dartos and cremaster muscles contract, this structure becomes smaller and more wrinkled to ensure the correct temperature": {
+    "guess": "Scrotum",
+    "confidence": [
+      [
+        "Sc",
+        -3.392825e-05
+      ],
+      [
+        "rot",
+        -5.5122365e-07
+      ],
+      [
+        "um",
+        0.0
+      ]
+    ]
+  },
+  "Externally, this structure contains an irregular ridge known as the raphe, and its appearance is primarily determined by the actions of the dartos and cremaster muscles.  The gubernaculum attaches the developmental predecessor of this structure to nearby organs; the failure of those organs to traverse the inguinal canals and reside in this structure is known as cryptorchidism.  When the dartos and cremaster muscles contract, this structure becomes smaller and more wrinkled to ensure the correct temperature for gamete formation.  For 10 points, identify this supporting structure of the male reproductive": {
+    "guess": "Scrotum",
+    "confidence": [
+      [
+        "Sc",
+        -3.2736214e-05
+      ],
+      [
+        "rot",
+        -4.3202e-07
+      ],
+      [
+        "um",
+        0.0
+      ]
+    ]
+  },
+  "Externally, this structure contains an irregular ridge known as the raphe, and its appearance is primarily determined by the actions of the dartos and cremaster muscles.  The gubernaculum attaches the developmental predecessor of this structure to nearby organs; the failure of those organs to traverse the inguinal canals and reside in this structure is known as cryptorchidism.  When the dartos and cremaster muscles contract, this structure becomes smaller and more wrinkled to ensure the correct temperature for gamete formation.  For 10 points, identify this supporting structure of the male reproductive system, a sac that contains the testes.": {
+    "guess": "Scrotum",
+    "confidence": [
+      [
+        "Sc",
+        -9.4914985e-06
+      ],
+      [
+        "rot",
+        -7.89631e-07
+      ],
+      [
+        "um",
+        0.0
+      ]
+    ]
+  },
+  "An extension of this statement was refined by Wilfried Sieg to include only boundedness, locality, and": {
+    "guess": "Church-Turing thesis",
+    "confidence": [
+      [
+        "Church",
+        -0.61607885
+      ],
+      [
+        "-T",
+        -0.4784373
+      ],
+      [
+        "uring",
+        0.0
+      ],
+      [
+        " thesis",
+        -0.0485918
+      ]
+    ]
+  },
+  "An extension of this statement was refined by Wilfried Sieg to include only boundedness, locality, and determinancy, and Steven Wolfram expanded it to systems in the natural world. Tibor Rado introduced": {
+    "guess": "Church-Turing thesis",
+    "confidence": [
+      [
+        "Church",
+        -0.116279714
+      ],
+      [
+        "-T",
+        -0.31334543
+      ],
+      [
+        "uring",
+        0.0
+      ],
+      [
+        " thesis",
+        -0.023246292
+      ]
+    ]
+  },
+  "An extension of this statement was refined by Wilfried Sieg to include only boundedness, locality, and determinancy, and Steven Wolfram expanded it to systems in the natural world. Tibor Rado introduced a function for which it doesn't apply known as the busy beaver, and it could be challenged by the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.017215
+      ]
+    ]
+  },
+  "An extension of this statement was refined by Wilfried Sieg to include only boundedness, locality, and determinancy, and Steven Wolfram expanded it to systems in the natural world. Tibor Rado introduced a function for which it doesn't apply known as the busy beaver, and it could be challenged by the existence of an oracle. One version of it grew out of Hilbert's decision problem, while another formulation": {
+    "guess": "Church-Turing thesis",
+    "confidence": [
+      [
+        "Church",
+        -0.0071290196
+      ],
+      [
+        "-T",
+        -0.386872
+      ],
+      [
+        "uring",
+        0.0
+      ],
+      [
+        " thesis",
+        -0.0007106439
+      ]
+    ]
+  },
+  "An extension of this statement was refined by Wilfried Sieg to include only boundedness, locality, and determinancy, and Steven Wolfram expanded it to systems in the natural world. Tibor Rado introduced a function for which it doesn't apply known as the busy beaver, and it could be challenged by the existence of an oracle. One version of it grew out of Hilbert's decision problem, while another formulation stated that real world numerical problems could be expressed using the lambda calculus. For": {
+    "guess": "Church-Turing thesis",
+    "confidence": [
+      [
+        "Church",
+        -0.0055950377
+      ],
+      [
+        "-T",
+        -0.16022596
+      ],
+      [
+        "uring",
+        0.0
+      ],
+      [
+        " thesis",
+        -0.00043090762
+      ]
+    ]
+  },
+  "An extension of this statement was refined by Wilfried Sieg to include only boundedness, locality, and determinancy, and Steven Wolfram expanded it to systems in the natural world. Tibor Rado introduced a function for which it doesn't apply known as the busy beaver, and it could be challenged by the existence of an oracle. One version of it grew out of Hilbert's decision problem, while another formulation stated that real world numerical problems could be expressed using the lambda calculus. For 10 points, name this doubly eponymous principle that says every computable function can be computed": {
+    "guess": "Church-Turing thesis",
+    "confidence": [
+      [
+        "Church",
+        -0.0010528154
+      ],
+      [
+        "-T",
+        -0.16022433
+      ],
+      [
+        "uring",
+        0.0
+      ],
+      [
+        " thesis",
+        -0.00015991552
+      ]
+    ]
+  },
+  "An extension of this statement was refined by Wilfried Sieg to include only boundedness, locality, and determinancy, and Steven Wolfram expanded it to systems in the natural world. Tibor Rado introduced a function for which it doesn't apply known as the busy beaver, and it could be challenged by the existence of an oracle. One version of it grew out of Hilbert's decision problem, while another formulation stated that real world numerical problems could be expressed using the lambda calculus. For 10 points, name this doubly eponymous principle that says every computable function can be computed with one of its namesake's machines.": {
+    "guess": "Church-Turing thesis",
+    "confidence": [
+      [
+        "Church",
+        -0.0068663326
+      ],
+      [
+        "-T",
+        -0.100206785
+      ],
+      [
+        "uring",
+        0.0
+      ],
+      [
+        " thesis",
+        -0.0052341213
+      ]
+    ]
+  },
+  "An extraordinarily active filamentary source of these items was discovered by Giovanni Schiaparelli,": {
+    "guess": "Mars (planet)",
+    "confidence": [
+      [
+        "Mars",
+        -0.6699904
+      ],
+      [
+        " (",
+        -0.17839915
+      ],
+      [
+        "planet",
+        -0.014637748
+      ],
+      [
+        ")",
+        -8.43514e-05
+      ]
+    ]
+  },
+  "An extraordinarily active filamentary source of these items was discovered by Giovanni Schiaparelli, who called their origin 1862 III. Recorded for millennia, these objects were sometimes called St. Lawrence's": {
+    "guess": "Perseids",
+    "confidence": [
+      [
+        "Per",
+        -0.0002420395
+      ],
+      [
+        "se",
+        -0.07889089
+      ],
+      [
+        "ids",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "An extraordinarily active filamentary source of these items was discovered by Giovanni Schiaparelli, who called their origin 1862 III. Recorded for millennia, these objects were sometimes called St. Lawrence's tears. Becoming prominent when the earth intersects the orbit of Swift-Tuttle, these objects": {
+    "guess": "Perseids",
+    "confidence": [
+      [
+        "Per",
+        -0.0007042105
+      ],
+      [
+        "se",
+        -0.10020721
+      ],
+      [
+        "ids",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "An extraordinarily active filamentary source of these items was discovered by Giovanni Schiaparelli, who called their origin 1862 III. Recorded for millennia, these objects were sometimes called St. Lawrence's tears. Becoming prominent when the earth intersects the orbit of Swift-Tuttle, these objects are easily visible throughout the Northern Hemisphere and climaxed on July 11th this year. FTP, name": {
+    "guess": "Perseids",
+    "confidence": [
+      [
+        "Per",
+        -0.00093230215
+      ],
+      [
+        "se",
+        -0.12692854
+      ],
+      [
+        "ids",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "An extraordinarily active filamentary source of these items was discovered by Giovanni Schiaparelli, who called their origin 1862 III. Recorded for millennia, these objects were sometimes called St. Lawrence's tears. Becoming prominent when the earth intersects the orbit of Swift-Tuttle, these objects are easily visible throughout the Northern Hemisphere and climaxed on July 11th this year. FTP, name this meteor shower named for the constellation in which they appear, a depiction of an ancient Greek": {
+    "guess": "Perseids",
+    "confidence": [
+      [
+        "Per",
+        -0.0010490044
+      ],
+      [
+        "se",
+        -0.02324606
+      ],
+      [
+        "ids",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "An extraordinarily active filamentary source of these items was discovered by Giovanni Schiaparelli, who called their origin 1862 III. Recorded for millennia, these objects were sometimes called St. Lawrence's tears. Becoming prominent when the earth intersects the orbit of Swift-Tuttle, these objects are easily visible throughout the Northern Hemisphere and climaxed on July 11th this year. FTP, name this meteor shower named for the constellation in which they appear, a depiction of an ancient Greek hero.": {
+    "guess": "Perseids",
+    "confidence": [
+      [
+        "Per",
+        -0.000108907356
+      ],
+      [
+        "se",
+        -0.014163628
+      ],
+      [
+        "ids",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "The extended version has three groups of combinations: One for numbers and punctuation marks, one for": {
+    "guess": "Morse Code",
+    "confidence": [
+      [
+        "M",
+        -0.0627602
+      ],
+      [
+        "orse",
+        -2.0815847e-05
+      ],
+      [
+        " Code",
+        -0.4740771
+      ]
+    ]
+  },
+  "The extended version has three groups of combinations: One for numbers and punctuation marks, one for uppercase letters and a few other punctuation marks, and a final group used for lowercase letters.": {
+    "guess": "ASCII",
+    "confidence": [
+      [
+        "ASCII",
+        -0.6369908
+      ]
+    ]
+  },
+  "The extended version has three groups of combinations: One for numbers and punctuation marks, one for uppercase letters and a few other punctuation marks, and a final group used for lowercase letters. For ten points identify the most common data-transmission code used in personal computers to represent": {
+    "guess": "ASCII",
+    "confidence": [
+      [
+        "ASCII",
+        -9.5198935e-05
+      ]
+    ]
+  },
+  "The extended version has three groups of combinations: One for numbers and punctuation marks, one for uppercase letters and a few other punctuation marks, and a final group used for lowercase letters. For ten points identify the most common data-transmission code used in personal computers to represent textual information and non-input device commands.": {
+    "guess": "ASCII",
+    "confidence": [
+      [
+        "ASCII",
+        -9.710619e-05
+      ]
+    ]
+  },
+  "The extinction event preceding this period saw the dying off of the conodonts. The Morrison Formation": {
+    "guess": "Jurassic",
+    "confidence": [
+      [
+        "Jur",
+        -0.014980593
+      ],
+      [
+        "assic",
+        0.0
+      ]
+    ]
+  },
+  "The extinction event preceding this period saw the dying off of the conodonts. The Morrison Formation is from this period. This period is named for a mountain range north of the Alps in Switzerland and": {
+    "guess": "Jurassic",
+    "confidence": [
+      [
+        "Jur",
+        -0.011295147
+      ],
+      [
+        "assic",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The extinction event preceding this period saw the dying off of the conodonts. The Morrison Formation is from this period. This period is named for a mountain range north of the Alps in Switzerland and France. The Solnhofen limestone contains fossils from this period, including Archaeopteryx. The Brachiosaurus": {
+    "guess": "Jurassic",
+    "confidence": [
+      [
+        "Jur",
+        -0.013664228
+      ],
+      [
+        "assic",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The extinction event preceding this period saw the dying off of the conodonts. The Morrison Formation is from this period. This period is named for a mountain range north of the Alps in Switzerland and France. The Solnhofen limestone contains fossils from this period, including Archaeopteryx. The Brachiosaurus and Apatosaurus first appeared in this period. This is the middle period of the Mesozoic": {
+    "guess": "Jurassic",
+    "confidence": [
+      [
+        "Jur",
+        -2.319992e-05
+      ],
+      [
+        "assic",
+        0.0
+      ]
+    ]
+  },
+  "The extinction event preceding this period saw the dying off of the conodonts. The Morrison Formation is from this period. This period is named for a mountain range north of the Alps in Switzerland and France. The Solnhofen limestone contains fossils from this period, including Archaeopteryx. The Brachiosaurus and Apatosaurus first appeared in this period. This is the middle period of the Mesozoic Era. For 10 points, name this period occurring before the Cretaceous and after the Triassic.": {
+    "guess": "Jurassic",
+    "confidence": [
+      [
+        "Jur",
+        -0.00027194494
+      ],
+      [
+        "assic",
+        0.0
+      ]
+    ]
+  },
+  "Extremely blocky, steep-sided types of these landforms occur when they form under glaciers, and are known": {
+    "guess": "Lava dome",
+    "confidence": [
+      [
+        "L",
+        -0.2219926
+      ],
+      [
+        "ava",
+        -3.2497806e-05
+      ],
+      [
+        " dome",
+        -0.032284666
+      ]
+    ]
+  },
+  "Extremely blocky, steep-sided types of these landforms occur when they form under glaciers, and are known as tuyas. Their activities can form cryptodomes, which, when moved from their original location,": {
+    "guess": "Volcanoes",
+    "confidence": [
+      [
+        "Vol",
+        -0.15211585
+      ],
+      [
+        "cano",
+        -0.00012344286
+      ],
+      [
+        "es",
+        -0.014171031
+      ]
+    ]
+  },
+  "Extremely blocky, steep-sided types of these landforms occur when they form under glaciers, and are known as tuyas. Their activities can form cryptodomes, which, when moved from their original location, are known as coulees. Their actions are sometimes described as phreatic or (*) plinian depending on": {
+    "guess": "Volcanoes",
+    "confidence": [
+      [
+        "Vol",
+        -0.003928914
+      ],
+      [
+        "cano",
+        -7.505351e-05
+      ],
+      [
+        "es",
+        -0.018202974
+      ]
+    ]
+  },
+  "Extremely blocky, steep-sided types of these landforms occur when they form under glaciers, and are known as tuyas. Their activities can form cryptodomes, which, when moved from their original location, are known as coulees. Their actions are sometimes described as phreatic or (*) plinian depending on whether they create large amounts of steam. They can create flows of pahoehoe or aa, and they come": {
+    "guess": "Volcano",
+    "confidence": [
+      [
+        "Vol",
+        -0.0016747066
+      ],
+      [
+        "cano",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "Extremely blocky, steep-sided types of these landforms occur when they form under glaciers, and are known as tuyas. Their activities can form cryptodomes, which, when moved from their original location, are known as coulees. Their actions are sometimes described as phreatic or (*) plinian depending on whether they create large amounts of steam. They can create flows of pahoehoe or aa, and they come in composite, shield, and cinder cone varieties. For 10 points, name these openings in the earth's": {
+    "guess": "Volcano",
+    "confidence": [
+      [
+        "Vol",
+        -0.0022117542
+      ],
+      [
+        "cano",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Extremely blocky, steep-sided types of these landforms occur when they form under glaciers, and are known as tuyas. Their activities can form cryptodomes, which, when moved from their original location, are known as coulees. Their actions are sometimes described as phreatic or (*) plinian depending on whether they create large amounts of steam. They can create flows of pahoehoe or aa, and they come in composite, shield, and cinder cone varieties. For 10 points, name these openings in the earth's crust that allow magma to come to the surface, exemplified by Krakatoa and St. Helens.": {
+    "guess": "Volcano",
+    "confidence": [
+      [
+        "Vol",
+        -0.0007105246
+      ],
+      [
+        "cano",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "The extrasolar planet HAT-P-7 was shown to either be polar or have this property. Along with the angle": {
+    "guess": "Obliquity",
+    "confidence": [
+      [
+        "Ob",
+        -0.14121112
+      ],
+      [
+        "li",
+        -0.0004624856
+      ],
+      [
+        "qu",
+        0.0
+      ],
+      [
+        "ity",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The extrasolar planet HAT-P-7 was shown to either be polar or have this property. Along with the angle of entry, this property of meteor showers like the Perseids explains their high entry speed. Damocles": {
+    "guess": "Retrograde orbit",
+    "confidence": [
+      [
+        "Retro",
+        -0.012732958
+      ],
+      [
+        "grade",
+        -2.3392786e-06
+      ],
+      [
+        " orbit",
+        -0.34041154
+      ]
+    ]
+  },
+  "The extrasolar planet HAT-P-7 was shown to either be polar or have this property. Along with the angle of entry, this property of meteor showers like the Perseids explains their high entry speed. Damocles and a few related high-eccentricity asteroids have this property, making some believe that Damocles": {
+    "guess": "Retrograde orbit",
+    "confidence": [
+      [
+        "Retro",
+        -0.0020918536
+      ],
+      [
+        "grade",
+        -3.1281633e-07
+      ],
+      [
+        " orbit",
+        -0.49821806
+      ]
+    ]
+  },
+  "The extrasolar planet HAT-P-7 was shown to either be polar or have this property. Along with the angle of entry, this property of meteor showers like the Perseids explains their high entry speed. Damocles and a few related high-eccentricity asteroids have this property, making some believe that Damocles is an inactive comet. This property is used as evidence for the captured nature of a satellite.": {
+    "guess": "Retrograde motion",
+    "confidence": [
+      [
+        "Retro",
+        -0.0003249759
+      ],
+      [
+        "grade",
+        -3.1281633e-07
+      ],
+      [
+        " motion",
+        -0.38596794
+      ]
+    ]
+  },
+  "The extrasolar planet HAT-P-7 was shown to either be polar or have this property. Along with the angle of entry, this property of meteor showers like the Perseids explains their high entry speed. Damocles and a few related high-eccentricity asteroids have this property, making some believe that Damocles is an inactive comet. This property is used as evidence for the captured nature of a satellite. A planet is observed to be undergoing this from Earth when that planet is near opposition. This property": {
+    "guess": "Retrograde motion",
+    "confidence": [
+      [
+        "Retro",
+        -0.0004518838
+      ],
+      [
+        "grade",
+        -5.5122365e-07
+      ],
+      [
+        " motion",
+        -0.095235266
+      ]
+    ]
+  },
+  "The extrasolar planet HAT-P-7 was shown to either be polar or have this property. Along with the angle of entry, this property of meteor showers like the Perseids explains their high entry speed. Damocles and a few related high-eccentricity asteroids have this property, making some believe that Damocles is an inactive comet. This property is used as evidence for the captured nature of a satellite. A planet is observed to be undergoing this from Earth when that planet is near opposition. This property is indicated by having an axial inclination greater than 90 degrees. Venus and Uranus have the": {
+    "guess": "Retrograde motion",
+    "confidence": [
+      [
+        "Retro",
+        -0.0012209403
+      ],
+      [
+        "grade",
+        -6.704273e-07
+      ],
+      [
+        " motion",
+        -0.19872779
+      ]
+    ]
+  },
+  "The extrasolar planet HAT-P-7 was shown to either be polar or have this property. Along with the angle of entry, this property of meteor showers like the Perseids explains their high entry speed. Damocles and a few related high-eccentricity asteroids have this property, making some believe that Damocles is an inactive comet. This property is used as evidence for the captured nature of a satellite. A planet is observed to be undergoing this from Earth when that planet is near opposition. This property is indicated by having an axial inclination greater than 90 degrees. Venus and Uranus have the rotational form of this dynamic. This property contrasts with direct motion. For 10 points, name this": {
+    "guess": "Retrograde motion",
+    "confidence": [
+      [
+        "Retro",
+        -0.00148284
+      ],
+      [
+        "grade",
+        -7.703444e-06
+      ],
+      [
+        " motion",
+        -0.21373706
+      ]
+    ]
+  },
+  "The extrasolar planet HAT-P-7 was shown to either be polar or have this property. Along with the angle of entry, this property of meteor showers like the Perseids explains their high entry speed. Damocles and a few related high-eccentricity asteroids have this property, making some believe that Damocles is an inactive comet. This property is used as evidence for the captured nature of a satellite. A planet is observed to be undergoing this from Earth when that planet is near opposition. This property is indicated by having an axial inclination greater than 90 degrees. Venus and Uranus have the rotational form of this dynamic. This property contrasts with direct motion. For 10 points, name this motion in the opposite direction from Earth's rotation around the Sun.": {
+    "guess": "Retrograde motion",
+    "confidence": [
+      [
+        "Retro",
+        -0.0011367622
+      ],
+      [
+        "grade",
+        -4.3202e-07
+      ],
+      [
+        " motion",
+        -0.124480106
+      ]
+    ]
+  },
+  "One extension to this idea involves using axiom S5 to show that necessity exists when there is a possibility": {
+    "guess": "Modal Logic",
+    "confidence": [
+      [
+        "Modal",
+        -0.049688928
+      ],
+      [
+        " Logic",
+        -0.08462206
+      ]
+    ]
+  },
+  "One extension to this idea involves using axiom S5 to show that necessity exists when there is a possibility in one of many possible worlds. That extension to this idea, builds upon Norman Malcolm's version": {
+    "guess": "Ontological argument",
+    "confidence": [
+      [
+        "Ont",
+        -0.014687434
+      ],
+      [
+        "ological",
+        0.0
+      ],
+      [
+        " argument",
+        -4.1273333e-06
+      ]
+    ]
+  },
+  "One extension to this idea involves using axiom S5 to show that necessity exists when there is a possibility in one of many possible worlds. That extension to this idea, builds upon Norman Malcolm's version of it and defines a quantity called maximum excellence. The first published refutation of it was": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8656161
+      ]
+    ]
+  },
+  "One extension to this idea involves using axiom S5 to show that necessity exists when there is a possibility in one of many possible worlds. That extension to this idea, builds upon Norman Malcolm's version of it and defines a quantity called maximum excellence. The first published refutation of it was presented in the text In Defense of the Fool and discusses the absurdity of a lost island. Immanuel": {
+    "guess": "Ontological argument",
+    "confidence": [
+      [
+        "Ont",
+        -0.028860383
+      ],
+      [
+        "ological",
+        0.0
+      ],
+      [
+        " argument",
+        -1.700133e-05
+      ]
+    ]
+  },
+  "One extension to this idea involves using axiom S5 to show that necessity exists when there is a possibility in one of many possible worlds. That extension to this idea, builds upon Norman Malcolm's version of it and defines a quantity called maximum excellence. The first published refutation of it was presented in the text In Defense of the Fool and discusses the absurdity of a lost island. Immanuel Kant pointed out its flaw in assuming perfection is predicated by existence. Statements that express": {
+    "guess": "Ontological argument",
+    "confidence": [
+      [
+        "Ont",
+        -0.012840885
+      ],
+      [
+        "ological",
+        0.0
+      ],
+      [
+        " argument",
+        -9.133887e-06
+      ]
+    ]
+  },
+  "One extension to this idea involves using axiom S5 to show that necessity exists when there is a possibility in one of many possible worlds. That extension to this idea, builds upon Norman Malcolm's version of it and defines a quantity called maximum excellence. The first published refutation of it was presented in the text In Defense of the Fool and discusses the absurdity of a lost island. Immanuel Kant pointed out its flaw in assuming perfection is predicated by existence. Statements that express beliefs, or modalities, were used by Plantinga to update this idea. It relies on the premise that": {
+    "guess": "Ontological argument",
+    "confidence": [
+      [
+        "Ont",
+        -0.008160506
+      ],
+      [
+        "ological",
+        0.0
+      ],
+      [
+        " argument",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "One extension to this idea involves using axiom S5 to show that necessity exists when there is a possibility in one of many possible worlds. That extension to this idea, builds upon Norman Malcolm's version of it and defines a quantity called maximum excellence. The first published refutation of it was presented in the text In Defense of the Fool and discusses the absurdity of a lost island. Immanuel Kant pointed out its flaw in assuming perfection is predicated by existence. Statements that express beliefs, or modalities, were used by Plantinga to update this idea. It relies on the premise that a being existing within the mind is inferior to a being existing both in the mind and in reality.": {
+    "guess": "Ontological argument",
+    "confidence": [
+      [
+        "Ont",
+        -0.0010887817
+      ],
+      [
+        "ological",
+        0.0
+      ],
+      [
+        " argument",
+        -2.1650272e-05
+      ]
+    ]
+  },
+  "One extension to this idea involves using axiom S5 to show that necessity exists when there is a possibility in one of many possible worlds. That extension to this idea, builds upon Norman Malcolm's version of it and defines a quantity called maximum excellence. The first published refutation of it was presented in the text In Defense of the Fool and discusses the absurdity of a lost island. Immanuel Kant pointed out its flaw in assuming perfection is predicated by existence. Statements that express beliefs, or modalities, were used by Plantinga to update this idea. It relies on the premise that a being existing within the mind is inferior to a being existing both in the mind and in reality. Introduced in the Proslogion, for 10 points, name this proof of God's existence presented by Anselm": {
+    "guess": "Ontological argument",
+    "confidence": [
+      [
+        "Ont",
+        -0.0029992163
+      ],
+      [
+        "ological",
+        0.0
+      ],
+      [
+        " argument",
+        -0.033646274
+      ]
+    ]
+  },
+  "Exterior features within these entities are described by Allen's, Bergmann's, and Gloger's rules. \"Ring\"": {
+    "guess": "Animals",
+    "confidence": [
+      [
+        "Animals",
+        -0.89334816
+      ]
+    ]
+  },
+  "Exterior features within these entities are described by Allen's, Bergmann's, and Gloger's rules. \"Ring\" ones form a genetic difference gradient, which often wraps in a ring around some geographical feature,": {
+    "guess": "Ring species",
+    "confidence": [
+      [
+        "Ring",
+        -0.66301835
+      ],
+      [
+        " species",
+        -0.0024837463
+      ]
+    ]
+  },
+  "Exterior features within these entities are described by Allen's, Bergmann's, and Gloger's rules. \"Ring\" ones form a genetic difference gradient, which often wraps in a ring around some geographical feature, such as with gulls in the Arctic. One theory about them involves the use of cladograms to determine": {
+    "guess": "Ring species",
+    "confidence": [
+      [
+        "Ring",
+        -5.288163e-05
+      ],
+      [
+        " species",
+        -0.00055994286
+      ]
+    ]
+  },
+  "Exterior features within these entities are described by Allen's, Bergmann's, and Gloger's rules. \"Ring\" ones form a genetic difference gradient, which often wraps in a ring around some geographical feature, such as with gulls in the Arctic. One theory about them involves the use of cladograms to determine evolutionary relationships, the phylogenetic concept, while another theory uses Ernst Mayr's": {
+    "guess": "Species",
+    "confidence": [
+      [
+        "Species",
+        -0.1632753
+      ]
+    ]
+  },
+  "Exterior features within these entities are described by Allen's, Bergmann's, and Gloger's rules. \"Ring\" ones form a genetic difference gradient, which often wraps in a ring around some geographical feature, such as with gulls in the Arctic. One theory about them involves the use of cladograms to determine evolutionary relationships, the phylogenetic concept, while another theory uses Ernst Mayr's definition, the ability and propensity for organisms to produce fertile offspring, the biological concept.": {
+    "guess": "Species",
+    "confidence": [
+      [
+        "Species",
+        -0.013108929
+      ]
+    ]
+  },
+  "Exterior features within these entities are described by Allen's, Bergmann's, and Gloger's rules. \"Ring\" ones form a genetic difference gradient, which often wraps in a ring around some geographical feature, such as with gulls in the Arctic. One theory about them involves the use of cladograms to determine evolutionary relationships, the phylogenetic concept, while another theory uses Ernst Mayr's definition, the ability and propensity for organisms to produce fertile offspring, the biological concept. FTP, name this unit of taxonomic classification which can be created allopatrically or sympatrically.": {
+    "guess": "Species",
+    "confidence": [
+      [
+        "Species",
+        -0.0016401889
+      ]
+    ]
+  },
+  "Exterior features within these entities are described by Allen's, Bergmann's, and Gloger's rules. \"Ring\" ones form a genetic difference gradient, which often wraps in a ring around some geographical feature, such as with gulls in the Arctic. One theory about them involves the use of cladograms to determine evolutionary relationships, the phylogenetic concept, while another theory uses Ernst Mayr's definition, the ability and propensity for organisms to produce fertile offspring, the biological concept. FTP, name this unit of taxonomic classification which can be created allopatrically or sympatrically.          |": {
+    "guess": "Species",
+    "confidence": [
+      [
+        "Species",
+        -0.0025038403
+      ]
+    ]
+  },
+  "An \"extra long\" edit is rumored to exist, possibly playing for as long as 10 minutes, and the most famous": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0918772
+      ]
+    ]
+  },
+  "An \"extra long\" edit is rumored to exist, possibly playing for as long as 10 minutes, and the most famous edit, a single from 1967, is missing both the so-called \"Cantina scene\" and \"Bicycle Rider\" segments.*": {
+    "guess": "Heroes and Villains (The Beach Boys song)",
+    "confidence": [
+      [
+        "Heroes",
+        -0.41998258
+      ],
+      [
+        " and",
+        -3.7697225e-06
+      ],
+      [
+        " Vill",
+        -4.365741e-06
+      ],
+      [
+        "ains",
+        -1.0206721e-05
+      ],
+      [
+        " (",
+        -0.38718343
+      ],
+      [
+        "The",
+        -0.22221817
+      ],
+      [
+        " Beach",
+        -8.75699e-05
+      ],
+      [
+        " Boys",
+        0.0
+      ],
+      [
+        " song",
+        -0.0078068925
+      ],
+      [
+        ")",
+        -7.58424e-06
+      ]
+    ]
+  },
+  "An \"extra long\" edit is rumored to exist, possibly playing for as long as 10 minutes, and the most famous edit, a single from 1967, is missing both the so-called \"Cantina scene\" and \"Bicycle Rider\" segments.* The version appearing on the 1992 Good Vibrations boxed set featured the \"Cantina scene\" as": {
+    "guess": "Heroes and Villains",
+    "confidence": [
+      [
+        "Heroes",
+        -0.34505343
+      ],
+      [
+        " and",
+        -6.2729996e-06
+      ],
+      [
+        " Vill",
+        -1.6240566e-06
+      ],
+      [
+        "ains",
+        -7.107425e-06
+      ]
+    ]
+  },
+  "An \"extra long\" edit is rumored to exist, possibly playing for as long as 10 minutes, and the most famous edit, a single from 1967, is missing both the so-called \"Cantina scene\" and \"Bicycle Rider\" segments.* The version appearing on the 1992 Good Vibrations boxed set featured the \"Cantina scene\" as well as the extra lines \"At three score and five, I'm very much alive, I've still got the jive to survive\".": {
+    "guess": "Heroes and Villains",
+    "confidence": [
+      [
+        "Heroes",
+        -0.103063464
+      ],
+      [
+        " and",
+        -1.8624639e-06
+      ],
+      [
+        " Vill",
+        -3.0545007e-06
+      ],
+      [
+        "ains",
+        -6.392203e-06
+      ]
+    ]
+  },
+  "An \"extra long\" edit is rumored to exist, possibly playing for as long as 10 minutes, and the most famous edit, a single from 1967, is missing both the so-called \"Cantina scene\" and \"Bicycle Rider\" segments.* The version appearing on the 1992 Good Vibrations boxed set featured the \"Cantina scene\" as well as the extra lines \"At three score and five, I'm very much alive, I've still got the jive to survive\". FTP, what is this song, originally intended as the first track of The Beach Boys' fabled album": {
+    "guess": "Heroes and Villains",
+    "confidence": [
+      [
+        "Heroes",
+        -0.031017823
+      ],
+      [
+        " and",
+        -5.5122365e-07
+      ],
+      [
+        " Vill",
+        -4.3202e-07
+      ],
+      [
+        "ains",
+        -7.226629e-06
+      ]
+    ]
+  },
+  "An \"extra long\" edit is rumored to exist, possibly playing for as long as 10 minutes, and the most famous edit, a single from 1967, is missing both the so-called \"Cantina scene\" and \"Bicycle Rider\" segments.* The version appearing on the 1992 Good Vibrations boxed set featured the \"Cantina scene\" as well as the extra lines \"At three score and five, I'm very much alive, I've still got the jive to survive\". FTP, what is this song, originally intended as the first track of The Beach Boys' fabled album SMiLE, which was completed by Brian Wilson for its 2004 release, 37 years later?": {
+    "guess": "Heroes and Villains",
+    "confidence": [
+      [
+        "Heroes",
+        -0.04119128
+      ],
+      [
+        " and",
+        -5.5122365e-07
+      ],
+      [
+        " Vill",
+        -7.89631e-07
+      ],
+      [
+        "ains",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "An extension of LeChatelier's principle into electromagnetic  theory, this law was deduced in 1834 by": {
+    "guess": "Lenz's law",
+    "confidence": [
+      [
+        "L",
+        -0.033838756
+      ],
+      [
+        "enz",
+        -6.704273e-07
+      ],
+      [
+        "'s",
+        -1.9027791e-05
+      ],
+      [
+        " law",
+        -0.0788899
+      ]
+    ]
+  },
+  "An extension of LeChatelier's principle into electromagnetic  theory, this law was deduced in 1834 by the Estonian physicist  for whom it is named. It states that an electric current induced  by a change": {
+    "guess": "Lenz's Law",
+    "confidence": [
+      [
+        "L",
+        -0.002040699
+      ],
+      [
+        "enz",
+        0.0
+      ],
+      [
+        "'s",
+        -1.1517961e-05
+      ],
+      [
+        " Law",
+        -0.11282252
+      ]
+    ]
+  },
+  "An extension of LeChatelier's principle into electromagnetic  theory, this law was deduced in 1834 by the Estonian physicist  for whom it is named. It states that an electric current induced  by a change in the magnetic field always flows in the direction  that will produce a field to oppose the change": {
+    "guess": "Lenz's law",
+    "confidence": [
+      [
+        "L",
+        -0.0002850537
+      ],
+      [
+        "enz",
+        0.0
+      ],
+      [
+        "'s",
+        -4.5491004e-05
+      ],
+      [
+        " law",
+        -0.012509655
+      ]
+    ]
+  },
+  "An extension of LeChatelier's principle into electromagnetic  theory, this law was deduced in 1834 by the Estonian physicist  for whom it is named. It states that an electric current induced  by a change in the magnetic field always flows in the direction  that will produce a field to oppose the change that produced the  current. FTP, name this law which will indicate the direction of  the current": {
+    "guess": "Lenz's law",
+    "confidence": [
+      [
+        "L",
+        -3.5716304e-05
+      ],
+      [
+        "enz",
+        0.0
+      ],
+      [
+        "'s",
+        -4.246537e-06
+      ],
+      [
+        " law",
+        -0.0031777136
+      ]
+    ]
+  },
+  "An extension of LeChatelier's principle into electromagnetic  theory, this law was deduced in 1834 by the Estonian physicist  for whom it is named. It states that an electric current induced  by a change in the magnetic field always flows in the direction  that will produce a field to oppose the change that produced the  current. FTP, name this law which will indicate the direction of  the current induced by a permanent bar magnet pushed and  withdrawn through a coil of wire.": {
+    "guess": "Lenz's law",
+    "confidence": [
+      [
+        "L",
+        -1.5213274e-05
+      ],
+      [
+        "enz",
+        0.0
+      ],
+      [
+        "'s",
+        -6.9882217e-06
+      ],
+      [
+        " law",
+        -0.007606151
+      ]
+    ]
+  },
+  "On the extreme left, Mercury pokes his caduceus up among storm clouds. Cupid shoots at the Graces to": {
+    "guess": "Primavera",
+    "confidence": [
+      [
+        "Prim",
+        -0.019267414
+      ],
+      [
+        "avera",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "On the extreme left, Mercury pokes his caduceus up among storm clouds. Cupid shoots at the Graces to his  right who are the artist's answer to a challenge issued by Alberti to recreate a scene described": {
+    "guess": "Primavera (Botticelli)",
+    "confidence": [
+      [
+        "Prim",
+        -0.03223722
+      ],
+      [
+        "avera",
+        -1.9361265e-07
+      ],
+      [
+        " (",
+        -0.5761153
+      ],
+      [
+        "B",
+        -0.3627789
+      ],
+      [
+        "ott",
+        -1.9361265e-07
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "elli",
+        0.0
+      ],
+      [
+        ")",
+        -0.16045067
+      ]
+    ]
+  },
+  "On the extreme left, Mercury pokes his caduceus up among storm clouds. Cupid shoots at the Graces to his  right who are the artist's answer to a challenge issued by Alberti to recreate a scene described by Seneca. At the  extreme right, the wind god Zephyrus flies in pursuit of the nymph Chloris. Between": {
+    "guess": "Primavera",
+    "confidence": [
+      [
+        "Prim",
+        -0.031091439
+      ],
+      [
+        "avera",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "On the extreme left, Mercury pokes his caduceus up among storm clouds. Cupid shoots at the Graces to his  right who are the artist's answer to a challenge issued by Alberti to recreate a scene described by Seneca. At the  extreme right, the wind god Zephyrus flies in pursuit of the nymph Chloris. Between Chloris and the Graces are  Venus and Flora. FTP identify this masterpiece commissioned by Lorenzo": {
+    "guess": "Primavera",
+    "confidence": [
+      [
+        "Prim",
+        -0.010431491
+      ],
+      [
+        "avera",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "On the extreme left, Mercury pokes his caduceus up among storm clouds. Cupid shoots at the Graces to his  right who are the artist's answer to a challenge issued by Alberti to recreate a scene described by Seneca. At the  extreme right, the wind god Zephyrus flies in pursuit of the nymph Chloris. Between Chloris and the Graces are  Venus and Flora. FTP identify this masterpiece commissioned by Lorenzo de Medici now at the Uffizi Gallery, a  1482 painting by Sandro Boticelli.": {
+    "guess": "Primavera",
+    "confidence": [
+      [
+        "Prim",
+        -0.011518022
+      ],
+      [
+        "avera",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man extended the Langevin-Nyquist formalism for fluctuations by a method called the  regression": {
+    "guess": "Onsager regression hypothesis",
+    "confidence": [
+      [
+        "Ons",
+        -0.051308896
+      ],
+      [
+        "ager",
+        -3.1281633e-07
+      ],
+      [
+        " regression",
+        -0.9741305
+      ],
+      [
+        " hypothesis",
+        -0.00021021579
+      ]
+    ]
+  },
+  "This man extended the Langevin-Nyquist formalism for fluctuations by a method called the  regression hypothesis. He also modified the Debye-Huckel theory of (*) electrolytic dissociation to account for": {
+    "guess": "Lars Onsager",
+    "confidence": [
+      [
+        "L",
+        -0.725016
+      ],
+      [
+        "ars",
+        -2.3319124e-05
+      ],
+      [
+        " Ons",
+        0.0
+      ],
+      [
+        "ager",
+        0.0
+      ]
+    ]
+  },
+  "This man extended the Langevin-Nyquist formalism for fluctuations by a method called the  regression hypothesis. He also modified the Debye-Huckel theory of (*) electrolytic dissociation to account for Brownian motion. His namesake reciprocity relations are solutions for a square lattice of spins.  For": {
+    "guess": "Lars Onsager",
+    "confidence": [
+      [
+        "L",
+        -0.01381168
+      ],
+      [
+        "ars",
+        0.0
+      ],
+      [
+        " Ons",
+        0.0
+      ],
+      [
+        "ager",
+        0.0
+      ]
+    ]
+  },
+  "This man extended the Langevin-Nyquist formalism for fluctuations by a method called the  regression hypothesis. He also modified the Debye-Huckel theory of (*) electrolytic dissociation to account for Brownian motion. His namesake reciprocity relations are solutions for a square lattice of spins.  For 10 points\u2014 name this 1968 Nobel Laureate in Chemistry for his exact solution to the two-dimensional": {
+    "guess": "Lars Onsager",
+    "confidence": [
+      [
+        "L",
+        -0.0071892687
+      ],
+      [
+        "ars",
+        0.0
+      ],
+      [
+        " Ons",
+        0.0
+      ],
+      [
+        "ager",
+        0.0
+      ]
+    ]
+  },
+  "This man extended the Langevin-Nyquist formalism for fluctuations by a method called the  regression hypothesis. He also modified the Debye-Huckel theory of (*) electrolytic dissociation to account for Brownian motion. His namesake reciprocity relations are solutions for a square lattice of spins.  For 10 points\u2014 name this 1968 Nobel Laureate in Chemistry for his exact solution to the two-dimensional Ising model.": {
+    "guess": "Lars Onsager",
+    "confidence": [
+      [
+        "L",
+        -0.12846181
+      ],
+      [
+        "ars",
+        0.0
+      ],
+      [
+        " Ons",
+        0.0
+      ],
+      [
+        "ager",
+        0.0
+      ]
+    ]
+  },
+  "The most extensive extant text of this work was found at Ninevah in the library of Ashurbanipal. Much": {
+    "guess": "Epic of Gilgamesh",
+    "confidence": [
+      [
+        "Epic",
+        -0.003581184
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Gil",
+        0.0
+      ],
+      [
+        "games",
+        -5.5122365e-07
+      ],
+      [
+        "h",
+        0.0
+      ]
+    ]
+  },
+  "The most extensive extant text of this work was found at Ninevah in the library of Ashurbanipal. Much of the story of the titular character's battle with Humbaba is missing from surviving versions. During": {
+    "guess": "Epic of Gilgamesh",
+    "confidence": [
+      [
+        "Epic",
+        -0.0042611076
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Gil",
+        0.0
+      ],
+      [
+        "games",
+        -1.9361265e-07
+      ],
+      [
+        "h",
+        0.0
+      ]
+    ]
+  },
+  "The most extensive extant text of this work was found at Ninevah in the library of Ashurbanipal. Much of the story of the titular character's battle with Humbaba is missing from surviving versions. During the course of his adventures, this leader of Uruk rejects the marriage proposal of the goddess of": {
+    "guess": "Epic of Gilgamesh",
+    "confidence": [
+      [
+        "Epic",
+        -0.016424702
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Gil",
+        0.0
+      ],
+      [
+        "games",
+        -9.0883464e-07
+      ],
+      [
+        "h",
+        0.0
+      ]
+    ]
+  },
+  "The most extensive extant text of this work was found at Ninevah in the library of Ashurbanipal. Much of the story of the titular character's battle with Humbaba is missing from surviving versions. During the course of his adventures, this leader of Uruk rejects the marriage proposal of the goddess of love, slays a bull, finds Utnapishtim, and sees a snake steal the plant that would restore his youth.": {
+    "guess": "Epic of Gilgamesh",
+    "confidence": [
+      [
+        "Epic",
+        -0.016304733
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Gil",
+        0.0
+      ],
+      [
+        "games",
+        0.0
+      ],
+      [
+        "h",
+        0.0
+      ]
+    ]
+  },
+  "The most extensive extant text of this work was found at Ninevah in the library of Ashurbanipal. Much of the story of the titular character's battle with Humbaba is missing from surviving versions. During the course of his adventures, this leader of Uruk rejects the marriage proposal of the goddess of love, slays a bull, finds Utnapishtim, and sees a snake steal the plant that would restore his youth. For ten points, name this Babylonian epic, which gets its name from a friend of Enkidu and the beloved": {
+    "guess": "Epic of Gilgamesh",
+    "confidence": [
+      [
+        "Epic",
+        -0.039506253
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Gil",
+        -1.147242e-06
+      ],
+      [
+        "games",
+        0.0
+      ],
+      [
+        "h",
+        0.0
+      ]
+    ]
+  },
+  "The most extensive extant text of this work was found at Ninevah in the library of Ashurbanipal. Much of the story of the titular character's battle with Humbaba is missing from surviving versions. During the course of his adventures, this leader of Uruk rejects the marriage proposal of the goddess of love, slays a bull, finds Utnapishtim, and sees a snake steal the plant that would restore his youth. For ten points, name this Babylonian epic, which gets its name from a friend of Enkidu and the beloved of Ishtar.": {
+    "guess": "Epic of Gilgamesh",
+    "confidence": [
+      [
+        "Epic",
+        -0.0011815388
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Gil",
+        0.0
+      ],
+      [
+        "games",
+        0.0
+      ],
+      [
+        "h",
+        0.0
+      ]
+    ]
+  },
+  "He is extensively worshipped in the Deccan and depicted in Saivite (SHAY- vite) shrines. One story describing": {
+    "guess": "Shiva",
+    "confidence": [
+      [
+        "Sh",
+        -0.89633566
+      ],
+      [
+        "iva",
+        -1.92662e-05
+      ]
+    ]
+  },
+  "He is extensively worshipped in the Deccan and depicted in Saivite (SHAY- vite) shrines. One story describing his origin states that he was created out of clay by Parvathi to stand guard over her modesty": {
+    "guess": "Ganesha",
+    "confidence": [
+      [
+        "G",
+        -0.0006440494
+      ],
+      [
+        "anes",
+        0.0
+      ],
+      [
+        "ha",
+        0.0
+      ]
+    ]
+  },
+  "He is extensively worshipped in the Deccan and depicted in Saivite (SHAY- vite) shrines. One story describing his origin states that he was created out of clay by Parvathi to stand guard over her modesty while she bathed. In his role as the Lord of Hosts, he wrote down Vyasa's dictatation of the Mahabharatha,": {
+    "guess": "Ganesha",
+    "confidence": [
+      [
+        "G",
+        -2.5583993e-05
+      ],
+      [
+        "anes",
+        0.0
+      ],
+      [
+        "ha",
+        0.0
+      ]
+    ]
+  },
+  "He is extensively worshipped in the Deccan and depicted in Saivite (SHAY- vite) shrines. One story describing his origin states that he was created out of clay by Parvathi to stand guard over her modesty while she bathed. In his role as the Lord of Hosts, he wrote down Vyasa's dictatation of the Mahabharatha, is often depicted riding a mouse, and is worshipped as the god of obstacles. For ten points,": {
+    "guess": "Ganesha",
+    "confidence": [
+      [
+        "G",
+        -0.020705026
+      ],
+      [
+        "anes",
+        0.0
+      ],
+      [
+        "ha",
+        0.0
+      ]
+    ]
+  },
+  "He is extensively worshipped in the Deccan and depicted in Saivite (SHAY- vite) shrines. One story describing his origin states that he was created out of clay by Parvathi to stand guard over her modesty while she bathed. In his role as the Lord of Hosts, he wrote down Vyasa's dictatation of the Mahabharatha, is often depicted riding a mouse, and is worshipped as the god of obstacles. For ten points, name this Indian deity, whom Homer Simpson wearing an elephant mask could not imitate, for the god": {
+    "guess": "Ganesha",
+    "confidence": [
+      [
+        "G",
+        -0.043060392
+      ],
+      [
+        "anes",
+        0.0
+      ],
+      [
+        "ha",
+        0.0
+      ]
+    ]
+  },
+  "He is extensively worshipped in the Deccan and depicted in Saivite (SHAY- vite) shrines. One story describing his origin states that he was created out of clay by Parvathi to stand guard over her modesty while she bathed. In his role as the Lord of Hosts, he wrote down Vyasa's dictatation of the Mahabharatha, is often depicted riding a mouse, and is worshipped as the god of obstacles. For ten points, name this Indian deity, whom Homer Simpson wearing an elephant mask could not imitate, for the god is graceful while Homer is not.": {
+    "guess": "Ganesha",
+    "confidence": [
+      [
+        "G",
+        -0.018175576
+      ],
+      [
+        "anes",
+        0.0
+      ],
+      [
+        "ha",
+        0.0
+      ]
+    ]
+  },
+  "He was an extra at a party in \"Less Than Zero\" and was a love interest named Chuck on \"Head of the Class.\"": {
+    "guess": "Andrew McCarthy",
+    "confidence": [
+      [
+        "Andrew",
+        -1.1234429
+      ],
+      [
+        " Mc",
+        -0.13596937
+      ],
+      [
+        "Carthy",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "He was an extra at a party in \"Less Than Zero\" and was a love interest named Chuck on \"Head of the Class.\" He's slated to appear in three title roles in upcoming films, playing Benjamin Button, Carl Schmidt": {
+    "guess": "Brad Pitt",
+    "confidence": [
+      [
+        "Brad",
+        -0.013732075
+      ],
+      [
+        " Pitt",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "He was an extra at a party in \"Less Than Zero\" and was a love interest named Chuck on \"Head of the Class.\" He's slated to appear in three title roles in upcoming films, playing Benjamin Button, Carl Schmidt and Jesse James. His most recent TV work was lending his voice to Boomhauer's brother Patch on": {
+    "guess": "Brad Pitt",
+    "confidence": [
+      [
+        "Brad",
+        -0.00038789344
+      ],
+      [
+        " Pitt",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "He was an extra at a party in \"Less Than Zero\" and was a love interest named Chuck on \"Head of the Class.\" He's slated to appear in three title roles in upcoming films, playing Benjamin Button, Carl Schmidt and Jesse James. His most recent TV work was lending his voice to Boomhauer's brother Patch on \"King of the Hill.\" On the big screen he has played detectives, including one named David Mills who": {
+    "guess": "Brad Pitt",
+    "confidence": [
+      [
+        "Brad",
+        -0.0017965621
+      ],
+      [
+        " Pitt",
+        0.0
+      ]
+    ]
+  },
+  "He was an extra at a party in \"Less Than Zero\" and was a love interest named Chuck on \"Head of the Class.\" He's slated to appear in three title roles in upcoming films, playing Benjamin Button, Carl Schmidt and Jesse James. His most recent TV work was lending his voice to Boomhauer's brother Patch on \"King of the Hill.\" On the big screen he has played detectives, including one named David Mills who finds his wife's head in a box, as well as criminals, including Rusty Ryan, a character who's almost": {
+    "guess": "Brad Pitt",
+    "confidence": [
+      [
+        "Brad",
+        -2.5941605e-05
+      ],
+      [
+        " Pitt",
+        0.0
+      ]
+    ]
+  },
+  "He was an extra at a party in \"Less Than Zero\" and was a love interest named Chuck on \"Head of the Class.\" He's slated to appear in three title roles in upcoming films, playing Benjamin Button, Carl Schmidt and Jesse James. His most recent TV work was lending his voice to Boomhauer's brother Patch on \"King of the Hill.\" On the big screen he has played detectives, including one named David Mills who finds his wife's head in a box, as well as criminals, including Rusty Ryan, a character who's almost always seen eating. FTP, identify this hunky star of Mr. and Mrs. Smith, Babel, and Fight Club.": {
+    "guess": "Brad Pitt",
+    "confidence": [
+      [
+        "Brad",
+        -0.002566503
+      ],
+      [
+        " Pitt",
+        0.0
+      ]
+    ]
+  },
+  "Extras  A crowned figure and the lower half of a classical statue are separated by a large column in": {
+    "guess": "The Disquieting Muses",
+    "confidence": [
+      [
+        "The",
+        -0.38489
+      ],
+      [
+        " Dis",
+        -1.7326379
+      ],
+      [
+        "quiet",
+        -0.3499754
+      ],
+      [
+        "ing",
+        -0.0008478638
+      ],
+      [
+        " M",
+        -3.2855416e-05
+      ],
+      [
+        "uses",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "Extras  A crowned figure and the lower half of a classical statue are separated by a large column in the background of one depiction of this that also includes a wailing, red-eyed child dressed in white": {
+    "guess": "The Massacre of the Innocents",
+    "confidence": [
+      [
+        "The",
+        -0.106538326
+      ],
+      [
+        " Mass",
+        -1.0875242
+      ],
+      [
+        "acre",
+        -5.3193703e-06
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -1.8624639e-06
+      ],
+      [
+        " Innoc",
+        -4.00813e-06
+      ],
+      [
+        "ents",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Extras  A crowned figure and the lower half of a classical statue are separated by a large column in the background of one depiction of this that also includes a wailing, red-eyed child dressed in white to the left of the main action. Along with that work by Pietro da Cortona, one by Giordano shows grey-robed": {
+    "guess": "The Massacre of the Innocents",
+    "confidence": [
+      [
+        "The",
+        -0.47927326
+      ],
+      [
+        " Mass",
+        -1.1331437
+      ],
+      [
+        "acre",
+        -5.080963e-06
+      ],
+      [
+        " of",
+        -3.0545007e-06
+      ],
+      [
+        " the",
+        -6.9882217e-06
+      ],
+      [
+        " Innoc",
+        -1.998142e-05
+      ],
+      [
+        "ents",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "Extras  A crowned figure and the lower half of a classical statue are separated by a large column in the background of one depiction of this that also includes a wailing, red-eyed child dressed in white to the left of the main action. Along with that work by Pietro da Cortona, one by Giordano shows grey-robed men looking sadly on at the struggles at the center of the painting. A sculpture of this event": {
+    "guess": "The Rape of the Sabine Women",
+    "confidence": [
+      [
+        "The",
+        -1.0903122
+      ],
+      [
+        " R",
+        -0.31293064
+      ],
+      [
+        "ape",
+        0.0
+      ],
+      [
+        " of",
+        -4.3202e-07
+      ],
+      [
+        " the",
+        -0.0019511327
+      ],
+      [
+        " Sab",
+        -3.1281633e-07
+      ],
+      [
+        "ine",
+        -1.3067608e-05
+      ],
+      [
+        " Women",
+        0.0
+      ]
+    ]
+  },
+  "Extras  A crowned figure and the lower half of a classical statue are separated by a large column in the background of one depiction of this that also includes a wailing, red-eyed child dressed in white to the left of the main action. Along with that work by Pietro da Cortona, one by Giordano shows grey-robed men looking sadly on at the struggles at the center of the painting. A sculpture of this event was originally situated in the Loggia di Lanzi and depicts an upward spiral of three figures, created": {
+    "guess": "The Rape of the Sabine Women",
+    "confidence": [
+      [
+        "The",
+        -0.57812464
+      ],
+      [
+        " R",
+        -0.056993037
+      ],
+      [
+        "ape",
+        0.0
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -4.1273333e-06
+      ],
+      [
+        " Sab",
+        0.0
+      ],
+      [
+        "ine",
+        -6.704273e-07
+      ],
+      [
+        " Women",
+        0.0
+      ]
+    ]
+  },
+  "Extras  A crowned figure and the lower half of a classical statue are separated by a large column in the background of one depiction of this that also includes a wailing, red-eyed child dressed in white to the left of the main action. Along with that work by Pietro da Cortona, one by Giordano shows grey-robed men looking sadly on at the struggles at the center of the painting. A sculpture of this event was originally situated in the Loggia di Lanzi and depicts an upward spiral of three figures, created by Giambologna. A white-clad woman with outstretched arms strides forward as men prepare to attack": {
+    "guess": "Rape of the Sabine Women",
+    "confidence": [
+      [
+        "R",
+        -0.79715115
+      ],
+      [
+        "ape",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        -5.5122365e-07
+      ],
+      [
+        " the",
+        -7.89631e-07
+      ],
+      [
+        " Sab",
+        0.0
+      ],
+      [
+        "ine",
+        -1.504853e-06
+      ],
+      [
+        " Women",
+        0.0
+      ]
+    ]
+  },
+  "Extras  A crowned figure and the lower half of a classical statue are separated by a large column in the background of one depiction of this that also includes a wailing, red-eyed child dressed in white to the left of the main action. Along with that work by Pietro da Cortona, one by Giordano shows grey-robed men looking sadly on at the struggles at the center of the painting. A sculpture of this event was originally situated in the Loggia di Lanzi and depicts an upward spiral of three figures, created by Giambologna. A white-clad woman with outstretched arms strides forward as men prepare to attack each other and women clutch babies underfoot in a depiction of the aftermath of this event by": {
+    "guess": "Sabine Women",
+    "confidence": [
+      [
+        "Sab",
+        -0.26298985
+      ],
+      [
+        "ine",
+        -2.1531068e-05
+      ],
+      [
+        " Women",
+        -1.6166903e-05
+      ]
+    ]
+  },
+  "Extras  A crowned figure and the lower half of a classical statue are separated by a large column in the background of one depiction of this that also includes a wailing, red-eyed child dressed in white to the left of the main action. Along with that work by Pietro da Cortona, one by Giordano shows grey-robed men looking sadly on at the struggles at the center of the painting. A sculpture of this event was originally situated in the Loggia di Lanzi and depicts an upward spiral of three figures, created by Giambologna. A white-clad woman with outstretched arms strides forward as men prepare to attack each other and women clutch babies underfoot in a depiction of the aftermath of this event by Jacques Louis David, the \"Intervention\" of the title figures. In one of two depictions of this event": {
+    "guess": "Sabine Women",
+    "confidence": [
+      [
+        "Sab",
+        -0.3610987
+      ],
+      [
+        "ine",
+        -3.5477897e-05
+      ],
+      [
+        " Women",
+        -0.00012511172
+      ]
+    ]
+  },
+  "Extras  A crowned figure and the lower half of a classical statue are separated by a large column in the background of one depiction of this that also includes a wailing, red-eyed child dressed in white to the left of the main action. Along with that work by Pietro da Cortona, one by Giordano shows grey-robed men looking sadly on at the struggles at the center of the painting. A sculpture of this event was originally situated in the Loggia di Lanzi and depicts an upward spiral of three figures, created by Giambologna. A white-clad woman with outstretched arms strides forward as men prepare to attack each other and women clutch babies underfoot in a depiction of the aftermath of this event by Jacques Louis David, the \"Intervention\" of the title figures. In one of two depictions of this event by Poussin, a red-clad Romulus stands on the left and stretches out his hand to order the title action.": {
+    "guess": "Rape of the Sabine Women",
+    "confidence": [
+      [
+        "R",
+        -0.008071581
+      ],
+      [
+        "ape",
+        0.0
+      ],
+      [
+        " of",
+        -0.00462083
+      ],
+      [
+        " the",
+        -1.0325924e-05
+      ],
+      [
+        " Sab",
+        0.0
+      ],
+      [
+        "ine",
+        -2.9352968e-06
+      ],
+      [
+        " Women",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Extras  A crowned figure and the lower half of a classical statue are separated by a large column in the background of one depiction of this that also includes a wailing, red-eyed child dressed in white to the left of the main action. Along with that work by Pietro da Cortona, one by Giordano shows grey-robed men looking sadly on at the struggles at the center of the painting. A sculpture of this event was originally situated in the Loggia di Lanzi and depicts an upward spiral of three figures, created by Giambologna. A white-clad woman with outstretched arms strides forward as men prepare to attack each other and women clutch babies underfoot in a depiction of the aftermath of this event by Jacques Louis David, the \"Intervention\" of the title figures. In one of two depictions of this event by Poussin, a red-clad Romulus stands on the left and stretches out his hand to order the title action. FTP, these are all scenes of what incident in which some Romans marched in and carried off a lot": {
+    "guess": "Rape of the Sabine Women",
+    "confidence": [
+      [
+        "R",
+        -0.0015698569
+      ],
+      [
+        "ape",
+        0.0
+      ],
+      [
+        " of",
+        -0.0067283954
+      ],
+      [
+        " the",
+        -2.3392786e-06
+      ],
+      [
+        " Sab",
+        0.0
+      ],
+      [
+        "ine",
+        -5.5122365e-07
+      ],
+      [
+        " Women",
+        0.0
+      ]
+    ]
+  },
+  "Extras  A crowned figure and the lower half of a classical statue are separated by a large column in the background of one depiction of this that also includes a wailing, red-eyed child dressed in white to the left of the main action. Along with that work by Pietro da Cortona, one by Giordano shows grey-robed men looking sadly on at the struggles at the center of the painting. A sculpture of this event was originally situated in the Loggia di Lanzi and depicts an upward spiral of three figures, created by Giambologna. A white-clad woman with outstretched arms strides forward as men prepare to attack each other and women clutch babies underfoot in a depiction of the aftermath of this event by Jacques Louis David, the \"Intervention\" of the title figures. In one of two depictions of this event by Poussin, a red-clad Romulus stands on the left and stretches out his hand to order the title action. FTP, these are all scenes of what incident in which some Romans marched in and carried off a lot of potential wives?": {
+    "guess": "Rape of the Sabine Women",
+    "confidence": [
+      [
+        "R",
+        -0.0017762076
+      ],
+      [
+        "ape",
+        0.0
+      ],
+      [
+        " of",
+        -0.0031818748
+      ],
+      [
+        " the",
+        -2.1008714e-06
+      ],
+      [
+        " Sab",
+        0.0
+      ],
+      [
+        "ine",
+        -6.704273e-07
+      ],
+      [
+        " Women",
+        0.0
+      ]
+    ]
+  },
+  "Extras  One legend states that, on this holiday, one could throw a ninth of an apple over one's shoulder": {
+    "guess": "Rosh Hashanah",
+    "confidence": [
+      [
+        "R",
+        -0.45792535
+      ],
+      [
+        "osh",
+        -1.7432603e-06
+      ],
+      [
+        " Hash",
+        -7.822647e-06
+      ],
+      [
+        "an",
+        -6.6232446e-05
+      ],
+      [
+        "ah",
+        0.0
+      ]
+    ]
+  },
+  "Extras  One legend states that, on this holiday, one could throw a ninth of an apple over one's shoulder to obtain the answer to a question. Celebrants of this holiday put extra chairs around their tables": {
+    "guess": "Samhain",
+    "confidence": [
+      [
+        "S",
+        -0.6162563
+      ],
+      [
+        "amh",
+        -0.0034866275
+      ],
+      [
+        "ain",
+        0.0
+      ]
+    ]
+  },
+  "Extras  One legend states that, on this holiday, one could throw a ninth of an apple over one's shoulder to obtain the answer to a question. Celebrants of this holiday put extra chairs around their tables to welcome the influence of spirits, though at other times, they practice transvestitism to fool": {
+    "guess": "Samhain",
+    "confidence": [
+      [
+        "S",
+        -0.19337326
+      ],
+      [
+        "amh",
+        -3.7697225e-06
+      ],
+      [
+        "ain",
+        0.0
+      ]
+    ]
+  },
+  "Extras  One legend states that, on this holiday, one could throw a ninth of an apple over one's shoulder to obtain the answer to a question. Celebrants of this holiday put extra chairs around their tables to welcome the influence of spirits, though at other times, they practice transvestitism to fool the spirits into thinking that they are other people. One celebration of this holiday involves sticking": {
+    "guess": "Halloween",
+    "confidence": [
+      [
+        "Halloween",
+        -0.42541683
+      ]
+    ]
+  },
+  "Extras  One legend states that, on this holiday, one could throw a ninth of an apple over one's shoulder to obtain the answer to a question. Celebrants of this holiday put extra chairs around their tables to welcome the influence of spirits, though at other times, they practice transvestitism to fool the spirits into thinking that they are other people. One celebration of this holiday involves sticking one's head in a tub of apples and attempting to remove them with one's mouth; that bobbing is meant": {
+    "guess": "Samhain",
+    "confidence": [
+      [
+        "S",
+        -0.47155347
+      ],
+      [
+        "amh",
+        -1.9361265e-07
+      ],
+      [
+        "ain",
+        0.0
+      ]
+    ]
+  },
+  "Extras  One legend states that, on this holiday, one could throw a ninth of an apple over one's shoulder to obtain the answer to a question. Celebrants of this holiday put extra chairs around their tables to welcome the influence of spirits, though at other times, they practice transvestitism to fool the spirits into thinking that they are other people. One celebration of this holiday involves sticking one's head in a tub of apples and attempting to remove them with one's mouth; that bobbing is meant to commemorate the tree in the middle of Emhain Abhlach. Situated opposite Beltrane on the calendar,": {
+    "guess": "Samhain",
+    "confidence": [
+      [
+        "S",
+        -0.0052438336
+      ],
+      [
+        "amh",
+        0.0
+      ],
+      [
+        "ain",
+        0.0
+      ]
+    ]
+  },
+  "Extras  One legend states that, on this holiday, one could throw a ninth of an apple over one's shoulder to obtain the answer to a question. Celebrants of this holiday put extra chairs around their tables to welcome the influence of spirits, though at other times, they practice transvestitism to fool the spirits into thinking that they are other people. One celebration of this holiday involves sticking one's head in a tub of apples and attempting to remove them with one's mouth; that bobbing is meant to commemorate the tree in the middle of Emhain Abhlach. Situated opposite Beltrane on the calendar, FTP, name this Pagan harvest holiday celebrated on November 1, which means \"Summer's End.\"": {
+    "guess": "Samhain",
+    "confidence": [
+      [
+        "S",
+        -0.0006463142
+      ],
+      [
+        "amh",
+        0.0
+      ],
+      [
+        "ain",
+        0.0
+      ]
+    ]
+  },
+  "An extinct subspecies of this animal, idaltu, had a longer head than similar species, and idaltu's fossils": {
+    "guess": "Human",
+    "confidence": [
+      [
+        "Human",
+        -0.49359843
+      ]
+    ]
+  },
+  "An extinct subspecies of this animal, idaltu, had a longer head than similar species, and idaltu's fossils were discovered alongside hippopotamus bones in Ethiopia.  The hippopotamus was slaughtered with": {
+    "guess": "Homo sapiens idaltu",
+    "confidence": [
+      [
+        "H",
+        -0.49006733
+      ],
+      [
+        "omo",
+        -0.062031765
+      ],
+      [
+        " sapi",
+        -0.0020929228
+      ],
+      [
+        "ens",
+        0.0
+      ],
+      [
+        " id",
+        -0.00058734504
+      ],
+      [
+        "alt",
+        -7.89631e-07
+      ],
+      [
+        "u",
+        0.0
+      ]
+    ]
+  },
+  "An extinct subspecies of this animal, idaltu, had a longer head than similar species, and idaltu's fossils were discovered alongside hippopotamus bones in Ethiopia.  The hippopotamus was slaughtered with stone tools, suggesting that idaltu was an immediate ancestor to this species and gave credence to": {
+    "guess": "Homo sapiens",
+    "confidence": [
+      [
+        "H",
+        -0.2708579
+      ],
+      [
+        "omo",
+        -3.1281633e-07
+      ],
+      [
+        " sapi",
+        -0.0012107107
+      ],
+      [
+        "ens",
+        0.0
+      ]
+    ]
+  },
+  "An extinct subspecies of this animal, idaltu, had a longer head than similar species, and idaltu's fossils were discovered alongside hippopotamus bones in Ethiopia.  The hippopotamus was slaughtered with stone tools, suggesting that idaltu was an immediate ancestor to this species and gave credence to the RAO model in hominid evolution.  The Omo remains, discovered by Richard Leakey, are considered": {
+    "guess": "Homo sapiens",
+    "confidence": [
+      [
+        "H",
+        -0.11828091
+      ],
+      [
+        "omo",
+        -7.89631e-07
+      ],
+      [
+        " sapi",
+        -6.337155e-05
+      ],
+      [
+        "ens",
+        0.0
+      ]
+    ]
+  },
+  "An extinct subspecies of this animal, idaltu, had a longer head than similar species, and idaltu's fossils were discovered alongside hippopotamus bones in Ethiopia.  The hippopotamus was slaughtered with stone tools, suggesting that idaltu was an immediate ancestor to this species and gave credence to the RAO model in hominid evolution.  The Omo remains, discovered by Richard Leakey, are considered the oldest remains for this species, while a more extensive discovery at Jebel Irhoud suggested that": {
+    "guess": "Homo sapiens",
+    "confidence": [
+      [
+        "H",
+        -0.002787646
+      ],
+      [
+        "omo",
+        0.0
+      ],
+      [
+        " sapi",
+        -4.048445e-05
+      ],
+      [
+        "ens",
+        0.0
+      ]
+    ]
+  },
+  "An extinct subspecies of this animal, idaltu, had a longer head than similar species, and idaltu's fossils were discovered alongside hippopotamus bones in Ethiopia.  The hippopotamus was slaughtered with stone tools, suggesting that idaltu was an immediate ancestor to this species and gave credence to the RAO model in hominid evolution.  The Omo remains, discovered by Richard Leakey, are considered the oldest remains for this species, while a more extensive discovery at Jebel Irhoud suggested that childhood lengthened upon the introduction of this species, giving more time for the brain to understand": {
+    "guess": "Homo sapiens",
+    "confidence": [
+      [
+        "H",
+        -0.07957534
+      ],
+      [
+        "omo",
+        -1.9361265e-07
+      ],
+      [
+        " sapi",
+        -6.420598e-05
+      ],
+      [
+        "ens",
+        0.0
+      ]
+    ]
+  },
+  "An extinct subspecies of this animal, idaltu, had a longer head than similar species, and idaltu's fossils were discovered alongside hippopotamus bones in Ethiopia.  The hippopotamus was slaughtered with stone tools, suggesting that idaltu was an immediate ancestor to this species and gave credence to the RAO model in hominid evolution.  The Omo remains, discovered by Richard Leakey, are considered the oldest remains for this species, while a more extensive discovery at Jebel Irhoud suggested that childhood lengthened upon the introduction of this species, giving more time for the brain to understand larger groups and rudimentary (*) language.  Homo heidelbergensis is considered the common ancestor": {
+    "guess": "Homo sapiens",
+    "confidence": [
+      [
+        "H",
+        -0.028027996
+      ],
+      [
+        "omo",
+        0.0
+      ],
+      [
+        " sapi",
+        -1.4021238e-05
+      ],
+      [
+        "ens",
+        0.0
+      ]
+    ]
+  },
+  "An extinct subspecies of this animal, idaltu, had a longer head than similar species, and idaltu's fossils were discovered alongside hippopotamus bones in Ethiopia.  The hippopotamus was slaughtered with stone tools, suggesting that idaltu was an immediate ancestor to this species and gave credence to the RAO model in hominid evolution.  The Omo remains, discovered by Richard Leakey, are considered the oldest remains for this species, while a more extensive discovery at Jebel Irhoud suggested that childhood lengthened upon the introduction of this species, giving more time for the brain to understand larger groups and rudimentary (*) language.  Homo heidelbergensis is considered the common ancestor of this species and the coexisting Neanderthals.  For 10 points, name this hominid whose early": {
+    "guess": "Homo sapiens",
+    "confidence": [
+      [
+        "H",
+        -0.009924778
+      ],
+      [
+        "omo",
+        -3.1281633e-07
+      ],
+      [
+        " sapi",
+        -7.147741e-05
+      ],
+      [
+        "ens",
+        0.0
+      ]
+    ]
+  },
+  "An extinct subspecies of this animal, idaltu, had a longer head than similar species, and idaltu's fossils were discovered alongside hippopotamus bones in Ethiopia.  The hippopotamus was slaughtered with stone tools, suggesting that idaltu was an immediate ancestor to this species and gave credence to the RAO model in hominid evolution.  The Omo remains, discovered by Richard Leakey, are considered the oldest remains for this species, while a more extensive discovery at Jebel Irhoud suggested that childhood lengthened upon the introduction of this species, giving more time for the brain to understand larger groups and rudimentary (*) language.  Homo heidelbergensis is considered the common ancestor of this species and the coexisting Neanderthals.  For 10 points, name this hominid whose early examples were found at Cro-Magnon, modern examples of which may play quizbowl.": {
+    "guess": "Homo sapiens",
+    "confidence": [
+      [
+        "H",
+        -0.011355259
+      ],
+      [
+        "omo",
+        -5.5122365e-07
+      ],
+      [
+        " sapi",
+        -0.00013393279
+      ],
+      [
+        "ens",
+        0.0
+      ]
+    ]
+  },
+  "The extreme nephrotoxicity of one of these drugs is mitigated somewhat by its two FDA-approved liposomal": {
+    "guess": "Amphotericin B",
+    "confidence": [
+      [
+        "Am",
+        -0.025669001
+      ],
+      [
+        "ph",
+        -7.89631e-07
+      ],
+      [
+        "oter",
+        0.0
+      ],
+      [
+        "icin",
+        0.0
+      ],
+      [
+        " B",
+        -1.4259645e-05
+      ]
+    ]
+  },
+  "The extreme nephrotoxicity of one of these drugs is mitigated somewhat by its two FDA-approved liposomal delivery systems. Tubulin is the target of a drug of this type named griseofulvin. One of these": {
+    "guess": "Antifungal drugs",
+    "confidence": [
+      [
+        "Ant",
+        -0.0048277494
+      ],
+      [
+        "if",
+        -1.9361265e-07
+      ],
+      [
+        "ungal",
+        -2.1531068e-05
+      ],
+      [
+        " drugs",
+        -0.37188718
+      ]
+    ]
+  },
+  "The extreme nephrotoxicity of one of these drugs is mitigated somewhat by its two FDA-approved liposomal delivery systems. Tubulin is the target of a drug of this type named griseofulvin. One of these drugs uses a non-human cytosine deaminase enzyme to transform the inactive form, flucytosine, into the": {
+    "guess": "Antifungal drugs",
+    "confidence": [
+      [
+        "Ant",
+        -0.04497567
+      ],
+      [
+        "if",
+        -4.8425554e-06
+      ],
+      [
+        "ungal",
+        -0.011048054
+      ],
+      [
+        " drugs",
+        -0.74374
+      ]
+    ]
+  },
+  "The extreme nephrotoxicity of one of these drugs is mitigated somewhat by its two FDA-approved liposomal delivery systems. Tubulin is the target of a drug of this type named griseofulvin. One of these drugs uses a non-human cytosine deaminase enzyme to transform the inactive form, flucytosine, into the active 5-fluorouracil. Glucan synthesis is inhibited by a class of these drugs called echinocandins.": {
+    "guess": "Antifungal drugs",
+    "confidence": [
+      [
+        "Ant",
+        -0.0024818424
+      ],
+      [
+        "if",
+        0.0
+      ],
+      [
+        "ungal",
+        -5.8484206e-05
+      ],
+      [
+        " drugs",
+        -0.19059932
+      ]
+    ]
+  },
+  "The extreme nephrotoxicity of one of these drugs is mitigated somewhat by its two FDA-approved liposomal delivery systems. Tubulin is the target of a drug of this type named griseofulvin. One of these drugs uses a non-human cytosine deaminase enzyme to transform the inactive form, flucytosine, into the active 5-fluorouracil. Glucan synthesis is inhibited by a class of these drugs called echinocandins. Squalene epoxidase is targeted by some of these drugs, such as naftifine and butenafine. One class": {
+    "guess": "Antifungal drugs",
+    "confidence": [
+      [
+        "Ant",
+        -0.0036623103
+      ],
+      [
+        "if",
+        -1.9361265e-07
+      ],
+      [
+        "ungal",
+        -0.00026145502
+      ],
+      [
+        " drugs",
+        -0.068398945
+      ]
+    ]
+  },
+  "The extreme nephrotoxicity of one of these drugs is mitigated somewhat by its two FDA-approved liposomal delivery systems. Tubulin is the target of a drug of this type named griseofulvin. One of these drugs uses a non-human cytosine deaminase enzyme to transform the inactive form, flucytosine, into the active 5-fluorouracil. Glucan synthesis is inhibited by a class of these drugs called echinocandins. Squalene epoxidase is targeted by some of these drugs, such as naftifine and butenafine. One class of these medications inhibits the enzyme lanosterol 14-alpha demethylase, preventing the production": {
+    "guess": "Antifungal drugs",
+    "confidence": [
+      [
+        "Ant",
+        -0.0022112776
+      ],
+      [
+        "if",
+        0.0
+      ],
+      [
+        "ungal",
+        -0.00033558503
+      ],
+      [
+        " drugs",
+        -0.044038806
+      ]
+    ]
+  },
+  "The extreme nephrotoxicity of one of these drugs is mitigated somewhat by its two FDA-approved liposomal delivery systems. Tubulin is the target of a drug of this type named griseofulvin. One of these drugs uses a non-human cytosine deaminase enzyme to transform the inactive form, flucytosine, into the active 5-fluorouracil. Glucan synthesis is inhibited by a class of these drugs called echinocandins. Squalene epoxidase is targeted by some of these drugs, such as naftifine and butenafine. One class of these medications inhibits the enzyme lanosterol 14-alpha demethylase, preventing the production of (*) ergosterol. Multiple double bonds are present in the polyene class of these drugs, including": {
+    "guess": "Antifungal drugs",
+    "confidence": [
+      [
+        "Ant",
+        -0.0006330899
+      ],
+      [
+        "if",
+        0.0
+      ],
+      [
+        "ungal",
+        -7.505351e-05
+      ],
+      [
+        " drugs",
+        -0.0824197
+      ]
+    ]
+  },
+  "The extreme nephrotoxicity of one of these drugs is mitigated somewhat by its two FDA-approved liposomal delivery systems. Tubulin is the target of a drug of this type named griseofulvin. One of these drugs uses a non-human cytosine deaminase enzyme to transform the inactive form, flucytosine, into the active 5-fluorouracil. Glucan synthesis is inhibited by a class of these drugs called echinocandins. Squalene epoxidase is targeted by some of these drugs, such as naftifine and butenafine. One class of these medications inhibits the enzyme lanosterol 14-alpha demethylase, preventing the production of (*) ergosterol. Multiple double bonds are present in the polyene class of these drugs, including amphotericin B, and other classes of them include imidazoles and triazoles. A drug of this type named": {
+    "guess": "Antifungal drugs",
+    "confidence": [
+      [
+        "Ant",
+        -0.00021295747
+      ],
+      [
+        "if",
+        0.0
+      ],
+      [
+        "ungal",
+        -2.1650272e-05
+      ],
+      [
+        " drugs",
+        -0.45158476
+      ]
+    ]
+  },
+  "The extreme nephrotoxicity of one of these drugs is mitigated somewhat by its two FDA-approved liposomal delivery systems. Tubulin is the target of a drug of this type named griseofulvin. One of these drugs uses a non-human cytosine deaminase enzyme to transform the inactive form, flucytosine, into the active 5-fluorouracil. Glucan synthesis is inhibited by a class of these drugs called echinocandins. Squalene epoxidase is targeted by some of these drugs, such as naftifine and butenafine. One class of these medications inhibits the enzyme lanosterol 14-alpha demethylase, preventing the production of (*) ergosterol. Multiple double bonds are present in the polyene class of these drugs, including amphotericin B, and other classes of them include imidazoles and triazoles. A drug of this type named clotrimazole is often topically applied to treat Candida albicans-caused vulvovaginitis. For 10": {
+    "guess": "Antifungal drugs",
+    "confidence": [
+      [
+        "Ant",
+        -6.50404e-05
+      ],
+      [
+        "if",
+        0.0
+      ],
+      [
+        "ungal",
+        -2.7610455e-05
+      ],
+      [
+        " drugs",
+        -0.080214106
+      ]
+    ]
+  },
+  "The extreme nephrotoxicity of one of these drugs is mitigated somewhat by its two FDA-approved liposomal delivery systems. Tubulin is the target of a drug of this type named griseofulvin. One of these drugs uses a non-human cytosine deaminase enzyme to transform the inactive form, flucytosine, into the active 5-fluorouracil. Glucan synthesis is inhibited by a class of these drugs called echinocandins. Squalene epoxidase is targeted by some of these drugs, such as naftifine and butenafine. One class of these medications inhibits the enzyme lanosterol 14-alpha demethylase, preventing the production of (*) ergosterol. Multiple double bonds are present in the polyene class of these drugs, including amphotericin B, and other classes of them include imidazoles and triazoles. A drug of this type named clotrimazole is often topically applied to treat Candida albicans-caused vulvovaginitis. For 10 points, name this class of medications which can be used against oral thrush, athlete's foot, and other": {
+    "guess": "Antifungal drugs",
+    "confidence": [
+      [
+        "Ant",
+        -5.0735965e-05
+      ],
+      [
+        "if",
+        0.0
+      ],
+      [
+        "ungal",
+        -0.00026145502
+      ],
+      [
+        " drugs",
+        -0.094304375
+      ]
+    ]
+  },
+  "The extreme nephrotoxicity of one of these drugs is mitigated somewhat by its two FDA-approved liposomal delivery systems. Tubulin is the target of a drug of this type named griseofulvin. One of these drugs uses a non-human cytosine deaminase enzyme to transform the inactive form, flucytosine, into the active 5-fluorouracil. Glucan synthesis is inhibited by a class of these drugs called echinocandins. Squalene epoxidase is targeted by some of these drugs, such as naftifine and butenafine. One class of these medications inhibits the enzyme lanosterol 14-alpha demethylase, preventing the production of (*) ergosterol. Multiple double bonds are present in the polyene class of these drugs, including amphotericin B, and other classes of them include imidazoles and triazoles. A drug of this type named clotrimazole is often topically applied to treat Candida albicans-caused vulvovaginitis. For 10 points, name this class of medications which can be used against oral thrush, athlete's foot, and other diseases caused by a non-bacterial kingdom of organisms.": {
+    "guess": "Antifungal drugs",
+    "confidence": [
+      [
+        "Ant",
+        -3.23786e-05
+      ],
+      [
+        "if",
+        0.0
+      ],
+      [
+        "ungal",
+        -4.561021e-05
+      ],
+      [
+        " drugs",
+        -0.20684773
+      ]
+    ]
+  },
+  "Because of its extreme nepotism, a rightist political party in this country was derisively nicknamed": {
+    "guess": "Liberal Democratic Party (Japan)",
+    "confidence": [
+      [
+        "L",
+        -1.263984
+      ],
+      [
+        "iberal",
+        -0.014859158
+      ],
+      [
+        " Democratic",
+        -0.00023691374
+      ],
+      [
+        " Party",
+        -1.2113979e-05
+      ],
+      [
+        " (",
+        -0.31332114
+      ],
+      [
+        "Japan",
+        -3.9054008e-05
+      ],
+      [
+        ")",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "Because of its extreme nepotism, a rightist political party in this country was derisively nicknamed the \"Uncle Nephew Party.\" The recommendations of the Soulbury Commission formed the basis of this country's": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -0.018792888
+      ],
+      [
+        " Lanka",
+        -2.4391957e-05
+      ]
+    ]
+  },
+  "Because of its extreme nepotism, a rightist political party in this country was derisively nicknamed the \"Uncle Nephew Party.\" The recommendations of the Soulbury Commission formed the basis of this country's constitution, which was further amended by the lawyer Colvin R. de Silva. The first post-independence": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -0.001967293
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "Because of its extreme nepotism, a rightist political party in this country was derisively nicknamed the \"Uncle Nephew Party.\" The recommendations of the Soulbury Commission formed the basis of this country's constitution, which was further amended by the lawyer Colvin R. de Silva. The first post-independence leader of this country undertook a massive hydroelectric power development scheme on the Gal": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -0.0036517414
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "Because of its extreme nepotism, a rightist political party in this country was derisively nicknamed the \"Uncle Nephew Party.\" The recommendations of the Soulbury Commission formed the basis of this country's constitution, which was further amended by the lawyer Colvin R. de Silva. The first post-independence leader of this country undertook a massive hydroelectric power development scheme on the Gal Oya preserve. A pogrom on Black (*) July led to a full-scale outbreak of civil war in this country.": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -4.604148e-06
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "Because of its extreme nepotism, a rightist political party in this country was derisively nicknamed the \"Uncle Nephew Party.\" The recommendations of the Soulbury Commission formed the basis of this country's constitution, which was further amended by the lawyer Colvin R. de Silva. The first post-independence leader of this country undertook a massive hydroelectric power development scheme on the Gal Oya preserve. A pogrom on Black (*) July led to a full-scale outbreak of civil war in this country. The JVP communist party in this country launched a daring 1989 raid on a temple housing a tooth relic.": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -2.3392786e-06
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "Because of its extreme nepotism, a rightist political party in this country was derisively nicknamed the \"Uncle Nephew Party.\" The recommendations of the Soulbury Commission formed the basis of this country's constitution, which was further amended by the lawyer Colvin R. de Silva. The first post-independence leader of this country undertook a massive hydroelectric power development scheme on the Gal Oya preserve. A pogrom on Black (*) July led to a full-scale outbreak of civil war in this country. The JVP communist party in this country launched a daring 1989 raid on a temple housing a tooth relic. After a disgruntled monk fired at a revolver at this country's prime minister S.W.R.D. Bandaranaike,": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -0.00020997738
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "Because of its extreme nepotism, a rightist political party in this country was derisively nicknamed the \"Uncle Nephew Party.\" The recommendations of the Soulbury Commission formed the basis of this country's constitution, which was further amended by the lawyer Colvin R. de Silva. The first post-independence leader of this country undertook a massive hydroelectric power development scheme on the Gal Oya preserve. A pogrom on Black (*) July led to a full-scale outbreak of civil war in this country. The JVP communist party in this country launched a daring 1989 raid on a temple housing a tooth relic. After a disgruntled monk fired at a revolver at this country's prime minister S.W.R.D. Bandaranaike, his widow Sirimavo became the world's first female head of government. A terrorist organization": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -6.1537958e-06
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "Because of its extreme nepotism, a rightist political party in this country was derisively nicknamed the \"Uncle Nephew Party.\" The recommendations of the Soulbury Commission formed the basis of this country's constitution, which was further amended by the lawyer Colvin R. de Silva. The first post-independence leader of this country undertook a massive hydroelectric power development scheme on the Gal Oya preserve. A pogrom on Black (*) July led to a full-scale outbreak of civil war in this country. The JVP communist party in this country launched a daring 1989 raid on a temple housing a tooth relic. After a disgruntled monk fired at a revolver at this country's prime minister S.W.R.D. Bandaranaike, his widow Sirimavo became the world's first female head of government. A terrorist organization known for its signature use of female suicide bombers was founded in this country by Velupillai Prabhakaran.": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -8.776276e-06
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "Because of its extreme nepotism, a rightist political party in this country was derisively nicknamed the \"Uncle Nephew Party.\" The recommendations of the Soulbury Commission formed the basis of this country's constitution, which was further amended by the lawyer Colvin R. de Silva. The first post-independence leader of this country undertook a massive hydroelectric power development scheme on the Gal Oya preserve. A pogrom on Black (*) July led to a full-scale outbreak of civil war in this country. The JVP communist party in this country launched a daring 1989 raid on a temple housing a tooth relic. After a disgruntled monk fired at a revolver at this country's prime minister S.W.R.D. Bandaranaike, his widow Sirimavo became the world's first female head of government. A terrorist organization known for its signature use of female suicide bombers was founded in this country by Velupillai Prabhakaran. For 10 points, name this island country whose native Sinhalese population was terrorized": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -7.2073424e-05
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "Because of its extreme nepotism, a rightist political party in this country was derisively nicknamed the \"Uncle Nephew Party.\" The recommendations of the Soulbury Commission formed the basis of this country's constitution, which was further amended by the lawyer Colvin R. de Silva. The first post-independence leader of this country undertook a massive hydroelectric power development scheme on the Gal Oya preserve. A pogrom on Black (*) July led to a full-scale outbreak of civil war in this country. The JVP communist party in this country launched a daring 1989 raid on a temple housing a tooth relic. After a disgruntled monk fired at a revolver at this country's prime minister S.W.R.D. Bandaranaike, his widow Sirimavo became the world's first female head of government. A terrorist organization known for its signature use of female suicide bombers was founded in this country by Velupillai Prabhakaran. For 10 points, name this island country whose native Sinhalese population was terrorized by the Tamil Tigers.": {
+    "guess": "Sri Lanka",
+    "confidence": [
+      [
+        "Sri",
+        -4.365741e-06
+      ],
+      [
+        " Lanka",
+        0.0
+      ]
+    ]
+  },
+  "They extend south from the Kuma and Manych river basins, and between their two ranges lie the Shirak": {
+    "guess": "Caucasus",
+    "confidence": [
+      [
+        "C",
+        -0.022283195
+      ],
+      [
+        "auc",
+        -2.3392786e-06
+      ],
+      [
+        "asus",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "They extend south from the Kuma and Manych river basins, and between their two ranges lie the Shirak Steppe. They include the Dykshu, Bezingi, and Karaugom glaciers, and the largest lake in this mountain": {
+    "guess": "Caucasus Mountains",
+    "confidence": [
+      [
+        "C",
+        -0.03217224
+      ],
+      [
+        "auc",
+        -3.3809047e-05
+      ],
+      [
+        "asus",
+        -1.9361265e-07
+      ],
+      [
+        " Mountains",
+        -0.005282969
+      ]
+    ]
+  },
+  "They extend south from the Kuma and Manych river basins, and between their two ranges lie the Shirak Steppe. They include the Dykshu, Bezingi, and Karaugom glaciers, and the largest lake in this mountain system is Sevan. Mount Aragats is located to the west of Lake Sevan, and the Talish Mountains are": {
+    "guess": "Caucasus Mountains",
+    "confidence": [
+      [
+        "C",
+        -0.064569026
+      ],
+      [
+        "auc",
+        -8.172892e-05
+      ],
+      [
+        "asus",
+        0.0
+      ],
+      [
+        " Mountains",
+        -0.06210538
+      ]
+    ]
+  },
+  "They extend south from the Kuma and Manych river basins, and between their two ranges lie the Shirak Steppe. They include the Dykshu, Bezingi, and Karaugom glaciers, and the largest lake in this mountain system is Sevan. Mount Aragats is located to the west of Lake Sevan, and the Talish Mountains are located in this system. Divided into the Greater and Lesser ranges, for 10 points name this mountain": {
+    "guess": "Caucasus Mountains",
+    "confidence": [
+      [
+        "C",
+        -0.00060390704
+      ],
+      [
+        "auc",
+        -8.89548e-06
+      ],
+      [
+        "asus",
+        -1.9361265e-07
+      ],
+      [
+        " Mountains",
+        -0.1271449
+      ]
+    ]
+  },
+  "They extend south from the Kuma and Manych river basins, and between their two ranges lie the Shirak Steppe. They include the Dykshu, Bezingi, and Karaugom glaciers, and the largest lake in this mountain system is Sevan. Mount Aragats is located to the west of Lake Sevan, and the Talish Mountains are located in this system. Divided into the Greater and Lesser ranges, for 10 points name this mountain system located between the Caspian and Black seas with their highest peak at Mount Elbrus.": {
+    "guess": "Caucasus Mountains",
+    "confidence": [
+      [
+        "C",
+        -0.0010784221
+      ],
+      [
+        "auc",
+        -8.418666e-06
+      ],
+      [
+        "asus",
+        -1.9361265e-07
+      ],
+      [
+        " Mountains",
+        -9.4245304e-05
+      ]
+    ]
+  },
+  "Extensions of this concept include one named after Hall and Pearce, and a phenomenon known as latent": {
+    "guess": "Classical conditioning",
+    "confidence": [
+      [
+        "Class",
+        -0.40094018
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " conditioning",
+        -0.00048821527
+      ]
+    ]
+  },
+  "Extensions of this concept include one named after Hall and Pearce, and a phenomenon known as latent inhibition. This phenomenon is highly context-dependent, and given a large enough amount of time, reinstatement": {
+    "guess": "Classical conditioning",
+    "confidence": [
+      [
+        "Class",
+        -0.017801851
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " conditioning",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "Extensions of this concept include one named after Hall and Pearce, and a phenomenon known as latent inhibition. This phenomenon is highly context-dependent, and given a large enough amount of time, reinstatement can spontaneously occur after extinction. Its main premise is that given enough trials,": {
+    "guess": "Classical conditioning",
+    "confidence": [
+      [
+        "Class",
+        -0.5879403
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " conditioning",
+        -9.627177e-05
+      ]
+    ]
+  },
+  "Extensions of this concept include one named after Hall and Pearce, and a phenomenon known as latent inhibition. This phenomenon is highly context-dependent, and given a large enough amount of time, reinstatement can spontaneously occur after extinction. Its main premise is that given enough trials, an unconditioned response can be elicited through both an unconditioned and conditioned stimulus. For": {
+    "guess": "Classical conditioning",
+    "confidence": [
+      [
+        "Class",
+        -0.35236704
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " conditioning",
+        -0.00015991552
+      ]
+    ]
+  },
+  "Extensions of this concept include one named after Hall and Pearce, and a phenomenon known as latent inhibition. This phenomenon is highly context-dependent, and given a large enough amount of time, reinstatement can spontaneously occur after extinction. Its main premise is that given enough trials, an unconditioned response can be elicited through both an unconditioned and conditioned stimulus. For 10 points, name this type of conditioning, most famously demonstrated in Pavlov's dogs, which is contrasted": {
+    "guess": "Classical conditioning",
+    "confidence": [
+      [
+        "Class",
+        -0.003235702
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " conditioning",
+        -0.011048643
+      ]
+    ]
+  },
+  "Extensions of this concept include one named after Hall and Pearce, and a phenomenon known as latent inhibition. This phenomenon is highly context-dependent, and given a large enough amount of time, reinstatement can spontaneously occur after extinction. Its main premise is that given enough trials, an unconditioned response can be elicited through both an unconditioned and conditioned stimulus. For 10 points, name this type of conditioning, most famously demonstrated in Pavlov's dogs, which is contrasted with operant conditioning.": {
+    "guess": "Classical conditioning",
+    "confidence": [
+      [
+        "Class",
+        -0.12786625
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " conditioning",
+        -1.5332478e-05
+      ]
+    ]
+  },
+  "An extremely old member of this group is covered by an anthill and gains a youthful body when his nubile": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.2629125
+      ]
+    ]
+  },
+  "An extremely old member of this group is covered by an anthill and gains a youthful body when his nubile wife Sukanya refuses to be seduced by handsome twins. One of them fathers Shakuntala when the nymph": {
+    "guess": "Chyavana",
+    "confidence": [
+      [
+        "Ch",
+        -0.06413264
+      ],
+      [
+        "y",
+        -0.000113913906
+      ],
+      [
+        "avana",
+        -0.00031484728
+      ]
+    ]
+  },
+  "An extremely old member of this group is covered by an anthill and gains a youthful body when his nubile wife Sukanya refuses to be seduced by handsome twins. One of them fathers Shakuntala when the nymph Menaka seduces him at Indra's instigation. One of them offers advice to Prince Rama in a namesake": {
+    "guess": "Saptarishi",
+    "confidence": [
+      [
+        "S",
+        -0.29942092
+      ],
+      [
+        "apt",
+        -0.20371121
+      ],
+      [
+        "ar",
+        -3.1281633e-07
+      ],
+      [
+        "ishi",
+        -4.429897e-05
+      ]
+    ]
+  },
+  "An extremely old member of this group is covered by an anthill and gains a youthful body when his nubile wife Sukanya refuses to be seduced by handsome twins. One of them fathers Shakuntala when the nymph Menaka seduces him at Indra's instigation. One of them offers advice to Prince Rama in a namesake \"Yoga\", while another is the husband of Maitreyi who debated Gargi at the congress of King Janaka.": {
+    "guess": "Saptarishi",
+    "confidence": [
+      [
+        "S",
+        -0.433608
+      ],
+      [
+        "apt",
+        -0.053590853
+      ],
+      [
+        "ar",
+        -6.704273e-07
+      ],
+      [
+        "ishi",
+        -0.00012654216
+      ]
+    ]
+  },
+  "An extremely old member of this group is covered by an anthill and gains a youthful body when his nubile wife Sukanya refuses to be seduced by handsome twins. One of them fathers Shakuntala when the nymph Menaka seduces him at Indra's instigation. One of them offers advice to Prince Rama in a namesake \"Yoga\", while another is the husband of Maitreyi who debated Gargi at the congress of King Janaka. An individual's gotra codifies descent from the original group of these people, who are sometimes called": {
+    "guess": "Saptarishi",
+    "confidence": [
+      [
+        "S",
+        -0.23978141
+      ],
+      [
+        "apt",
+        -2.4391957e-05
+      ],
+      [
+        "ar",
+        -3.1281633e-07
+      ],
+      [
+        "ishi",
+        -0.00041982904
+      ]
+    ]
+  },
+  "An extremely old member of this group is covered by an anthill and gains a youthful body when his nubile wife Sukanya refuses to be seduced by handsome twins. One of them fathers Shakuntala when the nymph Menaka seduces him at Indra's instigation. One of them offers advice to Prince Rama in a namesake \"Yoga\", while another is the husband of Maitreyi who debated Gargi at the congress of King Janaka. An individual's gotra codifies descent from the original group of these people, who are sometimes called \"the Bears\" to reflect their association with the stars of Ursa Major. Visvamitra, Vasishta, Kasyapa,": {
+    "guess": "Saptarishi",
+    "confidence": [
+      [
+        "S",
+        -0.09503236
+      ],
+      [
+        "apt",
+        -4.604148e-06
+      ],
+      [
+        "ar",
+        -3.1281633e-07
+      ],
+      [
+        "ishi",
+        -0.00018983196
+      ]
+    ]
+  },
+  "An extremely old member of this group is covered by an anthill and gains a youthful body when his nubile wife Sukanya refuses to be seduced by handsome twins. One of them fathers Shakuntala when the nymph Menaka seduces him at Indra's instigation. One of them offers advice to Prince Rama in a namesake \"Yoga\", while another is the husband of Maitreyi who debated Gargi at the congress of King Janaka. An individual's gotra codifies descent from the original group of these people, who are sometimes called \"the Bears\" to reflect their association with the stars of Ursa Major. Visvamitra, Vasishta, Kasyapa, and Gautama are usually named among that first group of seven responsible for writing hymns": {
+    "guess": "Saptarishi",
+    "confidence": [
+      [
+        "S",
+        -0.032473467
+      ],
+      [
+        "apt",
+        -5.3193703e-06
+      ],
+      [
+        "ar",
+        -1.9361265e-07
+      ],
+      [
+        "ishi",
+        -9.794062e-05
+      ]
+    ]
+  },
+  "An extremely old member of this group is covered by an anthill and gains a youthful body when his nubile wife Sukanya refuses to be seduced by handsome twins. One of them fathers Shakuntala when the nymph Menaka seduces him at Indra's instigation. One of them offers advice to Prince Rama in a namesake \"Yoga\", while another is the husband of Maitreyi who debated Gargi at the congress of King Janaka. An individual's gotra codifies descent from the original group of these people, who are sometimes called \"the Bears\" to reflect their association with the stars of Ursa Major. Visvamitra, Vasishta, Kasyapa, and Gautama are usually named among that first group of seven responsible for writing hymns to the gods. For 10 points, name this group of sages who authored the Vedas.": {
+    "guess": "Saptarishi",
+    "confidence": [
+      [
+        "S",
+        -0.062182333
+      ],
+      [
+        "apt",
+        -4.9617593e-06
+      ],
+      [
+        "ar",
+        -4.3202e-07
+      ],
+      [
+        "ishi",
+        -9.794062e-05
+      ]
+    ]
+  },
+  "Most extant knowledge of this empire comes from the \"Book of Highways and Empires\" written by Al-Bakri.": {
+    "guess": "Ghana Empire",
+    "confidence": [
+      [
+        "G",
+        -0.0005547016
+      ],
+      [
+        "hana",
+        0.0
+      ],
+      [
+        " Empire",
+        0.0
+      ]
+    ]
+  },
+  "Most extant knowledge of this empire comes from the \"Book of Highways and Empires\" written by Al-Bakri. According to the Tarikh as-Sudan, this empire had 22 Muslim kings and 22 non-Muslim kings. The Cisse": {
+    "guess": "Ghana Empire",
+    "confidence": [
+      [
+        "G",
+        -0.06520338
+      ],
+      [
+        "hana",
+        -3.888926e-06
+      ],
+      [
+        " Empire",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Most extant knowledge of this empire comes from the \"Book of Highways and Empires\" written by Al-Bakri. According to the Tarikh as-Sudan, this empire had 22 Muslim kings and 22 non-Muslim kings. The Cisse dynasty of this empire consisted mainly of its founders, the Soninke. The Sosso took over after": {
+    "guess": "Ghana Empire",
+    "confidence": [
+      [
+        "G",
+        -0.0019526604
+      ],
+      [
+        "hana",
+        -4.3202e-07
+      ],
+      [
+        " Empire",
+        0.0
+      ]
+    ]
+  },
+  "Most extant knowledge of this empire comes from the \"Book of Highways and Empires\" written by Al-Bakri. According to the Tarikh as-Sudan, this empire had 22 Muslim kings and 22 non-Muslim kings. The Cisse dynasty of this empire consisted mainly of its founders, the Soninke. The Sosso took over after the decline of this polity. Its capital was most likely located at Koumbi Saleh. This empire's modern-day": {
+    "guess": "Ghana Empire",
+    "confidence": [
+      [
+        "G",
+        -0.00016647171
+      ],
+      [
+        "hana",
+        0.0
+      ],
+      [
+        " Empire",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Most extant knowledge of this empire comes from the \"Book of Highways and Empires\" written by Al-Bakri. According to the Tarikh as-Sudan, this empire had 22 Muslim kings and 22 non-Muslim kings. The Cisse dynasty of this empire consisted mainly of its founders, the Soninke. The Sosso took over after the decline of this polity. Its capital was most likely located at Koumbi Saleh. This empire's modern-day equivalent was the birthplace of Kofi Annan. This empire grew rich off gold mining and trading": {
+    "guess": "Ghana Empire",
+    "confidence": [
+      [
+        "G",
+        -9.186123e-05
+      ],
+      [
+        "hana",
+        0.0
+      ],
+      [
+        " Empire",
+        0.0
+      ]
+    ]
+  },
+  "Most extant knowledge of this empire comes from the \"Book of Highways and Empires\" written by Al-Bakri. According to the Tarikh as-Sudan, this empire had 22 Muslim kings and 22 non-Muslim kings. The Cisse dynasty of this empire consisted mainly of its founders, the Soninke. The Sosso took over after the decline of this polity. Its capital was most likely located at Koumbi Saleh. This empire's modern-day equivalent was the birthplace of Kofi Annan. This empire grew rich off gold mining and trading before it was mysteriously replaced by Mali. For 10 points, name this first great West African empire": {
+    "guess": "Ghana Empire",
+    "confidence": [
+      [
+        "G",
+        -9.9251854e-05
+      ],
+      [
+        "hana",
+        0.0
+      ],
+      [
+        " Empire",
+        0.0
+      ]
+    ]
+  },
+  "Most extant knowledge of this empire comes from the \"Book of Highways and Empires\" written by Al-Bakri. According to the Tarikh as-Sudan, this empire had 22 Muslim kings and 22 non-Muslim kings. The Cisse dynasty of this empire consisted mainly of its founders, the Soninke. The Sosso took over after the decline of this polity. Its capital was most likely located at Koumbi Saleh. This empire's modern-day equivalent was the birthplace of Kofi Annan. This empire grew rich off gold mining and trading before it was mysteriously replaced by Mali. For 10 points, name this first great West African empire on the \"Gold Coast\", in a country now led from Accra.": {
+    "guess": "Ghana Empire",
+    "confidence": [
+      [
+        "G",
+        -6.909333e-05
+      ],
+      [
+        "hana",
+        0.0
+      ],
+      [
+        " Empire",
+        -1.9816675e-06
+      ]
+    ]
+  }
+}

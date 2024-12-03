@@ -1,0 +1,158 @@
+{
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky": {
+    "guess": "Galaxy",
+    "confidence": [
+      [
+        "Galaxy",
+        -0.98793125
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three": {
+    "guess": "Elliptical galaxy",
+    "confidence": [
+      [
+        "Ell",
+        -0.42411605
+      ],
+      [
+        "ipt",
+        -0.000120708515
+      ],
+      [
+        "ical",
+        -9.0883464e-07
+      ],
+      [
+        " galaxy",
+        -0.21083839
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three parameters that describe them, and the luminosity-color and mass-metallicity relations can be recovered": {
+    "guess": "Elliptical galaxy",
+    "confidence": [
+      [
+        "Ell",
+        -0.000645599
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " galaxy",
+        -0.00025478328
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three parameters that describe them, and the luminosity-color and mass-metallicity relations can be recovered from that plane. A supergiant one of these notable for two jets coming out of it is (*) M87.": {
+    "guess": "Elliptical galaxy",
+    "confidence": [
+      [
+        "Ell",
+        -0.0007669832
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " galaxy",
+        -0.0013300024
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three parameters that describe them, and the luminosity-color and mass-metallicity relations can be recovered from that plane. A supergiant one of these notable for two jets coming out of it is (*) M87. They are characterized by less dust lanes and emission line gas, large dispersion velocities, and older": {
+    "guess": "Elliptical galaxy",
+    "confidence": [
+      [
+        "Ell",
+        -3.3213026e-05
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " galaxy",
+        -3.23786e-05
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three parameters that describe them, and the luminosity-color and mass-metallicity relations can be recovered from that plane. A supergiant one of these notable for two jets coming out of it is (*) M87. They are characterized by less dust lanes and emission line gas, large dispersion velocities, and older Population II stars. These galaxies are numbered 0 through 7 on the left hand side of the Hubble": {
+    "guess": "Elliptical galaxy",
+    "confidence": [
+      [
+        "Ell",
+        -6.1537958e-06
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " galaxy",
+        -7.159661e-05
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three parameters that describe them, and the luminosity-color and mass-metallicity relations can be recovered from that plane. A supergiant one of these notable for two jets coming out of it is (*) M87. They are characterized by less dust lanes and emission line gas, large dispersion velocities, and older Population II stars. These galaxies are numbered 0 through 7 on the left hand side of the Hubble tuning-fork diagram, where they are classified based on their semi-major and semi-minor axes. For 10": {
+    "guess": "Elliptical galaxy",
+    "confidence": [
+      [
+        "Ell",
+        -0.00011820524
+      ],
+      [
+        "ipt",
+        0.0
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " galaxy",
+        -0.0019349466
+      ]
+    ]
+  },
+  "The a4 coefficients for the Fourier series describing a feature of these objects is positive for disky versions and negative for boxy versions. These objects lie on an inclined fundamental plane of three parameters that describe them, and the luminosity-color and mass-metallicity relations can be recovered from that plane. A supergiant one of these notable for two jets coming out of it is (*) M87. They are characterized by less dust lanes and emission line gas, large dispersion velocities, and older Population II stars. These galaxies are numbered 0 through 7 on the left hand side of the Hubble tuning-fork diagram, where they are classified based on their semi-major and semi-minor axes. For 10 points, name these elongated galaxies which are rounder than spirals.": {
+    "guess": "Elliptical galaxy",
+    "confidence": [
+      [
+        "Ell",
+        -0.012534962
+      ],
+      [
+        "ipt",
+        -3.1281633e-07
+      ],
+      [
+        "ical",
+        0.0
+      ],
+      [
+        " galaxy",
+        -0.00041113084
+      ]
+    ]
+  }
+}

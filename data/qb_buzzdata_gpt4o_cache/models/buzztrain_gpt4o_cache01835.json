@@ -1,0 +1,119 @@
+{
+  "For a Euclidean plane the length of routes composed of orthogonal segments is given by the taxicab one": {
+    "guess": "Taxicab Geometry",
+    "confidence": [
+      [
+        "Tax",
+        -0.005270161
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "ab",
+        -1.9361265e-07
+      ],
+      [
+        " Geometry",
+        -0.079047754
+      ]
+    ]
+  },
+  "For a Euclidean plane the length of routes composed of orthogonal segments is given by the taxicab one of these. A non-negative function of two arguments, it obeys the triangle inequality, is symmetric,": {
+    "guess": "Taxicab Geometry",
+    "confidence": [
+      [
+        "Tax",
+        -0.00260931
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "ab",
+        0.0
+      ],
+      [
+        " Geometry",
+        -0.7392088
+      ]
+    ]
+  },
+  "For a Euclidean plane the length of routes composed of orthogonal segments is given by the taxicab one of these. A non-negative function of two arguments, it obeys the triangle inequality, is symmetric, and evaluates to zero when its arguments are identical. Simply stated, this function describes the": {
+    "guess": "Taxicab geometry",
+    "confidence": [
+      [
+        "Tax",
+        -0.02912301
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        "ab",
+        0.0
+      ],
+      [
+        " geometry",
+        -0.2866727
+      ]
+    ]
+  },
+  "For a Euclidean plane the length of routes composed of orthogonal segments is given by the taxicab one of these. A non-negative function of two arguments, it obeys the triangle inequality, is symmetric, and evaluates to zero when its arguments are identical. Simply stated, this function describes the distance between neighboring points within a given set. FTP, what is this word, which also is the common": {
+    "guess": "Metric",
+    "confidence": [
+      [
+        "Metric",
+        -0.006182964
+      ]
+    ]
+  },
+  "For a Euclidean plane the length of routes composed of orthogonal segments is given by the taxicab one of these. A non-negative function of two arguments, it obeys the triangle inequality, is symmetric, and evaluates to zero when its arguments are identical. Simply stated, this function describes the distance between neighboring points within a given set. FTP, what is this word, which also is the common name for the SI system of measurement?": {
+    "guess": "Metric",
+    "confidence": [
+      [
+        "Metric",
+        -0.000412796
+      ]
+    ]
+  },
+  "In Euclidean space, this term describes any locus of consecutive, parallel lines. However, this term": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.25380927
+      ]
+    ]
+  },
+  "In Euclidean space, this term describes any locus of consecutive, parallel lines. However, this term has come to describe a special type of locus where all the consecutive, parallel lines are parallel": {
+    "guess": "Cylinder",
+    "confidence": [
+      [
+        "Cylinder",
+        -0.26035082
+      ]
+    ]
+  },
+  "In Euclidean space, this term describes any locus of consecutive, parallel lines. However, this term has come to describe a special type of locus where all the consecutive, parallel lines are parallel to and equidistant from a singular line. For 10 points \\-- identify this term which describes any solid": {
+    "guess": "Cylinder",
+    "confidence": [
+      [
+        "Cylinder",
+        -0.21361712
+      ]
+    ]
+  },
+  "In Euclidean space, this term describes any locus of consecutive, parallel lines. However, this term has come to describe a special type of locus where all the consecutive, parallel lines are parallel to and equidistant from a singular line. For 10 points \\-- identify this term which describes any solid in the shape of a canister.": {
+    "guess": "Cylinder",
+    "confidence": [
+      [
+        "Cylinder",
+        -0.006791036
+      ]
+    ]
+  }
+}

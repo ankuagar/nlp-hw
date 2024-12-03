@@ -1,0 +1,1365 @@
+{
+  "The factor e, or emissivity, figures into this equation along with another constant, signified by sigma.": {
+    "guess": "Stefan-Boltzmann law",
+    "confidence": [
+      [
+        "Ste",
+        -0.0003403495
+      ],
+      [
+        "fan",
+        0.0
+      ],
+      [
+        "-B",
+        -0.47407702
+      ],
+      [
+        "ol",
+        0.0
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        "mann",
+        0.0
+      ],
+      [
+        " law",
+        -0.0052356487
+      ]
+    ]
+  },
+  "The factor e, or emissivity, figures into this equation along with another constant, signified by sigma.  It can be stated as \"delta Q\" over \"delta t\" is equal to \"e times sigma times A, or area, times": {
+    "guess": "Stefan\u2013Boltzmann Law",
+    "confidence": [
+      [
+        "Ste",
+        -0.09183654
+      ],
+      [
+        "fan",
+        -1.9361265e-07
+      ],
+      [
+        "\u2013",
+        -0.061967913
+      ],
+      [
+        "Bol",
+        0.0
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        "mann",
+        0.0
+      ],
+      [
+        " Law",
+        -0.17974591
+      ]
+    ]
+  },
+  "The factor e, or emissivity, figures into this equation along with another constant, signified by sigma.  It can be stated as \"delta Q\" over \"delta t\" is equal to \"e times sigma times A, or area, times T, or temperature, to the fourth.\"  Applying only to blackbodies, its simple statement is that the": {
+    "guess": "Stefan-Boltzmann Law",
+    "confidence": [
+      [
+        "Ste",
+        -0.11318367
+      ],
+      [
+        "fan",
+        0.0
+      ],
+      [
+        "-B",
+        -0.31326196
+      ],
+      [
+        "ol",
+        0.0
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        "mann",
+        0.0
+      ],
+      [
+        " Law",
+        -0.2014418
+      ]
+    ]
+  },
+  "The factor e, or emissivity, figures into this equation along with another constant, signified by sigma.  It can be stated as \"delta Q\" over \"delta t\" is equal to \"e times sigma times A, or area, times T, or temperature, to the fourth.\"  Applying only to blackbodies, its simple statement is that the total radiant heat energy emitted by a surface is proportional to the fourth power of its absolute temperature.": {
+    "guess": "Stefan-Boltzmann law",
+    "confidence": [
+      [
+        "Ste",
+        -0.1627292
+      ],
+      [
+        "fan",
+        0.0
+      ],
+      [
+        "-B",
+        -0.38687113
+      ],
+      [
+        "ol",
+        0.0
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        "mann",
+        0.0
+      ],
+      [
+        " law",
+        -0.6326296
+      ]
+    ]
+  },
+  "The factor e, or emissivity, figures into this equation along with another constant, signified by sigma.  It can be stated as \"delta Q\" over \"delta t\" is equal to \"e times sigma times A, or area, times T, or temperature, to the fourth.\"  Applying only to blackbodies, its simple statement is that the total radiant heat energy emitted by a surface is proportional to the fourth power of its absolute temperature.  FTP, identify this equation named for its two Austrian discoverers.": {
+    "guess": "Stefan-Boltzmann law",
+    "confidence": [
+      [
+        "Ste",
+        -0.003205877
+      ],
+      [
+        "fan",
+        0.0
+      ],
+      [
+        "-B",
+        -0.16022423
+      ],
+      [
+        "ol",
+        0.0
+      ],
+      [
+        "tz",
+        0.0
+      ],
+      [
+        "mann",
+        0.0
+      ],
+      [
+        " law",
+        -0.6327442
+      ]
+    ]
+  },
+  "Facio-scapulo-humeral dystrophy is believed to be caused by these structures' namesake position effect,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.47302383
+      ]
+    ]
+  },
+  "Facio-scapulo-humeral dystrophy is believed to be caused by these structures' namesake position effect,  which Baur et al showed could be relieved by Trichostatin A. Their size can be assayed via Flo-FISH": {
+    "guess": "Telomere",
+    "confidence": [
+      [
+        "Tel",
+        -0.0033952754
+      ],
+      [
+        "om",
+        -5.5122365e-07
+      ],
+      [
+        "ere",
+        -0.00017958412
+      ]
+    ]
+  },
+  "Facio-scapulo-humeral dystrophy is believed to be caused by these structures' namesake position effect,  which Baur et al showed could be relieved by Trichostatin A. Their size can be assayed via Flo-FISH or a TRF southern blot, and they are protected from non-homologous end-joining by the shelterin": {
+    "guess": "Telomere",
+    "confidence": [
+      [
+        "Tel",
+        -0.0047157533
+      ],
+      [
+        "om",
+        0.0
+      ],
+      [
+        "ere",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "Facio-scapulo-humeral dystrophy is believed to be caused by these structures' namesake position effect,  which Baur et al showed could be relieved by Trichostatin A. Their size can be assayed via Flo-FISH or a TRF southern blot, and they are protected from non-homologous end-joining by the shelterin complex. The SIR2/3/4 complex relocates to these structures, which form G-quadruplexes in humans. Their": {
+    "guess": "Telomere",
+    "confidence": [
+      [
+        "Tel",
+        -0.0071068867
+      ],
+      [
+        "om",
+        -4.3202e-07
+      ],
+      [
+        "ere",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "Facio-scapulo-humeral dystrophy is believed to be caused by these structures' namesake position effect,  which Baur et al showed could be relieved by Trichostatin A. Their size can be assayed via Flo-FISH or a TRF southern blot, and they are protected from non-homologous end-joining by the shelterin complex. The SIR2/3/4 complex relocates to these structures, which form G-quadruplexes in humans. Their existence solves the end-replication problem, and Greider and Blackburn discovered a reverse transcriptase": {
+    "guess": "Telomere",
+    "confidence": [
+      [
+        "Tel",
+        -0.0019983465
+      ],
+      [
+        "om",
+        -2.577686e-06
+      ],
+      [
+        "ere",
+        -7.9418505e-06
+      ]
+    ]
+  },
+  "Facio-scapulo-humeral dystrophy is believed to be caused by these structures' namesake position effect,  which Baur et al showed could be relieved by Trichostatin A. Their size can be assayed via Flo-FISH or a TRF southern blot, and they are protected from non-homologous end-joining by the shelterin complex. The SIR2/3/4 complex relocates to these structures, which form G-quadruplexes in humans. Their existence solves the end-replication problem, and Greider and Blackburn discovered a reverse transcriptase that lengthens these structures. Their length sets an upper limit upon the number of divisions": {
+    "guess": "Telomere",
+    "confidence": [
+      [
+        "Tel",
+        -0.009846985
+      ],
+      [
+        "om",
+        -3.1281633e-07
+      ],
+      [
+        "ere",
+        -2.1531068e-05
+      ]
+    ]
+  },
+  "Facio-scapulo-humeral dystrophy is believed to be caused by these structures' namesake position effect,  which Baur et al showed could be relieved by Trichostatin A. Their size can be assayed via Flo-FISH or a TRF southern blot, and they are protected from non-homologous end-joining by the shelterin complex. The SIR2/3/4 complex relocates to these structures, which form G-quadruplexes in humans. Their existence solves the end-replication problem, and Greider and Blackburn discovered a reverse transcriptase that lengthens these structures. Their length sets an upper limit upon the number of divisions that a given cell can undergo, and they consist of the sequence TTAGGG. For 10 points, name these": {
+    "guess": "Telomeres",
+    "confidence": [
+      [
+        "Tel",
+        -0.0004586711
+      ],
+      [
+        "om",
+        -3.1281633e-07
+      ],
+      [
+        "eres",
+        -0.0031777136
+      ]
+    ]
+  },
+  "Facio-scapulo-humeral dystrophy is believed to be caused by these structures' namesake position effect,  which Baur et al showed could be relieved by Trichostatin A. Their size can be assayed via Flo-FISH or a TRF southern blot, and they are protected from non-homologous end-joining by the shelterin complex. The SIR2/3/4 complex relocates to these structures, which form G-quadruplexes in humans. Their existence solves the end-replication problem, and Greider and Blackburn discovered a reverse transcriptase that lengthens these structures. Their length sets an upper limit upon the number of divisions that a given cell can undergo, and they consist of the sequence TTAGGG. For 10 points, name these ends of chromosomes.": {
+    "guess": "Telomeres",
+    "confidence": [
+      [
+        "Tel",
+        -0.0015134313
+      ],
+      [
+        "om",
+        -1.9361265e-07
+      ],
+      [
+        "eres",
+        -0.20141333
+      ]
+    ]
+  },
+  "The fact that a parameter commonly analyzed in this discipline  is downward biased towards zero if orthogonality": {
+    "guess": "Econometrics",
+    "confidence": [
+      [
+        "Econom",
+        -0.48838893
+      ],
+      [
+        "etrics",
+        -5.025915e-05
+      ]
+    ]
+  },
+  "The fact that a parameter commonly analyzed in this discipline  is downward biased towards zero if orthogonality is violated is called the \"iron law\" of this discipline. \"Within-differencing,\" \"first-differencing,\"": {
+    "guess": "Econometrics",
+    "confidence": [
+      [
+        "Econom",
+        -0.0003196154
+      ],
+      [
+        "etrics",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "The fact that a parameter commonly analyzed in this discipline  is downward biased towards zero if orthogonality is violated is called the \"iron law\" of this discipline. \"Within-differencing,\" \"first-differencing,\" and \"long-differencing\" are methods of panel analysis in this discipline. The \"probabilistic": {
+    "guess": "Econometrics",
+    "confidence": [
+      [
+        "Econom",
+        -0.00012570774
+      ],
+      [
+        "etrics",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "The fact that a parameter commonly analyzed in this discipline  is downward biased towards zero if orthogonality is violated is called the \"iron law\" of this discipline. \"Within-differencing,\" \"first-differencing,\" and \"long-differencing\" are methods of panel analysis in this discipline. The \"probabilistic approach\" towards this discipline was pioneered by Trygve Haavelmo, and Ragnar Frisch is considered": {
+    "guess": "Econometrics",
+    "confidence": [
+      [
+        "Econom",
+        -0.00010759611
+      ],
+      [
+        "etrics",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The fact that a parameter commonly analyzed in this discipline  is downward biased towards zero if orthogonality is violated is called the \"iron law\" of this discipline. \"Within-differencing,\" \"first-differencing,\" and \"long-differencing\" are methods of panel analysis in this discipline. The \"probabilistic approach\" towards this discipline was pioneered by Trygve Haavelmo, and Ragnar Frisch is considered the founder of this discipline. It often employs time series data and it uses OLS methods to": {
+    "guess": "Econometrics",
+    "confidence": [
+      [
+        "Econom",
+        -9.996708e-05
+      ],
+      [
+        "etrics",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The fact that a parameter commonly analyzed in this discipline  is downward biased towards zero if orthogonality is violated is called the \"iron law\" of this discipline. \"Within-differencing,\" \"first-differencing,\" and \"long-differencing\" are methods of panel analysis in this discipline. The \"probabilistic approach\" towards this discipline was pioneered by Trygve Haavelmo, and Ragnar Frisch is considered the founder of this discipline. It often employs time series data and it uses OLS methods to model data from economic variables. For 10 points, identify this discipline which attempts to elucidate": {
+    "guess": "Econometrics",
+    "confidence": [
+      [
+        "Econom",
+        -1.0280384e-06
+      ],
+      [
+        "etrics",
+        0.0
+      ]
+    ]
+  },
+  "The fact that a parameter commonly analyzed in this discipline  is downward biased towards zero if orthogonality is violated is called the \"iron law\" of this discipline. \"Within-differencing,\" \"first-differencing,\" and \"long-differencing\" are methods of panel analysis in this discipline. The \"probabilistic approach\" towards this discipline was pioneered by Trygve Haavelmo, and Ragnar Frisch is considered the founder of this discipline. It often employs time series data and it uses OLS methods to model data from economic variables. For 10 points, identify this discipline which attempts to elucidate quantitative relationships between economic variables using tools from mathematics and statistics.": {
+    "guess": "Econometrics",
+    "confidence": [
+      [
+        "Econom",
+        -3.0545007e-06
+      ],
+      [
+        "etrics",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The fact that the short-term form of this quantity cannot fall below zero is known as the ZLB or zero": {
+    "guess": "Zero lower bound",
+    "confidence": [
+      [
+        "Zero",
+        -0.051368926
+      ],
+      [
+        " lower",
+        -0.067708254
+      ],
+      [
+        " bound",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The fact that the short-term form of this quantity cannot fall below zero is known as the ZLB or zero lower bound problem. A linear approximation usually written as i approximately equals r plus pi relates": {
+    "guess": "Fisher equation",
+    "confidence": [
+      [
+        "F",
+        -0.6023262
+      ],
+      [
+        "isher",
+        -0.00055303273
+      ],
+      [
+        " equation",
+        -0.0031830634
+      ]
+    ]
+  },
+  "The fact that the short-term form of this quantity cannot fall below zero is known as the ZLB or zero lower bound problem. A linear approximation usually written as i approximately equals r plus pi relates the real and nominal forms of this quantity and is known as the Fisher equation. The LIBOR is an": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1561391
+      ]
+    ]
+  },
+  "The fact that the short-term form of this quantity cannot fall below zero is known as the ZLB or zero lower bound problem. A linear approximation usually written as i approximately equals r plus pi relates the real and nominal forms of this quantity and is known as the Fisher equation. The LIBOR is an average of several of these quantities that, in another context, can be measured in basis points.": {
+    "guess": "Interest rate",
+    "confidence": [
+      [
+        "Interest",
+        -0.005976904
+      ],
+      [
+        " rate",
+        -6.313315e-05
+      ]
+    ]
+  },
+  "The fact that the short-term form of this quantity cannot fall below zero is known as the ZLB or zero lower bound problem. A linear approximation usually written as i approximately equals r plus pi relates the real and nominal forms of this quantity and is known as the Fisher equation. The LIBOR is an average of several of these quantities that, in another context, can be measured in basis points. A simple rule of thumb holds that, if one knows this quantity, one can (*) divide 72 by its value to": {
+    "guess": "Rule of 72",
+    "confidence": [
+      [
+        "Rule",
+        -0.053336363
+      ],
+      [
+        " of",
+        -1.147242e-06
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "72",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "The fact that the short-term form of this quantity cannot fall below zero is known as the ZLB or zero lower bound problem. A linear approximation usually written as i approximately equals r plus pi relates the real and nominal forms of this quantity and is known as the Fisher equation. The LIBOR is an average of several of these quantities that, in another context, can be measured in basis points. A simple rule of thumb holds that, if one knows this quantity, one can (*) divide 72 by its value to calculate the doubling period. Banks with low reserves may apply to the Fed to receive the \"discount\"": {
+    "guess": "Interest rate",
+    "confidence": [
+      [
+        "Interest",
+        -0.0036212124
+      ],
+      [
+        " rate",
+        -0.0003893239
+      ]
+    ]
+  },
+  "The fact that the short-term form of this quantity cannot fall below zero is known as the ZLB or zero lower bound problem. A linear approximation usually written as i approximately equals r plus pi relates the real and nominal forms of this quantity and is known as the Fisher equation. The LIBOR is an average of several of these quantities that, in another context, can be measured in basis points. A simple rule of thumb holds that, if one knows this quantity, one can (*) divide 72 by its value to calculate the doubling period. Banks with low reserves may apply to the Fed to receive the \"discount\" form of this quantity, which is charged at the \"federal funds\" level between banks. For 10 points,": {
+    "guess": "Interest rate",
+    "confidence": [
+      [
+        "Interest",
+        -0.0041936752
+      ],
+      [
+        " rate",
+        -0.0004479501
+      ]
+    ]
+  },
+  "The fact that the short-term form of this quantity cannot fall below zero is known as the ZLB or zero lower bound problem. A linear approximation usually written as i approximately equals r plus pi relates the real and nominal forms of this quantity and is known as the Fisher equation. The LIBOR is an average of several of these quantities that, in another context, can be measured in basis points. A simple rule of thumb holds that, if one knows this quantity, one can (*) divide 72 by its value to calculate the doubling period. Banks with low reserves may apply to the Fed to receive the \"discount\" form of this quantity, which is charged at the \"federal funds\" level between banks. For 10 points, name this rate that may be computed in a \"simple\" or \"compound\" fashion, which denotes how much a": {
+    "guess": "Interest rate",
+    "confidence": [
+      [
+        "Interest",
+        -0.003789985
+      ],
+      [
+        " rate",
+        -0.00023417205
+      ]
+    ]
+  },
+  "The fact that the short-term form of this quantity cannot fall below zero is known as the ZLB or zero lower bound problem. A linear approximation usually written as i approximately equals r plus pi relates the real and nominal forms of this quantity and is known as the Fisher equation. The LIBOR is an average of several of these quantities that, in another context, can be measured in basis points. A simple rule of thumb holds that, if one knows this quantity, one can (*) divide 72 by its value to calculate the doubling period. Banks with low reserves may apply to the Fed to receive the \"discount\" form of this quantity, which is charged at the \"federal funds\" level between banks. For 10 points, name this rate that may be computed in a \"simple\" or \"compound\" fashion, which denotes how much a lender charges a borrower.": {
+    "guess": "Interest rate",
+    "confidence": [
+      [
+        "Interest",
+        -0.0007258946
+      ],
+      [
+        " rate",
+        -0.0001820874
+      ]
+    ]
+  },
+  "A factory whistle opens a thirteen-voice chorus in the first work of this type by this composer. A triumphant": {
+    "guess": "Symphony No. 2 (Shostakovich)",
+    "confidence": [
+      [
+        "Sym",
+        -0.6115666
+      ],
+      [
+        "phony",
+        -0.0004770248
+      ],
+      [
+        " No",
+        -0.0011714138
+      ],
+      [
+        ".",
+        -1.2664457e-06
+      ],
+      [
+        " ",
+        -6.749814e-06
+      ],
+      [
+        "2",
+        -0.0015960339
+      ],
+      [
+        " (",
+        -0.0021152855
+      ],
+      [
+        "Sh",
+        -0.0016973186
+      ],
+      [
+        "ost",
+        -1.9361265e-07
+      ],
+      [
+        "akov",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ],
+      [
+        ")",
+        -6.0272258e-05
+      ]
+    ]
+  },
+  "A factory whistle opens a thirteen-voice chorus in the first work of this type by this composer. A triumphant march in the first movement of another of these works by this composer uses low strings, a": {
+    "guess": "Symphony No. 2 (Shostakovich)",
+    "confidence": [
+      [
+        "Sym",
+        -0.4880074
+      ],
+      [
+        "phony",
+        -0.2521045
+      ],
+      [
+        " No",
+        -0.0020219013
+      ],
+      [
+        ".",
+        -1.2664457e-06
+      ],
+      [
+        " ",
+        -2.5107178e-05
+      ],
+      [
+        "2",
+        -0.0048250263
+      ],
+      [
+        " (",
+        -0.002666623
+      ],
+      [
+        "Sh",
+        -0.0023396122
+      ],
+      [
+        "ost",
+        -3.0545007e-06
+      ],
+      [
+        "akov",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ],
+      [
+        ")",
+        -0.00015347853
+      ]
+    ]
+  },
+  "A factory whistle opens a thirteen-voice chorus in the first work of this type by this composer. A triumphant march in the first movement of another of these works by this composer uses low strings, a bassoon, and a bass drum and picks up from a theme about a small girl that consists of a bass solo with": {
+    "guess": "Symphony No. 13 (Shostakovich)",
+    "confidence": [
+      [
+        "Sym",
+        -0.089069024
+      ],
+      [
+        "phony",
+        -0.055107374
+      ],
+      [
+        " No",
+        -0.0013764221
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " ",
+        -4.3202e-07
+      ],
+      [
+        "13",
+        -0.4491441
+      ],
+      [
+        " (",
+        -0.00060688716
+      ],
+      [
+        "Sh",
+        -2.1769476e-05
+      ],
+      [
+        "ost",
+        0.0
+      ],
+      [
+        "akov",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ],
+      [
+        ")",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "A factory whistle opens a thirteen-voice chorus in the first work of this type by this composer. A triumphant march in the first movement of another of these works by this composer uses low strings, a bassoon, and a bass drum and picks up from a theme about a small girl that consists of a bass solo with celesta accompaniment. The third movement of that work of this type by this composer uses strophic": {
+    "guess": "Symphony No. 13 (Shostakovich)",
+    "confidence": [
+      [
+        "Sym",
+        -0.30213276
+      ],
+      [
+        "phony",
+        -0.10041704
+      ],
+      [
+        " No",
+        -0.027138883
+      ],
+      [
+        ".",
+        -1.9361265e-07
+      ],
+      [
+        " ",
+        -0.00013202553
+      ],
+      [
+        "13",
+        -0.85505664
+      ],
+      [
+        " (",
+        -0.006353789
+      ],
+      [
+        "Sh",
+        -8.029847e-05
+      ],
+      [
+        "ost",
+        -1.9361265e-07
+      ],
+      [
+        "akov",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ],
+      [
+        ")",
+        -1.8431772e-05
+      ]
+    ]
+  },
+  "A factory whistle opens a thirteen-voice chorus in the first work of this type by this composer. A triumphant march in the first movement of another of these works by this composer uses low strings, a bassoon, and a bass drum and picks up from a theme about a small girl that consists of a bass solo with celesta accompaniment. The third movement of that work of this type by this composer uses strophic variations and represents the sighs of tired women in a market with string glissandi. Eight lines": {
+    "guess": "Symphony No. 2 (Shostakovich)",
+    "confidence": [
+      [
+        "Sym",
+        -0.2635505
+      ],
+      [
+        "phony",
+        -0.10061724
+      ],
+      [
+        " No",
+        -0.10406189
+      ],
+      [
+        ".",
+        -3.1281633e-07
+      ],
+      [
+        " ",
+        -0.00012130453
+      ],
+      [
+        "2",
+        -0.4070427
+      ],
+      [
+        " (",
+        -0.011324493
+      ],
+      [
+        "Sh",
+        -0.26760635
+      ],
+      [
+        "ost",
+        -6.392203e-06
+      ],
+      [
+        "akov",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ],
+      [
+        ")",
+        -2.5941605e-05
+      ]
+    ]
+  },
+  "A factory whistle opens a thirteen-voice chorus in the first work of this type by this composer. A triumphant march in the first movement of another of these works by this composer uses low strings, a bassoon, and a bass drum and picks up from a theme about a small girl that consists of a bass solo with celesta accompaniment. The third movement of that work of this type by this composer uses strophic variations and represents the sighs of tired women in a market with string glissandi. Eight lines of one of these works by this composer had to be changed from their original adaptation from the poetry": {
+    "guess": "Symphony No. 13 (Shostakovich)",
+    "confidence": [
+      [
+        "Sym",
+        -0.6440514
+      ],
+      [
+        "phony",
+        -0.10045337
+      ],
+      [
+        " No",
+        -0.054387793
+      ],
+      [
+        ".",
+        -3.1281633e-07
+      ],
+      [
+        " ",
+        -0.00022034443
+      ],
+      [
+        "13",
+        -0.24576926
+      ],
+      [
+        " (",
+        -0.0046773036
+      ],
+      [
+        "Sh",
+        -6.587483e-05
+      ],
+      [
+        "ost",
+        -4.3202e-07
+      ],
+      [
+        "akov",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ],
+      [
+        ")",
+        -9.849109e-06
+      ]
+    ]
+  },
+  "A factory whistle opens a thirteen-voice chorus in the first work of this type by this composer. A triumphant march in the first movement of another of these works by this composer uses low strings, a bassoon, and a bass drum and picks up from a theme about a small girl that consists of a bass solo with celesta accompaniment. The third movement of that work of this type by this composer uses strophic variations and represents the sighs of tired women in a market with string glissandi. Eight lines of one of these works by this composer had to be changed from their original adaptation from the poetry of (*) Yevtushenko. The tapping of a snare drum opens a twenty-two bar \"invasion theme\" in another": {
+    "guess": "Symphony No. 13 (Shostakovich)",
+    "confidence": [
+      [
+        "Sym",
+        -0.13639663
+      ],
+      [
+        "phony",
+        -0.313265
+      ],
+      [
+        " No",
+        -0.0005761472
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " ",
+        -5.080963e-06
+      ],
+      [
+        "13",
+        -0.06195301
+      ],
+      [
+        " (",
+        -0.00026431592
+      ],
+      [
+        "Sh",
+        -1.50940705e-05
+      ],
+      [
+        "ost",
+        0.0
+      ],
+      [
+        "akov",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ],
+      [
+        ")",
+        -2.2007884e-05
+      ]
+    ]
+  },
+  "A factory whistle opens a thirteen-voice chorus in the first work of this type by this composer. A triumphant march in the first movement of another of these works by this composer uses low strings, a bassoon, and a bass drum and picks up from a theme about a small girl that consists of a bass solo with celesta accompaniment. The third movement of that work of this type by this composer uses strophic variations and represents the sighs of tired women in a market with string glissandi. Eight lines of one of these works by this composer had to be changed from their original adaptation from the poetry of (*) Yevtushenko. The tapping of a snare drum opens a twenty-two bar \"invasion theme\" in another of these works by this composer. For 10 points, name these works by a Russian composer, including": {
+    "guess": "Shostakovich symphonies",
+    "confidence": [
+      [
+        "Sh",
+        -0.79421467
+      ],
+      [
+        "ost",
+        -5.5122365e-07
+      ],
+      [
+        "akov",
+        -1.9361265e-07
+      ],
+      [
+        "ich",
+        -1.9361265e-07
+      ],
+      [
+        " sym",
+        -0.010931918
+      ],
+      [
+        "phon",
+        -0.0021861878
+      ],
+      [
+        "ies",
+        0.0
+      ]
+    ]
+  },
+  "A factory whistle opens a thirteen-voice chorus in the first work of this type by this composer. A triumphant march in the first movement of another of these works by this composer uses low strings, a bassoon, and a bass drum and picks up from a theme about a small girl that consists of a bass solo with celesta accompaniment. The third movement of that work of this type by this composer uses strophic variations and represents the sighs of tired women in a market with string glissandi. Eight lines of one of these works by this composer had to be changed from their original adaptation from the poetry of (*) Yevtushenko. The tapping of a snare drum opens a twenty-two bar \"invasion theme\" in another of these works by this composer. For 10 points, name these works by a Russian composer, including ones called Babi Yar and Leningrad.": {
+    "guess": "Symphonies of Dmitri Shostakovich",
+    "confidence": [
+      [
+        "Sym",
+        -0.22626708
+      ],
+      [
+        "phon",
+        -0.12693472
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        " of",
+        -0.25307912
+      ],
+      [
+        " Dmit",
+        -0.0024946835
+      ],
+      [
+        "ri",
+        -0.0001592003
+      ],
+      [
+        " Sh",
+        0.0
+      ],
+      [
+        "ost",
+        0.0
+      ],
+      [
+        "akov",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ]
+    ]
+  },
+  "One faction had supported its rival for four years prior to this event. The cause of it was the new king's": {
+    "guess": "Glorious Revolution",
+    "confidence": [
+      [
+        "Gl",
+        -0.118880816
+      ],
+      [
+        "orious",
+        -4.4537377e-05
+      ],
+      [
+        " Revolution",
+        0.0
+      ]
+    ]
+  },
+  "One faction had supported its rival for four years prior to this event. The cause of it was the new king's bestowing lands in Cumbria promised to the group onto its rival instead. Most of the army recruited": {
+    "guess": "Harrying of the North",
+    "confidence": [
+      [
+        "Harry",
+        -0.47944593
+      ],
+      [
+        "ing",
+        -3.5313153e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -1.6240566e-06
+      ],
+      [
+        " North",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "One faction had supported its rival for four years prior to this event. The cause of it was the new king's bestowing lands in Cumbria promised to the group onto its rival instead. Most of the army recruited came from Cheshire, a region already hostile to the successor of Richard II. Occurring on July": {
+    "guess": "Battle of Shrewsbury",
+    "confidence": [
+      [
+        "Battle",
+        -0.29618564
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sh",
+        -0.08902868
+      ],
+      [
+        "rews",
+        -8.637786e-05
+      ],
+      [
+        "bury",
+        0.0
+      ]
+    ]
+  },
+  "One faction had supported its rival for four years prior to this event. The cause of it was the new king's bestowing lands in Cumbria promised to the group onto its rival instead. Most of the army recruited came from Cheshire, a region already hostile to the successor of Richard II. Occurring on July 21, 1403, near the river Severn, the rebel leader was disinterred, impaled and quartered to prove his": {
+    "guess": "Battle of Shrewsbury",
+    "confidence": [
+      [
+        "Battle",
+        -0.0039489786
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sh",
+        -1.9361265e-07
+      ],
+      [
+        "rews",
+        -9.0883464e-07
+      ],
+      [
+        "bury",
+        0.0
+      ]
+    ]
+  },
+  "One faction had supported its rival for four years prior to this event. The cause of it was the new king's bestowing lands in Cumbria promised to the group onto its rival instead. Most of the army recruited came from Cheshire, a region already hostile to the successor of Richard II. Occurring on July 21, 1403, near the river Severn, the rebel leader was disinterred, impaled and quartered to prove his death afterwards. For 10 points, identify this conflict between rebels led by Henry \"Hotspur\" Percy": {
+    "guess": "Battle of Shrewsbury",
+    "confidence": [
+      [
+        "Battle",
+        -0.0006700247
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sh",
+        -1.9361265e-07
+      ],
+      [
+        "rews",
+        -1.9361265e-07
+      ],
+      [
+        "bury",
+        0.0
+      ]
+    ]
+  },
+  "One faction had supported its rival for four years prior to this event. The cause of it was the new king's bestowing lands in Cumbria promised to the group onto its rival instead. Most of the army recruited came from Cheshire, a region already hostile to the successor of Richard II. Occurring on July 21, 1403, near the river Severn, the rebel leader was disinterred, impaled and quartered to prove his death afterwards. For 10 points, identify this conflict between rebels led by Henry \"Hotspur\" Percy and the army of England under King Henry IV.": {
+    "guess": "Battle of Shrewsbury",
+    "confidence": [
+      [
+        "Battle",
+        -0.0012185709
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Sh",
+        -1.9361265e-07
+      ],
+      [
+        "rews",
+        -1.9361265e-07
+      ],
+      [
+        "bury",
+        0.0
+      ]
+    ]
+  },
+  "This faction was upset by the \"Law on Further Improving the Organization of Management of Industry and": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.67788064
+      ]
+    ]
+  },
+  "This faction was upset by the \"Law on Further Improving the Organization of Management of Industry and Construction\" and was countered by the use of military transport networks to inundate the capital": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.84511214
+      ]
+    ]
+  },
+  "This faction was upset by the \"Law on Further Improving the Organization of Management of Industry and Construction\" and was countered by the use of military transport networks to inundate the capital with their target's supporters. One member of this clique had previously been UN representative during": {
+    "guess": "Gang of Four",
+    "confidence": [
+      [
+        "Gang",
+        -0.14753672
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Four",
+        -0.16023418
+      ]
+    ]
+  },
+  "This faction was upset by the \"Law on Further Improving the Organization of Management of Industry and Construction\" and was countered by the use of military transport networks to inundate the capital with their target's supporters. One member of this clique had previously been UN representative during the Hungarian and Suez crises. One of its members was appointed director of a potassium factory,": {
+    "guess": "Anti-Party Group",
+    "confidence": [
+      [
+        "Anti",
+        -0.2192795
+      ],
+      [
+        "-",
+        -7.89631e-07
+      ],
+      [
+        "Party",
+        -4.3202e-07
+      ],
+      [
+        " Group",
+        -7.465036e-06
+      ]
+    ]
+  },
+  "This faction was upset by the \"Law on Further Improving the Organization of Management of Industry and Construction\" and was countered by the use of military transport networks to inundate the capital with their target's supporters. One member of this clique had previously been UN representative during the Hungarian and Suez crises. One of its members was appointed director of a potassium factory, another ran a hydroeletric plant; the remaining ones chaired the economics department at the Kyrgyzstan": {
+    "guess": "Anti-Party Group",
+    "confidence": [
+      [
+        "Anti",
+        -0.009300184
+      ],
+      [
+        "-",
+        -4.3202e-07
+      ],
+      [
+        "Party",
+        -1.9361265e-07
+      ],
+      [
+        " Group",
+        -1.2233183e-05
+      ]
+    ]
+  },
+  "This faction was upset by the \"Law on Further Improving the Organization of Management of Industry and Construction\" and was countered by the use of military transport networks to inundate the capital with their target's supporters. One member of this clique had previously been UN representative during the Hungarian and Suez crises. One of its members was appointed director of a potassium factory, another ran a hydroeletric plant; the remaining ones chaired the economics department at the Kyrgyzstan Academy of Sciences and became ambassador to Mongolia. Dmitri Shepilov, Lazar Kaganovich, Georgy": {
+    "guess": "Anti-Party Group",
+    "confidence": [
+      [
+        "Anti",
+        -0.050224643
+      ],
+      [
+        "-",
+        -1.6240566e-06
+      ],
+      [
+        "Party",
+        0.0
+      ],
+      [
+        " Group",
+        -5.6769813e-06
+      ]
+    ]
+  },
+  "This faction was upset by the \"Law on Further Improving the Organization of Management of Industry and Construction\" and was countered by the use of military transport networks to inundate the capital with their target's supporters. One member of this clique had previously been UN representative during the Hungarian and Suez crises. One of its members was appointed director of a potassium factory, another ran a hydroeletric plant; the remaining ones chaired the economics department at the Kyrgyzstan Academy of Sciences and became ambassador to Mongolia. Dmitri Shepilov, Lazar Kaganovich, Georgy Malenkov, and Vyacheslav Molotov comprised, for 10 points, what faction that unsuccessfully attempted": {
+    "guess": "Anti-Party Group",
+    "confidence": [
+      [
+        "Anti",
+        -0.01613232
+      ],
+      [
+        "-",
+        -5.5122365e-07
+      ],
+      [
+        "Party",
+        0.0
+      ],
+      [
+        " Group",
+        -5.6769813e-06
+      ]
+    ]
+  },
+  "This faction was upset by the \"Law on Further Improving the Organization of Management of Industry and Construction\" and was countered by the use of military transport networks to inundate the capital with their target's supporters. One member of this clique had previously been UN representative during the Hungarian and Suez crises. One of its members was appointed director of a potassium factory, another ran a hydroeletric plant; the remaining ones chaired the economics department at the Kyrgyzstan Academy of Sciences and became ambassador to Mongolia. Dmitri Shepilov, Lazar Kaganovich, Georgy Malenkov, and Vyacheslav Molotov comprised, for 10 points, what faction that unsuccessfully attempted to depose Nikita Krushchev in 1957 and was named for its supposed threat to Communist order?": {
+    "guess": "Anti-Party Group",
+    "confidence": [
+      [
+        "Anti",
+        -0.0045782267
+      ],
+      [
+        "-",
+        -4.3202e-07
+      ],
+      [
+        "Party",
+        0.0
+      ],
+      [
+        " Group",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "A faction of this faith, Lapsarianism, believes that the Fall of Man was planned by God. This religion": {
+    "guess": "Calvinism",
+    "confidence": [
+      [
+        "Cal",
+        -0.43144685
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        "ism",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "A faction of this faith, Lapsarianism, believes that the Fall of Man was planned by God. This religion believes in the doctrine of the perseverance of saints, known as \"once saved, always saved\". It believes": {
+    "guess": "Calvinism",
+    "confidence": [
+      [
+        "Cal",
+        -0.043215673
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        "ism",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "A faction of this faith, Lapsarianism, believes that the Fall of Man was planned by God. This religion believes in the doctrine of the perseverance of saints, known as \"once saved, always saved\". It believes in parts of Common Grace, which is the belief that God gives undeserved gifts to all humans,": {
+    "guess": "Calvinism",
+    "confidence": [
+      [
+        "Cal",
+        -0.0066888523
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A faction of this faith, Lapsarianism, believes that the Fall of Man was planned by God. This religion believes in the doctrine of the perseverance of saints, known as \"once saved, always saved\". It believes in parts of Common Grace, which is the belief that God gives undeserved gifts to all humans, and this religion also follows the doctrine of Irresistible Grace. It rejects the idea of transubstantiation,": {
+    "guess": "Calvinism",
+    "confidence": [
+      [
+        "Cal",
+        -0.0033312335
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "A faction of this faith, Lapsarianism, believes that the Fall of Man was planned by God. This religion believes in the doctrine of the perseverance of saints, known as \"once saved, always saved\". It believes in parts of Common Grace, which is the belief that God gives undeserved gifts to all humans, and this religion also follows the doctrine of Irresistible Grace. It rejects the idea of transubstantiation, and believes that the Eucharist is purely symbolic. For 10 points, name this branch of Christianity": {
+    "guess": "Calvinism",
+    "confidence": [
+      [
+        "Cal",
+        -0.080998585
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        "ism",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A faction of this faith, Lapsarianism, believes that the Fall of Man was planned by God. This religion believes in the doctrine of the perseverance of saints, known as \"once saved, always saved\". It believes in parts of Common Grace, which is the belief that God gives undeserved gifts to all humans, and this religion also follows the doctrine of Irresistible Grace. It rejects the idea of transubstantiation, and believes that the Eucharist is purely symbolic. For 10 points, name this branch of Christianity whose namesake founder outlined the concepts of predestination, the elect and total depravity": {
+    "guess": "Calvinism",
+    "confidence": [
+      [
+        "Cal",
+        -0.00018875914
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "A faction of this faith, Lapsarianism, believes that the Fall of Man was planned by God. This religion believes in the doctrine of the perseverance of saints, known as \"once saved, always saved\". It believes in parts of Common Grace, which is the belief that God gives undeserved gifts to all humans, and this religion also follows the doctrine of Irresistible Grace. It rejects the idea of transubstantiation, and believes that the Eucharist is purely symbolic. For 10 points, name this branch of Christianity whose namesake founder outlined the concepts of predestination, the elect and total depravity in this denomination's founding work, Institutes of the Christian Religion.": {
+    "guess": "Calvinism",
+    "confidence": [
+      [
+        "Cal",
+        -2.0815847e-05
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  }
+}

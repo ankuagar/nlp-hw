@@ -1,0 +1,138 @@
+{
+  "The Bowden-Tabor model can be used to describe this behavior in molybdenum disulfide*, while applying": {
+    "guess": "Friction",
+    "confidence": [
+      [
+        "F",
+        -0.0145391915
+      ],
+      [
+        "riction",
+        0.0
+      ]
+    ]
+  },
+  "The Bowden-Tabor model can be used to describe this behavior in molybdenum disulfide*, while applying an AC voltage to an NaCl crystal results in a dynamic version of it. Polymer brushes are a common method": {
+    "guess": "Friction",
+    "confidence": [
+      [
+        "F",
+        -0.031858325
+      ],
+      [
+        "riction",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "The Bowden-Tabor model can be used to describe this behavior in molybdenum disulfide*, while applying an AC voltage to an NaCl crystal results in a dynamic version of it. Polymer brushes are a common method of achieving this phenomenon, and this term was coined by Hirano after a study using UHV scanning": {
+    "guess": "Superlubricity",
+    "confidence": [
+      [
+        "Super",
+        -0.11275958
+      ],
+      [
+        "lub",
+        -3.1281633e-07
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "The Bowden-Tabor model can be used to describe this behavior in molybdenum disulfide*, while applying an AC voltage to an NaCl crystal results in a dynamic version of it. Polymer brushes are a common method of achieving this phenomenon, and this term was coined by Hirano after a study using UHV scanning tunneling microscopy. One model describing this phenomenon uses a harmonic oscillator hanging from": {
+    "guess": "Superlubricity",
+    "confidence": [
+      [
+        "Super",
+        -0.03275224
+      ],
+      [
+        "lub",
+        -1.6240566e-06
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "The Bowden-Tabor model can be used to describe this behavior in molybdenum disulfide*, while applying an AC voltage to an NaCl crystal results in a dynamic version of it. Polymer brushes are a common method of achieving this phenomenon, and this term was coined by Hirano after a study using UHV scanning tunneling microscopy. One model describing this phenomenon uses a harmonic oscillator hanging from leaf springs over a periodic potential, and has a stickslip regime for eta greater than 1, known": {
+    "guess": "Superlubricity",
+    "confidence": [
+      [
+        "Super",
+        -0.04956097
+      ],
+      [
+        "lub",
+        -1.147242e-06
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        "ity",
+        0.0
+      ]
+    ]
+  },
+  "The Bowden-Tabor model can be used to describe this behavior in molybdenum disulfide*, while applying an AC voltage to an NaCl crystal results in a dynamic version of it. Polymer brushes are a common method of achieving this phenomenon, and this term was coined by Hirano after a study using UHV scanning tunneling microscopy. One model describing this phenomenon uses a harmonic oscillator hanging from leaf springs over a periodic potential, and has a stickslip regime for eta greater than 1, known as the Tomlinson model. This effect can be applied to the construction of MEMS and other nanotechnology,": {
+    "guess": "Friction",
+    "confidence": [
+      [
+        "F",
+        -0.0074853534
+      ],
+      [
+        "riction",
+        -7.58424e-06
+      ]
+    ]
+  },
+  "The Bowden-Tabor model can be used to describe this behavior in molybdenum disulfide*, while applying an AC voltage to an NaCl crystal results in a dynamic version of it. Polymer brushes are a common method of achieving this phenomenon, and this term was coined by Hirano after a study using UHV scanning tunneling microscopy. One model describing this phenomenon uses a harmonic oscillator hanging from leaf springs over a periodic potential, and has a stickslip regime for eta greater than 1, known as the Tomlinson model. This effect can be applied to the construction of MEMS and other nanotechnology, especially because two graphite sheets rubbing against each other display it. For 10 points, name": {
+    "guess": "Friction",
+    "confidence": [
+      [
+        "F",
+        -0.012836057
+      ],
+      [
+        "riction",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "The Bowden-Tabor model can be used to describe this behavior in molybdenum disulfide*, while applying an AC voltage to an NaCl crystal results in a dynamic version of it. Polymer brushes are a common method of achieving this phenomenon, and this term was coined by Hirano after a study using UHV scanning tunneling microscopy. One model describing this phenomenon uses a harmonic oscillator hanging from leaf springs over a periodic potential, and has a stickslip regime for eta greater than 1, known as the Tomlinson model. This effect can be applied to the construction of MEMS and other nanotechnology, especially because two graphite sheets rubbing against each other display it. For 10 points, name this effect where two surfaces display little to no friction against each other.": {
+    "guess": "Superlubricity",
+    "confidence": [
+      [
+        "Super",
+        -0.0043222336
+      ],
+      [
+        "lub",
+        0.0
+      ],
+      [
+        "ric",
+        0.0
+      ],
+      [
+        "ity",
+        -1.9361265e-07
+      ]
+    ]
+  }
+}

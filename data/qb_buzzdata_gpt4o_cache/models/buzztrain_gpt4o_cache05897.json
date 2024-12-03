@@ -1,0 +1,180 @@
+{
+  "One pitcher with this surname picked off 3 baserunners in one inning. Another player with this surname": {
+    "guess": "Haddix",
+    "confidence": [
+      [
+        "H",
+        -0.73036486
+      ],
+      [
+        "add",
+        -0.01351783
+      ],
+      [
+        "ix",
+        -0.062438387
+      ]
+    ]
+  },
+  "One pitcher with this surname picked off 3 baserunners in one inning. Another player with this surname was nicknamed \"El Presidente\" and pitched a perfect game against the Dodgers in 1991. One player with": {
+    "guess": "Mart\u00ednez",
+    "confidence": [
+      [
+        "Mart",
+        -0.004677542
+      ],
+      [
+        "\u00ed",
+        -0.029825695
+      ],
+      [
+        "nez",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "One pitcher with this surname picked off 3 baserunners in one inning. Another player with this surname was nicknamed \"El Presidente\" and pitched a perfect game against the Dodgers in 1991. One player with this surname is the namesake of the award given to the top designated hitter in baseball, and along": {
+    "guess": "Mart\u00ednez",
+    "confidence": [
+      [
+        "Mart",
+        -0.0031652413
+      ],
+      [
+        "\u00ed",
+        -0.4740913
+      ],
+      [
+        "nez",
+        0.0
+      ]
+    ]
+  },
+  "One pitcher with this surname picked off 3 baserunners in one inning. Another player with this surname was nicknamed \"El Presidente\" and pitched a perfect game against the Dodgers in 1991. One player with this surname is the namesake of the award given to the top designated hitter in baseball, and along with pitchers Tippy and Dennis, this is the surname of a pitcher who won three Cy Youngs for the": {
+    "guess": "Mart\u00ednez",
+    "confidence": [
+      [
+        "Mart",
+        -0.00028278882
+      ],
+      [
+        "\u00ed",
+        -0.4740924
+      ],
+      [
+        "nez",
+        0.0
+      ]
+    ]
+  },
+  "One pitcher with this surname picked off 3 baserunners in one inning. Another player with this surname was nicknamed \"El Presidente\" and pitched a perfect game against the Dodgers in 1991. One player with this surname is the namesake of the award given to the top designated hitter in baseball, and along with pitchers Tippy and Dennis, this is the surname of a pitcher who won three Cy Youngs for the Expos and Red Sox, and recently pitched for the Mets and Phillies. For 10 points, give this surname": {
+    "guess": "Martinez",
+    "confidence": [
+      [
+        "Mart",
+        -0.0004207827
+      ],
+      [
+        "inez",
+        -0.38687798
+      ]
+    ]
+  },
+  "One pitcher with this surname picked off 3 baserunners in one inning. Another player with this surname was nicknamed \"El Presidente\" and pitched a perfect game against the Dodgers in 1991. One player with this surname is the namesake of the award given to the top designated hitter in baseball, and along with pitchers Tippy and Dennis, this is the surname of a pitcher who won three Cy Youngs for the Expos and Red Sox, and recently pitched for the Mets and Phillies. For 10 points, give this surname shared by Edgar, Tino, and Pedro.": {
+    "guess": "Martinez",
+    "confidence": [
+      [
+        "Mart",
+        -0.0002487039
+      ],
+      [
+        "inez",
+        -0.4740843
+      ]
+    ]
+  },
+  "The Pitiusas, including Ibiza and Formentera, are the western group of islands that are part of this": {
+    "guess": "Balearic Islands",
+    "confidence": [
+      [
+        "Bal",
+        -0.00012654216
+      ],
+      [
+        "ear",
+        -1.9361265e-07
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Islands",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "The Pitiusas, including Ibiza and Formentera, are the western group of islands that are part of this archipelago. Considered an extension of the sub- Baetic Mountains, they share their name with a similarly": {
+    "guess": "Balearic Islands",
+    "confidence": [
+      [
+        "Bal",
+        -0.0020012
+      ],
+      [
+        "ear",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Islands",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The Pitiusas, including Ibiza and Formentera, are the western group of islands that are part of this archipelago. Considered an extension of the sub- Baetic Mountains, they share their name with a similarly delineated province and autonomous community with its capital at Palma. For ten points, what group": {
+    "guess": "Balearic Islands",
+    "confidence": [
+      [
+        "Bal",
+        -0.000104496816
+      ],
+      [
+        "ear",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Islands",
+        0.0
+      ]
+    ]
+  },
+  "The Pitiusas, including Ibiza and Formentera, are the western group of islands that are part of this archipelago. Considered an extension of the sub- Baetic Mountains, they share their name with a similarly delineated province and autonomous community with its capital at Palma. For ten points, what group of islands in the Mediterranean are owned by Spain and include Cabrera, Minorca, and Majorca?": {
+    "guess": "Balearic Islands",
+    "confidence": [
+      [
+        "Bal",
+        -3.6669935e-05
+      ],
+      [
+        "ear",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " Islands",
+        0.0
+      ]
+    ]
+  }
+}

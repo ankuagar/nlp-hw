@@ -1,0 +1,151 @@
+{
+  "The Gniezno incarnation resulted from Boleslaw III's acceptance of the suzerainty of the Holy Roman Empire,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.24394432
+      ]
+    ]
+  },
+  "The Gniezno incarnation resulted from Boleslaw III's acceptance of the suzerainty of the Holy Roman Empire, and led to the de-facto independence of the Polish church. A 1242 instance of this saw Hungarian": {
+    "guess": "Synod of Gniezno",
+    "confidence": [
+      [
+        "Syn",
+        -0.08066927
+      ],
+      [
+        "od",
+        -0.011059731
+      ],
+      [
+        " of",
+        -0.0009817204
+      ],
+      [
+        " G",
+        -0.020518417
+      ],
+      [
+        "nie",
+        -0.00019293126
+      ],
+      [
+        "z",
+        -5.5122365e-07
+      ],
+      [
+        "no",
+        0.0
+      ]
+    ]
+  },
+  "The Gniezno incarnation resulted from Boleslaw III's acceptance of the suzerainty of the Holy Roman Empire, and led to the de-facto independence of the Polish church. A 1242 instance of this saw Hungarian king Bela IV grant city rights to present-day Zagreb, though the most famous example of one of these": {
+    "guess": "Golden Bull",
+    "confidence": [
+      [
+        "Golden",
+        -0.057496592
+      ],
+      [
+        " Bull",
+        -3.106736e-05
+      ]
+    ]
+  },
+  "The Gniezno incarnation resulted from Boleslaw III's acceptance of the suzerainty of the Holy Roman Empire, and led to the de-facto independence of the Polish church. A 1242 instance of this saw Hungarian king Bela IV grant city rights to present-day Zagreb, though the most famous example of one of these confirmed the role of the city of Frankfurt and explicitly specified the role of the archbishop": {
+    "guess": "Golden Bull",
+    "confidence": [
+      [
+        "Golden",
+        -0.00019054719
+      ],
+      [
+        " Bull",
+        -6.869018e-06
+      ]
+    ]
+  },
+  "The Gniezno incarnation resulted from Boleslaw III's acceptance of the suzerainty of the Holy Roman Empire, and led to the de-facto independence of the Polish church. A 1242 instance of this saw Hungarian king Bela IV grant city rights to present-day Zagreb, though the most famous example of one of these confirmed the role of the city of Frankfurt and explicitly specified the role of the archbishop of Mainz. Emperor Frederic II was identified as the source of the 1218 one of Berne, considered a forgery,": {
+    "guess": "Golden Bull",
+    "confidence": [
+      [
+        "Golden",
+        -0.006359593
+      ],
+      [
+        " Bull",
+        -8.602025e-05
+      ]
+    ]
+  },
+  "The Gniezno incarnation resulted from Boleslaw III's acceptance of the suzerainty of the Holy Roman Empire, and led to the de-facto independence of the Polish church. A 1242 instance of this saw Hungarian king Bela IV grant city rights to present-day Zagreb, though the most famous example of one of these confirmed the role of the city of Frankfurt and explicitly specified the role of the archbishop of Mainz. Emperor Frederic II was identified as the source of the 1218 one of Berne, considered a forgery, but definitely did issue one dealing with the holdings of Teutonic knights in Prussia named": {
+    "guess": "Golden Bull",
+    "confidence": [
+      [
+        "Golden",
+        -0.0023903986
+      ],
+      [
+        " Bull",
+        -4.3822154e-05
+      ]
+    ]
+  },
+  "The Gniezno incarnation resulted from Boleslaw III's acceptance of the suzerainty of the Holy Roman Empire, and led to the de-facto independence of the Polish church. A 1242 instance of this saw Hungarian king Bela IV grant city rights to present-day Zagreb, though the most famous example of one of these confirmed the role of the city of Frankfurt and explicitly specified the role of the archbishop of Mainz. Emperor Frederic II was identified as the source of the 1218 one of Berne, considered a forgery, but definitely did issue one dealing with the holdings of Teutonic knights in Prussia named for the town of Rimini. The best-known of these documents was issued in 1356 by Charles IV and codified": {
+    "guess": "Golden Bull of 1356",
+    "confidence": [
+      [
+        "Golden",
+        -0.0044120788
+      ],
+      [
+        " Bull",
+        -3.7697225e-06
+      ],
+      [
+        " of",
+        -0.47521314
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "135",
+        -5.5122365e-07
+      ],
+      [
+        "6",
+        0.0
+      ]
+    ]
+  },
+  "The Gniezno incarnation resulted from Boleslaw III's acceptance of the suzerainty of the Holy Roman Empire, and led to the de-facto independence of the Polish church. A 1242 instance of this saw Hungarian king Bela IV grant city rights to present-day Zagreb, though the most famous example of one of these confirmed the role of the city of Frankfurt and explicitly specified the role of the archbishop of Mainz. Emperor Frederic II was identified as the source of the 1218 one of Berne, considered a forgery, but definitely did issue one dealing with the holdings of Teutonic knights in Prussia named for the town of Rimini. The best-known of these documents was issued in 1356 by Charles IV and codified the Diet of Nuremberg's rulings regarding Holy Roman Emperor election. For 10 points, identify these": {
+    "guess": "Golden Bull",
+    "confidence": [
+      [
+        "Golden",
+        -0.00051931274
+      ],
+      [
+        " Bull",
+        -0.2519324
+      ]
+    ]
+  },
+  "The Gniezno incarnation resulted from Boleslaw III's acceptance of the suzerainty of the Holy Roman Empire, and led to the de-facto independence of the Polish church. A 1242 instance of this saw Hungarian king Bela IV grant city rights to present-day Zagreb, though the most famous example of one of these confirmed the role of the city of Frankfurt and explicitly specified the role of the archbishop of Mainz. Emperor Frederic II was identified as the source of the 1218 one of Berne, considered a forgery, but definitely did issue one dealing with the holdings of Teutonic knights in Prussia named for the town of Rimini. The best-known of these documents was issued in 1356 by Charles IV and codified the Diet of Nuremberg's rulings regarding Holy Roman Emperor election. For 10 points, identify these decrees named for the precious metal used on their seals.": {
+    "guess": "Golden Bulls",
+    "confidence": [
+      [
+        "Golden",
+        -8.089449e-05
+      ],
+      [
+        " Bulls",
+        -0.31326345
+      ]
+    ]
+  }
+}

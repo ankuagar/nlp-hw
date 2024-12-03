@@ -1,0 +1,114 @@
+{
+  "The Ghyben-Herzberg relation models one important threat to these things, and in the absence of certain": {
+    "guess": "Saltwater Intrusion",
+    "confidence": [
+      [
+        "Salt",
+        -0.9465318
+      ],
+      [
+        "water",
+        -0.0008352392
+      ],
+      [
+        " Intr",
+        -0.31331092
+      ],
+      [
+        "usion",
+        -0.00014001218
+      ]
+    ]
+  },
+  "The Ghyben-Herzberg relation models one important threat to these things, and in the absence of certain formations they will rise to the potentiometric surface.  Normally found within the phreatic zone,": {
+    "guess": "Aquifer",
+    "confidence": [
+      [
+        "Aqu",
+        -0.06319796
+      ],
+      [
+        "ifer",
+        -7.493431e-05
+      ]
+    ]
+  },
+  "The Ghyben-Herzberg relation models one important threat to these things, and in the absence of certain formations they will rise to the potentiometric surface.  Normally found within the phreatic zone, perched examples of these are instead found in the vadose zone.  These formations which can naturally": {
+    "guess": "Aquifer",
+    "confidence": [
+      [
+        "Aqu",
+        -0.03143493
+      ],
+      [
+        "ifer",
+        -1.3067608e-05
+      ]
+    ]
+  },
+  "The Ghyben-Herzberg relation models one important threat to these things, and in the absence of certain formations they will rise to the potentiometric surface.  Normally found within the phreatic zone, perched examples of these are instead found in the vadose zone.  These formations which can naturally suffer from arsenic contamination and saline intrusion often see their recharge hindered by the": {
+    "guess": "Aquifer",
+    "confidence": [
+      [
+        "Aqu",
+        -0.00096922595
+      ],
+      [
+        "ifer",
+        -6.9882217e-06
+      ]
+    ]
+  },
+  "The Ghyben-Herzberg relation models one important threat to these things, and in the absence of certain formations they will rise to the potentiometric surface.  Normally found within the phreatic zone, perched examples of these are instead found in the vadose zone.  These formations which can naturally suffer from arsenic contamination and saline intrusion often see their recharge hindered by the impervious surface of human development, and their behavior is described using Darcy's Law.  They are": {
+    "guess": "Aquifer",
+    "confidence": [
+      [
+        "Aqu",
+        -0.0059373286
+      ],
+      [
+        "ifer",
+        -0.00671549
+      ]
+    ]
+  },
+  "The Ghyben-Herzberg relation models one important threat to these things, and in the absence of certain formations they will rise to the potentiometric surface.  Normally found within the phreatic zone, perched examples of these are instead found in the vadose zone.  These formations which can naturally suffer from arsenic contamination and saline intrusion often see their recharge hindered by the impervious surface of human development, and their behavior is described using Darcy's Law.  They are generally not formed from clay soils, which form confining layers instead, but are instead formed": {
+    "guess": "Aquifer",
+    "confidence": [
+      [
+        "Aqu",
+        -0.00055577443
+      ],
+      [
+        "ifer",
+        -2.7610455e-05
+      ]
+    ]
+  },
+  "The Ghyben-Herzberg relation models one important threat to these things, and in the absence of certain formations they will rise to the potentiometric surface.  Normally found within the phreatic zone, perched examples of these are instead found in the vadose zone.  These formations which can naturally suffer from arsenic contamination and saline intrusion often see their recharge hindered by the impervious surface of human development, and their behavior is described using Darcy's Law.  They are generally not formed from clay soils, which form confining layers instead, but are instead formed from sand or fractured bedrock.  For 10 points, name these porous geological formations which store": {
+    "guess": "Aquifer",
+    "confidence": [
+      [
+        "Aqu",
+        -4.723352e-06
+      ],
+      [
+        "ifer",
+        -0.00023059595
+      ]
+    ]
+  },
+  "The Ghyben-Herzberg relation models one important threat to these things, and in the absence of certain formations they will rise to the potentiometric surface.  Normally found within the phreatic zone, perched examples of these are instead found in the vadose zone.  These formations which can naturally suffer from arsenic contamination and saline intrusion often see their recharge hindered by the impervious surface of human development, and their behavior is described using Darcy's Law.  They are generally not formed from clay soils, which form confining layers instead, but are instead formed from sand or fractured bedrock.  For 10 points, name these porous geological formations which store ground water.": {
+    "guess": "Aquifer",
+    "confidence": [
+      [
+        "Aqu",
+        -0.0008151085
+      ],
+      [
+        "ifer",
+        -0.00020354039
+      ]
+    ]
+  }
+}

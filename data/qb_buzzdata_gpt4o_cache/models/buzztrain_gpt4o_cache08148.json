@@ -1,0 +1,74 @@
+{
+  "The \"vexillations\" took back territory conquered by this figure, whose major victory occurred at what": {
+    "guess": "Trajan",
+    "confidence": [
+      [
+        "Tra",
+        -0.34902745
+      ],
+      [
+        "jan",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "The \"vexillations\" took back territory conquered by this figure, whose major victory occurred at what is now Fenny Stratford. During the absence of Sueotonius Paulinus, (*) Verulamium and  Camulodunum": {
+    "guess": "Boudica's uprising",
+    "confidence": [
+      [
+        "B",
+        -0.049916677
+      ],
+      [
+        "oud",
+        -1.9361265e-07
+      ],
+      [
+        "ica",
+        -4.4849444e-06
+      ],
+      [
+        "'s",
+        -0.13680895
+      ],
+      [
+        " uprising",
+        -0.4883161
+      ]
+    ]
+  },
+  "The \"vexillations\" took back territory conquered by this figure, whose major victory occurred at what is now Fenny Stratford. During the absence of Sueotonius Paulinus, (*) Verulamium and  Camulodunum were among the cities burned by this widow of Prasutagus, who avenged the annexation of the Iceni kingdom.": {
+    "guess": "Boudica",
+    "confidence": [
+      [
+        "B",
+        -0.0016150809
+      ],
+      [
+        "oud",
+        0.0
+      ],
+      [
+        "ica",
+        0.0
+      ]
+    ]
+  },
+  "The \"vexillations\" took back territory conquered by this figure, whose major victory occurred at what is now Fenny Stratford. During the absence of Sueotonius Paulinus, (*) Verulamium and  Camulodunum were among the cities burned by this widow of Prasutagus, who avenged the annexation of the Iceni kingdom. For 10 points\u2014 name this woman who revolted against Roman rule in Britain.": {
+    "guess": "Boudica",
+    "confidence": [
+      [
+        "B",
+        -0.0016539982
+      ],
+      [
+        "oud",
+        0.0
+      ],
+      [
+        "ica",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "Czyz developed a replacement for it to be used in marine environments. Developed by its namesake along": {
+    "guess": "Portland cement",
+    "confidence": [
+      [
+        "Port",
+        -0.8631624
+      ],
+      [
+        "land",
+        -1.147242e-06
+      ],
+      [
+        " cement",
+        -0.00023298002
+      ]
+    ]
+  },
+  "Czyz developed a replacement for it to be used in marine environments. Developed by its namesake along with Frank Lee and William Durston, it requires mutations in the excision repair system and lipopolysaccharide": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.48969448
+      ]
+    ]
+  },
+  "Czyz developed a replacement for it to be used in marine environments. Developed by its namesake along with Frank Lee and William Durston, it requires mutations in the excision repair system and lipopolysaccharide synthesis, the latter of which makes the cell wall more permeable. A mammalian liver extra": {
+    "guess": "Ames test",
+    "confidence": [
+      [
+        "A",
+        -0.13083048
+      ],
+      [
+        "mes",
+        -1.504853e-06
+      ],
+      [
+        " test",
+        -0.0067446167
+      ]
+    ]
+  },
+  "Czyz developed a replacement for it to be used in marine environments. Developed by its namesake along with Frank Lee and William Durston, it requires mutations in the excision repair system and lipopolysaccharide synthesis, the latter of which makes the cell wall more permeable. A mammalian liver extra is often used in this mutational reversion assay that employs several strains of Salmonella typhimurium,": {
+    "guess": "Ames test",
+    "confidence": [
+      [
+        "A",
+        -0.00039980648
+      ],
+      [
+        "mes",
+        0.0
+      ],
+      [
+        " test",
+        -0.0011732018
+      ]
+    ]
+  },
+  "Czyz developed a replacement for it to be used in marine environments. Developed by its namesake along with Frank Lee and William Durston, it requires mutations in the excision repair system and lipopolysaccharide synthesis, the latter of which makes the cell wall more permeable. A mammalian liver extra is often used in this mutational reversion assay that employs several strains of Salmonella typhimurium, each of which has a different mutation in the operon responsible for histidine. For 10 points,": {
+    "guess": "Ames test",
+    "confidence": [
+      [
+        "A",
+        -0.0035116917
+      ],
+      [
+        "mes",
+        0.0
+      ],
+      [
+        " test",
+        -0.0010350723
+      ]
+    ]
+  },
+  "Czyz developed a replacement for it to be used in marine environments. Developed by its namesake along with Frank Lee and William Durston, it requires mutations in the excision repair system and lipopolysaccharide synthesis, the latter of which makes the cell wall more permeable. A mammalian liver extra is often used in this mutational reversion assay that employs several strains of Salmonella typhimurium, each of which has a different mutation in the operon responsible for histidine. For 10 points, name this test used to detect carcinogens.": {
+    "guess": "Ames test",
+    "confidence": [
+      [
+        "A",
+        -4.8471098e-05
+      ],
+      [
+        "mes",
+        0.0
+      ],
+      [
+        " test",
+        -0.0011708178
+      ]
+    ]
+  }
+}

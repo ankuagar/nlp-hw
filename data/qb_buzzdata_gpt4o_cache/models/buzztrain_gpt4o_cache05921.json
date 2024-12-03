@@ -1,0 +1,67 @@
+{
+  "PKIKP travel times show that this region behaves as an anisotropic medium with cylindrical symmetry.": {
+    "guess": "Inner core",
+    "confidence": [
+      [
+        "Inner",
+        -0.47823095
+      ],
+      [
+        " core",
+        -0.06203054
+      ]
+    ]
+  },
+  "PKIKP travel times show that this region behaves as an anisotropic medium with cylindrical symmetry. It was discovered by Lehmann, who recognized weak arrivals in the P wave shadow zone. It is slowly growing": {
+    "guess": "Inner core",
+    "confidence": [
+      [
+        "Inner",
+        -0.0036113553
+      ],
+      [
+        " core",
+        -0.0052345945
+      ]
+    ]
+  },
+  "PKIKP travel times show that this region behaves as an anisotropic medium with cylindrical symmetry. It was discovered by Lehmann, who recognized weak arrivals in the P wave shadow zone. It is slowly growing by incongruent freezing at its surface, providing chemical buoyancy and energy for driving the": {
+    "guess": "Inner core",
+    "confidence": [
+      [
+        "Inner",
+        -0.06492156
+      ],
+      [
+        " core",
+        -0.0006086752
+      ]
+    ]
+  },
+  "PKIKP travel times show that this region behaves as an anisotropic medium with cylindrical symmetry. It was discovered by Lehmann, who recognized weak arrivals in the P wave shadow zone. It is slowly growing by incongruent freezing at its surface, providing chemical buoyancy and energy for driving the geodynamo in the layer above it. Fluctuations in the length of a day may be caused by super-rotation": {
+    "guess": "Inner core",
+    "confidence": [
+      [
+        "Inner",
+        -0.053667683
+      ],
+      [
+        " core",
+        -0.014167039
+      ]
+    ]
+  },
+  "PKIKP travel times show that this region behaves as an anisotropic medium with cylindrical symmetry. It was discovered by Lehmann, who recognized weak arrivals in the P wave shadow zone. It is slowly growing by incongruent freezing at its surface, providing chemical buoyancy and energy for driving the geodynamo in the layer above it. Fluctuations in the length of a day may be caused by super-rotation of this solid ball composed mainly of iron. FTP name this region at the center of the Earth.": {
+    "guess": "Inner core",
+    "confidence": [
+      [
+        "Inner",
+        -0.002516443
+      ],
+      [
+        " core",
+        -0.00026288547
+      ]
+    ]
+  }
+}

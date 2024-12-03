@@ -1,0 +1,435 @@
+{
+  "Attributions 17, 44, 55-61, 71, 73, 90, 92, 95-98, 111, 140, 268, 271, 311, 324, 325, and 510 are dubious": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.2921882
+      ]
+    ]
+  },
+  "Attributions 17, 44, 55-61, 71, 73, 90, 92, 95-98, 111, 140, 268, 271, 311, 324, 325, and 510 are dubious at best. Most recently revised by the scholar Alfred Einstein, Number 50 refers to the singspiel": {
+    "guess": "Mozart's compositions (K\u00f6chel catalogue)",
+    "confidence": [
+      [
+        "Moz",
+        -0.24183452
+      ],
+      [
+        "art",
+        -1.147242e-06
+      ],
+      [
+        "'s",
+        -0.04303219
+      ],
+      [
+        " compositions",
+        -1.0572098
+      ],
+      [
+        " (",
+        -0.65234375
+      ],
+      [
+        "K",
+        -0.01527484
+      ],
+      [
+        "\u00f6",
+        -0.012369555
+      ],
+      [
+        "chel",
+        0.0
+      ],
+      [
+        " catalogue",
+        -0.14697918
+      ],
+      [
+        ")",
+        -7.696077e-05
+      ]
+    ]
+  },
+  "Attributions 17, 44, 55-61, 71, 73, 90, 92, 95-98, 111, 140, 268, 271, 311, 324, 325, and 510 are dubious at best. Most recently revised by the scholar Alfred Einstein, Number 50 refers to the singspiel Bastien und Bastienne. Number 344 is the singspiel Zaide. Number 467 is the \"Elvira Madigan\" Piano": {
+    "guess": "K\u00f6chel catalogue",
+    "confidence": [
+      [
+        "K",
+        -0.42682981
+      ],
+      [
+        "\u00f6",
+        -0.00019567294
+      ],
+      [
+        "chel",
+        0.0
+      ],
+      [
+        " catalogue",
+        -0.022788806
+      ]
+    ]
+  },
+  "Attributions 17, 44, 55-61, 71, 73, 90, 92, 95-98, 111, 140, 268, 271, 311, 324, 325, and 510 are dubious at best. Most recently revised by the scholar Alfred Einstein, Number 50 refers to the singspiel Bastien und Bastienne. Number 344 is the singspiel Zaide. Number 467 is the \"Elvira Madigan\" Piano Concerto. Number 621 is the composer's last opera La Clemenza di Tito. FTP identify this list whose": {
+    "guess": "K\u00f6chel catalogue",
+    "confidence": [
+      [
+        "K",
+        -0.20400164
+      ],
+      [
+        "\u00f6",
+        -0.00033891908
+      ],
+      [
+        "chel",
+        0.0
+      ],
+      [
+        " catalogue",
+        -0.13637343
+      ]
+    ]
+  },
+  "Attributions 17, 44, 55-61, 71, 73, 90, 92, 95-98, 111, 140, 268, 271, 311, 324, 325, and 510 are dubious at best. Most recently revised by the scholar Alfred Einstein, Number 50 refers to the singspiel Bastien und Bastienne. Number 344 is the singspiel Zaide. Number 467 is the \"Elvira Madigan\" Piano Concerto. Number 621 is the composer's last opera La Clemenza di Tito. FTP identify this list whose entries also include Number 525--\"Eine kleine nachtmusik,\" and Number 551--\"The Jupiter--compiled by": {
+    "guess": "K\u00f6chel catalogue",
+    "confidence": [
+      [
+        "K",
+        -0.050607417
+      ],
+      [
+        "\u00f6",
+        -0.0001909048
+      ],
+      [
+        "chel",
+        0.0
+      ],
+      [
+        " catalogue",
+        -0.0279093
+      ]
+    ]
+  },
+  "Attributions 17, 44, 55-61, 71, 73, 90, 92, 95-98, 111, 140, 268, 271, 311, 324, 325, and 510 are dubious at best. Most recently revised by the scholar Alfred Einstein, Number 50 refers to the singspiel Bastien und Bastienne. Number 344 is the singspiel Zaide. Number 467 is the \"Elvira Madigan\" Piano Concerto. Number 621 is the composer's last opera La Clemenza di Tito. FTP identify this list whose entries also include Number 525--\"Eine kleine nachtmusik,\" and Number 551--\"The Jupiter--compiled by the Austrian musicologist it is named after.": {
+    "guess": "K\u00f6chel catalogue",
+    "confidence": [
+      [
+        "K",
+        -0.014786565
+      ],
+      [
+        "\u00f6",
+        -0.00019162003
+      ],
+      [
+        "chel",
+        0.0
+      ],
+      [
+        " catalogue",
+        -0.021945039
+      ]
+    ]
+  },
+  "As attorney general of California, he was best known for breaking racketeering rings, which lead to his": {
+    "guess": "Earl Warren",
+    "confidence": [
+      [
+        "E",
+        -0.051603977
+      ],
+      [
+        "arl",
+        -1.504853e-06
+      ],
+      [
+        " Warren",
+        0.0
+      ]
+    ]
+  },
+  "As attorney general of California, he was best known for breaking racketeering rings, which lead to his election as Republican governor in 1942, which he held for three terms. He lost only one election:": {
+    "guess": "Earl Warren",
+    "confidence": [
+      [
+        "E",
+        -0.0005587508
+      ],
+      [
+        "arl",
+        0.0
+      ],
+      [
+        " Warren",
+        0.0
+      ]
+    ]
+  },
+  "As attorney general of California, he was best known for breaking racketeering rings, which lead to his election as Republican governor in 1942, which he held for three terms. He lost only one election: the vice-presidency of the United States with Thomas Dewey as his running mate. However, this man": {
+    "guess": "Earl Warren",
+    "confidence": [
+      [
+        "E",
+        -0.025632171
+      ],
+      [
+        "arl",
+        0.0
+      ],
+      [
+        " Warren",
+        0.0
+      ]
+    ]
+  },
+  "As attorney general of California, he was best known for breaking racketeering rings, which lead to his election as Republican governor in 1942, which he held for three terms. He lost only one election: the vice-presidency of the United States with Thomas Dewey as his running mate. However, this man is better known for presiding over the Miranda case and for declaring \"separate but equal\" unconstitutional.": {
+    "guess": "Earl Warren",
+    "confidence": [
+      [
+        "E",
+        -0.008793724
+      ],
+      [
+        "arl",
+        0.0
+      ],
+      [
+        " Warren",
+        0.0
+      ]
+    ]
+  },
+  "As attorney general of California, he was best known for breaking racketeering rings, which lead to his election as Republican governor in 1942, which he held for three terms. He lost only one election: the vice-presidency of the United States with Thomas Dewey as his running mate. However, this man is better known for presiding over the Miranda case and for declaring \"separate but equal\" unconstitutional. FTP, identify this Chief Justice of the Supreme Court whose commission ruled that Oswald acted": {
+    "guess": "Earl Warren",
+    "confidence": [
+      [
+        "E",
+        -0.068845496
+      ],
+      [
+        "arl",
+        0.0
+      ],
+      [
+        " Warren",
+        0.0
+      ]
+    ]
+  },
+  "As attorney general of California, he was best known for breaking racketeering rings, which lead to his election as Republican governor in 1942, which he held for three terms. He lost only one election: the vice-presidency of the United States with Thomas Dewey as his running mate. However, this man is better known for presiding over the Miranda case and for declaring \"separate but equal\" unconstitutional. FTP, identify this Chief Justice of the Supreme Court whose commission ruled that Oswald acted alone.": {
+    "guess": "Earl Warren",
+    "confidence": [
+      [
+        "E",
+        -0.017356409
+      ],
+      [
+        "arl",
+        0.0
+      ],
+      [
+        " Warren",
+        0.0
+      ]
+    ]
+  },
+  "After attrracting the attention of incompetent spies for his activities with La Paria, he mailed the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6864225
+      ]
+    ]
+  },
+  "After attrracting the attention of incompetent spies for his activities with La Paria, he mailed the intelligence office a copy of his daily schedule. Much like Antonio Gramsci, he wrote a \"Notebook from": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.52991605
+      ],
+      [
+        ".",
+        -0.6931587
+      ]
+    ]
+  },
+  "After attrracting the attention of incompetent spies for his activities with La Paria, he mailed the intelligence office a copy of his daily schedule. Much like Antonio Gramsci, he wrote a \"Notebook from Prison\" before being freed through a backroom deal with the Chinese warlord Chiang Fakuei. He adopted": {
+    "guess": "Ho Chi Minh",
+    "confidence": [
+      [
+        "Ho",
+        -0.538527
+      ],
+      [
+        " Chi",
+        -3.5358695e-05
+      ],
+      [
+        " Minh",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "After attrracting the attention of incompetent spies for his activities with La Paria, he mailed the intelligence office a copy of his daily schedule. Much like Antonio Gramsci, he wrote a \"Notebook from Prison\" before being freed through a backroom deal with the Chinese warlord Chiang Fakuei. He adopted a name meaning \"he who enlightens\" and waited for his generals to defeat Jacques Leclerc, which": {
+    "guess": "Ho Chi Minh",
+    "confidence": [
+      [
+        "Ho",
+        -0.40969184
+      ],
+      [
+        " Chi",
+        -1.5332478e-05
+      ],
+      [
+        " Minh",
+        0.0
+      ]
+    ]
+  },
+  "After attrracting the attention of incompetent spies for his activities with La Paria, he mailed the intelligence office a copy of his daily schedule. Much like Antonio Gramsci, he wrote a \"Notebook from Prison\" before being freed through a backroom deal with the Chinese warlord Chiang Fakuei. He adopted a name meaning \"he who enlightens\" and waited for his generals to defeat Jacques Leclerc, which allowed him to lead one delegation to the Geneva Accords. FTP, name this man who engineered independence": {
+    "guess": "Ho Chi Minh",
+    "confidence": [
+      [
+        "Ho",
+        -0.7474257
+      ],
+      [
+        " Chi",
+        0.0
+      ],
+      [
+        " Minh",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "After attrracting the attention of incompetent spies for his activities with La Paria, he mailed the intelligence office a copy of his daily schedule. Much like Antonio Gramsci, he wrote a \"Notebook from Prison\" before being freed through a backroom deal with the Chinese warlord Chiang Fakuei. He adopted a name meaning \"he who enlightens\" and waited for his generals to defeat Jacques Leclerc, which allowed him to lead one delegation to the Geneva Accords. FTP, name this man who engineered independence from France as the founder of the Viet Minh, then died in 1969 as leader of a communist North": {
+    "guess": "Ho Chi Minh",
+    "confidence": [
+      [
+        "Ho",
+        -0.59931654
+      ],
+      [
+        " Chi",
+        0.0
+      ],
+      [
+        " Minh",
+        0.0
+      ]
+    ]
+  },
+  "After attrracting the attention of incompetent spies for his activities with La Paria, he mailed the intelligence office a copy of his daily schedule. Much like Antonio Gramsci, he wrote a \"Notebook from Prison\" before being freed through a backroom deal with the Chinese warlord Chiang Fakuei. He adopted a name meaning \"he who enlightens\" and waited for his generals to defeat Jacques Leclerc, which allowed him to lead one delegation to the Geneva Accords. FTP, name this man who engineered independence from France as the founder of the Viet Minh, then died in 1969 as leader of a communist North Vietnam.": {
+    "guess": "Ho Chi Minh",
+    "confidence": [
+      [
+        "Ho",
+        -0.00053075264
+      ],
+      [
+        " Chi",
+        0.0
+      ],
+      [
+        " Minh",
+        0.0
+      ]
+    ]
+  },
+  "The attractor of the H\u00e9non map provides one example, and the trajectory of a particle undergoing Brownian": {
+    "guess": "Strange attractor",
+    "confidence": [
+      [
+        "Str",
+        -0.23066697
+      ],
+      [
+        "ange",
+        0.0
+      ],
+      [
+        " attract",
+        -5.9080223e-05
+      ],
+      [
+        "or",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "The attractor of the H\u00e9non map provides one example, and the trajectory of a particle undergoing Brownian motion provides another. In general it refers to objects with Hausdorff dimension exceeding the": {
+    "guess": "Fractal",
+    "confidence": [
+      [
+        "Fr",
+        -0.00064952904
+      ],
+      [
+        "actal",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "The attractor of the H\u00e9non map provides one example, and the trajectory of a particle undergoing Brownian motion provides another. In general it refers to objects with Hausdorff dimension exceeding the topological dimension. Dividing an equilateral triangle into four smaller ones, removing the middle": {
+    "guess": "Fractal",
+    "confidence": [
+      [
+        "Fr",
+        -0.00061462435
+      ],
+      [
+        "actal",
+        -4.8425554e-06
+      ]
+    ]
+  },
+  "The attractor of the H\u00e9non map provides one example, and the trajectory of a particle undergoing Brownian motion provides another. In general it refers to objects with Hausdorff dimension exceeding the topological dimension. Dividing an equilateral triangle into four smaller ones, removing the middle one, and repeating the process on the remaining ones, one obtains another example of them, the Sierpinski": {
+    "guess": "Fractal",
+    "confidence": [
+      [
+        "Fr",
+        -0.005850697
+      ],
+      [
+        "actal",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "The attractor of the H\u00e9non map provides one example, and the trajectory of a particle undergoing Brownian motion provides another. In general it refers to objects with Hausdorff dimension exceeding the topological dimension. Dividing an equilateral triangle into four smaller ones, removing the middle one, and repeating the process on the remaining ones, one obtains another example of them, the Sierpinski gasket. The Koch snowflake is another example of, for 10 points, what word coined by Benoit Mandelbrot": {
+    "guess": "Fractal",
+    "confidence": [
+      [
+        "Fr",
+        -0.0002966128
+      ],
+      [
+        "actal",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "The attractor of the H\u00e9non map provides one example, and the trajectory of a particle undergoing Brownian motion provides another. In general it refers to objects with Hausdorff dimension exceeding the topological dimension. Dividing an equilateral triangle into four smaller ones, removing the middle one, and repeating the process on the remaining ones, one obtains another example of them, the Sierpinski gasket. The Koch snowflake is another example of, for 10 points, what word coined by Benoit Mandelbrot for shapes exhibiting self-similarity?": {
+    "guess": "Fractal",
+    "confidence": [
+      [
+        "Fr",
+        -3.1305768e-05
+      ],
+      [
+        "actal",
+        -9.615256e-05
+      ]
+    ]
+  }
+}

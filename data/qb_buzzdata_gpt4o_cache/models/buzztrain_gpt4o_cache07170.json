@@ -1,0 +1,839 @@
+{
+  "One squadron at Mingaladon defended Mandalay, while two more protected the Burma Road. Although they": {
+    "guess": "Flying Tigers",
+    "confidence": [
+      [
+        "Flying",
+        -0.007991644
+      ],
+      [
+        " Tigers",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "One squadron at Mingaladon defended Mandalay, while two more protected the Burma Road. Although they outperformed the Royal Air Force in the defense of Rangoon, the fall of their bases in Burma forced": {
+    "guess": "Flying Tigers",
+    "confidence": [
+      [
+        "Flying",
+        -0.01973445
+      ],
+      [
+        " Tigers",
+        -5.9153886e-06
+      ]
+    ]
+  },
+  "One squadron at Mingaladon defended Mandalay, while two more protected the Burma Road. Although they outperformed the Royal Air Force in the defense of Rangoon, the fall of their bases in Burma forced them over \"the hump\" into the interior of China, where they fought near Chungking.  Absorbed into the": {
+    "guess": "Flying Tigers",
+    "confidence": [
+      [
+        "Flying",
+        -0.0047991574
+      ],
+      [
+        " Tigers",
+        -2.9352968e-06
+      ]
+    ]
+  },
+  "One squadron at Mingaladon defended Mandalay, while two more protected the Burma Road. Although they outperformed the Royal Air Force in the defense of Rangoon, the fall of their bases in Burma forced them over \"the hump\" into the interior of China, where they fought near Chungking.  Absorbed into the Tenth Air Force after July 1942, they continued under the leadership of the man who raised them, Claire": {
+    "guess": "Flying Tigers",
+    "confidence": [
+      [
+        "Flying",
+        -0.013373625
+      ],
+      [
+        " Tigers",
+        -3.888926e-06
+      ]
+    ]
+  },
+  "One squadron at Mingaladon defended Mandalay, while two more protected the Burma Road. Although they outperformed the Royal Air Force in the defense of Rangoon, the fall of their bases in Burma forced them over \"the hump\" into the interior of China, where they fought near Chungking.  Absorbed into the Tenth Air Force after July 1942, they continued under the leadership of the man who raised them, Claire Chennault. In imitation of the British Desert Air Force, their P-40 Tomahawk fighters were painted": {
+    "guess": "Flying Tigers",
+    "confidence": [
+      [
+        "Flying",
+        -0.0074324617
+      ],
+      [
+        " Tigers",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "One squadron at Mingaladon defended Mandalay, while two more protected the Burma Road. Although they outperformed the Royal Air Force in the defense of Rangoon, the fall of their bases in Burma forced them over \"the hump\" into the interior of China, where they fought near Chungking.  Absorbed into the Tenth Air Force after July 1942, they continued under the leadership of the man who raised them, Claire Chennault. In imitation of the British Desert Air Force, their P-40 Tomahawk fighters were painted with shark's teeth, though the origins of their association with a different animal are mysterious.": {
+    "guess": "Flying Tigers",
+    "confidence": [
+      [
+        "Flying",
+        -0.0017530107
+      ],
+      [
+        " Tigers",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One squadron at Mingaladon defended Mandalay, while two more protected the Burma Road. Although they outperformed the Royal Air Force in the defense of Rangoon, the fall of their bases in Burma forced them over \"the hump\" into the interior of China, where they fought near Chungking.  Absorbed into the Tenth Air Force after July 1942, they continued under the leadership of the man who raised them, Claire Chennault. In imitation of the British Desert Air Force, their P-40 Tomahawk fighters were painted with shark's teeth, though the origins of their association with a different animal are mysterious. FTP, give this term for the American Volunteer Group, pilots who fought against the Japanese before": {
+    "guess": "Flying Tigers",
+    "confidence": [
+      [
+        "Flying",
+        -0.0008350008
+      ],
+      [
+        " Tigers",
+        0.0
+      ]
+    ]
+  },
+  "One squadron at Mingaladon defended Mandalay, while two more protected the Burma Road. Although they outperformed the Royal Air Force in the defense of Rangoon, the fall of their bases in Burma forced them over \"the hump\" into the interior of China, where they fought near Chungking.  Absorbed into the Tenth Air Force after July 1942, they continued under the leadership of the man who raised them, Claire Chennault. In imitation of the British Desert Air Force, their P-40 Tomahawk fighters were painted with shark's teeth, though the origins of their association with a different animal are mysterious. FTP, give this term for the American Volunteer Group, pilots who fought against the Japanese before America entered the Second World War.": {
+    "guess": "Flying Tigers",
+    "confidence": [
+      [
+        "Flying",
+        -0.00059699686
+      ],
+      [
+        " Tigers",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The square of this quantity multiplied by density times the Fanning friction factor over two equals the": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.16800171
+      ]
+    ]
+  },
+  "The square of this quantity multiplied by density times the Fanning friction factor over two equals the shear stress at the wall of a pipe. Multiplying the square of this quantity by density over the bulk": {
+    "guess": "Flow velocity",
+    "confidence": [
+      [
+        "Flow",
+        -0.44559532
+      ],
+      [
+        " velocity",
+        -0.01833185
+      ]
+    ]
+  },
+  "The square of this quantity multiplied by density times the Fanning friction factor over two equals the shear stress at the wall of a pipe. Multiplying the square of this quantity by density over the bulk modulus gives the Cauchy number. The divergence of this quantity times density plus the time derivative": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.04171967
+      ]
+    ]
+  },
+  "The square of this quantity multiplied by density times the Fanning friction factor over two equals the shear stress at the wall of a pipe. Multiplying the square of this quantity by density over the bulk modulus gives the Cauchy number. The divergence of this quantity times density plus the time derivative of density (*) equals zero according to one of Euler's equations, and Bernoulli's equation is": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.62623197
+      ]
+    ]
+  },
+  "The square of this quantity multiplied by density times the Fanning friction factor over two equals the shear stress at the wall of a pipe. Multiplying the square of this quantity by density over the bulk modulus gives the Cauchy number. The divergence of this quantity times density plus the time derivative of density (*) equals zero according to one of Euler's equations, and Bernoulli's equation is quadratic in this quantity. If the divergence of this quantity is zero, the flow is incompressible.": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.0072043017
+      ]
+    ]
+  },
+  "The square of this quantity multiplied by density times the Fanning friction factor over two equals the shear stress at the wall of a pipe. Multiplying the square of this quantity by density over the bulk modulus gives the Cauchy number. The divergence of this quantity times density plus the time derivative of density (*) equals zero according to one of Euler's equations, and Bernoulli's equation is quadratic in this quantity. If the divergence of this quantity is zero, the flow is incompressible. In a horizontal pipe, an increase in this quantity will be accompanied by a decrease in pressure.": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.010212854
+      ]
+    ]
+  },
+  "The square of this quantity multiplied by density times the Fanning friction factor over two equals the shear stress at the wall of a pipe. Multiplying the square of this quantity by density over the bulk modulus gives the Cauchy number. The divergence of this quantity times density plus the time derivative of density (*) equals zero according to one of Euler's equations, and Bernoulli's equation is quadratic in this quantity. If the divergence of this quantity is zero, the flow is incompressible. In a horizontal pipe, an increase in this quantity will be accompanied by a decrease in pressure. Taking the curl of this quantity gives the vorticity. For 10 points, give this quantity that expresses": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.0023984825
+      ]
+    ]
+  },
+  "The square of this quantity multiplied by density times the Fanning friction factor over two equals the shear stress at the wall of a pipe. Multiplying the square of this quantity by density over the bulk modulus gives the Cauchy number. The divergence of this quantity times density plus the time derivative of density (*) equals zero according to one of Euler's equations, and Bernoulli's equation is quadratic in this quantity. If the divergence of this quantity is zero, the flow is incompressible. In a horizontal pipe, an increase in this quantity will be accompanied by a decrease in pressure. Taking the curl of this quantity gives the vorticity. For 10 points, give this quantity that expresses the rate at which a fluid flows.": {
+    "guess": "Velocity",
+    "confidence": [
+      [
+        "Velocity",
+        -0.000975067
+      ]
+    ]
+  },
+  "Square One Television was a classic in children's edutainment; F10PE, identify the following about characters": {
+    "guess": "List of Square One Television characters",
+    "confidence": [
+      [
+        "List",
+        -1.0441008
+      ],
+      [
+        " of",
+        -0.0013261953
+      ],
+      [
+        " Square",
+        -0.0021201656
+      ],
+      [
+        " One",
+        -7.89631e-07
+      ],
+      [
+        " Television",
+        -0.10023805
+      ],
+      [
+        " characters",
+        -0.10833746
+      ]
+    ]
+  },
+  "Square One Television was a classic in children's edutainment; F10PE, identify the following about characters and sketches on that show.  A. One of the most popular sketches on Square One was this play": {
+    "guess": "Mathnet",
+    "confidence": [
+      [
+        "Math",
+        -0.021710252
+      ],
+      [
+        "net",
+        -0.00052813016
+      ]
+    ]
+  },
+  "Square One Television was a classic in children's edutainment; F10PE, identify the following about characters and sketches on that show.  A. One of the most popular sketches on Square One was this play on a classic 1950s television series. George Frankly was around for the entire series, but Kate Monday": {
+    "guess": "Dragnet (franchise)",
+    "confidence": [
+      [
+        "Drag",
+        -0.6475382
+      ],
+      [
+        "net",
+        -1.9361265e-07
+      ],
+      [
+        " (",
+        -0.05043016
+      ],
+      [
+        "fr",
+        -0.017310712
+      ],
+      [
+        "anchise",
+        -1.0280384e-06
+      ],
+      [
+        ")",
+        -6.6306106e-06
+      ]
+    ]
+  },
+  "Square One Television was a classic in children's edutainment; F10PE, identify the following about characters and sketches on that show.  A. One of the most popular sketches on Square One was this play on a classic 1950s television series. George Frankly was around for the entire series, but Kate Monday was replaced by Pat Tuesday after the setting was moved to New York.": {
+    "guess": "Mathnet",
+    "confidence": [
+      [
+        "Math",
+        -0.0029371679
+      ],
+      [
+        "net",
+        -0.00016373003
+      ]
+    ]
+  },
+  "At a square green table in the lower right foreground, two young men, a bearded pipe-smoking man in a": {
+    "guess": "The Night Caf\u00e9",
+    "confidence": [
+      [
+        "The",
+        -0.33123067
+      ],
+      [
+        " Night",
+        -0.23115471
+      ],
+      [
+        " Caf\u00e9",
+        -0.032121904
+      ]
+    ]
+  },
+  "At a square green table in the lower right foreground, two young men, a bearded pipe-smoking man in a black top hat and another holding a pen and wearing a straw hat, watch the action in the rest of this": {
+    "guess": "The Night Caf\u00e9",
+    "confidence": [
+      [
+        "The",
+        -0.8634119
+      ],
+      [
+        " Night",
+        -0.41858882
+      ],
+      [
+        " Caf\u00e9",
+        -0.033091012
+      ]
+    ]
+  },
+  "At a square green table in the lower right foreground, two young men, a bearded pipe-smoking man in a black top hat and another holding a pen and wearing a straw hat, watch the action in the rest of this painting, while the other man at the table faces away from the viewer to converse with a seated woman": {
+    "guess": "A Bar at the Folies-Berg\u00e8re",
+    "confidence": [
+      [
+        "A",
+        -1.1933992
+      ],
+      [
+        " Bar",
+        -0.12773627
+      ],
+      [
+        " at",
+        -2.3392786e-06
+      ],
+      [
+        " the",
+        -6.704273e-07
+      ],
+      [
+        " Fol",
+        -1.9361265e-07
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        "-B",
+        -3.5477897e-05
+      ],
+      [
+        "erg",
+        0.0
+      ],
+      [
+        "\u00e8re",
+        -2.1650272e-05
+      ]
+    ]
+  },
+  "At a square green table in the lower right foreground, two young men, a bearded pipe-smoking man in a black top hat and another holding a pen and wearing a straw hat, watch the action in the rest of this painting, while the other man at the table faces away from the viewer to converse with a seated woman in a blue and yellow striped dress and a standing one in black. They are the sisters Estelle and": {
+    "guess": "Le D\u00e9jeuner des Canotiers",
+    "confidence": [
+      [
+        "Le",
+        -0.7200023
+      ],
+      [
+        " D\u00e9",
+        -0.63753045
+      ],
+      [
+        "jeuner",
+        -1.5451682e-05
+      ],
+      [
+        " des",
+        -0.020837551
+      ],
+      [
+        " Can",
+        -0.25197762
+      ],
+      [
+        "oti",
+        -4.3202e-07
+      ],
+      [
+        "ers",
+        0.0
+      ]
+    ]
+  },
+  "At a square green table in the lower right foreground, two young men, a bearded pipe-smoking man in a black top hat and another holding a pen and wearing a straw hat, watch the action in the rest of this painting, while the other man at the table faces away from the viewer to converse with a seated woman in a blue and yellow striped dress and a standing one in black. They are the sisters Estelle and Jeanne, two regular models for the artist. The crowded background scene is highlighted by tress, street": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.90530187
+      ]
+    ]
+  },
+  "At a square green table in the lower right foreground, two young men, a bearded pipe-smoking man in a black top hat and another holding a pen and wearing a straw hat, watch the action in the rest of this painting, while the other man at the table faces away from the viewer to converse with a seated woman in a blue and yellow striped dress and a standing one in black. They are the sisters Estelle and Jeanne, two regular models for the artist. The crowded background scene is highlighted by tress, street lamps, and hanging chandeliers, and another friend of the artist, the painter Pedro Cardenas,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.67439437
+      ]
+    ]
+  },
+  "At a square green table in the lower right foreground, two young men, a bearded pipe-smoking man in a black top hat and another holding a pen and wearing a straw hat, watch the action in the rest of this painting, while the other man at the table faces away from the viewer to converse with a seated woman in a blue and yellow striped dress and a standing one in black. They are the sisters Estelle and Jeanne, two regular models for the artist. The crowded background scene is highlighted by tress, street lamps, and hanging chandeliers, and another friend of the artist, the painter Pedro Cardenas, can be seen on the left dancing with a woman as one of the many working class couples gathered in this": {
+    "guess": "Bal du moulin de la Galette",
+    "confidence": [
+      [
+        "Bal",
+        -0.9351138
+      ],
+      [
+        " du",
+        -0.011084135
+      ],
+      [
+        " moulin",
+        -0.014163982
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " la",
+        0.0
+      ],
+      [
+        " Gal",
+        -1.147242e-06
+      ],
+      [
+        "ette",
+        0.0
+      ]
+    ]
+  },
+  "At a square green table in the lower right foreground, two young men, a bearded pipe-smoking man in a black top hat and another holding a pen and wearing a straw hat, watch the action in the rest of this painting, while the other man at the table faces away from the viewer to converse with a seated woman in a blue and yellow striped dress and a standing one in black. They are the sisters Estelle and Jeanne, two regular models for the artist. The crowded background scene is highlighted by tress, street lamps, and hanging chandeliers, and another friend of the artist, the painter Pedro Cardenas, can be seen on the left dancing with a woman as one of the many working class couples gathered in this plein-air setting. FTP, identify this painting of a weekend afternoon ball at the titular Paris park,": {
+    "guess": "Bal du moulin de la Galette",
+    "confidence": [
+      [
+        "Bal",
+        -0.40699738
+      ],
+      [
+        " du",
+        -0.002192614
+      ],
+      [
+        " moulin",
+        -0.014163747
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " la",
+        0.0
+      ],
+      [
+        " Gal",
+        -1.2664457e-06
+      ],
+      [
+        "ette",
+        0.0
+      ]
+    ]
+  },
+  "At a square green table in the lower right foreground, two young men, a bearded pipe-smoking man in a black top hat and another holding a pen and wearing a straw hat, watch the action in the rest of this painting, while the other man at the table faces away from the viewer to converse with a seated woman in a blue and yellow striped dress and a standing one in black. They are the sisters Estelle and Jeanne, two regular models for the artist. The crowded background scene is highlighted by tress, street lamps, and hanging chandeliers, and another friend of the artist, the painter Pedro Cardenas, can be seen on the left dancing with a woman as one of the many working class couples gathered in this plein-air setting. FTP, identify this painting of a weekend afternoon ball at the titular Paris park, a work by Pierre Auguste Renoir.": {
+    "guess": "Bal du moulin de la Galette",
+    "confidence": [
+      [
+        "Bal",
+        -0.064119555
+      ],
+      [
+        " du",
+        -0.00062808703
+      ],
+      [
+        " moulin",
+        -0.018150296
+      ],
+      [
+        " de",
+        0.0
+      ],
+      [
+        " la",
+        0.0
+      ],
+      [
+        " Gal",
+        -9.0883464e-07
+      ],
+      [
+        "ette",
+        0.0
+      ]
+    ]
+  },
+  "The square of a constant related to this phenomenon is equal to the product of the permeability and permittivity": {
+    "guess": "Speed of light",
+    "confidence": [
+      [
+        "Speed",
+        -0.062112775
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " light",
+        -9.0907604e-05
+      ]
+    ]
+  },
+  "The square of a constant related to this phenomenon is equal to the product of the permeability and permittivity of a medium. A form of this phenomenon occurring in an anisotropic medium is known as the": {
+    "guess": "Faraday effect",
+    "confidence": [
+      [
+        "Far",
+        -0.16354986
+      ],
+      [
+        "aday",
+        -3.1281633e-07
+      ],
+      [
+        " effect",
+        -0.10382068
+      ]
+    ]
+  },
+  "The square of a constant related to this phenomenon is equal to the product of the permeability and permittivity of a medium. A form of this phenomenon occurring in an anisotropic medium is known as the \"double\" variety, or birefringence, whereas total internal reflection is actually another type of": {
+    "guess": "Refraction",
+    "confidence": [
+      [
+        "Ref",
+        -0.2658645
+      ],
+      [
+        "raction",
+        -7.465036e-06
+      ]
+    ]
+  },
+  "The square of a constant related to this phenomenon is equal to the product of the permeability and permittivity of a medium. A form of this phenomenon occurring in an anisotropic medium is known as the \"double\" variety, or birefringence, whereas total internal reflection is actually another type of this. The ratio of speed of light in air to that of a material is a coefficient in the trigonometric": {
+    "guess": "Refraction",
+    "confidence": [
+      [
+        "Ref",
+        -0.11129521
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The square of a constant related to this phenomenon is equal to the product of the permeability and permittivity of a medium. A form of this phenomenon occurring in an anisotropic medium is known as the \"double\" variety, or birefringence, whereas total internal reflection is actually another type of this. The ratio of speed of light in air to that of a material is a coefficient in the trigonometric law of Snellius and is known as the \"index\" of this process. FTP, name this \"bending\" of light rays": {
+    "guess": "Refraction",
+    "confidence": [
+      [
+        "Ref",
+        -0.0014740335
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The square of a constant related to this phenomenon is equal to the product of the permeability and permittivity of a medium. A form of this phenomenon occurring in an anisotropic medium is known as the \"double\" variety, or birefringence, whereas total internal reflection is actually another type of this. The ratio of speed of light in air to that of a material is a coefficient in the trigonometric law of Snellius and is known as the \"index\" of this process. FTP, name this \"bending\" of light rays when changing media.": {
+    "guess": "Refraction",
+    "confidence": [
+      [
+        "Ref",
+        -0.00073851546
+      ],
+      [
+        "raction",
+        0.0
+      ]
+    ]
+  },
+  "The square blocks used in the layout of this city are known are manzanas, and the only neighborhood in": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "Buenos",
+        -0.60217357
+      ],
+      [
+        " Aires",
+        0.0
+      ]
+    ]
+  },
+  "The square blocks used in the layout of this city are known are manzanas, and the only neighborhood in this city not based on the usual manzanas is Parque Chas. To the west, the limits of this city are": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "Buenos",
+        -0.0007132663
+      ],
+      [
+        " Aires",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The square blocks used in the layout of this city are known are manzanas, and the only neighborhood in this city not based on the usual manzanas is Parque Chas. To the west, the limits of this city are determined by the Avenida General Paz. To the south and southeast, the limits are determined by the": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "Buenos",
+        -4.8351892e-05
+      ],
+      [
+        " Aires",
+        0.0
+      ]
+    ]
+  },
+  "The square blocks used in the layout of this city are known are manzanas, and the only neighborhood in this city not based on the usual manzanas is Parque Chas. To the west, the limits of this city are determined by the Avenida General Paz. To the south and southeast, the limits are determined by the Matanza River. To the northeast and east, the limits are determined by the world's widest river, the": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "Buenos",
+        -0.0002972088
+      ],
+      [
+        " Aires",
+        0.0
+      ]
+    ]
+  },
+  "The square blocks used in the layout of this city are known are manzanas, and the only neighborhood in this city not based on the usual manzanas is Parque Chas. To the west, the limits of this city are determined by the Avenida General Paz. To the south and southeast, the limits are determined by the Matanza River. To the northeast and east, the limits are determined by the world's widest river, the R\u00eco de la Plata. For ten points, name this city which contains the Casa Rosada and the Plaza de Mayo,": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "Buenos",
+        -0.0009157439
+      ],
+      [
+        " Aires",
+        0.0
+      ]
+    ]
+  },
+  "The square blocks used in the layout of this city are known are manzanas, and the only neighborhood in this city not based on the usual manzanas is Parque Chas. To the west, the limits of this city are determined by the Avenida General Paz. To the south and southeast, the limits are determined by the Matanza River. To the northeast and east, the limits are determined by the world's widest river, the R\u00eco de la Plata. For ten points, name this city which contains the Casa Rosada and the Plaza de Mayo, the current national capital of Argentina.": {
+    "guess": "Buenos Aires",
+    "confidence": [
+      [
+        "Buenos",
+        -0.008618593
+      ],
+      [
+        " Aires",
+        0.0
+      ]
+    ]
+  },
+  "The square root of this quantity is obtained when the gamma function is evaluated at one-half, and it": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.0017449157
+      ]
+    ]
+  },
+  "The square root of this quantity is obtained when the gamma function is evaluated at one-half, and it can be approximated by Buffon's needle problem. The probability density function of the normal distribution": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.0024305978
+      ]
+    ]
+  },
+  "The square root of this quantity is obtained when the gamma function is evaluated at one-half, and it can be approximated by Buffon's needle problem. The probability density function of the normal distribution has a coefficient of two times this quantity all to the negative one-half power, and e to the": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.0036436687
+      ]
+    ]
+  },
+  "The square root of this quantity is obtained when the gamma function is evaluated at one-half, and it can be approximated by Buffon's needle problem. The probability density function of the normal distribution has a coefficient of two times this quantity all to the negative one-half power, and e to the i raised to this power equals negative 1. The sine function equals zero at integer multiples of it.": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.0013646431
+      ]
+    ]
+  },
+  "The square root of this quantity is obtained when the gamma function is evaluated at one-half, and it can be approximated by Buffon's needle problem. The probability density function of the normal distribution has a coefficient of two times this quantity all to the negative one-half power, and e to the i raised to this power equals negative 1. The sine function equals zero at integer multiples of it. It is multiplied by four-thirds times the radius cubed to find the volume of a sphere, and it is": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.0021070787
+      ]
+    ]
+  },
+  "The square root of this quantity is obtained when the gamma function is evaluated at one-half, and it can be approximated by Buffon's needle problem. The probability density function of the normal distribution has a coefficient of two times this quantity all to the negative one-half power, and e to the i raised to this power equals negative 1. The sine function equals zero at integer multiples of it. It is multiplied by four-thirds times the radius cubed to find the volume of a sphere, and it is also the ratio of a circle's circumference to its diameter. For 10 points, name this transcendental": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.0004485461
+      ]
+    ]
+  },
+  "The square root of this quantity is obtained when the gamma function is evaluated at one-half, and it can be approximated by Buffon's needle problem. The probability density function of the normal distribution has a coefficient of two times this quantity all to the negative one-half power, and e to the i raised to this power equals negative 1. The sine function equals zero at integer multiples of it. It is multiplied by four-thirds times the radius cubed to find the volume of a sphere, and it is also the ratio of a circle's circumference to its diameter. For 10 points, name this transcendental number commonly approximated as 3.14.": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.00038467496
+      ]
+    ]
+  },
+  "The square of this quantity is defined as 2 in Rydberg atomic units. The root-mean-square fluctuation": {
+    "guess": "Bohr radius",
+    "confidence": [
+      [
+        "Bo",
+        -1.4459254
+      ],
+      [
+        "hr",
+        0.0
+      ],
+      [
+        " radius",
+        -0.10028269
+      ]
+    ]
+  },
+  "The square of this quantity is defined as 2 in Rydberg atomic units. The root-mean-square fluctuation in shot noise equals the square root of 2 times the current times the bandwidth times this quantity.": {
+    "guess": "Elementary charge",
+    "confidence": [
+      [
+        "Elementary",
+        -0.54918057
+      ],
+      [
+        " charge",
+        -7.302705e-05
+      ]
+    ]
+  },
+  "The square of this quantity is defined as 2 in Rydberg atomic units. The root-mean-square fluctuation in shot noise equals the square root of 2 times the current times the bandwidth times this quantity. This quantity is equal to 2 divided by the product of the Von Klitzing and Josephson constants, allowing": {
+    "guess": "Elementary charge",
+    "confidence": [
+      [
+        "Elementary",
+        -0.04311395
+      ],
+      [
+        " charge",
+        -9.281486e-05
+      ]
+    ]
+  },
+  "The square of this quantity is defined as 2 in Rydberg atomic units. The root-mean-square fluctuation in shot noise equals the square root of 2 times the current times the bandwidth times this quantity. This quantity is equal to 2 divided by the product of the Von Klitzing and Josephson constants, allowing for this quantity and Planck's constant to be determined using watt balance experiments. This": {
+    "guess": "Elementary charge",
+    "confidence": [
+      [
+        "Elementary",
+        -0.03523441
+      ],
+      [
+        " charge",
+        -0.00023441046
+      ]
+    ]
+  },
+  "The square of this quantity is defined as 2 in Rydberg atomic units. The root-mean-square fluctuation in shot noise equals the square root of 2 times the current times the bandwidth times this quantity. This quantity is equal to 2 divided by the product of the Von Klitzing and Josephson constants, allowing for this quantity and Planck's constant to be determined using watt balance experiments. This quantity appears squared in the numerators of the expressions for the plasma frequency and the (*)": {
+    "guess": "Elementary charge",
+    "confidence": [
+      [
+        "Elementary",
+        -0.01893923
+      ],
+      [
+        " charge",
+        -5.371606e-05
+      ]
+    ]
+  },
+  "The square of this quantity is defined as 2 in Rydberg atomic units. The root-mean-square fluctuation in shot noise equals the square root of 2 times the current times the bandwidth times this quantity. This quantity is equal to 2 divided by the product of the Von Klitzing and Josephson constants, allowing for this quantity and Planck's constant to be determined using watt balance experiments. This quantity appears squared in the numerators of the expressions for the plasma frequency and the (*) fine structure constant. An experiment to measure this quantity achieved a low result by using an incorrect": {
+    "guess": "Elementary charge",
+    "confidence": [
+      [
+        "Elementary",
+        -0.55854696
+      ],
+      [
+        " charge",
+        -0.0012558266
+      ]
+    ]
+  },
+  "The square of this quantity is defined as 2 in Rydberg atomic units. The root-mean-square fluctuation in shot noise equals the square root of 2 times the current times the bandwidth times this quantity. This quantity is equal to 2 divided by the product of the Von Klitzing and Josephson constants, allowing for this quantity and Planck's constant to be determined using watt balance experiments. This quantity appears squared in the numerators of the expressions for the plasma frequency and the (*) fine structure constant. An experiment to measure this quantity achieved a low result by using an incorrect value for the viscosity of air, which was ionized using X-rays. That experiment measured the": {
+    "guess": "Elementary charge",
+    "confidence": [
+      [
+        "Elementary",
+        -0.81350434
+      ],
+      [
+        " charge",
+        -0.003231306
+      ]
+    ]
+  },
+  "The square of this quantity is defined as 2 in Rydberg atomic units. The root-mean-square fluctuation in shot noise equals the square root of 2 times the current times the bandwidth times this quantity. This quantity is equal to 2 divided by the product of the Von Klitzing and Josephson constants, allowing for this quantity and Planck's constant to be determined using watt balance experiments. This quantity appears squared in the numerators of the expressions for the plasma frequency and the (*) fine structure constant. An experiment to measure this quantity achieved a low result by using an incorrect value for the viscosity of air, which was ionized using X-rays. That experiment measured the terminal velocity of drops of oil and was performed by Robert Millikan. For 10 points, name this constant": {
+    "guess": "Elementary charge",
+    "confidence": [
+      [
+        "Elementary",
+        -0.0024952795
+      ],
+      [
+        " charge",
+        -5.1689596e-05
+      ]
+    ]
+  },
+  "The square of this quantity is defined as 2 in Rydberg atomic units. The root-mean-square fluctuation in shot noise equals the square root of 2 times the current times the bandwidth times this quantity. This quantity is equal to 2 divided by the product of the Von Klitzing and Josephson constants, allowing for this quantity and Planck's constant to be determined using watt balance experiments. This quantity appears squared in the numerators of the expressions for the plasma frequency and the (*) fine structure constant. An experiment to measure this quantity achieved a low result by using an incorrect value for the viscosity of air, which was ionized using X-rays. That experiment measured the terminal velocity of drops of oil and was performed by Robert Millikan. For 10 points, name this constant equal to minus 1.602 times 10 to the minus 19 Coulombs.": {
+    "guess": "Elementary charge",
+    "confidence": [
+      [
+        "Elementary",
+        -0.007113399
+      ],
+      [
+        " charge",
+        -0.0010418595
+      ]
+    ]
+  }
+}

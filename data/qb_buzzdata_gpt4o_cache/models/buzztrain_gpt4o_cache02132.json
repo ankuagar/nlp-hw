@@ -1,0 +1,69 @@
+{
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are": {
+    "guess": "Desert",
+    "confidence": [
+      [
+        "Des",
+        -0.15676585
+      ],
+      [
+        "ert",
+        -0.038041495
+      ]
+    ]
+  },
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are concentrated between 20 and 40 degrees latitude. In the station model, its magnitude is denoted by flags": {
+    "guess": "Wind",
+    "confidence": [
+      [
+        "Wind",
+        -0.008821733
+      ]
+    ]
+  },
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are concentrated between 20 and 40 degrees latitude. In the station model, its magnitude is denoted by flags and pennants stemming from a barb, and isotachs indicate where it occurs at the same speed. In": {
+    "guess": "Wind",
+    "confidence": [
+      [
+        "Wind",
+        -0.008541406
+      ]
+    ]
+  },
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are concentrated between 20 and 40 degrees latitude. In the station model, its magnitude is denoted by flags and pennants stemming from a barb, and isotachs indicate where it occurs at the same speed. In the (*) doldrums, the prevailing form of it is weak, and this phenomenon causes erosion by aeolian processes.": {
+    "guess": "Wind",
+    "confidence": [
+      [
+        "Wind",
+        -0.0041049966
+      ]
+    ]
+  },
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are concentrated between 20 and 40 degrees latitude. In the station model, its magnitude is denoted by flags and pennants stemming from a barb, and isotachs indicate where it occurs at the same speed. In the (*) doldrums, the prevailing form of it is weak, and this phenomenon causes erosion by aeolian processes. It is rated on the Beaufort scale, and an anemometer measures its speed. The trade ones occur": {
+    "guess": "Wind",
+    "confidence": [
+      [
+        "Wind",
+        -0.00013500563
+      ]
+    ]
+  },
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are concentrated between 20 and 40 degrees latitude. In the station model, its magnitude is denoted by flags and pennants stemming from a barb, and isotachs indicate where it occurs at the same speed. In the (*) doldrums, the prevailing form of it is weak, and this phenomenon causes erosion by aeolian processes. It is rated on the Beaufort scale, and an anemometer measures its speed. The trade ones occur near the equator, and it causes ocean surface waves. Monsoons are seasonal types of, for ten points,": {
+    "guess": "Wind",
+    "confidence": [
+      [
+        "Wind",
+        -0.00023846338
+      ]
+    ]
+  },
+  "The Foehn [\"fain\"] type of this phenomenon is caused by adiabatic warming, and ergs formed by it are concentrated between 20 and 40 degrees latitude. In the station model, its magnitude is denoted by flags and pennants stemming from a barb, and isotachs indicate where it occurs at the same speed. In the (*) doldrums, the prevailing form of it is weak, and this phenomenon causes erosion by aeolian processes. It is rated on the Beaufort scale, and an anemometer measures its speed. The trade ones occur near the equator, and it causes ocean surface waves. Monsoons are seasonal types of, for ten points, what meteorological phenomenon, the movement of air?": {
+    "guess": "Wind",
+    "confidence": [
+      [
+        "Wind",
+        -2.58224e-05
+      ]
+    ]
+  }
+}

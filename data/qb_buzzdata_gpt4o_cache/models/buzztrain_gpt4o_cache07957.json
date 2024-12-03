@@ -1,0 +1,116 @@
+{
+  "Usage in the sixth century called this place a mountain despite the gospels calling it merely a place.": {
+    "guess": "Sermon on the Mount",
+    "confidence": [
+      [
+        "S",
+        -0.8558657
+      ],
+      [
+        "erm",
+        -3.0545007e-06
+      ],
+      [
+        "on",
+        0.0
+      ],
+      [
+        " on",
+        -5.080963e-06
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Mount",
+        -0.0004886921
+      ]
+    ]
+  },
+  "Usage in the sixth century called this place a mountain despite the gospels calling it merely a place. Constantine built the Church of Holy Sepulchre on this site but was disputed when scholars thought": {
+    "guess": "Golgotha",
+    "confidence": [
+      [
+        "G",
+        -0.20813856
+      ],
+      [
+        "olg",
+        -1.0280384e-06
+      ],
+      [
+        "otha",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Usage in the sixth century called this place a mountain despite the gospels calling it merely a place. Constantine built the Church of Holy Sepulchre on this site but was disputed when scholars thought this site was out of Jerusalem's old walls. After Herod Aggripa expanded the walls in 41 A.D. many": {
+    "guess": "Golgotha",
+    "confidence": [
+      [
+        "G",
+        -0.06524558
+      ],
+      [
+        "olg",
+        -3.1281633e-07
+      ],
+      [
+        "otha",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Usage in the sixth century called this place a mountain despite the gospels calling it merely a place. Constantine built the Church of Holy Sepulchre on this site but was disputed when scholars thought this site was out of Jerusalem's old walls. After Herod Aggripa expanded the walls in 41 A.D. many thought the church was the site of this important place in Christian beliefs. This place is mentioned": {
+    "guess": "Golgotha",
+    "confidence": [
+      [
+        "G",
+        -0.14494851
+      ],
+      [
+        "olg",
+        -5.5122365e-07
+      ],
+      [
+        "otha",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Usage in the sixth century called this place a mountain despite the gospels calling it merely a place. Constantine built the Church of Holy Sepulchre on this site but was disputed when scholars thought this site was out of Jerusalem's old walls. After Herod Aggripa expanded the walls in 41 A.D. many thought the church was the site of this important place in Christian beliefs. This place is mentioned in all four books of the gospels and is accepted as the place where Jesus was crucified. For ten points,": {
+    "guess": "Golgotha",
+    "confidence": [
+      [
+        "G",
+        -0.16666031
+      ],
+      [
+        "olg",
+        -3.1281633e-07
+      ],
+      [
+        "otha",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Usage in the sixth century called this place a mountain despite the gospels calling it merely a place. Constantine built the Church of Holy Sepulchre on this site but was disputed when scholars thought this site was out of Jerusalem's old walls. After Herod Aggripa expanded the walls in 41 A.D. many thought the church was the site of this important place in Christian beliefs. This place is mentioned in all four books of the gospels and is accepted as the place where Jesus was crucified. For ten points, name this site whose name means the place of the skull.": {
+    "guess": "Golgotha",
+    "confidence": [
+      [
+        "G",
+        -0.03029038
+      ],
+      [
+        "olg",
+        -1.9361265e-07
+      ],
+      [
+        "otha",
+        -4.3202e-07
+      ]
+    ]
+  }
+}

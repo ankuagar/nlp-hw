@@ -1,0 +1,66 @@
+{
+  "The Vaughan-type painting of his most famous subject shows a head and torso, while the Landsdowne type": {
+    "guess": "George Washington",
+    "confidence": [
+      [
+        "George",
+        -0.13192312
+      ],
+      [
+        " Washington",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Vaughan-type painting of his most famous subject shows a head and torso, while the Landsdowne type is a full-body portrait. The Athenaeum type is very frequently reproduced even though the bottom third": {
+    "guess": "Gilbert Stuart",
+    "confidence": [
+      [
+        "Gil",
+        -0.17656219
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " Stuart",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The Vaughan-type painting of his most famous subject shows a head and torso, while the Landsdowne type is a full-body portrait. The Athenaeum type is very frequently reproduced even though the bottom third of his canvas was left blank. FTP, name this artist best known for his three portraits of George": {
+    "guess": "Gilbert Stuart",
+    "confidence": [
+      [
+        "Gil",
+        -0.006814
+      ],
+      [
+        "bert",
+        -1.9361265e-07
+      ],
+      [
+        " Stuart",
+        0.0
+      ]
+    ]
+  },
+  "The Vaughan-type painting of his most famous subject shows a head and torso, while the Landsdowne type is a full-body portrait. The Athenaeum type is very frequently reproduced even though the bottom third of his canvas was left blank. FTP, name this artist best known for his three portraits of George Washington.": {
+    "guess": "Gilbert Stuart",
+    "confidence": [
+      [
+        "Gil",
+        -0.0022091393
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " Stuart",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "Bailey, Borwein, and Plouffe found an algorithm for extracting any of its hexdecimal digits.  Ramanujan": {
+    "guess": "Bailey\u2013Borwein\u2013Plouffe formula",
+    "confidence": [
+      [
+        "Ba",
+        -0.61621773
+      ],
+      [
+        "iley",
+        -1.147242e-06
+      ],
+      [
+        "\u2013",
+        -0.011051356
+      ],
+      [
+        "Bor",
+        -2.6968896e-06
+      ],
+      [
+        "wein",
+        0.0
+      ],
+      [
+        "\u2013",
+        -1.9361265e-07
+      ],
+      [
+        "Pl",
+        0.0
+      ],
+      [
+        "ou",
+        0.0
+      ],
+      [
+        "ffe",
+        0.0
+      ],
+      [
+        " formula",
+        -0.001273685
+      ]
+    ]
+  },
+  "Bailey, Borwein, and Plouffe found an algorithm for extracting any of its hexdecimal digits.  Ramanujan provided a quartically-convergent algorithm for computing it. Buffon linked it to probability in": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.0054438775
+      ]
+    ]
+  },
+  "Bailey, Borwein, and Plouffe found an algorithm for extracting any of its hexdecimal digits.  Ramanujan provided a quartically-convergent algorithm for computing it. Buffon linked it to probability in his needle problem and von Lindemann proved it was transcendental. For ten points, what number did Archimedes": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.0017075408
+      ]
+    ]
+  },
+  "Bailey, Borwein, and Plouffe found an algorithm for extracting any of its hexdecimal digits.  Ramanujan provided a quartically-convergent algorithm for computing it. Buffon linked it to probability in his needle problem and von Lindemann proved it was transcendental. For ten points, what number did Archimedes note lay between 3 and one-seventh and 3 and ten over seventy-one.": {
+    "guess": "Pi",
+    "confidence": [
+      [
+        "Pi",
+        -0.00064512214
+      ]
+    ]
+  }
+}

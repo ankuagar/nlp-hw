@@ -1,0 +1,56 @@
+{
+  "Hadamard regularized this operation under certain conditions by dropping divergent terms. Measure theory": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.12522525
+      ]
+    ]
+  },
+  "Hadamard regularized this operation under certain conditions by dropping divergent terms. Measure theory is used in Lebesgue's [le-bays] theory of this operation, and Fubini's theorem states that its order": {
+    "guess": "Integral",
+    "confidence": [
+      [
+        "Integral",
+        -0.68514985
+      ]
+    ]
+  },
+  "Hadamard regularized this operation under certain conditions by dropping divergent terms. Measure theory is used in Lebesgue's [le-bays] theory of this operation, and Fubini's theorem states that its order in iterated versions can be changed. For products of functions, this operation is often done(*)": {
+    "guess": "Integral",
+    "confidence": [
+      [
+        "Integral",
+        -0.75169504
+      ]
+    ]
+  },
+  "Hadamard regularized this operation under certain conditions by dropping divergent terms. Measure theory is used in Lebesgue's [le-bays] theory of this operation, and Fubini's theorem states that its order in iterated versions can be changed. For products of functions, this operation is often done(*) \"by parts.\" Simpson's Rule approximates this process using trapezoids, while Bernhard Riemann devised": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8160099
+      ]
+    ]
+  },
+  "Hadamard regularized this operation under certain conditions by dropping divergent terms. Measure theory is used in Lebesgue's [le-bays] theory of this operation, and Fubini's theorem states that its order in iterated versions can be changed. For products of functions, this operation is often done(*) \"by parts.\" Simpson's Rule approximates this process using trapezoids, while Bernhard Riemann devised a method using rectangles. The \"definite\" kind of this process finds the area under a curve. For": {
+    "guess": "Integration",
+    "confidence": [
+      [
+        "Integration",
+        -0.79973125
+      ]
+    ]
+  },
+  "Hadamard regularized this operation under certain conditions by dropping divergent terms. Measure theory is used in Lebesgue's [le-bays] theory of this operation, and Fubini's theorem states that its order in iterated versions can be changed. For products of functions, this operation is often done(*) \"by parts.\" Simpson's Rule approximates this process using trapezoids, while Bernhard Riemann devised a method using rectangles. The \"definite\" kind of this process finds the area under a curve. For 10 points, name this mathematical technique, the opposite of differentiation.": {
+    "guess": "Integration",
+    "confidence": [
+      [
+        "Integration",
+        -0.07442036
+      ]
+    ]
+  }
+}

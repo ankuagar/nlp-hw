@@ -1,0 +1,310 @@
+{
+  "Epoxides react with carbon ones of these compounds due to their increased ring strain to form alcohols,": {
+    "guess": "Grignard reagents",
+    "confidence": [
+      [
+        "Gr",
+        -0.14457895
+      ],
+      [
+        "ign",
+        -1.9361265e-07
+      ],
+      [
+        "ard",
+        -1.9361265e-07
+      ],
+      [
+        " reag",
+        -0.41452944
+      ],
+      [
+        "ents",
+        0.0
+      ]
+    ]
+  },
+  "Epoxides react with carbon ones of these compounds due to their increased ring strain to form alcohols, and carbonyl groups react with Grignard reagents because the Grignard reagent acts as one of these": {
+    "guess": "Nucleophile",
+    "confidence": [
+      [
+        "N",
+        -0.0024398626
+      ],
+      [
+        "ucle",
+        -1.9361265e-07
+      ],
+      [
+        "ophile",
+        -0.00012344286
+      ]
+    ]
+  },
+  "Epoxides react with carbon ones of these compounds due to their increased ring strain to form alcohols, and carbonyl groups react with Grignard reagents because the Grignard reagent acts as one of these compounds. Their strength increases with increasing polarizability and decreases with increasing electronegativity,": {
+    "guess": "Nucleophile",
+    "confidence": [
+      [
+        "N",
+        -0.0009512409
+      ],
+      [
+        "ucle",
+        -3.1281633e-07
+      ],
+      [
+        "ophile",
+        -7.493431e-05
+      ]
+    ]
+  },
+  "Epoxides react with carbon ones of these compounds due to their increased ring strain to form alcohols, and carbonyl groups react with Grignard reagents because the Grignard reagent acts as one of these compounds. Their strength increases with increasing polarizability and decreases with increasing electronegativity, and these compounds can be interchangeably called Lewis bases. The conjugates of weak": {
+    "guess": "Nucleophile",
+    "confidence": [
+      [
+        "N",
+        -0.008714558
+      ],
+      [
+        "ucle",
+        -9.0883464e-07
+      ],
+      [
+        "ophile",
+        -0.0040784013
+      ]
+    ]
+  },
+  "Epoxides react with carbon ones of these compounds due to their increased ring strain to form alcohols, and carbonyl groups react with Grignard reagents because the Grignard reagent acts as one of these compounds. Their strength increases with increasing polarizability and decreases with increasing electronegativity, and these compounds can be interchangeably called Lewis bases. The conjugates of weak Lewis acids can act as strong ones of these compounds, and these compounds take the place of the": {
+    "guess": "Nucleophile",
+    "confidence": [
+      [
+        "N",
+        -0.007670507
+      ],
+      [
+        "ucle",
+        -5.5122365e-07
+      ],
+      [
+        "ophile",
+        -0.0019286326
+      ]
+    ]
+  },
+  "Epoxides react with carbon ones of these compounds due to their increased ring strain to form alcohols, and carbonyl groups react with Grignard reagents because the Grignard reagent acts as one of these compounds. Their strength increases with increasing polarizability and decreases with increasing electronegativity, and these compounds can be interchangeably called Lewis bases. The conjugates of weak Lewis acids can act as strong ones of these compounds, and these compounds take the place of the leaving group on alkyl halides during SN1 and SN2 reactions. For 10 points, identify these compounds,": {
+    "guess": "Nucleophile",
+    "confidence": [
+      [
+        "N",
+        -0.002217465
+      ],
+      [
+        "ucle",
+        -1.9361265e-07
+      ],
+      [
+        "ophile",
+        -0.008614569
+      ]
+    ]
+  },
+  "Epoxides react with carbon ones of these compounds due to their increased ring strain to form alcohols, and carbonyl groups react with Grignard reagents because the Grignard reagent acts as one of these compounds. Their strength increases with increasing polarizability and decreases with increasing electronegativity, and these compounds can be interchangeably called Lewis bases. The conjugates of weak Lewis acids can act as strong ones of these compounds, and these compounds take the place of the leaving group on alkyl halides during SN1 and SN2 reactions. For 10 points, identify these compounds, whose name suggests that they love neutrons and protons.": {
+    "guess": "Nucleophile",
+    "confidence": [
+      [
+        "N",
+        -0.0017286106
+      ],
+      [
+        "ucle",
+        -1.9361265e-07
+      ],
+      [
+        "ophile",
+        -0.0040784013
+      ]
+    ]
+  },
+  "Epperson v. Arkansas struck down a state law forbidding this activity, while Edwards v. Aguillard invalidated": {
+    "guess": "Teaching of Evolution",
+    "confidence": [
+      [
+        "Teaching",
+        -0.09086047
+      ],
+      [
+        " of",
+        -0.24489865
+      ],
+      [
+        " Evolution",
+        -0.3959199
+      ]
+    ]
+  },
+  "Epperson v. Arkansas struck down a state law forbidding this activity, while Edwards v. Aguillard invalidated mandates that it be given only \"equal time.\" In 2005, John Jones ruled that a Dover, Pennsylvania,": {
+    "guess": "Intelligent Design",
+    "confidence": [
+      [
+        "Int",
+        -0.5449013
+      ],
+      [
+        "elligent",
+        -1.9361265e-07
+      ],
+      [
+        " Design",
+        -0.16023174
+      ]
+    ]
+  },
+  "Epperson v. Arkansas struck down a state law forbidding this activity, while Edwards v. Aguillard invalidated mandates that it be given only \"equal time.\" In 2005, John Jones ruled that a Dover, Pennsylvania, requirement to present an alternative to it violated the Establishment Clause. Weeks after the": {
+    "guess": "Teaching of Evolution",
+    "confidence": [
+      [
+        "Teaching",
+        -0.063663736
+      ],
+      [
+        " of",
+        -0.024043115
+      ],
+      [
+        " Evolution",
+        -0.16931827
+      ]
+    ]
+  },
+  "Epperson v. Arkansas struck down a state law forbidding this activity, while Edwards v. Aguillard invalidated mandates that it be given only \"equal time.\" In 2005, John Jones ruled that a Dover, Pennsylvania, requirement to present an alternative to it violated the Establishment Clause. Weeks after the Butler Act outlawed it, a football coach committed this act, resulting in litigation that saw William": {
+    "guess": "Teaching evolution",
+    "confidence": [
+      [
+        "Teaching",
+        -0.16681892
+      ],
+      [
+        " evolution",
+        -0.34901404
+      ]
+    ]
+  },
+  "Epperson v. Arkansas struck down a state law forbidding this activity, while Edwards v. Aguillard invalidated mandates that it be given only \"equal time.\" In 2005, John Jones ruled that a Dover, Pennsylvania, requirement to present an alternative to it violated the Establishment Clause. Weeks after the Butler Act outlawed it, a football coach committed this act, resulting in litigation that saw William Jennings Bryan, a self-described \"expert on the Bible,\" cross-examined by Clarence Darrow. FTP,": {
+    "guess": "Scopes Trial",
+    "confidence": [
+      [
+        "Scopes",
+        -0.09680632
+      ],
+      [
+        " Trial",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Epperson v. Arkansas struck down a state law forbidding this activity, while Edwards v. Aguillard invalidated mandates that it be given only \"equal time.\" In 2005, John Jones ruled that a Dover, Pennsylvania, requirement to present an alternative to it violated the Establishment Clause. Weeks after the Butler Act outlawed it, a football coach committed this act, resulting in litigation that saw William Jennings Bryan, a self-described \"expert on the Bible,\" cross-examined by Clarence Darrow. FTP, name this \"crime\" at the center of the 1925 Scopes Monkey Trial.": {
+    "guess": "Teaching evolution",
+    "confidence": [
+      [
+        "Teaching",
+        -0.0026921749
+      ],
+      [
+        " evolution",
+        -0.019625511
+      ]
+    ]
+  },
+  "Their eponymous \"desert\" is a gap in the mass function for close companions to solar-type stars. One": {
+    "guess": "Brown dwarf",
+    "confidence": [
+      [
+        "Brown",
+        -0.0015548591
+      ],
+      [
+        " dwarf",
+        -0.02676431
+      ]
+    ]
+  },
+  "Their eponymous \"desert\" is a gap in the mass function for close companions to solar-type stars. One of the first to be detected was Gleise 229B, which shows methane bands and is the prototype of the T": {
+    "guess": "Brown dwarf",
+    "confidence": [
+      [
+        "Brown",
+        -0.044286646
+      ],
+      [
+        " dwarf",
+        -0.0014124969
+      ]
+    ]
+  },
+  "Their eponymous \"desert\" is a gap in the mass function for close companions to solar-type stars. One of the first to be detected was Gleise 229B, which shows methane bands and is the prototype of the T class. An important diagnostic for these objects is the lithium test, which relies on the fact that": {
+    "guess": "Brown dwarf",
+    "confidence": [
+      [
+        "Brown",
+        -0.0031982735
+      ],
+      [
+        " dwarf",
+        -0.00049477146
+      ]
+    ]
+  },
+  "Their eponymous \"desert\" is a gap in the mass function for close companions to solar-type stars. One of the first to be detected was Gleise 229B, which shows methane bands and is the prototype of the T class. An important diagnostic for these objects is the lithium test, which relies on the fact that even late-type M class objects fuse their lithium fairly quickly. The largest of these objects are": {
+    "guess": "Brown dwarf",
+    "confidence": [
+      [
+        "Brown",
+        -0.0013033338
+      ],
+      [
+        " dwarf",
+        -0.00030781425
+      ]
+    ]
+  },
+  "Their eponymous \"desert\" is a gap in the mass function for close companions to solar-type stars. One of the first to be detected was Gleise 229B, which shows methane bands and is the prototype of the T class. An important diagnostic for these objects is the lithium test, which relies on the fact that even late-type M class objects fuse their lithium fairly quickly. The largest of these objects are found in the L spectral class, cooler than the M stars at the bottom of the main sequence. Ranging in": {
+    "guess": "Brown dwarf",
+    "confidence": [
+      [
+        "Brown",
+        -0.009621149
+      ],
+      [
+        " dwarf",
+        -0.00043448375
+      ]
+    ]
+  },
+  "Their eponymous \"desert\" is a gap in the mass function for close companions to solar-type stars. One of the first to be detected was Gleise 229B, which shows methane bands and is the prototype of the T class. An important diagnostic for these objects is the lithium test, which relies on the fact that even late-type M class objects fuse their lithium fairly quickly. The largest of these objects are found in the L spectral class, cooler than the M stars at the bottom of the main sequence. Ranging in mass from about 15 to 80 Jupiter masses, FTP name these \"failed stars\" which never achieve hydrogen": {
+    "guess": "Brown dwarf",
+    "confidence": [
+      [
+        "Brown",
+        -0.001049362
+      ],
+      [
+        " dwarf",
+        -0.00011915887
+      ]
+    ]
+  },
+  "Their eponymous \"desert\" is a gap in the mass function for close companions to solar-type stars. One of the first to be detected was Gleise 229B, which shows methane bands and is the prototype of the T class. An important diagnostic for these objects is the lithium test, which relies on the fact that even late-type M class objects fuse their lithium fairly quickly. The largest of these objects are found in the L spectral class, cooler than the M stars at the bottom of the main sequence. Ranging in mass from about 15 to 80 Jupiter masses, FTP name these \"failed stars\" which never achieve hydrogen fusion.": {
+    "guess": "Brown dwarf",
+    "confidence": [
+      [
+        "Brown",
+        -1.735894e-05
+      ],
+      [
+        " dwarf",
+        -7.910644e-05
+      ]
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "The ones originally on display at the Washington Gallery of Modern Art were nicknamed Orange, Cherry,": {
+    "guess": "Calder's \"Gwenfritz\"",
+    "confidence": [
+      [
+        "Cal",
+        -0.4889915
+      ],
+      [
+        "der",
+        -4.3202e-07
+      ],
+      [
+        "'s",
+        -0.011267331
+      ],
+      [
+        " \"",
+        -0.96185935
+      ],
+      [
+        "G",
+        -0.4194448
+      ],
+      [
+        "wen",
+        -0.038189065
+      ],
+      [
+        "f",
+        -0.00074256473
+      ],
+      [
+        "ritz",
+        -0.00026145502
+      ],
+      [
+        "\"",
+        -0.00057221355
+      ]
+    ]
+  },
+  "The ones originally on display at the Washington Gallery of Modern Art were nicknamed Orange, Cherry, Grape, and Mint. Gold soon joined them, and Orange recently sold for sixteen million dollars. They": {
+    "guess": "Campbell's Soup Cans",
+    "confidence": [
+      [
+        "Camp",
+        -0.7771683
+      ],
+      [
+        "bell",
+        -1.700133e-05
+      ],
+      [
+        "'s",
+        -0.00011760922
+      ],
+      [
+        " Soup",
+        -6.0345924e-06
+      ],
+      [
+        " C",
+        -1.4974867e-05
+      ],
+      [
+        "ans",
+        0.0
+      ]
+    ]
+  },
+  "The ones originally on display at the Washington Gallery of Modern Art were nicknamed Orange, Cherry, Grape, and Mint. Gold soon joined them, and Orange recently sold for sixteen million dollars. They were all created in late 1962, after the person shown had committed suicide, and based on a 1953 publicity": {
+    "guess": "Marilyn Diptych",
+    "confidence": [
+      [
+        "Mar",
+        -0.45916298
+      ],
+      [
+        "ilyn",
+        0.0
+      ],
+      [
+        " Dip",
+        -0.049031045
+      ],
+      [
+        "tych",
+        -6.9882217e-06
+      ]
+    ]
+  },
+  "The ones originally on display at the Washington Gallery of Modern Art were nicknamed Orange, Cherry, Grape, and Mint. Gold soon joined them, and Orange recently sold for sixteen million dollars. They were all created in late 1962, after the person shown had committed suicide, and based on a 1953 publicity photo. Diptych shows the same image fifty times. Name these silkscreen paintings created by Andy": {
+    "guess": "Marilyn Diptych",
+    "confidence": [
+      [
+        "Mar",
+        -0.063292295
+      ],
+      [
+        "ilyn",
+        0.0
+      ],
+      [
+        " Dip",
+        -0.02978092
+      ],
+      [
+        "tych",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The ones originally on display at the Washington Gallery of Modern Art were nicknamed Orange, Cherry, Grape, and Mint. Gold soon joined them, and Orange recently sold for sixteen million dollars. They were all created in late 1962, after the person shown had committed suicide, and based on a 1953 publicity photo. Diptych shows the same image fifty times. Name these silkscreen paintings created by Andy Warhol showing a very famous actress.": {
+    "guess": "Marilyn Diptych",
+    "confidence": [
+      [
+        "Mar",
+        -0.37433907
+      ],
+      [
+        "ilyn",
+        0.0
+      ],
+      [
+        " Dip",
+        -0.018162819
+      ],
+      [
+        "tych",
+        -1.9361265e-07
+      ]
+    ]
+  }
+}

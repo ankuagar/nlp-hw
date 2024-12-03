@@ -1,0 +1,747 @@
+{
+  "After Julius Caesar defeated Juba I at Thaspus, the Roman army in this region stationed itself at Lambessa.": {
+    "guess": "Africa (Roman province)",
+    "confidence": [
+      [
+        "Africa",
+        -0.79450995
+      ],
+      [
+        " (",
+        -0.074810125
+      ],
+      [
+        "Roman",
+        -4.0603656e-05
+      ],
+      [
+        " province",
+        -0.0017066054
+      ],
+      [
+        ")",
+        -3.6669935e-05
+      ]
+    ]
+  },
+  "After Julius Caesar defeated Juba I at Thaspus, the Roman army in this region stationed itself at Lambessa. The region was conquered by the Vandals in 429, but shortly before that it had become the center": {
+    "guess": "Africa (Roman province)",
+    "confidence": [
+      [
+        "Africa",
+        -0.42571184
+      ],
+      [
+        " (",
+        -0.20554018
+      ],
+      [
+        "Roman",
+        -0.000116417184
+      ],
+      [
+        " province",
+        -0.0010518653
+      ],
+      [
+        ")",
+        -1.7478143e-05
+      ]
+    ]
+  },
+  "After Julius Caesar defeated Juba I at Thaspus, the Roman army in this region stationed itself at Lambessa. The region was conquered by the Vandals in 429, but shortly before that it had become the center of the Donatist movement. During the long reign of Masinissa, it was initially allied with nearby": {
+    "guess": "Numidia",
+    "confidence": [
+      [
+        "Num",
+        -0.1702174
+      ],
+      [
+        "idia",
+        0.0
+      ]
+    ]
+  },
+  "After Julius Caesar defeated Juba I at Thaspus, the Roman army in this region stationed itself at Lambessa. The region was conquered by the Vandals in 429, but shortly before that it had become the center of the Donatist movement. During the long reign of Masinissa, it was initially allied with nearby Carthage in the Second Punic War but later switched sides. FTP, name this region, whose boundaries": {
+    "guess": "Numidia",
+    "confidence": [
+      [
+        "Num",
+        -0.012541672
+      ],
+      [
+        "idia",
+        0.0
+      ]
+    ]
+  },
+  "After Julius Caesar defeated Juba I at Thaspus, the Roman army in this region stationed itself at Lambessa. The region was conquered by the Vandals in 429, but shortly before that it had become the center of the Donatist movement. During the long reign of Masinissa, it was initially allied with nearby Carthage in the Second Punic War but later switched sides. FTP, name this region, whose boundaries coincided approximately with those of modern Algeria.": {
+    "guess": "Numidia",
+    "confidence": [
+      [
+        "Num",
+        -0.010882041
+      ],
+      [
+        "idia",
+        0.0
+      ]
+    ]
+  },
+  "Julie Bailey launched a campaign against the poor conditions of one of these places in Stafford, England.": {
+    "guess": "Mid Staffordshire NHS Foundation Trust scandal",
+    "confidence": [
+      [
+        "Mid",
+        -0.32296386
+      ],
+      [
+        " Stafford",
+        -0.0012653555
+      ],
+      [
+        "shire",
+        -1.9361265e-07
+      ],
+      [
+        " NHS",
+        -8.268255e-05
+      ],
+      [
+        " Foundation",
+        -6.122589e-05
+      ],
+      [
+        " Trust",
+        -3.1281633e-07
+      ],
+      [
+        " scandal",
+        -0.09192451
+      ]
+    ]
+  },
+  "Julie Bailey launched a campaign against the poor conditions of one of these places in Stafford, England. In 2013, Time magazine published a Steven Brill article attacking the practices of chargemasters": {
+    "guess": "Stafford Hospital scandal",
+    "confidence": [
+      [
+        "Staff",
+        -1.2256947
+      ],
+      [
+        "ord",
+        0.0
+      ],
+      [
+        " Hospital",
+        -1.378283e-05
+      ],
+      [
+        " scandal",
+        -0.014243894
+      ]
+    ]
+  },
+  "Julie Bailey launched a campaign against the poor conditions of one of these places in Stafford, England. In 2013, Time magazine published a Steven Brill article attacking the practices of chargemasters at these institutions. Robert A. Petzel resigned following a scandal involving these types of places": {
+    "guess": "Hospitals",
+    "confidence": [
+      [
+        "Hosp",
+        -0.1847953
+      ],
+      [
+        "itals",
+        0.0
+      ]
+    ]
+  },
+  "Julie Bailey launched a campaign against the poor conditions of one of these places in Stafford, England. In 2013, Time magazine published a Steven Brill article attacking the practices of chargemasters at these institutions. Robert A. Petzel resigned following a scandal involving these types of places in Phoenix, Arizona. Although he claimed that he was \"mad as hell\" over allegations involving these": {
+    "guess": "Hospitals",
+    "confidence": [
+      [
+        "Hosp",
+        -0.020779869
+      ],
+      [
+        "itals",
+        0.0
+      ]
+    ]
+  },
+  "Julie Bailey launched a campaign against the poor conditions of one of these places in Stafford, England. In 2013, Time magazine published a Steven Brill article attacking the practices of chargemasters at these institutions. Robert A. Petzel resigned following a scandal involving these types of places in Phoenix, Arizona. Although he claimed that he was \"mad as hell\" over allegations involving these places, Secretary Eric (*) Shinseki was grilled by Congress in May 2014 for the long wait times at": {
+    "guess": "Veterans Health Administration scandal of 2014",
+    "confidence": [
+      [
+        "Veter",
+        -0.79448986
+      ],
+      [
+        "ans",
+        -0.00016134596
+      ],
+      [
+        " Health",
+        -0.0076488648
+      ],
+      [
+        " Administration",
+        -7.89631e-07
+      ],
+      [
+        " scandal",
+        -0.0150963785
+      ],
+      [
+        " of",
+        -0.012147103
+      ],
+      [
+        " ",
+        0.0
+      ],
+      [
+        "201",
+        0.0
+      ],
+      [
+        "4",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Julie Bailey launched a campaign against the poor conditions of one of these places in Stafford, England. In 2013, Time magazine published a Steven Brill article attacking the practices of chargemasters at these institutions. Robert A. Petzel resigned following a scandal involving these types of places in Phoenix, Arizona. Although he claimed that he was \"mad as hell\" over allegations involving these places, Secretary Eric (*) Shinseki was grilled by Congress in May 2014 for the long wait times at a type of these places. In 2007, the Washington Post exposed the poor conditions of one of these places": {
+    "guess": "Hospitals",
+    "confidence": [
+      [
+        "Hosp",
+        -0.035710737
+      ],
+      [
+        "itals",
+        0.0
+      ]
+    ]
+  },
+  "Julie Bailey launched a campaign against the poor conditions of one of these places in Stafford, England. In 2013, Time magazine published a Steven Brill article attacking the practices of chargemasters at these institutions. Robert A. Petzel resigned following a scandal involving these types of places in Phoenix, Arizona. Although he claimed that he was \"mad as hell\" over allegations involving these places, Secretary Eric (*) Shinseki was grilled by Congress in May 2014 for the long wait times at a type of these places. In 2007, the Washington Post exposed the poor conditions of one of these places run by the Army that was named for Walter Reed. For 10 points, name these facilities operated": {
+    "guess": "Hospital",
+    "confidence": [
+      [
+        "Hospital",
+        -0.059439838
+      ]
+    ]
+  },
+  "Julie Bailey launched a campaign against the poor conditions of one of these places in Stafford, England. In 2013, Time magazine published a Steven Brill article attacking the practices of chargemasters at these institutions. Robert A. Petzel resigned following a scandal involving these types of places in Phoenix, Arizona. Although he claimed that he was \"mad as hell\" over allegations involving these places, Secretary Eric (*) Shinseki was grilled by Congress in May 2014 for the long wait times at a type of these places. In 2007, the Washington Post exposed the poor conditions of one of these places run by the Army that was named for Walter Reed. For 10 points, name these facilities operated by the Veterans Affairs administration.": {
+    "guess": "Veterans Health Administration scandal of 2014",
+    "confidence": [
+      [
+        "Veter",
+        -0.24797711
+      ],
+      [
+        "ans",
+        -0.00012523093
+      ],
+      [
+        " Health",
+        -0.023450218
+      ],
+      [
+        " Administration",
+        -6.869018e-06
+      ],
+      [
+        " scandal",
+        -0.15808555
+      ],
+      [
+        " of",
+        -0.39322168
+      ],
+      [
+        " ",
+        -1.9361265e-07
+      ],
+      [
+        "201",
+        -3.1281633e-07
+      ],
+      [
+        "4",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "Julian Larcombe Schley, who had earlier served as an advisor to Panama, was one head of this  organization.": {
+    "guess": "Panama Canal Authority",
+    "confidence": [
+      [
+        "Pan",
+        -0.044835262
+      ],
+      [
+        "ama",
+        0.0
+      ],
+      [
+        " Canal",
+        0.0
+      ],
+      [
+        " Authority",
+        -0.5557671
+      ]
+    ]
+  },
+  "Julian Larcombe Schley, who had earlier served as an advisor to Panama, was one head of this  organization. Another head of this organization, Raymond A. Wheeler, implemented the Pick-Sloan plan. One ": {
+    "guess": "United States Army Corps of Engineers",
+    "confidence": [
+      [
+        "United",
+        -0.22156584
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " Army",
+        -1.0325924e-05
+      ],
+      [
+        " Corps",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Engineers",
+        0.0
+      ]
+    ]
+  },
+  "Julian Larcombe Schley, who had earlier served as an advisor to Panama, was one head of this  organization. Another head of this organization, Raymond A. Wheeler, implemented the Pick-Sloan plan. One  former procurement officer for this organization, Bunnatine \"Bunny\" Greenhouse won a whistleblower ": {
+    "guess": "United States Army Corps of Engineers",
+    "confidence": [
+      [
+        "United",
+        -0.58560663
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " Army",
+        0.0
+      ],
+      [
+        " Corps",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Engineers",
+        0.0
+      ]
+    ]
+  },
+  "Julian Larcombe Schley, who had earlier served as an advisor to Panama, was one head of this  organization. Another head of this organization, Raymond A. Wheeler, implemented the Pick-Sloan plan. One  former procurement officer for this organization, Bunnatine \"Bunny\" Greenhouse won a whistleblower  lawsuit against it. The short film Operation Blue Jay was about this group's work in Greenland in the": {
+    "guess": "United States Army Corps of Engineers",
+    "confidence": [
+      [
+        "United",
+        -0.061122958
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " Army",
+        0.0
+      ],
+      [
+        " Corps",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Engineers",
+        0.0
+      ]
+    ]
+  },
+  "Julian Larcombe Schley, who had earlier served as an advisor to Panama, was one head of this  organization. Another head of this organization, Raymond A. Wheeler, implemented the Pick-Sloan plan. One  former procurement officer for this organization, Bunnatine \"Bunny\" Greenhouse won a whistleblower  lawsuit against it. The short film Operation Blue Jay was about this group's work in Greenland in the 1950s. This  organization did the initial work on the ALCAN in the 1940s. This group used Rome plows": {
+    "guess": "United States Army Corps of Engineers",
+    "confidence": [
+      [
+        "United",
+        -0.17029503
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " Army",
+        0.0
+      ],
+      [
+        " Corps",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Engineers",
+        0.0
+      ]
+    ]
+  },
+  "Julian Larcombe Schley, who had earlier served as an advisor to Panama, was one head of this  organization. Another head of this organization, Raymond A. Wheeler, implemented the Pick-Sloan plan. One  former procurement officer for this organization, Bunnatine \"Bunny\" Greenhouse won a whistleblower  lawsuit against it. The short film Operation Blue Jay was about this group's work in Greenland in the 1950s. This  organization did the initial work on the ALCAN in the 1940s. This group used Rome plows to destroy a jungle.  NASA contracted this organization to help build the Kennedy Space Center .This": {
+    "guess": "United States Army Corps of Engineers",
+    "confidence": [
+      [
+        "United",
+        -0.066177465
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " Army",
+        0.0
+      ],
+      [
+        " Corps",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Engineers",
+        0.0
+      ]
+    ]
+  },
+  "Julian Larcombe Schley, who had earlier served as an advisor to Panama, was one head of this  organization. Another head of this organization, Raymond A. Wheeler, implemented the Pick-Sloan plan. One  former procurement officer for this organization, Bunnatine \"Bunny\" Greenhouse won a whistleblower  lawsuit against it. The short film Operation Blue Jay was about this group's work in Greenland in the 1950s. This  organization did the initial work on the ALCAN in the 1940s. This group used Rome plows to destroy a jungle.  NASA contracted this organization to help build the Kennedy Space Center .This organization designed and built the  levees that failed during Hurricane Katrina. For 10 points,": {
+    "guess": "United States Army Corps of Engineers",
+    "confidence": [
+      [
+        "United",
+        -0.078457296
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " Army",
+        0.0
+      ],
+      [
+        " Corps",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Engineers",
+        0.0
+      ]
+    ]
+  },
+  "Julian Larcombe Schley, who had earlier served as an advisor to Panama, was one head of this  organization. Another head of this organization, Raymond A. Wheeler, implemented the Pick-Sloan plan. One  former procurement officer for this organization, Bunnatine \"Bunny\" Greenhouse won a whistleblower  lawsuit against it. The short film Operation Blue Jay was about this group's work in Greenland in the 1950s. This  organization did the initial work on the ALCAN in the 1940s. This group used Rome plows to destroy a jungle.  NASA contracted this organization to help build the Kennedy Space Center .This organization designed and built the  levees that failed during Hurricane Katrina. For 10 points, name this division of the Defense Department in charge  of military construction and flood control.": {
+    "guess": "United States Army Corps of Engineers",
+    "confidence": [
+      [
+        "United",
+        -0.019595938
+      ],
+      [
+        " States",
+        0.0
+      ],
+      [
+        " Army",
+        0.0
+      ],
+      [
+        " Corps",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Engineers",
+        0.0
+      ]
+    ]
+  },
+  "July twenty-second is the feast day of this patron saint of glovemakers, tanners, pharmacists, and hairstylists,": {
+    "guess": "Mary Magdalene",
+    "confidence": [
+      [
+        "Mary",
+        -7.4695905e-05
+      ],
+      [
+        " Magdal",
+        -2.1531068e-05
+      ],
+      [
+        "ene",
+        0.0
+      ]
+    ]
+  },
+  "July twenty-second is the feast day of this patron saint of glovemakers, tanners, pharmacists, and hairstylists, who according to Mark's and Luke's gospels was cleansed by Jesus of seven demons. Roman": {
+    "guess": "Mary Magdalene",
+    "confidence": [
+      [
+        "Mary",
+        -0.1344189
+      ],
+      [
+        " Magdal",
+        -5.5122365e-07
+      ],
+      [
+        "ene",
+        0.0
+      ]
+    ]
+  },
+  "July twenty-second is the feast day of this patron saint of glovemakers, tanners, pharmacists, and hairstylists, who according to Mark's and Luke's gospels was cleansed by Jesus of seven demons. Roman Catholic tradition differs from Protestantism and Eastern Orthodoxy in also considering her to be the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.70168185
+      ]
+    ]
+  },
+  "July twenty-second is the feast day of this patron saint of glovemakers, tanners, pharmacists, and hairstylists, who according to Mark's and Luke's gospels was cleansed by Jesus of seven demons. Roman Catholic tradition differs from Protestantism and Eastern Orthodoxy in also considering her to be the same person who pours perfume over Jesus'  feet in Bethany and is the sister of Lazarus and Martha.": {
+    "guess": "Mary Magdalene",
+    "confidence": [
+      [
+        "Mary",
+        -0.0029319413
+      ],
+      [
+        " Magdal",
+        -0.0003360582
+      ],
+      [
+        "ene",
+        0.0
+      ]
+    ]
+  },
+  "July twenty-second is the feast day of this patron saint of glovemakers, tanners, pharmacists, and hairstylists, who according to Mark's and Luke's gospels was cleansed by Jesus of seven demons. Roman Catholic tradition differs from Protestantism and Eastern Orthodoxy in also considering her to be the same person who pours perfume over Jesus'  feet in Bethany and is the sister of Lazarus and Martha. For 10 points, whom do the gospels record as the first witness of Jesus' resurrection?": {
+    "guess": "Mary Magdalene",
+    "confidence": [
+      [
+        "Mary",
+        -0.0067219953
+      ],
+      [
+        " Magdal",
+        0.0
+      ],
+      [
+        "ene",
+        0.0
+      ]
+    ]
+  },
+  "On July 16, insurgents attacked the home of inspector-general Nevelle, forcing him to retreat. The president": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.013831897
+      ]
+    ]
+  },
+  "On July 16, insurgents attacked the home of inspector-general Nevelle, forcing him to retreat. The president then called out the militia from four states. Despite Governor Mifflin's hesitance to fight": {
+    "guess": "Whiskey Rebellion",
+    "confidence": [
+      [
+        "Wh",
+        -0.0008058179
+      ],
+      [
+        "iskey",
+        0.0
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "On July 16, insurgents attacked the home of inspector-general Nevelle, forcing him to retreat. The president then called out the militia from four states. Despite Governor Mifflin's hesitance to fight the insurgence, the militia volunteered in great numbers, including many members of the Society of Friends.": {
+    "guess": "Whiskey Rebellion",
+    "confidence": [
+      [
+        "Wh",
+        -0.023396654
+      ],
+      [
+        "iskey",
+        -1.9361265e-07
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "On July 16, insurgents attacked the home of inspector-general Nevelle, forcing him to retreat. The president then called out the militia from four states. Despite Governor Mifflin's hesitance to fight the insurgence, the militia volunteered in great numbers, including many members of the Society of Friends. General Lee, governor of Virginia was appointed chief command. This is the story of the formation": {
+    "guess": "Whiskey Rebellion",
+    "confidence": [
+      [
+        "Wh",
+        -0.04864845
+      ],
+      [
+        "iskey",
+        0.0
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "On July 16, insurgents attacked the home of inspector-general Nevelle, forcing him to retreat. The president then called out the militia from four states. Despite Governor Mifflin's hesitance to fight the insurgence, the militia volunteered in great numbers, including many members of the Society of Friends. General Lee, governor of Virginia was appointed chief command. This is the story of the formation of a force to put down, FTP which rebellion of farmers in Western Pennsylvania.": {
+    "guess": "Whiskey Rebellion",
+    "confidence": [
+      [
+        "Wh",
+        -5.157039e-05
+      ],
+      [
+        "iskey",
+        0.0
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        0.0
+      ]
+    ]
+  },
+  "In July 2012, this company issued a $6.2 billion writedown that was partially due to its acquisition": {
+    "guess": "Microsoft",
+    "confidence": [
+      [
+        "Microsoft",
+        -0.5781813
+      ]
+    ]
+  },
+  "In July 2012, this company issued a $6.2 billion writedown that was partially due to its acquisition of aQuantive in 2007. One employee of this company left to become the CEO of Zynga after one of his": {
+    "guess": "Microsoft",
+    "confidence": [
+      [
+        "Microsoft",
+        -0.5328003
+      ]
+    ]
+  },
+  "In July 2012, this company issued a $6.2 billion writedown that was partially due to its acquisition of aQuantive in 2007. One employee of this company left to become the CEO of Zynga after one of his products was criticized for requiring (*) internet connectivity checks every 24 hours and restricting": {
+    "guess": "Don Mattrick",
+    "confidence": [
+      [
+        "Don",
+        -0.045118112
+      ],
+      [
+        " M",
+        -5.5122365e-07
+      ],
+      [
+        "attr",
+        0.0
+      ],
+      [
+        "ick",
+        0.0
+      ]
+    ]
+  },
+  "In July 2012, this company issued a $6.2 billion writedown that was partially due to its acquisition of aQuantive in 2007. One employee of this company left to become the CEO of Zynga after one of his products was criticized for requiring (*) internet connectivity checks every 24 hours and restricting game resales. The net loss this company experienced after releasing its first tablet contributed to": {
+    "guess": "Surface (Microsoft)",
+    "confidence": [
+      [
+        "Surface",
+        -0.3671066
+      ],
+      [
+        " (",
+        -0.027524684
+      ],
+      [
+        "Microsoft",
+        -0.24049024
+      ],
+      [
+        ")",
+        -0.22210105
+      ]
+    ]
+  },
+  "In July 2012, this company issued a $6.2 billion writedown that was partially due to its acquisition of aQuantive in 2007. One employee of this company left to become the CEO of Zynga after one of his products was criticized for requiring (*) internet connectivity checks every 24 hours and restricting game resales. The net loss this company experienced after releasing its first tablet contributed to the planned retirement of its CEO, Steve Ballmer. For ten points, name this corporation which recently": {
+    "guess": "Microsoft",
+    "confidence": [
+      [
+        "Microsoft",
+        -0.00866988
+      ]
+    ]
+  },
+  "In July 2012, this company issued a $6.2 billion writedown that was partially due to its acquisition of aQuantive in 2007. One employee of this company left to become the CEO of Zynga after one of his products was criticized for requiring (*) internet connectivity checks every 24 hours and restricting game resales. The net loss this company experienced after releasing its first tablet contributed to the planned retirement of its CEO, Steve Ballmer. For ten points, name this corporation which recently rolled out its Surface 2 tablets and released an update to Windows 8.": {
+    "guess": "Microsoft",
+    "confidence": [
+      [
+        "Microsoft",
+        -0.008840995
+      ]
+    ]
+  }
+}

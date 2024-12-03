@@ -1,0 +1,3735 @@
+{
+  "These entities can be described using Kr?ger-Vink notation. The Howie-Whelan theory was developed to": {
+    "guess": "Crystal defects",
+    "confidence": [
+      [
+        "Crystal",
+        -1.2070376
+      ],
+      [
+        " defects",
+        -0.33039662
+      ]
+    ]
+  },
+  "These entities can be described using Kr?ger-Vink notation. The Howie-Whelan theory was developed to account for them, and Kikuchi lines are used to select conditions under which to image them. The Brouwer": {
+    "guess": "Dislocation (crystal)",
+    "confidence": [
+      [
+        "Dis",
+        -0.06276815
+      ],
+      [
+        "location",
+        -0.31326404
+      ],
+      [
+        " (",
+        -0.20465496
+      ],
+      [
+        "cr",
+        -0.49603197
+      ],
+      [
+        "ystal",
+        -0.4922545
+      ],
+      [
+        ")",
+        -0.19059075
+      ]
+    ]
+  },
+  "These entities can be described using Kr?ger-Vink notation. The Howie-Whelan theory was developed to account for them, and Kikuchi lines are used to select conditions under which to image them. The Brouwer diagram plots the log of the change in their concentration against temperature or partial pressure": {
+    "guess": "Crystal defect",
+    "confidence": [
+      [
+        "Crystal",
+        -0.23002085
+      ],
+      [
+        " defect",
+        -0.048827402
+      ]
+    ]
+  },
+  "These entities can be described using Kr?ger-Vink notation. The Howie-Whelan theory was developed to account for them, and Kikuchi lines are used to select conditions under which to image them. The Brouwer diagram plots the log of the change in their concentration against temperature or partial pressure of oxygen. Wadsley ones occur due to randomly spaced shear planes, and linear ones can be classified": {
+    "guess": "Crystal defect",
+    "confidence": [
+      [
+        "Crystal",
+        -0.32653448
+      ],
+      [
+        " defect",
+        -0.38695678
+      ]
+    ]
+  },
+  "These entities can be described using Kr?ger-Vink notation. The Howie-Whelan theory was developed to account for them, and Kikuchi lines are used to select conditions under which to image them. The Brouwer diagram plots the log of the change in their concentration against temperature or partial pressure of oxygen. Wadsley ones occur due to randomly spaced shear planes, and linear ones can be classified using Volterra's method. The most common ones are named after Frenkel, in which an ion migrates": {
+    "guess": "Crystal defects",
+    "confidence": [
+      [
+        "Crystal",
+        -0.7456801
+      ],
+      [
+        " defects",
+        -0.014804661
+      ]
+    ]
+  },
+  "These entities can be described using Kr?ger-Vink notation. The Howie-Whelan theory was developed to account for them, and Kikuchi lines are used to select conditions under which to image them. The Brouwer diagram plots the log of the change in their concentration against temperature or partial pressure of oxygen. Wadsley ones occur due to randomly spaced shear planes, and linear ones can be classified using Volterra's method. The most common ones are named after Frenkel, in which an ion migrates to an interstitial site, and Schottky, in which both cations and anions are missing completely. Divided": {
+    "guess": "Defects in crystals",
+    "confidence": [
+      [
+        "Def",
+        -0.48835096
+      ],
+      [
+        "ects",
+        -5.8365e-05
+      ],
+      [
+        " in",
+        -0.51316947
+      ],
+      [
+        " crystals",
+        -0.764673
+      ]
+    ]
+  },
+  "These entities can be described using Kr?ger-Vink notation. The Howie-Whelan theory was developed to account for them, and Kikuchi lines are used to select conditions under which to image them. The Brouwer diagram plots the log of the change in their concentration against temperature or partial pressure of oxygen. Wadsley ones occur due to randomly spaced shear planes, and linear ones can be classified using Volterra's method. The most common ones are named after Frenkel, in which an ion migrates to an interstitial site, and Schottky, in which both cations and anions are missing completely. Divided into stoichiometric and non-stoichiometric varieties, for 10 points, name these places in a lattice": {
+    "guess": "Crystal defects",
+    "confidence": [
+      [
+        "Crystal",
+        -0.06483698
+      ],
+      [
+        " defects",
+        -0.008652627
+      ]
+    ]
+  },
+  "These entities can be described using Kr?ger-Vink notation. The Howie-Whelan theory was developed to account for them, and Kikuchi lines are used to select conditions under which to image them. The Brouwer diagram plots the log of the change in their concentration against temperature or partial pressure of oxygen. Wadsley ones occur due to randomly spaced shear planes, and linear ones can be classified using Volterra's method. The most common ones are named after Frenkel, in which an ion migrates to an interstitial site, and Schottky, in which both cations and anions are missing completely. Divided into stoichiometric and non-stoichiometric varieties, for 10 points, name these places in a lattice that contain misplaced atoms.": {
+    "guess": "Crystal defects",
+    "confidence": [
+      [
+        "Crystal",
+        -0.047624297
+      ],
+      [
+        " defects",
+        -0.02332176
+      ]
+    ]
+  },
+  "These entities can have an anti-terminator, such as LicT protein for sacPA, which stabilizes a secondary": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7840156
+      ]
+    ]
+  },
+  "These entities can have an anti-terminator, such as LicT protein for sacPA, which stabilizes a secondary RNA structure.  Early termination of their processes, which can occur via an alternate loop structure": {
+    "guess": "Riboswitch",
+    "confidence": [
+      [
+        "R",
+        -0.4939887
+      ],
+      [
+        "ib",
+        -0.16033745
+      ],
+      [
+        "os",
+        -0.0013319061
+      ],
+      [
+        "witch",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "These entities can have an anti-terminator, such as LicT protein for sacPA, which stabilizes a secondary RNA structure.  Early termination of their processes, which can occur via an alternate loop structure with excess of a particular amino acid, is known as attenuation.  They can be inducible, as by": {
+    "guess": "Operon",
+    "confidence": [
+      [
+        "Oper",
+        -0.004253508
+      ],
+      [
+        "on",
+        -0.0024756587
+      ]
+    ]
+  },
+  "These entities can have an anti-terminator, such as LicT protein for sacPA, which stabilizes a secondary RNA structure.  Early termination of their processes, which can occur via an alternate loop structure with excess of a particular amino acid, is known as attenuation.  They can be inducible, as by IPTG for a well known example, and they can contain two kinds of repressors: a translational one, and": {
+    "guess": "Operon",
+    "confidence": [
+      [
+        "Oper",
+        -0.023020083
+      ],
+      [
+        "on",
+        -0.38687146
+      ]
+    ]
+  },
+  "These entities can have an anti-terminator, such as LicT protein for sacPA, which stabilizes a secondary RNA structure.  Early termination of their processes, which can occur via an alternate loop structure with excess of a particular amino acid, is known as attenuation.  They can be inducible, as by IPTG for a well known example, and they can contain two kinds of repressors: a translational one, and a better understood transcriptional one, which binds to the operator site.  All of them must have": {
+    "guess": "Operon",
+    "confidence": [
+      [
+        "Oper",
+        -0.42433575
+      ],
+      [
+        "on",
+        -5.8365e-05
+      ]
+    ]
+  },
+  "These entities can have an anti-terminator, such as LicT protein for sacPA, which stabilizes a secondary RNA structure.  Early termination of their processes, which can occur via an alternate loop structure with excess of a particular amino acid, is known as attenuation.  They can be inducible, as by IPTG for a well known example, and they can contain two kinds of repressors: a translational one, and a better understood transcriptional one, which binds to the operator site.  All of them must have these operator sites, as well as promoter sites where RNA Polymerase originally binds.   FTP, name": {
+    "guess": "Operon",
+    "confidence": [
+      [
+        "Oper",
+        -0.005843112
+      ],
+      [
+        "on",
+        -0.011047815
+      ]
+    ]
+  },
+  "These entities can have an anti-terminator, such as LicT protein for sacPA, which stabilizes a secondary RNA structure.  Early termination of their processes, which can occur via an alternate loop structure with excess of a particular amino acid, is known as attenuation.  They can be inducible, as by IPTG for a well known example, and they can contain two kinds of repressors: a translational one, and a better understood transcriptional one, which binds to the operator site.  All of them must have these operator sites, as well as promoter sites where RNA Polymerase originally binds.   FTP, name these prokaryotic strips of DNA that regulate expression of related genes, which include the trp [trip]": {
+    "guess": "Operon",
+    "confidence": [
+      [
+        "Oper",
+        -0.00040278657
+      ],
+      [
+        "on",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "These entities can have an anti-terminator, such as LicT protein for sacPA, which stabilizes a secondary RNA structure.  Early termination of their processes, which can occur via an alternate loop structure with excess of a particular amino acid, is known as attenuation.  They can be inducible, as by IPTG for a well known example, and they can contain two kinds of repressors: a translational one, and a better understood transcriptional one, which binds to the operator site.  All of them must have these operator sites, as well as promoter sites where RNA Polymerase originally binds.   FTP, name these prokaryotic strips of DNA that regulate expression of related genes, which include the trp [trip] and lac varieties.": {
+    "guess": "Operon",
+    "confidence": [
+      [
+        "Oper",
+        -5.6219335e-05
+      ],
+      [
+        "on",
+        -0.0011702254
+      ]
+    ]
+  },
+  "This man was an enthusiastic angler, and he always wore a completely green outfit when fishing. Born": {
+    "guess": "Izaak Walton",
+    "confidence": [
+      [
+        "I",
+        -0.97370154
+      ],
+      [
+        "zaak",
+        -0.00016134596
+      ],
+      [
+        " Walton",
+        0.0
+      ]
+    ]
+  },
+  "This man was an enthusiastic angler, and he always wore a completely green outfit when fishing. Born in Penzance, he worked as an assistant at the Pneumatic Institute in Bristol, where he showed that heat": {
+    "guess": "Humphry Davy",
+    "confidence": [
+      [
+        "Hum",
+        -0.10928659
+      ],
+      [
+        "ph",
+        -1.504853e-06
+      ],
+      [
+        "ry",
+        -2.1008714e-06
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "avy",
+        0.0
+      ]
+    ]
+  },
+  "This man was an enthusiastic angler, and he always wore a completely green outfit when fishing. Born in Penzance, he worked as an assistant at the Pneumatic Institute in Bristol, where he showed that heat could be transmitted through a vacuum. His 1813 Elements of Agricultural Chemistry was the first": {
+    "guess": "Humphry Davy",
+    "confidence": [
+      [
+        "Hum",
+        -0.058591295
+      ],
+      [
+        "ph",
+        -9.0883464e-07
+      ],
+      [
+        "ry",
+        -1.9361265e-07
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "avy",
+        0.0
+      ]
+    ]
+  },
+  "This man was an enthusiastic angler, and he always wore a completely green outfit when fishing. Born in Penzance, he worked as an assistant at the Pneumatic Institute in Bristol, where he showed that heat could be transmitted through a vacuum. His 1813 Elements of Agricultural Chemistry was the first book to apply chemical principles systematically to farming, and two years later, he invented a safety": {
+    "guess": "Humphry Davy",
+    "confidence": [
+      [
+        "Hum",
+        -0.004840677
+      ],
+      [
+        "ph",
+        -5.5122365e-07
+      ],
+      [
+        "ry",
+        0.0
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "avy",
+        0.0
+      ]
+    ]
+  },
+  "This man was an enthusiastic angler, and he always wore a completely green outfit when fishing. Born in Penzance, he worked as an assistant at the Pneumatic Institute in Bristol, where he showed that heat could be transmitted through a vacuum. His 1813 Elements of Agricultural Chemistry was the first book to apply chemical principles systematically to farming, and two years later, he invented a safety arc lamp for miners. FTP, identify this chemist who showed that diamond is a form of carbon, and": {
+    "guess": "Humphry Davy",
+    "confidence": [
+      [
+        "Hum",
+        -0.17789347
+      ],
+      [
+        "ph",
+        -1.9816675e-06
+      ],
+      [
+        "ry",
+        0.0
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "avy",
+        0.0
+      ]
+    ]
+  },
+  "This man was an enthusiastic angler, and he always wore a completely green outfit when fishing. Born in Penzance, he worked as an assistant at the Pneumatic Institute in Bristol, where he showed that heat could be transmitted through a vacuum. His 1813 Elements of Agricultural Chemistry was the first book to apply chemical principles systematically to farming, and two years later, he invented a safety arc lamp for miners. FTP, identify this chemist who showed that diamond is a form of carbon, and discovered the elements boron, strontium, calcium, and sodium.": {
+    "guess": "Humphry Davy",
+    "confidence": [
+      [
+        "Hum",
+        -0.0013549984
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ry",
+        0.0
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "avy",
+        0.0
+      ]
+    ]
+  },
+  "In 1958 this entity paid $64.8 million to the shareholders of the Universal Suez Canal Company. Two years": {
+    "guess": "Suez Crisis",
+    "confidence": [
+      [
+        "S",
+        -0.2721215
+      ],
+      [
+        "uez",
+        -1.9862217e-05
+      ],
+      [
+        " Crisis",
+        -0.20237191
+      ]
+    ]
+  },
+  "In 1958 this entity paid $64.8 million to the shareholders of the Universal Suez Canal Company. Two years later it formed its first parliament, with representatives from the two constituent nations. Vice": {
+    "guess": "United Arab Republic",
+    "confidence": [
+      [
+        "United",
+        -0.022697672
+      ],
+      [
+        " Arab",
+        -1.9361265e-07
+      ],
+      [
+        " Republic",
+        -1.0325924e-05
+      ]
+    ]
+  },
+  "In 1958 this entity paid $64.8 million to the shareholders of the Universal Suez Canal Company. Two years later it formed its first parliament, with representatives from the two constituent nations. Vice President Nureddin Kuhalla and his country seceded from the union in 1961, but despite a failed attempt": {
+    "guess": "United Arab Republic",
+    "confidence": [
+      [
+        "United",
+        -0.0048251455
+      ],
+      [
+        " Arab",
+        -1.9361265e-07
+      ],
+      [
+        " Republic",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "In 1958 this entity paid $64.8 million to the shareholders of the Universal Suez Canal Company. Two years later it formed its first parliament, with representatives from the two constituent nations. Vice President Nureddin Kuhalla and his country seceded from the union in 1961, but despite a failed attempt at reunification with Syria and Iraq, the remaining country continued to use this name until": {
+    "guess": "United Arab Republic",
+    "confidence": [
+      [
+        "United",
+        -0.00061188266
+      ],
+      [
+        " Arab",
+        0.0
+      ],
+      [
+        " Republic",
+        0.0
+      ]
+    ]
+  },
+  "In 1958 this entity paid $64.8 million to the shareholders of the Universal Suez Canal Company. Two years later it formed its first parliament, with representatives from the two constituent nations. Vice President Nureddin Kuhalla and his country seceded from the union in 1961, but despite a failed attempt at reunification with Syria and Iraq, the remaining country continued to use this name until 1971. FTP what was this short-lived confederation of Egypt and Syria headed by Gamel-Abdul Nasser?": {
+    "guess": "United Arab Republic",
+    "confidence": [
+      [
+        "United",
+        -0.003860293
+      ],
+      [
+        " Arab",
+        0.0
+      ],
+      [
+        " Republic",
+        0.0
+      ]
+    ]
+  },
+  "In this entity, the Sunyaev-Zel'dovich effect is the result of inverse Compton scattering. The WMAP and": {
+    "guess": "Cosmic microwave background",
+    "confidence": [
+      [
+        "Cos",
+        -0.05891277
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " microwave",
+        -6.0345924e-06
+      ],
+      [
+        " background",
+        0.0
+      ]
+    ]
+  },
+  "In this entity, the Sunyaev-Zel'dovich effect is the result of inverse Compton scattering. The WMAP and COBE satellites studied this entity which was first observed by AT&T scientists Arno Penzias and": {
+    "guess": "Cosmic microwave background",
+    "confidence": [
+      [
+        "Cos",
+        -0.00220807
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " microwave",
+        -1.2664457e-06
+      ],
+      [
+        " background",
+        0.0
+      ]
+    ]
+  },
+  "In this entity, the Sunyaev-Zel'dovich effect is the result of inverse Compton scattering. The WMAP and COBE satellites studied this entity which was first observed by AT&T scientists Arno Penzias and Robert Wilson when they were trying to fix an early microwave satellite receiver. Observations of its": {
+    "guess": "Cosmic microwave background",
+    "confidence": [
+      [
+        "Cos",
+        -0.0036886747
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " microwave",
+        -6.392203e-06
+      ],
+      [
+        " background",
+        0.0
+      ]
+    ]
+  },
+  "In this entity, the Sunyaev-Zel'dovich effect is the result of inverse Compton scattering. The WMAP and COBE satellites studied this entity which was first observed by AT&T scientists Arno Penzias and Robert Wilson when they were trying to fix an early microwave satellite receiver. Observations of its near perfect (*) blackbody spectrum place the temperature of the universe at about 2.7 Kelvin. For": {
+    "guess": "Cosmic microwave background",
+    "confidence": [
+      [
+        "Cos",
+        -0.00039873365
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " microwave",
+        -1.147242e-06
+      ],
+      [
+        " background",
+        0.0
+      ]
+    ]
+  },
+  "In this entity, the Sunyaev-Zel'dovich effect is the result of inverse Compton scattering. The WMAP and COBE satellites studied this entity which was first observed by AT&T scientists Arno Penzias and Robert Wilson when they were trying to fix an early microwave satellite receiver. Observations of its near perfect (*) blackbody spectrum place the temperature of the universe at about 2.7 Kelvin. For 10 points, name this all pervasive entity, often described as the \"echo\" of the big bang.": {
+    "guess": "Cosmic microwave background",
+    "confidence": [
+      [
+        "Cos",
+        -0.0009190816
+      ],
+      [
+        "mic",
+        0.0
+      ],
+      [
+        " microwave",
+        -1.6240566e-06
+      ],
+      [
+        " background",
+        0.0
+      ]
+    ]
+  },
+  "The entire mass of this organ is sometimes referred to as the corpus vesicae fellae. The Sphincter of": {
+    "guess": "Oddi",
+    "confidence": [
+      [
+        "Odd",
+        -0.13443255
+      ],
+      [
+        "i",
+        0.0
+      ]
+    ]
+  },
+  "The entire mass of this organ is sometimes referred to as the corpus vesicae fellae. The Sphincter of Oddi and the hormone CCK control the release of products from the pancreas and this organ. One of the": {
+    "guess": "Gallbladder",
+    "confidence": [
+      [
+        "Gall",
+        -0.013176234
+      ],
+      [
+        "bl",
+        -1.9361265e-07
+      ],
+      [
+        "adder",
+        0.0
+      ]
+    ]
+  },
+  "The entire mass of this organ is sometimes referred to as the corpus vesicae fellae. The Sphincter of Oddi and the hormone CCK control the release of products from the pancreas and this organ. One of the main causes of jaundice is the creation of a certain \"stone\" in this organ. This organ is removed": {
+    "guess": "Gallbladder",
+    "confidence": [
+      [
+        "Gall",
+        -0.028077604
+      ],
+      [
+        "bl",
+        -3.1281633e-07
+      ],
+      [
+        "adder",
+        0.0
+      ]
+    ]
+  },
+  "The entire mass of this organ is sometimes referred to as the corpus vesicae fellae. The Sphincter of Oddi and the hormone CCK control the release of products from the pancreas and this organ. One of the main causes of jaundice is the creation of a certain \"stone\" in this organ. This organ is removed during a cholecystectomy and stores a product that is released into the (*) duodenum of the small intestine": {
+    "guess": "Gallbladder",
+    "confidence": [
+      [
+        "Gall",
+        -0.00017278951
+      ],
+      [
+        "bl",
+        -0.0009132516
+      ],
+      [
+        "adder",
+        0.0
+      ]
+    ]
+  },
+  "The entire mass of this organ is sometimes referred to as the corpus vesicae fellae. The Sphincter of Oddi and the hormone CCK control the release of products from the pancreas and this organ. One of the main causes of jaundice is the creation of a certain \"stone\" in this organ. This organ is removed during a cholecystectomy and stores a product that is released into the (*) duodenum of the small intestine during digestion. For 10 points, name this organ that stores bile produced by the liver.": {
+    "guess": "Gallbladder",
+    "confidence": [
+      [
+        "Gall",
+        -0.021535369
+      ],
+      [
+        "bl",
+        -1.9361265e-07
+      ],
+      [
+        "adder",
+        0.0
+      ]
+    ]
+  },
+  "One of these entities that represents the location of vertices on a graph is the \"adjacency\" type. One": {
+    "guess": "Matrix",
+    "confidence": [
+      [
+        "Matrix",
+        -0.29946986
+      ]
+    ]
+  },
+  "One of these entities that represents the location of vertices on a graph is the \"adjacency\" type. One used to identify resemblances between two data points is a similarity type. A collection of second-order": {
+    "guess": "Matrix",
+    "confidence": [
+      [
+        "Matrix",
+        -0.023324557
+      ]
+    ]
+  },
+  "One of these entities that represents the location of vertices on a graph is the \"adjacency\" type. One used to identify resemblances between two data points is a similarity type. A collection of second-order partial derivatives of a function may be collected in a Hessian one of these entities. First-order": {
+    "guess": "Matrix",
+    "confidence": [
+      [
+        "Matrix",
+        -0.027341662
+      ]
+    ]
+  },
+  "One of these entities that represents the location of vertices on a graph is the \"adjacency\" type. One used to identify resemblances between two data points is a similarity type. A collection of second-order partial derivatives of a function may be collected in a Hessian one of these entities. First-order derivatives are collected in the Jacobian one. If one of these entities is (*) invertible, it": {
+    "guess": "Matrix",
+    "confidence": [
+      [
+        "Matrix",
+        -0.09627941
+      ]
+    ]
+  },
+  "One of these entities that represents the location of vertices on a graph is the \"adjacency\" type. One used to identify resemblances between two data points is a similarity type. A collection of second-order partial derivatives of a function may be collected in a Hessian one of these entities. First-order derivatives are collected in the Jacobian one. If one of these entities is (*) invertible, it is row-equivalent to an identity variety, and its determinant is nonzero. Multiplication of these entities": {
+    "guess": "Matrix",
+    "confidence": [
+      [
+        "Matrix",
+        -0.0033061588
+      ]
+    ]
+  },
+  "One of these entities that represents the location of vertices on a graph is the \"adjacency\" type. One used to identify resemblances between two data points is a similarity type. A collection of second-order partial derivatives of a function may be collected in a Hessian one of these entities. First-order derivatives are collected in the Jacobian one. If one of these entities is (*) invertible, it is row-equivalent to an identity variety, and its determinant is nonzero. Multiplication of these entities is notably not commutative. For 10 points, name this rectangular array of numbers.": {
+    "guess": "Matrix",
+    "confidence": [
+      [
+        "Matrix",
+        -0.0007402999
+      ]
+    ]
+  },
+  "One of these entities that represents the location of vertices on a graph is the \"adjacency\" type. One used to identify resemblances between two data points is a similarity type. A collection of second-order partial derivatives of a function may be collected in a Hessian one of these entities. First-order derivatives are collected in the Jacobian one. If one of these entities is invertible, it is row-equivalent": {
+    "guess": "Matrix",
+    "confidence": [
+      [
+        "Matrix",
+        -0.02132802
+      ]
+    ]
+  },
+  "One of these entities that represents the location of vertices on a graph is the \"adjacency\" type. One used to identify resemblances between two data points is a similarity type. A collection of second-order partial derivatives of a function may be collected in a Hessian one of these entities. First-order derivatives are collected in the Jacobian one. If one of these entities is invertible, it is row-equivalent to an identity variety, and its determinant is nonzero. Multiplication of these entities": {
+    "guess": "Matrix",
+    "confidence": [
+      [
+        "Matrix",
+        -0.0051911823
+      ]
+    ]
+  },
+  "One of these entities that represents the location of vertices on a graph is the \"adjacency\" type. One used to identify resemblances between two data points is a similarity type. A collection of second-order partial derivatives of a function may be collected in a Hessian one of these entities. First-order derivatives are collected in the Jacobian one. If one of these entities is invertible, it is row-equivalent to an identity variety, and its determinant is nonzero. Multiplication of these entities is notably not commutative. For 10 points, name this rectangular array of numbers.": {
+    "guess": "Matrix",
+    "confidence": [
+      [
+        "Matrix",
+        -0.0024906415
+      ]
+    ]
+  },
+  "Entrepreneur Jesse Hawley pressed for the creation of this structure. The Seneca Chief made the first": {
+    "guess": "Erie Canal",
+    "confidence": [
+      [
+        "Er",
+        -0.03000953
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " Canal",
+        0.0
+      ]
+    ]
+  },
+  "Entrepreneur Jesse Hawley pressed for the creation of this structure. The Seneca Chief made the first end-to-end trip on this landmark. Its western end is the \"Commercial Slip\". This project across the": {
+    "guess": "Erie Canal",
+    "confidence": [
+      [
+        "Er",
+        -0.005274311
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " Canal",
+        0.0
+      ]
+    ]
+  },
+  "Entrepreneur Jesse Hawley pressed for the creation of this structure. The Seneca Chief made the first end-to-end trip on this landmark. Its western end is the \"Commercial Slip\". This project across the Mohawk Valley was approved in 1817 at a cost of seven million dollars. It originally had 83 locks.": {
+    "guess": "Erie Canal",
+    "confidence": [
+      [
+        "Er",
+        -6.837811e-05
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " Canal",
+        0.0
+      ]
+    ]
+  },
+  "Entrepreneur Jesse Hawley pressed for the creation of this structure. The Seneca Chief made the first end-to-end trip on this landmark. Its western end is the \"Commercial Slip\". This project across the Mohawk Valley was approved in 1817 at a cost of seven million dollars. It originally had 83 locks. It was the first navigable water route between the Midwest and the Eastern seaboard. For 10 points,": {
+    "guess": "Erie Canal",
+    "confidence": [
+      [
+        "Er",
+        -2.3080716e-05
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " Canal",
+        0.0
+      ]
+    ]
+  },
+  "Entrepreneur Jesse Hawley pressed for the creation of this structure. The Seneca Chief made the first end-to-end trip on this landmark. Its western end is the \"Commercial Slip\". This project across the Mohawk Valley was approved in 1817 at a cost of seven million dollars. It originally had 83 locks. It was the first navigable water route between the Midwest and the Eastern seaboard. For 10 points, name this man-made waterway championed by DeWitt Clinton and opened in 1825, which runs from Albany": {
+    "guess": "Erie Canal",
+    "confidence": [
+      [
+        "Er",
+        -0.00065918086
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " Canal",
+        0.0
+      ]
+    ]
+  },
+  "Entrepreneur Jesse Hawley pressed for the creation of this structure. The Seneca Chief made the first end-to-end trip on this landmark. Its western end is the \"Commercial Slip\". This project across the Mohawk Valley was approved in 1817 at a cost of seven million dollars. It originally had 83 locks. It was the first navigable water route between the Midwest and the Eastern seaboard. For 10 points, name this man-made waterway championed by DeWitt Clinton and opened in 1825, which runs from Albany to Buffalo.": {
+    "guess": "Erie Canal",
+    "confidence": [
+      [
+        "Er",
+        -0.00056208856
+      ],
+      [
+        "ie",
+        0.0
+      ],
+      [
+        " Canal",
+        0.0
+      ]
+    ]
+  },
+  "One of these entities can be restated in an equation with the terms del-squared T and q-triple-prime,": {
+    "guess": "Heat equation",
+    "confidence": [
+      [
+        "Heat",
+        -0.011276526
+      ],
+      [
+        " equation",
+        -0.014423567
+      ]
+    ]
+  },
+  "One of these entities can be restated in an equation with the terms del-squared T and q-triple-prime, while another states the effect of an object whose resultant force is zero. Yet another one of these": {
+    "guess": "Equilibrium",
+    "confidence": [
+      [
+        "Equ",
+        -0.5486165
+      ],
+      [
+        "ilibrium",
+        -0.47407776
+      ]
+    ]
+  },
+  "One of these entities can be restated in an equation with the terms del-squared T and q-triple-prime, while another states the effect of an object whose resultant force is zero. Yet another one of these entities overrules two \"lower\" laws, and mandates that a robot may not injure a human. For ten points,": {
+    "guess": "Laws of Thermodynamics",
+    "confidence": [
+      [
+        "L",
+        -0.23091193
+      ],
+      [
+        "aws",
+        0.0
+      ],
+      [
+        " of",
+        -0.20482798
+      ],
+      [
+        " Therm",
+        -1.2889732
+      ],
+      [
+        "odynamics",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "One of these entities can be restated in an equation with the terms del-squared T and q-triple-prime, while another states the effect of an object whose resultant force is zero. Yet another one of these entities overrules two \"lower\" laws, and mandates that a robot may not injure a human. For ten points, name this numbered law that describes the conservation of energy in thermodynamics and the law": {
+    "guess": "First law of thermodynamics",
+    "confidence": [
+      [
+        "First",
+        -0.13506754
+      ],
+      [
+        " law",
+        -0.0076150326
+      ],
+      [
+        " of",
+        -2.9160103e-05
+      ],
+      [
+        " therm",
+        -3.5716304e-05
+      ],
+      [
+        "odynamics",
+        0.0
+      ]
+    ]
+  },
+  "One of these entities can be restated in an equation with the terms del-squared T and q-triple-prime, while another states the effect of an object whose resultant force is zero. Yet another one of these entities overrules two \"lower\" laws, and mandates that a robot may not injure a human. For ten points, name this numbered law that describes the conservation of energy in thermodynamics and the law of inertia in physics.": {
+    "guess": "First law of thermodynamics",
+    "confidence": [
+      [
+        "First",
+        -0.2480317
+      ],
+      [
+        " law",
+        -0.018230015
+      ],
+      [
+        " of",
+        -0.4746668
+      ],
+      [
+        " therm",
+        -0.00019901065
+      ],
+      [
+        "odynamics",
+        0.0
+      ]
+    ]
+  },
+  "One of these entities documents how \"the boil had to be pricked.\" These entities were the subject of": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.46815038
+      ],
+      [
+        ".",
+        -0.69318455
+      ]
+    ]
+  },
+  "One of these entities documents how \"the boil had to be pricked.\" These entities were the subject of a Supreme Court case that hinged on a term first defined in Kaiser Aluminum and Chemical Co. v. U.S.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6638717
+      ]
+    ]
+  },
+  "One of these entities documents how \"the boil had to be pricked.\" These entities were the subject of a Supreme Court case that hinged on a term first defined in Kaiser Aluminum and Chemical Co. v. U.S. A segment in one of these entities was allegedly the product of an awkward position called the \"Rose": {
+    "guess": "Pentagon Papers",
+    "confidence": [
+      [
+        "Pent",
+        -0.10285022
+      ],
+      [
+        "agon",
+        -2.2127088e-05
+      ],
+      [
+        " Papers",
+        -1.6286107e-05
+      ]
+    ]
+  },
+  "One of these entities documents how \"the boil had to be pricked.\" These entities were the subject of a Supreme Court case that hinged on a term first defined in Kaiser Aluminum and Chemical Co. v. U.S. A segment in one of these entities was allegedly the product of an awkward position called the \"Rose Mary Stretch.\" These entities were eventually given to John Sirica, and many of them chronicle exchanges": {
+    "guess": "Nixon White House tapes",
+    "confidence": [
+      [
+        "N",
+        -0.67413884
+      ],
+      [
+        "ixon",
+        -3.1281633e-07
+      ],
+      [
+        " White",
+        -0.0027190452
+      ],
+      [
+        " House",
+        0.0
+      ],
+      [
+        " tapes",
+        -0.0007210109
+      ]
+    ]
+  },
+  "One of these entities documents how \"the boil had to be pricked.\" These entities were the subject of a Supreme Court case that hinged on a term first defined in Kaiser Aluminum and Chemical Co. v. U.S. A segment in one of these entities was allegedly the product of an awkward position called the \"Rose Mary Stretch.\" These entities were eventually given to John Sirica, and many of them chronicle exchanges with H.R. Haldeman. The 342nd of these objects, which Archibald Cox subpoenaed, contains an eighteen-and-a-half-minute-long": {
+    "guess": "Nixon White House tapes",
+    "confidence": [
+      [
+        "N",
+        -0.22136341
+      ],
+      [
+        "ixon",
+        -1.9361265e-07
+      ],
+      [
+        " White",
+        -0.005011025
+      ],
+      [
+        " House",
+        0.0
+      ],
+      [
+        " tapes",
+        -0.00045617513
+      ]
+    ]
+  },
+  "One of these entities documents how \"the boil had to be pricked.\" These entities were the subject of a Supreme Court case that hinged on a term first defined in Kaiser Aluminum and Chemical Co. v. U.S. A segment in one of these entities was allegedly the product of an awkward position called the \"Rose Mary Stretch.\" These entities were eventually given to John Sirica, and many of them chronicle exchanges with H.R. Haldeman. The 342nd of these objects, which Archibald Cox subpoenaed, contains an eighteen-and-a-half-minute-long pause. For 10 points, name these audio recordings central to the Supreme": {
+    "guess": "Nixon White House tapes",
+    "confidence": [
+      [
+        "N",
+        -0.3088308
+      ],
+      [
+        "ixon",
+        -1.0280384e-06
+      ],
+      [
+        " White",
+        -0.0041746795
+      ],
+      [
+        " House",
+        0.0
+      ],
+      [
+        " tapes",
+        -0.00026753443
+      ]
+    ]
+  },
+  "One of these entities documents how \"the boil had to be pricked.\" These entities were the subject of a Supreme Court case that hinged on a term first defined in Kaiser Aluminum and Chemical Co. v. U.S. A segment in one of these entities was allegedly the product of an awkward position called the \"Rose Mary Stretch.\" These entities were eventually given to John Sirica, and many of them chronicle exchanges with H.R. Haldeman. The 342nd of these objects, which Archibald Cox subpoenaed, contains an eighteen-and-a-half-minute-long pause. For 10 points, name these audio recordings central to the Supreme Court case U.S. v. Nixon, which discuss a certain break-in.": {
+    "guess": "Nixon White House tapes",
+    "confidence": [
+      [
+        "N",
+        -0.18567954
+      ],
+      [
+        "ixon",
+        -2.6968896e-06
+      ],
+      [
+        " White",
+        -0.012756375
+      ],
+      [
+        " House",
+        0.0
+      ],
+      [
+        " tapes",
+        -0.00027980874
+      ]
+    ]
+  },
+  "Enthalpy, entropy, heat capacity, and the coefficient of this quantity are the subjects of the four Lee-Kesler": {
+    "guess": "Compressibility",
+    "confidence": [
+      [
+        "Compress",
+        -0.7733771
+      ],
+      [
+        "ibility",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Enthalpy, entropy, heat capacity, and the coefficient of this quantity are the subjects of the four Lee-Kesler tables. An analogue of Raoult's law that instead invokes this quantity is named for this quantity's": {
+    "guess": "Fugacity",
+    "confidence": [
+      [
+        "F",
+        -0.3378345
+      ],
+      [
+        "ug",
+        -1.9361265e-07
+      ],
+      [
+        "acity",
+        0.0
+      ]
+    ]
+  },
+  "Enthalpy, entropy, heat capacity, and the coefficient of this quantity are the subjects of the four Lee-Kesler tables. An analogue of Raoult's law that instead invokes this quantity is named for this quantity's originator and Merle Randall. One definition of activity gives it as the ratio of this quantity": {
+    "guess": "Fugacity",
+    "confidence": [
+      [
+        "F",
+        -0.02599127
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "acity",
+        0.0
+      ]
+    ]
+  },
+  "Enthalpy, entropy, heat capacity, and the coefficient of this quantity are the subjects of the four Lee-Kesler tables. An analogue of Raoult's law that instead invokes this quantity is named for this quantity's originator and Merle Randall. One definition of activity gives it as the ratio of this quantity in the actual to steady state. The chemical potential may be given as Boltzmann's constant times": {
+    "guess": "Fugacity",
+    "confidence": [
+      [
+        "F",
+        -0.06713824
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "acity",
+        0.0
+      ]
+    ]
+  },
+  "Enthalpy, entropy, heat capacity, and the coefficient of this quantity are the subjects of the four Lee-Kesler tables. An analogue of Raoult's law that instead invokes this quantity is named for this quantity's originator and Merle Randall. One definition of activity gives it as the ratio of this quantity in the actual to steady state. The chemical potential may be given as Boltzmann's constant times temperature times the natural log of this quantity. This quantity's dimensionless coefficient is": {
+    "guess": "Fugacity",
+    "confidence": [
+      [
+        "F",
+        -0.06499328
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "acity",
+        0.0
+      ]
+    ]
+  },
+  "Enthalpy, entropy, heat capacity, and the coefficient of this quantity are the subjects of the four Lee-Kesler tables. An analogue of Raoult's law that instead invokes this quantity is named for this quantity's originator and Merle Randall. One definition of activity gives it as the ratio of this quantity in the actual to steady state. The chemical potential may be given as Boltzmann's constant times temperature times the natural log of this quantity. This quantity's dimensionless coefficient is the ratio of it to pressure and measures a gas's degree of non-ideality. Introduced by Gilbert Lewis,": {
+    "guess": "Fugacity",
+    "confidence": [
+      [
+        "F",
+        -0.008964348
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "acity",
+        0.0
+      ]
+    ]
+  },
+  "Enthalpy, entropy, heat capacity, and the coefficient of this quantity are the subjects of the four Lee-Kesler tables. An analogue of Raoult's law that instead invokes this quantity is named for this quantity's originator and Merle Randall. One definition of activity gives it as the ratio of this quantity in the actual to steady state. The chemical potential may be given as Boltzmann's constant times temperature times the natural log of this quantity. This quantity's dimensionless coefficient is the ratio of it to pressure and measures a gas's degree of non-ideality. Introduced by Gilbert Lewis, for 10 points, name this measure of adjusted pressure that gives a substance's tendency to escape": {
+    "guess": "Fugacity",
+    "confidence": [
+      [
+        "F",
+        -0.0009178895
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "acity",
+        0.0
+      ]
+    ]
+  },
+  "Enthalpy, entropy, heat capacity, and the coefficient of this quantity are the subjects of the four Lee-Kesler tables. An analogue of Raoult's law that instead invokes this quantity is named for this quantity's originator and Merle Randall. One definition of activity gives it as the ratio of this quantity in the actual to steady state. The chemical potential may be given as Boltzmann's constant times temperature times the natural log of this quantity. This quantity's dimensionless coefficient is the ratio of it to pressure and measures a gas's degree of non-ideality. Introduced by Gilbert Lewis, for 10 points, name this measure of adjusted pressure that gives a substance's tendency to escape a given phase.": {
+    "guess": "Fugacity",
+    "confidence": [
+      [
+        "F",
+        -0.0009386163
+      ],
+      [
+        "ug",
+        0.0
+      ],
+      [
+        "acity",
+        0.0
+      ]
+    ]
+  },
+  "One of this entity's leaders formed the \"Company of Death\" that notably employed a war wagon known as": {
+    "guess": "Hussites",
+    "confidence": [
+      [
+        "H",
+        -0.028785676
+      ],
+      [
+        "uss",
+        -2.1769476e-05
+      ],
+      [
+        "ites",
+        -0.38743308
+      ]
+    ]
+  },
+  "One of this entity's leaders formed the \"Company of Death\" that notably employed a war wagon known as the Carroccio. Founded through an oath taken at Pontida, this entity was left isolated following the": {
+    "guess": "Lombard League",
+    "confidence": [
+      [
+        "L",
+        -0.0100333635
+      ],
+      [
+        "omb",
+        0.0
+      ],
+      [
+        "ard",
+        -1.147242e-06
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "One of this entity's leaders formed the \"Company of Death\" that notably employed a war wagon known as the Carroccio. Founded through an oath taken at Pontida, this entity was left isolated following the defeat of a so-called \"Commune\" at Monte Porzio. This entity organized the Diet of Roncaglia and won": {
+    "guess": "Lombard League",
+    "confidence": [
+      [
+        "L",
+        -0.008223052
+      ],
+      [
+        "omb",
+        0.0
+      ],
+      [
+        "ard",
+        -1.9816675e-06
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "One of this entity's leaders formed the \"Company of Death\" that notably employed a war wagon known as the Carroccio. Founded through an oath taken at Pontida, this entity was left isolated following the defeat of a so-called \"Commune\" at Monte Porzio. This entity organized the Diet of Roncaglia and won its largest victory largely due to the lack of participation by (*) Henry the Lion, who chose instead": {
+    "guess": "Lombard League",
+    "confidence": [
+      [
+        "L",
+        -0.004047887
+      ],
+      [
+        "omb",
+        0.0
+      ],
+      [
+        "ard",
+        -9.0883464e-07
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "One of this entity's leaders formed the \"Company of Death\" that notably employed a war wagon known as the Carroccio. Founded through an oath taken at Pontida, this entity was left isolated following the defeat of a so-called \"Commune\" at Monte Porzio. This entity organized the Diet of Roncaglia and won its largest victory largely due to the lack of participation by (*) Henry the Lion, who chose instead to consolidate power in Saxony. This group won the Battle of Legnano against its major rival, who": {
+    "guess": "Lombard League",
+    "confidence": [
+      [
+        "L",
+        -0.0034661905
+      ],
+      [
+        "omb",
+        0.0
+      ],
+      [
+        "ard",
+        -9.0883464e-07
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "One of this entity's leaders formed the \"Company of Death\" that notably employed a war wagon known as the Carroccio. Founded through an oath taken at Pontida, this entity was left isolated following the defeat of a so-called \"Commune\" at Monte Porzio. This entity organized the Diet of Roncaglia and won its largest victory largely due to the lack of participation by (*) Henry the Lion, who chose instead to consolidate power in Saxony. This group won the Battle of Legnano against its major rival, who had earlier sacked Milan after a dispute with this group's major ally, Pope Alexander III. For 10": {
+    "guess": "Lombard League",
+    "confidence": [
+      [
+        "L",
+        -0.0049822014
+      ],
+      [
+        "omb",
+        0.0
+      ],
+      [
+        "ard",
+        -7.89631e-07
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "One of this entity's leaders formed the \"Company of Death\" that notably employed a war wagon known as the Carroccio. Founded through an oath taken at Pontida, this entity was left isolated following the defeat of a so-called \"Commune\" at Monte Porzio. This entity organized the Diet of Roncaglia and won its largest victory largely due to the lack of participation by (*) Henry the Lion, who chose instead to consolidate power in Saxony. This group won the Battle of Legnano against its major rival, who had earlier sacked Milan after a dispute with this group's major ally, Pope Alexander III. For 10 points, identify this group of Italian states that fought Frederick Barbarossa, a \"league\" named for": {
+    "guess": "Lombard League",
+    "confidence": [
+      [
+        "L",
+        -0.0014404731
+      ],
+      [
+        "omb",
+        0.0
+      ],
+      [
+        "ard",
+        -0.0001246349
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "One of this entity's leaders formed the \"Company of Death\" that notably employed a war wagon known as the Carroccio. Founded through an oath taken at Pontida, this entity was left isolated following the defeat of a so-called \"Commune\" at Monte Porzio. This entity organized the Diet of Roncaglia and won its largest victory largely due to the lack of participation by (*) Henry the Lion, who chose instead to consolidate power in Saxony. This group won the Battle of Legnano against its major rival, who had earlier sacked Milan after a dispute with this group's major ally, Pope Alexander III. For 10 points, identify this group of Italian states that fought Frederick Barbarossa, a \"league\" named for a Northern Italian region.": {
+    "guess": "Lombard League",
+    "confidence": [
+      [
+        "L",
+        -0.0011164041
+      ],
+      [
+        "omb",
+        0.0
+      ],
+      [
+        "ard",
+        -6.392203e-06
+      ],
+      [
+        " League",
+        0.0
+      ]
+    ]
+  },
+  "This entity's functions include synthesizing sphingomyelin and adding sulfate groups to tyrosine. It": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -0.0046419497
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -1.7239736e-05
+      ]
+    ]
+  },
+  "This entity's functions include synthesizing sphingomyelin and adding sulfate groups to tyrosine. It creates clathrin-coated vesicles that send proteins to other parts of the cell. This organelle has cis": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -0.0022078317
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "This entity's functions include synthesizing sphingomyelin and adding sulfate groups to tyrosine. It creates clathrin-coated vesicles that send proteins to other parts of the cell. This organelle has cis and trans faces, and consists of stacked, flattened disks called cisternae. For 10 points, name this": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -1.1398757e-05
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "This entity's functions include synthesizing sphingomyelin and adding sulfate groups to tyrosine. It creates clathrin-coated vesicles that send proteins to other parts of the cell. This organelle has cis and trans faces, and consists of stacked, flattened disks called cisternae. For 10 points, name this organelle, which is found near the endoplasmic reticulum, packages and sorts newly created proteins,": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -0.0018415368
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "This entity's functions include synthesizing sphingomyelin and adding sulfate groups to tyrosine. It creates clathrin-coated vesicles that send proteins to other parts of the cell. This organelle has cis and trans faces, and consists of stacked, flattened disks called cisternae. For 10 points, name this organelle, which is found near the endoplasmic reticulum, packages and sorts newly created proteins, and is named after an Italian scientist.": {
+    "guess": "Golgi apparatus",
+    "confidence": [
+      [
+        "Gol",
+        -0.018210232
+      ],
+      [
+        "gi",
+        0.0
+      ],
+      [
+        " apparatus",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "This entity's creation was preceded by a marriage to Isabella of Angouleme, which cuckolded Hugh IX and": {
+    "guess": "Angevin Empire",
+    "confidence": [
+      [
+        "An",
+        -0.5869086
+      ],
+      [
+        "ge",
+        -0.00053003745
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        " Empire",
+        -4.365741e-06
+      ]
+    ]
+  },
+  "This entity's creation was preceded by a marriage to Isabella of Angouleme, which cuckolded Hugh IX and led to Otto IV's loss at Bouvines to Philip Augustus. Objections over absurd invocations of Henry": {
+    "guess": "Angevin Empire",
+    "confidence": [
+      [
+        "An",
+        -0.22012667
+      ],
+      [
+        "ge",
+        -0.000110457004
+      ],
+      [
+        "vin",
+        0.0
+      ],
+      [
+        " Empire",
+        -4.723352e-06
+      ]
+    ]
+  },
+  "This entity's creation was preceded by a marriage to Isabella of Angouleme, which cuckolded Hugh IX and led to Otto IV's loss at Bouvines to Philip Augustus. Objections over absurd invocations of Henry II's Assize of the Forest and a drastic increase in scutage rates were more direct causes of the actions": {
+    "guess": "Magna Carta",
+    "confidence": [
+      [
+        "Mag",
+        -0.00022654302
+      ],
+      [
+        "na",
+        0.0
+      ],
+      [
+        " Carta",
+        0.0
+      ]
+    ]
+  },
+  "This entity's creation was preceded by a marriage to Isabella of Angouleme, which cuckolded Hugh IX and led to Otto IV's loss at Bouvines to Philip Augustus. Objections over absurd invocations of Henry II's Assize of the Forest and a drastic increase in scutage rates were more direct causes of the actions which led to this entity's creation, and the renunciation of its Article 61 led to an invasion": {
+    "guess": "Magna Carta",
+    "confidence": [
+      [
+        "Mag",
+        -0.00010556965
+      ],
+      [
+        "na",
+        0.0
+      ],
+      [
+        " Carta",
+        0.0
+      ]
+    ]
+  },
+  "This entity's creation was preceded by a marriage to Isabella of Angouleme, which cuckolded Hugh IX and led to Otto IV's loss at Bouvines to Philip Augustus. Objections over absurd invocations of Henry II's Assize of the Forest and a drastic increase in scutage rates were more direct causes of the actions which led to this entity's creation, and the renunciation of its Article 61 led to an invasion by Louis XIII in the First Barons' War. For 10 points, identify this document which created a \"Great": {
+    "guess": "Magna Carta",
+    "confidence": [
+      [
+        "Mag",
+        -8.220573e-05
+      ],
+      [
+        "na",
+        0.0
+      ],
+      [
+        " Carta",
+        0.0
+      ]
+    ]
+  },
+  "This entity's creation was preceded by a marriage to Isabella of Angouleme, which cuckolded Hugh IX and led to Otto IV's loss at Bouvines to Philip Augustus. Objections over absurd invocations of Henry II's Assize of the Forest and a drastic increase in scutage rates were more direct causes of the actions which led to this entity's creation, and the renunciation of its Article 61 led to an invasion by Louis XIII in the First Barons' War. For 10 points, identify this document which created a \"Great Council\" and provided the basis for habeas corpus, an expansion of Henry I's Charter of Liberties": {
+    "guess": "Magna Carta",
+    "confidence": [
+      [
+        "Mag",
+        -0.018168906
+      ],
+      [
+        "na",
+        0.0
+      ],
+      [
+        " Carta",
+        0.0
+      ]
+    ]
+  },
+  "This entity's creation was preceded by a marriage to Isabella of Angouleme, which cuckolded Hugh IX and led to Otto IV's loss at Bouvines to Philip Augustus. Objections over absurd invocations of Henry II's Assize of the Forest and a drastic increase in scutage rates were more direct causes of the actions which led to this entity's creation, and the renunciation of its Article 61 led to an invasion by Louis XIII in the First Barons' War. For 10 points, identify this document which created a \"Great Council\" and provided the basis for habeas corpus, an expansion of Henry I's Charter of Liberties that was signed by King John at Runnymede in 1215.": {
+    "guess": "Magna Carta",
+    "confidence": [
+      [
+        "Mag",
+        -0.00026252787
+      ],
+      [
+        "na",
+        0.0
+      ],
+      [
+        " Carta",
+        0.0
+      ]
+    ]
+  },
+  "This entity is crossed with a particle's velocity in the equation for the Lorentz force. One law that": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.003332068
+      ],
+      [
+        "netic",
+        -4.3202e-07
+      ],
+      [
+        " field",
+        -0.00073434337
+      ]
+    ]
+  },
+  "This entity is crossed with a particle's velocity in the equation for the Lorentz force. One law that gives the strength of this entity was modified to include the partial time derivative of the displacement": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.0150407115
+      ],
+      [
+        "netic",
+        -6.704273e-07
+      ],
+      [
+        " field",
+        -2.6060809e-05
+      ]
+    ]
+  },
+  "This entity is crossed with a particle's velocity in the equation for the Lorentz force. One law that gives the strength of this entity was modified to include the partial time derivative of the displacement field. The curl of this entity is equal to permeability of free space times the current density.": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -8.852353e-05
+      ],
+      [
+        "netic",
+        -1.9361265e-07
+      ],
+      [
+        " field",
+        -3.0545007e-06
+      ]
+    ]
+  },
+  "This entity is crossed with a particle's velocity in the equation for the Lorentz force. One law that gives the strength of this entity was modified to include the partial time derivative of the displacement field. The curl of this entity is equal to permeability of free space times the current density. Silver atoms were fired through an inhomogeneous version of this entity in the Stern-Gerlach experiment.": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.00026491194
+      ],
+      [
+        "netic",
+        0.0
+      ],
+      [
+        " field",
+        -6.2729996e-06
+      ]
+    ]
+  },
+  "This entity is crossed with a particle's velocity in the equation for the Lorentz force. One law that gives the strength of this entity was modified to include the partial time derivative of the displacement field. The curl of this entity is equal to permeability of free space times the current density. Silver atoms were fired through an inhomogeneous version of this entity in the Stern-Gerlach experiment. This entity cannot be created by monopoles according to Gauss' law. Created by electrical currents,": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.0002750406
+      ],
+      [
+        "netic",
+        -1.9361265e-07
+      ],
+      [
+        " field",
+        -0.47407863
+      ]
+    ]
+  },
+  "This entity is crossed with a particle's velocity in the equation for the Lorentz force. One law that gives the strength of this entity was modified to include the partial time derivative of the displacement field. The curl of this entity is equal to permeability of free space times the current density. Silver atoms were fired through an inhomogeneous version of this entity in the Stern-Gerlach experiment. This entity cannot be created by monopoles according to Gauss' law. Created by electrical currents, the strength of this entity is given by the Bios-Savart (Bee-oh Suh-var) law and Ampere's law.": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -7.684157e-05
+      ],
+      [
+        "netic",
+        0.0
+      ],
+      [
+        " field",
+        -3.888926e-06
+      ]
+    ]
+  },
+  "This entity is crossed with a particle's velocity in the equation for the Lorentz force. One law that gives the strength of this entity was modified to include the partial time derivative of the displacement field. The curl of this entity is equal to permeability of free space times the current density. Silver atoms were fired through an inhomogeneous version of this entity in the Stern-Gerlach experiment. This entity cannot be created by monopoles according to Gauss' law. Created by electrical currents, the strength of this entity is given by the Bios-Savart (Bee-oh Suh-var) law and Ampere's law. For 10 points, name this counterpart of the electric field, symbolized B.": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.0031872208
+      ],
+      [
+        "netic",
+        0.0
+      ],
+      [
+        " field",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "These entities can be found by using the Sieve of Eratosthenes (AIR-uh-TOSS-the-neez). According to Goldbach's": {
+    "guess": "Prime Numbers",
+    "confidence": [
+      [
+        "Prime",
+        -0.5038191
+      ],
+      [
+        " Numbers",
+        -0.16097589
+      ]
+    ]
+  },
+  "These entities can be found by using the Sieve of Eratosthenes (AIR-uh-TOSS-the-neez). According to Goldbach's conjecture, every integer greater than two can be expressed as a sum of two of them. Every": {
+    "guess": "Prime Numbers",
+    "confidence": [
+      [
+        "Prime",
+        -0.0005710252
+      ],
+      [
+        " Numbers",
+        -0.003243428
+      ]
+    ]
+  },
+  "These entities can be found by using the Sieve of Eratosthenes (AIR-uh-TOSS-the-neez). According to Goldbach's conjecture, every integer greater than two can be expressed as a sum of two of them. Every positive integer can be expressed as a factorization of these numbers. For 10 points, identify these": {
+    "guess": "Prime Numbers",
+    "confidence": [
+      [
+        "Prime",
+        -0.00010032469
+      ],
+      [
+        " Numbers",
+        -0.0014369007
+      ]
+    ]
+  },
+  "These entities can be found by using the Sieve of Eratosthenes (AIR-uh-TOSS-the-neez). According to Goldbach's conjecture, every integer greater than two can be expressed as a sum of two of them. Every positive integer can be expressed as a factorization of these numbers. For 10 points, identify these natural numbers whose only divisors are themselves and one.": {
+    "guess": "Prime Numbers",
+    "confidence": [
+      [
+        "Prime",
+        -0.00526068
+      ],
+      [
+        " Numbers",
+        -0.020521337
+      ]
+    ]
+  },
+  "One of these entities \"of variation\" equals the standard deviation divided by the mean. Spearman and": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1128995
+      ]
+    ]
+  },
+  "One of these entities \"of variation\" equals the standard deviation divided by the mean. Spearman and Pearson name two of these entities that measure correlation. \"Binomial\" ones give the number of ways": {
+    "guess": "Coefficient",
+    "confidence": [
+      [
+        "Coefficient",
+        -0.008832012
+      ]
+    ]
+  },
+  "One of these entities \"of variation\" equals the standard deviation divided by the mean. Spearman and Pearson name two of these entities that measure correlation. \"Binomial\" ones give the number of ways k unordered outcomes can be chosen from n possible and are given by Pascal's Triangle. For 10 points,": {
+    "guess": "Coefficient",
+    "confidence": [
+      [
+        "Coefficient",
+        -0.5778913
+      ]
+    ]
+  },
+  "One of these entities \"of variation\" equals the standard deviation divided by the mean. Spearman and Pearson name two of these entities that measure correlation. \"Binomial\" ones give the number of ways k unordered outcomes can be chosen from n possible and are given by Pascal's Triangle. For 10 points, give this term for numbers that multiply a variable in a mathematical expression.": {
+    "guess": "Coefficient",
+    "confidence": [
+      [
+        "Coefficient",
+        -0.03029223
+      ]
+    ]
+  },
+  "This entity's presence in a two-dimensional conductor creates Landau levels in the quantum hall effect.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.023993
+      ]
+    ]
+  },
+  "This entity's presence in a two-dimensional conductor creates Landau levels in the quantum hall effect. The Lorentz force on a particle is given by charge times velocity cross this entity, which is equal": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.038229454
+      ],
+      [
+        "netic",
+        0.0
+      ],
+      [
+        " field",
+        -3.6908343e-05
+      ]
+    ]
+  },
+  "This entity's presence in a two-dimensional conductor creates Landau levels in the quantum hall effect. The Lorentz force on a particle is given by charge times velocity cross this entity, which is equal to the curl of the vector potential. They are expelled from superconductors in the Meissner effect,": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.1722263
+      ],
+      [
+        "netic",
+        -2.3392786e-06
+      ],
+      [
+        " field",
+        -0.009795049
+      ]
+    ]
+  },
+  "This entity's presence in a two-dimensional conductor creates Landau levels in the quantum hall effect. The Lorentz force on a particle is given by charge times velocity cross this entity, which is equal to the curl of the vector potential. They are expelled from superconductors in the Meissner effect, and Faraday's law of induction describes how a changing one produces an electrical current. They": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.02060986
+      ],
+      [
+        "netic",
+        0.0
+      ],
+      [
+        " field",
+        -1.2829201e-05
+      ]
+    ]
+  },
+  "This entity's presence in a two-dimensional conductor creates Landau levels in the quantum hall effect. The Lorentz force on a particle is given by charge times velocity cross this entity, which is equal to the curl of the vector potential. They are expelled from superconductors in the Meissner effect, and Faraday's law of induction describes how a changing one produces an electrical current. They are formed when an electrical current passes through a solenoid, and Gauss showed that the divergence": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.016096782
+      ],
+      [
+        "netic",
+        0.0
+      ],
+      [
+        " field",
+        -7.9418505e-06
+      ]
+    ]
+  },
+  "This entity's presence in a two-dimensional conductor creates Landau levels in the quantum hall effect. The Lorentz force on a particle is given by charge times velocity cross this entity, which is equal to the curl of the vector potential. They are expelled from superconductors in the Meissner effect, and Faraday's law of induction describes how a changing one produces an electrical current. They are formed when an electrical current passes through a solenoid, and Gauss showed that the divergence of these entities is zero unless monopoles exist. For 10 points, name this entity most commonly associated": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.0002728986
+      ],
+      [
+        "netic",
+        0.0
+      ],
+      [
+        " field",
+        -2.4584822e-06
+      ]
+    ]
+  },
+  "This entity's presence in a two-dimensional conductor creates Landau levels in the quantum hall effect. The Lorentz force on a particle is given by charge times velocity cross this entity, which is equal to the curl of the vector potential. They are expelled from superconductors in the Meissner effect, and Faraday's law of induction describes how a changing one produces an electrical current. They are formed when an electrical current passes through a solenoid, and Gauss showed that the divergence of these entities is zero unless monopoles exist. For 10 points, name this entity most commonly associated with objects with north and south poles.": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.00024120507
+      ],
+      [
+        "netic",
+        0.0
+      ],
+      [
+        " field",
+        -5.9153886e-06
+      ]
+    ]
+  },
+  "entities of this name, including 20 deluxe editions, were produced by Rrose S\u00e9lavy and contained 93 facsimile": {
+    "guess": "Bo\u00eete-en-valise",
+    "confidence": [
+      [
+        "Bo",
+        -0.28810564
+      ],
+      [
+        "\u00eete",
+        -0.0005751936
+      ],
+      [
+        "-en",
+        -0.0021852378
+      ],
+      [
+        "-val",
+        -0.0031779523
+      ],
+      [
+        "ise",
+        0.0
+      ]
+    ]
+  },
+  "entities of this name, including 20 deluxe editions, were produced by Rrose S\u00e9lavy and contained 93 facsimile reproductions of notes, drawings, and photographs. The more famous entity of this name depicts": {
+    "guess": "The Large Glass",
+    "confidence": [
+      [
+        "The",
+        -0.1672441
+      ],
+      [
+        " Large",
+        -0.8755565
+      ],
+      [
+        " Glass",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "entities of this name, including 20 deluxe editions, were produced by Rrose S\u00e9lavy and contained 93 facsimile reproductions of notes, drawings, and photographs. The more famous entity of this name depicts \"malic\" molds that the creator claimed were \"the projection of the main points of a three- dimensional": {
+    "guess": "The Large Glass",
+    "confidence": [
+      [
+        "The",
+        -0.0025225074
+      ],
+      [
+        " Large",
+        -0.20274507
+      ],
+      [
+        " Glass",
+        0.0
+      ]
+    ]
+  },
+  "entities of this name, including 20 deluxe editions, were produced by Rrose S\u00e9lavy and contained 93 facsimile reproductions of notes, drawings, and photographs. The more famous entity of this name depicts \"malic\" molds that the creator claimed were \"the projection of the main points of a three- dimensional body.\" These nine figures are aided by a series of sieves filled with dust and a coffee grinder": {
+    "guess": "The Bride Stripped Bare by Her Bachelors, Even",
+    "confidence": [
+      [
+        "The",
+        -0.010345356
+      ],
+      [
+        " Bride",
+        -0.05090158
+      ],
+      [
+        " Str",
+        0.0
+      ],
+      [
+        "ipped",
+        0.0
+      ],
+      [
+        " Bare",
+        0.0
+      ],
+      [
+        " by",
+        -1.0280384e-06
+      ],
+      [
+        " Her",
+        -1.9361265e-07
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "achelors",
+        0.0
+      ],
+      [
+        ",",
+        -4.3202e-07
+      ],
+      [
+        " Even",
+        0.0
+      ]
+    ]
+  },
+  "entities of this name, including 20 deluxe editions, were produced by Rrose S\u00e9lavy and contained 93 facsimile reproductions of notes, drawings, and photographs. The more famous entity of this name depicts \"malic\" molds that the creator claimed were \"the projection of the main points of a three- dimensional body.\" These nine figures are aided by a series of sieves filled with dust and a coffee grinder in performing the titular action upon a figure in the upper part, whose sexual fulfillment is symbolized": {
+    "guess": "The Bride Stripped Bare by Her Bachelors, Even",
+    "confidence": [
+      [
+        "The",
+        -0.004650611
+      ],
+      [
+        " Bride",
+        -0.10114327
+      ],
+      [
+        " Str",
+        0.0
+      ],
+      [
+        "ipped",
+        0.0
+      ],
+      [
+        " Bare",
+        0.0
+      ],
+      [
+        " by",
+        -1.147242e-06
+      ],
+      [
+        " Her",
+        0.0
+      ],
+      [
+        " B",
+        0.0
+      ],
+      [
+        "achelors",
+        0.0
+      ],
+      [
+        ",",
+        -1.9361265e-07
+      ],
+      [
+        " Even",
+        0.0
+      ]
+    ]
+  },
+  "entities of this name, including 20 deluxe editions, were produced by Rrose S\u00e9lavy and contained 93 facsimile reproductions of notes, drawings, and photographs. The more famous entity of this name depicts \"malic\" molds that the creator claimed were \"the projection of the main points of a three- dimensional body.\" These nine figures are aided by a series of sieves filled with dust and a coffee grinder in performing the titular action upon a figure in the upper part, whose sexual fulfillment is symbolized by a pink cloud. For 10 points, name this artistic work that depicts dressmaker's models denuding": {
+    "guess": "The Large Glass",
+    "confidence": [
+      [
+        "The",
+        -0.0033340873
+      ],
+      [
+        " Large",
+        -0.25214496
+      ],
+      [
+        " Glass",
+        0.0
+      ]
+    ]
+  },
+  "entities of this name, including 20 deluxe editions, were produced by Rrose S\u00e9lavy and contained 93 facsimile reproductions of notes, drawings, and photographs. The more famous entity of this name depicts \"malic\" molds that the creator claimed were \"the projection of the main points of a three- dimensional body.\" These nine figures are aided by a series of sieves filled with dust and a coffee grinder in performing the titular action upon a figure in the upper part, whose sexual fulfillment is symbolized by a pink cloud. For 10 points, name this artistic work that depicts dressmaker's models denuding a strange female mechanical figure, a work by Marcel Duchamp.": {
+    "guess": "The Bride Stripped Bare by Her Bachelors, Even",
+    "confidence": [
+      [
+        "The",
+        -0.0005660186
+      ],
+      [
+        " Bride",
+        -0.47436532
+      ],
+      [
+        " Str",
+        -3.1281633e-07
+      ],
+      [
+        "ipped",
+        0.0
+      ],
+      [
+        " Bare",
+        0.0
+      ],
+      [
+        " by",
+        -0.00020354039
+      ],
+      [
+        " Her",
+        -4.8425554e-06
+      ],
+      [
+        " B",
+        -3.1281633e-07
+      ],
+      [
+        "achelors",
+        -4.8425554e-06
+      ],
+      [
+        ",",
+        -4.4849444e-06
+      ],
+      [
+        " Even",
+        0.0
+      ]
+    ]
+  },
+  "Each of these entities has a product divisible by 60, and primitive examples contain exactly one multiple": {
+    "guess": "Pythagorean triple",
+    "confidence": [
+      [
+        "P",
+        -0.43482322
+      ],
+      [
+        "yth",
+        -1.4498052e-05
+      ],
+      [
+        "ag",
+        -3.7697225e-06
+      ],
+      [
+        "orean",
+        0.0
+      ],
+      [
+        " triple",
+        -0.31681794
+      ]
+    ]
+  },
+  "Each of these entities has a product divisible by 60, and primitive examples contain exactly one multiple of five. One method to generate them involves finding numbers whose product is half of a perfect": {
+    "guess": "Pythagorean triple",
+    "confidence": [
+      [
+        "P",
+        -0.08137449
+      ],
+      [
+        "yth",
+        -4.572941e-05
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "orean",
+        0.0
+      ],
+      [
+        " triple",
+        -0.16247085
+      ]
+    ]
+  },
+  "Each of these entities has a product divisible by 60, and primitive examples contain exactly one multiple of five. One method to generate them involves finding numbers whose product is half of a perfect square, and a method named for Euclid uses the difference of two squares and the sum of the same two": {
+    "guess": "Pythagorean triple",
+    "confidence": [
+      [
+        "P",
+        -0.019812297
+      ],
+      [
+        "yth",
+        -1.3067608e-05
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "orean",
+        0.0
+      ],
+      [
+        " triple",
+        -0.012015541
+      ]
+    ]
+  },
+  "Each of these entities has a product divisible by 60, and primitive examples contain exactly one multiple of five. One method to generate them involves finding numbers whose product is half of a perfect square, and a method named for Euclid uses the difference of two squares and the sum of the same two squares. These sets always have an even sum, and their existence makes it necessary to include the": {
+    "guess": "Pythagorean triple",
+    "confidence": [
+      [
+        "P",
+        -0.16295509
+      ],
+      [
+        "yth",
+        -1.9361265e-07
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "orean",
+        0.0
+      ],
+      [
+        " triple",
+        -0.0012124951
+      ]
+    ]
+  },
+  "Each of these entities has a product divisible by 60, and primitive examples contain exactly one multiple of five. One method to generate them involves finding numbers whose product is half of a perfect square, and a method named for Euclid uses the difference of two squares and the sum of the same two squares. These sets always have an even sum, and their existence makes it necessary to include the requirement that n be greater than two in Fermat's [fair-mah'z]  last theorem. In any one of these": {
+    "guess": "Pythagorean triple",
+    "confidence": [
+      [
+        "P",
+        -0.029950999
+      ],
+      [
+        "yth",
+        0.0
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "orean",
+        0.0
+      ],
+      [
+        " triple",
+        -0.005612577
+      ]
+    ]
+  },
+  "Each of these entities has a product divisible by 60, and primitive examples contain exactly one multiple of five. One method to generate them involves finding numbers whose product is half of a perfect square, and a method named for Euclid uses the difference of two squares and the sum of the same two squares. These sets always have an even sum, and their existence makes it necessary to include the requirement that n be greater than two in Fermat's [fair-mah'z]  last theorem. In any one of these sets all three numbers must be integers, even though the equation they satisfy often gives an irrational": {
+    "guess": "Pythagorean triple",
+    "confidence": [
+      [
+        "P",
+        -0.0235216
+      ],
+      [
+        "yth",
+        0.0
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "orean",
+        0.0
+      ],
+      [
+        " triple",
+        -0.0042598005
+      ]
+    ]
+  },
+  "Each of these entities has a product divisible by 60, and primitive examples contain exactly one multiple of five. One method to generate them involves finding numbers whose product is half of a perfect square, and a method named for Euclid uses the difference of two squares and the sum of the same two squares. These sets always have an even sum, and their existence makes it necessary to include the requirement that n be greater than two in Fermat's [fair-mah'z]  last theorem. In any one of these sets all three numbers must be integers, even though the equation they satisfy often gives an irrational third value when the first two are integers. Name these sets of integers that can be the side": {
+    "guess": "Pythagorean triple",
+    "confidence": [
+      [
+        "P",
+        -0.000609748
+      ],
+      [
+        "yth",
+        0.0
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "orean",
+        0.0
+      ],
+      [
+        " triple",
+        -0.0025347597
+      ]
+    ]
+  },
+  "Each of these entities has a product divisible by 60, and primitive examples contain exactly one multiple of five. One method to generate them involves finding numbers whose product is half of a perfect square, and a method named for Euclid uses the difference of two squares and the sum of the same two squares. These sets always have an even sum, and their existence makes it necessary to include the requirement that n be greater than two in Fermat's [fair-mah'z]  last theorem. In any one of these sets all three numbers must be integers, even though the equation they satisfy often gives an irrational third value when the first two are integers. Name these sets of integers that can be the side lengths of a right triangle.": {
+    "guess": "Pythagorean triple",
+    "confidence": [
+      [
+        "P",
+        -0.0036425958
+      ],
+      [
+        "yth",
+        0.0
+      ],
+      [
+        "ag",
+        0.0
+      ],
+      [
+        "orean",
+        0.0
+      ],
+      [
+        " triple",
+        -0.00044699648
+      ]
+    ]
+  },
+  "Because it ensured that its generals were always buffered from civil government, it required a council": {
+    "guess": "Sparta",
+    "confidence": [
+      [
+        "Sp",
+        -0.36360532
+      ],
+      [
+        "arta",
+        -0.00056685304
+      ]
+    ]
+  },
+  "Because it ensured that its generals were always buffered from civil government, it required a council known as the Hundred and Four to oversee them. Its constitution strangely also buffered church and": {
+    "guess": "Carthage",
+    "confidence": [
+      [
+        "C",
+        -0.023835588
+      ],
+      [
+        "arth",
+        -3.1281633e-07
+      ],
+      [
+        "age",
+        -0.018153805
+      ]
+    ]
+  },
+  "Because it ensured that its generals were always buffered from civil government, it required a council known as the Hundred and Four to oversee them. Its constitution strangely also buffered church and state, yet encouraged child sacrifice, as noted by Aristotle. It was first ruled by Soffets in an dual": {
+    "guess": "Carthage",
+    "confidence": [
+      [
+        "C",
+        -0.000409462
+      ],
+      [
+        "arth",
+        -1.9361265e-07
+      ],
+      [
+        "age",
+        -7.226629e-06
+      ]
+    ]
+  },
+  "Because it ensured that its generals were always buffered from civil government, it required a council known as the Hundred and Four to oversee them. Its constitution strangely also buffered church and state, yet encouraged child sacrifice, as noted by Aristotle. It was first ruled by Soffets in an dual system much like its greatest rival, yet yielded to an oligarchy as ethnic requirements became less": {
+    "guess": "Carthage",
+    "confidence": [
+      [
+        "C",
+        -0.0037019737
+      ],
+      [
+        "arth",
+        0.0
+      ],
+      [
+        "age",
+        -0.00012391969
+      ]
+    ]
+  },
+  "Because it ensured that its generals were always buffered from civil government, it required a council known as the Hundred and Four to oversee them. Its constitution strangely also buffered church and state, yet encouraged child sacrifice, as noted by Aristotle. It was first ruled by Soffets in an dual system much like its greatest rival, yet yielded to an oligarchy as ethnic requirements became less stringent, allowing individuals like Adherbal and Hanno to rise to power. Its geographic power center": {
+    "guess": "Carthage",
+    "confidence": [
+      [
+        "C",
+        -0.0051559587
+      ],
+      [
+        "arth",
+        -1.9361265e-07
+      ],
+      [
+        "age",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "Because it ensured that its generals were always buffered from civil government, it required a council known as the Hundred and Four to oversee them. Its constitution strangely also buffered church and state, yet encouraged child sacrifice, as noted by Aristotle. It was first ruled by Soffets in an dual system much like its greatest rival, yet yielded to an oligarchy as ethnic requirements became less stringent, allowing individuals like Adherbal and Hanno to rise to power. Its geographic power center was the citadel Byrsa, though the palace's sea walls never needed to be very strong. FTP, identify": {
+    "guess": "Carthage",
+    "confidence": [
+      [
+        "C",
+        -0.00031627773
+      ],
+      [
+        "arth",
+        0.0
+      ],
+      [
+        "age",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Because it ensured that its generals were always buffered from civil government, it required a council known as the Hundred and Four to oversee them. Its constitution strangely also buffered church and state, yet encouraged child sacrifice, as noted by Aristotle. It was first ruled by Soffets in an dual system much like its greatest rival, yet yielded to an oligarchy as ethnic requirements became less stringent, allowing individuals like Adherbal and Hanno to rise to power. Its geographic power center was the citadel Byrsa, though the palace's sea walls never needed to be very strong. FTP, identify this city whose naval power led it to dominate the pre-Roman Mediterranean, most famously led by": {
+    "guess": "Carthage",
+    "confidence": [
+      [
+        "C",
+        -2.1054253e-05
+      ],
+      [
+        "arth",
+        0.0
+      ],
+      [
+        "age",
+        0.0
+      ]
+    ]
+  },
+  "Because it ensured that its generals were always buffered from civil government, it required a council known as the Hundred and Four to oversee them. Its constitution strangely also buffered church and state, yet encouraged child sacrifice, as noted by Aristotle. It was first ruled by Soffets in an dual system much like its greatest rival, yet yielded to an oligarchy as ethnic requirements became less stringent, allowing individuals like Adherbal and Hanno to rise to power. Its geographic power center was the citadel Byrsa, though the palace's sea walls never needed to be very strong. FTP, identify this city whose naval power led it to dominate the pre-Roman Mediterranean, most famously led by various members of the Barca family.": {
+    "guess": "Carthage",
+    "confidence": [
+      [
+        "C",
+        -2.8921695e-05
+      ],
+      [
+        "arth",
+        0.0
+      ],
+      [
+        "age",
+        0.0
+      ]
+    ]
+  },
+  "He entered military service as a commander of a Pennsylvania regiment and was assigned to cover the retreat": {
+    "guess": "George Washington",
+    "confidence": [
+      [
+        "George",
+        -0.9298067
+      ],
+      [
+        " Washington",
+        -8.363618e-05
+      ]
+    ]
+  },
+  "He entered military service as a commander of a Pennsylvania regiment and was assigned to cover the retreat of American forces from Qu\u00e9bec. After a promotion to brigadier general, he participated in the": {
+    "guess": "Benedict Arnold",
+    "confidence": [
+      [
+        "B",
+        -0.0013361938
+      ],
+      [
+        "ened",
+        0.0
+      ],
+      [
+        "ict",
+        0.0
+      ],
+      [
+        " Arnold",
+        0.0
+      ]
+    ]
+  },
+  "He entered military service as a commander of a Pennsylvania regiment and was assigned to cover the retreat of American forces from Qu\u00e9bec. After a promotion to brigadier general, he participated in the battles of Brandywine and Germantown and distinguished himself at the Battle of Monmouth in 1778,": {
+    "guess": "Anthony Wayne",
+    "confidence": [
+      [
+        "Anthony",
+        -0.9093389
+      ],
+      [
+        " Wayne",
+        0.0
+      ]
+    ]
+  },
+  "He entered military service as a commander of a Pennsylvania regiment and was assigned to cover the retreat of American forces from Qu\u00e9bec. After a promotion to brigadier general, he participated in the battles of Brandywine and Germantown and distinguished himself at the Battle of Monmouth in 1778, though his greatest achievement was probably his victory at Stony Point. He negotiated the Treaty of": {
+    "guess": "Anthony Wayne",
+    "confidence": [
+      [
+        "Anthony",
+        -0.6183097
+      ],
+      [
+        " Wayne",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "He entered military service as a commander of a Pennsylvania regiment and was assigned to cover the retreat of American forces from Qu\u00e9bec. After a promotion to brigadier general, he participated in the battles of Brandywine and Germantown and distinguished himself at the Battle of Monmouth in 1778, though his greatest achievement was probably his victory at Stony Point. He negotiated the Treaty of Greenville in 1795 after his most famous battle near Toledo, Ohio. FTP, identify this \"Mad\" Revolutionary": {
+    "guess": "Anthony Wayne",
+    "confidence": [
+      [
+        "Anthony",
+        -0.1678454
+      ],
+      [
+        " Wayne",
+        0.0
+      ]
+    ]
+  },
+  "He entered military service as a commander of a Pennsylvania regiment and was assigned to cover the retreat of American forces from Qu\u00e9bec. After a promotion to brigadier general, he participated in the battles of Brandywine and Germantown and distinguished himself at the Battle of Monmouth in 1778, though his greatest achievement was probably his victory at Stony Point. He negotiated the Treaty of Greenville in 1795 after his most famous battle near Toledo, Ohio. FTP, identify this \"Mad\" Revolutionary War general who succeeded at the Battle of Fallen Timbers.": {
+    "guess": "Anthony Wayne",
+    "confidence": [
+      [
+        "Anthony",
+        -0.0036786946
+      ],
+      [
+        " Wayne",
+        0.0
+      ]
+    ]
+  },
+  "When this entity refuses counsel, his younger brother Vibheeshana deserts him. After conquering the three": {
+    "guess": "Ravana",
+    "confidence": [
+      [
+        "R",
+        -0.00011868205
+      ],
+      [
+        "avana",
+        -1.569009e-05
+      ]
+    ]
+  },
+  "When this entity refuses counsel, his younger brother Vibheeshana deserts him. After conquering the three worlds, he receives a boon from Brahma stating that no god will ever be able to defeat him. Shortly": {
+    "guess": "Ravana",
+    "confidence": [
+      [
+        "R",
+        -0.0010586526
+      ],
+      [
+        "avana",
+        -1.9816675e-06
+      ]
+    ]
+  },
+  "When this entity refuses counsel, his younger brother Vibheeshana deserts him. After conquering the three worlds, he receives a boon from Brahma stating that no god will ever be able to defeat him. Shortly after his brother Khara and sister Soorpanakha are killed, he defeats the valiant attempts of Jataayu": {
+    "guess": "Ravana",
+    "confidence": [
+      [
+        "R",
+        -1.8789384e-05
+      ],
+      [
+        "avana",
+        -5.2285613e-05
+      ]
+    ]
+  },
+  "When this entity refuses counsel, his younger brother Vibheeshana deserts him. After conquering the three worlds, he receives a boon from Brahma stating that no god will ever be able to defeat him. Shortly after his brother Khara and sister Soorpanakha are killed, he defeats the valiant attempts of Jataayu the eagle-king who attacks his magical chariot Pushpaka, successfully returning to Sri Lanka": {
+    "guess": "Ravana",
+    "confidence": [
+      [
+        "R",
+        -6.9570146e-05
+      ],
+      [
+        "avana",
+        -4.8351892e-05
+      ]
+    ]
+  },
+  "When this entity refuses counsel, his younger brother Vibheeshana deserts him. After conquering the three worlds, he receives a boon from Brahma stating that no god will ever be able to defeat him. Shortly after his brother Khara and sister Soorpanakha are killed, he defeats the valiant attempts of Jataayu the eagle-king who attacks his magical chariot Pushpaka, successfully returning to Sri Lanka with his prize. For ten points, name this king of the Rakshasas.": {
+    "guess": "Ravana",
+    "confidence": [
+      [
+        "R",
+        -0.00010330478
+      ],
+      [
+        "avana",
+        -8.657073e-06
+      ]
+    ]
+  },
+  "One entry in this series features a side mode in which the goal is to create a tower as a safe haven": {
+    "guess": "Fortnite",
+    "confidence": [
+      [
+        "Fort",
+        -0.2004802
+      ],
+      [
+        "nite",
+        -0.25193372
+      ]
+    ]
+  },
+  "One entry in this series features a side mode in which the goal is to create a tower as a safe haven for peasants, called \"Ambition Mode\". Anachronisms in this series include one character wielding a pair": {
+    "guess": "Dynasty Warriors",
+    "confidence": [
+      [
+        "Dyn",
+        -0.0007063562
+      ],
+      [
+        "asty",
+        0.0
+      ],
+      [
+        " Warriors",
+        0.0
+      ]
+    ]
+  },
+  "One entry in this series features a side mode in which the goal is to create a tower as a safe haven for peasants, called \"Ambition Mode\". Anachronisms in this series include one character wielding a pair of tonfa and another firing lasers out of his fan. A recurring character in this series usually": {
+    "guess": "Dynasty Warriors",
+    "confidence": [
+      [
+        "Dyn",
+        -0.000793782
+      ],
+      [
+        "asty",
+        0.0
+      ],
+      [
+        " Warriors",
+        0.0
+      ]
+    ]
+  },
+  "One entry in this series features a side mode in which the goal is to create a tower as a safe haven for peasants, called \"Ambition Mode\". Anachronisms in this series include one character wielding a pair of tonfa and another firing lasers out of his fan. A recurring character in this series usually carries halberds, though in one entry that weapon is replaced with four-pointed cross-pikes; in a popular": {
+    "guess": "Dynasty Warriors",
+    "confidence": [
+      [
+        "Dyn",
+        -0.0006775272
+      ],
+      [
+        "asty",
+        0.0
+      ],
+      [
+        " Warriors",
+        0.0
+      ]
+    ]
+  },
+  "One entry in this series features a side mode in which the goal is to create a tower as a safe haven for peasants, called \"Ambition Mode\". Anachronisms in this series include one character wielding a pair of tonfa and another firing lasers out of his fan. A recurring character in this series usually carries halberds, though in one entry that weapon is replaced with four-pointed cross-pikes; in a popular meme, the player is ordered to (*) \"not pursue\" that character. In a crossover, characters from": {
+    "guess": "Dynasty Warriors",
+    "confidence": [
+      [
+        "Dyn",
+        -0.0006601345
+      ],
+      [
+        "asty",
+        0.0
+      ],
+      [
+        " Warriors",
+        0.0
+      ]
+    ]
+  },
+  "One entry in this series features a side mode in which the goal is to create a tower as a safe haven for peasants, called \"Ambition Mode\". Anachronisms in this series include one character wielding a pair of tonfa and another firing lasers out of his fan. A recurring character in this series usually carries halberds, though in one entry that weapon is replaced with four-pointed cross-pikes; in a popular meme, the player is ordered to (*) \"not pursue\" that character. In a crossover, characters from this series join up with some 16th-century figures to battle the fox spirit Da Ji and scythe-wielding": {
+    "guess": "Dynasty Warriors",
+    "confidence": [
+      [
+        "Dyn",
+        -0.0032479432
+      ],
+      [
+        "asty",
+        0.0
+      ],
+      [
+        " Warriors",
+        0.0
+      ]
+    ]
+  },
+  "One entry in this series features a side mode in which the goal is to create a tower as a safe haven for peasants, called \"Ambition Mode\". Anachronisms in this series include one character wielding a pair of tonfa and another firing lasers out of his fan. A recurring character in this series usually carries halberds, though in one entry that weapon is replaced with four-pointed cross-pikes; in a popular meme, the player is ordered to (*) \"not pursue\" that character. In a crossover, characters from this series join up with some 16th-century figures to battle the fox spirit Da Ji and scythe-wielding Orochi. Recurring elements in this series include filling a bar by either killing people or taking": {
+    "guess": "Dynasty Warriors",
+    "confidence": [
+      [
+        "Dyn",
+        -0.0017944202
+      ],
+      [
+        "asty",
+        0.0
+      ],
+      [
+        " Warriors",
+        0.0
+      ]
+    ]
+  },
+  "One entry in this series features a side mode in which the goal is to create a tower as a safe haven for peasants, called \"Ambition Mode\". Anachronisms in this series include one character wielding a pair of tonfa and another firing lasers out of his fan. A recurring character in this series usually carries halberds, though in one entry that weapon is replaced with four-pointed cross-pikes; in a popular meme, the player is ordered to (*) \"not pursue\" that character. In a crossover, characters from this series join up with some 16th-century figures to battle the fox spirit Da Ji and scythe-wielding Orochi. Recurring elements in this series include filling a bar by either killing people or taking damage in order to activate \"Mousou\" attacks. The latest game in this series, which often feature": {
+    "guess": "Dynasty Warriors",
+    "confidence": [
+      [
+        "Dyn",
+        -0.0007702016
+      ],
+      [
+        "asty",
+        0.0
+      ],
+      [
+        " Warriors",
+        0.0
+      ]
+    ]
+  },
+  "One entry in this series features a side mode in which the goal is to create a tower as a safe haven for peasants, called \"Ambition Mode\". Anachronisms in this series include one character wielding a pair of tonfa and another firing lasers out of his fan. A recurring character in this series usually carries halberds, though in one entry that weapon is replaced with four-pointed cross-pikes; in a popular meme, the player is ordered to (*) \"not pursue\" that character. In a crossover, characters from this series join up with some 16th-century figures to battle the fox spirit Da Ji and scythe-wielding Orochi. Recurring elements in this series include filling a bar by either killing people or taking damage in order to activate \"Mousou\" attacks. The latest game in this series, which often feature expansions entitled \"Xtreme Legends\", is the first that includes the Jin, and its seventh entry is": {
+    "guess": "Dynasty Warriors",
+    "confidence": [
+      [
+        "Dyn",
+        -5.2285613e-05
+      ],
+      [
+        "asty",
+        0.0
+      ],
+      [
+        " Warriors",
+        0.0
+      ]
+    ]
+  },
+  "One entry in this series features a side mode in which the goal is to create a tower as a safe haven for peasants, called \"Ambition Mode\". Anachronisms in this series include one character wielding a pair of tonfa and another firing lasers out of his fan. A recurring character in this series usually carries halberds, though in one entry that weapon is replaced with four-pointed cross-pikes; in a popular meme, the player is ordered to (*) \"not pursue\" that character. In a crossover, characters from this series join up with some 16th-century figures to battle the fox spirit Da Ji and scythe-wielding Orochi. Recurring elements in this series include filling a bar by either killing people or taking damage in order to activate \"Mousou\" attacks. The latest game in this series, which often feature expansions entitled \"Xtreme Legends\", is the first that includes the Jin, and its seventh entry is the first to extend past the Wuzhang Plains. For 10 points, name this long-running series of video games": {
+    "guess": "Dynasty Warriors",
+    "confidence": [
+      [
+        "Dyn",
+        -0.00013297916
+      ],
+      [
+        "asty",
+        0.0
+      ],
+      [
+        " Warriors",
+        0.0
+      ]
+    ]
+  },
+  "One entry in this series features a side mode in which the goal is to create a tower as a safe haven for peasants, called \"Ambition Mode\". Anachronisms in this series include one character wielding a pair of tonfa and another firing lasers out of his fan. A recurring character in this series usually carries halberds, though in one entry that weapon is replaced with four-pointed cross-pikes; in a popular meme, the player is ordered to (*) \"not pursue\" that character. In a crossover, characters from this series join up with some 16th-century figures to battle the fox spirit Da Ji and scythe-wielding Orochi. Recurring elements in this series include filling a bar by either killing people or taking damage in order to activate \"Mousou\" attacks. The latest game in this series, which often feature expansions entitled \"Xtreme Legends\", is the first that includes the Jin, and its seventh entry is the first to extend past the Wuzhang Plains. For 10 points, name this long-running series of video games from Omega Force and Koei, a brawler in which the player selects various personages from the Three": {
+    "guess": "Dynasty Warriors",
+    "confidence": [
+      [
+        "Dyn",
+        -6.837811e-05
+      ],
+      [
+        "asty",
+        0.0
+      ],
+      [
+        " Warriors",
+        0.0
+      ]
+    ]
+  },
+  "One entry in this series features a side mode in which the goal is to create a tower as a safe haven for peasants, called \"Ambition Mode\". Anachronisms in this series include one character wielding a pair of tonfa and another firing lasers out of his fan. A recurring character in this series usually carries halberds, though in one entry that weapon is replaced with four-pointed cross-pikes; in a popular meme, the player is ordered to (*) \"not pursue\" that character. In a crossover, characters from this series join up with some 16th-century figures to battle the fox spirit Da Ji and scythe-wielding Orochi. Recurring elements in this series include filling a bar by either killing people or taking damage in order to activate \"Mousou\" attacks. The latest game in this series, which often feature expansions entitled \"Xtreme Legends\", is the first that includes the Jin, and its seventh entry is the first to extend past the Wuzhang Plains. For 10 points, name this long-running series of video games from Omega Force and Koei, a brawler in which the player selects various personages from the Three Kingdoms Era of China.": {
+    "guess": "Dynasty Warriors",
+    "confidence": [
+      [
+        "Dyn",
+        -2.868329e-05
+      ],
+      [
+        "asty",
+        0.0
+      ],
+      [
+        " Warriors",
+        0.0
+      ]
+    ]
+  },
+  "These entities are not always explicitly noted in abjads, most of which are Semitic in origin. In Hebrew,": {
+    "guess": "Vowels",
+    "confidence": [
+      [
+        "V",
+        -0.006032604
+      ],
+      [
+        "owels",
+        -0.38687584
+      ]
+    ]
+  },
+  "These entities are not always explicitly noted in abjads, most of which are Semitic in origin. In Hebrew, they are denoted with Nikkud, and in Arabic, they can be altered via Imalah. Otto Jespersen studied": {
+    "guess": "Vowel",
+    "confidence": [
+      [
+        "V",
+        -0.07995905
+      ],
+      [
+        "owel",
+        -0.0019361277
+      ]
+    ]
+  },
+  "These entities are not always explicitly noted in abjads, most of which are Semitic in origin. In Hebrew, they are denoted with Nikkud, and in Arabic, they can be altered via Imalah. Otto Jespersen studied a (*) \"great shift\" in these entities, and when two of these occur in the same syllable, they form": {
+    "guess": "Vowel",
+    "confidence": [
+      [
+        "V",
+        -0.034748986
+      ],
+      [
+        "owel",
+        -0.011048171
+      ]
+    ]
+  },
+  "These entities are not always explicitly noted in abjads, most of which are Semitic in origin. In Hebrew, they are denoted with Nikkud, and in Arabic, they can be altered via Imalah. Otto Jespersen studied a (*) \"great shift\" in these entities, and when two of these occur in the same syllable, they form a diphthong. Coming in long and short varieties, The letter Y is sometimes considered one of, for": {
+    "guess": "Vowel",
+    "confidence": [
+      [
+        "V",
+        -0.012782859
+      ],
+      [
+        "owel",
+        -0.011048528
+      ]
+    ]
+  },
+  "These entities are not always explicitly noted in abjads, most of which are Semitic in origin. In Hebrew, they are denoted with Nikkud, and in Arabic, they can be altered via Imalah. Otto Jespersen studied a (*) \"great shift\" in these entities, and when two of these occur in the same syllable, they form a diphthong. Coming in long and short varieties, The letter Y is sometimes considered one of, for ten points, what type of sound, which in English is represented by \"A\", \"E\", \"I\", \"O\", and \"U\"?": {
+    "guess": "Vowel",
+    "confidence": [
+      [
+        "V",
+        -0.012546854
+      ],
+      [
+        "owel",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "This entity was originally launched under the Sunshine Press organization, and it was notably supported": {
+    "guess": "WikiLeaks",
+    "confidence": [
+      [
+        "Wiki",
+        -0.0018572459
+      ],
+      [
+        "Leaks",
+        0.0
+      ]
+    ]
+  },
+  "This entity was originally launched under the Sunshine Press organization, and it was notably supported by Bradley Manning. The New York Daily News ranked this organization first among ones that could": {
+    "guess": "WikiLeaks",
+    "confidence": [
+      [
+        "Wiki",
+        -0.0025653145
+      ],
+      [
+        "Leaks",
+        0.0
+      ]
+    ]
+  },
+  "This entity was originally launched under the Sunshine Press organization, and it was notably supported by Bradley Manning. The New York Daily News ranked this organization first among ones that could \"totally change the news\" in 2010, the same year its creator was named the Reader's Choice for TIME's": {
+    "guess": "WikiLeaks",
+    "confidence": [
+      [
+        "Wiki",
+        -0.0014215453
+      ],
+      [
+        "Leaks",
+        0.0
+      ]
+    ]
+  },
+  "This entity was originally launched under the Sunshine Press organization, and it was notably supported by Bradley Manning. The New York Daily News ranked this organization first among ones that could \"totally change the news\" in 2010, the same year its creator was named the Reader's Choice for TIME's Person of the Year. 2010 also saw this (*) website's disclosure of field reports from the United States": {
+    "guess": "WikiLeaks",
+    "confidence": [
+      [
+        "Wiki",
+        -0.0005693563
+      ],
+      [
+        "Leaks",
+        0.0
+      ]
+    ]
+  },
+  "This entity was originally launched under the Sunshine Press organization, and it was notably supported by Bradley Manning. The New York Daily News ranked this organization first among ones that could \"totally change the news\" in 2010, the same year its creator was named the Reader's Choice for TIME's Person of the Year. 2010 also saw this (*) website's disclosure of field reports from the United States Army, called the Iraq War Logs, as well as \"Cablegate\", the publishing of over 250,000 diplomatic": {
+    "guess": "WikiLeaks",
+    "confidence": [
+      [
+        "Wiki",
+        -2.3438328e-05
+      ],
+      [
+        "Leaks",
+        0.0
+      ]
+    ]
+  },
+  "This entity was originally launched under the Sunshine Press organization, and it was notably supported by Bradley Manning. The New York Daily News ranked this organization first among ones that could \"totally change the news\" in 2010, the same year its creator was named the Reader's Choice for TIME's Person of the Year. 2010 also saw this (*) website's disclosure of field reports from the United States Army, called the Iraq War Logs, as well as \"Cablegate\", the publishing of over 250,000 diplomatic cables. Featuring a logo with the earth dripping in an hourglass is, for ten points , what non-": {
+    "guess": "WikiLeaks",
+    "confidence": [
+      [
+        "Wiki",
+        -1.831257e-05
+      ],
+      [
+        "Leaks",
+        0.0
+      ]
+    ]
+  },
+  "This entity was originally launched under the Sunshine Press organization, and it was notably supported by Bradley Manning. The New York Daily News ranked this organization first among ones that could \"totally change the news\" in 2010, the same year its creator was named the Reader's Choice for TIME's Person of the Year. 2010 also saw this (*) website's disclosure of field reports from the United States Army, called the Iraq War Logs, as well as \"Cablegate\", the publishing of over 250,000 diplomatic cables. Featuring a logo with the earth dripping in an hourglass is, for ten points , what non- profit organization with the slogan \"We open governments\", created by Julian Assange?": {
+    "guess": "WikiLeaks",
+    "confidence": [
+      [
+        "Wiki",
+        -1.569009e-05
+      ],
+      [
+        "Leaks",
+        0.0
+      ]
+    ]
+  },
+  "These entities are divided into \"C,\" \"S,\" and \"X\" groups depending on their spectral shapes in the SMASS": {
+    "guess": "Asteroid spectral types",
+    "confidence": [
+      [
+        "Ast",
+        -0.0028381571
+      ],
+      [
+        "eroid",
+        -0.5759418
+      ],
+      [
+        " spectral",
+        -0.4194849
+      ],
+      [
+        " types",
+        -0.003970593
+      ]
+    ]
+  },
+  "These entities are divided into \"C,\" \"S,\" and \"X\" groups depending on their spectral shapes in the SMASS and Tholen classification systems. One of these objects was discovered using the Titius-Bode Law": {
+    "guess": "Asteroid",
+    "confidence": [
+      [
+        "Ast",
+        -0.013286461
+      ],
+      [
+        "eroid",
+        -0.008617173
+      ]
+    ]
+  },
+  "These entities are divided into \"C,\" \"S,\" and \"X\" groups depending on their spectral shapes in the SMASS and Tholen classification systems. One of these objects was discovered using the Titius-Bode Law and was located in a region where they typically are not found, (*) Kirkwood Gaps. Divided into Aten,": {
+    "guess": "Asteroids",
+    "confidence": [
+      [
+        "Ast",
+        -0.014437547
+      ],
+      [
+        "eroids",
+        -0.31326336
+      ]
+    ]
+  },
+  "These entities are divided into \"C,\" \"S,\" and \"X\" groups depending on their spectral shapes in the SMASS and Tholen classification systems. One of these objects was discovered using the Titius-Bode Law and was located in a region where they typically are not found, (*) Kirkwood Gaps. Divided into Aten, Apollo, and Amor types, the ones beyond Neptune are collectively known as the Kuiper Belt, while": {
+    "guess": "Asteroids",
+    "confidence": [
+      [
+        "Ast",
+        -0.02786802
+      ],
+      [
+        "eroids",
+        -0.31326616
+      ]
+    ]
+  },
+  "These entities are divided into \"C,\" \"S,\" and \"X\" groups depending on their spectral shapes in the SMASS and Tholen classification systems. One of these objects was discovered using the Titius-Bode Law and was located in a region where they typically are not found, (*) Kirkwood Gaps. Divided into Aten, Apollo, and Amor types, the ones beyond Neptune are collectively known as the Kuiper Belt, while examples of these include Vesta and Ceres. For 10 points, name astronomical objects present between": {
+    "guess": "Asteroid",
+    "confidence": [
+      [
+        "Ast",
+        -0.0142761
+      ],
+      [
+        "eroid",
+        -0.10020796
+      ]
+    ]
+  },
+  "These entities are divided into \"C,\" \"S,\" and \"X\" groups depending on their spectral shapes in the SMASS and Tholen classification systems. One of these objects was discovered using the Titius-Bode Law and was located in a region where they typically are not found, (*) Kirkwood Gaps. Divided into Aten, Apollo, and Amor types, the ones beyond Neptune are collectively known as the Kuiper Belt, while examples of these include Vesta and Ceres. For 10 points, name astronomical objects present between Mars and Jupiter in a namesake \"belt.\"": {
+    "guess": "Asteroid",
+    "confidence": [
+      [
+        "Ast",
+        -0.0013445196
+      ],
+      [
+        "eroid",
+        -0.0067157284
+      ]
+    ]
+  },
+  "These entities appear in an expansion of a twice continuously differentiable function named for Schlomilch,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.17021216
+      ]
+    ]
+  },
+  "These entities appear in an expansion of a twice continuously differentiable function named for Schlomilch, and one way to find them is to use Nicholson's Formula. Nicholson also names an equation with": {
+    "guess": "Bessel functions",
+    "confidence": [
+      [
+        "B",
+        -0.61235094
+      ],
+      [
+        "essel",
+        -6.704273e-07
+      ],
+      [
+        " functions",
+        -0.6286289
+      ]
+    ]
+  },
+  "These entities appear in an expansion of a twice continuously differentiable function named for Schlomilch, and one way to find them is to use Nicholson's Formula. Nicholson also names an equation with Watson allowing one to relate different types of these entities, One way to calculate one of these": {
+    "guess": "Bessel functions",
+    "confidence": [
+      [
+        "B",
+        -0.11561899
+      ],
+      [
+        "essel",
+        0.0
+      ],
+      [
+        " functions",
+        -0.57882047
+      ]
+    ]
+  },
+  "These entities appear in an expansion of a twice continuously differentiable function named for Schlomilch, and one way to find them is to use Nicholson's Formula. Nicholson also names an equation with Watson allowing one to relate different types of these entities, One way to calculate one of these entities of a specific order is to use an algorithm named for Miller, but the standard way to find them": {
+    "guess": "Bessel function",
+    "confidence": [
+      [
+        "B",
+        -0.080810465
+      ],
+      [
+        "essel",
+        0.0
+      ],
+      [
+        " function",
+        -0.14629747
+      ]
+    ]
+  },
+  "These entities appear in an expansion of a twice continuously differentiable function named for Schlomilch, and one way to find them is to use Nicholson's Formula. Nicholson also names an equation with Watson allowing one to relate different types of these entities, One way to calculate one of these entities of a specific order is to use an algorithm named for Miller, but the standard way to find them is through the (*) Frobenius method. They are defined as solutions to the equation x-squared d-squared": {
+    "guess": "Bessel functions",
+    "confidence": [
+      [
+        "B",
+        -0.03819836
+      ],
+      [
+        "essel",
+        0.0
+      ],
+      [
+        " functions",
+        -0.18152802
+      ]
+    ]
+  },
+  "These entities appear in an expansion of a twice continuously differentiable function named for Schlomilch, and one way to find them is to use Nicholson's Formula. Nicholson also names an equation with Watson allowing one to relate different types of these entities, One way to calculate one of these entities of a specific order is to use an algorithm named for Miller, but the standard way to find them is through the (*) Frobenius method. They are defined as solutions to the equation x-squared d-squared y of d-x squared plus x times d-y of d-x plus quantity x squared minus n squared times y equals": {
+    "guess": "Bessel function",
+    "confidence": [
+      [
+        "B",
+        -0.07022352
+      ],
+      [
+        "essel",
+        0.0
+      ],
+      [
+        " function",
+        -0.16676162
+      ]
+    ]
+  },
+  "These entities appear in an expansion of a twice continuously differentiable function named for Schlomilch, and one way to find them is to use Nicholson's Formula. Nicholson also names an equation with Watson allowing one to relate different types of these entities, One way to calculate one of these entities of a specific order is to use an algorithm named for Miller, but the standard way to find them is through the (*) Frobenius method. They are defined as solutions to the equation x-squared d-squared y of d-x squared plus x times d-y of d-x plus quantity x squared minus n squared times y equals zero, known as their namesake differential equation. They are also the solutions of Laplace's equation": {
+    "guess": "Bessel function",
+    "confidence": [
+      [
+        "B",
+        -0.038098186
+      ],
+      [
+        "essel",
+        0.0
+      ],
+      [
+        " function",
+        -0.10037909
+      ]
+    ]
+  },
+  "These entities appear in an expansion of a twice continuously differentiable function named for Schlomilch, and one way to find them is to use Nicholson's Formula. Nicholson also names an equation with Watson allowing one to relate different types of these entities, One way to calculate one of these entities of a specific order is to use an algorithm named for Miller, but the standard way to find them is through the (*) Frobenius method. They are defined as solutions to the equation x-squared d-squared y of d-x squared plus x times d-y of d-x plus quantity x squared minus n squared times y equals zero, known as their namesake differential equation. They are also the solutions of Laplace's equation when given in cylindrical components. Ones of the third kind are named for Hankel, and are a linear": {
+    "guess": "Bessel function",
+    "confidence": [
+      [
+        "B",
+        -0.0011905836
+      ],
+      [
+        "essel",
+        0.0
+      ],
+      [
+        " function",
+        -0.4291313
+      ]
+    ]
+  },
+  "These entities appear in an expansion of a twice continuously differentiable function named for Schlomilch, and one way to find them is to use Nicholson's Formula. Nicholson also names an equation with Watson allowing one to relate different types of these entities, One way to calculate one of these entities of a specific order is to use an algorithm named for Miller, but the standard way to find them is through the (*) Frobenius method. They are defined as solutions to the equation x-squared d-squared y of d-x squared plus x times d-y of d-x plus quantity x squared minus n squared times y equals zero, known as their namesake differential equation. They are also the solutions of Laplace's equation when given in cylindrical components. Ones of the third kind are named for Hankel, and are a linear combination of those named for Neumann and those of the first kind. FTP, name these functions,": {
+    "guess": "Bessel function",
+    "confidence": [
+      [
+        "B",
+        -0.00462273
+      ],
+      [
+        "essel",
+        0.0
+      ],
+      [
+        " function",
+        -0.25210938
+      ]
+    ]
+  },
+  "These entities appear in an expansion of a twice continuously differentiable function named for Schlomilch, and one way to find them is to use Nicholson's Formula. Nicholson also names an equation with Watson allowing one to relate different types of these entities, One way to calculate one of these entities of a specific order is to use an algorithm named for Miller, but the standard way to find them is through the (*) Frobenius method. They are defined as solutions to the equation x-squared d-squared y of d-x squared plus x times d-y of d-x plus quantity x squared minus n squared times y equals zero, known as their namesake differential equation. They are also the solutions of Laplace's equation when given in cylindrical components. Ones of the third kind are named for Hankel, and are a linear combination of those named for Neumann and those of the first kind. FTP, name these functions, symbolized J and named for the German astronomer who first determined parallax.": {
+    "guess": "Bessel function",
+    "confidence": [
+      [
+        "B",
+        -0.0031824673
+      ],
+      [
+        "essel",
+        0.0
+      ],
+      [
+        " function",
+        -0.026307734
+      ]
+    ]
+  },
+  "He entered Parliament in 1820 and in 1827 became undersecretary for the colonies. In the reform government": {
+    "guess": "William Ewart Gladstone",
+    "confidence": [
+      [
+        "William",
+        -0.11084609
+      ],
+      [
+        " E",
+        -0.022103053
+      ],
+      [
+        "wart",
+        -0.00018387179
+      ],
+      [
+        " Glad",
+        -2.220075e-06
+      ],
+      [
+        "stone",
+        0.0
+      ]
+    ]
+  },
+  "He entered Parliament in 1820 and in 1827 became undersecretary for the colonies. In the reform government of Lord Grey he became chief secretary for Ireland, and in 1833 he became secretary of state for": {
+    "guess": "Edward Smith-Stanley, 14th Earl of Derby",
+    "confidence": [
+      [
+        "Edward",
+        -0.9012157
+      ],
+      [
+        " Smith",
+        -0.025929587
+      ],
+      [
+        "-St",
+        -2.4584822e-06
+      ],
+      [
+        "an",
+        0.0
+      ],
+      [
+        "ley",
+        -1.0206721e-05
+      ],
+      [
+        ",",
+        -4.036525e-05
+      ],
+      [
+        " ",
+        -7.226629e-06
+      ],
+      [
+        "14",
+        -3.1281633e-07
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " Earl",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Derby",
+        0.0
+      ]
+    ]
+  },
+  "He entered Parliament in 1820 and in 1827 became undersecretary for the colonies. In the reform government of Lord Grey he became chief secretary for Ireland, and in 1833 he became secretary of state for the colonies. In 1844, he assumed control of the Conservative party as a member of the House of Lords.": {
+    "guess": "Edward Smith-Stanley, 14th Earl of Derby",
+    "confidence": [
+      [
+        "Edward",
+        -0.78542954
+      ],
+      [
+        " Smith",
+        -0.008680401
+      ],
+      [
+        "-St",
+        -1.9361265e-07
+      ],
+      [
+        "an",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ],
+      [
+        ",",
+        -1.2948405e-05
+      ],
+      [
+        " ",
+        -1.9361265e-07
+      ],
+      [
+        "14",
+        0.0
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " Earl",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Derby",
+        0.0
+      ]
+    ]
+  },
+  "He entered Parliament in 1820 and in 1827 became undersecretary for the colonies. In the reform government of Lord Grey he became chief secretary for Ireland, and in 1833 he became secretary of state for the colonies. In 1844, he assumed control of the Conservative party as a member of the House of Lords. FTP, name this man, whose supporters were known as Stanleyites, who served as prime minister in": {
+    "guess": "Edward Smith-Stanley, 14th Earl of Derby",
+    "confidence": [
+      [
+        "Edward",
+        -0.0009867232
+      ],
+      [
+        " Smith",
+        -0.0007485176
+      ],
+      [
+        "-St",
+        0.0
+      ],
+      [
+        "an",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ],
+      [
+        ",",
+        -1.3186812e-05
+      ],
+      [
+        " ",
+        -1.9361265e-07
+      ],
+      [
+        "14",
+        0.0
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " Earl",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Derby",
+        0.0
+      ]
+    ]
+  },
+  "He entered Parliament in 1820 and in 1827 became undersecretary for the colonies. In the reform government of Lord Grey he became chief secretary for Ireland, and in 1833 he became secretary of state for the colonies. In 1844, he assumed control of the Conservative party as a member of the House of Lords. FTP, name this man, whose supporters were known as Stanleyites, who served as prime minister in 1852, 1858, and finally in 1866, and who shares his name with a horse race held at Churchill Downs.": {
+    "guess": "Edward Smith-Stanley, 14th Earl of Derby",
+    "confidence": [
+      [
+        "Edward",
+        -0.0071526957
+      ],
+      [
+        " Smith",
+        -0.0015353354
+      ],
+      [
+        "-St",
+        0.0
+      ],
+      [
+        "an",
+        0.0
+      ],
+      [
+        "ley",
+        0.0
+      ],
+      [
+        ",",
+        -0.023615096
+      ],
+      [
+        " ",
+        -4.179569e-05
+      ],
+      [
+        "14",
+        0.0
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        " Earl",
+        -4.3202e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Derby",
+        0.0
+      ]
+    ]
+  },
+  "These entities are present in Hoogsten base pairing, and they are strongest when symmetric. These entities": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.020642325
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " bond",
+        -0.3873585
+      ]
+    ]
+  },
+  "These entities are present in Hoogsten base pairing, and they are strongest when symmetric. These entities are considered electrostatic attractive forces, and one form of these is present in borane-ammonia": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.0067256684
+      ],
+      [
+        "rogen",
+        -9.0883464e-07
+      ],
+      [
+        " bond",
+        -0.00023977463
+      ]
+    ]
+  },
+  "These entities are present in Hoogsten base pairing, and they are strongest when symmetric. These entities are considered electrostatic attractive forces, and one form of these is present in borane-ammonia complexes. They allow for the bonding of nucleotides in adenine and thymine, in addition to other": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.00078044215
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " bond",
+        -2.4391957e-05
+      ]
+    ]
+  },
+  "These entities are present in Hoogsten base pairing, and they are strongest when symmetric. These entities are considered electrostatic attractive forces, and one form of these is present in borane-ammonia complexes. They allow for the bonding of nucleotides in adenine and thymine, in addition to other nucleotides in DNA. These types of bonds occur between a highly electronegative element such as nitrogen,": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.001343566
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " bond",
+        -1.6643718e-05
+      ]
+    ]
+  },
+  "These entities are present in Hoogsten base pairing, and they are strongest when symmetric. These entities are considered electrostatic attractive forces, and one form of these is present in borane-ammonia complexes. They allow for the bonding of nucleotides in adenine and thymine, in addition to other nucleotides in DNA. These types of bonds occur between a highly electronegative element such as nitrogen, oxygen, or fluorine with a certain element. For 10 points, name these strongest intermolecular": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.06425752
+      ],
+      [
+        "rogen",
+        -3.1281633e-07
+      ],
+      [
+        " bond",
+        -0.0009239653
+      ]
+    ]
+  },
+  "These entities are present in Hoogsten base pairing, and they are strongest when symmetric. These entities are considered electrostatic attractive forces, and one form of these is present in borane-ammonia complexes. They allow for the bonding of nucleotides in adenine and thymine, in addition to other nucleotides in DNA. These types of bonds occur between a highly electronegative element such as nitrogen, oxygen, or fluorine with a certain element. For 10 points, name these strongest intermolecular forces in covalent molecules which are responsible for surface tension and many of the other properties": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.044710442
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " bond",
+        -0.00048548827
+      ]
+    ]
+  },
+  "These entities are present in Hoogsten base pairing, and they are strongest when symmetric. These entities are considered electrostatic attractive forces, and one form of these is present in borane-ammonia complexes. They allow for the bonding of nucleotides in adenine and thymine, in addition to other nucleotides in DNA. These types of bonds occur between a highly electronegative element such as nitrogen, oxygen, or fluorine with a certain element. For 10 points, name these strongest intermolecular forces in covalent molecules which are responsible for surface tension and many of the other properties of water.": {
+    "guess": "Hydrogen bond",
+    "confidence": [
+      [
+        "Hyd",
+        -0.030316394
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        " bond",
+        -0.0006059335
+      ]
+    ]
+  },
+  "This entity took out twenty-two of its competitors in the Cleveland Massacre, while in a political cartoon,": {
+    "guess": "Standard Oil",
+    "confidence": [
+      [
+        "Standard",
+        -0.0059670727
+      ],
+      [
+        " Oil",
+        0.0
+      ]
+    ]
+  },
+  "This entity took out twenty-two of its competitors in the Cleveland Massacre, while in a political cartoon, this entity is depicted as two large snakes attacking the infant Hercules. One work about this": {
+    "guess": "Standard Oil",
+    "confidence": [
+      [
+        "Standard",
+        -0.003231306
+      ],
+      [
+        " Oil",
+        0.0
+      ]
+    ]
+  },
+  "This entity took out twenty-two of its competitors in the Cleveland Massacre, while in a political cartoon, this entity is depicted as two large snakes attacking the infant Hercules. One work about this company was written following an interview with Henry Rogers and was published in 19 parts by McClure's": {
+    "guess": "Standard Oil",
+    "confidence": [
+      [
+        "Standard",
+        -0.003129948
+      ],
+      [
+        " Oil",
+        0.0
+      ]
+    ]
+  },
+  "This entity took out twenty-two of its competitors in the Cleveland Massacre, while in a political cartoon, this entity is depicted as two large snakes attacking the infant Hercules. One work about this company was written following an interview with Henry Rogers and was published in 19 parts by McClure's magazine. That work detailed this company's history and was written by Ida Tarbell. This company,": {
+    "guess": "Standard Oil",
+    "confidence": [
+      [
+        "Standard",
+        -0.00019722259
+      ],
+      [
+        " Oil",
+        0.0
+      ]
+    ]
+  },
+  "This entity took out twenty-two of its competitors in the Cleveland Massacre, while in a political cartoon, this entity is depicted as two large snakes attacking the infant Hercules. One work about this company was written following an interview with Henry Rogers and was published in 19 parts by McClure's magazine. That work detailed this company's history and was written by Ida Tarbell. This company, which was dissolved by the Sherman Antitrust Act, sought to obtain a monopoly by driving out competitors": {
+    "guess": "Standard Oil",
+    "confidence": [
+      [
+        "Standard",
+        -0.00023333763
+      ],
+      [
+        " Oil",
+        0.0
+      ]
+    ]
+  },
+  "This entity took out twenty-two of its competitors in the Cleveland Massacre, while in a political cartoon, this entity is depicted as two large snakes attacking the infant Hercules. One work about this company was written following an interview with Henry Rogers and was published in 19 parts by McClure's magazine. That work detailed this company's history and was written by Ida Tarbell. This company, which was dissolved by the Sherman Antitrust Act, sought to obtain a monopoly by driving out competitors through vertical integration of the petroleum supply chain. FTP, name this company founded": {
+    "guess": "Standard Oil",
+    "confidence": [
+      [
+        "Standard",
+        -0.0003395151
+      ],
+      [
+        " Oil",
+        0.0
+      ]
+    ]
+  },
+  "This entity took out twenty-two of its competitors in the Cleveland Massacre, while in a political cartoon, this entity is depicted as two large snakes attacking the infant Hercules. One work about this company was written following an interview with Henry Rogers and was published in 19 parts by McClure's magazine. That work detailed this company's history and was written by Ida Tarbell. This company, which was dissolved by the Sherman Antitrust Act, sought to obtain a monopoly by driving out competitors through vertical integration of the petroleum supply chain. FTP, name this company founded by John D. Rockefeller.": {
+    "guess": "Standard Oil",
+    "confidence": [
+      [
+        "Standard",
+        -0.00014013138
+      ],
+      [
+        " Oil",
+        0.0
+      ]
+    ]
+  },
+  "These entities can be defined by their \"affective valence\" according to the theories of Kurt Lewin. The": {
+    "guess": "Field theory (psychology)",
+    "confidence": [
+      [
+        "Field",
+        -0.5966092
+      ],
+      [
+        " theory",
+        -0.0027127382
+      ],
+      [
+        " (",
+        -0.0045951996
+      ],
+      [
+        "psych",
+        -0.0057984362
+      ],
+      [
+        "ology",
+        -7.9418505e-06
+      ],
+      [
+        ")",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "These entities can be defined by their \"affective valence\" according to the theories of Kurt Lewin. The Affect Infusion Model provides various processing schema to explain how these affect how people handle": {
+    "guess": "Emotions",
+    "confidence": [
+      [
+        "Em",
+        -0.12045213
+      ],
+      [
+        "otions",
+        -8.061054e-06
+      ]
+    ]
+  },
+  "These entities can be defined by their \"affective valence\" according to the theories of Kurt Lewin. The Affect Infusion Model provides various processing schema to explain how these affect how people handle various situations. Carl Lange and William James independently developed theories that these are": {
+    "guess": "Emotion",
+    "confidence": [
+      [
+        "Emotion",
+        -0.6378038
+      ]
+    ]
+  },
+  "These entities can be defined by their \"affective valence\" according to the theories of Kurt Lewin. The Affect Infusion Model provides various processing schema to explain how these affect how people handle various situations. Carl Lange and William James independently developed theories that these are physiological responses generated by the autonomic nervous system, not spiritual or mental states.": {
+    "guess": "Emotion",
+    "confidence": [
+      [
+        "Emotion",
+        -0.10519813
+      ]
+    ]
+  },
+  "These entities can be defined by their \"affective valence\" according to the theories of Kurt Lewin. The Affect Infusion Model provides various processing schema to explain how these affect how people handle various situations. Carl Lange and William James independently developed theories that these are physiological responses generated by the autonomic nervous system, not spiritual or mental states. FTP the AIM model characterizes what types of feelings, examples of which include fear, happiness,": {
+    "guess": "Emotion",
+    "confidence": [
+      [
+        "Emotion",
+        -0.024726491
+      ]
+    ]
+  },
+  "These entities can be defined by their \"affective valence\" according to the theories of Kurt Lewin. The Affect Infusion Model provides various processing schema to explain how these affect how people handle various situations. Carl Lange and William James independently developed theories that these are physiological responses generated by the autonomic nervous system, not spiritual or mental states. FTP the AIM model characterizes what types of feelings, examples of which include fear, happiness, and love?": {
+    "guess": "Emotion",
+    "confidence": [
+      [
+        "Emotion",
+        -0.022677643
+      ]
+    ]
+  }
+}

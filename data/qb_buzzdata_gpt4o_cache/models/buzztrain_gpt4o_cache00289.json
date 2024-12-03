@@ -1,0 +1,298 @@
+{
+  "One atom of this element is found in the ring of a furan, and an atom of it is bound to two carbons in": {
+    "guess": "Oxygen",
+    "confidence": [
+      [
+        "O",
+        -0.38477188
+      ],
+      [
+        "xygen",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "One atom of this element is found in the ring of a furan, and an atom of it is bound to two carbons in an epoxide. Reactive species of this element are due to unpaired electrons, making them radicals.": {
+    "guess": "Oxygen",
+    "confidence": [
+      [
+        "O",
+        -0.004131238
+      ],
+      [
+        "xygen",
+        0.0
+      ]
+    ]
+  },
+  "One atom of this element is found in the ring of a furan, and an atom of it is bound to two carbons in an epoxide. Reactive species of this element are due to unpaired electrons, making them radicals. Three atoms of this element make up a compound that absorbs (*) ultraviolet light in the atmosphere.": {
+    "guess": "Oxygen",
+    "confidence": [
+      [
+        "O",
+        -0.023340864
+      ],
+      [
+        "xygen",
+        -0.008614808
+      ]
+    ]
+  },
+  "One atom of this element is found in the ring of a furan, and an atom of it is bound to two carbons in an epoxide. Reactive species of this element are due to unpaired electrons, making them radicals. Three atoms of this element make up a compound that absorbs (*) ultraviolet light in the atmosphere. Another form of this element is added to hydrocarbons in combustion reactions. For 10 points, name": {
+    "guess": "Oxygen",
+    "confidence": [
+      [
+        "O",
+        -0.01905632
+      ],
+      [
+        "xygen",
+        -0.0003357006
+      ]
+    ]
+  },
+  "One atom of this element is found in the ring of a furan, and an atom of it is bound to two carbons in an epoxide. Reactive species of this element are due to unpaired electrons, making them radicals. Three atoms of this element make up a compound that absorbs (*) ultraviolet light in the atmosphere. Another form of this element is added to hydrocarbons in combustion reactions. For 10 points, name this element, number eight on the periodic table, which has a diatomic form that is required for aerobic": {
+    "guess": "Oxygen",
+    "confidence": [
+      [
+        "O",
+        -0.011495041
+      ],
+      [
+        "xygen",
+        -4.561021e-05
+      ]
+    ]
+  },
+  "One atom of this element is found in the ring of a furan, and an atom of it is bound to two carbons in an epoxide. Reactive species of this element are due to unpaired electrons, making them radicals. Three atoms of this element make up a compound that absorbs (*) ultraviolet light in the atmosphere. Another form of this element is added to hydrocarbons in combustion reactions. For 10 points, name this element, number eight on the periodic table, which has a diatomic form that is required for aerobic cellular respiration.": {
+    "guess": "Oxygen",
+    "confidence": [
+      [
+        "O",
+        -0.16050021
+      ],
+      [
+        "xygen",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "For atoms, there are many functions modeling this, including the ZBL Universal and Lennard-Jones varieties.": {
+    "guess": "Interatomic potential",
+    "confidence": [
+      [
+        "Inter",
+        -0.0058905184
+      ],
+      [
+        "atomic",
+        -9.770221e-05
+      ],
+      [
+        " potential",
+        -0.0032070617
+      ]
+    ]
+  },
+  "For atoms, there are many functions modeling this, including the ZBL Universal and Lennard-Jones varieties. Conservative force fields can be considered as the negative gradient of this, and it is, in general,": {
+    "guess": "Potential energy",
+    "confidence": [
+      [
+        "Potential",
+        -0.018260218
+      ],
+      [
+        " energy",
+        -0.0015656884
+      ]
+    ]
+  },
+  "For atoms, there are many functions modeling this, including the ZBL Universal and Lennard-Jones varieties. Conservative force fields can be considered as the negative gradient of this, and it is, in general, proportional to a generalized charge, which may be dipole moment for the electrostatic dipole": {
+    "guess": "Potential energy",
+    "confidence": [
+      [
+        "Potential",
+        -0.031697813
+      ],
+      [
+        " energy",
+        -0.0031855558
+      ]
+    ]
+  },
+  "For atoms, there are many functions modeling this, including the ZBL Universal and Lennard-Jones varieties. Conservative force fields can be considered as the negative gradient of this, and it is, in general, proportional to a generalized charge, which may be dipole moment for the electrostatic dipole variety, or mass for the gravitational variety. For ten points, name this type of energy, generally": {
+    "guess": "Potential energy",
+    "confidence": [
+      [
+        "Potential",
+        -0.003218588
+      ],
+      [
+        " energy",
+        -6.2775536e-05
+      ]
+    ]
+  },
+  "For atoms, there are many functions modeling this, including the ZBL Universal and Lennard-Jones varieties. Conservative force fields can be considered as the negative gradient of this, and it is, in general, proportional to a generalized charge, which may be dipole moment for the electrostatic dipole variety, or mass for the gravitational variety. For ten points, name this type of energy, generally symbolized U and equal, in the case of a particle of mass m at height h in a uniform gravitational": {
+    "guess": "Potential energy",
+    "confidence": [
+      [
+        "Potential",
+        -0.004634234
+      ],
+      [
+        " energy",
+        -2.188868e-05
+      ]
+    ]
+  },
+  "For atoms, there are many functions modeling this, including the ZBL Universal and Lennard-Jones varieties. Conservative force fields can be considered as the negative gradient of this, and it is, in general, proportional to a generalized charge, which may be dipole moment for the electrostatic dipole variety, or mass for the gravitational variety. For ten points, name this type of energy, generally symbolized U and equal, in the case of a particle of mass m at height h in a uniform gravitational field g, to mgh.": {
+    "guess": "Potential energy",
+    "confidence": [
+      [
+        "Potential",
+        -0.00020461321
+      ],
+      [
+        " energy",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "An atom of this element is placed on the 8th position of cyclic AMP to create a PDE inhibitor. An atom": {
+    "guess": "Phosphorus",
+    "confidence": [
+      [
+        "Ph",
+        -0.48739588
+      ],
+      [
+        "osph",
+        -1.0280384e-06
+      ],
+      [
+        "orus",
+        -0.0003210422
+      ]
+    ]
+  },
+  "An atom of this element is placed on the 8th position of cyclic AMP to create a PDE inhibitor. An atom of this element replaces a carboxylate group in the Hunsdiecker reaction, and it is added to the alpha": {
+    "guess": "Iodine",
+    "confidence": [
+      [
+        "I",
+        -0.024907792
+      ],
+      [
+        "od",
+        -1.9361265e-07
+      ],
+      [
+        "ine",
+        -4.0722858e-05
+      ]
+    ]
+  },
+  "An atom of this element is placed on the 8th position of cyclic AMP to create a PDE inhibitor. An atom of this element replaces a carboxylate group in the Hunsdiecker reaction, and it is added to the alpha carbon of a carboxylic acid in the Hell-Volhard-Zelinsky reaction. NBS is used to add this element": {
+    "guess": "Bromine",
+    "confidence": [
+      [
+        "B",
+        -0.002268255
+      ],
+      [
+        "rom",
+        -1.9361265e-07
+      ],
+      [
+        "ine",
+        -0.00026169344
+      ]
+    ]
+  },
+  "An atom of this element is placed on the 8th position of cyclic AMP to create a PDE inhibitor. An atom of this element replaces a carboxylate group in the Hunsdiecker reaction, and it is added to the alpha carbon of a carboxylic acid in the Hell-Volhard-Zelinsky reaction. NBS is used to add this element to alkanes via a radical. In mass spectrometry, compounds with this element have a pair of peaks": {
+    "guess": "Bromine",
+    "confidence": [
+      [
+        "B",
+        -0.002504317
+      ],
+      [
+        "rom",
+        0.0
+      ],
+      [
+        "ine",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "An atom of this element is placed on the 8th position of cyclic AMP to create a PDE inhibitor. An atom of this element replaces a carboxylate group in the Hunsdiecker reaction, and it is added to the alpha carbon of a carboxylic acid in the Hell-Volhard-Zelinsky reaction. NBS is used to add this element to alkanes via a radical. In mass spectrometry, compounds with this element have a pair of peaks of equal intensity separated by 2 mass units, because this element has (*) two isotopes of approximately": {
+    "guess": "Bromine",
+    "confidence": [
+      [
+        "B",
+        -0.00053230225
+      ],
+      [
+        "rom",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "An atom of this element is placed on the 8th position of cyclic AMP to create a PDE inhibitor. An atom of this element replaces a carboxylate group in the Hunsdiecker reaction, and it is added to the alpha carbon of a carboxylic acid in the Hell-Volhard-Zelinsky reaction. NBS is used to add this element to alkanes via a radical. In mass spectrometry, compounds with this element have a pair of peaks of equal intensity separated by 2 mass units, because this element has (*) two isotopes of approximately equal abundance. When ionically bonded to potassium, it forms a powerful sedative, and its compound": {
+    "guess": "Bromine",
+    "confidence": [
+      [
+        "B",
+        -0.007957342
+      ],
+      [
+        "rom",
+        -3.1281633e-07
+      ],
+      [
+        "ine",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "An atom of this element is placed on the 8th position of cyclic AMP to create a PDE inhibitor. An atom of this element replaces a carboxylate group in the Hunsdiecker reaction, and it is added to the alpha carbon of a carboxylic acid in the Hell-Volhard-Zelinsky reaction. NBS is used to add this element to alkanes via a radical. In mass spectrometry, compounds with this element have a pair of peaks of equal intensity separated by 2 mass units, because this element has (*) two isotopes of approximately equal abundance. When ionically bonded to potassium, it forms a powerful sedative, and its compound with silver is used in photographic film. For 10 points, name this element, a halogen which is": {
+    "guess": "Bromine",
+    "confidence": [
+      [
+        "B",
+        -0.0014240451
+      ],
+      [
+        "rom",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "An atom of this element is placed on the 8th position of cyclic AMP to create a PDE inhibitor. An atom of this element replaces a carboxylate group in the Hunsdiecker reaction, and it is added to the alpha carbon of a carboxylic acid in the Hell-Volhard-Zelinsky reaction. NBS is used to add this element to alkanes via a radical. In mass spectrometry, compounds with this element have a pair of peaks of equal intensity separated by 2 mass units, because this element has (*) two isotopes of approximately equal abundance. When ionically bonded to potassium, it forms a powerful sedative, and its compound with silver is used in photographic film. For 10 points, name this element, a halogen which is a red-brown liquid at room temperature, which atomic number 35 and symbol Br.": {
+    "guess": "Bromine",
+    "confidence": [
+      [
+        "B",
+        -0.011118329
+      ],
+      [
+        "rom",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  }
+}

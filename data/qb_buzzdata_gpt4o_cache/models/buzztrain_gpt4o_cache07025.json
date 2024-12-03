@@ -1,0 +1,149 @@
+{
+  "In a shack labeled \"home\", the protagonist of this work discovers a manuscript which shares its title": {
+    "guess": "A clockwork orange",
+    "confidence": [
+      [
+        "A",
+        -0.0895462
+      ],
+      [
+        " clock",
+        -0.6931617
+      ],
+      [
+        "work",
+        -1.9361265e-07
+      ],
+      [
+        " orange",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In a shack labeled \"home\", the protagonist of this work discovers a manuscript which shares its title with this novel, and he listens to music by Otto Skadelig before leaping out a window. He frequently": {
+    "guess": "A Clockwork Orange",
+    "confidence": [
+      [
+        "A",
+        -0.0017298026
+      ],
+      [
+        " Clock",
+        -0.16025297
+      ],
+      [
+        "work",
+        -1.9361265e-07
+      ],
+      [
+        " Orange",
+        0.0
+      ]
+    ]
+  },
+  "In a shack labeled \"home\", the protagonist of this work discovers a manuscript which shares its title with this novel, and he listens to music by Otto Skadelig before leaping out a window. He frequently drinks liquid laced with drugs such as Synthemesc, Vellocet and Drencrom at the (*) Korova milkbar": {
+    "guess": "A Clockwork Orange",
+    "confidence": [
+      [
+        "A",
+        -0.0003550079
+      ],
+      [
+        " Clock",
+        -0.16026506
+      ],
+      [
+        "work",
+        -4.3202e-07
+      ],
+      [
+        " Orange",
+        0.0
+      ]
+    ]
+  },
+  "In a shack labeled \"home\", the protagonist of this work discovers a manuscript which shares its title with this novel, and he listens to music by Otto Skadelig before leaping out a window. He frequently drinks liquid laced with drugs such as Synthemesc, Vellocet and Drencrom at the (*) Korova milkbar with Dim, Pete, and George. The protagonist also enjoys classical music in this work, particularly": {
+    "guess": "A Clockwork Orange",
+    "confidence": [
+      [
+        "A",
+        -0.0020164289
+      ],
+      [
+        " Clock",
+        -7.3458323e-06
+      ],
+      [
+        "work",
+        -1.2664457e-06
+      ],
+      [
+        " Orange",
+        0.0
+      ]
+    ]
+  },
+  "In a shack labeled \"home\", the protagonist of this work discovers a manuscript which shares its title with this novel, and he listens to music by Otto Skadelig before leaping out a window. He frequently drinks liquid laced with drugs such as Synthemesc, Vellocet and Drencrom at the (*) Korova milkbar with Dim, Pete, and George. The protagonist also enjoys classical music in this work, particularly fond of \"Lovely Ludwig Van,\" and he fantasizes about ultra-violence, which leads him to flee to F. Alexander": {
+    "guess": "A Clockwork Orange",
+    "confidence": [
+      [
+        "A",
+        -0.0007645991
+      ],
+      [
+        " Clock",
+        -2.808727e-05
+      ],
+      [
+        "work",
+        -1.0280384e-06
+      ],
+      [
+        " Orange",
+        0.0
+      ]
+    ]
+  },
+  "In a shack labeled \"home\", the protagonist of this work discovers a manuscript which shares its title with this novel, and he listens to music by Otto Skadelig before leaping out a window. He frequently drinks liquid laced with drugs such as Synthemesc, Vellocet and Drencrom at the (*) Korova milkbar with Dim, Pete, and George. The protagonist also enjoys classical music in this work, particularly fond of \"Lovely Ludwig Van,\" and he fantasizes about ultra-violence, which leads him to flee to F. Alexander after undergoing treatment by the Ludovico Technique. For ten points, name this dystopian novel": {
+    "guess": "A Clockwork Orange",
+    "confidence": [
+      [
+        "A",
+        -2.2961513e-05
+      ],
+      [
+        " Clock",
+        -0.00043114604
+      ],
+      [
+        "work",
+        -1.0280384e-06
+      ],
+      [
+        " Orange",
+        0.0
+      ]
+    ]
+  },
+  "In a shack labeled \"home\", the protagonist of this work discovers a manuscript which shares its title with this novel, and he listens to music by Otto Skadelig before leaping out a window. He frequently drinks liquid laced with drugs such as Synthemesc, Vellocet and Drencrom at the (*) Korova milkbar with Dim, Pete, and George. The protagonist also enjoys classical music in this work, particularly fond of \"Lovely Ludwig Van,\" and he fantasizes about ultra-violence, which leads him to flee to F. Alexander after undergoing treatment by the Ludovico Technique. For ten points, name this dystopian novel about the Nadsat-speaking Alex and his \"droogs\", a work of Anthony Burgess.": {
+    "guess": "A Clockwork Orange",
+    "confidence": [
+      [
+        "A",
+        -0.00038908547
+      ],
+      [
+        " Clock",
+        -0.0005586316
+      ],
+      [
+        "work",
+        -7.89631e-07
+      ],
+      [
+        " Orange",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "Adygea, Bashkortostan, Buryatia, Chuvashia, Kabardino-Balkaria, Karachay- Cherkessia, Yakutia,  Tuva,": {
+    "guess": "Republics of Russia",
+    "confidence": [
+      [
+        "Republic",
+        -0.15004268
+      ],
+      [
+        "s",
+        -5.7961847e-06
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " Russia",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Adygea, Bashkortostan, Buryatia, Chuvashia, Kabardino-Balkaria, Karachay- Cherkessia, Yakutia,  Tuva, Udmurtia, Khakassia, Tatarstan, Karelia, Dagestan, North Ossetia and Chechnya. For ten points  these": {
+    "guess": "Republics of Russia",
+    "confidence": [
+      [
+        "Republic",
+        -0.13037962
+      ],
+      [
+        "s",
+        -2.1008714e-06
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " Russia",
+        0.0
+      ]
+    ]
+  },
+  "Adygea, Bashkortostan, Buryatia, Chuvashia, Kabardino-Balkaria, Karachay- Cherkessia, Yakutia,  Tuva, Udmurtia, Khakassia, Tatarstan, Karelia, Dagestan, North Ossetia and Chechnya. For ten points  these are some of the twenty-one constituent republics which make up this country and which have been  given": {
+    "guess": "Republics of Russia",
+    "confidence": [
+      [
+        "Republic",
+        -0.037791625
+      ],
+      [
+        "s",
+        -6.704273e-07
+      ],
+      [
+        " of",
+        -2.9352968e-06
+      ],
+      [
+        " Russia",
+        -2.1008714e-06
+      ]
+    ]
+  },
+  "Adygea, Bashkortostan, Buryatia, Chuvashia, Kabardino-Balkaria, Karachay- Cherkessia, Yakutia,  Tuva, Udmurtia, Khakassia, Tatarstan, Karelia, Dagestan, North Ossetia and Chechnya. For ten points  these are some of the twenty-one constituent republics which make up this country and which have been  given special rights under a 1993 constitution.": {
+    "guess": "Russia",
+    "confidence": [
+      [
+        "Russia",
+        -0.007882596
+      ]
+    ]
+  }
+}

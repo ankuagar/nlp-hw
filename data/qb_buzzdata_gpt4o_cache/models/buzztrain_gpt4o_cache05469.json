@@ -1,0 +1,178 @@
+{
+  "An oft-told anecdote claims its original performer's beloved pet, Jack, inspired its 1905 creation. Wearing": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.20829235
+      ]
+    ]
+  },
+  "An oft-told anecdote claims its original performer's beloved pet, Jack, inspired its 1905 creation. Wearing a white cap or head-garland, the performer enters the center, and circles around and performs": {
+    "guess": "The Dying Swan",
+    "confidence": [
+      [
+        "The",
+        -0.29831618
+      ],
+      [
+        " D",
+        -0.11832635
+      ],
+      [
+        "ying",
+        -7.493431e-05
+      ],
+      [
+        " Swan",
+        -6.869018e-06
+      ]
+    ]
+  },
+  "An oft-told anecdote claims its original performer's beloved pet, Jack, inspired its 1905 creation. Wearing a white cap or head-garland, the performer enters the center, and circles around and performs several bourrees to the tune of an independently famous programmatic 3 minute Adagio piece traditionally": {
+    "guess": "The Swan (Saint-Sa\u00ebns)",
+    "confidence": [
+      [
+        "The",
+        -0.51805466
+      ],
+      [
+        " Swan",
+        -0.46369678
+      ],
+      [
+        " (",
+        -0.32216778
+      ],
+      [
+        "Saint",
+        -0.046869967
+      ],
+      [
+        "-S",
+        -6.0153056e-05
+      ],
+      [
+        "a",
+        -1.6240566e-06
+      ],
+      [
+        "\u00eb",
+        -1.3544423e-05
+      ],
+      [
+        "ns",
+        0.0
+      ],
+      [
+        ")",
+        -0.00093695114
+      ]
+    ]
+  },
+  "An oft-told anecdote claims its original performer's beloved pet, Jack, inspired its 1905 creation. Wearing a white cap or head-garland, the performer enters the center, and circles around and performs several bourrees to the tune of an independently famous programmatic 3 minute Adagio piece traditionally scored for a solo cello accompanied by a harp or two pianos. As the finale approaches, the dancer": {
+    "guess": "The Dying Swan",
+    "confidence": [
+      [
+        "The",
+        -0.17730469
+      ],
+      [
+        " D",
+        -0.22618087
+      ],
+      [
+        "ying",
+        0.0
+      ],
+      [
+        " Swan",
+        -1.7432603e-06
+      ]
+    ]
+  },
+  "An oft-told anecdote claims its original performer's beloved pet, Jack, inspired its 1905 creation. Wearing a white cap or head-garland, the performer enters the center, and circles around and performs several bourrees to the tune of an independently famous programmatic 3 minute Adagio piece traditionally scored for a solo cello accompanied by a harp or two pianos. As the finale approaches, the dancer returns to the center, makes several failed attempts at motion before falling on one knee and performing": {
+    "guess": "The Dying Swan",
+    "confidence": [
+      [
+        "The",
+        -0.3396655
+      ],
+      [
+        " D",
+        -0.59305423
+      ],
+      [
+        "ying",
+        0.0
+      ],
+      [
+        " Swan",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "An oft-told anecdote claims its original performer's beloved pet, Jack, inspired its 1905 creation. Wearing a white cap or head-garland, the performer enters the center, and circles around and performs several bourrees to the tune of an independently famous programmatic 3 minute Adagio piece traditionally scored for a solo cello accompanied by a harp or two pianos. As the finale approaches, the dancer returns to the center, makes several failed attempts at motion before falling on one knee and performing a dramatic port- de-bras with her arms to symbolize the snapping of the neck. FTP, name this": {
+    "guess": "The Dying Swan",
+    "confidence": [
+      [
+        "The",
+        -0.51624763
+      ],
+      [
+        " D",
+        -0.0074717402
+      ],
+      [
+        "ying",
+        0.0
+      ],
+      [
+        " Swan",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "An oft-told anecdote claims its original performer's beloved pet, Jack, inspired its 1905 creation. Wearing a white cap or head-garland, the performer enters the center, and circles around and performs several bourrees to the tune of an independently famous programmatic 3 minute Adagio piece traditionally scored for a solo cello accompanied by a harp or two pianos. As the finale approaches, the dancer returns to the center, makes several failed attempts at motion before falling on one knee and performing a dramatic port- de-bras with her arms to symbolize the snapping of the neck. FTP, name this solo ballet routine set to a piece from Carnival of the Animals depicting a moribund bird, the signature": {
+    "guess": "The Dying Swan",
+    "confidence": [
+      [
+        "The",
+        -0.10304099
+      ],
+      [
+        " D",
+        -0.10056065
+      ],
+      [
+        "ying",
+        0.0
+      ],
+      [
+        " Swan",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "An oft-told anecdote claims its original performer's beloved pet, Jack, inspired its 1905 creation. Wearing a white cap or head-garland, the performer enters the center, and circles around and performs several bourrees to the tune of an independently famous programmatic 3 minute Adagio piece traditionally scored for a solo cello accompanied by a harp or two pianos. As the finale approaches, the dancer returns to the center, makes several failed attempts at motion before falling on one knee and performing a dramatic port- de-bras with her arms to symbolize the snapping of the neck. FTP, name this solo ballet routine set to a piece from Carnival of the Animals depicting a moribund bird, the signature routine of Anna Pavlova.": {
+    "guess": "The Dying Swan",
+    "confidence": [
+      [
+        "The",
+        -0.01876493
+      ],
+      [
+        " D",
+        -0.0001875671
+      ],
+      [
+        "ying",
+        0.0
+      ],
+      [
+        " Swan",
+        -1.9361265e-07
+      ]
+    ]
+  }
+}

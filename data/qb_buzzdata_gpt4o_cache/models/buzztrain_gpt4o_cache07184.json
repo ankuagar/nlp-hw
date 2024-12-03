@@ -1,0 +1,138 @@
+{
+  "SRS-A is an example of a compound released by these cells and tryptases are a type of proteases prediominantly": {
+    "guess": "Mast cell",
+    "confidence": [
+      [
+        "M",
+        -0.00049381785
+      ],
+      [
+        "ast",
+        0.0
+      ],
+      [
+        " cell",
+        -0.1704234
+      ]
+    ]
+  },
+  "SRS-A is an example of a compound released by these cells and tryptases are a type of proteases prediominantly expressed in one type of them, while sodium cromoglycate is a compound used to stabilize the": {
+    "guess": "Mast Cell",
+    "confidence": [
+      [
+        "M",
+        -0.0036224045
+      ],
+      [
+        "ast",
+        0.0
+      ],
+      [
+        " Cell",
+        -0.10151833
+      ]
+    ]
+  },
+  "SRS-A is an example of a compound released by these cells and tryptases are a type of proteases prediominantly expressed in one type of them, while sodium cromoglycate is a compound used to stabilize the activity of these cells. They are derived from Cd-34+ pluripotent progenitor cells. They can be activated": {
+    "guess": "Mast cell",
+    "confidence": [
+      [
+        "M",
+        -3.8219583e-05
+      ],
+      [
+        "ast",
+        0.0
+      ],
+      [
+        " cell",
+        -0.00014203864
+      ]
+    ]
+  },
+  "SRS-A is an example of a compound released by these cells and tryptases are a type of proteases prediominantly expressed in one type of them, while sodium cromoglycate is a compound used to stabilize the activity of these cells. They are derived from Cd-34+ pluripotent progenitor cells. They can be activated by the crosslinking of IgE antibodies that are monomerically bound to them. Like the red blood": {
+    "guess": "Mast cell",
+    "confidence": [
+      [
+        "M",
+        -0.00021402664
+      ],
+      [
+        "ast",
+        0.0
+      ],
+      [
+        " cell",
+        -0.014730306
+      ]
+    ]
+  },
+  "SRS-A is an example of a compound released by these cells and tryptases are a type of proteases prediominantly expressed in one type of them, while sodium cromoglycate is a compound used to stabilize the activity of these cells. They are derived from Cd-34+ pluripotent progenitor cells. They can be activated by the crosslinking of IgE antibodies that are monomerically bound to them. Like the red blood cells, they are created in the bone marrow and they were first observed due by Paul Ehrlich due": {
+    "guess": "Mast Cell",
+    "confidence": [
+      [
+        "M",
+        -5.6815352e-05
+      ],
+      [
+        "ast",
+        0.0
+      ],
+      [
+        " Cell",
+        -0.50530124
+      ]
+    ]
+  },
+  "SRS-A is an example of a compound released by these cells and tryptases are a type of proteases prediominantly expressed in one type of them, while sodium cromoglycate is a compound used to stabilize the activity of these cells. They are derived from Cd-34+ pluripotent progenitor cells. They can be activated by the crosslinking of IgE antibodies that are monomerically bound to them. Like the red blood cells, they are created in the bone marrow and they were first observed due by Paul Ehrlich due to their ability to be stained in basic dyes, while interleukin 3 is a growth factor for these cells.": {
+    "guess": "Mast Cell",
+    "confidence": [
+      [
+        "M",
+        -3.7981175e-05
+      ],
+      [
+        "ast",
+        0.0
+      ],
+      [
+        " Cell",
+        -0.7285201
+      ]
+    ]
+  },
+  "SRS-A is an example of a compound released by these cells and tryptases are a type of proteases prediominantly expressed in one type of them, while sodium cromoglycate is a compound used to stabilize the activity of these cells. They are derived from Cd-34+ pluripotent progenitor cells. They can be activated by the crosslinking of IgE antibodies that are monomerically bound to them. Like the red blood cells, they are created in the bone marrow and they were first observed due by Paul Ehrlich due to their ability to be stained in basic dyes, while interleukin 3 is a growth factor for these cells. Contrasted with basophils because they do not travel in the blood stream, for 10 points, identify": {
+    "guess": "Mast Cell",
+    "confidence": [
+      [
+        "M",
+        -0.00020985818
+      ],
+      [
+        "ast",
+        0.0
+      ],
+      [
+        " Cell",
+        -0.7126798
+      ]
+    ]
+  },
+  "SRS-A is an example of a compound released by these cells and tryptases are a type of proteases prediominantly expressed in one type of them, while sodium cromoglycate is a compound used to stabilize the activity of these cells. They are derived from Cd-34+ pluripotent progenitor cells. They can be activated by the crosslinking of IgE antibodies that are monomerically bound to them. Like the red blood cells, they are created in the bone marrow and they were first observed due by Paul Ehrlich due to their ability to be stained in basic dyes, while interleukin 3 is a growth factor for these cells. Contrasted with basophils because they do not travel in the blood stream, for 10 points, identify this type of cells, which are best known for releasing histamine.": {
+    "guess": "Mast Cell",
+    "confidence": [
+      [
+        "M",
+        -5.240482e-05
+      ],
+      [
+        "ast",
+        0.0
+      ],
+      [
+        " Cell",
+        -0.6320722
+      ]
+    ]
+  }
+}

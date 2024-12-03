@@ -1,0 +1,80 @@
+{
+  "Laetus, his Prefect; Eclectus, his chamberlain; and Marcia, his mistress, could not kill him with poison,": {
+    "guess": "Commodus",
+    "confidence": [
+      [
+        "Com",
+        -0.018615993
+      ],
+      [
+        "modus",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Laetus, his Prefect; Eclectus, his chamberlain; and Marcia, his mistress, could not kill him with poison, though they did engineer his death on New Year's Eve. After his father's death, he came to terms": {
+    "guess": "Commodus",
+    "confidence": [
+      [
+        "Com",
+        -0.014475499
+      ],
+      [
+        "modus",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Laetus, his Prefect; Eclectus, his chamberlain; and Marcia, his mistress, could not kill him with poison, though they did engineer his death on New Year's Eve. After his father's death, he came to terms with the Marcomanni and returned to Rome. He incensed the public by claiming that he would accept": {
+    "guess": "Commodus",
+    "confidence": [
+      [
+        "Com",
+        -0.043975376
+      ],
+      [
+        "modus",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "Laetus, his Prefect; Eclectus, his chamberlain; and Marcia, his mistress, could not kill him with poison, though they did engineer his death on New Year's Eve. After his father's death, he came to terms with the Marcomanni and returned to Rome. He incensed the public by claiming that he would accept the consulship dressed as a gladiator, and he had earlier renamed Rome as his colony. After this man's": {
+    "guess": "Commodus",
+    "confidence": [
+      [
+        "Com",
+        -0.1120202
+      ],
+      [
+        "modus",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Laetus, his Prefect; Eclectus, his chamberlain; and Marcia, his mistress, could not kill him with poison, though they did engineer his death on New Year's Eve. After his father's death, he came to terms with the Marcomanni and returned to Rome. He incensed the public by claiming that he would accept the consulship dressed as a gladiator, and he had earlier renamed Rome as his colony. After this man's murder, Pertinax became emperor, thereby ending the rule of the Antonines. FTP, identify this crazy": {
+    "guess": "Commodus",
+    "confidence": [
+      [
+        "Com",
+        -7.5530326e-05
+      ],
+      [
+        "modus",
+        -3.1737043e-06
+      ]
+    ]
+  },
+  "Laetus, his Prefect; Eclectus, his chamberlain; and Marcia, his mistress, could not kill him with poison, though they did engineer his death on New Year's Eve. After his father's death, he came to terms with the Marcomanni and returned to Rome. He incensed the public by claiming that he would accept the consulship dressed as a gladiator, and he had earlier renamed Rome as his colony. After this man's murder, Pertinax became emperor, thereby ending the rule of the Antonines. FTP, identify this crazy son of Marcus Aurelius, who ruled until his death in AD 192.": {
+    "guess": "Commodus",
+    "confidence": [
+      [
+        "Com",
+        -0.0025107358
+      ],
+      [
+        "modus",
+        -1.504853e-06
+      ]
+    ]
+  }
+}

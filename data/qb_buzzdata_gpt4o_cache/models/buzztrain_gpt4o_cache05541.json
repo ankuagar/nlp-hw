@@ -1,0 +1,118 @@
+{
+  "Ok, she's not really Mexican but she died there and her ashes were spread over Mt. Popocatepetl. A favorite": {
+    "guess": "Ashes of Barbara Hutton",
+    "confidence": [
+      [
+        "Ash",
+        -0.5971153
+      ],
+      [
+        "es",
+        -0.006730884
+      ],
+      [
+        " of",
+        -0.31381974
+      ],
+      [
+        " Barbara",
+        -0.4173287
+      ],
+      [
+        " H",
+        -0.002141459
+      ],
+      [
+        "utton",
+        -7.624555e-05
+      ]
+    ]
+  },
+  "Ok, she's not really Mexican but she died there and her ashes were spread over Mt. Popocatepetl. A favorite of Madonna's this Polish art deco painter drew really cool pictures that contrasted powerful": {
+    "guess": "Tamara de Lempicka",
+    "confidence": [
+      [
+        "Tam",
+        -0.0019256598
+      ],
+      [
+        "ara",
+        0.0
+      ],
+      [
+        " de",
+        -9.639097e-05
+      ],
+      [
+        " L",
+        -6.6113236e-05
+      ],
+      [
+        "emp",
+        0.0
+      ],
+      [
+        "icka",
+        0.0
+      ]
+    ]
+  },
+  "Ok, she's not really Mexican but she died there and her ashes were spread over Mt. Popocatepetl. A favorite of Madonna's this Polish art deco painter drew really cool pictures that contrasted powerful bodies against modern cityscapes in works like Adam and Eve, Portrait of Marjorie Ferry, and Self- Portrait": {
+    "guess": "Tamara de Lempicka",
+    "confidence": [
+      [
+        "Tam",
+        -6.206032e-05
+      ],
+      [
+        "ara",
+        0.0
+      ],
+      [
+        " de",
+        -5.4385737e-06
+      ],
+      [
+        " L",
+        -4.5491004e-05
+      ],
+      [
+        "emp",
+        0.0
+      ],
+      [
+        "icka",
+        0.0
+      ]
+    ]
+  },
+  "Ok, she's not really Mexican but she died there and her ashes were spread over Mt. Popocatepetl. A favorite of Madonna's this Polish art deco painter drew really cool pictures that contrasted powerful bodies against modern cityscapes in works like Adam and Eve, Portrait of Marjorie Ferry, and Self- Portrait in a Green Bugatti.": {
+    "guess": "Tamara de Lempicka",
+    "confidence": [
+      [
+        "Tam",
+        -3.22594e-05
+      ],
+      [
+        "ara",
+        0.0
+      ],
+      [
+        " de",
+        -5.5577775e-06
+      ],
+      [
+        " L",
+        -1.4855664e-05
+      ],
+      [
+        "emp",
+        0.0
+      ],
+      [
+        "icka",
+        0.0
+      ]
+    ]
+  }
+}

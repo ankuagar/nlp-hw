@@ -1,0 +1,103 @@
+{
+  "He enlisted in the Air Force after serving thirty days in juvenile detention before his high school graduation,": {
+    "guess": "Chuck Yeager",
+    "confidence": [
+      [
+        "Chuck",
+        -1.1767483
+      ],
+      [
+        " Ye",
+        -0.17570242
+      ],
+      [
+        "ager",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "He enlisted in the Air Force after serving thirty days in juvenile detention before his high school graduation, but he did not like the military rules or electronics school. After the sports editor of": {
+    "guess": "Hunter S. Thompson",
+    "confidence": [
+      [
+        "Hunter",
+        -0.08881546
+      ],
+      [
+        " S",
+        -1.3544423e-05
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Thompson",
+        0.0
+      ]
+    ]
+  },
+  "He enlisted in the Air Force after serving thirty days in juvenile detention before his high school graduation, but he did not like the military rules or electronics school. After the sports editor of the base's newspaper the Command Courier was arrested, he found his calling filling the shoes, and he": {
+    "guess": "Hunter S. Thompson",
+    "confidence": [
+      [
+        "Hunter",
+        -0.046794094
+      ],
+      [
+        " S",
+        -3.2929079e-06
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Thompson",
+        0.0
+      ]
+    ]
+  },
+  "He enlisted in the Air Force after serving thirty days in juvenile detention before his high school graduation, but he did not like the military rules or electronics school. After the sports editor of the base's newspaper the Command Courier was arrested, he found his calling filling the shoes, and he eventually hung around the Hell's Angels to write a chronicle and inspired the character of Uncle": {
+    "guess": "Hunter S. Thompson",
+    "confidence": [
+      [
+        "Hunter",
+        -0.0010411444
+      ],
+      [
+        " S",
+        -7.89631e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Thompson",
+        0.0
+      ]
+    ]
+  },
+  "He enlisted in the Air Force after serving thirty days in juvenile detention before his high school graduation, but he did not like the military rules or electronics school. After the sports editor of the base's newspaper the Command Courier was arrested, he found his calling filling the shoes, and he eventually hung around the Hell's Angels to write a chronicle and inspired the character of Uncle Duke in Doonesvbury. For 10 points\u2014name this \"gonzo journalist\" of Fear and Loathing in Las Vegas.": {
+    "guess": "Hunter S. Thompson",
+    "confidence": [
+      [
+        "Hunter",
+        -0.011582944
+      ],
+      [
+        " S",
+        0.0
+      ],
+      [
+        ".",
+        -2.1769476e-05
+      ],
+      [
+        " Thompson",
+        0.0
+      ]
+    ]
+  }
+}

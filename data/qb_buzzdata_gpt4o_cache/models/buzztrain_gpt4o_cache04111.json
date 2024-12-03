@@ -1,0 +1,102 @@
+{
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures": {
+    "guess": "Linear system",
+    "confidence": [
+      [
+        "Linear",
+        -0.46273196
+      ],
+      [
+        " system",
+        -0.091622815
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7067822
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's effect is uniquely determined by its impulse response. This kind of continuous functional on a space": {
+    "guess": "Linearity",
+    "confidence": [
+      [
+        "Line",
+        -0.11071452
+      ],
+      [
+        "arity",
+        0.0
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's effect is uniquely determined by its impulse response. This kind of continuous functional on a space forms that space's dual. The heat equation, the Helmholtz equation, and the wave equation are all": {
+    "guess": "Linear System",
+    "confidence": [
+      [
+        "Linear",
+        -0.21453616
+      ],
+      [
+        " System",
+        -0.767366
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's effect is uniquely determined by its impulse response. This kind of continuous functional on a space forms that space's dual. The heat equation, the Helmholtz equation, and the wave equation are all this type of differential equation and thus satisfy the superposition principle. The bisection method": {
+    "guess": "Linear System",
+    "confidence": [
+      [
+        "Linear",
+        -0.011407715
+      ],
+      [
+        " System",
+        -0.9166944
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's effect is uniquely determined by its impulse response. This kind of continuous functional on a space forms that space's dual. The heat equation, the Helmholtz equation, and the wave equation are all this type of differential equation and thus satisfy the superposition principle. The bisection method for root-finding has this type of convergence, and the worst-case of sequential search proceeds": {
+    "guess": "Linearity",
+    "confidence": [
+      [
+        "Line",
+        -0.3979018
+      ],
+      [
+        "arity",
+        0.0
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's effect is uniquely determined by its impulse response. This kind of continuous functional on a space forms that space's dual. The heat equation, the Helmholtz equation, and the wave equation are all this type of differential equation and thus satisfy the superposition principle. The bisection method for root-finding has this type of convergence, and the worst-case of sequential search proceeds in this type of time. For 10 points, name this property in mathematics, which for a function f means": {
+    "guess": "Linearity",
+    "confidence": [
+      [
+        "Line",
+        -0.0043098843
+      ],
+      [
+        "arity",
+        0.0
+      ]
+    ]
+  },
+  "Krylov subspace methods are used to study certain entities of this type, and this type of system ensures only one reference to any object at a time. This property with time independence implies a system's effect is uniquely determined by its impulse response. This kind of continuous functional on a space forms that space's dual. The heat equation, the Helmholtz equation, and the wave equation are all this type of differential equation and thus satisfy the superposition principle. The bisection method for root-finding has this type of convergence, and the worst-case of sequential search proceeds in this type of time. For 10 points, name this property in mathematics, which for a function f means that f of A times x plus B times y equals A times f of x plus B times f of y.": {
+    "guess": "Linearity",
+    "confidence": [
+      [
+        "Line",
+        -0.00056173094
+      ],
+      [
+        "arity",
+        0.0
+      ]
+    ]
+  }
+}

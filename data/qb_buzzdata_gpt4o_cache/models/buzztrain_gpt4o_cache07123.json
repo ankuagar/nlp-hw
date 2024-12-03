@@ -1,0 +1,144 @@
+{
+  "The SN1 Phillips mechanism was proposed for the enzymatic breakdown of this molecule. By recognizing": {
+    "guess": "Lysozyme",
+    "confidence": [
+      [
+        "Ly",
+        -0.09303652
+      ],
+      [
+        "so",
+        -1.9361265e-07
+      ],
+      [
+        "zyme",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The SN1 Phillips mechanism was proposed for the enzymatic breakdown of this molecule. By recognizing DAP or MDP in this molecule, Nod1 and Nod2 act as sensors for it. Lysozymes degrade this molecule, and": {
+    "guess": "Peptidoglycan",
+    "confidence": [
+      [
+        "Pe",
+        -0.00023941702
+      ],
+      [
+        "pt",
+        0.0
+      ],
+      [
+        "id",
+        -1.9361265e-07
+      ],
+      [
+        "ogly",
+        0.0
+      ],
+      [
+        "can",
+        0.0
+      ]
+    ]
+  },
+  "The SN1 Phillips mechanism was proposed for the enzymatic breakdown of this molecule. By recognizing DAP or MDP in this molecule, Nod1 and Nod2 act as sensors for it. Lysozymes degrade this molecule, and by inhibiting DD-transpeptidase, (*) beta-lactams prevent this molecule's synthesis. This molecule": {
+    "guess": "Peptidoglycan",
+    "confidence": [
+      [
+        "Pe",
+        -3.5477897e-05
+      ],
+      [
+        "pt",
+        0.0
+      ],
+      [
+        "id",
+        0.0
+      ],
+      [
+        "ogly",
+        -1.9361265e-07
+      ],
+      [
+        "can",
+        0.0
+      ]
+    ]
+  },
+  "The SN1 Phillips mechanism was proposed for the enzymatic breakdown of this molecule. By recognizing DAP or MDP in this molecule, Nod1 and Nod2 act as sensors for it. Lysozymes degrade this molecule, and by inhibiting DD-transpeptidase, (*) beta-lactams prevent this molecule's synthesis. This molecule contains several Damino acids and is made of beta-(1,4)-linked N-acetylglucosamine and N-acetylmuramic": {
+    "guess": "Peptidoglycan",
+    "confidence": [
+      [
+        "Pe",
+        -1.6762922e-05
+      ],
+      [
+        "pt",
+        0.0
+      ],
+      [
+        "id",
+        0.0
+      ],
+      [
+        "ogly",
+        -3.1281633e-07
+      ],
+      [
+        "can",
+        0.0
+      ]
+    ]
+  },
+  "The SN1 Phillips mechanism was proposed for the enzymatic breakdown of this molecule. By recognizing DAP or MDP in this molecule, Nod1 and Nod2 act as sensors for it. Lysozymes degrade this molecule, and by inhibiting DD-transpeptidase, (*) beta-lactams prevent this molecule's synthesis. This molecule contains several Damino acids and is made of beta-(1,4)-linked N-acetylglucosamine and N-acetylmuramic acid. It comprises 90% of the dry mass of Gram-positive bacteria. For 10 points, name this molecule": {
+    "guess": "Peptidoglycan",
+    "confidence": [
+      [
+        "Pe",
+        -3.7697225e-06
+      ],
+      [
+        "pt",
+        0.0
+      ],
+      [
+        "id",
+        0.0
+      ],
+      [
+        "ogly",
+        -1.9361265e-07
+      ],
+      [
+        "can",
+        0.0
+      ]
+    ]
+  },
+  "The SN1 Phillips mechanism was proposed for the enzymatic breakdown of this molecule. By recognizing DAP or MDP in this molecule, Nod1 and Nod2 act as sensors for it. Lysozymes degrade this molecule, and by inhibiting DD-transpeptidase, (*) beta-lactams prevent this molecule's synthesis. This molecule contains several Damino acids and is made of beta-(1,4)-linked N-acetylglucosamine and N-acetylmuramic acid. It comprises 90% of the dry mass of Gram-positive bacteria. For 10 points, name this molecule that forms most of the bacterial cell wall.": {
+    "guess": "Peptidoglycan",
+    "confidence": [
+      [
+        "Pe",
+        -4.246537e-06
+      ],
+      [
+        "pt",
+        0.0
+      ],
+      [
+        "id",
+        0.0
+      ],
+      [
+        "ogly",
+        -1.9361265e-07
+      ],
+      [
+        "can",
+        0.0
+      ]
+    ]
+  }
+}

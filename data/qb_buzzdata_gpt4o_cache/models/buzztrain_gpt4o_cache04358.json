@@ -1,0 +1,121 @@
+{
+  "In liquids and gases, the birefringence of light in the presence of a transverse one of these entities": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.44159
+      ],
+      [
+        "netic",
+        -0.00013989297
+      ],
+      [
+        " field",
+        -0.0032947517
+      ]
+    ]
+  },
+  "In liquids and gases, the birefringence of light in the presence of a transverse one of these entities is known as the Cotton\u2013Mouton and Voigt effects, respectively. Small ones can be measured by superconducting": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.10882032
+      ],
+      [
+        "netic",
+        -0.00150236
+      ],
+      [
+        " field",
+        -9.3530085e-05
+      ]
+    ]
+  },
+  "In liquids and gases, the birefringence of light in the presence of a transverse one of these entities is known as the Cotton\u2013Mouton and Voigt effects, respectively. Small ones can be measured by superconducting quantum interference devices. There are plateaus in the plot of the Hall voltage versus this": {
+    "guess": "Quantum Hall effect",
+    "confidence": [
+      [
+        "Quantum",
+        -0.017412761
+      ],
+      [
+        " Hall",
+        -1.18755715e-05
+      ],
+      [
+        " effect",
+        -0.01416351
+      ]
+    ]
+  },
+  "In liquids and gases, the birefringence of light in the presence of a transverse one of these entities is known as the Cotton\u2013Mouton and Voigt effects, respectively. Small ones can be measured by superconducting quantum interference devices. There are plateaus in the plot of the Hall voltage versus this quantity. Spectral lines are split in the presence of one of these in the Zeeman effect. The force": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.03465111
+      ],
+      [
+        "netic",
+        -1.6762922e-05
+      ],
+      [
+        " field",
+        -9.484132e-05
+      ]
+    ]
+  },
+  "In liquids and gases, the birefringence of light in the presence of a transverse one of these entities is known as the Cotton\u2013Mouton and Voigt effects, respectively. Small ones can be measured by superconducting quantum interference devices. There are plateaus in the plot of the Hall voltage versus this quantity. Spectral lines are split in the presence of one of these in the Zeeman effect. The force on a current-carrying wire is equal to the product of current, wire length, and the magnitude of": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.0020822163
+      ],
+      [
+        "netic",
+        -1.147242e-06
+      ],
+      [
+        " field",
+        -2.451116e-05
+      ]
+    ]
+  },
+  "In liquids and gases, the birefringence of light in the presence of a transverse one of these entities is known as the Cotton\u2013Mouton and Voigt effects, respectively. Small ones can be measured by superconducting quantum interference devices. There are plateaus in the plot of the Hall voltage versus this quantity. Spectral lines are split in the presence of one of these in the Zeeman effect. The force on a current-carrying wire is equal to the product of current, wire length, and the magnitude of this field, which is measured in units of teslas. For 10 points, name this type of field that is created": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.000919916
+      ],
+      [
+        "netic",
+        -3.1281633e-07
+      ],
+      [
+        " field",
+        -8.657073e-06
+      ]
+    ]
+  },
+  "In liquids and gases, the birefringence of light in the presence of a transverse one of these entities is known as the Cotton\u2013Mouton and Voigt effects, respectively. Small ones can be measured by superconducting quantum interference devices. There are plateaus in the plot of the Hall voltage versus this quantity. Spectral lines are split in the presence of one of these in the Zeeman effect. The force on a current-carrying wire is equal to the product of current, wire length, and the magnitude of this field, which is measured in units of teslas. For 10 points, name this type of field that is created by a moving charge and whose lines are continuous, unlike electric fields.": {
+    "guess": "Magnetic field",
+    "confidence": [
+      [
+        "Mag",
+        -0.0008105787
+      ],
+      [
+        "netic",
+        0.0
+      ],
+      [
+        " field",
+        -3.650519e-06
+      ]
+    ]
+  }
+}

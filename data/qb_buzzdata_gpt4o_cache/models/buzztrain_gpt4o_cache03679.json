@@ -1,0 +1,51 @@
+{
+  "Joule's first law relates this quantity to heat, time, and current squared, and an unknown value for": {
+    "guess": "Resistance",
+    "confidence": [
+      [
+        "Resistance",
+        -0.5589301
+      ]
+    ]
+  },
+  "Joule's first law relates this quantity to heat, time, and current squared, and an unknown value for this quantity can be calculated given three known values using a Wheatstone bridge. It is the inverse": {
+    "guess": "Conductance",
+    "confidence": [
+      [
+        "Conduct",
+        -0.43704405
+      ],
+      [
+        "ance",
+        -0.0001627764
+      ]
+    ]
+  },
+  "Joule's first law relates this quantity to heat, time, and current squared, and an unknown value for this quantity can be calculated given three known values using a Wheatstone bridge. It is the inverse of conductance, and in AC circuits, this quantity, together with (*) reactance, gives the impedance.": {
+    "guess": "Resistance",
+    "confidence": [
+      [
+        "Resistance",
+        -0.13257764
+      ]
+    ]
+  },
+  "Joule's first law relates this quantity to heat, time, and current squared, and an unknown value for this quantity can be calculated given three known values using a Wheatstone bridge. It is the inverse of conductance, and in AC circuits, this quantity, together with (*) reactance, gives the impedance. This quantity is equal to potential difference divided by current, according to Ohm's Law. For 10": {
+    "guess": "Resistance",
+    "confidence": [
+      [
+        "Resistance",
+        -0.13469005
+      ]
+    ]
+  },
+  "Joule's first law relates this quantity to heat, time, and current squared, and an unknown value for this quantity can be calculated given three known values using a Wheatstone bridge. It is the inverse of conductance, and in AC circuits, this quantity, together with (*) reactance, gives the impedance. This quantity is equal to potential difference divided by current, according to Ohm's Law. For 10 points, name this quantity, the measure of an object's ability to oppose the flow of a current.": {
+    "guess": "Resistance",
+    "confidence": [
+      [
+        "Resistance",
+        -0.02375748
+      ]
+    ]
+  }
+}

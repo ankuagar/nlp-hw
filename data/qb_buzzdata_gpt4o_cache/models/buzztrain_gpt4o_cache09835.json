@@ -1,0 +1,41 @@
+{
+  "Zoya, a medical student; Vera Gangart, a radiologist; and Lyudmilla Dontsova, the chief of radiation": {
+    "guess": "Cancer Ward",
+    "confidence": [
+      [
+        "Cancer",
+        -0.004098466
+      ],
+      [
+        " Ward",
+        0.0
+      ]
+    ]
+  },
+  "Zoya, a medical student; Vera Gangart, a radiologist; and Lyudmilla Dontsova, the chief of radiation therapy successfully treat Pavel Rusanov, a member of the Communist Party, and Oleg Kostoglotov, an": {
+    "guess": "Cancer Ward",
+    "confidence": [
+      [
+        "Cancer",
+        -0.0052540377
+      ],
+      [
+        " Ward",
+        0.0
+      ]
+    ]
+  },
+  "Zoya, a medical student; Vera Gangart, a radiologist; and Lyudmilla Dontsova, the chief of radiation therapy successfully treat Pavel Rusanov, a member of the Communist Party, and Oleg Kostoglotov, an exile, in Ward 13 in \u2013 for ten points \u2013 what Aleksandr Solzhenitzsyn allegorical novel about Communism?": {
+    "guess": "Cancer Ward",
+    "confidence": [
+      [
+        "Cancer",
+        -0.00021295747
+      ],
+      [
+        " Ward",
+        0.0
+      ]
+    ]
+  }
+}

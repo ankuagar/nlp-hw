@@ -1,0 +1,82 @@
+{
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.13475277
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered,": {
+    "guess": "Body Temperature",
+    "confidence": [
+      [
+        "Body",
+        -1.1778092
+      ],
+      [
+        " Temperature",
+        -0.04927937
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered, this variable can change the firing rate of nerve fibers in the pit organ. It lowers for the annealing": {
+    "guess": "Temperature",
+    "confidence": [
+      [
+        "Temperature",
+        -0.4926683
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered, this variable can change the firing rate of nerve fibers in the pit organ. It lowers for the annealing step and increases again for the elongation step of PCR. The (*) HSP chaperone proteins are upregulated": {
+    "guess": "Temperature",
+    "confidence": [
+      [
+        "Temperature",
+        -0.12520252
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered, this variable can change the firing rate of nerve fibers in the pit organ. It lowers for the annealing step and increases again for the elongation step of PCR. The (*) HSP chaperone proteins are upregulated when this variable increases. Progesterone slightly increases the value of this variable on": {
+    "guess": "Temperature",
+    "confidence": [
+      [
+        "Temperature",
+        -0.06578085
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered, this variable can change the firing rate of nerve fibers in the pit organ. It lowers for the annealing step and increases again for the elongation step of PCR. The (*) HSP chaperone proteins are upregulated when this variable increases. Progesterone slightly increases the value of this variable on the day of ovulation, whereas in men, spermatogenesis requires that it be slightly lower in the testes": {
+    "guess": "Temperature",
+    "confidence": [
+      [
+        "Temperature",
+        -0.0153689785
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered, this variable can change the firing rate of nerve fibers in the pit organ. It lowers for the annealing step and increases again for the elongation step of PCR. The (*) HSP chaperone proteins are upregulated when this variable increases. Progesterone slightly increases the value of this variable on the day of ovulation, whereas in men, spermatogenesis requires that it be slightly lower in the testes than in the rest of the body. A large drop in this variable results in hypothermia. For 10 points,": {
+    "guess": "Temperature",
+    "confidence": [
+      [
+        "Temperature",
+        -0.013857531
+      ]
+    ]
+  },
+  "The TRPM8 receptor is activated either directly or indirectly by a change in this variable. The symptoms of multiple sclerosis worsen with a change in this variable in Uhthoff's phenomenon. If altered, this variable can change the firing rate of nerve fibers in the pit organ. It lowers for the annealing step and increases again for the elongation step of PCR. The (*) HSP chaperone proteins are upregulated when this variable increases. Progesterone slightly increases the value of this variable on the day of ovulation, whereas in men, spermatogenesis requires that it be slightly lower in the testes than in the rest of the body. A large drop in this variable results in hypothermia. For 10 points, name this variable, which in the human body is optimally 98.6 degrees Fahrenheit.": {
+    "guess": "Body Temperature",
+    "confidence": [
+      [
+        "Body",
+        -0.4795345
+      ],
+      [
+        " Temperature",
+        -0.023248043
+      ]
+    ]
+  }
+}

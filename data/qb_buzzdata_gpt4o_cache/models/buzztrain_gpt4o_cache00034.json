@@ -1,0 +1,210 @@
+{
+  "Acid-catalyzed hydrolysis of these compounds yields keto-enol tautomers. Oxidative cleavage of these": {
+    "guess": "Enol ether",
+    "confidence": [
+      [
+        "En",
+        -0.05821056
+      ],
+      [
+        "ol",
+        -0.34582686
+      ],
+      [
+        " ether",
+        -0.6194773
+      ]
+    ]
+  },
+  "Acid-catalyzed hydrolysis of these compounds yields keto-enol tautomers. Oxidative cleavage of these compounds with potassium permanganate yields carboxylic acids. These compounds can be synthesized from": {
+    "guess": "Alkene",
+    "confidence": [
+      [
+        "Al",
+        -0.012815102
+      ],
+      [
+        "k",
+        -0.16833916
+      ],
+      [
+        "ene",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Acid-catalyzed hydrolysis of these compounds yields keto-enol tautomers. Oxidative cleavage of these compounds with potassium permanganate yields carboxylic acids. These compounds can be synthesized from aldehydes using an ylide (\"ee-lide\") reagent in the Corey-Fuchs reaction, and can react with Lindlar's": {
+    "guess": "Alkyne",
+    "confidence": [
+      [
+        "Al",
+        -0.049105495
+      ],
+      [
+        "ky",
+        -0.0031831823
+      ],
+      [
+        "ne",
+        0.0
+      ]
+    ]
+  },
+  "Acid-catalyzed hydrolysis of these compounds yields keto-enol tautomers. Oxidative cleavage of these compounds with potassium permanganate yields carboxylic acids. These compounds can be synthesized from aldehydes using an ylide (\"ee-lide\") reagent in the Corey-Fuchs reaction, and can react with Lindlar's catalyst to become more saturated. When these compounds react with dienes in the Diels-Alder reaction,": {
+    "guess": "Alkyne",
+    "confidence": [
+      [
+        "Al",
+        -0.3256987
+      ],
+      [
+        "ky",
+        -0.0007162464
+      ],
+      [
+        "ne",
+        0.0
+      ]
+    ]
+  },
+  "Acid-catalyzed hydrolysis of these compounds yields keto-enol tautomers. Oxidative cleavage of these compounds with potassium permanganate yields carboxylic acids. These compounds can be synthesized from aldehydes using an ylide (\"ee-lide\") reagent in the Corey-Fuchs reaction, and can react with Lindlar's catalyst to become more saturated. When these compounds react with dienes in the Diels-Alder reaction, the resulting cyclic structure has two double bonds. For 10 points, name this class of hydrocarbons": {
+    "guess": "Alkyne",
+    "confidence": [
+      [
+        "Al",
+        -0.005952261
+      ],
+      [
+        "ky",
+        -0.00016051154
+      ],
+      [
+        "ne",
+        0.0
+      ]
+    ]
+  },
+  "Acid-catalyzed hydrolysis of these compounds yields keto-enol tautomers. Oxidative cleavage of these compounds with potassium permanganate yields carboxylic acids. These compounds can be synthesized from aldehydes using an ylide (\"ee-lide\") reagent in the Corey-Fuchs reaction, and can react with Lindlar's catalyst to become more saturated. When these compounds react with dienes in the Diels-Alder reaction, the resulting cyclic structure has two double bonds. For 10 points, name this class of hydrocarbons which feature a carbon-carbon triple bond, whose simplest member, acetylene, is also known": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.100296706
+      ]
+    ]
+  },
+  "Acid-catalyzed hydrolysis of these compounds yields keto-enol tautomers. Oxidative cleavage of these compounds with potassium permanganate yields carboxylic acids. These compounds can be synthesized from aldehydes using an ylide (\"ee-lide\") reagent in the Corey-Fuchs reaction, and can react with Lindlar's catalyst to become more saturated. When these compounds react with dienes in the Diels-Alder reaction, the resulting cyclic structure has two double bonds. For 10 points, name this class of hydrocarbons which feature a carbon-carbon triple bond, whose simplest member, acetylene, is also known as ethyne.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.029771548
+      ]
+    ]
+  },
+  "This acid is rarely used in pure form, and is commonly used in a 96-98% solution. A strong protonating": {
+    "guess": "Sulfuric acid",
+    "confidence": [
+      [
+        "Sul",
+        -0.033723734
+      ],
+      [
+        "fur",
+        -5.5122365e-07
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " acid",
+        -0.005269334
+      ]
+    ]
+  },
+  "This acid is rarely used in pure form, and is commonly used in a 96-98% solution. A strong protonating agent, it protonates chlorides and nitrates, producing hydrogen chloride and nitric acid, while as": {
+    "guess": "Sulfuric acid",
+    "confidence": [
+      [
+        "Sul",
+        -0.2539054
+      ],
+      [
+        "fur",
+        -8.776276e-06
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " acid",
+        -2.2723105e-05
+      ]
+    ]
+  },
+  "This acid is rarely used in pure form, and is commonly used in a 96-98% solution. A strong protonating agent, it protonates chlorides and nitrates, producing hydrogen chloride and nitric acid, while as a moderately strong oxidizing agent it will dissolve copper. The most produced chemical product in": {
+    "guess": "Sulfuric acid",
+    "confidence": [
+      [
+        "Sul",
+        -0.1606052
+      ],
+      [
+        "fur",
+        -3.1281633e-07
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " acid",
+        -3.1782583e-05
+      ]
+    ]
+  },
+  "This acid is rarely used in pure form, and is commonly used in a 96-98% solution. A strong protonating agent, it protonates chlorides and nitrates, producing hydrogen chloride and nitric acid, while as a moderately strong oxidizing agent it will dissolve copper. The most produced chemical product in the UK, it is now made using the contact process method, which replaced the lead-chamber process. Also": {
+    "guess": "Sulfuric acid",
+    "confidence": [
+      [
+        "Sul",
+        -0.0012182132
+      ],
+      [
+        "fur",
+        -1.504853e-06
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " acid",
+        -2.4987974e-05
+      ]
+    ]
+  },
+  "This acid is rarely used in pure form, and is commonly used in a 96-98% solution. A strong protonating agent, it protonates chlorides and nitrates, producing hydrogen chloride and nitric acid, while as a moderately strong oxidizing agent it will dissolve copper. The most produced chemical product in the UK, it is now made using the contact process method, which replaced the lead-chamber process. Also known as oil of vitriol, FTP, what is this acid with formula H2 SO4?": {
+    "guess": "Sulfuric acid",
+    "confidence": [
+      [
+        "Sul",
+        -0.0067196405
+      ],
+      [
+        "fur",
+        -1.9361265e-07
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " acid",
+        -5.4385737e-06
+      ]
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "One of Goya's Black Paintings depicts one of these creatures drowning in sand. One of them is present": {
+    "guess": "Dog",
+    "confidence": [
+      [
+        "Dog",
+        -0.9007075
+      ]
+    ]
+  },
+  "One of Goya's Black Paintings depicts one of these creatures drowning in sand. One of them is present at the titular event in Courbet's Burial at Ornans, and one stands on the bank of a river in Constable's": {
+    "guess": "Dog",
+    "confidence": [
+      [
+        "Dog",
+        -0.3745568
+      ]
+    ]
+  },
+  "One of Goya's Black Paintings depicts one of these creatures drowning in sand. One of them is present at the titular event in Courbet's Burial at Ornans, and one stands on the bank of a river in Constable's The Hay Wain. One representing fidelity appears at the bottom of The (*) Arnolfini Wedding, and": {
+    "guess": "Dog",
+    "confidence": [
+      [
+        "Dog",
+        -0.007945041
+      ]
+    ]
+  },
+  "One of Goya's Black Paintings depicts one of these creatures drowning in sand. One of them is present at the titular event in Courbet's Burial at Ornans, and one stands on the bank of a river in Constable's The Hay Wain. One representing fidelity appears at the bottom of The (*) Arnolfini Wedding, and another lies at the foot of a bed in Venus of Urbino. For 10 points, name these creatures who, in": {
+    "guess": "Dog",
+    "confidence": [
+      [
+        "Dog",
+        -0.008860845
+      ]
+    ]
+  },
+  "One of Goya's Black Paintings depicts one of these creatures drowning in sand. One of them is present at the titular event in Courbet's Burial at Ornans, and one stands on the bank of a river in Constable's The Hay Wain. One representing fidelity appears at the bottom of The (*) Arnolfini Wedding, and another lies at the foot of a bed in Venus of Urbino. For 10 points, name these creatures who, in a series by C.M. Coolidge, are depicted playing poker.": {
+    "guess": "Dogs Playing Poker",
+    "confidence": [
+      [
+        "Dogs",
+        -0.43329915
+      ],
+      [
+        " Playing",
+        -0.11880365
+      ],
+      [
+        " Poker",
+        -1.342522e-05
+      ]
+    ]
+  }
+}

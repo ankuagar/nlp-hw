@@ -1,0 +1,149 @@
+{
+  "The Shklovskii effect is a quadratic variant of this, and it produces a Gaussian spectral line profile": {
+    "guess": "Doppler effect",
+    "confidence": [
+      [
+        "D",
+        -0.014781768
+      ],
+      [
+        "op",
+        -1.2233183e-05
+      ],
+      [
+        "pler",
+        0.0
+      ],
+      [
+        " effect",
+        -0.005115515
+      ]
+    ]
+  },
+  "The Shklovskii effect is a quadratic variant of this, and it produces a Gaussian spectral line profile through thermal broadening. The Ives-Stilwell experiment showed that the relativistic formula for": {
+    "guess": "Doppler effect",
+    "confidence": [
+      [
+        "D",
+        -0.1316824
+      ],
+      [
+        "op",
+        -7.89631e-07
+      ],
+      [
+        "pler",
+        0.0
+      ],
+      [
+        " effect",
+        -2.8802491e-05
+      ]
+    ]
+  },
+  "The Shklovskii effect is a quadratic variant of this, and it produces a Gaussian spectral line profile through thermal broadening. The Ives-Stilwell experiment showed that the relativistic formula for this effect was correct, rather than the classical formula.  Hasselkamp, Mondry, and Scharmann's 1979": {
+    "guess": "Doppler effect",
+    "confidence": [
+      [
+        "D",
+        -0.0060245423
+      ],
+      [
+        "op",
+        -1.9361265e-07
+      ],
+      [
+        "pler",
+        0.0
+      ],
+      [
+        " effect",
+        -5.7768983e-05
+      ]
+    ]
+  },
+  "The Shklovskii effect is a quadratic variant of this, and it produces a Gaussian spectral line profile through thermal broadening. The Ives-Stilwell experiment showed that the relativistic formula for this effect was correct, rather than the classical formula.  Hasselkamp, Mondry, and Scharmann's 1979 experiment was the first to directly test the transverse version of this effect, which classical predictions": {
+    "guess": "Doppler effect",
+    "confidence": [
+      [
+        "D",
+        -0.000565661
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "pler",
+        0.0
+      ],
+      [
+        " effect",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The Shklovskii effect is a quadratic variant of this, and it produces a Gaussian spectral line profile through thermal broadening. The Ives-Stilwell experiment showed that the relativistic formula for this effect was correct, rather than the classical formula.  Hasselkamp, Mondry, and Scharmann's 1979 experiment was the first to directly test the transverse version of this effect, which classical predictions say should not exist.  First analyzed by Buys Ballot in the realm of the pitch of sound,": {
+    "guess": "Doppler effect",
+    "confidence": [
+      [
+        "D",
+        -1.3663626e-05
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "pler",
+        0.0
+      ],
+      [
+        " effect",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The Shklovskii effect is a quadratic variant of this, and it produces a Gaussian spectral line profile through thermal broadening. The Ives-Stilwell experiment showed that the relativistic formula for this effect was correct, rather than the classical formula.  Hasselkamp, Mondry, and Scharmann's 1979 experiment was the first to directly test the transverse version of this effect, which classical predictions say should not exist.  First analyzed by Buys Ballot in the realm of the pitch of sound, FTP name this effect whose strength depends on the relative velocity between source and receiver, a": {
+    "guess": "Doppler effect",
+    "confidence": [
+      [
+        "D",
+        -1.831257e-05
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "pler",
+        0.0
+      ],
+      [
+        " effect",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "The Shklovskii effect is a quadratic variant of this, and it produces a Gaussian spectral line profile through thermal broadening. The Ives-Stilwell experiment showed that the relativistic formula for this effect was correct, rather than the classical formula.  Hasselkamp, Mondry, and Scharmann's 1979 experiment was the first to directly test the transverse version of this effect, which classical predictions say should not exist.  First analyzed by Buys Ballot in the realm of the pitch of sound, FTP name this effect whose strength depends on the relative velocity between source and receiver, a namesake shift in the frequency of a wave as the source moves relative to the observer.": {
+    "guess": "Doppler effect",
+    "confidence": [
+      [
+        "D",
+        -5.955704e-05
+      ],
+      [
+        "op",
+        0.0
+      ],
+      [
+        "pler",
+        0.0
+      ],
+      [
+        " effect",
+        -3.7697225e-06
+      ]
+    ]
+  }
+}

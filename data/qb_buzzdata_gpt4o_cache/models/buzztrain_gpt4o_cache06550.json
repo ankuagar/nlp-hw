@@ -1,0 +1,104 @@
+{
+  "This raw material is springy and can be molded into a variety of shapes using heat, and commercial uses": {
+    "guess": "Plastic",
+    "confidence": [
+      [
+        "Plastic",
+        -0.37288493
+      ]
+    ]
+  },
+  "This raw material is springy and can be molded into a variety of shapes using heat, and commercial uses include knife handles and brushes although the most common use of it was in the production of corsets.": {
+    "guess": "Whalebone",
+    "confidence": [
+      [
+        "Wh",
+        -0.5517585
+      ],
+      [
+        "al",
+        -5.8365e-05
+      ],
+      [
+        "eb",
+        -1.11603495e-05
+      ],
+      [
+        "one",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This raw material is springy and can be molded into a variety of shapes using heat, and commercial uses include knife handles and brushes although the most common use of it was in the production of corsets. In its unprocessed form, it consists of two triangular-shaped, hairy, horny plates containing": {
+    "guess": "Whalebone",
+    "confidence": [
+      [
+        "Wh",
+        -0.080505736
+      ],
+      [
+        "al",
+        -0.00070992863
+      ],
+      [
+        "eb",
+        -3.2929079e-06
+      ],
+      [
+        "one",
+        0.0
+      ]
+    ]
+  },
+  "This raw material is springy and can be molded into a variety of shapes using heat, and commercial uses include knife handles and brushes although the most common use of it was in the production of corsets. In its unprocessed form, it consists of two triangular-shaped, hairy, horny plates containing parallel slats, which together form a sieve. Found in rorquals and other members of the sub-order Mysticeti,": {
+    "guess": "Baleen",
+    "confidence": [
+      [
+        "B",
+        -0.00022165567
+      ],
+      [
+        "ale",
+        -4.3202e-07
+      ],
+      [
+        "en",
+        0.0
+      ]
+    ]
+  },
+  "This raw material is springy and can be molded into a variety of shapes using heat, and commercial uses include knife handles and brushes although the most common use of it was in the production of corsets. In its unprocessed form, it consists of two triangular-shaped, hairy, horny plates containing parallel slats, which together form a sieve. Found in rorquals and other members of the sub-order Mysticeti, its previous common use was for corsets. FTP, name this specialized structure used to strain": {
+    "guess": "Baleen",
+    "confidence": [
+      [
+        "B",
+        -0.0018234545
+      ],
+      [
+        "ale",
+        -1.9361265e-07
+      ],
+      [
+        "en",
+        0.0
+      ]
+    ]
+  },
+  "This raw material is springy and can be molded into a variety of shapes using heat, and commercial uses include knife handles and brushes although the most common use of it was in the production of corsets. In its unprocessed form, it consists of two triangular-shaped, hairy, horny plates containing parallel slats, which together form a sieve. Found in rorquals and other members of the sub-order Mysticeti, its previous common use was for corsets. FTP, name this specialized structure used to strain plankton and small crustaceans by toothless whales.": {
+    "guess": "Baleen",
+    "confidence": [
+      [
+        "B",
+        -9.150362e-05
+      ],
+      [
+        "ale",
+        -1.9361265e-07
+      ],
+      [
+        "en",
+        0.0
+      ]
+    ]
+  }
+}

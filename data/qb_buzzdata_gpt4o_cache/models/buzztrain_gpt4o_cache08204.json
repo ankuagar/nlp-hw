@@ -1,0 +1,2576 @@
+{
+  "The virus that causes this disease encodes a G-protein coupled receptor responsible for activating p38-MAP": {
+    "guess": "Kaposi's sarcoma-associated herpesvirus",
+    "confidence": [
+      [
+        "Kap",
+        -0.046280008
+      ],
+      [
+        "osi",
+        -3.1281633e-07
+      ],
+      [
+        "'s",
+        -0.00025871702
+      ],
+      [
+        " sar",
+        -0.0052337637
+      ],
+      [
+        "coma",
+        0.0
+      ],
+      [
+        "-associated",
+        -0.003088709
+      ],
+      [
+        " herpes",
+        -4.1199673e-05
+      ],
+      [
+        "virus",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The virus that causes this disease encodes a G-protein coupled receptor responsible for activating p38-MAP Kinase and a namesake spindle-cell growth factor, and also codes for a Fas-ligand inhibiting protein.": {
+    "guess": "Kaposi's sarcoma-associated herpesvirus",
+    "confidence": [
+      [
+        "Kap",
+        -0.0020709215
+      ],
+      [
+        "osi",
+        -5.5122365e-07
+      ],
+      [
+        "'s",
+        -7.982166e-05
+      ],
+      [
+        " sar",
+        -0.00026133584
+      ],
+      [
+        "coma",
+        0.0
+      ],
+      [
+        "-associated",
+        -9.4245304e-05
+      ],
+      [
+        " herpes",
+        -4.334534e-05
+      ],
+      [
+        "virus",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The virus that causes this disease encodes a G-protein coupled receptor responsible for activating p38-MAP Kinase and a namesake spindle-cell growth factor, and also codes for a Fas-ligand inhibiting protein. This disease's causative agent causes multicentric Castleman's disease when it expresses interleukin-6,": {
+    "guess": "Kaposi's sarcoma-associated herpesvirus",
+    "confidence": [
+      [
+        "Kap",
+        -0.002019167
+      ],
+      [
+        "osi",
+        0.0
+      ],
+      [
+        "'s",
+        -4.8113485e-05
+      ],
+      [
+        " sar",
+        -1.6762922e-05
+      ],
+      [
+        "coma",
+        0.0
+      ],
+      [
+        "-associated",
+        -0.012371322
+      ],
+      [
+        " herpes",
+        -2.6537622e-05
+      ],
+      [
+        "virus",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The virus that causes this disease encodes a G-protein coupled receptor responsible for activating p38-MAP Kinase and a namesake spindle-cell growth factor, and also codes for a Fas-ligand inhibiting protein. This disease's causative agent causes multicentric Castleman's disease when it expresses interleukin-6, and when co-infected with Epstein-Barr virus causes primary effusion lymphoma. Chang and": {
+    "guess": "Kaposi's sarcoma-associated herpesvirus",
+    "confidence": [
+      [
+        "Kap",
+        -0.010793719
+      ],
+      [
+        "osi",
+        0.0
+      ],
+      [
+        "'s",
+        -8.041768e-05
+      ],
+      [
+        " sar",
+        -0.00017958412
+      ],
+      [
+        "coma",
+        0.0
+      ],
+      [
+        "-associated",
+        -0.2530732
+      ],
+      [
+        " herpes",
+        -5.8484206e-05
+      ],
+      [
+        "virus",
+        0.0
+      ]
+    ]
+  },
+  "The virus that causes this disease encodes a G-protein coupled receptor responsible for activating p38-MAP Kinase and a namesake spindle-cell growth factor, and also codes for a Fas-ligand inhibiting protein. This disease's causative agent causes multicentric Castleman's disease when it expresses interleukin-6, and when co-infected with Epstein-Barr virus causes primary effusion lymphoma. Chang and Moore used Representational Difference Analysis to show that Human Herpesvirus 8 causes it, and its": {
+    "guess": "Kaposi's sarcoma",
+    "confidence": [
+      [
+        "Kap",
+        -0.00044890374
+      ],
+      [
+        "osi",
+        0.0
+      ],
+      [
+        "'s",
+        -8.208653e-05
+      ],
+      [
+        " sar",
+        -0.00020354039
+      ],
+      [
+        "coma",
+        0.0
+      ]
+    ]
+  },
+  "The virus that causes this disease encodes a G-protein coupled receptor responsible for activating p38-MAP Kinase and a namesake spindle-cell growth factor, and also codes for a Fas-ligand inhibiting protein. This disease's causative agent causes multicentric Castleman's disease when it expresses interleukin-6, and when co-infected with Epstein-Barr virus causes primary effusion lymphoma. Chang and Moore used Representational Difference Analysis to show that Human Herpesvirus 8 causes it, and its chief symptom is a series of black or purple papular lesions in the mouth and skin. FTP, name this": {
+    "guess": "Kaposi's sarcoma",
+    "confidence": [
+      [
+        "Kap",
+        -0.00031413205
+      ],
+      [
+        "osi",
+        0.0
+      ],
+      [
+        "'s",
+        -2.9875326e-05
+      ],
+      [
+        " sar",
+        -0.0009114635
+      ],
+      [
+        "coma",
+        0.0
+      ]
+    ]
+  },
+  "The virus that causes this disease encodes a G-protein coupled receptor responsible for activating p38-MAP Kinase and a namesake spindle-cell growth factor, and also codes for a Fas-ligand inhibiting protein. This disease's causative agent causes multicentric Castleman's disease when it expresses interleukin-6, and when co-infected with Epstein-Barr virus causes primary effusion lymphoma. Chang and Moore used Representational Difference Analysis to show that Human Herpesvirus 8 causes it, and its chief symptom is a series of black or purple papular lesions in the mouth and skin. FTP, name this disease first described by a Hungarian doctor, a certain sarcoma commonly found in AIDS patients.": {
+    "guess": "Kaposi's sarcoma",
+    "confidence": [
+      [
+        "Kap",
+        -7.2073424e-05
+      ],
+      [
+        "osi",
+        0.0
+      ],
+      [
+        "'s",
+        -5.109358e-05
+      ],
+      [
+        " sar",
+        -0.3132617
+      ],
+      [
+        "coma",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In 1884, he visited England and was invited to write a seventh symphony. While there, he was also invited": {
+    "guess": "Anton\u00edn Dvo\u0159\u00e1k",
+    "confidence": [
+      [
+        "Anton",
+        -0.3475911
+      ],
+      [
+        "\u00edn",
+        -0.016608668
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "vo",
+        -0.00013989297
+      ],
+      [
+        "\u0159",
+        0.0
+      ],
+      [
+        "\u00e1k",
+        0.0
+      ]
+    ]
+  },
+  "In 1884, he visited England and was invited to write a seventh symphony. While there, he was also invited to write two large-scale choral works, The Spectre's Bride and St. Ludmila. His fifth symphony": {
+    "guess": "Anton\u00edn Dvo\u0159\u00e1k",
+    "confidence": [
+      [
+        "Anton",
+        -0.0030671952
+      ],
+      [
+        "\u00edn",
+        -0.0031781907
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "vo",
+        -0.00020354039
+      ],
+      [
+        "\u0159",
+        0.0
+      ],
+      [
+        "\u00e1k",
+        0.0
+      ]
+    ]
+  },
+  "In 1884, he visited England and was invited to write a seventh symphony. While there, he was also invited to write two large-scale choral works, The Spectre's Bride and St. Ludmila. His fifth symphony quotes the first four notes of Tchaikovsky's First Piano Concerto for its main theme, and his first": {
+    "guess": "Anton\u00edn Dvo\u0159\u00e1k",
+    "confidence": [
+      [
+        "Anton",
+        -0.09761358
+      ],
+      [
+        "\u00edn",
+        -0.0007106439
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "vo",
+        -0.00043066923
+      ],
+      [
+        "\u0159",
+        0.0
+      ],
+      [
+        "\u00e1k",
+        0.0
+      ]
+    ]
+  },
+  "In 1884, he visited England and was invited to write a seventh symphony. While there, he was also invited to write two large-scale choral works, The Spectre's Bride and St. Ludmila. His fifth symphony quotes the first four notes of Tchaikovsky's First Piano Concerto for its main theme, and his first symphony was later nicknamed The Bells of Zlonice. His most popular symphony was written while in New": {
+    "guess": "Anton\u00edn Dvo\u0159\u00e1k",
+    "confidence": [
+      [
+        "Anton",
+        -0.11051408
+      ],
+      [
+        "\u00edn",
+        -1.504853e-06
+      ],
+      [
+        " D",
+        -1.504853e-06
+      ],
+      [
+        "vo",
+        0.0
+      ],
+      [
+        "\u0159",
+        0.0
+      ],
+      [
+        "\u00e1k",
+        0.0
+      ]
+    ]
+  },
+  "In 1884, he visited England and was invited to write a seventh symphony. While there, he was also invited to write two large-scale choral works, The Spectre's Bride and St. Ludmila. His fifth symphony quotes the first four notes of Tchaikovsky's First Piano Concerto for its main theme, and his first symphony was later nicknamed The Bells of Zlonice. His most popular symphony was written while in New York City, features a famous Largo section, and contains many folk themes. FTP, name this Czech composer": {
+    "guess": "Anton\u00edn Dvo\u0159\u00e1k",
+    "confidence": [
+      [
+        "Anton",
+        -0.01145403
+      ],
+      [
+        "\u00edn",
+        -1.0280384e-06
+      ],
+      [
+        " D",
+        0.0
+      ],
+      [
+        "vo",
+        0.0
+      ],
+      [
+        "\u0159",
+        0.0
+      ],
+      [
+        "\u00e1k",
+        0.0
+      ]
+    ]
+  },
+  "In 1884, he visited England and was invited to write a seventh symphony. While there, he was also invited to write two large-scale choral works, The Spectre's Bride and St. Ludmila. His fifth symphony quotes the first four notes of Tchaikovsky's First Piano Concerto for its main theme, and his first symphony was later nicknamed The Bells of Zlonice. His most popular symphony was written while in New York City, features a famous Largo section, and contains many folk themes. FTP, name this Czech composer most famous for Symphony No. 9, or \"From the New World.\"": {
+    "guess": "Anton\u00edn Dvo\u0159\u00e1k",
+    "confidence": [
+      [
+        "Anton",
+        -0.20210089
+      ],
+      [
+        "\u00edn",
+        -3.1281633e-07
+      ],
+      [
+        " D",
+        -3.1281633e-07
+      ],
+      [
+        "vo",
+        0.0
+      ],
+      [
+        "\u0159",
+        0.0
+      ],
+      [
+        "\u00e1k",
+        0.0
+      ]
+    ]
+  },
+  "For viscous flow past a sphere, it's inversely proportional to the drag coefficient.  Given by the product": {
+    "guess": "Reynolds number",
+    "confidence": [
+      [
+        "Re",
+        -0.012144508
+      ],
+      [
+        "yn",
+        0.0
+      ],
+      [
+        "olds",
+        -1.8624639e-06
+      ],
+      [
+        " number",
+        -0.043064047
+      ]
+    ]
+  },
+  "For viscous flow past a sphere, it's inversely proportional to the drag coefficient.  Given by the product of a velocity and a length divided by the absolute viscosity, laminar flow occurs for values smaller": {
+    "guess": "Reynolds number",
+    "confidence": [
+      [
+        "Re",
+        -0.00051609793
+      ],
+      [
+        "yn",
+        0.0
+      ],
+      [
+        "olds",
+        -5.5122365e-07
+      ],
+      [
+        " number",
+        -0.0019293479
+      ]
+    ]
+  },
+  "For viscous flow past a sphere, it's inversely proportional to the drag coefficient.  Given by the product of a velocity and a length divided by the absolute viscosity, laminar flow occurs for values smaller than 1000.  For ten points, the degree of a turbulence in a fluid is governed by what dimensionless": {
+    "guess": "Reynolds number",
+    "confidence": [
+      [
+        "Re",
+        -0.00057424
+      ],
+      [
+        "yn",
+        0.0
+      ],
+      [
+        "olds",
+        0.0
+      ],
+      [
+        " number",
+        -1.0087517e-05
+      ]
+    ]
+  },
+  "For viscous flow past a sphere, it's inversely proportional to the drag coefficient.  Given by the product of a velocity and a length divided by the absolute viscosity, laminar flow occurs for values smaller than 1000.  For ten points, the degree of a turbulence in a fluid is governed by what dimensionless number?": {
+    "guess": "Reynolds number",
+    "confidence": [
+      [
+        "Re",
+        -3.7265952e-05
+      ],
+      [
+        "yn",
+        0.0
+      ],
+      [
+        "olds",
+        -1.9361265e-07
+      ],
+      [
+        " number",
+        -0.014578774
+      ]
+    ]
+  },
+  "One visitor to these people described them as being \"like the Carolingian kings\u2026decayed to a mere beautiful": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8393878
+      ]
+    ]
+  },
+  "One visitor to these people described them as being \"like the Carolingian kings\u2026decayed to a mere beautiful futility.\" That visitor would later compare these people to \"mere fatted cattle\" before deciding": {
+    "guess": "The answer is: The Last Emperor of China",
+    "confidence": [
+      [
+        "The",
+        -1.2902124
+      ],
+      [
+        " answer",
+        -0.81484056
+      ],
+      [
+        " is",
+        -0.00025942858
+      ],
+      [
+        ":",
+        -0.048836373
+      ],
+      [
+        " The",
+        -1.7708935
+      ],
+      [
+        " Last",
+        -1.6648446
+      ],
+      [
+        " Emperor",
+        -0.21151909
+      ],
+      [
+        " of",
+        -0.8778619
+      ],
+      [
+        " China",
+        -0.0040413565
+      ]
+    ]
+  },
+  "One visitor to these people described them as being \"like the Carolingian kings\u2026decayed to a mere beautiful futility.\" That visitor would later compare these people to \"mere fatted cattle\" before deciding to share \"in their degradation and their Fear\" despite their (*) \"intellectual degradation.\" One": {
+    "guess": "The Time Machine",
+    "confidence": [
+      [
+        "The",
+        -0.43656266
+      ],
+      [
+        " Time",
+        -0.026572673
+      ],
+      [
+        " Machine",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "One visitor to these people described them as being \"like the Carolingian kings\u2026decayed to a mere beautiful futility.\" That visitor would later compare these people to \"mere fatted cattle\" before deciding to share \"in their degradation and their Fear\" despite their (*) \"intellectual degradation.\" One member of this group is saved from drifting away by a man who loses a certain vehicle and is named": {
+    "guess": "The Time Machine",
+    "confidence": [
+      [
+        "The",
+        -0.5736247
+      ],
+      [
+        " Time",
+        -0.030759575
+      ],
+      [
+        " Machine",
+        -1.5451682e-05
+      ]
+    ]
+  },
+  "One visitor to these people described them as being \"like the Carolingian kings\u2026decayed to a mere beautiful futility.\" That visitor would later compare these people to \"mere fatted cattle\" before deciding to share \"in their degradation and their Fear\" despite their (*) \"intellectual degradation.\" One member of this group is saved from drifting away by a man who loses a certain vehicle and is named Weena. For 10 points, name this group paired with the Morlocks in H.G. Well's The Time Machine.": {
+    "guess": "Eloi",
+    "confidence": [
+      [
+        "E",
+        -0.0014722456
+      ],
+      [
+        "lo",
+        -6.704273e-07
+      ],
+      [
+        "i",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "In one vision, this man was told that \"the Serpent was loosened\" and that he had to fight it. In another,": {
+    "guess": "John of Patmos",
+    "confidence": [
+      [
+        "John",
+        -0.8256439
+      ],
+      [
+        " of",
+        -0.061818317
+      ],
+      [
+        " Pat",
+        -1.504853e-06
+      ],
+      [
+        "mos",
+        0.0
+      ]
+    ]
+  },
+  "In one vision, this man was told that \"the Serpent was loosened\" and that he had to fight it. In another, he \"discovered drops of blood on the corn\" and \"hieroglyphic characters\" on the leaves of the trees,": {
+    "guess": "Nat Turner",
+    "confidence": [
+      [
+        "Nat",
+        -0.03130346
+      ],
+      [
+        " Turner",
+        -8.061054e-06
+      ]
+    ]
+  },
+  "In one vision, this man was told that \"the Serpent was loosened\" and that he had to fight it. In another, he \"discovered drops of blood on the corn\" and \"hieroglyphic characters\" on the leaves of the trees, while, in a different episode, he believed that a higher power told him to \"return to the service": {
+    "guess": "Nat Turner",
+    "confidence": [
+      [
+        "Nat",
+        -0.2641419
+      ],
+      [
+        " Turner",
+        -0.0011722483
+      ]
+    ]
+  },
+  "In one vision, this man was told that \"the Serpent was loosened\" and that he had to fight it. In another, he \"discovered drops of blood on the corn\" and \"hieroglyphic characters\" on the leaves of the trees, while, in a different episode, he believed that a higher power told him to \"return to the service of [his] earthly master.\" Before his execution, this man dictated an account of his life to the": {
+    "guess": "Nat Turner",
+    "confidence": [
+      [
+        "Nat",
+        -0.007696179
+      ],
+      [
+        " Turner",
+        -0.00015896189
+      ]
+    ]
+  },
+  "In one vision, this man was told that \"the Serpent was loosened\" and that he had to fight it. In another, he \"discovered drops of blood on the corn\" and \"hieroglyphic characters\" on the leaves of the trees, while, in a different episode, he believed that a higher power told him to \"return to the service of [his] earthly master.\" Before his execution, this man dictated an account of his life to the physician Thomas Gray. This man and his followers took action after the sky turned blue-green, and they": {
+    "guess": "Nat Turner",
+    "confidence": [
+      [
+        "Nat",
+        -0.00049167214
+      ],
+      [
+        " Turner",
+        -5.8603408e-05
+      ]
+    ]
+  },
+  "In one vision, this man was told that \"the Serpent was loosened\" and that he had to fight it. In another, he \"discovered drops of blood on the corn\" and \"hieroglyphic characters\" on the leaves of the trees, while, in a different episode, he believed that a higher power told him to \"return to the service of [his] earthly master.\" Before his execution, this man dictated an account of his life to the physician Thomas Gray. This man and his followers took action after the sky turned blue-green, and they were defeated en route to the town of Jerusalem after killing sixty whites, including this man's": {
+    "guess": "Nat Turner",
+    "confidence": [
+      [
+        "Nat",
+        -0.011452023
+      ],
+      [
+        " Turner",
+        -0.0002040172
+      ]
+    ]
+  },
+  "In one vision, this man was told that \"the Serpent was loosened\" and that he had to fight it. In another, he \"discovered drops of blood on the corn\" and \"hieroglyphic characters\" on the leaves of the trees, while, in a different episode, he believed that a higher power told him to \"return to the service of [his] earthly master.\" Before his execution, this man dictated an account of his life to the physician Thomas Gray. This man and his followers took action after the sky turned blue-green, and they were defeated en route to the town of Jerusalem after killing sixty whites, including this man's masters, the Travis family. For 10 points, name this leader of an 1831 slave revolt in Southampton": {
+    "guess": "Nat Turner",
+    "confidence": [
+      [
+        "Nat",
+        -0.010834281
+      ],
+      [
+        " Turner",
+        -3.166338e-05
+      ]
+    ]
+  },
+  "In one vision, this man was told that \"the Serpent was loosened\" and that he had to fight it. In another, he \"discovered drops of blood on the corn\" and \"hieroglyphic characters\" on the leaves of the trees, while, in a different episode, he believed that a higher power told him to \"return to the service of [his] earthly master.\" Before his execution, this man dictated an account of his life to the physician Thomas Gray. This man and his followers took action after the sky turned blue-green, and they were defeated en route to the town of Jerusalem after killing sixty whites, including this man's masters, the Travis family. For 10 points, name this leader of an 1831 slave revolt in Southampton County, Virginia, whose confessions title a William Styron novel.": {
+    "guess": "Nat Turner",
+    "confidence": [
+      [
+        "Nat",
+        -0.0075400076
+      ],
+      [
+        " Turner",
+        -5.8722613e-05
+      ]
+    ]
+  },
+  "A viscous fluid and an elastic spring connected in series characterizes this scientist's namesake model": {
+    "guess": "Maxwell material",
+    "confidence": [
+      [
+        "Max",
+        -0.020279557
+      ],
+      [
+        "well",
+        -1.9361265e-07
+      ],
+      [
+        " material",
+        -0.07080675
+      ]
+    ]
+  },
+  "A viscous fluid and an elastic spring connected in series characterizes this scientist's namesake model of viscoelasticity. Equating the second mixed partial derivatives of each of the four thermodynamic": {
+    "guess": "James Clerk Maxwell",
+    "confidence": [
+      [
+        "James",
+        -0.37673277
+      ],
+      [
+        " Clerk",
+        -0.00013536324
+      ],
+      [
+        " Maxwell",
+        0.0
+      ]
+    ]
+  },
+  "A viscous fluid and an elastic spring connected in series characterizes this scientist's namesake model of viscoelasticity. Equating the second mixed partial derivatives of each of the four thermodynamic potentials is the derivation of the set of fundamental thermodynamic equations named for this scientist.": {
+    "guess": "James Clerk Maxwell",
+    "confidence": [
+      [
+        "James",
+        -0.092348725
+      ],
+      [
+        " Clerk",
+        -2.6968896e-06
+      ],
+      [
+        " Maxwell",
+        0.0
+      ]
+    ]
+  },
+  "A viscous fluid and an elastic spring connected in series characterizes this scientist's namesake model of viscoelasticity. Equating the second mixed partial derivatives of each of the four thermodynamic potentials is the derivation of the set of fundamental thermodynamic equations named for this scientist. This scientist proposed a thought experiment in which high velocity (*) gas particles accumulate": {
+    "guess": "James Clerk Maxwell",
+    "confidence": [
+      [
+        "James",
+        -0.0065126256
+      ],
+      [
+        " Clerk",
+        0.0
+      ],
+      [
+        " Maxwell",
+        0.0
+      ]
+    ]
+  },
+  "A viscous fluid and an elastic spring connected in series characterizes this scientist's namesake model of viscoelasticity. Equating the second mixed partial derivatives of each of the four thermodynamic potentials is the derivation of the set of fundamental thermodynamic equations named for this scientist. This scientist proposed a thought experiment in which high velocity (*) gas particles accumulate selectively on one side of a divided container, violating the 2nd law of thermodynamics. This man": {
+    "guess": "James Clerk Maxwell",
+    "confidence": [
+      [
+        "James",
+        -0.0342972
+      ],
+      [
+        " Clerk",
+        0.0
+      ],
+      [
+        " Maxwell",
+        0.0
+      ]
+    ]
+  },
+  "A viscous fluid and an elastic spring connected in series characterizes this scientist's namesake model of viscoelasticity. Equating the second mixed partial derivatives of each of the four thermodynamic potentials is the derivation of the set of fundamental thermodynamic equations named for this scientist. This scientist proposed a thought experiment in which high velocity (*) gas particles accumulate selectively on one side of a divided container, violating the 2nd law of thermodynamics. This man names another set of equations that can be used to derive the wave equation for an electromagnetic": {
+    "guess": "James Clerk Maxwell",
+    "confidence": [
+      [
+        "James",
+        -0.0039623976
+      ],
+      [
+        " Clerk",
+        0.0
+      ],
+      [
+        " Maxwell",
+        0.0
+      ]
+    ]
+  },
+  "A viscous fluid and an elastic spring connected in series characterizes this scientist's namesake model of viscoelasticity. Equating the second mixed partial derivatives of each of the four thermodynamic potentials is the derivation of the set of fundamental thermodynamic equations named for this scientist. This scientist proposed a thought experiment in which high velocity (*) gas particles accumulate selectively on one side of a divided container, violating the 2nd law of thermodynamics. This man names another set of equations that can be used to derive the wave equation for an electromagnetic wave. For 10 points, Gauss's laws, Faraday's law, and Ampere's law are the 4 fundamental equations": {
+    "guess": "James Clerk Maxwell",
+    "confidence": [
+      [
+        "James",
+        -0.33170313
+      ],
+      [
+        " Clerk",
+        0.0
+      ],
+      [
+        " Maxwell",
+        0.0
+      ]
+    ]
+  },
+  "A viscous fluid and an elastic spring connected in series characterizes this scientist's namesake model of viscoelasticity. Equating the second mixed partial derivatives of each of the four thermodynamic potentials is the derivation of the set of fundamental thermodynamic equations named for this scientist. This scientist proposed a thought experiment in which high velocity (*) gas particles accumulate selectively on one side of a divided container, violating the 2nd law of thermodynamics. This man names another set of equations that can be used to derive the wave equation for an electromagnetic wave. For 10 points, Gauss's laws, Faraday's law, and Ampere's law are the 4 fundamental equations of electromagnetism named for what scientist, who also theorized a namesake \"demon\"?": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.66563386
+      ]
+    ]
+  },
+  "A Virginia Congressman with this surname added \"sex\" to the protected classes in Title VII of the Civil": {
+    "guess": "Smith",
+    "confidence": [
+      [
+        "Smith",
+        -0.030036256
+      ]
+    ]
+  },
+  "A Virginia Congressman with this surname added \"sex\" to the protected classes in Title VII of the Civil Rights Act of 1964 in a failed attempt to derail it. That Congressman with this surname sponsored": {
+    "guess": "Smith",
+    "confidence": [
+      [
+        "Smith",
+        -0.022874448
+      ]
+    ]
+  },
+  "A Virginia Congressman with this surname added \"sex\" to the protected classes in Title VII of the Civil Rights Act of 1964 in a failed attempt to derail it. That Congressman with this surname sponsored a bill overturned in Yates v. United States, which made it a crime to advocate the violent overthrow": {
+    "guess": "Smith",
+    "confidence": [
+      [
+        "Smith",
+        -0.009300893
+      ]
+    ]
+  },
+  "A Virginia Congressman with this surname added \"sex\" to the protected classes in Title VII of the Civil Rights Act of 1964 in a failed attempt to derail it. That Congressman with this surname sponsored a bill overturned in Yates v. United States, which made it a crime to advocate the violent overthrow of the US government. Another politician with this last name lost his party's nomination when he split": {
+    "guess": "Smith",
+    "confidence": [
+      [
+        "Smith",
+        -0.021125307
+      ]
+    ]
+  },
+  "A Virginia Congressman with this surname added \"sex\" to the protected classes in Title VII of the Civil Rights Act of 1964 in a failed attempt to derail it. That Congressman with this surname sponsored a bill overturned in Yates v. United States, which made it a crime to advocate the violent overthrow of the US government. Another politician with this last name lost his party's nomination when he split the vote with \"dry\" candidate William G. McAdoo at the \"Klan-bake\", leading to (*) John W. Davis's": {
+    "guess": "Byrnes",
+    "confidence": [
+      [
+        "By",
+        -0.479207
+      ],
+      [
+        "r",
+        -0.00060057297
+      ],
+      [
+        "nes",
+        -0.016041642
+      ]
+    ]
+  },
+  "A Virginia Congressman with this surname added \"sex\" to the protected classes in Title VII of the Civil Rights Act of 1964 in a failed attempt to derail it. That Congressman with this surname sponsored a bill overturned in Yates v. United States, which made it a crime to advocate the violent overthrow of the US government. Another politician with this last name lost his party's nomination when he split the vote with \"dry\" candidate William G. McAdoo at the \"Klan-bake\", leading to (*) John W. Davis's candidacy. That New Yorker with this surname was nominated four years later as the \"Happy Warrior\"": {
+    "guess": "Smith",
+    "confidence": [
+      [
+        "Smith",
+        -0.00076447986
+      ]
+    ]
+  },
+  "A Virginia Congressman with this surname added \"sex\" to the protected classes in Title VII of the Civil Rights Act of 1964 in a failed attempt to derail it. That Congressman with this surname sponsored a bill overturned in Yates v. United States, which made it a crime to advocate the violent overthrow of the US government. Another politician with this last name lost his party's nomination when he split the vote with \"dry\" candidate William G. McAdoo at the \"Klan-bake\", leading to (*) John W. Davis's candidacy. That New Yorker with this surname was nominated four years later as the \"Happy Warrior\" as the nation's first major Catholic presidential candidate. For 10 points, give this last name of": {
+    "guess": "Smith",
+    "confidence": [
+      [
+        "Smith",
+        -0.0001940041
+      ]
+    ]
+  },
+  "A Virginia Congressman with this surname added \"sex\" to the protected classes in Title VII of the Civil Rights Act of 1964 in a failed attempt to derail it. That Congressman with this surname sponsored a bill overturned in Yates v. United States, which made it a crime to advocate the violent overthrow of the US government. Another politician with this last name lost his party's nomination when he split the vote with \"dry\" candidate William G. McAdoo at the \"Klan-bake\", leading to (*) John W. Davis's candidacy. That New Yorker with this surname was nominated four years later as the \"Happy Warrior\" as the nation's first major Catholic presidential candidate. For 10 points, give this last name of Al, the Democrats' 1928 presidential candidate.": {
+    "guess": "Smith",
+    "confidence": [
+      [
+        "Smith",
+        -0.00039015833
+      ]
+    ]
+  },
+  "He visited his twin sister St. Scholastica exactly once a year,  and though he was not with her when": {
+    "guess": "Benedict of Nursia",
+    "confidence": [
+      [
+        "B",
+        -0.0021648908
+      ],
+      [
+        "ened",
+        0.0
+      ],
+      [
+        "ict",
+        0.0
+      ],
+      [
+        " of",
+        -4.3202e-07
+      ],
+      [
+        " N",
+        0.0
+      ],
+      [
+        "urs",
+        -4.596782e-05
+      ],
+      [
+        "ia",
+        0.0
+      ]
+    ]
+  },
+  "He visited his twin sister St. Scholastica exactly once a year,  and though he was not with her when she died, he had a vision of  her in Paradise in a dream shortly thereafter. Known for his motto  of": {
+    "guess": "Benedict of Nursia",
+    "confidence": [
+      [
+        "B",
+        -0.018457074
+      ],
+      [
+        "ened",
+        0.0
+      ],
+      [
+        "ict",
+        0.0
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " N",
+        0.0
+      ],
+      [
+        "urs",
+        -0.00049083773
+      ],
+      [
+        "ia",
+        0.0
+      ]
+    ]
+  },
+  "He visited his twin sister St. Scholastica exactly once a year,  and though he was not with her when she died, he had a vision of  her in Paradise in a dream shortly thereafter. Known for his motto  of \"Ora et Labora\"\\--Prayer and Work--he originally was a hermit in  a cave at Subiaco before founding": {
+    "guess": "Benedict of Nursia",
+    "confidence": [
+      [
+        "B",
+        -0.017463239
+      ],
+      [
+        "ened",
+        0.0
+      ],
+      [
+        "ict",
+        0.0
+      ],
+      [
+        " of",
+        -3.650519e-06
+      ],
+      [
+        " N",
+        0.0
+      ],
+      [
+        "urs",
+        -0.0002069973
+      ],
+      [
+        "ia",
+        0.0
+      ]
+    ]
+  },
+  "He visited his twin sister St. Scholastica exactly once a year,  and though he was not with her when she died, he had a vision of  her in Paradise in a dream shortly thereafter. Known for his motto  of \"Ora et Labora\"\\--Prayer and Work--he originally was a hermit in  a cave at Subiaco before founding his monastery at Monte Cassino.  FTP--name this saint known for his \"rule\" which became the basis of": {
+    "guess": "Benedict of Nursia",
+    "confidence": [
+      [
+        "B",
+        -0.011297503
+      ],
+      [
+        "ened",
+        0.0
+      ],
+      [
+        "ict",
+        0.0
+      ],
+      [
+        " of",
+        -3.888926e-06
+      ],
+      [
+        " N",
+        0.0
+      ],
+      [
+        "urs",
+        -0.0001594387
+      ],
+      [
+        "ia",
+        0.0
+      ]
+    ]
+  },
+  "He visited his twin sister St. Scholastica exactly once a year,  and though he was not with her when she died, he had a vision of  her in Paradise in a dream shortly thereafter. Known for his motto  of \"Ora et Labora\"\\--Prayer and Work--he originally was a hermit in  a cave at Subiaco before founding his monastery at Monte Cassino.  FTP--name this saint known for his \"rule\" which became the basis of  monasticism in the West.": {
+    "guess": "Benedict of Nursia",
+    "confidence": [
+      [
+        "B",
+        -0.011630556
+      ],
+      [
+        "ened",
+        0.0
+      ],
+      [
+        "ict",
+        0.0
+      ],
+      [
+        " of",
+        -1.2664457e-06
+      ],
+      [
+        " N",
+        0.0
+      ],
+      [
+        "urs",
+        -6.670925e-05
+      ],
+      [
+        "ia",
+        0.0
+      ]
+    ]
+  },
+  "It was his visit to China during the latter stages of the  Chinese Civil War and report of little good": {
+    "guess": "George C. Marshall",
+    "confidence": [
+      [
+        "George",
+        -0.6705242
+      ],
+      [
+        " C",
+        -0.04873543
+      ],
+      [
+        ".",
+        -7.89631e-07
+      ],
+      [
+        " Marshall",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "It was his visit to China during the latter stages of the  Chinese Civil War and report of little good to say for either side  that prompted Truman to adopt a \"hands-off\" policy during the war.  FTP--name": {
+    "guess": "George C. Marshall",
+    "confidence": [
+      [
+        "George",
+        -0.032127798
+      ],
+      [
+        " C",
+        -0.69326586
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Marshall",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "It was his visit to China during the latter stages of the  Chinese Civil War and report of little good to say for either side  that prompted Truman to adopt a \"hands-off\" policy during the war.  FTP--name this general of U.S. forces in Southeastern Asia during  World War II who succeeded in opening the": {
+    "guess": "George Marshall",
+    "confidence": [
+      [
+        "George",
+        -0.34940928
+      ],
+      [
+        " Marshall",
+        -0.38710815
+      ]
+    ]
+  },
+  "It was his visit to China during the latter stages of the  Chinese Civil War and report of little good to say for either side  that prompted Truman to adopt a \"hands-off\" policy during the war.  FTP--name this general of U.S. forces in Southeastern Asia during  World War II who succeeded in opening the Ledo Road to supply  Chinese resistance troops against the Japanese.": {
+    "guess": "Joseph Stilwell",
+    "confidence": [
+      [
+        "Joseph",
+        -0.12287521
+      ],
+      [
+        " Stil",
+        -0.00051871676
+      ],
+      [
+        "well",
+        0.0
+      ]
+    ]
+  },
+  "It is by virtue of this that \"man is distinguished from animals,\" according to Ludwig von Mises [MEE-say]": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5003445
+      ]
+    ]
+  },
+  "It is by virtue of this that \"man is distinguished from animals,\" according to Ludwig von Mises [MEE-say] in Liberalism. He goes on to say that this has \"made feeble man. . .the lord of the earth.\" Along": {
+    "guess": "Human Action",
+    "confidence": [
+      [
+        "Human",
+        -0.7034731
+      ],
+      [
+        " Action",
+        -0.2538817
+      ]
+    ]
+  },
+  "It is by virtue of this that \"man is distinguished from animals,\" according to Ludwig von Mises [MEE-say] in Liberalism. He goes on to say that this has \"made feeble man. . .the lord of the earth.\" Along with extensive use of machinery, it was blamed for the proletarians losing all individual character": {
+    "guess": "Division of labor",
+    "confidence": [
+      [
+        "Division",
+        -0.0477267
+      ],
+      [
+        " of",
+        -1.8624639e-06
+      ],
+      [
+        " labor",
+        -0.0087311035
+      ]
+    ]
+  },
+  "It is by virtue of this that \"man is distinguished from animals,\" according to Ludwig von Mises [MEE-say] in Liberalism. He goes on to say that this has \"made feeble man. . .the lord of the earth.\" Along with extensive use of machinery, it was blamed for the proletarians losing all individual character in their work in The Communist Manifesto, though Karl Marx differentiates between the natural \"social\"": {
+    "guess": "Division of labor",
+    "confidence": [
+      [
+        "Division",
+        -0.015185728
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " labor",
+        -0.32430962
+      ]
+    ]
+  },
+  "It is by virtue of this that \"man is distinguished from animals,\" according to Ludwig von Mises [MEE-say] in Liberalism. He goes on to say that this has \"made feeble man. . .the lord of the earth.\" Along with extensive use of machinery, it was blamed for the proletarians losing all individual character in their work in The Communist Manifesto, though Karl Marx differentiates between the natural \"social\" type and the deleterious \"manufacture\" type. In Book Three of a namesake 1893 work, its abnormal": {
+    "guess": "Division of labor",
+    "confidence": [
+      [
+        "Division",
+        -0.016543014
+      ],
+      [
+        " of",
+        -4.3202e-07
+      ],
+      [
+        " labor",
+        -0.60889125
+      ]
+    ]
+  },
+  "It is by virtue of this that \"man is distinguished from animals,\" according to Ludwig von Mises [MEE-say] in Liberalism. He goes on to say that this has \"made feeble man. . .the lord of the earth.\" Along with extensive use of machinery, it was blamed for the proletarians losing all individual character in their work in The Communist Manifesto, though Karl Marx differentiates between the natural \"social\" type and the deleterious \"manufacture\" type. In Book Three of a namesake 1893 work, its abnormal forms -- including forced and anomic -- are outlined; and, in the first chapter of The Wealth of": {
+    "guess": "Division of labour",
+    "confidence": [
+      [
+        "Division",
+        -0.01102637
+      ],
+      [
+        " of",
+        -4.3202e-07
+      ],
+      [
+        " labour",
+        -0.6532377
+      ]
+    ]
+  },
+  "It is by virtue of this that \"man is distinguished from animals,\" according to Ludwig von Mises [MEE-say] in Liberalism. He goes on to say that this has \"made feeble man. . .the lord of the earth.\" Along with extensive use of machinery, it was blamed for the proletarians losing all individual character in their work in The Communist Manifesto, though Karl Marx differentiates between the natural \"social\" type and the deleterious \"manufacture\" type. In Book Three of a namesake 1893 work, its abnormal forms -- including forced and anomic -- are outlined; and, in the first chapter of The Wealth of Nations, Adam Smith uses a pin factory to describe it. For 10 points, name this separation of work into": {
+    "guess": "Division of labour",
+    "confidence": [
+      [
+        "Division",
+        -0.00023703295
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " labour",
+        -0.49073145
+      ]
+    ]
+  },
+  "It is by virtue of this that \"man is distinguished from animals,\" according to Ludwig von Mises [MEE-say] in Liberalism. He goes on to say that this has \"made feeble man. . .the lord of the earth.\" Along with extensive use of machinery, it was blamed for the proletarians losing all individual character in their work in The Communist Manifesto, though Karl Marx differentiates between the natural \"social\" type and the deleterious \"manufacture\" type. In Book Three of a namesake 1893 work, its abnormal forms -- including forced and anomic -- are outlined; and, in the first chapter of The Wealth of Nations, Adam Smith uses a pin factory to describe it. For 10 points, name this separation of work into tasks performed by specialized units, whose manifestation \"in society\" was examined by Emile Durkheim": {
+    "guess": "Division of labour",
+    "confidence": [
+      [
+        "Division",
+        -0.071248
+      ],
+      [
+        " of",
+        -4.3202e-07
+      ],
+      [
+        " labour",
+        -0.18404686
+      ]
+    ]
+  },
+  "It is by virtue of this that \"man is distinguished from animals,\" according to Ludwig von Mises [MEE-say] in Liberalism. He goes on to say that this has \"made feeble man. . .the lord of the earth.\" Along with extensive use of machinery, it was blamed for the proletarians losing all individual character in their work in The Communist Manifesto, though Karl Marx differentiates between the natural \"social\" type and the deleterious \"manufacture\" type. In Book Three of a namesake 1893 work, its abnormal forms -- including forced and anomic -- are outlined; and, in the first chapter of The Wealth of Nations, Adam Smith uses a pin factory to describe it. For 10 points, name this separation of work into tasks performed by specialized units, whose manifestation \"in society\" was examined by Emile Durkheim [AY- meel DUR-kime].": {
+    "guess": "Division of labour",
+    "confidence": [
+      [
+        "Division",
+        -0.015159777
+      ],
+      [
+        " of",
+        -5.5122365e-07
+      ],
+      [
+        " labour",
+        -0.071197264
+      ]
+    ]
+  },
+  "Virginia Woolf claimed in 1929 that she never had and never would lay flowers on any grave except the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.064424284
+      ]
+    ]
+  },
+  "Virginia Woolf claimed in 1929 that she never had and never would lay flowers on any grave except the grave of this writer. Love letters, some poetic and others merely prurient, were exchanged by this": {
+    "guess": "Vita Sackville-West",
+    "confidence": [
+      [
+        "V",
+        -0.48355523
+      ],
+      [
+        "ita",
+        -0.0015028368
+      ],
+      [
+        " Sack",
+        -1.4498052e-05
+      ],
+      [
+        "ville",
+        0.0
+      ],
+      [
+        "-West",
+        0.0
+      ]
+    ]
+  },
+  "Virginia Woolf claimed in 1929 that she never had and never would lay flowers on any grave except the grave of this writer. Love letters, some poetic and others merely prurient, were exchanged by this author and the Queen Consort, Catherine Stuart, on whose allegedly \"pornographic\" basis this writer": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6839814
+      ]
+    ]
+  },
+  "Virginia Woolf claimed in 1929 that she never had and never would lay flowers on any grave except the grave of this writer. Love letters, some poetic and others merely prurient, were exchanged by this author and the Queen Consort, Catherine Stuart, on whose allegedly \"pornographic\" basis this writer was denied burial in Westminster Abbey alongside another of her paramours, Sir Richard Lovelace, who": {
+    "guess": "Aphra Behn",
+    "confidence": [
+      [
+        "A",
+        -0.03484857
+      ],
+      [
+        "ph",
+        -0.00020592446
+      ],
+      [
+        "ra",
+        0.0
+      ],
+      [
+        " Be",
+        -1.9361265e-07
+      ],
+      [
+        "hn",
+        0.0
+      ]
+    ]
+  },
+  "Virginia Woolf claimed in 1929 that she never had and never would lay flowers on any grave except the grave of this writer. Love letters, some poetic and others merely prurient, were exchanged by this author and the Queen Consort, Catherine Stuart, on whose allegedly \"pornographic\" basis this writer was denied burial in Westminster Abbey alongside another of her paramours, Sir Richard Lovelace, who may have addressed her in the \"Lucasta\" poems. Her roman-a-clef trilogy, \"Love Letters between a Nobleman": {
+    "guess": "Aphra Behn",
+    "confidence": [
+      [
+        "A",
+        -0.0062388764
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ra",
+        0.0
+      ],
+      [
+        " Be",
+        -1.9361265e-07
+      ],
+      [
+        "hn",
+        0.0
+      ]
+    ]
+  },
+  "Virginia Woolf claimed in 1929 that she never had and never would lay flowers on any grave except the grave of this writer. Love letters, some poetic and others merely prurient, were exchanged by this author and the Queen Consort, Catherine Stuart, on whose allegedly \"pornographic\" basis this writer was denied burial in Westminster Abbey alongside another of her paramours, Sir Richard Lovelace, who may have addressed her in the \"Lucasta\" poems. Her roman-a-clef trilogy, \"Love Letters between a Nobleman and His Sister\" was published under the code-name \"Astrea,\" assigned to her when she was a spy": {
+    "guess": "Aphra Behn",
+    "confidence": [
+      [
+        "A",
+        -0.00013917775
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ra",
+        0.0
+      ],
+      [
+        " Be",
+        0.0
+      ],
+      [
+        "hn",
+        0.0
+      ]
+    ]
+  },
+  "Virginia Woolf claimed in 1929 that she never had and never would lay flowers on any grave except the grave of this writer. Love letters, some poetic and others merely prurient, were exchanged by this author and the Queen Consort, Catherine Stuart, on whose allegedly \"pornographic\" basis this writer was denied burial in Westminster Abbey alongside another of her paramours, Sir Richard Lovelace, who may have addressed her in the \"Lucasta\" poems. Her roman-a-clef trilogy, \"Love Letters between a Nobleman and His Sister\" was published under the code-name \"Astrea,\" assigned to her when she was a spy for Charles II, but she is better known for her comedy The Rover. FTP, identify this Suriname-born": {
+    "guess": "Aphra Behn",
+    "confidence": [
+      [
+        "A",
+        -0.00035965684
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ra",
+        0.0
+      ],
+      [
+        " Be",
+        0.0
+      ],
+      [
+        "hn",
+        0.0
+      ]
+    ]
+  },
+  "Virginia Woolf claimed in 1929 that she never had and never would lay flowers on any grave except the grave of this writer. Love letters, some poetic and others merely prurient, were exchanged by this author and the Queen Consort, Catherine Stuart, on whose allegedly \"pornographic\" basis this writer was denied burial in Westminster Abbey alongside another of her paramours, Sir Richard Lovelace, who may have addressed her in the \"Lucasta\" poems. Her roman-a-clef trilogy, \"Love Letters between a Nobleman and His Sister\" was published under the code-name \"Astrea,\" assigned to her when she was a spy for Charles II, but she is better known for her comedy The Rover. FTP, identify this Suriname-born authoress of Oroonoko, one of the earliest English novelists.": {
+    "guess": "Aphra Behn",
+    "confidence": [
+      [
+        "A",
+        -0.00027146813
+      ],
+      [
+        "ph",
+        0.0
+      ],
+      [
+        "ra",
+        0.0
+      ],
+      [
+        " Be",
+        0.0
+      ],
+      [
+        "hn",
+        0.0
+      ]
+    ]
+  },
+  "This man's Virgin and Child Between Saints Francis and Anthony was executed for the high altar of Sant'Antonio": {
+    "guess": "Giovanni Bellini",
+    "confidence": [
+      [
+        "Gi",
+        -0.12060124
+      ],
+      [
+        "ov",
+        -0.00015896189
+      ],
+      [
+        "anni",
+        -1.9361265e-07
+      ],
+      [
+        " Bell",
+        -0.00014501873
+      ],
+      [
+        "ini",
+        0.0
+      ]
+    ]
+  },
+  "This man's Virgin and Child Between Saints Francis and Anthony was executed for the high altar of Sant'Antonio of Padua, while his powerful, wooden Repentant Magdalene stands in Santa Maria del Fiore.": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -0.00044246673
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ]
+    ]
+  },
+  "This man's Virgin and Child Between Saints Francis and Anthony was executed for the high altar of Sant'Antonio of Padua, while his powerful, wooden Repentant Magdalene stands in Santa Maria del Fiore. Many of this artist's works in marble, including Saint Mark and Saint George, were created for the Or": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -0.0003893239
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man's Virgin and Child Between Saints Francis and Anthony was executed for the high altar of Sant'Antonio of Padua, while his powerful, wooden Repentant Magdalene stands in Santa Maria del Fiore. Many of this artist's works in marble, including Saint Mark and Saint George, were created for the Or San Michele, and his bronze David is a nude, sword-wielding youth in a contemporary hat. For ten points,": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -0.0009274222
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ]
+    ]
+  },
+  "This man's Virgin and Child Between Saints Francis and Anthony was executed for the high altar of Sant'Antonio of Padua, while his powerful, wooden Repentant Magdalene stands in Santa Maria del Fiore. Many of this artist's works in marble, including Saint Mark and Saint George, were created for the Or San Michele, and his bronze David is a nude, sword-wielding youth in a contemporary hat. For ten points, name the early Renaissance Italian sculptor best known for such works as The Feast of Herod,": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -9.019238e-05
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ]
+    ]
+  },
+  "This man's Virgin and Child Between Saints Francis and Anthony was executed for the high altar of Sant'Antonio of Padua, while his powerful, wooden Repentant Magdalene stands in Santa Maria del Fiore. Many of this artist's works in marble, including Saint Mark and Saint George, were created for the Or San Michele, and his bronze David is a nude, sword-wielding youth in a contemporary hat. For ten points, name the early Renaissance Italian sculptor best known for such works as The Feast of Herod, Lo Zuccone, and Gattamelata.": {
+    "guess": "Donatello",
+    "confidence": [
+      [
+        "Don",
+        -0.00040338258
+      ],
+      [
+        "at",
+        0.0
+      ],
+      [
+        "ello",
+        0.0
+      ]
+    ]
+  },
+  "After visiting a prostitute at Mrs. Paradise's brothel, the narrator of this novel becomes obsessed with": {
+    "guess": "I Served the King of England",
+    "confidence": [
+      [
+        "I",
+        -0.3393833
+      ],
+      [
+        " Served",
+        -6.682846e-05
+      ],
+      [
+        " the",
+        -6.704273e-07
+      ],
+      [
+        " King",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " England",
+        0.0
+      ]
+    ]
+  },
+  "After visiting a prostitute at Mrs. Paradise's brothel, the narrator of this novel becomes obsessed with  decorating the prostitute's vagina with flowers. At the Hotel Tichota, this novel's narrator makes": {
+    "guess": "I Served the King of England",
+    "confidence": [
+      [
+        "I",
+        -0.607896
+      ],
+      [
+        " Served",
+        -7.465036e-06
+      ],
+      [
+        " the",
+        -9.0883464e-07
+      ],
+      [
+        " King",
+        -3.1281633e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " England",
+        0.0
+      ]
+    ]
+  },
+  "After visiting a prostitute at Mrs. Paradise's brothel, the narrator of this novel becomes obsessed with  decorating the prostitute's vagina with flowers. At the Hotel Tichota, this novel's narrator makes  acquaintance with the poet Tonda Jodl, who has authored a self-published book titled The Life of": {
+    "guess": "I Served the King of England",
+    "confidence": [
+      [
+        "I",
+        -0.0046952264
+      ],
+      [
+        " Served",
+        0.0
+      ],
+      [
+        " the",
+        -4.3202e-07
+      ],
+      [
+        " King",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " England",
+        0.0
+      ]
+    ]
+  },
+  "After visiting a prostitute at Mrs. Paradise's brothel, the narrator of this novel becomes obsessed with  decorating the prostitute's vagina with flowers. At the Hotel Tichota, this novel's narrator makes  acquaintance with the poet Tonda Jodl, who has authored a self-published book titled The Life of Jesus  Christ. In this novel, a complicated plan to bless a golden statue of the Infant Jesus results": {
+    "guess": "I Served the King of England",
+    "confidence": [
+      [
+        "I",
+        -0.024259672
+      ],
+      [
+        " Served",
+        -6.704273e-07
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " King",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " England",
+        0.0
+      ]
+    ]
+  },
+  "After visiting a prostitute at Mrs. Paradise's brothel, the narrator of this novel becomes obsessed with  decorating the prostitute's vagina with flowers. At the Hotel Tichota, this novel's narrator makes  acquaintance with the poet Tonda Jodl, who has authored a self-published book titled The Life of Jesus  Christ. In this novel, a complicated plan to bless a golden statue of the Infant Jesus results in a Bolivian delegation making off with the statue, and this work's narrator frequently brags about": {
+    "guess": "I Served the King of England",
+    "confidence": [
+      [
+        "I",
+        -0.019372052
+      ],
+      [
+        " Served",
+        0.0
+      ],
+      [
+        " the",
+        -5.5122365e-07
+      ],
+      [
+        " King",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " England",
+        0.0
+      ]
+    ]
+  },
+  "After visiting a prostitute at Mrs. Paradise's brothel, the narrator of this novel becomes obsessed with  decorating the prostitute's vagina with flowers. At the Hotel Tichota, this novel's narrator makes  acquaintance with the poet Tonda Jodl, who has authored a self-published book titled The Life of Jesus  Christ. In this novel, a complicated plan to bless a golden statue of the Infant Jesus results in a Bolivian delegation making off with the statue, and this work's narrator frequently brags about a medal with a  blue sash given to him by Haile Selassie. This novel's narrator, Ditie, marries": {
+    "guess": "I Served the King of England",
+    "confidence": [
+      [
+        "I",
+        -0.022297531
+      ],
+      [
+        " Served",
+        -4.3202e-07
+      ],
+      [
+        " the",
+        -4.3202e-07
+      ],
+      [
+        " King",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " England",
+        0.0
+      ]
+    ]
+  },
+  "After visiting a prostitute at Mrs. Paradise's brothel, the narrator of this novel becomes obsessed with  decorating the prostitute's vagina with flowers. At the Hotel Tichota, this novel's narrator makes  acquaintance with the poet Tonda Jodl, who has authored a self-published book titled The Life of Jesus  Christ. In this novel, a complicated plan to bless a golden statue of the Infant Jesus results in a Bolivian delegation making off with the statue, and this work's narrator frequently brags about a medal with a  blue sash given to him by Haile Selassie. This novel's narrator, Ditie, marries a Nazi athlete at the outbreak of World War II, and is eventual y thrown into prison by the Soviets": {
+    "guess": "I Served the King of England",
+    "confidence": [
+      [
+        "I",
+        -0.005303012
+      ],
+      [
+        " Served",
+        -4.3202e-07
+      ],
+      [
+        " the",
+        -4.3202e-07
+      ],
+      [
+        " King",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " England",
+        0.0
+      ]
+    ]
+  },
+  "After visiting a prostitute at Mrs. Paradise's brothel, the narrator of this novel becomes obsessed with  decorating the prostitute's vagina with flowers. At the Hotel Tichota, this novel's narrator makes  acquaintance with the poet Tonda Jodl, who has authored a self-published book titled The Life of Jesus  Christ. In this novel, a complicated plan to bless a golden statue of the Infant Jesus results in a Bolivian delegation making off with the statue, and this work's narrator frequently brags about a medal with a  blue sash given to him by Haile Selassie. This novel's narrator, Ditie, marries a Nazi athlete at the outbreak of World War II, and is eventual y thrown into prison by the Soviets who nationalize the hotel he opens  after the war. For 10 points, identify this novel whose title refers": {
+    "guess": "I Served the King of England",
+    "confidence": [
+      [
+        "I",
+        -0.00040302498
+      ],
+      [
+        " Served",
+        0.0
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " King",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " England",
+        0.0
+      ]
+    ]
+  },
+  "After visiting a prostitute at Mrs. Paradise's brothel, the narrator of this novel becomes obsessed with  decorating the prostitute's vagina with flowers. At the Hotel Tichota, this novel's narrator makes  acquaintance with the poet Tonda Jodl, who has authored a self-published book titled The Life of Jesus  Christ. In this novel, a complicated plan to bless a golden statue of the Infant Jesus results in a Bolivian delegation making off with the statue, and this work's narrator frequently brags about a medal with a  blue sash given to him by Haile Selassie. This novel's narrator, Ditie, marries a Nazi athlete at the outbreak of World War II, and is eventual y thrown into prison by the Soviets who nationalize the hotel he opens  after the war. For 10 points, identify this novel whose title refers to the reply given to the narrator's  question of how he knows what to do by the headwaiter Mr.": {
+    "guess": "I Served the King of England",
+    "confidence": [
+      [
+        "I",
+        -0.00029899686
+      ],
+      [
+        " Served",
+        0.0
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " King",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " England",
+        0.0
+      ]
+    ]
+  },
+  "After visiting a prostitute at Mrs. Paradise's brothel, the narrator of this novel becomes obsessed with  decorating the prostitute's vagina with flowers. At the Hotel Tichota, this novel's narrator makes  acquaintance with the poet Tonda Jodl, who has authored a self-published book titled The Life of Jesus  Christ. In this novel, a complicated plan to bless a golden statue of the Infant Jesus results in a Bolivian delegation making off with the statue, and this work's narrator frequently brags about a medal with a  blue sash given to him by Haile Selassie. This novel's narrator, Ditie, marries a Nazi athlete at the outbreak of World War II, and is eventual y thrown into prison by the Soviets who nationalize the hotel he opens  after the war. For 10 points, identify this novel whose title refers to the reply given to the narrator's  question of how he knows what to do by the headwaiter Mr. Skrivanek, a work by Bohumil Hrabal.": {
+    "guess": "I Served the King of England",
+    "confidence": [
+      [
+        "I",
+        -0.0015235527
+      ],
+      [
+        " Served",
+        0.0
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " King",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " England",
+        0.0
+      ]
+    ]
+  },
+  "The one of Virchow can give a positive Troisier's sign when palpated above the clavicle. Blood enters": {
+    "guess": "Subclavian vein",
+    "confidence": [
+      [
+        "Sub",
+        -0.50921875
+      ],
+      [
+        "cl",
+        0.0
+      ],
+      [
+        "avian",
+        -1.9361265e-07
+      ],
+      [
+        " vein",
+        -0.0004446124
+      ]
+    ]
+  },
+  "The one of Virchow can give a positive Troisier's sign when palpated above the clavicle. Blood enters through high endothelial venules, or HEV's, and exits from its hilum. Certain cells pass from the HEV's": {
+    "guess": "Lymph node",
+    "confidence": [
+      [
+        "L",
+        -0.0009602967
+      ],
+      [
+        "ymph",
+        0.0
+      ],
+      [
+        " node",
+        -0.0001757696
+      ]
+    ]
+  },
+  "The one of Virchow can give a positive Troisier's sign when palpated above the clavicle. Blood enters through high endothelial venules, or HEV's, and exits from its hilum. Certain cells pass from the HEV's to the paracortex, then from there to the cortex, which contains secondary follicles consisting": {
+    "guess": "Lymph node",
+    "confidence": [
+      [
+        "L",
+        -0.0044248938
+      ],
+      [
+        "ymph",
+        0.0
+      ],
+      [
+        " node",
+        -0.00027122974
+      ]
+    ]
+  },
+  "The one of Virchow can give a positive Troisier's sign when palpated above the clavicle. Blood enters through high endothelial venules, or HEV's, and exits from its hilum. Certain cells pass from the HEV's to the paracortex, then from there to the cortex, which contains secondary follicles consisting of a mantle zone surrounding a germinal center. Entry of pathogens through the skin results in plasma": {
+    "guess": "Lymph node",
+    "confidence": [
+      [
+        "L",
+        -0.006891081
+      ],
+      [
+        "ymph",
+        0.0
+      ],
+      [
+        " node",
+        -8.3159364e-05
+      ]
+    ]
+  },
+  "The one of Virchow can give a positive Troisier's sign when palpated above the clavicle. Blood enters through high endothelial venules, or HEV's, and exits from its hilum. Certain cells pass from the HEV's to the paracortex, then from there to the cortex, which contains secondary follicles consisting of a mantle zone surrounding a germinal center. Entry of pathogens through the skin results in plasma cell differentiation and T cell maturation inside it. Subcapsular sinuses provide the entry point": {
+    "guess": "Lymph node",
+    "confidence": [
+      [
+        "L",
+        -0.0013702383
+      ],
+      [
+        "ymph",
+        0.0
+      ],
+      [
+        " node",
+        -0.00027099132
+      ]
+    ]
+  },
+  "The one of Virchow can give a positive Troisier's sign when palpated above the clavicle. Blood enters through high endothelial venules, or HEV's, and exits from its hilum. Certain cells pass from the HEV's to the paracortex, then from there to the cortex, which contains secondary follicles consisting of a mantle zone surrounding a germinal center. Entry of pathogens through the skin results in plasma cell differentiation and T cell maturation inside it. Subcapsular sinuses provide the entry point for a fluid that is filtered by macrophages. FTP identify this collection of small bean-shaped structures": {
+    "guess": "Lymph node",
+    "confidence": [
+      [
+        "L",
+        -0.0028099865
+      ],
+      [
+        "ymph",
+        0.0
+      ],
+      [
+        " node",
+        -0.014176442
+      ]
+    ]
+  },
+  "The one of Virchow can give a positive Troisier's sign when palpated above the clavicle. Blood enters through high endothelial venules, or HEV's, and exits from its hilum. Certain cells pass from the HEV's to the paracortex, then from there to the cortex, which contains secondary follicles consisting of a mantle zone surrounding a germinal center. Entry of pathogens through the skin results in plasma cell differentiation and T cell maturation inside it. Subcapsular sinuses provide the entry point for a fluid that is filtered by macrophages. FTP identify this collection of small bean-shaped structures that filter blood plasma, and whose swelling is often indicative of metastatic cancer.": {
+    "guess": "Lymph node",
+    "confidence": [
+      [
+        "L",
+        -7.255024e-05
+      ],
+      [
+        "ymph",
+        0.0
+      ],
+      [
+        " node",
+        -0.00020735491
+      ]
+    ]
+  },
+  "The virial theorem implies that this quantity must be negative for a self-gravitating system. One model": {
+    "guess": "Total energy",
+    "confidence": [
+      [
+        "Total",
+        -0.1994247
+      ],
+      [
+        " energy",
+        -5.7649777e-05
+      ]
+    ]
+  },
+  "The virial theorem implies that this quantity must be negative for a self-gravitating system. One model for it assumes a three-dimensional quantum harmonic oscillator with a characteristic frequency, and": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0294163
+      ]
+    ]
+  },
+  "The virial theorem implies that this quantity must be negative for a self-gravitating system. One model for it assumes a three-dimensional quantum harmonic oscillator with a characteristic frequency, and was modified to better fit the low-temperature T-cubed dependency by treating variations as phonons.": {
+    "guess": "Internal energy",
+    "confidence": [
+      [
+        "Internal",
+        -0.7110256
+      ],
+      [
+        " energy",
+        -1.4855664e-05
+      ]
+    ]
+  },
+  "The virial theorem implies that this quantity must be negative for a self-gravitating system. One model for it assumes a three-dimensional quantum harmonic oscillator with a characteristic frequency, and was modified to better fit the low-temperature T-cubed dependency by treating variations as phonons. At high temperatures, the models of Einstein and Debye approaches the value of three times the ideal": {
+    "guess": "Heat capacity",
+    "confidence": [
+      [
+        "Heat",
+        -0.19085664
+      ],
+      [
+        " capacity",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The virial theorem implies that this quantity must be negative for a self-gravitating system. One model for it assumes a three-dimensional quantum harmonic oscillator with a characteristic frequency, and was modified to better fit the low-temperature T-cubed dependency by treating variations as phonons. At high temperatures, the models of Einstein and Debye approaches the value of three times the ideal constant given by the Dulong-Petit law. For an ideal gas, the universal constant is equal to the": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.785358
+      ]
+    ]
+  },
+  "The virial theorem implies that this quantity must be negative for a self-gravitating system. One model for it assumes a three-dimensional quantum harmonic oscillator with a characteristic frequency, and was modified to better fit the low-temperature T-cubed dependency by treating variations as phonons. At high temperatures, the models of Einstein and Debye approaches the value of three times the ideal constant given by the Dulong-Petit law. For an ideal gas, the universal constant is equal to the difference between the constant pressure and constant volume values for, FTP, this quantity defined": {
+    "guess": "Heat capacity",
+    "confidence": [
+      [
+        "Heat",
+        -0.113956764
+      ],
+      [
+        " capacity",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "The virial theorem implies that this quantity must be negative for a self-gravitating system. One model for it assumes a three-dimensional quantum harmonic oscillator with a characteristic frequency, and was modified to better fit the low-temperature T-cubed dependency by treating variations as phonons. At high temperatures, the models of Einstein and Debye approaches the value of three times the ideal constant given by the Dulong-Petit law. For an ideal gas, the universal constant is equal to the difference between the constant pressure and constant volume values for, FTP, this quantity defined as the amount of heat needed to change an object's temperature.": {
+    "guess": "Heat capacity",
+    "confidence": [
+      [
+        "Heat",
+        -0.01986745
+      ],
+      [
+        " capacity",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The VIRTIS instrument detected nightglow emission suggesting the existence of hydroxyl radicals in the": {
+    "guess": "Venus atmosphere",
+    "confidence": [
+      [
+        "Ven",
+        -0.19402787
+      ],
+      [
+        "us",
+        -2.1008714e-06
+      ],
+      [
+        " atmosphere",
+        -0.05670508
+      ]
+    ]
+  },
+  "The VIRTIS instrument detected nightglow emission suggesting the existence of hydroxyl radicals in the upper portion of this entity. In this entity, oxygen is excited into a stable singlet state which": {
+    "guess": "Venus",
+    "confidence": [
+      [
+        "Ven",
+        -0.017444497
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "The VIRTIS instrument detected nightglow emission suggesting the existence of hydroxyl radicals in the upper portion of this entity. In this entity, oxygen is excited into a stable singlet state which relaxes and emits a 1.27 micrometer line. S-shaped bodies connect the two centers of rotation of each": {
+    "guess": "Venus",
+    "confidence": [
+      [
+        "Ven",
+        -0.014891701
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "The VIRTIS instrument detected nightglow emission suggesting the existence of hydroxyl radicals in the upper portion of this entity. In this entity, oxygen is excited into a stable singlet state which relaxes and emits a 1.27 micrometer line. S-shaped bodies connect the two centers of rotation of each of the two polar vortices located here. A 1761 transit observed by Mikhail Lomonosov led him to hypothesize": {
+    "guess": "Venus",
+    "confidence": [
+      [
+        "Ven",
+        -0.022817584
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "The VIRTIS instrument detected nightglow emission suggesting the existence of hydroxyl radicals in the upper portion of this entity. In this entity, oxygen is excited into a stable singlet state which relaxes and emits a 1.27 micrometer line. S-shaped bodies connect the two centers of rotation of each of the two polar vortices located here. A 1761 transit observed by Mikhail Lomonosov led him to hypothesize this entity. Ultraviolet radiation possibly caused accelerated (*) oxidation in the upper": {
+    "guess": "Venus's atmosphere",
+    "confidence": [
+      [
+        "Ven",
+        -0.101942256
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        "'s",
+        -0.5513995
+      ],
+      [
+        " atmosphere",
+        -0.57594085
+      ]
+    ]
+  },
+  "The VIRTIS instrument detected nightglow emission suggesting the existence of hydroxyl radicals in the upper portion of this entity. In this entity, oxygen is excited into a stable singlet state which relaxes and emits a 1.27 micrometer line. S-shaped bodies connect the two centers of rotation of each of the two polar vortices located here. A 1761 transit observed by Mikhail Lomonosov led him to hypothesize this entity. Ultraviolet radiation possibly caused accelerated (*) oxidation in the upper portion of this entity in the 1970s due to an eruption. Because there's no intrinsic magnetic field,": {
+    "guess": "Venus's atmosphere",
+    "confidence": [
+      [
+        "Ven",
+        -0.103121966
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        "'s",
+        -0.512762
+      ],
+      [
+        " atmosphere",
+        -0.5759422
+      ]
+    ]
+  },
+  "The VIRTIS instrument detected nightglow emission suggesting the existence of hydroxyl radicals in the upper portion of this entity. In this entity, oxygen is excited into a stable singlet state which relaxes and emits a 1.27 micrometer line. S-shaped bodies connect the two centers of rotation of each of the two polar vortices located here. A 1761 transit observed by Mikhail Lomonosov led him to hypothesize this entity. Ultraviolet radiation possibly caused accelerated (*) oxidation in the upper portion of this entity in the 1970s due to an eruption. Because there's no intrinsic magnetic field, a chunk of this entity is lost to solar wind. Convection drives all winds in this entity, which has": {
+    "guess": "Venus's atmosphere",
+    "confidence": [
+      [
+        "Ven",
+        -0.11641013
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        "'s",
+        -0.43601847
+      ],
+      [
+        " atmosphere",
+        -0.25193095
+      ]
+    ]
+  },
+  "The VIRTIS instrument detected nightglow emission suggesting the existence of hydroxyl radicals in the upper portion of this entity. In this entity, oxygen is excited into a stable singlet state which relaxes and emits a 1.27 micrometer line. S-shaped bodies connect the two centers of rotation of each of the two polar vortices located here. A 1761 transit observed by Mikhail Lomonosov led him to hypothesize this entity. Ultraviolet radiation possibly caused accelerated (*) oxidation in the upper portion of this entity in the 1970s due to an eruption. Because there's no intrinsic magnetic field, a chunk of this entity is lost to solar wind. Convection drives all winds in this entity, which has a pressure of 93 bar and contains 97% carbon dioxide. The runaway greenhouse effect is thought to be": {
+    "guess": "Atmosphere of Venus",
+    "confidence": [
+      [
+        "Atmos",
+        -0.15103598
+      ],
+      [
+        "phere",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " Venus",
+        0.0
+      ]
+    ]
+  },
+  "The VIRTIS instrument detected nightglow emission suggesting the existence of hydroxyl radicals in the upper portion of this entity. In this entity, oxygen is excited into a stable singlet state which relaxes and emits a 1.27 micrometer line. S-shaped bodies connect the two centers of rotation of each of the two polar vortices located here. A 1761 transit observed by Mikhail Lomonosov led him to hypothesize this entity. Ultraviolet radiation possibly caused accelerated (*) oxidation in the upper portion of this entity in the 1970s due to an eruption. Because there's no intrinsic magnetic field, a chunk of this entity is lost to solar wind. Convection drives all winds in this entity, which has a pressure of 93 bar and contains 97% carbon dioxide. The runaway greenhouse effect is thought to be responsible for the current state of this entity. Opaque clouds of sulfuric acid are present in, for": {
+    "guess": "Atmosphere of Venus",
+    "confidence": [
+      [
+        "Atmos",
+        -0.23809405
+      ],
+      [
+        "phere",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " Venus",
+        0.0
+      ]
+    ]
+  },
+  "The VIRTIS instrument detected nightglow emission suggesting the existence of hydroxyl radicals in the upper portion of this entity. In this entity, oxygen is excited into a stable singlet state which relaxes and emits a 1.27 micrometer line. S-shaped bodies connect the two centers of rotation of each of the two polar vortices located here. A 1761 transit observed by Mikhail Lomonosov led him to hypothesize this entity. Ultraviolet radiation possibly caused accelerated (*) oxidation in the upper portion of this entity in the 1970s due to an eruption. Because there's no intrinsic magnetic field, a chunk of this entity is lost to solar wind. Convection drives all winds in this entity, which has a pressure of 93 bar and contains 97% carbon dioxide. The runaway greenhouse effect is thought to be responsible for the current state of this entity. Opaque clouds of sulfuric acid are present in, for 10 points, what entity that prevents the surface of the second planet from being seen by visible": {
+    "guess": "Atmosphere of Venus",
+    "confidence": [
+      [
+        "Atmos",
+        -0.07118972
+      ],
+      [
+        "phere",
+        -3.1281633e-07
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Venus",
+        0.0
+      ]
+    ]
+  },
+  "The VIRTIS instrument detected nightglow emission suggesting the existence of hydroxyl radicals in the upper portion of this entity. In this entity, oxygen is excited into a stable singlet state which relaxes and emits a 1.27 micrometer line. S-shaped bodies connect the two centers of rotation of each of the two polar vortices located here. A 1761 transit observed by Mikhail Lomonosov led him to hypothesize this entity. Ultraviolet radiation possibly caused accelerated (*) oxidation in the upper portion of this entity in the 1970s due to an eruption. Because there's no intrinsic magnetic field, a chunk of this entity is lost to solar wind. Convection drives all winds in this entity, which has a pressure of 93 bar and contains 97% carbon dioxide. The runaway greenhouse effect is thought to be responsible for the current state of this entity. Opaque clouds of sulfuric acid are present in, for 10 points, what entity that prevents the surface of the second planet from being seen by visible light?": {
+    "guess": "Atmosphere of Venus",
+    "confidence": [
+      [
+        "Atmos",
+        -0.17469771
+      ],
+      [
+        "phere",
+        -1.9361265e-07
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " Venus",
+        0.0
+      ]
+    ]
+  },
+  "Virgil Griffith developed a tool to detect conflicts of interest in relation to this website. In April": {
+    "guess": "Wikipedia",
+    "confidence": [
+      [
+        "Wikipedia",
+        -0.03508191
+      ]
+    ]
+  },
+  "Virgil Griffith developed a tool to detect conflicts of interest in relation to this website. In April 2013, one of its volunteers was threatened by the DCRI, a French intelligence agency, over information": {
+    "guess": "Wikipedia",
+    "confidence": [
+      [
+        "Wikipedia",
+        -0.00017803448
+      ]
+    ]
+  },
+  "Virgil Griffith developed a tool to detect conflicts of interest in relation to this website. In April 2013, one of its volunteers was threatened by the DCRI, a French intelligence agency, over information about a military radio station. Software called Xowa [KSOE-wah] allows users to view this website's": {
+    "guess": "Wikipedia",
+    "confidence": [
+      [
+        "Wikipedia",
+        -0.005285342
+      ]
+    ]
+  },
+  "Virgil Griffith developed a tool to detect conflicts of interest in relation to this website. In April 2013, one of its volunteers was threatened by the DCRI, a French intelligence agency, over information about a military radio station. Software called Xowa [KSOE-wah] allows users to view this website's contents while offline. This was founded by Larry Sanger and Jimmy Wales in 2001, and a 2005 article": {
+    "guess": "Wikipedia",
+    "confidence": [
+      [
+        "Wikipedia",
+        -0.0111557
+      ]
+    ]
+  },
+  "Virgil Griffith developed a tool to detect conflicts of interest in relation to this website. In April 2013, one of its volunteers was threatened by the DCRI, a French intelligence agency, over information about a military radio station. Software called Xowa [KSOE-wah] allows users to view this website's contents while offline. This was founded by Larry Sanger and Jimmy Wales in 2001, and a 2005 article in Nature magazine compared the accuracy of its science content to Encyclopedia Britannica. Name": {
+    "guess": "Wikipedia",
+    "confidence": [
+      [
+        "Wikipedia",
+        -0.014167624
+      ]
+    ]
+  },
+  "Virgil Griffith developed a tool to detect conflicts of interest in relation to this website. In April 2013, one of its volunteers was threatened by the DCRI, a French intelligence agency, over information about a military radio station. Software called Xowa [KSOE-wah] allows users to view this website's contents while offline. This was founded by Larry Sanger and Jimmy Wales in 2001, and a 2005 article in Nature magazine compared the accuracy of its science content to Encyclopedia Britannica. Name this \"Free Encyclopedia.\"": {
+    "guess": "Wikipedia",
+    "confidence": [
+      [
+        "Wikipedia",
+        -0.029754192
+      ]
+    ]
+  },
+  "After visiting this place, a man walked to his death after saying \"I am just going outside and may be": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.9680232
+      ],
+      [
+        ".",
+        -0.57596457
+      ]
+    ]
+  },
+  "After visiting this place, a man walked to his death after saying \"I am just going outside and may be some time.\" The plateau around this location was named for Haakon VII. The Nimrod Expedition pioneered": {
+    "guess": "Mount Erebus",
+    "confidence": [
+      [
+        "Mount",
+        -0.86559254
+      ],
+      [
+        " Ere",
+        -4.012684e-05
+      ],
+      [
+        "bus",
+        0.0
+      ]
+    ]
+  },
+  "After visiting this place, a man walked to his death after saying \"I am just going outside and may be some time.\" The plateau around this location was named for Haakon VII. The Nimrod Expedition pioneered a route to this location. An abortive attempt to go here was saved from disaster when lifeboats": {
+    "guess": "South Pole",
+    "confidence": [
+      [
+        "South",
+        -0.041010752
+      ],
+      [
+        " Pole",
+        0.0
+      ]
+    ]
+  },
+  "After visiting this place, a man walked to his death after saying \"I am just going outside and may be some time.\" The plateau around this location was named for Haakon VII. The Nimrod Expedition pioneered a route to this location. An abortive attempt to go here was saved from disaster when lifeboats reached Elephant Island. The Fram was last used en route to this place, and the (*) Endurance was destroyed": {
+    "guess": "South Pole",
+    "confidence": [
+      [
+        "South",
+        -0.026760014
+      ],
+      [
+        " Pole",
+        0.0
+      ]
+    ]
+  },
+  "After visiting this place, a man walked to his death after saying \"I am just going outside and may be some time.\" The plateau around this location was named for Haakon VII. The Nimrod Expedition pioneered a route to this location. An abortive attempt to go here was saved from disaster when lifeboats reached Elephant Island. The Fram was last used en route to this place, and the (*) Endurance was destroyed en route to it. In 1912, five men died after reaching this location just weeks after the first": {
+    "guess": "South Pole",
+    "confidence": [
+      [
+        "South",
+        -0.001015422
+      ],
+      [
+        " Pole",
+        0.0
+      ]
+    ]
+  },
+  "After visiting this place, a man walked to his death after saying \"I am just going outside and may be some time.\" The plateau around this location was named for Haakon VII. The Nimrod Expedition pioneered a route to this location. An abortive attempt to go here was saved from disaster when lifeboats reached Elephant Island. The Fram was last used en route to this place, and the (*) Endurance was destroyed en route to it. In 1912, five men died after reaching this location just weeks after the first group to reach it. A research station here is named for Robert Falcon Scott and Roald Amundsen. For": {
+    "guess": "South Pole",
+    "confidence": [
+      [
+        "South",
+        -0.0011940368
+      ],
+      [
+        " Pole",
+        0.0
+      ]
+    ]
+  },
+  "After visiting this place, a man walked to his death after saying \"I am just going outside and may be some time.\" The plateau around this location was named for Haakon VII. The Nimrod Expedition pioneered a route to this location. An abortive attempt to go here was saved from disaster when lifeboats reached Elephant Island. The Fram was last used en route to this place, and the (*) Endurance was destroyed en route to it. In 1912, five men died after reaching this location just weeks after the first group to reach it. A research station here is named for Robert Falcon Scott and Roald Amundsen. For 10 points, name this point at 90 degrees of latitude in Antarctica.": {
+    "guess": "South Pole",
+    "confidence": [
+      [
+        "South",
+        -0.0014985529
+      ],
+      [
+        " Pole",
+        0.0
+      ]
+    ]
+  },
+  "Visions this god sent to Aelius Aristides are detailed in Aristides' Sacred Discourses, an important": {
+    "guess": "Asclepius",
+    "confidence": [
+      [
+        "As",
+        -0.0002930367
+      ],
+      [
+        "cle",
+        -5.8365e-05
+      ],
+      [
+        "pi",
+        -1.0280384e-06
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Visions this god sent to Aelius Aristides are detailed in Aristides' Sacred Discourses, an important description of pagan religiosity. After predicting the future of this god, Chiron's daughter Ocyrhoe": {
+    "guess": "Asclepius",
+    "confidence": [
+      [
+        "As",
+        -0.021238169
+      ],
+      [
+        "cle",
+        -5.8365e-05
+      ],
+      [
+        "pi",
+        -4.3202e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Visions this god sent to Aelius Aristides are detailed in Aristides' Sacred Discourses, an important description of pagan religiosity. After predicting the future of this god, Chiron's daughter Ocyrhoe metamorphosed into a horse. Ovid relates that this god's cult arrived at Rome when he sailed to an": {
+    "guess": "Asclepius",
+    "confidence": [
+      [
+        "As",
+        -0.0060068904
+      ],
+      [
+        "cle",
+        -2.1531068e-05
+      ],
+      [
+        "pi",
+        -3.1281633e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Visions this god sent to Aelius Aristides are detailed in Aristides' Sacred Discourses, an important description of pagan religiosity. After predicting the future of this god, Chiron's daughter Ocyrhoe metamorphosed into a horse. Ovid relates that this god's cult arrived at Rome when he sailed to an island in the Tiber as a snake. In Greece, devotees worshiped this father of Machaon by (*) \"incubating\"": {
+    "guess": "Asclepius",
+    "confidence": [
+      [
+        "As",
+        -0.00032879043
+      ],
+      [
+        "cle",
+        -4.5491004e-05
+      ],
+      [
+        "pi",
+        -9.0883464e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Visions this god sent to Aelius Aristides are detailed in Aristides' Sacred Discourses, an important description of pagan religiosity. After predicting the future of this god, Chiron's daughter Ocyrhoe metamorphosed into a horse. Ovid relates that this god's cult arrived at Rome when he sailed to an island in the Tiber as a snake. In Greece, devotees worshiped this father of Machaon by (*) \"incubating\" in his shrines to receive dreams, especially at Epidaurus. This man's name comes from the word": {
+    "guess": "Asclepius",
+    "confidence": [
+      [
+        "As",
+        -0.00014776041
+      ],
+      [
+        "cle",
+        -3.7697225e-06
+      ],
+      [
+        "pi",
+        -5.5122365e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Visions this god sent to Aelius Aristides are detailed in Aristides' Sacred Discourses, an important description of pagan religiosity. After predicting the future of this god, Chiron's daughter Ocyrhoe metamorphosed into a horse. Ovid relates that this god's cult arrived at Rome when he sailed to an island in the Tiber as a snake. In Greece, devotees worshiped this father of Machaon by (*) \"incubating\" in his shrines to receive dreams, especially at Epidaurus. This man's name comes from the word for \"to cut open,\" because he was cut out of his mother's womb on her funeral pyre; that mother was": {
+    "guess": "Asclepius",
+    "confidence": [
+      [
+        "As",
+        -0.005551763
+      ],
+      [
+        "cle",
+        0.0
+      ],
+      [
+        "pi",
+        -1.0280384e-06
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Visions this god sent to Aelius Aristides are detailed in Aristides' Sacred Discourses, an important description of pagan religiosity. After predicting the future of this god, Chiron's daughter Ocyrhoe metamorphosed into a horse. Ovid relates that this god's cult arrived at Rome when he sailed to an island in the Tiber as a snake. In Greece, devotees worshiped this father of Machaon by (*) \"incubating\" in his shrines to receive dreams, especially at Epidaurus. This man's name comes from the word for \"to cut open,\" because he was cut out of his mother's womb on her funeral pyre; that mother was Coronis. Zeus' Cyclopes were killed for forging the thunderbolt that slew this man, who had displayed": {
+    "guess": "Asclepius",
+    "confidence": [
+      [
+        "As",
+        -0.00035381588
+      ],
+      [
+        "cle",
+        -2.3392786e-06
+      ],
+      [
+        "pi",
+        -3.1281633e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  },
+  "Visions this god sent to Aelius Aristides are detailed in Aristides' Sacred Discourses, an important description of pagan religiosity. After predicting the future of this god, Chiron's daughter Ocyrhoe metamorphosed into a horse. Ovid relates that this god's cult arrived at Rome when he sailed to an island in the Tiber as a snake. In Greece, devotees worshiped this father of Machaon by (*) \"incubating\" in his shrines to receive dreams, especially at Epidaurus. This man's name comes from the word for \"to cut open,\" because he was cut out of his mother's womb on her funeral pyre; that mother was Coronis. Zeus' Cyclopes were killed for forging the thunderbolt that slew this man, who had displayed hubris by raising the dead. For 10 points, name this son of Apollo, the Greek god of medicine.": {
+    "guess": "Asclepius",
+    "confidence": [
+      [
+        "As",
+        -4.9424725e-05
+      ],
+      [
+        "cle",
+        -1.3067608e-05
+      ],
+      [
+        "pi",
+        -7.89631e-07
+      ],
+      [
+        "us",
+        0.0
+      ]
+    ]
+  }
+}

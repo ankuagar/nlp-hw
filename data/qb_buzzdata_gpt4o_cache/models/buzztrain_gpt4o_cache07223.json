@@ -1,0 +1,841 @@
+{
+  "This man's suite of music written to honor an Austrian composer was adapted into the ballet \nMozartiana": {
+    "guess": "Tchaikovsky",
+    "confidence": [
+      [
+        "T",
+        -0.43258023
+      ],
+      [
+        "cha",
+        -7.3458323e-06
+      ],
+      [
+        "ikov",
+        0.0
+      ],
+      [
+        "sky",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This man's suite of music written to honor an Austrian composer was adapted into the ballet \nMozartiana by George Balanchine. This composer is said to have been annoyed when Alexander III called\n one of": {
+    "guess": "Tchaikovsky",
+    "confidence": [
+      [
+        "T",
+        -0.9702506
+      ],
+      [
+        "cha",
+        -3.5313153e-06
+      ],
+      [
+        "ikov",
+        0.0
+      ],
+      [
+        "sky",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "This man's suite of music written to honor an Austrian composer was adapted into the ballet \nMozartiana by George Balanchine. This composer is said to have been annoyed when Alexander III called\n one of his ballets \"very nice.\" That ballet contains the \"Garland Waltz\" and the \"Procession of the Fairy\n": {
+    "guess": "Pyotr Ilyich Tchaikovsky",
+    "confidence": [
+      [
+        "Py",
+        -0.4213655
+      ],
+      [
+        "otr",
+        0.0
+      ],
+      [
+        " I",
+        -3.9769227e-05
+      ],
+      [
+        "ly",
+        -3.1281633e-07
+      ],
+      [
+        "ich",
+        -1.9361265e-07
+      ],
+      [
+        " T",
+        0.0
+      ],
+      [
+        "cha",
+        0.0
+      ],
+      [
+        "ikov",
+        0.0
+      ],
+      [
+        "sky",
+        0.0
+      ]
+    ]
+  },
+  "This man's suite of music written to honor an Austrian composer was adapted into the ballet \nMozartiana by George Balanchine. This composer is said to have been annoyed when Alexander III called\n one of his ballets \"very nice.\" That ballet contains the \"Garland Waltz\" and the \"Procession of the Fairy\n Tales,\" and features leitmotifs representing Carabosse and the Lilac Fairy. In addition to The Sleeping\n": {
+    "guess": "The Sleeping Beauty",
+    "confidence": [
+      [
+        "The",
+        -0.0809457
+      ],
+      [
+        " Sleeping",
+        -0.007819314
+      ],
+      [
+        " Beauty",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "This man's suite of music written to honor an Austrian composer was adapted into the ballet \nMozartiana by George Balanchine. This composer is said to have been annoyed when Alexander III called\n one of his ballets \"very nice.\" That ballet contains the \"Garland Waltz\" and the \"Procession of the Fairy\n Tales,\" and features leitmotifs representing Carabosse and the Lilac Fairy. In addition to The Sleeping\n Beauty, he composed a ballet in which Odette is transformed into a bird by the curse of Rothbart,": {
+    "guess": "Swan Lake",
+    "confidence": [
+      [
+        "S",
+        -0.21256179
+      ],
+      [
+        "wan",
+        -2.3392786e-06
+      ],
+      [
+        " Lake",
+        -4.9067115e-05
+      ]
+    ]
+  },
+  "This man's suite of music written to honor an Austrian composer was adapted into the ballet \nMozartiana by George Balanchine. This composer is said to have been annoyed when Alexander III called\n one of his ballets \"very nice.\" That ballet contains the \"Garland Waltz\" and the \"Procession of the Fairy\n Tales,\" and features leitmotifs representing Carabosse and the Lilac Fairy. In addition to The Sleeping\n Beauty, he composed a ballet in which Odette is transformed into a bird by the curse of Rothbart, as well as\n one which includes the \"Dance of the Mirlitons\" and the \"Dance of the Sugar Plum Fairy.\"": {
+    "guess": "Pyotr Ilyich Tchaikovsky",
+    "confidence": [
+      [
+        "Py",
+        -0.016976038
+      ],
+      [
+        "otr",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ],
+      [
+        "ly",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ],
+      [
+        " T",
+        0.0
+      ],
+      [
+        "cha",
+        0.0
+      ],
+      [
+        "ikov",
+        0.0
+      ],
+      [
+        "sky",
+        0.0
+      ]
+    ]
+  },
+  "This man's suite of music written to honor an Austrian composer was adapted into the ballet \nMozartiana by George Balanchine. This composer is said to have been annoyed when Alexander III called\n one of his ballets \"very nice.\" That ballet contains the \"Garland Waltz\" and the \"Procession of the Fairy\n Tales,\" and features leitmotifs representing Carabosse and the Lilac Fairy. In addition to The Sleeping\n Beauty, he composed a ballet in which Odette is transformed into a bird by the curse of Rothbart, as well as\n one which includes the \"Dance of the Mirlitons\" and the \"Dance of the Sugar Plum Fairy.\" For 10 points,\n name this composer of the ballets Swan Lake and The Nutcracker.": {
+    "guess": "Pyotr Ilyich Tchaikovsky",
+    "confidence": [
+      [
+        "Py",
+        -0.0022970398
+      ],
+      [
+        "otr",
+        0.0
+      ],
+      [
+        " I",
+        0.0
+      ],
+      [
+        "ly",
+        0.0
+      ],
+      [
+        "ich",
+        0.0
+      ],
+      [
+        " T",
+        0.0
+      ],
+      [
+        "cha",
+        0.0
+      ],
+      [
+        "ikov",
+        0.0
+      ],
+      [
+        "sky",
+        0.0
+      ]
+    ]
+  },
+  "One suite, by this composer for viola, small chorus, and orchestra consists of six movements each labeled": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0780258
+      ]
+    ]
+  },
+  "One suite, by this composer for viola, small chorus, and orchestra consists of six movements each labeled with a verse from the Song of Solomon, and takes its title from the Latin for \"flower of the field.\"": {
+    "guess": "Flos Campi",
+    "confidence": [
+      [
+        "Fl",
+        -0.17981961
+      ],
+      [
+        "os",
+        0.0
+      ],
+      [
+        " Camp",
+        -0.062004093
+      ],
+      [
+        "i",
+        0.0
+      ]
+    ]
+  },
+  "One suite, by this composer for viola, small chorus, and orchestra consists of six movements each labeled with a verse from the Song of Solomon, and takes its title from the Latin for \"flower of the field.\" In addition to Flos Campi, this composer stayed in the port town of King's Lynn for nearly three": {
+    "guess": "Ralph Vaughan Williams",
+    "confidence": [
+      [
+        "R",
+        -0.02969796
+      ],
+      [
+        "alph",
+        -6.704273e-07
+      ],
+      [
+        " Vaughan",
+        -1.9361265e-07
+      ],
+      [
+        " Williams",
+        0.0
+      ]
+    ]
+  },
+  "One suite, by this composer for viola, small chorus, and orchestra consists of six movements each labeled with a verse from the Song of Solomon, and takes its title from the Latin for \"flower of the field.\" In addition to Flos Campi, this composer stayed in the port town of King's Lynn for nearly three months collecting folk songs he later used in his Norfolk Rhapsody. The last movement of his third": {
+    "guess": "Ralph Vaughan Williams",
+    "confidence": [
+      [
+        "R",
+        -0.05280051
+      ],
+      [
+        "alph",
+        -4.3202e-07
+      ],
+      [
+        " Vaughan",
+        0.0
+      ],
+      [
+        " Williams",
+        0.0
+      ]
+    ]
+  },
+  "One suite, by this composer for viola, small chorus, and orchestra consists of six movements each labeled with a verse from the Song of Solomon, and takes its title from the Latin for \"flower of the field.\" In addition to Flos Campi, this composer stayed in the port town of King's Lynn for nearly three months collecting folk songs he later used in his Norfolk Rhapsody. The last movement of his third symphony opens with a pentatonic recitative for wordless soprano voice with muted percussion, and": {
+    "guess": "Ralph Vaughan Williams",
+    "confidence": [
+      [
+        "R",
+        -0.19863893
+      ],
+      [
+        "alph",
+        -1.3856493e-06
+      ],
+      [
+        " Vaughan",
+        0.0
+      ],
+      [
+        " Williams",
+        0.0
+      ]
+    ]
+  },
+  "One suite, by this composer for viola, small chorus, and orchestra consists of six movements each labeled with a verse from the Song of Solomon, and takes its title from the Latin for \"flower of the field.\" In addition to Flos Campi, this composer stayed in the port town of King's Lynn for nearly three months collecting folk songs he later used in his Norfolk Rhapsody. The last movement of his third symphony opens with a pentatonic recitative for wordless soprano voice with muted percussion, and his second symphony opens with the harp sounding the chimes of Westminster. He wrote the score for the": {
+    "guess": "Ralph Vaughan Williams",
+    "confidence": [
+      [
+        "R",
+        -0.502019
+      ],
+      [
+        "alph",
+        -0.00043233807
+      ],
+      [
+        " Vaughan",
+        -1.9361265e-07
+      ],
+      [
+        " Williams",
+        0.0
+      ]
+    ]
+  },
+  "One suite, by this composer for viola, small chorus, and orchestra consists of six movements each labeled with a verse from the Song of Solomon, and takes its title from the Latin for \"flower of the field.\" In addition to Flos Campi, this composer stayed in the port town of King's Lynn for nearly three months collecting folk songs he later used in his Norfolk Rhapsody. The last movement of his third symphony opens with a pentatonic recitative for wordless soprano voice with muted percussion, and his second symphony opens with the harp sounding the chimes of Westminster. He wrote the score for the 1948 biopic, Scott in the Antarctic, much of which he reused in his seventh symphony, Sinfonia Antartica.": {
+    "guess": "Ralph Vaughan Williams",
+    "confidence": [
+      [
+        "R",
+        -0.0022752697
+      ],
+      [
+        "alph",
+        0.0
+      ],
+      [
+        " Vaughan",
+        0.0
+      ],
+      [
+        " Williams",
+        0.0
+      ]
+    ]
+  },
+  "One suite, by this composer for viola, small chorus, and orchestra consists of six movements each labeled with a verse from the Song of Solomon, and takes its title from the Latin for \"flower of the field.\" In addition to Flos Campi, this composer stayed in the port town of King's Lynn for nearly three months collecting folk songs he later used in his Norfolk Rhapsody. The last movement of his third symphony opens with a pentatonic recitative for wordless soprano voice with muted percussion, and his second symphony opens with the harp sounding the chimes of Westminster. He wrote the score for the 1948 biopic, Scott in the Antarctic, much of which he reused in his seventh symphony, Sinfonia Antartica. For 10 points, name this English composer of The Lark Ascending and a Fantasia on Greensleeves.": {
+    "guess": "Ralph Vaughan Williams",
+    "confidence": [
+      [
+        "R",
+        -0.016810426
+      ],
+      [
+        "alph",
+        0.0
+      ],
+      [
+        " Vaughan",
+        0.0
+      ],
+      [
+        " Williams",
+        0.0
+      ]
+    ]
+  },
+  "A suite by Chabrier with this word in its title opens with an Idylle and ends with a Scherzo-Valse. In": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.72389793
+      ]
+    ]
+  },
+  "A suite by Chabrier with this word in its title opens with an Idylle and ends with a Scherzo-Valse. In Baroque music, this term denotes a melody, often in thirds, played above a drone that imitates the": {
+    "guess": "Pastorale",
+    "confidence": [
+      [
+        "Past",
+        -0.47072086
+      ],
+      [
+        "orale",
+        -0.31327426
+      ]
+    ]
+  },
+  "A suite by Chabrier with this word in its title opens with an Idylle and ends with a Scherzo-Valse. In Baroque music, this term denotes a melody, often in thirds, played above a drone that imitates the zampogna, or Italian bagpipes. Examples of these pieces are the Sinfonia to Part II of the Christmas": {
+    "guess": "Pastorale",
+    "confidence": [
+      [
+        "Past",
+        -0.069649495
+      ],
+      [
+        "orale",
+        -0.07889056
+      ]
+    ]
+  },
+  "A suite by Chabrier with this word in its title opens with an Idylle and ends with a Scherzo-Valse. In Baroque music, this term denotes a melody, often in thirds, played above a drone that imitates the zampogna, or Italian bagpipes. Examples of these pieces are the Sinfonia to Part II of the Christmas Oratorio and the Pifa movement of Handel's Messiah. A cadenza in the second movement of the most famous": {
+    "guess": "Pastorale",
+    "confidence": [
+      [
+        "Past",
+        -0.041164737
+      ],
+      [
+        "orale",
+        -0.20141676
+      ]
+    ]
+  },
+  "A suite by Chabrier with this word in its title opens with an Idylle and ends with a Scherzo-Valse. In Baroque music, this term denotes a melody, often in thirds, played above a drone that imitates the zampogna, or Italian bagpipes. Examples of these pieces are the Sinfonia to Part II of the Christmas Oratorio and the Pifa movement of Handel's Messiah. A cadenza in the second movement of the most famous piece of this name imitates birdcalls: the nightingale represented by the flute, the quail by": {
+    "guess": "Pastoral",
+    "confidence": [
+      [
+        "Past",
+        -0.008486918
+      ],
+      [
+        "oral",
+        -0.47407776
+      ]
+    ]
+  },
+  "A suite by Chabrier with this word in its title opens with an Idylle and ends with a Scherzo-Valse. In Baroque music, this term denotes a melody, often in thirds, played above a drone that imitates the zampogna, or Italian bagpipes. Examples of these pieces are the Sinfonia to Part II of the Christmas Oratorio and the Pifa movement of Handel's Messiah. A cadenza in the second movement of the most famous piece of this name imitates birdcalls: the nightingale represented by the flute, the quail by the oboe, and the cuckoo by two clarinets, and contains movements titled \"Thunderstorm\" and \"Scene by": {
+    "guess": "Symphony No. 6 (Beethoven)",
+    "confidence": [
+      [
+        "Sym",
+        -0.16385025
+      ],
+      [
+        "phony",
+        -1.9361265e-07
+      ],
+      [
+        " No",
+        -1.9361265e-07
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " ",
+        -1.9361265e-07
+      ],
+      [
+        "6",
+        0.0
+      ],
+      [
+        " (",
+        -9.0883464e-07
+      ],
+      [
+        "Be",
+        0.0
+      ],
+      [
+        "ethoven",
+        0.0
+      ],
+      [
+        ")",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "A suite by Chabrier with this word in its title opens with an Idylle and ends with a Scherzo-Valse. In Baroque music, this term denotes a melody, often in thirds, played above a drone that imitates the zampogna, or Italian bagpipes. Examples of these pieces are the Sinfonia to Part II of the Christmas Oratorio and the Pifa movement of Handel's Messiah. A cadenza in the second movement of the most famous piece of this name imitates birdcalls: the nightingale represented by the flute, the quail by the oboe, and the cuckoo by two clarinets, and contains movements titled \"Thunderstorm\" and \"Scene by the Brook\" For 10 points, name this adjective appended to Beethoven's Sixth Symphony, which describes": {
+    "guess": "Pastoral",
+    "confidence": [
+      [
+        "Past",
+        -0.005412096
+      ],
+      [
+        "oral",
+        -0.00033546583
+      ]
+    ]
+  },
+  "A suite by Chabrier with this word in its title opens with an Idylle and ends with a Scherzo-Valse. In Baroque music, this term denotes a melody, often in thirds, played above a drone that imitates the zampogna, or Italian bagpipes. Examples of these pieces are the Sinfonia to Part II of the Christmas Oratorio and the Pifa movement of Handel's Messiah. A cadenza in the second movement of the most famous piece of this name imitates birdcalls: the nightingale represented by the flute, the quail by the oboe, and the cuckoo by two clarinets, and contains movements titled \"Thunderstorm\" and \"Scene by the Brook\" For 10 points, name this adjective appended to Beethoven's Sixth Symphony, which describes rural life.": {
+    "guess": "Pastoral Symphony",
+    "confidence": [
+      [
+        "Past",
+        -0.0029300377
+      ],
+      [
+        "oral",
+        -0.00020354039
+      ],
+      [
+        " Symphony",
+        -0.6966408
+      ]
+    ]
+  },
+  "This suite's somber second movement uses trombones to imitate a Gregorian chant, which according to the": {
+    "guess": "Symphonie Fantastique",
+    "confidence": [
+      [
+        "Sym",
+        -0.2741656
+      ],
+      [
+        "ph",
+        -0.38760802
+      ],
+      [
+        "onie",
+        -0.0003357006
+      ],
+      [
+        " Fant",
+        -0.56654096
+      ],
+      [
+        "ast",
+        -1.9361265e-07
+      ],
+      [
+        "ique",
+        0.0
+      ]
+    ]
+  },
+  "This suite's somber second movement uses trombones to imitate a Gregorian chant, which according to the composer's attached notes, rises \"from the depths\" and \"float[s] through the air like a solemn hymn.\"": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9011903
+      ]
+    ]
+  },
+  "This suite's somber second movement uses trombones to imitate a Gregorian chant, which according to the composer's attached notes, rises \"from the depths\" and \"float[s] through the air like a solemn hymn.\" A piano cadenza ushers in the third movement, which also features a clarinet solo and a recorded": {
+    "guess": "The Planets",
+    "confidence": [
+      [
+        "The",
+        -0.4031733
+      ],
+      [
+        " Plan",
+        -0.06537714
+      ],
+      [
+        "ets",
+        0.0
+      ]
+    ]
+  },
+  "This suite's somber second movement uses trombones to imitate a Gregorian chant, which according to the composer's attached notes, rises \"from the depths\" and \"float[s] through the air like a solemn hymn.\" A piano cadenza ushers in the third movement, which also features a clarinet solo and a recorded nightingale. The fourth movement ends the suite with a brass fanfare depicting an army marching to": {
+    "guess": "Ottorino Respighi",
+    "confidence": [
+      [
+        "Ott",
+        -0.75152546
+      ],
+      [
+        "or",
+        -0.0003191386
+      ],
+      [
+        "ino",
+        0.0
+      ],
+      [
+        " Resp",
+        -5.955704e-05
+      ],
+      [
+        "ighi",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "This suite's somber second movement uses trombones to imitate a Gregorian chant, which according to the composer's attached notes, rises \"from the depths\" and \"float[s] through the air like a solemn hymn.\" A piano cadenza ushers in the third movement, which also features a clarinet solo and a recorded nightingale. The fourth movement ends the suite with a brass fanfare depicting an army marching to the Capitol of the titular city. The Janiculum, the catacombs, the Appian Way, and the Villa Borghese": {
+    "guess": "Pines of Rome",
+    "confidence": [
+      [
+        "P",
+        -0.01759795
+      ],
+      [
+        "ines",
+        -0.00017994174
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Rome",
+        0.0
+      ]
+    ]
+  },
+  "This suite's somber second movement uses trombones to imitate a Gregorian chant, which according to the composer's attached notes, rises \"from the depths\" and \"float[s] through the air like a solemn hymn.\" A piano cadenza ushers in the third movement, which also features a clarinet solo and a recorded nightingale. The fourth movement ends the suite with a brass fanfare depicting an army marching to the Capitol of the titular city. The Janiculum, the catacombs, the Appian Way, and the Villa Borghese are the settings of, FTP, this Ottorino Respighi series about the trees of Italy's capital city.": {
+    "guess": "Pines of Rome",
+    "confidence": [
+      [
+        "P",
+        -0.0013378626
+      ],
+      [
+        "ines",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Rome",
+        0.0
+      ]
+    ]
+  },
+  "One suitor for this god's daughter Thrud was turned to stone by the sun after being forced to prove his": {
+    "guess": "Alv\u00edssm\u00e1l",
+    "confidence": [
+      [
+        "Al",
+        -0.4903022
+      ],
+      [
+        "v\u00ed",
+        -0.04057357
+      ],
+      [
+        "ss",
+        -7.89631e-07
+      ],
+      [
+        "m",
+        -0.002644145
+      ],
+      [
+        "\u00e1l",
+        0.0
+      ]
+    ]
+  },
+  "One suitor for this god's daughter Thrud was turned to stone by the sun after being forced to prove his wisdom, and this Aesir's chariot is pulled by a pair of goats. The golden hair of this god's wife,": {
+    "guess": "Thor",
+    "confidence": [
+      [
+        "Thor",
+        -0.14408511
+      ]
+    ]
+  },
+  "One suitor for this god's daughter Thrud was turned to stone by the sun after being forced to prove his wisdom, and this Aesir's chariot is pulled by a pair of goats. The golden hair of this god's wife, Sif, was cut off by Loki. Utgard-Loki challenged this god to pick up a cat that was actually his mortal": {
+    "guess": "Thor",
+    "confidence": [
+      [
+        "Thor",
+        -0.024646128
+      ]
+    ]
+  },
+  "One suitor for this god's daughter Thrud was turned to stone by the sun after being forced to prove his wisdom, and this Aesir's chariot is pulled by a pair of goats. The golden hair of this god's wife, Sif, was cut off by Loki. Utgard-Loki challenged this god to pick up a cat that was actually his mortal nemesis in disguise; at Ragnarok he will kill that enemy before dying of poison. This god was": {
+    "guess": "Thor",
+    "confidence": [
+      [
+        "Thor",
+        -0.02093118
+      ]
+    ]
+  },
+  "One suitor for this god's daughter Thrud was turned to stone by the sun after being forced to prove his wisdom, and this Aesir's chariot is pulled by a pair of goats. The golden hair of this god's wife, Sif, was cut off by Loki. Utgard-Loki challenged this god to pick up a cat that was actually his mortal nemesis in disguise; at Ragnarok he will kill that enemy before dying of poison. This god was also challenged to drink a horn of mead that was actually the ocean. FTP name this Norse god of thunder": {
+    "guess": "Thor",
+    "confidence": [
+      [
+        "Thor",
+        -0.0019602748
+      ]
+    ]
+  },
+  "One suitor for this god's daughter Thrud was turned to stone by the sun after being forced to prove his wisdom, and this Aesir's chariot is pulled by a pair of goats. The golden hair of this god's wife, Sif, was cut off by Loki. Utgard-Loki challenged this god to pick up a cat that was actually his mortal nemesis in disguise; at Ragnarok he will kill that enemy before dying of poison. This god was also challenged to drink a horn of mead that was actually the ocean. FTP name this Norse god of thunder who kills and is killed by the Midgard Serpent and whose iron gloves allow him to wield his hammer": {
+    "guess": "Thor",
+    "confidence": [
+      [
+        "Thor",
+        -0.10277353
+      ]
+    ]
+  },
+  "One suitor for this god's daughter Thrud was turned to stone by the sun after being forced to prove his wisdom, and this Aesir's chariot is pulled by a pair of goats. The golden hair of this god's wife, Sif, was cut off by Loki. Utgard-Loki challenged this god to pick up a cat that was actually his mortal nemesis in disguise; at Ragnarok he will kill that enemy before dying of poison. This god was also challenged to drink a horn of mead that was actually the ocean. FTP name this Norse god of thunder who kills and is killed by the Midgard Serpent and whose iron gloves allow him to wield his hammer Mjolnir.": {
+    "guess": "Thor",
+    "confidence": [
+      [
+        "Thor",
+        -0.019065682
+      ]
+    ]
+  },
+  "A suite of this composer's music entitled Gaite Parisienne remains popular to this day, while his only": {
+    "guess": "Jacques Offenbach",
+    "confidence": [
+      [
+        "Jac",
+        -0.009259668
+      ],
+      [
+        "ques",
+        0.0
+      ],
+      [
+        " Offen",
+        -3.1281633e-07
+      ],
+      [
+        "bach",
+        0.0
+      ]
+    ]
+  },
+  "A suite of this composer's music entitled Gaite Parisienne remains popular to this day, while his only grand opera was orchestrated and provided with recitatives after his death by Ernest Guiraud. Successes": {
+    "guess": "Jacques Offenbach",
+    "confidence": [
+      [
+        "Jac",
+        -0.017013779
+      ],
+      [
+        "ques",
+        -1.9361265e-07
+      ],
+      [
+        " Offen",
+        -1.9361265e-07
+      ],
+      [
+        "bach",
+        0.0
+      ]
+    ]
+  },
+  "A suite of this composer's music entitled Gaite Parisienne remains popular to this day, while his only grand opera was orchestrated and provided with recitatives after his death by Ernest Guiraud. Successes like La Perichole and The Grand Duchess of Gerolstein led Rossini to dub him \"our little Mozart": {
+    "guess": "Jacques Offenbach",
+    "confidence": [
+      [
+        "Jac",
+        -0.026102187
+      ],
+      [
+        "ques",
+        0.0
+      ],
+      [
+        " Offen",
+        -1.9361265e-07
+      ],
+      [
+        "bach",
+        0.0
+      ]
+    ]
+  },
+  "A suite of this composer's music entitled Gaite Parisienne remains popular to this day, while his only grand opera was orchestrated and provided with recitatives after his death by Ernest Guiraud. Successes like La Perichole and The Grand Duchess of Gerolstein led Rossini to dub him \"our little Mozart of the Champs-Elysees\". His opera-ballet Rhine Spirits came after a stint as director of his own theater,": {
+    "guess": "Jacques Offenbach",
+    "confidence": [
+      [
+        "Jac",
+        -0.047847625
+      ],
+      [
+        "ques",
+        0.0
+      ],
+      [
+        " Offen",
+        0.0
+      ],
+      [
+        "bach",
+        0.0
+      ]
+    ]
+  },
+  "A suite of this composer's music entitled Gaite Parisienne remains popular to this day, while his only grand opera was orchestrated and provided with recitatives after his death by Ernest Guiraud. Successes like La Perichole and The Grand Duchess of Gerolstein led Rossini to dub him \"our little Mozart of the Champs-Elysees\". His opera-ballet Rhine Spirits came after a stint as director of his own theater, the Bouffes-Parisiens, where he developed the light French comic opera for which he is primarily": {
+    "guess": "Jacques Offenbach",
+    "confidence": [
+      [
+        "Jac",
+        -0.25668824
+      ],
+      [
+        "ques",
+        0.0
+      ],
+      [
+        " Offen",
+        -1.9361265e-07
+      ],
+      [
+        "bach",
+        0.0
+      ]
+    ]
+  },
+  "A suite of this composer's music entitled Gaite Parisienne remains popular to this day, while his only grand opera was orchestrated and provided with recitatives after his death by Ernest Guiraud. Successes like La Perichole and The Grand Duchess of Gerolstein led Rossini to dub him \"our little Mozart of the Champs-Elysees\". His opera-ballet Rhine Spirits came after a stint as director of his own theater, the Bouffes-Parisiens, where he developed the light French comic opera for which he is primarily famous, despite the success of The Tales of Hoffmann. FTP, who was this composer of Orpheus in": {
+    "guess": "Jacques Offenbach",
+    "confidence": [
+      [
+        "Jac",
+        -0.0053102467
+      ],
+      [
+        "ques",
+        0.0
+      ],
+      [
+        " Offen",
+        -1.9361265e-07
+      ],
+      [
+        "bach",
+        0.0
+      ]
+    ]
+  },
+  "A suite of this composer's music entitled Gaite Parisienne remains popular to this day, while his only grand opera was orchestrated and provided with recitatives after his death by Ernest Guiraud. Successes like La Perichole and The Grand Duchess of Gerolstein led Rossini to dub him \"our little Mozart of the Champs-Elysees\". His opera-ballet Rhine Spirits came after a stint as director of his own theater, the Bouffes-Parisiens, where he developed the light French comic opera for which he is primarily famous, despite the success of The Tales of Hoffmann. FTP, who was this composer of Orpheus in the Underworld?": {
+    "guess": "Jacques Offenbach",
+    "confidence": [
+      [
+        "Jac",
+        -0.0078243995
+      ],
+      [
+        "ques",
+        0.0
+      ],
+      [
+        " Offen",
+        0.0
+      ],
+      [
+        "bach",
+        0.0
+      ]
+    ]
+  }
+}

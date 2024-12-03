@@ -1,0 +1,68 @@
+{
+  "The XML-defined SVG file format notably does not encode one of these objects, and tweening and similar": {
+    "guess": "Vector graphics",
+    "confidence": [
+      [
+        "Vector",
+        -0.028524447
+      ],
+      [
+        " graphics",
+        -0.00092170405
+      ]
+    ]
+  },
+  "The XML-defined SVG file format notably does not encode one of these objects, and tweening and similar operations are easy in Flash because Flash does not use them. The Windows GDI provides a function": {
+    "guess": "Vector graphics",
+    "confidence": [
+      [
+        "Vector",
+        -0.051512603
+      ],
+      [
+        " graphics",
+        -0.25250897
+      ]
+    ]
+  },
+  "The XML-defined SVG file format notably does not encode one of these objects, and tweening and similar operations are easy in Flash because Flash does not use them. The Windows GDI provides a function that reflects the old slang for \"blitting\" these objects, and the Lempel-Ziv-Welch algorithm provides": {
+    "guess": "Bitmap",
+    "confidence": [
+      [
+        "Bitmap",
+        -0.19528455
+      ]
+    ]
+  },
+  "The XML-defined SVG file format notably does not encode one of these objects, and tweening and similar operations are easy in Flash because Flash does not use them. The Windows GDI provides a function that reflects the old slang for \"blitting\" these objects, and the Lempel-Ziv-Welch algorithm provides lossless compression for these objects and is used in the gif file format. For 10 points, identify": {
+    "guess": "Bitmap",
+    "confidence": [
+      [
+        "Bitmap",
+        -0.11707128
+      ]
+    ]
+  },
+  "The XML-defined SVG file format notably does not encode one of these objects, and tweening and similar operations are easy in Flash because Flash does not use them. The Windows GDI provides a function that reflects the old slang for \"blitting\" these objects, and the Lempel-Ziv-Welch algorithm provides lossless compression for these objects and is used in the gif file format. For 10 points, identify this common way to store an image, which, when uncompressed, associates a color value with each pixel": {
+    "guess": "Bitmap image",
+    "confidence": [
+      [
+        "Bitmap",
+        -0.38805678
+      ],
+      [
+        " image",
+        -0.85423017
+      ]
+    ]
+  },
+  "The XML-defined SVG file format notably does not encode one of these objects, and tweening and similar operations are easy in Flash because Flash does not use them. The Windows GDI provides a function that reflects the old slang for \"blitting\" these objects, and the Lempel-Ziv-Welch algorithm provides lossless compression for these objects and is used in the gif file format. For 10 points, identify this common way to store an image, which, when uncompressed, associates a color value with each pixel and is sometimes abbreviated bmp.": {
+    "guess": "Bitmap",
+    "confidence": [
+      [
+        "Bitmap",
+        -0.25398907
+      ]
+    ]
+  }
+}

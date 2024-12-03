@@ -1,0 +1,1598 @@
+{
+  "A mistress stolen by a friend is the subject of poems 40-42, while poems 78-86 discuss a rival poet.": {
+    "guess": "Carmina (Catullus)",
+    "confidence": [
+      [
+        "Car",
+        -1.3547132
+      ],
+      [
+        "mina",
+        -7.9418505e-06
+      ],
+      [
+        " (",
+        -0.41681278
+      ],
+      [
+        "Cat",
+        -0.05675385
+      ],
+      [
+        "ull",
+        -6.0345924e-06
+      ],
+      [
+        "us",
+        0.0
+      ],
+      [
+        ")",
+        -0.00010008628
+      ]
+    ]
+  },
+  "A mistress stolen by a friend is the subject of poems 40-42, while poems 78-86 discuss a rival poet. The first 17 concern the writer's affection for a young man of rank, urging him to marry to reproduce": {
+    "guess": "Shakespeare's Sonnets",
+    "confidence": [
+      [
+        "Sh",
+        -0.10775387
+      ],
+      [
+        "akespeare",
+        -0.0009120595
+      ],
+      [
+        "'s",
+        -4.7517467e-05
+      ],
+      [
+        " Sonn",
+        -0.0046313843
+      ],
+      [
+        "ets",
+        0.0
+      ]
+    ]
+  },
+  "A mistress stolen by a friend is the subject of poems 40-42, while poems 78-86 discuss a rival poet. The first 17 concern the writer's affection for a young man of rank, urging him to marry to reproduce his beauty. Poems 18-126 form a sequence of 108 poems whose main theme continues to be the young man,": {
+    "guess": "Shakespeare's sonnets",
+    "confidence": [
+      [
+        "Sh",
+        -0.041783236
+      ],
+      [
+        "akespeare",
+        -0.00026157423
+      ],
+      [
+        "'s",
+        -2.129266e-05
+      ],
+      [
+        " son",
+        -0.63479865
+      ],
+      [
+        "nets",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "A mistress stolen by a friend is the subject of poems 40-42, while poems 78-86 discuss a rival poet. The first 17 concern the writer's affection for a young man of rank, urging him to marry to reproduce his beauty. Poems 18-126 form a sequence of 108 poems whose main theme continues to be the young man, but beginning with poem 127 the subject changes to the \"dark lady\". Including such opening lines": {
+    "guess": "Shakespeare's Sonnets",
+    "confidence": [
+      [
+        "Sh",
+        -0.007711443
+      ],
+      [
+        "akespeare",
+        -0.00015860428
+      ],
+      [
+        "'s",
+        -2.3319124e-05
+      ],
+      [
+        " Sonn",
+        -0.4749118
+      ],
+      [
+        "ets",
+        0.0
+      ]
+    ]
+  },
+  "A mistress stolen by a friend is the subject of poems 40-42, while poems 78-86 discuss a rival poet. The first 17 concern the writer's affection for a young man of rank, urging him to marry to reproduce his beauty. Poems 18-126 form a sequence of 108 poems whose main theme continues to be the young man, but beginning with poem 127 the subject changes to the \"dark lady\". Including such opening lines as \"My mistress' eyes are nothing like the sun\" and \"Shall I compare thee to a summer's day\", FTP,": {
+    "guess": "Shakespeare's Sonnets",
+    "confidence": [
+      [
+        "Sh",
+        -0.016954826
+      ],
+      [
+        "akespeare",
+        -4.5491004e-05
+      ],
+      [
+        "'s",
+        -6.392203e-06
+      ],
+      [
+        " Sonn",
+        -0.57621604
+      ],
+      [
+        "ets",
+        0.0
+      ]
+    ]
+  },
+  "A mistress stolen by a friend is the subject of poems 40-42, while poems 78-86 discuss a rival poet. The first 17 concern the writer's affection for a young man of rank, urging him to marry to reproduce his beauty. Poems 18-126 form a sequence of 108 poems whose main theme continues to be the young man, but beginning with poem 127 the subject changes to the \"dark lady\". Including such opening lines as \"My mistress' eyes are nothing like the sun\" and \"Shall I compare thee to a summer's day\", FTP, what is this collection of 154 poems by William Shakespeare?": {
+    "guess": "Shakespeare's Sonnets",
+    "confidence": [
+      [
+        "Sh",
+        -0.003832141
+      ],
+      [
+        "akespeare",
+        -5.8484206e-05
+      ],
+      [
+        "'s",
+        -6.9882217e-06
+      ],
+      [
+        " Sonn",
+        -0.055111438
+      ],
+      [
+        "ets",
+        0.0
+      ]
+    ]
+  },
+  "A missionary in the service of Pope Clement I, he met his end with the priest Rusticus and the deacon": {
+    "guess": "Denis",
+    "confidence": [
+      [
+        "Den",
+        -0.082093604
+      ],
+      [
+        "is",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A missionary in the service of Pope Clement I, he met his end with the priest Rusticus and the deacon Eleutherius. After his death in 258, he is reported to have carried his own severed head to his grave.": {
+    "guess": "Denis",
+    "confidence": [
+      [
+        "Den",
+        -0.58019555
+      ],
+      [
+        "is",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A missionary in the service of Pope Clement I, he met his end with the priest Rusticus and the deacon Eleutherius. After his death in 258, he is reported to have carried his own severed head to his grave. The place of his execution in Paris is now known as Montmartre, or \"Martyr's Hill.\" FTP, name the": {
+    "guess": "Saint Denis",
+    "confidence": [
+      [
+        "Saint",
+        -0.11450111
+      ],
+      [
+        " Denis",
+        -5.7961847e-06
+      ]
+    ]
+  },
+  "A missionary in the service of Pope Clement I, he met his end with the priest Rusticus and the deacon Eleutherius. After his death in 258, he is reported to have carried his own severed head to his grave. The place of his execution in Paris is now known as Montmartre, or \"Martyr's Hill.\" FTP, name the patron saint of France.": {
+    "guess": "Denis",
+    "confidence": [
+      [
+        "Den",
+        -0.030319396
+      ],
+      [
+        "is",
+        0.0
+      ]
+    ]
+  },
+  "His misfortunes include the destruction of his house at Back Bay and the disintegration of his daughter": {
+    "guess": "Job",
+    "confidence": [
+      [
+        "Job",
+        -0.45273557
+      ]
+    ]
+  },
+  "His misfortunes include the destruction of his house at Back Bay and the disintegration of his daughter Irene's plans for marriage.  However, unlike his business partner, he maintains his moral integrity,": {
+    "guess": "The Magnificent Ambersons",
+    "confidence": [
+      [
+        "The",
+        -0.4618477
+      ],
+      [
+        " Magn",
+        -0.32253155
+      ],
+      [
+        "ificent",
+        -0.0005149059
+      ],
+      [
+        " Amb",
+        -3.1281633e-07
+      ],
+      [
+        "erson",
+        0.0
+      ],
+      [
+        "s",
+        0.0
+      ]
+    ]
+  },
+  "His misfortunes include the destruction of his house at Back Bay and the disintegration of his daughter Irene's plans for marriage.  However, unlike his business partner, he maintains his moral integrity, and his family's attitude towards wealth contrasts with that of the Coreys, one of whom marries": {
+    "guess": "The Rise of Silas Lapham",
+    "confidence": [
+      [
+        "The",
+        -0.18003152
+      ],
+      [
+        " Rise",
+        -0.0018957948
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " Sil",
+        0.0
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        " L",
+        0.0
+      ],
+      [
+        "aph",
+        -1.147242e-06
+      ],
+      [
+        "am",
+        0.0
+      ]
+    ]
+  },
+  "His misfortunes include the destruction of his house at Back Bay and the disintegration of his daughter Irene's plans for marriage.  However, unlike his business partner, he maintains his moral integrity, and his family's attitude towards wealth contrasts with that of the Coreys, one of whom marries his daughter Penelope.  FTP, name this character whose \"rise\" is chronicled in the best-known novel": {
+    "guess": "Silas Lapham",
+    "confidence": [
+      [
+        "Sil",
+        -0.005373561
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        " L",
+        0.0
+      ],
+      [
+        "aph",
+        -4.3202e-07
+      ],
+      [
+        "am",
+        0.0
+      ]
+    ]
+  },
+  "His misfortunes include the destruction of his house at Back Bay and the disintegration of his daughter Irene's plans for marriage.  However, unlike his business partner, he maintains his moral integrity, and his family's attitude towards wealth contrasts with that of the Coreys, one of whom marries his daughter Penelope.  FTP, name this character whose \"rise\" is chronicled in the best-known novel of William Dean Howells.": {
+    "guess": "Silas Lapham",
+    "confidence": [
+      [
+        "Sil",
+        -0.024941744
+      ],
+      [
+        "as",
+        0.0
+      ],
+      [
+        " L",
+        0.0
+      ],
+      [
+        "aph",
+        0.0
+      ],
+      [
+        "am",
+        0.0
+      ]
+    ]
+  },
+  "During one mission of this name, cube-shaped CM canisters were adapted to fit round LM sockets using": {
+    "guess": "Apollo 13",
+    "confidence": [
+      [
+        "Apollo",
+        -0.00040874677
+      ],
+      [
+        " ",
+        -9.729906e-06
+      ],
+      [
+        "13",
+        0.0
+      ]
+    ]
+  },
+  "During one mission of this name, cube-shaped CM canisters were adapted to fit round LM sockets using a device called the \"mailbox.\" One mission of this name killed Edward White, Gus Grissom, and Roger": {
+    "guess": "Apollo 13",
+    "confidence": [
+      [
+        "Apollo",
+        -0.005242295
+      ],
+      [
+        " ",
+        -0.00071171665
+      ],
+      [
+        "13",
+        -5.276243e-05
+      ]
+    ]
+  },
+  "During one mission of this name, cube-shaped CM canisters were adapted to fit round LM sockets using a device called the \"mailbox.\" One mission of this name killed Edward White, Gus Grissom, and Roger Chaffee when it caught on fire. Jack Swigert, Fred Haise, and James Lovell were on another mission of": {
+    "guess": "Apollo program",
+    "confidence": [
+      [
+        "Apollo",
+        -0.0046417112
+      ],
+      [
+        " program",
+        -0.2014149
+      ]
+    ]
+  },
+  "During one mission of this name, cube-shaped CM canisters were adapted to fit round LM sockets using a device called the \"mailbox.\" One mission of this name killed Edward White, Gus Grissom, and Roger Chaffee when it caught on fire. Jack Swigert, Fred Haise, and James Lovell were on another mission of this name when Oxygen Tank Number Two exploded, necessitating a trip around the dark side of the moon.": {
+    "guess": "Apollo 13",
+    "confidence": [
+      [
+        "Apollo",
+        -0.004093716
+      ],
+      [
+        " ",
+        -0.16022716
+      ],
+      [
+        "13",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "During one mission of this name, cube-shaped CM canisters were adapted to fit round LM sockets using a device called the \"mailbox.\" One mission of this name killed Edward White, Gus Grissom, and Roger Chaffee when it caught on fire. Jack Swigert, Fred Haise, and James Lovell were on another mission of this name when Oxygen Tank Number Two exploded, necessitating a trip around the dark side of the moon. For 10 points, name this series of missions, the eleventh of which landed Neil Armstrong on the": {
+    "guess": "Apollo program",
+    "confidence": [
+      [
+        "Apollo",
+        -0.0007129087
+      ],
+      [
+        " program",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "During one mission of this name, cube-shaped CM canisters were adapted to fit round LM sockets using a device called the \"mailbox.\" One mission of this name killed Edward White, Gus Grissom, and Roger Chaffee when it caught on fire. Jack Swigert, Fred Haise, and James Lovell were on another mission of this name when Oxygen Tank Number Two exploded, necessitating a trip around the dark side of the moon. For 10 points, name this series of missions, the eleventh of which landed Neil Armstrong on the moon.": {
+    "guess": "Apollo program",
+    "confidence": [
+      [
+        "Apollo",
+        -1.3856493e-06
+      ],
+      [
+        " program",
+        -1.0280384e-06
+      ]
+    ]
+  },
+  "The missing arm of a work by this sculptor may have clutched a bunch of grapes. Two works attributed": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.18878071
+      ]
+    ]
+  },
+  "The missing arm of a work by this sculptor may have clutched a bunch of grapes. Two works attributed to this artist are the disembodied Leconfield Head and Aberdeen Head. He depicted a goddess draping": {
+    "guess": "Praxiteles",
+    "confidence": [
+      [
+        "Pra",
+        -0.0021117167
+      ],
+      [
+        "xit",
+        0.0
+      ],
+      [
+        "eles",
+        0.0
+      ]
+    ]
+  },
+  "The missing arm of a work by this sculptor may have clutched a bunch of grapes. Two works attributed to this artist are the disembodied Leconfield Head and Aberdeen Head. He depicted a goddess draping a robe over an urn with her left hand while covering her genitals with her right. Another work by this": {
+    "guess": "Praxiteles",
+    "confidence": [
+      [
+        "Pra",
+        -0.008048993
+      ],
+      [
+        "xit",
+        0.0
+      ],
+      [
+        "eles",
+        0.0
+      ]
+    ]
+  },
+  "The missing arm of a work by this sculptor may have clutched a bunch of grapes. Two works attributed to this artist are the disembodied Leconfield Head and Aberdeen Head. He depicted a goddess draping a robe over an urn with her left hand while covering her genitals with her right. Another work by this sculptor depicts an animal on a tree-trunk, about to be smote by a god's outstretched right hand.": {
+    "guess": "Praxiteles",
+    "confidence": [
+      [
+        "Pra",
+        -0.00043960952
+      ],
+      [
+        "xit",
+        0.0
+      ],
+      [
+        "eles",
+        0.0
+      ]
+    ]
+  },
+  "The missing arm of a work by this sculptor may have clutched a bunch of grapes. Two works attributed to this artist are the disembodied Leconfield Head and Aberdeen Head. He depicted a goddess draping a robe over an urn with her left hand while covering her genitals with her right. Another work by this sculptor depicts an animal on a tree-trunk, about to be smote by a god's outstretched right hand. This sculptor of the bathing Aphrodite of Cnidos (NYE-dus) and lizard-killing Apollo Sauroktonos created": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.4386054
+      ]
+    ]
+  },
+  "The missing arm of a work by this sculptor may have clutched a bunch of grapes. Two works attributed to this artist are the disembodied Leconfield Head and Aberdeen Head. He depicted a goddess draping a robe over an urn with her left hand while covering her genitals with her right. Another work by this sculptor depicts an animal on a tree-trunk, about to be smote by a god's outstretched right hand. This sculptor of the bathing Aphrodite of Cnidos (NYE-dus) and lizard-killing Apollo Sauroktonos created a sculpture of the messenger of the gods holding a young god. For 10 points, name this Greek sculptor": {
+    "guess": "Praxiteles",
+    "confidence": [
+      [
+        "Pra",
+        -0.027822813
+      ],
+      [
+        "xit",
+        0.0
+      ],
+      [
+        "eles",
+        0.0
+      ]
+    ]
+  },
+  "The missing arm of a work by this sculptor may have clutched a bunch of grapes. Two works attributed to this artist are the disembodied Leconfield Head and Aberdeen Head. He depicted a goddess draping a robe over an urn with her left hand while covering her genitals with her right. Another work by this sculptor depicts an animal on a tree-trunk, about to be smote by a god's outstretched right hand. This sculptor of the bathing Aphrodite of Cnidos (NYE-dus) and lizard-killing Apollo Sauroktonos created a sculpture of the messenger of the gods holding a young god. For 10 points, name this Greek sculptor of Hermes Bearing the Infant Dionysus.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.10174879
+      ]
+    ]
+  },
+  "One mission in this program docked with the spacecraft used by Soyuz (soy-\"OOZE\") 19. The numerically": {
+    "guess": "Apollo-Soyuz Test Project",
+    "confidence": [
+      [
+        "Apollo",
+        -2.546479e-05
+      ],
+      [
+        "-S",
+        -0.100695714
+      ],
+      [
+        "oy",
+        0.0
+      ],
+      [
+        "uz",
+        -1.9361265e-07
+      ],
+      [
+        " Test",
+        -0.00038598618
+      ],
+      [
+        " Project",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "One mission in this program docked with the spacecraft used by Soyuz (soy-\"OOZE\") 19. The numerically first mission in this program was retroactively named after a fire burst out during a test run. Harrison": {
+    "guess": "Apollo program",
+    "confidence": [
+      [
+        "Apollo",
+        -0.016320802
+      ],
+      [
+        " program",
+        -0.02567598
+      ]
+    ]
+  },
+  "One mission in this program docked with the spacecraft used by Soyuz (soy-\"OOZE\") 19. The numerically first mission in this program was retroactively named after a fire burst out during a test run. Harrison Schmitt, a geologist, was part of its last mission, number 17. One mission in this program spawned": {
+    "guess": "Apollo program",
+    "confidence": [
+      [
+        "Apollo",
+        -0.0036792904
+      ],
+      [
+        " program",
+        -2.129266e-05
+      ]
+    ]
+  },
+  "One mission in this program docked with the spacecraft used by Soyuz (soy-\"OOZE\") 19. The numerically first mission in this program was retroactively named after a fire burst out during a test run. Harrison Schmitt, a geologist, was part of its last mission, number 17. One mission in this program spawned the line, \"Houston, we've had a problem.\" For 10 points, name this NASA program whose mission 11": {
+    "guess": "Apollo program",
+    "confidence": [
+      [
+        "Apollo",
+        -0.0007125511
+      ],
+      [
+        " program",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "One mission in this program docked with the spacecraft used by Soyuz (soy-\"OOZE\") 19. The numerically first mission in this program was retroactively named after a fire burst out during a test run. Harrison Schmitt, a geologist, was part of its last mission, number 17. One mission in this program spawned the line, \"Houston, we've had a problem.\" For 10 points, name this NASA program whose mission 11 saw man first walk on the moon.": {
+    "guess": "Apollo program",
+    "confidence": [
+      [
+        "Apollo",
+        -0.008619419
+      ],
+      [
+        " program",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Missouri Governor Claiborne Jackson led a convention that sought to perform this action,   which was": {
+    "guess": "Secession",
+    "confidence": [
+      [
+        "Sec",
+        -0.042412307
+      ],
+      [
+        "ession",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Missouri Governor Claiborne Jackson led a convention that sought to perform this action,   which was ruled illegal in Texas v. White. The Wheeling Convention revoked one of these  actions, leading 50 counties": {
+    "guess": "Secession",
+    "confidence": [
+      [
+        "Sec",
+        -0.009306328
+      ],
+      [
+        "ession",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Missouri Governor Claiborne Jackson led a convention that sought to perform this action,   which was ruled illegal in Texas v. White. The Wheeling Convention revoked one of these  actions, leading 50 counties to form the state of (*) West Virginia. Missouri and Kentucky did not  complete this action,": {
+    "guess": "Secession",
+    "confidence": [
+      [
+        "Sec",
+        -0.0047393646
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "Missouri Governor Claiborne Jackson led a convention that sought to perform this action,   which was ruled illegal in Texas v. White. The Wheeling Convention revoked one of these  actions, leading 50 counties to form the state of (*) West Virginia. Missouri and Kentucky did not  complete this action, but South Carolina and 10 other Southern states did. For 10 points, name this  action that preceded": {
+    "guess": "Secession",
+    "confidence": [
+      [
+        "Sec",
+        -0.0031301863
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "Missouri Governor Claiborne Jackson led a convention that sought to perform this action,   which was ruled illegal in Texas v. White. The Wheeling Convention revoked one of these  actions, leading 50 counties to form the state of (*) West Virginia. Missouri and Kentucky did not  complete this action, but South Carolina and 10 other Southern states did. For 10 points, name this  action that preceded the formation of the Confederate States of America.": {
+    "guess": "Secession",
+    "confidence": [
+      [
+        "Sec",
+        -0.00095958146
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "Missionaries in the area around this city were challenged by an Indian medicine woman named Toypurina,": {
+    "guess": "Los Angeles",
+    "confidence": [
+      [
+        "Los",
+        -0.025012558
+      ],
+      [
+        " Angeles",
+        0.0
+      ]
+    ]
+  },
+  "Missionaries in the area around this city were challenged by an Indian medicine woman named Toypurina, who led a revolt here. One of the most influential early megachurches, the Church on the Way, was": {
+    "guess": "Los Angeles",
+    "confidence": [
+      [
+        "Los",
+        -0.7005067
+      ],
+      [
+        " Angeles",
+        0.0
+      ]
+    ]
+  },
+  "Missionaries in the area around this city were challenged by an Indian medicine woman named Toypurina, who led a revolt here. One of the most influential early megachurches, the Church on the Way, was founded by Jack Hayford in a suburb of this city. Rafael Moneo designed this city's current cathedral": {
+    "guess": "Los Angeles",
+    "confidence": [
+      [
+        "Los",
+        -4.0961266e-05
+      ],
+      [
+        " Angeles",
+        0.0
+      ]
+    ]
+  },
+  "Missionaries in the area around this city were challenged by an Indian medicine woman named Toypurina, who led a revolt here. One of the most influential early megachurches, the Church on the Way, was founded by Jack Hayford in a suburb of this city. Rafael Moneo designed this city's current cathedral to replace the Cathedral of Saint Vibiana after the latter was damaged in a 1994 earthquake. Billy": {
+    "guess": "Los Angeles",
+    "confidence": [
+      [
+        "Los",
+        -0.00054206967
+      ],
+      [
+        " Angeles",
+        0.0
+      ]
+    ]
+  },
+  "Missionaries in the area around this city were challenged by an Indian medicine woman named Toypurina, who led a revolt here. One of the most influential early megachurches, the Church on the Way, was founded by Jack Hayford in a suburb of this city. Rafael Moneo designed this city's current cathedral to replace the Cathedral of Saint Vibiana after the latter was damaged in a 1994 earthquake. Billy Graham was running a revival out of circus tents in this city when William Randolph Hearst issued his": {
+    "guess": "Los Angeles",
+    "confidence": [
+      [
+        "Los",
+        -7.147741e-05
+      ],
+      [
+        " Angeles",
+        0.0
+      ]
+    ]
+  },
+  "Missionaries in the area around this city were challenged by an Indian medicine woman named Toypurina, who led a revolt here. One of the most influential early megachurches, the Church on the Way, was founded by Jack Hayford in a suburb of this city. Rafael Moneo designed this city's current cathedral to replace the Cathedral of Saint Vibiana after the latter was damaged in a 1994 earthquake. Billy Graham was running a revival out of circus tents in this city when William Randolph Hearst issued his famous order to \"puff Graham.\" The African-American preacher William Seymour encouraged people to": {
+    "guess": "Los Angeles",
+    "confidence": [
+      [
+        "Los",
+        -0.00079283566
+      ],
+      [
+        " Angeles",
+        0.0
+      ]
+    ]
+  },
+  "Missionaries in the area around this city were challenged by an Indian medicine woman named Toypurina, who led a revolt here. One of the most influential early megachurches, the Church on the Way, was founded by Jack Hayford in a suburb of this city. Rafael Moneo designed this city's current cathedral to replace the Cathedral of Saint Vibiana after the latter was damaged in a 1994 earthquake. Billy Graham was running a revival out of circus tents in this city when William Randolph Hearst issued his famous order to \"puff Graham.\" The African-American preacher William Seymour encouraged people to speak in tongues during a 1906 revival he led in this city on Azusa Street. This was also the city": {
+    "guess": "Los Angeles",
+    "confidence": [
+      [
+        "Los",
+        -4.048445e-05
+      ],
+      [
+        " Angeles",
+        0.0
+      ]
+    ]
+  },
+  "Missionaries in the area around this city were challenged by an Indian medicine woman named Toypurina, who led a revolt here. One of the most influential early megachurches, the Church on the Way, was founded by Jack Hayford in a suburb of this city. Rafael Moneo designed this city's current cathedral to replace the Cathedral of Saint Vibiana after the latter was damaged in a 1994 earthquake. Billy Graham was running a revival out of circus tents in this city when William Randolph Hearst issued his famous order to \"puff Graham.\" The African-American preacher William Seymour encouraged people to speak in tongues during a 1906 revival he led in this city on Azusa Street. This was also the city where Aimee Semple Macpherson built the Church of the Foursquare Gospel before her disappearance. For": {
+    "guess": "Los Angeles",
+    "confidence": [
+      [
+        "Los",
+        -6.253713e-05
+      ],
+      [
+        " Angeles",
+        0.0
+      ]
+    ]
+  },
+  "Missionaries in the area around this city were challenged by an Indian medicine woman named Toypurina, who led a revolt here. One of the most influential early megachurches, the Church on the Way, was founded by Jack Hayford in a suburb of this city. Rafael Moneo designed this city's current cathedral to replace the Cathedral of Saint Vibiana after the latter was damaged in a 1994 earthquake. Billy Graham was running a revival out of circus tents in this city when William Randolph Hearst issued his famous order to \"puff Graham.\" The African-American preacher William Seymour encouraged people to speak in tongues during a 1906 revival he led in this city on Azusa Street. This was also the city where Aimee Semple Macpherson built the Church of the Foursquare Gospel before her disappearance. For 10 points, name this city whose poorer districts include Watts and Compton.": {
+    "guess": "Los Angeles",
+    "confidence": [
+      [
+        "Los",
+        -5.967624e-05
+      ],
+      [
+        " Angeles",
+        0.0
+      ]
+    ]
+  },
+  "Misiurewicz points are found on the boundaries of one of these shapes, which is seen after marking all": {
+    "guess": "Mandelbrot set",
+    "confidence": [
+      [
+        "M",
+        -0.07953428
+      ],
+      [
+        "andel",
+        -6.921253e-05
+      ],
+      [
+        "brot",
+        0.0
+      ],
+      [
+        " set",
+        0.0
+      ]
+    ]
+  },
+  "Misiurewicz points are found on the boundaries of one of these shapes, which is seen after marking all numbers c on the complex plane for which, starting with 0, infinite application of z-squared plus": {
+    "guess": "Mandelbrot set",
+    "confidence": [
+      [
+        "M",
+        -0.023358451
+      ],
+      [
+        "andel",
+        -9.0883464e-07
+      ],
+      [
+        "brot",
+        0.0
+      ],
+      [
+        " set",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Misiurewicz points are found on the boundaries of one of these shapes, which is seen after marking all numbers c on the complex plane for which, starting with 0, infinite application of z-squared plus c doesn't diverge. Removing 7/27 (\"seven twenty-sevenths\") of a cube is the first step of constructing": {
+    "guess": "Menger sponge",
+    "confidence": [
+      [
+        "M",
+        -0.10067502
+      ],
+      [
+        "enger",
+        -4.9617593e-06
+      ],
+      [
+        " sponge",
+        -0.0086154
+      ]
+    ]
+  },
+  "Misiurewicz points are found on the boundaries of one of these shapes, which is seen after marking all numbers c on the complex plane for which, starting with 0, infinite application of z-squared plus c doesn't diverge. Removing 7/27 (\"seven twenty-sevenths\") of a cube is the first step of constructing one of these shapes named after Menger. Objects of this type can have non-integer (*) Hausdorff dimension,": {
+    "guess": "Fractal",
+    "confidence": [
+      [
+        "Fr",
+        -0.033404306
+      ],
+      [
+        "actal",
+        -9.615256e-05
+      ]
+    ]
+  },
+  "Misiurewicz points are found on the boundaries of one of these shapes, which is seen after marking all numbers c on the complex plane for which, starting with 0, infinite application of z-squared plus c doesn't diverge. Removing 7/27 (\"seven twenty-sevenths\") of a cube is the first step of constructing one of these shapes named after Menger. Objects of this type can have non-integer (*) Hausdorff dimension, and one can be found by coloring odd numbers on Pascal's triangle; that one is named for Sierpinski.": {
+    "guess": "Fractal",
+    "confidence": [
+      [
+        "Fr",
+        -0.008644002
+      ],
+      [
+        "actal",
+        -0.00033546583
+      ]
+    ]
+  },
+  "Misiurewicz points are found on the boundaries of one of these shapes, which is seen after marking all numbers c on the complex plane for which, starting with 0, infinite application of z-squared plus c doesn't diverge. Removing 7/27 (\"seven twenty-sevenths\") of a cube is the first step of constructing one of these shapes named after Menger. Objects of this type can have non-integer (*) Hausdorff dimension, and one can be found by coloring odd numbers on Pascal's triangle; that one is named for Sierpinski. For ten points, identify these generally self-similar, space-filling figures like the Koch": {
+    "guess": "Fractal",
+    "confidence": [
+      [
+        "Fr",
+        -0.0046306727
+      ],
+      [
+        "actal",
+        -0.0040784013
+      ]
+    ]
+  },
+  "Misiurewicz points are found on the boundaries of one of these shapes, which is seen after marking all numbers c on the complex plane for which, starting with 0, infinite application of z-squared plus c doesn't diverge. Removing 7/27 (\"seven twenty-sevenths\") of a cube is the first step of constructing one of these shapes named after Menger. Objects of this type can have non-integer (*) Hausdorff dimension, and one can be found by coloring odd numbers on Pascal's triangle; that one is named for Sierpinski. For ten points, identify these generally self-similar, space-filling figures like the Koch Snowflake and Mandelbrot Set.": {
+    "guess": "Fractal",
+    "confidence": [
+      [
+        "Fr",
+        -0.0015037905
+      ],
+      [
+        "actal",
+        -0.0019286326
+      ]
+    ]
+  },
+  "She was miscast as Cydaria, the daughter of Montezuma, so John Dryden tried her next in a comic role.": {
+    "guess": "Nell Gwyn",
+    "confidence": [
+      [
+        "N",
+        -0.37936956
+      ],
+      [
+        "ell",
+        -3.1281633e-07
+      ],
+      [
+        " Gwyn",
+        -0.0125351995
+      ]
+    ]
+  },
+  "She was miscast as Cydaria, the daughter of Montezuma, so John Dryden tried her next in a comic role. Her appearance as Florimel in Secret Love earned the admiration of the Earl of Dorset, who invited": {
+    "guess": "Nell Gwyn",
+    "confidence": [
+      [
+        "N",
+        -0.5067707
+      ],
+      [
+        "ell",
+        -3.1281633e-07
+      ],
+      [
+        " Gwyn",
+        -0.070187956
+      ]
+    ]
+  },
+  "She was miscast as Cydaria, the daughter of Montezuma, so John Dryden tried her next in a comic role. Her appearance as Florimel in Secret Love earned the admiration of the Earl of Dorset, who invited her to court. A crowd attending the Parliament at Oxford mistook her for her rival, Louise de Keroualle,": {
+    "guess": "Nell Gwyn",
+    "confidence": [
+      [
+        "N",
+        -0.026735878
+      ],
+      [
+        "ell",
+        -4.3202e-07
+      ],
+      [
+        " Gwyn",
+        -0.03807374
+      ]
+    ]
+  },
+  "She was miscast as Cydaria, the daughter of Montezuma, so John Dryden tried her next in a comic role. Her appearance as Florimel in Secret Love earned the admiration of the Earl of Dorset, who invited her to court. A crowd attending the Parliament at Oxford mistook her for her rival, Louise de Keroualle, Duchess of Portsmouth, and surrounded her carriage. She emerged to reassure the mob with the words": {
+    "guess": "Nell Gwyn",
+    "confidence": [
+      [
+        "N",
+        -0.04123567
+      ],
+      [
+        "ell",
+        -1.9361265e-07
+      ],
+      [
+        " Gwyn",
+        -0.02976703
+      ]
+    ]
+  },
+  "She was miscast as Cydaria, the daughter of Montezuma, so John Dryden tried her next in a comic role. Her appearance as Florimel in Secret Love earned the admiration of the Earl of Dorset, who invited her to court. A crowd attending the Parliament at Oxford mistook her for her rival, Louise de Keroualle, Duchess of Portsmouth, and surrounded her carriage. She emerged to reassure the mob with the words \"Be civil, good people. I am the Protestant whore!\" With good reason Pepys described her as both": {
+    "guess": "Nell Gwyn",
+    "confidence": [
+      [
+        "N",
+        -0.0016720877
+      ],
+      [
+        "ell",
+        -1.9361265e-07
+      ],
+      [
+        " Gwyn",
+        -0.029762527
+      ]
+    ]
+  },
+  "She was miscast as Cydaria, the daughter of Montezuma, so John Dryden tried her next in a comic role. Her appearance as Florimel in Secret Love earned the admiration of the Earl of Dorset, who invited her to court. A crowd attending the Parliament at Oxford mistook her for her rival, Louise de Keroualle, Duchess of Portsmouth, and surrounded her carriage. She emerged to reassure the mob with the words \"Be civil, good people. I am the Protestant whore!\" With good reason Pepys described her as both pretty and witty. FTP, name this one-time orange-seller at the Theatre Royal in Drury Lane, the most": {
+    "guess": "Nell Gwyn",
+    "confidence": [
+      [
+        "N",
+        -5.574252e-05
+      ],
+      [
+        "ell",
+        -1.9361265e-07
+      ],
+      [
+        " Gwyn",
+        -0.11283806
+      ]
+    ]
+  },
+  "She was miscast as Cydaria, the daughter of Montezuma, so John Dryden tried her next in a comic role. Her appearance as Florimel in Secret Love earned the admiration of the Earl of Dorset, who invited her to court. A crowd attending the Parliament at Oxford mistook her for her rival, Louise de Keroualle, Duchess of Portsmouth, and surrounded her carriage. She emerged to reassure the mob with the words \"Be civil, good people. I am the Protestant whore!\" With good reason Pepys described her as both pretty and witty. FTP, name this one-time orange-seller at the Theatre Royal in Drury Lane, the most famous mistress of Charles II.": {
+    "guess": "Nell Gwyn",
+    "confidence": [
+      [
+        "N",
+        -1.247159e-05
+      ],
+      [
+        "ell",
+        0.0
+      ],
+      [
+        " Gwyn",
+        -0.20144531
+      ]
+    ]
+  },
+  "In the Mishnah, this character was said to have worked as a barber for twenty two years and also to have": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9353343
+      ]
+    ]
+  },
+  "In the Mishnah, this character was said to have worked as a barber for twenty two years and also to have put an idolatrous image on his garments so that anyone who bowed to him must also bow to the image.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.4700294
+      ]
+    ]
+  },
+  "In the Mishnah, this character was said to have worked as a barber for twenty two years and also to have put an idolatrous image on his garments so that anyone who bowed to him must also bow to the image. This son of Hammedatha the Agagite chose the month of Adar for one of his schemes, while the Eunuch": {
+    "guess": "Haman",
+    "confidence": [
+      [
+        "H",
+        -0.00033796547
+      ],
+      [
+        "aman",
+        0.0
+      ]
+    ]
+  },
+  "In the Mishnah, this character was said to have worked as a barber for twenty two years and also to have put an idolatrous image on his garments so that anyone who bowed to him must also bow to the image. This son of Hammedatha the Agagite chose the month of Adar for one of his schemes, while the Eunuch Harbona fixed the method of his death. This man and his ten sons were hung from gallows that he": {
+    "guess": "Haman",
+    "confidence": [
+      [
+        "H",
+        -0.00034356804
+      ],
+      [
+        "aman",
+        0.0
+      ]
+    ]
+  },
+  "In the Mishnah, this character was said to have worked as a barber for twenty two years and also to have put an idolatrous image on his garments so that anyone who bowed to him must also bow to the image. This son of Hammedatha the Agagite chose the month of Adar for one of his schemes, while the Eunuch Harbona fixed the method of his death. This man and his ten sons were hung from gallows that he had had constructed for a different purpose, and this husband of Zeresh was aided by her in that plan.": {
+    "guess": "Haman",
+    "confidence": [
+      [
+        "H",
+        -1.3663626e-05
+      ],
+      [
+        "aman",
+        0.0
+      ]
+    ]
+  },
+  "In the Mishnah, this character was said to have worked as a barber for twenty two years and also to have put an idolatrous image on his garments so that anyone who bowed to him must also bow to the image. This son of Hammedatha the Agagite chose the month of Adar for one of his schemes, while the Eunuch Harbona fixed the method of his death. This man and his ten sons were hung from gallows that he had had constructed for a different purpose, and this husband of Zeresh was aided by her in that plan. Cookies named for this man are eaten on the Jewish holiday of Purim, of which he is the chief villain": {
+    "guess": "Haman",
+    "confidence": [
+      [
+        "H",
+        -0.0014843896
+      ],
+      [
+        "aman",
+        0.0
+      ]
+    ]
+  },
+  "In the Mishnah, this character was said to have worked as a barber for twenty two years and also to have put an idolatrous image on his garments so that anyone who bowed to him must also bow to the image. This son of Hammedatha the Agagite chose the month of Adar for one of his schemes, while the Eunuch Harbona fixed the method of his death. This man and his ten sons were hung from gallows that he had had constructed for a different purpose, and this husband of Zeresh was aided by her in that plan. Cookies named for this man are eaten on the Jewish holiday of Purim, of which he is the chief villain because of his anger at Mordechai. For ten points, identify this adviser under Ahasureus, who was": {
+    "guess": "Haman",
+    "confidence": [
+      [
+        "H",
+        -0.0041313535
+      ],
+      [
+        "aman",
+        0.0
+      ]
+    ]
+  },
+  "In the Mishnah, this character was said to have worked as a barber for twenty two years and also to have put an idolatrous image on his garments so that anyone who bowed to him must also bow to the image. This son of Hammedatha the Agagite chose the month of Adar for one of his schemes, while the Eunuch Harbona fixed the method of his death. This man and his ten sons were hung from gallows that he had had constructed for a different purpose, and this husband of Zeresh was aided by her in that plan. Cookies named for this man are eaten on the Jewish holiday of Purim, of which he is the chief villain because of his anger at Mordechai. For ten points, identify this adviser under Ahasureus, who was opposed by Esther in his plan to kill all the Jews.": {
+    "guess": "Haman",
+    "confidence": [
+      [
+        "H",
+        -0.00014573395
+      ],
+      [
+        "aman",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "A misplaced pin in this opera leads one character to malign women in the aria, \"Aprite un po quegli occhi,\"": {
+    "guess": "The Marriage of Figaro",
+    "confidence": [
+      [
+        "The",
+        -0.016101824
+      ],
+      [
+        " Marriage",
+        -0.000181849
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Fig",
+        0.0
+      ],
+      [
+        "aro",
+        0.0
+      ]
+    ]
+  },
+  "A misplaced pin in this opera leads one character to malign women in the aria, \"Aprite un po quegli occhi,\" while another character expresses his love for Barbarina in the aria, \"Voi che sapete.\" A contract": {
+    "guess": "The Marriage of Figaro",
+    "confidence": [
+      [
+        "The",
+        -0.001181062
+      ],
+      [
+        " Marriage",
+        -1.2829201e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Fig",
+        0.0
+      ],
+      [
+        "aro",
+        0.0
+      ]
+    ]
+  },
+  "A misplaced pin in this opera leads one character to malign women in the aria, \"Aprite un po quegli occhi,\" while another character expresses his love for Barbarina in the aria, \"Voi che sapete.\" A contract is dissolved when it is revealed that Marcellina is the mother of her betrothed and she decides": {
+    "guess": "The Marriage of Figaro",
+    "confidence": [
+      [
+        "The",
+        -0.00674687
+      ],
+      [
+        " Marriage",
+        -5.4312077e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Fig",
+        -1.9361265e-07
+      ],
+      [
+        "aro",
+        0.0
+      ]
+    ]
+  },
+  "A misplaced pin in this opera leads one character to malign women in the aria, \"Aprite un po quegli occhi,\" while another character expresses his love for Barbarina in the aria, \"Voi che sapete.\" A contract is dissolved when it is revealed that Marcellina is the mother of her betrothed and she decides to marry Bartolo instead, and the page Cherubino is dressed in women's clothes in a scheme to trick": {
+    "guess": "The Marriage of Figaro",
+    "confidence": [
+      [
+        "The",
+        -0.0005294414
+      ],
+      [
+        " Marriage",
+        -4.8351892e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Fig",
+        0.0
+      ],
+      [
+        "aro",
+        0.0
+      ]
+    ]
+  },
+  "A misplaced pin in this opera leads one character to malign women in the aria, \"Aprite un po quegli occhi,\" while another character expresses his love for Barbarina in the aria, \"Voi che sapete.\" A contract is dissolved when it is revealed that Marcellina is the mother of her betrothed and she decides to marry Bartolo instead, and the page Cherubino is dressed in women's clothes in a scheme to trick Rosina's husband. FTP Count Almaviva realizes the woman he was trying to seduce is not Susanna but": {
+    "guess": "The Marriage of Figaro",
+    "confidence": [
+      [
+        "The",
+        -0.04149943
+      ],
+      [
+        " Marriage",
+        -0.043402314
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Fig",
+        0.0
+      ],
+      [
+        "aro",
+        0.0
+      ]
+    ]
+  },
+  "A misplaced pin in this opera leads one character to malign women in the aria, \"Aprite un po quegli occhi,\" while another character expresses his love for Barbarina in the aria, \"Voi che sapete.\" A contract is dissolved when it is revealed that Marcellina is the mother of her betrothed and she decides to marry Bartolo instead, and the page Cherubino is dressed in women's clothes in a scheme to trick Rosina's husband. FTP Count Almaviva realizes the woman he was trying to seduce is not Susanna but his wife at the end of this Mozart opera about the wedding of a barber of Seville.": {
+    "guess": "The Marriage of Figaro",
+    "confidence": [
+      [
+        "The",
+        -0.00087334774
+      ],
+      [
+        " Marriage",
+        -2.1173457e-05
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Fig",
+        0.0
+      ],
+      [
+        "aro",
+        0.0
+      ]
+    ]
+  },
+  "A mirror in the background of this painting is surrounded by scenes of the  crucifixion and notably accurate,": {
+    "guess": "Arnolfini Portrait",
+    "confidence": [
+      [
+        "Arn",
+        -0.33075312
+      ],
+      [
+        "olf",
+        -1.9361265e-07
+      ],
+      [
+        "ini",
+        0.0
+      ],
+      [
+        " Portrait",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "A mirror in the background of this painting is surrounded by scenes of the  crucifixion and notably accurate, as it depicts the backs of the two figures. There are  several pieces of fruit on the windowsill,": {
+    "guess": "Arnolfini Portrait",
+    "confidence": [
+      [
+        "Arn",
+        -0.008714558
+      ],
+      [
+        "olf",
+        -1.9361265e-07
+      ],
+      [
+        "ini",
+        0.0
+      ],
+      [
+        " Portrait",
+        0.0
+      ]
+    ]
+  },
+  "A mirror in the background of this painting is surrounded by scenes of the  crucifixion and notably accurate, as it depicts the backs of the two figures. There are  several pieces of fruit on the windowsill, and a single candle is lit in the chandelier.  A pair of sandals and a small dog are at the feet": {
+    "guess": "Arnolfini Portrait",
+    "confidence": [
+      [
+        "Arn",
+        -0.0035162105
+      ],
+      [
+        "olf",
+        0.0
+      ],
+      [
+        "ini",
+        0.0
+      ],
+      [
+        " Portrait",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A mirror in the background of this painting is surrounded by scenes of the  crucifixion and notably accurate, as it depicts the backs of the two figures. There are  several pieces of fruit on the windowsill, and a single candle is lit in the chandelier.  A pair of sandals and a small dog are at the feet of the two figures, and the bed  sheets in the background are red, adding to pregnancy rumors started": {
+    "guess": "Arnolfini Portrait",
+    "confidence": [
+      [
+        "Arn",
+        -0.008837213
+      ],
+      [
+        "olf",
+        0.0
+      ],
+      [
+        "ini",
+        0.0
+      ],
+      [
+        " Portrait",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A mirror in the background of this painting is surrounded by scenes of the  crucifixion and notably accurate, as it depicts the backs of the two figures. There are  several pieces of fruit on the windowsill, and a single candle is lit in the chandelier.  A pair of sandals and a small dog are at the feet of the two figures, and the bed  sheets in the background are red, adding to pregnancy rumors started by the presence  of the woman's hand on her stomach. FTP name this painting by Jan van Eyck.": {
+    "guess": "Arnolfini Portrait",
+    "confidence": [
+      [
+        "Arn",
+        -0.012627836
+      ],
+      [
+        "olf",
+        0.0
+      ],
+      [
+        "ini",
+        0.0
+      ],
+      [
+        " Portrait",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The missionary plaintiff in this case was initially released when he claimed that he operated under federal": {
+    "guess": "Worcester v. Georgia",
+    "confidence": [
+      [
+        "W",
+        -0.01953854
+      ],
+      [
+        "orc",
+        -7.9418505e-06
+      ],
+      [
+        "ester",
+        -1.9361265e-07
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Georgia",
+        0.0
+      ]
+    ]
+  },
+  "The missionary plaintiff in this case was initially released when he claimed that he operated under federal authority as the postmaster of New Echota, but was relieved of his duties and rearrested. That": {
+    "guess": "Worcester v. Georgia",
+    "confidence": [
+      [
+        "W",
+        -0.080582395
+      ],
+      [
+        "orc",
+        -1.6762922e-05
+      ],
+      [
+        "ester",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Georgia",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The missionary plaintiff in this case was initially released when he claimed that he operated under federal authority as the postmaster of New Echota, but was relieved of his duties and rearrested. That plaintiff argued that the actions of a state government violated Article I, Section 8 of the Constitution,": {
+    "guess": "Worcester v. Georgia",
+    "confidence": [
+      [
+        "W",
+        -0.0032862094
+      ],
+      [
+        "orc",
+        -1.6762922e-05
+      ],
+      [
+        "ester",
+        -1.9361265e-07
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Georgia",
+        0.0
+      ]
+    ]
+  },
+  "The missionary plaintiff in this case was initially released when he claimed that he operated under federal authority as the postmaster of New Echota, but was relieved of his duties and rearrested. That plaintiff argued that the actions of a state government violated Article I, Section 8 of the Constitution, an argument which found favor with six of seven justices, who held that the territory in question": {
+    "guess": "Worcester v. Georgia",
+    "confidence": [
+      [
+        "W",
+        -0.004124823
+      ],
+      [
+        "orc",
+        -7.9418505e-06
+      ],
+      [
+        "ester",
+        -1.9361265e-07
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Georgia",
+        0.0
+      ]
+    ]
+  },
+  "The missionary plaintiff in this case was initially released when he claimed that he operated under federal authority as the postmaster of New Echota, but was relieved of his duties and rearrested. That plaintiff argued that the actions of a state government violated Article I, Section 8 of the Constitution, an argument which found favor with six of seven justices, who held that the territory in question was a \"distinct community\" in which the laws of the state held no force. Famous for Andrew Jackson's": {
+    "guess": "Worcester v. Georgia",
+    "confidence": [
+      [
+        "W",
+        -0.0019858524
+      ],
+      [
+        "orc",
+        -1.0206721e-05
+      ],
+      [
+        "ester",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Georgia",
+        0.0
+      ]
+    ]
+  },
+  "The missionary plaintiff in this case was initially released when he claimed that he operated under federal authority as the postmaster of New Echota, but was relieved of his duties and rearrested. That plaintiff argued that the actions of a state government violated Article I, Section 8 of the Constitution, an argument which found favor with six of seven justices, who held that the territory in question was a \"distinct community\" in which the laws of the state held no force. Famous for Andrew Jackson's alleged proclamation, \"John Marshall has made his decision, now let him enforce it,\" for ten": {
+    "guess": "Worcester v. Georgia",
+    "confidence": [
+      [
+        "W",
+        -0.00059449725
+      ],
+      [
+        "orc",
+        -1.6762922e-05
+      ],
+      [
+        "ester",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Georgia",
+        0.0
+      ]
+    ]
+  },
+  "The missionary plaintiff in this case was initially released when he claimed that he operated under federal authority as the postmaster of New Echota, but was relieved of his duties and rearrested. That plaintiff argued that the actions of a state government violated Article I, Section 8 of the Constitution, an argument which found favor with six of seven justices, who held that the territory in question was a \"distinct community\" in which the laws of the state held no force. Famous for Andrew Jackson's alleged proclamation, \"John Marshall has made his decision, now let him enforce it,\" for ten points, identify this 1832 Supreme Court case which prohibited the interference with Cherokee sovereignty": {
+    "guess": "Worcester v. Georgia",
+    "confidence": [
+      [
+        "W",
+        -0.00011653639
+      ],
+      [
+        "orc",
+        -3.7697225e-06
+      ],
+      [
+        "ester",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Georgia",
+        0.0
+      ]
+    ]
+  },
+  "The missionary plaintiff in this case was initially released when he claimed that he operated under federal authority as the postmaster of New Echota, but was relieved of his duties and rearrested. That plaintiff argued that the actions of a state government violated Article I, Section 8 of the Constitution, an argument which found favor with six of seven justices, who held that the territory in question was a \"distinct community\" in which the laws of the state held no force. Famous for Andrew Jackson's alleged proclamation, \"John Marshall has made his decision, now let him enforce it,\" for ten points, identify this 1832 Supreme Court case which prohibited the interference with Cherokee sovereignty by a Southern state.": {
+    "guess": "Worcester v. Georgia",
+    "confidence": [
+      [
+        "W",
+        -9.2695656e-05
+      ],
+      [
+        "orc",
+        -3.7697225e-06
+      ],
+      [
+        "ester",
+        0.0
+      ],
+      [
+        " v",
+        0.0
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Georgia",
+        0.0
+      ]
+    ]
+  }
+}

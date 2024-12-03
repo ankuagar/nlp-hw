@@ -1,0 +1,363 @@
+{
+  "Invitrogen Dynabeads have this property and are useful for immunoprecipitation assays, and nanobeads": {
+    "guess": "Magnetic beads",
+    "confidence": [
+      [
+        "Mag",
+        -0.0024750626
+      ],
+      [
+        "netic",
+        -0.00020354039
+      ],
+      [
+        " beads",
+        -1.2043302
+      ]
+    ]
+  },
+  "Invitrogen Dynabeads have this property and are useful for immunoprecipitation assays, and nanobeads with this property can be used for solid-phase cDNA generation. MRI contrast agents often have this": {
+    "guess": "Magnetic",
+    "confidence": [
+      [
+        "Mag",
+        -0.010452719
+      ],
+      [
+        "netic",
+        -0.25192907
+      ]
+    ]
+  },
+  "Invitrogen Dynabeads have this property and are useful for immunoprecipitation assays, and nanobeads with this property can be used for solid-phase cDNA generation. MRI contrast agents often have this property, and a gas of monatomic hydrogen atoms would display a pure form of it. Molecular orbital theory": {
+    "guess": "Paramagnetism",
+    "confidence": [
+      [
+        "Param",
+        -0.23170555
+      ],
+      [
+        "agnet",
+        -0.00012344286
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Invitrogen Dynabeads have this property and are useful for immunoprecipitation assays, and nanobeads with this property can be used for solid-phase cDNA generation. MRI contrast agents often have this property, and a gas of monatomic hydrogen atoms would display a pure form of it. Molecular orbital theory is required to show that diatomic oxygen has it. Ferrofluids display the super- form of this behavior,": {
+    "guess": "Magnetism",
+    "confidence": [
+      [
+        "Mag",
+        -0.035209663
+      ],
+      [
+        "net",
+        -0.00033546583
+      ],
+      [
+        "ism",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Invitrogen Dynabeads have this property and are useful for immunoprecipitation assays, and nanobeads with this property can be used for solid-phase cDNA generation. MRI contrast agents often have this property, and a gas of monatomic hydrogen atoms would display a pure form of it. Molecular orbital theory is required to show that diatomic oxygen has it. Ferrofluids display the super- form of this behavior, which is described by the equation M equals chi times H, in which chi is positive. This property": {
+    "guess": "Magnetism",
+    "confidence": [
+      [
+        "Mag",
+        -0.111313015
+      ],
+      [
+        "net",
+        -0.00043066923
+      ],
+      [
+        "ism",
+        -4.246537e-06
+      ]
+    ]
+  },
+  "Invitrogen Dynabeads have this property and are useful for immunoprecipitation assays, and nanobeads with this property can be used for solid-phase cDNA generation. MRI contrast agents often have this property, and a gas of monatomic hydrogen atoms would display a pure form of it. Molecular orbital theory is required to show that diatomic oxygen has it. Ferrofluids display the super- form of this behavior, which is described by the equation M equals chi times H, in which chi is positive. This property occurs above the Curie and Neel temperatures in certain materials, in which spins are randomly": {
+    "guess": "Paramagnetism",
+    "confidence": [
+      [
+        "Param",
+        -0.011335577
+      ],
+      [
+        "agnet",
+        -1.9027791e-05
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "Invitrogen Dynabeads have this property and are useful for immunoprecipitation assays, and nanobeads with this property can be used for solid-phase cDNA generation. MRI contrast agents often have this property, and a gas of monatomic hydrogen atoms would display a pure form of it. Molecular orbital theory is required to show that diatomic oxygen has it. Ferrofluids display the super- form of this behavior, which is described by the equation M equals chi times H, in which chi is positive. This property occurs above the Curie and Neel temperatures in certain materials, in which spins are randomly aligned until an external field is applied. For 10 points, name this type of magnetism.": {
+    "guess": "Paramagnetism",
+    "confidence": [
+      [
+        "Param",
+        -0.0038619512
+      ],
+      [
+        "agnet",
+        -1.0280384e-06
+      ],
+      [
+        "ism",
+        0.0
+      ]
+    ]
+  },
+  "He invokes the image of a man choking on a meatball, then passing out because, when calling 911, he has": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.38633466
+      ],
+      [
+        ".",
+        -0.048592594
+      ]
+    ]
+  },
+  "He invokes the image of a man choking on a meatball, then passing out because, when calling 911, he has to sit through a list of options for various languages, after choking upon hearing that English is": {
+    "guess": "Falling Down",
+    "confidence": [
+      [
+        "F",
+        -0.22650227
+      ],
+      [
+        "alling",
+        -0.0065360777
+      ],
+      [
+        " Down",
+        -0.048227217
+      ]
+    ]
+  },
+  "He invokes the image of a man choking on a meatball, then passing out because, when calling 911, he has to sit through a list of options for various languages, after choking upon hearing that English is no longer America's official language. For ten points, name the candidate running this controversial": {
+    "guess": "Pat Buchanan",
+    "confidence": [
+      [
+        "Pat",
+        -0.43639433
+      ],
+      [
+        " Buchanan",
+        -0.0013325021
+      ]
+    ]
+  },
+  "He invokes the image of a man choking on a meatball, then passing out because, when calling 911, he has to sit through a list of options for various languages, after choking upon hearing that English is no longer America's official language. For ten points, name the candidate running this controversial anti-immigration ad while running for President on the Reform Party ticket.": {
+    "guess": "Pat Buchanan",
+    "confidence": [
+      [
+        "Pat",
+        -0.008345654
+      ],
+      [
+        " Buchanan",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This involuntary nerve arising from the third, fourth, and fifth levels of the spinal cord innervates": {
+    "guess": "Phrenic nerve",
+    "confidence": [
+      [
+        "Ph",
+        -0.0038090998
+      ],
+      [
+        "ren",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " nerve",
+        -0.0024760163
+      ]
+    ]
+  },
+  "This involuntary nerve arising from the third, fourth, and fifth levels of the spinal cord innervates the diaphragm. A mnemonic for this nerve is: \"C3, C4, and C5 keep the diaphragm alive.\" If a break": {
+    "guess": "Phrenic nerve",
+    "confidence": [
+      [
+        "Ph",
+        -0.00134297
+      ],
+      [
+        "ren",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " nerve",
+        -5.157039e-05
+      ]
+    ]
+  },
+  "This involuntary nerve arising from the third, fourth, and fifth levels of the spinal cord innervates the diaphragm. A mnemonic for this nerve is: \"C3, C4, and C5 keep the diaphragm alive.\" If a break to the neck in this region tragically occurs, the patient may need a tracheotomy and respirator until": {
+    "guess": "Phrenic nerve",
+    "confidence": [
+      [
+        "Ph",
+        -0.01426505
+      ],
+      [
+        "ren",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " nerve",
+        -4.5491004e-05
+      ]
+    ]
+  },
+  "This involuntary nerve arising from the third, fourth, and fifth levels of the spinal cord innervates the diaphragm. A mnemonic for this nerve is: \"C3, C4, and C5 keep the diaphragm alive.\" If a break to the neck in this region tragically occurs, the patient may need a tracheotomy and respirator until the intercostals muscles between the ribs take over adequately. For ten points, name this non-cranial": {
+    "guess": "Phrenic nerve",
+    "confidence": [
+      [
+        "Ph",
+        -8.5781845e-05
+      ],
+      [
+        "ren",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " nerve",
+        -1.6762922e-05
+      ]
+    ]
+  },
+  "This involuntary nerve arising from the third, fourth, and fifth levels of the spinal cord innervates the diaphragm. A mnemonic for this nerve is: \"C3, C4, and C5 keep the diaphragm alive.\" If a break to the neck in this region tragically occurs, the patient may need a tracheotomy and respirator until the intercostals muscles between the ribs take over adequately. For ten points, name this non-cranial nerve.": {
+    "guess": "Phrenic nerve",
+    "confidence": [
+      [
+        "Ph",
+        -0.000110576206
+      ],
+      [
+        "ren",
+        0.0
+      ],
+      [
+        "ic",
+        0.0
+      ],
+      [
+        " nerve",
+        -5.4385737e-06
+      ]
+    ]
+  },
+  "One man involved in this event did not comply with Archibald Cox's subpoena leading to the Saturday Night": {
+    "guess": "Watergate scandal",
+    "confidence": [
+      [
+        "Water",
+        -0.018540626
+      ],
+      [
+        "gate",
+        0.0
+      ],
+      [
+        " scandal",
+        -0.07889122
+      ]
+    ]
+  },
+  "One man involved in this event did not comply with Archibald Cox's subpoena leading to the Saturday Night Massacre, a mass-firing in the Attorney General's office. The Washington Post's Bob (*) Woodward": {
+    "guess": "Watergate scandal",
+    "confidence": [
+      [
+        "Water",
+        -0.033666793
+      ],
+      [
+        "gate",
+        0.0
+      ],
+      [
+        " scandal",
+        -0.029752338
+      ]
+    ]
+  },
+  "One man involved in this event did not comply with Archibald Cox's subpoena leading to the Saturday Night Massacre, a mass-firing in the Attorney General's office. The Washington Post's Bob (*) Woodward first broke news of this event, which involved an organization called CREEP. Exposed by Deep Throat": {
+    "guess": "Watergate scandal",
+    "confidence": [
+      [
+        "Water",
+        -0.001978357
+      ],
+      [
+        "gate",
+        0.0
+      ],
+      [
+        " scandal",
+        -0.029762994
+      ]
+    ]
+  },
+  "One man involved in this event did not comply with Archibald Cox's subpoena leading to the Saturday Night Massacre, a mass-firing in the Attorney General's office. The Washington Post's Bob (*) Woodward first broke news of this event, which involved an organization called CREEP. Exposed by Deep Throat and a number of tapes, name this scandal in which a Washington, D.C. hotel was burgled, leading to": {
+    "guess": "Watergate scandal",
+    "confidence": [
+      [
+        "Water",
+        -0.00011927807
+      ],
+      [
+        "gate",
+        0.0
+      ],
+      [
+        " scandal",
+        -0.07894157
+      ]
+    ]
+  },
+  "One man involved in this event did not comply with Archibald Cox's subpoena leading to the Saturday Night Massacre, a mass-firing in the Attorney General's office. The Washington Post's Bob (*) Woodward first broke news of this event, which involved an organization called CREEP. Exposed by Deep Throat and a number of tapes, name this scandal in which a Washington, D.C. hotel was burgled, leading to the resignation of US President Richard Nixon.": {
+    "guess": "Watergate scandal",
+    "confidence": [
+      [
+        "Water",
+        -0.0009161015
+      ],
+      [
+        "gate",
+        0.0
+      ],
+      [
+        " scandal",
+        -3.5835506e-05
+      ]
+    ]
+  }
+}

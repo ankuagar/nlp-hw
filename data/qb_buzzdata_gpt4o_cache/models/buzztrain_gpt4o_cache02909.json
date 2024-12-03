@@ -1,0 +1,549 @@
+{
+  "This hormone's releasing factor is the human analog of bombesin, and activation of somatostatin-2 receptors": {
+    "guess": "Gastrin",
+    "confidence": [
+      [
+        "G",
+        -0.010239287
+      ],
+      [
+        "astr",
+        -0.0021776236
+      ],
+      [
+        "in",
+        -3.6073914e-05
+      ]
+    ]
+  },
+  "This hormone's releasing factor is the human analog of bombesin, and activation of somatostatin-2 receptors on the cells that release this hormone can inhibit its release.  One form of this peptide acts": {
+    "guess": "Gastrin",
+    "confidence": [
+      [
+        "G",
+        -0.001202493
+      ],
+      [
+        "astr",
+        -1.504853e-06
+      ],
+      [
+        "in",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "This hormone's releasing factor is the human analog of bombesin, and activation of somatostatin-2 receptors on the cells that release this hormone can inhibit its release.  One form of this peptide acts upon the D cells of the antrum, and overproduction of this hormone leads to Zollinger-Ellison syndrome.": {
+    "guess": "Gastrin",
+    "confidence": [
+      [
+        "G",
+        -0.0009891037
+      ],
+      [
+        "astr",
+        0.0
+      ],
+      [
+        "in",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "This hormone's releasing factor is the human analog of bombesin, and activation of somatostatin-2 receptors on the cells that release this hormone can inhibit its release.  One form of this peptide acts upon the D cells of the antrum, and overproduction of this hormone leads to Zollinger-Ellison syndrome.  Usually secreted in the presence of calcium and amino acids, it binds to enterochromaffin-like": {
+    "guess": "Gastrin",
+    "confidence": [
+      [
+        "G",
+        -0.00040874677
+      ],
+      [
+        "astr",
+        -1.9361265e-07
+      ],
+      [
+        "in",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "This hormone's releasing factor is the human analog of bombesin, and activation of somatostatin-2 receptors on the cells that release this hormone can inhibit its release.  One form of this peptide acts upon the D cells of the antrum, and overproduction of this hormone leads to Zollinger-Ellison syndrome.  Usually secreted in the presence of calcium and amino acids, it binds to enterochromaffin-like cells and stimulates the release of histamine, and it also binds to chief cells to stimulate the release": {
+    "guess": "Gastrin",
+    "confidence": [
+      [
+        "G",
+        -0.0006459566
+      ],
+      [
+        "astr",
+        -1.9361265e-07
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "This hormone's releasing factor is the human analog of bombesin, and activation of somatostatin-2 receptors on the cells that release this hormone can inhibit its release.  One form of this peptide acts upon the D cells of the antrum, and overproduction of this hormone leads to Zollinger-Ellison syndrome.  Usually secreted in the presence of calcium and amino acids, it binds to enterochromaffin-like cells and stimulates the release of histamine, and it also binds to chief cells to stimulate the release of pepsinogen.  For 10 points, name this digestive hormone secreted by G cells, which regulates": {
+    "guess": "Gastrin",
+    "confidence": [
+      [
+        "G",
+        -3.3093824e-05
+      ],
+      [
+        "astr",
+        0.0
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "This hormone's releasing factor is the human analog of bombesin, and activation of somatostatin-2 receptors on the cells that release this hormone can inhibit its release.  One form of this peptide acts upon the D cells of the antrum, and overproduction of this hormone leads to Zollinger-Ellison syndrome.  Usually secreted in the presence of calcium and amino acids, it binds to enterochromaffin-like cells and stimulates the release of histamine, and it also binds to chief cells to stimulate the release of pepsinogen.  For 10 points, name this digestive hormone secreted by G cells, which regulates the secretion of gastric acid in the stomach.": {
+    "guess": "Gastrin",
+    "confidence": [
+      [
+        "G",
+        -8.733149e-05
+      ],
+      [
+        "astr",
+        -3.1281633e-07
+      ],
+      [
+        "in",
+        0.0
+      ]
+    ]
+  },
+  "He hosted a television series examining environmental and agricultural issues titled Concertando while": {
+    "guess": "Hugo Ch\u00e1vez",
+    "confidence": [
+      [
+        "H",
+        -1.1347487
+      ],
+      [
+        "ugo",
+        -0.13359621
+      ],
+      [
+        " Ch\u00e1vez",
+        -0.08566814
+      ]
+    ]
+  },
+  "He hosted a television series examining environmental and agricultural issues titled Concertando while serving as dean of his alma mater, the National Agrarian University.  A soft drink bearing his name": {
+    "guess": "Isaac Humala",
+    "confidence": [
+      [
+        "Isa",
+        -0.51783884
+      ],
+      [
+        "ac",
+        -0.00023917861
+      ],
+      [
+        " Hum",
+        -1.6249936
+      ],
+      [
+        "ala",
+        -4.604148e-06
+      ]
+    ]
+  },
+  "He hosted a television series examining environmental and agricultural issues titled Concertando while serving as dean of his alma mater, the National Agrarian University.  A soft drink bearing his name was released in 2005 to support Si Cumple, a new political party associated with Nueva Mayoria and": {
+    "guess": "Alejandro Toledo",
+    "confidence": [
+      [
+        "Ale",
+        -0.051112395
+      ],
+      [
+        "jandro",
+        -1.147242e-06
+      ],
+      [
+        " Toledo",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "He hosted a television series examining environmental and agricultural issues titled Concertando while serving as dean of his alma mater, the National Agrarian University.  A soft drink bearing his name was released in 2005 to support Si Cumple, a new political party associated with Nueva Mayoria and Cambio90, his former political party.  He was blocked from running, but his party finished third in": {
+    "guess": "Alberto Fujimori",
+    "confidence": [
+      [
+        "Al",
+        -0.13160181
+      ],
+      [
+        "berto",
+        -4.3202e-07
+      ],
+      [
+        " Fuj",
+        -3.1281633e-07
+      ],
+      [
+        "im",
+        0.0
+      ],
+      [
+        "ori",
+        0.0
+      ]
+    ]
+  },
+  "He hosted a television series examining environmental and agricultural issues titled Concertando while serving as dean of his alma mater, the National Agrarian University.  A soft drink bearing his name was released in 2005 to support Si Cumple, a new political party associated with Nueva Mayoria and Cambio90, his former political party.  He was blocked from running, but his party finished third in the election and his daughter Keiko received the most votes for Congress.  FTP, name this man who conducted": {
+    "guess": "Alberto Fujimori",
+    "confidence": [
+      [
+        "Al",
+        -0.0050725834
+      ],
+      [
+        "berto",
+        0.0
+      ],
+      [
+        " Fuj",
+        0.0
+      ],
+      [
+        "im",
+        0.0
+      ],
+      [
+        "ori",
+        0.0
+      ]
+    ]
+  },
+  "He hosted a television series examining environmental and agricultural issues titled Concertando while serving as dean of his alma mater, the National Agrarian University.  A soft drink bearing his name was released in 2005 to support Si Cumple, a new political party associated with Nueva Mayoria and Cambio90, his former political party.  He was blocked from running, but his party finished third in the election and his daughter Keiko received the most votes for Congress.  FTP, name this man who conducted a coup against his own government in 1992 and resigned the Peruvian presidency in 2000 by fax": {
+    "guess": "Alberto Fujimori",
+    "confidence": [
+      [
+        "Al",
+        -0.0009902957
+      ],
+      [
+        "berto",
+        0.0
+      ],
+      [
+        " Fuj",
+        -1.9361265e-07
+      ],
+      [
+        "im",
+        0.0
+      ],
+      [
+        "ori",
+        0.0
+      ]
+    ]
+  },
+  "He hosted a television series examining environmental and agricultural issues titled Concertando while serving as dean of his alma mater, the National Agrarian University.  A soft drink bearing his name was released in 2005 to support Si Cumple, a new political party associated with Nueva Mayoria and Cambio90, his former political party.  He was blocked from running, but his party finished third in the election and his daughter Keiko received the most votes for Congress.  FTP, name this man who conducted a coup against his own government in 1992 and resigned the Peruvian presidency in 2000 by fax from Japan.": {
+    "guess": "Alberto Fujimori",
+    "confidence": [
+      [
+        "Al",
+        -0.0005898483
+      ],
+      [
+        "berto",
+        0.0
+      ],
+      [
+        " Fuj",
+        -1.9361265e-07
+      ],
+      [
+        "im",
+        0.0
+      ],
+      [
+        "ori",
+        0.0
+      ]
+    ]
+  },
+  "The horns play his sad theme, and he is the principal attraction at a carnival in a public square in": {
+    "guess": "Petrouchka",
+    "confidence": [
+      [
+        "Pet",
+        -0.6149879
+      ],
+      [
+        "rou",
+        -5.2001665e-06
+      ],
+      [
+        "ch",
+        -4.5491004e-05
+      ],
+      [
+        "ka",
+        0.0
+      ]
+    ]
+  },
+  "The horns play his sad theme, and he is the principal attraction at a carnival in a public square in Saint Petersburg.  He is in love with a ballerina who hates him and loves a handsomely attired Moor.": {
+    "guess": "Petrushka",
+    "confidence": [
+      [
+        "P",
+        -0.01634086
+      ],
+      [
+        "etr",
+        -2.2127088e-05
+      ],
+      [
+        "ush",
+        0.0
+      ],
+      [
+        "ka",
+        0.0
+      ]
+    ]
+  },
+  "The horns play his sad theme, and he is the principal attraction at a carnival in a public square in Saint Petersburg.  He is in love with a ballerina who hates him and loves a handsomely attired Moor.  When he interrupts the Moors flirting, the Moor kills him, and the crowd erupts in anger, quieted": {
+    "guess": "Petrushka",
+    "confidence": [
+      [
+        "P",
+        -0.023583544
+      ],
+      [
+        "etr",
+        -1.8074163e-05
+      ],
+      [
+        "ush",
+        0.0
+      ],
+      [
+        "ka",
+        0.0
+      ]
+    ]
+  },
+  "The horns play his sad theme, and he is the principal attraction at a carnival in a public square in Saint Petersburg.  He is in love with a ballerina who hates him and loves a handsomely attired Moor.  When he interrupts the Moors flirting, the Moor kills him, and the crowd erupts in anger, quieted only when a policeman reminds everyone that the victim is, after all, only a puppet.  For ten points,": {
+    "guess": "Petrushka",
+    "confidence": [
+      [
+        "P",
+        -0.016374046
+      ],
+      [
+        "etr",
+        -4.723352e-06
+      ],
+      [
+        "ush",
+        0.0
+      ],
+      [
+        "ka",
+        0.0
+      ]
+    ]
+  },
+  "The horns play his sad theme, and he is the principal attraction at a carnival in a public square in Saint Petersburg.  He is in love with a ballerina who hates him and loves a handsomely attired Moor.  When he interrupts the Moors flirting, the Moor kills him, and the crowd erupts in anger, quieted only when a policeman reminds everyone that the victim is, after all, only a puppet.  For ten points, identify this title character, first danced by Waslaw Nijinsky, in a 1911 ballet by Igor Stravinsky.": {
+    "guess": "Petrushka",
+    "confidence": [
+      [
+        "P",
+        -0.0032115804
+      ],
+      [
+        "etr",
+        -7.9418505e-06
+      ],
+      [
+        "ush",
+        -5.5122365e-07
+      ],
+      [
+        "ka",
+        0.0
+      ]
+    ]
+  },
+  "Hostilities escalated during this event following the execution of Orangeman Thomas Scott. The appointment": {
+    "guess": "Red River Rebellion",
+    "confidence": [
+      [
+        "Red",
+        -0.4770406
+      ],
+      [
+        " River",
+        -1.9361265e-07
+      ],
+      [
+        " Re",
+        -0.00842261
+      ],
+      [
+        "bellion",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Hostilities escalated during this event following the execution of Orangeman Thomas Scott. The appointment of William McDougal was among the causes of this event, which led to the recognition of the territory": {
+    "guess": "Red River Rebellion",
+    "confidence": [
+      [
+        "Red",
+        -0.062045883
+      ],
+      [
+        " River",
+        0.0
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        0.0
+      ]
+    ]
+  },
+  "Hostilities escalated during this event following the execution of Orangeman Thomas Scott. The appointment of William McDougal was among the causes of this event, which led to the recognition of the territory of Assiniboia. The Wolseley Expedition was sent in the aftermath of this event, causing its": {
+    "guess": "Red River Rebellion",
+    "confidence": [
+      [
+        "Red",
+        -0.002019167
+      ],
+      [
+        " River",
+        0.0
+      ],
+      [
+        " Re",
+        -1.9361265e-07
+      ],
+      [
+        "bellion",
+        0.0
+      ]
+    ]
+  },
+  "Hostilities escalated during this event following the execution of Orangeman Thomas Scott. The appointment of William McDougal was among the causes of this event, which led to the recognition of the territory of Assiniboia. The Wolseley Expedition was sent in the aftermath of this event, causing its leader to flee, and it was triggered when Rupert's Land was purchased from the (*) Hudson's Bay Company": {
+    "guess": "Red River Rebellion",
+    "confidence": [
+      [
+        "Red",
+        -0.0008182041
+      ],
+      [
+        " River",
+        0.0
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        0.0
+      ]
+    ]
+  },
+  "Hostilities escalated during this event following the execution of Orangeman Thomas Scott. The appointment of William McDougal was among the causes of this event, which led to the recognition of the territory of Assiniboia. The Wolseley Expedition was sent in the aftermath of this event, causing its leader to flee, and it was triggered when Rupert's Land was purchased from the (*) Hudson's Bay Company and an English-speaking governor was appointed to govern a region composed largely of French-speaking": {
+    "guess": "Red River Rebellion",
+    "confidence": [
+      [
+        "Red",
+        -0.00010759611
+      ],
+      [
+        " River",
+        0.0
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        0.0
+      ]
+    ]
+  },
+  "Hostilities escalated during this event following the execution of Orangeman Thomas Scott. The appointment of William McDougal was among the causes of this event, which led to the recognition of the territory of Assiniboia. The Wolseley Expedition was sent in the aftermath of this event, causing its leader to flee, and it was triggered when Rupert's Land was purchased from the (*) Hudson's Bay Company and an English-speaking governor was appointed to govern a region composed largely of French-speaking Metis. Led by a man who would later launch the North-West Rebellion against John MacDonald, Louis": {
+    "guess": "Red River Rebellion",
+    "confidence": [
+      [
+        "Red",
+        -0.0008677525
+      ],
+      [
+        " River",
+        0.0
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        0.0
+      ]
+    ]
+  },
+  "Hostilities escalated during this event following the execution of Orangeman Thomas Scott. The appointment of William McDougal was among the causes of this event, which led to the recognition of the territory of Assiniboia. The Wolseley Expedition was sent in the aftermath of this event, causing its leader to flee, and it was triggered when Rupert's Land was purchased from the (*) Hudson's Bay Company and an English-speaking governor was appointed to govern a region composed largely of French-speaking Metis. Led by a man who would later launch the North-West Rebellion against John MacDonald, Louis Riel, for 10 points, name this 1869 rebellion in Manitoba whose namesake waterway is also the name": {
+    "guess": "Red River Rebellion",
+    "confidence": [
+      [
+        "Red",
+        -0.0001594387
+      ],
+      [
+        " River",
+        0.0
+      ],
+      [
+        " Re",
+        -1.9361265e-07
+      ],
+      [
+        "bellion",
+        0.0
+      ]
+    ]
+  },
+  "Hostilities escalated during this event following the execution of Orangeman Thomas Scott. The appointment of William McDougal was among the causes of this event, which led to the recognition of the territory of Assiniboia. The Wolseley Expedition was sent in the aftermath of this event, causing its leader to flee, and it was triggered when Rupert's Land was purchased from the (*) Hudson's Bay Company and an English-speaking governor was appointed to govern a region composed largely of French-speaking Metis. Led by a man who would later launch the North-West Rebellion against John MacDonald, Louis Riel, for 10 points, name this 1869 rebellion in Manitoba whose namesake waterway is also the name of the river separating Oklahoma and Texas.": {
+    "guess": "Red River Rebellion",
+    "confidence": [
+      [
+        "Red",
+        -0.0005174092
+      ],
+      [
+        " River",
+        0.0
+      ],
+      [
+        " Re",
+        0.0
+      ],
+      [
+        "bellion",
+        0.0
+      ]
+    ]
+  }
+}

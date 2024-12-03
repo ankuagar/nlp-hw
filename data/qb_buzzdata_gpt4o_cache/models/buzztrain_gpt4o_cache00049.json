@@ -1,0 +1,90 @@
+{
+  "As an adjective, it describes an \"uncle\" who is stern and reproving. People who are intoxicated are prime": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.13547134
+      ]
+    ]
+  },
+  "As an adjective, it describes an \"uncle\" who is stern and reproving. People who are intoxicated are prime examples of this kind of \"courage.\" It also describe the half-doors one can see in barns. For 10": {
+    "guess": "Dutch",
+    "confidence": [
+      [
+        "Dutch",
+        -0.0011803467
+      ]
+    ]
+  },
+  "As an adjective, it describes an \"uncle\" who is stern and reproving. People who are intoxicated are prime examples of this kind of \"courage.\" It also describe the half-doors one can see in barns. For 10 points\u2014what adjective also describes an \"auction\" in which bid prices drop and a \"treat\" in which": {
+    "guess": "Dutch",
+    "confidence": [
+      [
+        "Dutch",
+        -0.0020025114
+      ]
+    ]
+  },
+  "As an adjective, it describes an \"uncle\" who is stern and reproving. People who are intoxicated are prime examples of this kind of \"courage.\" It also describe the half-doors one can see in barns. For 10 points\u2014what adjective also describes an \"auction\" in which bid prices drop and a \"treat\" in which everyone pays his own share?": {
+    "guess": "Dutch",
+    "confidence": [
+      [
+        "Dutch",
+        -0.00047845521
+      ]
+    ]
+  },
+  "This adjective describes things that are appropriate for courts of law or for public discussion. It sometimes": {
+    "guess": "Forensic",
+    "confidence": [
+      [
+        "For",
+        -0.80961424
+      ],
+      [
+        "ensic",
+        -0.00010545045
+      ]
+    ]
+  },
+  "This adjective describes things that are appropriate for courts of law or for public discussion. It sometimes is used to describe scientific investigations used to establish evidence in a legal case, and": {
+    "guess": "Forensic",
+    "confidence": [
+      [
+        "For",
+        -0.005738698
+      ],
+      [
+        "ensic",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "This adjective describes things that are appropriate for courts of law or for public discussion. It sometimes is used to describe scientific investigations used to establish evidence in a legal case, and it can precede the words medicine or evidence. Give this term beginning with the letter F that, when": {
+    "guess": "Forensic",
+    "confidence": [
+      [
+        "For",
+        -0.0015702145
+      ],
+      [
+        "ensic",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "This adjective describes things that are appropriate for courts of law or for public discussion. It sometimes is used to describe scientific investigations used to establish evidence in a legal case, and it can precede the words medicine or evidence. Give this term beginning with the letter F that, when it has the letter s added on to it, refers to the art of speaking and debating.": {
+    "guess": "Forensic",
+    "confidence": [
+      [
+        "For",
+        -0.017583072
+      ],
+      [
+        "ensic",
+        -4.5848617e-05
+      ]
+    ]
+  }
+}

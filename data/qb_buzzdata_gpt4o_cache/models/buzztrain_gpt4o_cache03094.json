@@ -1,0 +1,138 @@
+{
+  "The IBEX probe, using energetic neutral atom imaging, has challenged the traditional idea of the shape": {
+    "guess": "Heliosphere",
+    "confidence": [
+      [
+        "Hel",
+        -0.0027174992
+      ],
+      [
+        "ios",
+        -0.011053359
+      ],
+      [
+        "phere",
+        -3.1424974e-05
+      ]
+    ]
+  },
+  "The IBEX probe, using energetic neutral atom imaging, has challenged the traditional idea of the shape of this space. The largest structure within it is the rippling current sheet, which can be modeled": {
+    "guess": "Heliosphere",
+    "confidence": [
+      [
+        "Hel",
+        -0.0029086543
+      ],
+      [
+        "ios",
+        -0.00023083435
+      ],
+      [
+        "phere",
+        -3.888926e-06
+      ]
+    ]
+  },
+  "The IBEX probe, using energetic neutral atom imaging, has challenged the traditional idea of the shape of this space. The largest structure within it is the rippling current sheet, which can be modeled by the Ballerina model, and is created by the changing magnetic field of the Sun. Within most of it,": {
+    "guess": "Heliosphere",
+    "confidence": [
+      [
+        "Hel",
+        -0.0073173195
+      ],
+      [
+        "ios",
+        -6.647085e-05
+      ],
+      [
+        "phere",
+        -7.89631e-07
+      ]
+    ]
+  },
+  "The IBEX probe, using energetic neutral atom imaging, has challenged the traditional idea of the shape of this space. The largest structure within it is the rippling current sheet, which can be modeled by the Ballerina model, and is created by the changing magnetic field of the Sun. Within most of it, the solar wind travels at supersonic speed and only slows to subsonic speeds, due to the balancing": {
+    "guess": "Heliosphere",
+    "confidence": [
+      [
+        "Hel",
+        -0.0025139505
+      ],
+      [
+        "ios",
+        -4.561021e-05
+      ],
+      [
+        "phere",
+        -3.2929079e-06
+      ]
+    ]
+  },
+  "The IBEX probe, using energetic neutral atom imaging, has challenged the traditional idea of the shape of this space. The largest structure within it is the rippling current sheet, which can be modeled by the Ballerina model, and is created by the changing magnetic field of the Sun. Within most of it, the solar wind travels at supersonic speed and only slows to subsonic speeds, due to the balancing of the solar wind with the pressure of the interstellar medium, at the termination shock. The Voyagers": {
+    "guess": "Heliosphere",
+    "confidence": [
+      [
+        "Hel",
+        -0.0007398231
+      ],
+      [
+        "ios",
+        -0.00015884268
+      ],
+      [
+        "phere",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The IBEX probe, using energetic neutral atom imaging, has challenged the traditional idea of the shape of this space. The largest structure within it is the rippling current sheet, which can be modeled by the Ballerina model, and is created by the changing magnetic field of the Sun. Within most of it, the solar wind travels at supersonic speed and only slows to subsonic speeds, due to the balancing of the solar wind with the pressure of the interstellar medium, at the termination shock. The Voyagers are both outside of the termination shock, but are both still inside the bow shock, where this space": {
+    "guess": "Heliosphere",
+    "confidence": [
+      [
+        "Hel",
+        -0.0011316438
+      ],
+      [
+        "ios",
+        -7.505351e-05
+      ],
+      [
+        "phere",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The IBEX probe, using energetic neutral atom imaging, has challenged the traditional idea of the shape of this space. The largest structure within it is the rippling current sheet, which can be modeled by the Ballerina model, and is created by the changing magnetic field of the Sun. Within most of it, the solar wind travels at supersonic speed and only slows to subsonic speeds, due to the balancing of the solar wind with the pressure of the interstellar medium, at the termination shock. The Voyagers are both outside of the termination shock, but are both still inside the bow shock, where this space ends. For ten points, what is this \"bubble\" in space defined by the boundary between the solar": {
+    "guess": "Heliosphere",
+    "confidence": [
+      [
+        "Hel",
+        -0.00011069541
+      ],
+      [
+        "ios",
+        -1.4378848e-05
+      ],
+      [
+        "phere",
+        0.0
+      ]
+    ]
+  },
+  "The IBEX probe, using energetic neutral atom imaging, has challenged the traditional idea of the shape of this space. The largest structure within it is the rippling current sheet, which can be modeled by the Ballerina model, and is created by the changing magnetic field of the Sun. Within most of it, the solar wind travels at supersonic speed and only slows to subsonic speeds, due to the balancing of the solar wind with the pressure of the interstellar medium, at the termination shock. The Voyagers are both outside of the termination shock, but are both still inside the bow shock, where this space ends. For ten points, what is this \"bubble\" in space defined by the boundary between the solar wind and interstellar medium?": {
+    "guess": "Heliosphere",
+    "confidence": [
+      [
+        "Hel",
+        -5.9153886e-06
+      ],
+      [
+        "ios",
+        -1.378283e-05
+      ],
+      [
+        "phere",
+        0.0
+      ]
+    ]
+  }
+}

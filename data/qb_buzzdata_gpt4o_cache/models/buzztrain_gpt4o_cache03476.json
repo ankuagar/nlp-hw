@@ -1,0 +1,85 @@
+{
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main": {
+    "guess": "Horn",
+    "confidence": [
+      [
+        "Horn",
+        -0.017977023
+      ]
+    ]
+  },
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main melody of the second movement of Tchaikovsky's Fifth Symphony is played on one of these instruments,": {
+    "guess": "Clarinet",
+    "confidence": [
+      [
+        "Clar",
+        -0.52397937
+      ],
+      [
+        "inet",
+        0.0
+      ]
+    ]
+  },
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main melody of the second movement of Tchaikovsky's Fifth Symphony is played on one of these instruments, while Benjamin Britten set poems such as Jonson's \"Hymn to Diana\" and Blake's \"The Sick Rose\" in his": {
+    "guess": "Horn",
+    "confidence": [
+      [
+        "Horn",
+        -0.22366558
+      ]
+    ]
+  },
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main melody of the second movement of Tchaikovsky's Fifth Symphony is played on one of these instruments, while Benjamin Britten set poems such as Jonson's \"Hymn to Diana\" and Blake's \"The Sick Rose\" in his Serenade for Tenor, this instrument, and Strings.  The titular hero of Strauss' Till Eulenspiegel's": {
+    "guess": "French horn",
+    "confidence": [
+      [
+        "French",
+        -0.116945826
+      ],
+      [
+        " horn",
+        -0.0008052219
+      ]
+    ]
+  },
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main melody of the second movement of Tchaikovsky's Fifth Symphony is played on one of these instruments, while Benjamin Britten set poems such as Jonson's \"Hymn to Diana\" and Blake's \"The Sick Rose\" in his Serenade for Tenor, this instrument, and Strings.  The titular hero of Strauss' Till Eulenspiegel's Merry Pranks is portrayed by one of these instruments, whose performers often put a fist in its bell": {
+    "guess": "French horn",
+    "confidence": [
+      [
+        "French",
+        -0.06254947
+      ],
+      [
+        " horn",
+        -0.0024763737
+      ]
+    ]
+  },
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main melody of the second movement of Tchaikovsky's Fifth Symphony is played on one of these instruments, while Benjamin Britten set poems such as Jonson's \"Hymn to Diana\" and Blake's \"The Sick Rose\" in his Serenade for Tenor, this instrument, and Strings.  The titular hero of Strauss' Till Eulenspiegel's Merry Pranks is portrayed by one of these instruments, whose performers often put a fist in its bell while playing. For 10 points, identify this brass instrument, three of which portray the wolf in": {
+    "guess": "French horn",
+    "confidence": [
+      [
+        "French",
+        -0.01228265
+      ],
+      [
+        " horn",
+        -0.0011703447
+      ]
+    ]
+  },
+  "J.S. Bach's first Brandenburg Concerto is only one in the set of six to use this instrument. The main melody of the second movement of Tchaikovsky's Fifth Symphony is played on one of these instruments, while Benjamin Britten set poems such as Jonson's \"Hymn to Diana\" and Blake's \"The Sick Rose\" in his Serenade for Tenor, this instrument, and Strings.  The titular hero of Strauss' Till Eulenspiegel's Merry Pranks is portrayed by one of these instruments, whose performers often put a fist in its bell while playing. For 10 points, identify this brass instrument, three of which portray the wolf in Peter and the Wolf, not to be confused with a similar \"English\" instrument.": {
+    "guess": "French horn",
+    "confidence": [
+      [
+        "French",
+        -0.007286554
+      ],
+      [
+        " horn",
+        -0.00055303273
+      ]
+    ]
+  }
+}

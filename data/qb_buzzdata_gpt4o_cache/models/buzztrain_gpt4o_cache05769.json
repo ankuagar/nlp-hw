@@ -1,0 +1,157 @@
+{
+  "The pace of this battle picked up after a French victory at nearby Saint Loup and concluded with a French": {
+    "guess": "Battle of Patay",
+    "confidence": [
+      [
+        "Battle",
+        -0.08903871
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " Pat",
+        -0.017942484
+      ],
+      [
+        "ay",
+        0.0
+      ]
+    ]
+  },
+  "The pace of this battle picked up after a French victory at nearby Saint Loup and concluded with a French victory at Les Tournelles. Before those events, much of the action involved a fortified bridge,": {
+    "guess": "Battle of Orl\u00e9ans",
+    "confidence": [
+      [
+        "Battle",
+        -0.56851035
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Or",
+        -0.6565851
+      ],
+      [
+        "l\u00e9",
+        -2.5583993e-05
+      ],
+      [
+        "ans",
+        0.0
+      ]
+    ]
+  },
+  "The pace of this battle picked up after a French victory at nearby Saint Loup and concluded with a French victory at Les Tournelles. Before those events, much of the action involved a fortified bridge, with the British leadership changing from the Earl of Salisbury to the Earl of Suffolk to the Earl": {
+    "guess": "Siege of Orleans",
+    "confidence": [
+      [
+        "Sie",
+        -0.01324623
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Orleans",
+        -0.20141363
+      ]
+    ]
+  },
+  "The pace of this battle picked up after a French victory at nearby Saint Loup and concluded with a French victory at Les Tournelles. Before those events, much of the action involved a fortified bridge, with the British leadership changing from the Earl of Salisbury to the Earl of Suffolk to the Earl of Shrewsbury. The French victory would have been even stronger, but they did not want to rout retreating": {
+    "guess": "Battle of Orl\u00e9ans",
+    "confidence": [
+      [
+        "Battle",
+        -0.2614818
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Or",
+        -0.39370072
+      ],
+      [
+        "l\u00e9",
+        -1.3856493e-06
+      ],
+      [
+        "ans",
+        0.0
+      ]
+    ]
+  },
+  "The pace of this battle picked up after a French victory at nearby Saint Loup and concluded with a French victory at Les Tournelles. Before those events, much of the action involved a fortified bridge, with the British leadership changing from the Earl of Salisbury to the Earl of Suffolk to the Earl of Shrewsbury. The French victory would have been even stronger, but they did not want to rout retreating troops on the Sabbath. This battle, which took place by the Loire River, halted English momentum": {
+    "guess": "Battle of Patay",
+    "confidence": [
+      [
+        "Battle",
+        -0.0046144226
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " Pat",
+        -0.133347
+      ],
+      [
+        "ay",
+        0.0
+      ]
+    ]
+  },
+  "The pace of this battle picked up after a French victory at nearby Saint Loup and concluded with a French victory at Les Tournelles. Before those events, much of the action involved a fortified bridge, with the British leadership changing from the Earl of Salisbury to the Earl of Suffolk to the Earl of Shrewsbury. The French victory would have been even stronger, but they did not want to rout retreating troops on the Sabbath. This battle, which took place by the Loire River, halted English momentum and ended a long siege during the Hundred Years War, supporting the reign of Charles VII. Name this": {
+    "guess": "Siege of Orl\u00e9ans",
+    "confidence": [
+      [
+        "Sie",
+        -0.8394582
+      ],
+      [
+        "ge",
+        0.0
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " Or",
+        -0.011047815
+      ],
+      [
+        "l\u00e9",
+        -3.1281633e-07
+      ],
+      [
+        "ans",
+        0.0
+      ]
+    ]
+  },
+  "The pace of this battle picked up after a French victory at nearby Saint Loup and concluded with a French victory at Les Tournelles. Before those events, much of the action involved a fortified bridge, with the British leadership changing from the Earl of Salisbury to the Earl of Suffolk to the Earl of Shrewsbury. The French victory would have been even stronger, but they did not want to rout retreating troops on the Sabbath. This battle, which took place by the Loire River, halted English momentum and ended a long siege during the Hundred Years War, supporting the reign of Charles VII. Name this 1429 battle whose hero was Joan of Arc.": {
+    "guess": "Orleans",
+    "confidence": [
+      [
+        "Or",
+        -0.88696355
+      ],
+      [
+        "leans",
+        -0.16022503
+      ]
+    ]
+  }
+}

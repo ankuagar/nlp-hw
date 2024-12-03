@@ -1,0 +1,291 @@
+{
+  "With Lebesgue, this man's name denotes a lemma which states that if a function oscillates rapidly about": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5848057
+      ]
+    ]
+  },
+  "With Lebesgue, this man's name denotes a lemma which states that if a function oscillates rapidly about zero, its integral will be small.  With Cauchy, his name describes a set of equations necessary for": {
+    "guess": "Riemann",
+    "confidence": [
+      [
+        "R",
+        -0.13248962
+      ],
+      [
+        "iem",
+        -1.0206721e-05
+      ],
+      [
+        "ann",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "With Lebesgue, this man's name denotes a lemma which states that if a function oscillates rapidly about zero, its integral will be small.  With Cauchy, his name describes a set of equations necessary for a complex function to be holomorphic, and his namesake surface is a one-dimensional complex manifold.": {
+    "guess": "Henri Lebesgue",
+    "confidence": [
+      [
+        "Hen",
+        -0.15422805
+      ],
+      [
+        "ri",
+        0.0
+      ],
+      [
+        " Leb",
+        -0.1513298
+      ],
+      [
+        "es",
+        -1.2664457e-06
+      ],
+      [
+        "gue",
+        0.0
+      ]
+    ]
+  },
+  "With Lebesgue, this man's name denotes a lemma which states that if a function oscillates rapidly about zero, its integral will be small.  With Cauchy, his name describes a set of equations necessary for a complex function to be holomorphic, and his namesake surface is a one-dimensional complex manifold.  This man may be most famous for formulating one of the most well known unsolved problems in mathematics": {
+    "guess": "Riemann hypothesis",
+    "confidence": [
+      [
+        "R",
+        -0.13032803
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        "ann",
+        0.0
+      ],
+      [
+        " hypothesis",
+        -0.4276071
+      ]
+    ]
+  },
+  "With Lebesgue, this man's name denotes a lemma which states that if a function oscillates rapidly about zero, its integral will be small.  With Cauchy, his name describes a set of equations necessary for a complex function to be holomorphic, and his namesake surface is a one-dimensional complex manifold.  This man may be most famous for formulating one of the most well known unsolved problems in mathematics -  whether the real part of any nontrivial zero of his eponymous zeta function has real part": {
+    "guess": "Riemann hypothesis",
+    "confidence": [
+      [
+        "R",
+        -0.004883858
+      ],
+      [
+        "iem",
+        -1.9361265e-07
+      ],
+      [
+        "ann",
+        0.0
+      ],
+      [
+        " hypothesis",
+        -0.013144468
+      ]
+    ]
+  },
+  "With Lebesgue, this man's name denotes a lemma which states that if a function oscillates rapidly about zero, its integral will be small.  With Cauchy, his name describes a set of equations necessary for a complex function to be holomorphic, and his namesake surface is a one-dimensional complex manifold.  This man may be most famous for formulating one of the most well known unsolved problems in mathematics -  whether the real part of any nontrivial zero of his eponymous zeta function has real part one-half. FTP, name this German mathematician whose namesake sums also approach his namesake integral.": {
+    "guess": "Riemann hypothesis",
+    "confidence": [
+      [
+        "R",
+        -0.0102130845
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        "ann",
+        -3.1281633e-07
+      ],
+      [
+        " hypothesis",
+        -0.23647086
+      ]
+    ]
+  },
+  "Lebniz discussed this man's views in \"Conversation of Philarete and Ariste\" while Hume's \"Of the Idea": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.146644
+      ]
+    ]
+  },
+  "Lebniz discussed this man's views in \"Conversation of Philarete and Ariste\" while Hume's \"Of the Idea of Necessary Connection\" framed its discussion of causality with his arguments in mind. In his own": {
+    "guess": "Malebranche",
+    "confidence": [
+      [
+        "Mal",
+        -0.8617106
+      ],
+      [
+        "eb",
+        -2.3438328e-05
+      ],
+      [
+        "ran",
+        -1.9361265e-07
+      ],
+      [
+        "che",
+        0.0
+      ]
+    ]
+  },
+  "Lebniz discussed this man's views in \"Conversation of Philarete and Ariste\" while Hume's \"Of the Idea of Necessary Connection\" framed its discussion of causality with his arguments in mind. In his own time the criticism of Antoine Arnauld led him to pen Principles of Nature and Grace, about the nature": {
+    "guess": "Nicolas Malebranche",
+    "confidence": [
+      [
+        "N",
+        -0.06896523
+      ],
+      [
+        "icolas",
+        0.0
+      ],
+      [
+        " Mal",
+        0.0
+      ],
+      [
+        "eb",
+        0.0
+      ],
+      [
+        "ran",
+        0.0
+      ],
+      [
+        "che",
+        0.0
+      ]
+    ]
+  },
+  "Lebniz discussed this man's views in \"Conversation of Philarete and Ariste\" while Hume's \"Of the Idea of Necessary Connection\" framed its discussion of causality with his arguments in mind. In his own time the criticism of Antoine Arnauld led him to pen Principles of Nature and Grace, about the nature of evil. But it was a chance reading of \"Treatise on Man\" that led him to write such works as Christian": {
+    "guess": "Nicolas Malebranche",
+    "confidence": [
+      [
+        "N",
+        -0.09399679
+      ],
+      [
+        "icolas",
+        0.0
+      ],
+      [
+        " Mal",
+        0.0
+      ],
+      [
+        "eb",
+        0.0
+      ],
+      [
+        "ran",
+        0.0
+      ],
+      [
+        "che",
+        0.0
+      ]
+    ]
+  },
+  "Lebniz discussed this man's views in \"Conversation of Philarete and Ariste\" while Hume's \"Of the Idea of Necessary Connection\" framed its discussion of causality with his arguments in mind. In his own time the criticism of Antoine Arnauld led him to pen Principles of Nature and Grace, about the nature of evil. But it was a chance reading of \"Treatise on Man\" that led him to write such works as Christian Meditations and Dialogues on Metaphysics and Religion, in which he argued that human knowledge": {
+    "guess": "Nicolas Malebranche",
+    "confidence": [
+      [
+        "N",
+        -0.017066397
+      ],
+      [
+        "icolas",
+        0.0
+      ],
+      [
+        " Mal",
+        0.0
+      ],
+      [
+        "eb",
+        0.0
+      ],
+      [
+        "ran",
+        0.0
+      ],
+      [
+        "che",
+        0.0
+      ]
+    ]
+  },
+  "Lebniz discussed this man's views in \"Conversation of Philarete and Ariste\" while Hume's \"Of the Idea of Necessary Connection\" framed its discussion of causality with his arguments in mind. In his own time the criticism of Antoine Arnauld led him to pen Principles of Nature and Grace, about the nature of evil. But it was a chance reading of \"Treatise on Man\" that led him to write such works as Christian Meditations and Dialogues on Metaphysics and Religion, in which he argued that human knowledge is impossible without a relationship to God. FTP, identify this French Cartesian philosopher best known": {
+    "guess": "Nicolas Malebranche",
+    "confidence": [
+      [
+        "N",
+        -0.016730126
+      ],
+      [
+        "icolas",
+        0.0
+      ],
+      [
+        " Mal",
+        0.0
+      ],
+      [
+        "eb",
+        0.0
+      ],
+      [
+        "ran",
+        0.0
+      ],
+      [
+        "che",
+        0.0
+      ]
+    ]
+  },
+  "Lebniz discussed this man's views in \"Conversation of Philarete and Ariste\" while Hume's \"Of the Idea of Necessary Connection\" framed its discussion of causality with his arguments in mind. In his own time the criticism of Antoine Arnauld led him to pen Principles of Nature and Grace, about the nature of evil. But it was a chance reading of \"Treatise on Man\" that led him to write such works as Christian Meditations and Dialogues on Metaphysics and Religion, in which he argued that human knowledge is impossible without a relationship to God. FTP, identify this French Cartesian philosopher best known for The Search After Truth and his philosophy of occasionalism.": {
+    "guess": "Nicolas Malebranche",
+    "confidence": [
+      [
+        "N",
+        -0.015298665
+      ],
+      [
+        "icolas",
+        0.0
+      ],
+      [
+        " Mal",
+        0.0
+      ],
+      [
+        "eb",
+        0.0
+      ],
+      [
+        "ran",
+        0.0
+      ],
+      [
+        "che",
+        0.0
+      ]
+    ]
+  }
+}

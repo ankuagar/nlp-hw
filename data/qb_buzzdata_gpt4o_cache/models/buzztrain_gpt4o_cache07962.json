@@ -1,0 +1,749 @@
+{
+  "Using Beveridge-Nelson or Hodrick-Prescott decomposition, it can be applied to business cycles. Due to": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.8339599
+      ]
+    ]
+  },
+  "Using Beveridge-Nelson or Hodrick-Prescott decomposition, it can be applied to business cycles. Due to its static nature and lack of causality, it is often replaced by the more dynamic model of Martin": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.12640886
+      ]
+    ]
+  },
+  "Using Beveridge-Nelson or Hodrick-Prescott decomposition, it can be applied to business cycles. Due to its static nature and lack of causality, it is often replaced by the more dynamic model of Martin Zagler. Other variations on it include a Vector Autoregression approach by Blanchard, and one which": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.76808006
+      ]
+    ]
+  },
+  "Using Beveridge-Nelson or Hodrick-Prescott decomposition, it can be applied to business cycles. Due to its static nature and lack of causality, it is often replaced by the more dynamic model of Martin Zagler. Other variations on it include a Vector Autoregression approach by Blanchard, and one which included expectational variables by Milton Friedman, who has also related it to the Philips Curve. It": {
+    "guess": "IS-LM model",
+    "confidence": [
+      [
+        "IS",
+        -0.3002172
+      ],
+      [
+        "-L",
+        -0.05234571
+      ],
+      [
+        "M",
+        0.0
+      ],
+      [
+        " model",
+        -0.002836015
+      ]
+    ]
+  },
+  "Using Beveridge-Nelson or Hodrick-Prescott decomposition, it can be applied to business cycles. Due to its static nature and lack of causality, it is often replaced by the more dynamic model of Martin Zagler. Other variations on it include a Vector Autoregression approach by Blanchard, and one which included expectational variables by Milton Friedman, who has also related it to the Philips Curve. It implies that an increase in labor productivity will cause \"jobless growth,\" and according to its formulator": {
+    "guess": "Okun's law",
+    "confidence": [
+      [
+        "Ok",
+        -0.5552437
+      ],
+      [
+        "un",
+        -9.0883464e-07
+      ],
+      [
+        "'s",
+        -8.4947416e-05
+      ],
+      [
+        " law",
+        -0.2254128
+      ]
+    ]
+  },
+  "Using Beveridge-Nelson or Hodrick-Prescott decomposition, it can be applied to business cycles. Due to its static nature and lack of causality, it is often replaced by the more dynamic model of Martin Zagler. Other variations on it include a Vector Autoregression approach by Blanchard, and one which included expectational variables by Milton Friedman, who has also related it to the Philips Curve. It implies that an increase in labor productivity will cause \"jobless growth,\" and according to its formulator its factor \"a\" is approximately .3.  FTP, identify this economic law that describes the relationship": {
+    "guess": "Okun's law",
+    "confidence": [
+      [
+        "Ok",
+        -0.0015217646
+      ],
+      [
+        "un",
+        -1.9361265e-07
+      ],
+      [
+        "'s",
+        -4.012684e-05
+      ],
+      [
+        " law",
+        -0.42870083
+      ]
+    ]
+  },
+  "Using Beveridge-Nelson or Hodrick-Prescott decomposition, it can be applied to business cycles. Due to its static nature and lack of causality, it is often replaced by the more dynamic model of Martin Zagler. Other variations on it include a Vector Autoregression approach by Blanchard, and one which included expectational variables by Milton Friedman, who has also related it to the Philips Curve. It implies that an increase in labor productivity will cause \"jobless growth,\" and according to its formulator its factor \"a\" is approximately .3.  FTP, identify this economic law that describes the relationship between unemployment and the GNP gap, named for an American economist whose first name is": {
+    "guess": "Okun's Law",
+    "confidence": [
+      [
+        "Ok",
+        -2.2007884e-05
+      ],
+      [
+        "un",
+        0.0
+      ],
+      [
+        "'s",
+        -0.0004326957
+      ],
+      [
+        " Law",
+        -0.06196802
+      ]
+    ]
+  },
+  "Using Beveridge-Nelson or Hodrick-Prescott decomposition, it can be applied to business cycles. Due to its static nature and lack of causality, it is often replaced by the more dynamic model of Martin Zagler. Other variations on it include a Vector Autoregression approach by Blanchard, and one which included expectational variables by Milton Friedman, who has also related it to the Philips Curve. It implies that an increase in labor productivity will cause \"jobless growth,\" and according to its formulator its factor \"a\" is approximately .3.  FTP, identify this economic law that describes the relationship between unemployment and the GNP gap, named for an American economist whose first name is Arthur.": {
+    "guess": "Okun's Law",
+    "confidence": [
+      [
+        "Ok",
+        -2.220075e-06
+      ],
+      [
+        "un",
+        0.0
+      ],
+      [
+        "'s",
+        -6.6113236e-05
+      ],
+      [
+        " Law",
+        -0.05488228
+      ]
+    ]
+  },
+  "Using the Kinetic Isotope effect, this process was shown to catalyze hydrogen transfer by the ADH enzyme.": {
+    "guess": "Alcohol dehydrogenase",
+    "confidence": [
+      [
+        "Alcohol",
+        -0.84069496
+      ],
+      [
+        " de",
+        -0.0010911622
+      ],
+      [
+        "hyd",
+        -1.9361265e-07
+      ],
+      [
+        "rogen",
+        0.0
+      ],
+      [
+        "ase",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Using the Kinetic Isotope effect, this process was shown to catalyze hydrogen transfer by the ADH enzyme. This phenomenon is the basis of Esaki diodes, and the resonant form of it requires electrons to": {
+    "guess": "Quantum tunnelling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.057295673
+      ],
+      [
+        " tunn",
+        -0.000418637
+      ],
+      [
+        "elling",
+        -0.020541888
+      ]
+    ]
+  },
+  "Using the Kinetic Isotope effect, this process was shown to catalyze hydrogen transfer by the ADH enzyme. This phenomenon is the basis of Esaki diodes, and the resonant form of it requires electrons to have discrete energies. This phenomenon can also be observed when a Cooper Pair flows from between": {
+    "guess": "Josephson effect",
+    "confidence": [
+      [
+        "Joseph",
+        -0.4056294
+      ],
+      [
+        "son",
+        0.0
+      ],
+      [
+        " effect",
+        -0.002909012
+      ]
+    ]
+  },
+  "Using the Kinetic Isotope effect, this process was shown to catalyze hydrogen transfer by the ADH enzyme. This phenomenon is the basis of Esaki diodes, and the resonant form of it requires electrons to have discrete energies. This phenomenon can also be observed when a Cooper Pair flows from between superconductors across an insulating material in the Josephson effect. For 10 points, identify this": {
+    "guess": "Quantum tunnelling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.00058484543
+      ],
+      [
+        " tunn",
+        -8.061054e-06
+      ],
+      [
+        "elling",
+        -0.0040784013
+      ]
+    ]
+  },
+  "Using the Kinetic Isotope effect, this process was shown to catalyze hydrogen transfer by the ADH enzyme. This phenomenon is the basis of Esaki diodes, and the resonant form of it requires electrons to have discrete energies. This phenomenon can also be observed when a Cooper Pair flows from between superconductors across an insulating material in the Josephson effect. For 10 points, identify this process where a particles passes through a potential barrier, used in some scanning microscopes.": {
+    "guess": "Quantum tunnelling",
+    "confidence": [
+      [
+        "Quantum",
+        -0.00030138093
+      ],
+      [
+        " tunn",
+        -2.7729659e-05
+      ],
+      [
+        "elling",
+        -0.011047815
+      ]
+    ]
+  },
+  "While using this program, Ernie and Nickie Lunsford declared that they would never buy a home  computer.": {
+    "guess": "The answer is: Microsoft Bob",
+    "confidence": [
+      [
+        "The",
+        -1.334804
+      ],
+      [
+        " answer",
+        -0.41282934
+      ],
+      [
+        " is",
+        -0.0027287903
+      ],
+      [
+        ":",
+        -0.0038441364
+      ],
+      [
+        " Microsoft",
+        -1.024081
+      ],
+      [
+        " Bob",
+        -0.206219
+      ]
+    ]
+  },
+  "While using this program, Ernie and Nickie Lunsford declared that they would never buy a home  computer. It is known that at least the first version of this program would quote Kahlil Gibran during  execution.": {
+    "guess": "Eliza (computer program)",
+    "confidence": [
+      [
+        "El",
+        -0.6987215
+      ],
+      [
+        "iza",
+        -8.776276e-06
+      ],
+      [
+        " (",
+        -0.03814248
+      ],
+      [
+        "computer",
+        -0.04564235
+      ],
+      [
+        " program",
+        -0.0024499693
+      ],
+      [
+        ")",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "While using this program, Ernie and Nickie Lunsford declared that they would never buy a home  computer. It is known that at least the first version of this program would quote Kahlil Gibran during  execution. This program was implemented by M.E. Cavanaugh. Its creator made a deal with Axlon to  broadcast": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.4471161
+      ]
+    ]
+  },
+  "While using this program, Ernie and Nickie Lunsford declared that they would never buy a home  computer. It is known that at least the first version of this program would quote Kahlil Gibran during  execution. This program was implemented by M.E. Cavanaugh. Its creator made a deal with Axlon to  broadcast the results of this program to remote TV screens. This was the brainchild of Ron Jaenisch, who": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.1877843
+      ]
+    ]
+  },
+  "While using this program, Ernie and Nickie Lunsford declared that they would never buy a home  computer. It is known that at least the first version of this program would quote Kahlil Gibran during  execution. This program was implemented by M.E. Cavanaugh. Its creator made a deal with Axlon to  broadcast the results of this program to remote TV screens. This was the brainchild of Ron Jaenisch, who  suggested this program might move his organization from being viewed as the draft dodge church to": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.17830001
+      ]
+    ]
+  },
+  "While using this program, Ernie and Nickie Lunsford declared that they would never buy a home  computer. It is known that at least the first version of this program would quote Kahlil Gibran during  execution. This program was implemented by M.E. Cavanaugh. Its creator made a deal with Axlon to  broadcast the results of this program to remote TV screens. This was the brainchild of Ron Jaenisch, who  suggested this program might move his organization from being viewed as the draft dodge church to the high  tech church. The second edition of this program worked over the the telephone and used a second": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.068993375
+      ]
+    ]
+  },
+  "While using this program, Ernie and Nickie Lunsford declared that they would never buy a home  computer. It is known that at least the first version of this program would quote Kahlil Gibran during  execution. This program was implemented by M.E. Cavanaugh. Its creator made a deal with Axlon to  broadcast the results of this program to remote TV screens. This was the brainchild of Ron Jaenisch, who  suggested this program might move his organization from being viewed as the draft dodge church to the high  tech church. The second edition of this program worked over the the telephone and used a second computer  to play music from Lohengrin. This program instructs users to \"please place the rings": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.17015968
+      ]
+    ]
+  },
+  "While using this program, Ernie and Nickie Lunsford declared that they would never buy a home  computer. It is known that at least the first version of this program would quote Kahlil Gibran during  execution. This program was implemented by M.E. Cavanaugh. Its creator made a deal with Axlon to  broadcast the results of this program to remote TV screens. This was the brainchild of Ron Jaenisch, who  suggested this program might move his organization from being viewed as the draft dodge church to the high  tech church. The second edition of this program worked over the the telephone and used a second computer  to play music from Lohengrin. This program instructs users to \"please place the rings on top of my console.'' For  10 points, name this electronic minister created by the Universal Life": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.27743262
+      ]
+    ]
+  },
+  "While using this program, Ernie and Nickie Lunsford declared that they would never buy a home  computer. It is known that at least the first version of this program would quote Kahlil Gibran during  execution. This program was implemented by M.E. Cavanaugh. Its creator made a deal with Axlon to  broadcast the results of this program to remote TV screens. This was the brainchild of Ron Jaenisch, who  suggested this program might move his organization from being viewed as the draft dodge church to the high  tech church. The second edition of this program worked over the the telephone and used a second computer  to play music from Lohengrin. This program instructs users to \"please place the rings on top of my console.'' For  10 points, name this electronic minister created by the Universal Life Church in the 1980s for officiating weddings.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.3139448
+      ]
+    ]
+  },
+  "Using gold instead of more common dopants in these devices results in minority carrier suppression, lowering": {
+    "guess": "Semiconductor Devices",
+    "confidence": [
+      [
+        "Sem",
+        -0.25185412
+      ],
+      [
+        "iconductor",
+        -0.0067156097
+      ],
+      [
+        " Devices",
+        -0.9911222
+      ]
+    ]
+  },
+  "Using gold instead of more common dopants in these devices results in minority carrier suppression, lowering capacitance and enabling them to operate in high-frequency regimes. In the Gunn type, the formation": {
+    "guess": "Gunn diode",
+    "confidence": [
+      [
+        "G",
+        -0.53093004
+      ],
+      [
+        "unn",
+        0.0
+      ],
+      [
+        " diode",
+        -0.08513949
+      ]
+    ]
+  },
+  "Using gold instead of more common dopants in these devices results in minority carrier suppression, lowering capacitance and enabling them to operate in high-frequency regimes. In the Gunn type, the formation of dipole domains allows for the building of high-frequency microwave oscillators, and the Esaki": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.026281372
+      ],
+      [
+        "ode",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "Using gold instead of more common dopants in these devices results in minority carrier suppression, lowering capacitance and enabling them to operate in high-frequency regimes. In the Gunn type, the formation of dipole domains allows for the building of high-frequency microwave oscillators, and the Esaki type exhibit regions of operation with negative resistance due to quantum tunneling. Ideal ones": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.19847855
+      ],
+      [
+        "ode",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "Using gold instead of more common dopants in these devices results in minority carrier suppression, lowering capacitance and enabling them to operate in high-frequency regimes. In the Gunn type, the formation of dipole domains allows for the building of high-frequency microwave oscillators, and the Esaki type exhibit regions of operation with negative resistance due to quantum tunneling. Ideal ones are described by the Shockley equation, which gives the current flowing through one as an exponential": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.02855295
+      ],
+      [
+        "ode",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Using gold instead of more common dopants in these devices results in minority carrier suppression, lowering capacitance and enabling them to operate in high-frequency regimes. In the Gunn type, the formation of dipole domains allows for the building of high-frequency microwave oscillators, and the Esaki type exhibit regions of operation with negative resistance due to quantum tunneling. Ideal ones are described by the Shockley equation, which gives the current flowing through one as an exponential function of the bias current, and avalanche ones work by causing a wave of ionization at a well-": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.0149471285
+      ],
+      [
+        "ode",
+        -1.2664457e-06
+      ]
+    ]
+  },
+  "Using gold instead of more common dopants in these devices results in minority carrier suppression, lowering capacitance and enabling them to operate in high-frequency regimes. In the Gunn type, the formation of dipole domains allows for the building of high-frequency microwave oscillators, and the Esaki type exhibit regions of operation with negative resistance due to quantum tunneling. Ideal ones are described by the Shockley equation, which gives the current flowing through one as an exponential function of the bias current, and avalanche ones work by causing a wave of ionization at a well- defined current. Also existing in Zener and Schottky forms, FTP, identify these circuit elements formed": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.016114604
+      ],
+      [
+        "ode",
+        -5.4385737e-06
+      ]
+    ]
+  },
+  "Using gold instead of more common dopants in these devices results in minority carrier suppression, lowering capacitance and enabling them to operate in high-frequency regimes. In the Gunn type, the formation of dipole domains allows for the building of high-frequency microwave oscillators, and the Esaki type exhibit regions of operation with negative resistance due to quantum tunneling. Ideal ones are described by the Shockley equation, which gives the current flowing through one as an exponential function of the bias current, and avalanche ones work by causing a wave of ionization at a well- defined current. Also existing in Zener and Schottky forms, FTP, identify these circuit elements formed from a single PN junction and best known in their light-emitting incarnations.": {
+    "guess": "Diode",
+    "confidence": [
+      [
+        "Di",
+        -0.006758237
+      ],
+      [
+        "ode",
+        -1.0206721e-05
+      ]
+    ]
+  },
+  "Using the equation (a+b^n)/n = x [a plus b to the n, all over n, equals x], Euler [OI-ler] showed Diderot": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.10972584
+      ]
+    ]
+  },
+  "Using the equation (a+b^n)/n = x [a plus b to the n, all over n, equals x], Euler [OI-ler] showed Diderot that this existed during a debate at the court of Catherine the Great. In the previous century,": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.36882645
+      ]
+    ]
+  },
+  "Using the equation (a+b^n)/n = x [a plus b to the n, all over n, equals x], Euler [OI-ler] showed Diderot that this existed during a debate at the court of Catherine the Great. In the previous century, Pascal used game theory to conclude that it is optimal to assume this exists. For 10 points, what tautologically": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.7102554
+      ]
+    ]
+  },
+  "Using the equation (a+b^n)/n = x [a plus b to the n, all over n, equals x], Euler [OI-ler] showed Diderot that this existed during a debate at the court of Catherine the Great. In the previous century, Pascal used game theory to conclude that it is optimal to assume this exists. For 10 points, what tautologically defines itself as being \"I am what I am\" in the book of Exodus?": {
+    "guess": "God",
+    "confidence": [
+      [
+        "God",
+        -0.04715521
+      ]
+    ]
+  },
+  "By using this substance as a mask, Tour et al. discovered a method for creating graphene nanoribbons": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.06325751
+      ]
+    ]
+  },
+  "By using this substance as a mask, Tour et al. discovered a method for creating graphene nanoribbons called meniscus-mask lithography. This substance has a resistivity of 18.2 million ohm-centimeters.": {
+    "guess": "Polydimethylsiloxane",
+    "confidence": [
+      [
+        "Pol",
+        -0.54377985
+      ],
+      [
+        "yd",
+        -0.03040787
+      ],
+      [
+        "im",
+        -7.465036e-06
+      ],
+      [
+        "ethyl",
+        -2.6968896e-06
+      ],
+      [
+        "sil",
+        -3.1281633e-07
+      ],
+      [
+        "ox",
+        -5.5122365e-07
+      ],
+      [
+        "ane",
+        0.0
+      ]
+    ]
+  },
+  "By using this substance as a mask, Tour et al. discovered a method for creating graphene nanoribbons called meniscus-mask lithography. This substance has a resistivity of 18.2 million ohm-centimeters. In molecular biology, this substance is often treated with D-E-P-C to inactivate nucleases. The region": {
+    "guess": "Water",
+    "confidence": [
+      [
+        "Water",
+        -0.7872391
+      ]
+    ]
+  },
+  "By using this substance as a mask, Tour et al. discovered a method for creating graphene nanoribbons called meniscus-mask lithography. This substance has a resistivity of 18.2 million ohm-centimeters. In molecular biology, this substance is often treated with D-E-P-C to inactivate nucleases. The region of stability of this substance is marked out using green lines in a Pourbaix (poor-BAY) diagram.": {
+    "guess": "Water",
+    "confidence": [
+      [
+        "Water",
+        -0.6573221
+      ]
+    ]
+  },
+  "By using this substance as a mask, Tour et al. discovered a method for creating graphene nanoribbons called meniscus-mask lithography. This substance has a resistivity of 18.2 million ohm-centimeters. In molecular biology, this substance is often treated with D-E-P-C to inactivate nucleases. The region of stability of this substance is marked out using green lines in a Pourbaix (poor-BAY) diagram. So-called \"wires\" of this substance are able to traverse cell (*) membranes. The aforementioned resistivity": {
+    "guess": "Deionized water",
+    "confidence": [
+      [
+        "De",
+        -1.1866521
+      ],
+      [
+        "ion",
+        -3.1281633e-07
+      ],
+      [
+        "ized",
+        0.0
+      ],
+      [
+        " water",
+        -0.08895583
+      ]
+    ]
+  },
+  "By using this substance as a mask, Tour et al. discovered a method for creating graphene nanoribbons called meniscus-mask lithography. This substance has a resistivity of 18.2 million ohm-centimeters. In molecular biology, this substance is often treated with D-E-P-C to inactivate nucleases. The region of stability of this substance is marked out using green lines in a Pourbaix (poor-BAY) diagram. So-called \"wires\" of this substance are able to traverse cell (*) membranes. The aforementioned resistivity of this substance is displayed on lab-scale Milli Q machines for dispensing the deionized form": {
+    "guess": "Water",
+    "confidence": [
+      [
+        "Water",
+        -0.53470373
+      ]
+    ]
+  },
+  "By using this substance as a mask, Tour et al. discovered a method for creating graphene nanoribbons called meniscus-mask lithography. This substance has a resistivity of 18.2 million ohm-centimeters. In molecular biology, this substance is often treated with D-E-P-C to inactivate nucleases. The region of stability of this substance is marked out using green lines in a Pourbaix (poor-BAY) diagram. So-called \"wires\" of this substance are able to traverse cell (*) membranes. The aforementioned resistivity of this substance is displayed on lab-scale Milli Q machines for dispensing the deionized form of this substance. This substance has its maximum density at 4 degrees Celsius, and through extensive": {
+    "guess": "Water",
+    "confidence": [
+      [
+        "Water",
+        -0.079488374
+      ]
+    ]
+  },
+  "By using this substance as a mask, Tour et al. discovered a method for creating graphene nanoribbons called meniscus-mask lithography. This substance has a resistivity of 18.2 million ohm-centimeters. In molecular biology, this substance is often treated with D-E-P-C to inactivate nucleases. The region of stability of this substance is marked out using green lines in a Pourbaix (poor-BAY) diagram. So-called \"wires\" of this substance are able to traverse cell (*) membranes. The aforementioned resistivity of this substance is displayed on lab-scale Milli Q machines for dispensing the deionized form of this substance. This substance has its maximum density at 4 degrees Celsius, and through extensive hydrogen bonding its boiling point is raised to 100 C. For 10 points, name this universal solvent,": {
+    "guess": "Water",
+    "confidence": [
+      [
+        "Water",
+        -0.0062904176
+      ]
+    ]
+  },
+  "By using this substance as a mask, Tour et al. discovered a method for creating graphene nanoribbons called meniscus-mask lithography. This substance has a resistivity of 18.2 million ohm-centimeters. In molecular biology, this substance is often treated with D-E-P-C to inactivate nucleases. The region of stability of this substance is marked out using green lines in a Pourbaix (poor-BAY) diagram. So-called \"wires\" of this substance are able to traverse cell (*) membranes. The aforementioned resistivity of this substance is displayed on lab-scale Milli Q machines for dispensing the deionized form of this substance. This substance has its maximum density at 4 degrees Celsius, and through extensive hydrogen bonding its boiling point is raised to 100 C. For 10 points, name this universal solvent, with formula H2O.": {
+    "guess": "Water",
+    "confidence": [
+      [
+        "Water",
+        -0.0020052458
+      ]
+    ]
+  },
+  "Using the C2C12 mybolast line, it was established that Q\u0095Sulf\u00951's 6-O-endosulfatase activity is responsible": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.1525073
+      ]
+    ]
+  },
+  "Using the C2C12 mybolast line, it was established that Q\u0095Sulf\u00951's 6-O-endosulfatase activity is responsible for the decreased binding activity between these proteins and heparan sulfate proteoglycans.": {
+    "guess": "Wnt proteins",
+    "confidence": [
+      [
+        "W",
+        -0.21731322
+      ],
+      [
+        "nt",
+        -1.640531e-05
+      ],
+      [
+        " proteins",
+        -0.009935873
+      ]
+    ]
+  },
+  "Using the C2C12 mybolast line, it was established that Q\u0095Sulf\u00951's 6-O-endosulfatase activity is responsible for the decreased binding activity between these proteins and heparan sulfate proteoglycans. Important inhibitors of these proteins include Cerebrus, SFRPs (\"s-FRIPs\"), and Dkk (\"D-k-k\") proteins.": {
+    "guess": "Wnt proteins",
+    "confidence": [
+      [
+        "W",
+        -0.0052490565
+      ],
+      [
+        "nt",
+        -7.89631e-07
+      ],
+      [
+        " proteins",
+        -0.38699752
+      ]
+    ]
+  },
+  "Using the C2C12 mybolast line, it was established that Q\u0095Sulf\u00951's 6-O-endosulfatase activity is responsible for the decreased binding activity between these proteins and heparan sulfate proteoglycans. Important inhibitors of these proteins include Cerebrus, SFRPs (\"s-FRIPs\"), and Dkk (\"D-k-k\") proteins. They bind to a receptor complex containing the LRP5/6 protein to disrupt the APC/Axin/GSK3 complex": {
+    "guess": "Wnt signaling pathway",
+    "confidence": [
+      [
+        "W",
+        -0.024952564
+      ],
+      [
+        "nt",
+        -1.147242e-06
+      ],
+      [
+        " signaling",
+        -0.018335124
+      ],
+      [
+        " pathway",
+        -1.50940705e-05
+      ]
+    ]
+  },
+  "Using the C2C12 mybolast line, it was established that Q\u0095Sulf\u00951's 6-O-endosulfatase activity is responsible for the decreased binding activity between these proteins and heparan sulfate proteoglycans. Important inhibitors of these proteins include Cerebrus, SFRPs (\"s-FRIPs\"), and Dkk (\"D-k-k\") proteins. They bind to a receptor complex containing the LRP5/6 protein to disrupt the APC/Axin/GSK3 complex that degrades beta-catenin, which their (*) canonical pathway is dependent on. These glycoproteins": {
+    "guess": "Wnt proteins",
+    "confidence": [
+      [
+        "W",
+        -0.0067929323
+      ],
+      [
+        "nt",
+        -4.365741e-06
+      ],
+      [
+        " proteins",
+        -0.3872674
+      ]
+    ]
+  },
+  "Using the C2C12 mybolast line, it was established that Q\u0095Sulf\u00951's 6-O-endosulfatase activity is responsible for the decreased binding activity between these proteins and heparan sulfate proteoglycans. Important inhibitors of these proteins include Cerebrus, SFRPs (\"s-FRIPs\"), and Dkk (\"D-k-k\") proteins. They bind to a receptor complex containing the LRP5/6 protein to disrupt the APC/Axin/GSK3 complex that degrades beta-catenin, which their (*) canonical pathway is dependent on. These glycoproteins bind to a cysteine-rich domain of the Frizzled receptor, creating a signal that's transduced to Dishevelled,": {
+    "guess": "Wnt signaling pathway",
+    "confidence": [
+      [
+        "W",
+        -0.00028016636
+      ],
+      [
+        "nt",
+        -4.3202e-07
+      ],
+      [
+        " signaling",
+        -0.57614136
+      ],
+      [
+        " pathway",
+        -0.00026383912
+      ]
+    ]
+  },
+  "Using the C2C12 mybolast line, it was established that Q\u0095Sulf\u00951's 6-O-endosulfatase activity is responsible for the decreased binding activity between these proteins and heparan sulfate proteoglycans. Important inhibitors of these proteins include Cerebrus, SFRPs (\"s-FRIPs\"), and Dkk (\"D-k-k\") proteins. They bind to a receptor complex containing the LRP5/6 protein to disrupt the APC/Axin/GSK3 complex that degrades beta-catenin, which their (*) canonical pathway is dependent on. These glycoproteins bind to a cysteine-rich domain of the Frizzled receptor, creating a signal that's transduced to Dishevelled, inside a cell. For 10 points, name this important set of signaling molecules that is named": {
+    "guess": "Wnt proteins",
+    "confidence": [
+      [
+        "W",
+        -0.0016022215
+      ],
+      [
+        "nt",
+        -1.9361265e-07
+      ],
+      [
+        " proteins",
+        -0.12700422
+      ]
+    ]
+  },
+  "Using the C2C12 mybolast line, it was established that Q\u0095Sulf\u00951's 6-O-endosulfatase activity is responsible for the decreased binding activity between these proteins and heparan sulfate proteoglycans. Important inhibitors of these proteins include Cerebrus, SFRPs (\"s-FRIPs\"), and Dkk (\"D-k-k\") proteins. They bind to a receptor complex containing the LRP5/6 protein to disrupt the APC/Axin/GSK3 complex that degrades beta-catenin, which their (*) canonical pathway is dependent on. These glycoproteins bind to a cysteine-rich domain of the Frizzled receptor, creating a signal that's transduced to Dishevelled, inside a cell. For 10 points, name this important set of signaling molecules that is named for the segment polarity gene wingless and its vertebrate homolog, integrated.": {
+    "guess": "Wnt proteins",
+    "confidence": [
+      [
+        "W",
+        -0.00063440116
+      ],
+      [
+        "nt",
+        -2.6968896e-06
+      ],
+      [
+        " proteins",
+        -0.69326854
+      ]
+    ]
+  }
+}

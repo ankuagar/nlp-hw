@@ -1,0 +1,182 @@
+{
+  "She is fired from Mrs. Hatch's factory for not showing up regularly and is recognized by Nettie Struther": {
+    "guess": "Ethan Frome",
+    "confidence": [
+      [
+        "E",
+        -0.25263306
+      ],
+      [
+        "than",
+        -0.0009511217
+      ],
+      [
+        " From",
+        -8.418666e-06
+      ],
+      [
+        "e",
+        0.0
+      ]
+    ]
+  },
+  "She is fired from Mrs. Hatch's factory for not showing up regularly and is recognized by Nettie Struther as she is walking aimlessly around Bryant Park at night. Earlier she had been disinherited by her": {
+    "guess": "Lily Bart",
+    "confidence": [
+      [
+        "L",
+        -0.13466327
+      ],
+      [
+        "ily",
+        -9.0883464e-07
+      ],
+      [
+        " Bart",
+        -8.11329e-05
+      ]
+    ]
+  },
+  "She is fired from Mrs. Hatch's factory for not showing up regularly and is recognized by Nettie Struther as she is walking aimlessly around Bryant Park at night. Earlier she had been disinherited by her aunt Julia and denied help by her cousins, the Stepneys. In Chapter 7 this protagonist's penchant": {
+    "guess": "The House of Mirth",
+    "confidence": [
+      [
+        "The",
+        -0.023248974
+      ],
+      [
+        " House",
+        -5.9153886e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "irth",
+        0.0
+      ]
+    ]
+  },
+  "She is fired from Mrs. Hatch's factory for not showing up regularly and is recognized by Nettie Struther as she is walking aimlessly around Bryant Park at night. Earlier she had been disinherited by her aunt Julia and denied help by her cousins, the Stepneys. In Chapter 7 this protagonist's penchant for playing cards spur Mrs. Dorset to intimate that such behavior may have scared off the sheltered": {
+    "guess": "The House of Mirth",
+    "confidence": [
+      [
+        "The",
+        -0.011565506
+      ],
+      [
+        " House",
+        -0.00021390743
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "irth",
+        0.0
+      ]
+    ]
+  },
+  "She is fired from Mrs. Hatch's factory for not showing up regularly and is recognized by Nettie Struther as she is walking aimlessly around Bryant Park at night. Earlier she had been disinherited by her aunt Julia and denied help by her cousins, the Stepneys. In Chapter 7 this protagonist's penchant for playing cards spur Mrs. Dorset to intimate that such behavior may have scared off the sheltered Percy Gryce, whom she had plotted to marry as her story opens. All throughout the novel she is pursued": {
+    "guess": "The House of Mirth",
+    "confidence": [
+      [
+        "The",
+        -0.008632415
+      ],
+      [
+        " House",
+        -1.2664457e-06
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "irth",
+        0.0
+      ]
+    ]
+  },
+  "She is fired from Mrs. Hatch's factory for not showing up regularly and is recognized by Nettie Struther as she is walking aimlessly around Bryant Park at night. Earlier she had been disinherited by her aunt Julia and denied help by her cousins, the Stepneys. In Chapter 7 this protagonist's penchant for playing cards spur Mrs. Dorset to intimate that such behavior may have scared off the sheltered Percy Gryce, whom she had plotted to marry as her story opens. All throughout the novel she is pursued by the shady Simon Rosedale, who turns out to be a good friend. The novel ends with her true love,": {
+    "guess": "The House of Mirth",
+    "confidence": [
+      [
+        "The",
+        -0.001506886
+      ],
+      [
+        " House",
+        -9.0883464e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "irth",
+        0.0
+      ]
+    ]
+  },
+  "She is fired from Mrs. Hatch's factory for not showing up regularly and is recognized by Nettie Struther as she is walking aimlessly around Bryant Park at night. Earlier she had been disinherited by her aunt Julia and denied help by her cousins, the Stepneys. In Chapter 7 this protagonist's penchant for playing cards spur Mrs. Dorset to intimate that such behavior may have scared off the sheltered Percy Gryce, whom she had plotted to marry as her story opens. All throughout the novel she is pursued by the shady Simon Rosedale, who turns out to be a good friend. The novel ends with her true love, the ineffectual Lawrence Selden, discovering a bottle of chloral next to her dead body. For ten points,": {
+    "guess": "The House of Mirth",
+    "confidence": [
+      [
+        "The",
+        -0.00026157423
+      ],
+      [
+        " House",
+        -4.3202e-07
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " M",
+        0.0
+      ],
+      [
+        "irth",
+        0.0
+      ]
+    ]
+  },
+  "She is fired from Mrs. Hatch's factory for not showing up regularly and is recognized by Nettie Struther as she is walking aimlessly around Bryant Park at night. Earlier she had been disinherited by her aunt Julia and denied help by her cousins, the Stepneys. In Chapter 7 this protagonist's penchant for playing cards spur Mrs. Dorset to intimate that such behavior may have scared off the sheltered Percy Gryce, whom she had plotted to marry as her story opens. All throughout the novel she is pursued by the shady Simon Rosedale, who turns out to be a good friend. The novel ends with her true love, the ineffectual Lawrence Selden, discovering a bottle of chloral next to her dead body. For ten points, identify this tragic main character of Edith Wharton's House of Mirth.": {
+    "guess": "Lily Bart",
+    "confidence": [
+      [
+        "L",
+        -0.00064381096
+      ],
+      [
+        "ily",
+        -3.1281633e-07
+      ],
+      [
+        " Bart",
+        -4.604148e-06
+      ]
+    ]
+  }
+}

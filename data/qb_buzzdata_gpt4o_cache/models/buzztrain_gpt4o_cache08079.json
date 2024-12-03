@@ -1,0 +1,144 @@
+{
+  "Its vague terms demanded that neither party \"occupy, ... fortify, ... colonize, or assume or exercise": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.3622892
+      ]
+    ]
+  },
+  "Its vague terms demanded that neither party \"occupy, ... fortify, ... colonize, or assume or exercise any dominion over\" the region in question, despite the fact that one of the signatories maintained": {
+    "guess": "Oregon Treaty",
+    "confidence": [
+      [
+        "O",
+        -1.0245092
+      ],
+      [
+        "regon",
+        -4.1273333e-06
+      ],
+      [
+        " Treaty",
+        -0.05607263
+      ]
+    ]
+  },
+  "Its vague terms demanded that neither party \"occupy, ... fortify, ... colonize, or assume or exercise any dominion over\" the region in question, despite the fact that one of the signatories maintained control over the Mosquito Coast and the Bay Islands. It was drafted to ensure that neither of the two": {
+    "guess": "Clayton-Bulwer Treaty",
+    "confidence": [
+      [
+        "Clay",
+        -0.0026676885
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        "-B",
+        -0.16054845
+      ],
+      [
+        "ul",
+        0.0
+      ],
+      [
+        "wer",
+        0.0
+      ],
+      [
+        " Treaty",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Its vague terms demanded that neither party \"occupy, ... fortify, ... colonize, or assume or exercise any dominion over\" the region in question, despite the fact that one of the signatories maintained control over the Mosquito Coast and the Bay Islands. It was drafted to ensure that neither of the two signers dominate the services of a putative engineering process, though public opinion led to its": {
+    "guess": "Clayton-Bulwer Treaty",
+    "confidence": [
+      [
+        "Clay",
+        -0.002449496
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        "-B",
+        -0.10036949
+      ],
+      [
+        "ul",
+        0.0
+      ],
+      [
+        "wer",
+        0.0
+      ],
+      [
+        " Treaty",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Its vague terms demanded that neither party \"occupy, ... fortify, ... colonize, or assume or exercise any dominion over\" the region in question, despite the fact that one of the signatories maintained control over the Mosquito Coast and the Bay Islands. It was drafted to ensure that neither of the two signers dominate the services of a putative engineering process, though public opinion led to its abrogation in 1901 in favor of the Hay- Pauncefote Treaty. For 10 points, name this agreement by which": {
+    "guess": "Clayton-Bulwer Treaty",
+    "confidence": [
+      [
+        "Clay",
+        -0.0020922078
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        "-B",
+        -0.012511884
+      ],
+      [
+        "ul",
+        0.0
+      ],
+      [
+        "wer",
+        0.0
+      ],
+      [
+        " Treaty",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Its vague terms demanded that neither party \"occupy, ... fortify, ... colonize, or assume or exercise any dominion over\" the region in question, despite the fact that one of the signatories maintained control over the Mosquito Coast and the Bay Islands. It was drafted to ensure that neither of the two signers dominate the services of a putative engineering process, though public opinion led to its abrogation in 1901 in favor of the Hay- Pauncefote Treaty. For 10 points, name this agreement by which the US and England agreed to share a potential Panama Canal.": {
+    "guess": "Clayton-Bulwer Treaty",
+    "confidence": [
+      [
+        "Clay",
+        -0.000115701965
+      ],
+      [
+        "ton",
+        0.0
+      ],
+      [
+        "-B",
+        -0.008614569
+      ],
+      [
+        "ul",
+        0.0
+      ],
+      [
+        "wer",
+        0.0
+      ],
+      [
+        " Treaty",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "A velocity-space generalization of this lemma is used to take moments of the Boltzmann equation, because": {
+    "guess": "Grad's Moment Method",
+    "confidence": [
+      [
+        "Grad",
+        -0.15202512
+      ],
+      [
+        "'s",
+        -0.28192678
+      ],
+      [
+        " Moment",
+        -0.15900621
+      ],
+      [
+        " Method",
+        -0.00021045419
+      ]
+    ]
+  },
+  "A velocity-space generalization of this lemma is used to take moments of the Boltzmann equation, because it trivially shows that the velocity-space integral of the distribution function under the namesake": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.6526485
+      ]
+    ]
+  },
+  "A velocity-space generalization of this lemma is used to take moments of the Boltzmann equation, because it trivially shows that the velocity-space integral of the distribution function under the namesake operation in velocity space vanishes. A special case of the generalized Stokes theorem for a Hodge-starred": {
+    "guess": "Divergence theorem",
+    "confidence": [
+      [
+        "D",
+        -0.6332639
+      ],
+      [
+        "iver",
+        0.0
+      ],
+      [
+        "gence",
+        -1.9361265e-07
+      ],
+      [
+        " theorem",
+        -0.0015133121
+      ]
+    ]
+  },
+  "A velocity-space generalization of this lemma is used to take moments of the Boltzmann equation, because it trivially shows that the velocity-space integral of the distribution function under the namesake operation in velocity space vanishes. A special case of the generalized Stokes theorem for a Hodge-starred exterior derivative, it can be used to reduce by one the dimensionality of the set over which": {
+    "guess": "Divergence theorem",
+    "confidence": [
+      [
+        "D",
+        -0.1772861
+      ],
+      [
+        "iver",
+        0.0
+      ],
+      [
+        "gence",
+        0.0
+      ],
+      [
+        " theorem",
+        -0.000203898
+      ]
+    ]
+  },
+  "A velocity-space generalization of this lemma is used to take moments of the Boltzmann equation, because it trivially shows that the velocity-space integral of the distribution function under the namesake operation in velocity space vanishes. A special case of the generalized Stokes theorem for a Hodge-starred exterior derivative, it can be used to reduce by one the dimensionality of the set over which a scalar field is integrated as long as that scalar field can be expressed as a vector field under": {
+    "guess": "Divergence theorem",
+    "confidence": [
+      [
+        "D",
+        -0.31413728
+      ],
+      [
+        "iver",
+        0.0
+      ],
+      [
+        "gence",
+        -7.89631e-07
+      ],
+      [
+        " theorem",
+        -0.00012356207
+      ]
+    ]
+  },
+  "A velocity-space generalization of this lemma is used to take moments of the Boltzmann equation, because it trivially shows that the velocity-space integral of the distribution function under the namesake operation in velocity space vanishes. A special case of the generalized Stokes theorem for a Hodge-starred exterior derivative, it can be used to reduce by one the dimensionality of the set over which a scalar field is integrated as long as that scalar field can be expressed as a vector field under the namesake operation. FTP, name this fundamental theorem from vector calculus; a multi-dimensional": {
+    "guess": "Divergence theorem",
+    "confidence": [
+      [
+        "D",
+        -0.011093565
+      ],
+      [
+        "iver",
+        0.0
+      ],
+      [
+        "gence",
+        0.0
+      ],
+      [
+        " theorem",
+        -0.005234952
+      ]
+    ]
+  },
+  "A velocity-space generalization of this lemma is used to take moments of the Boltzmann equation, because it trivially shows that the velocity-space integral of the distribution function under the namesake operation in velocity space vanishes. A special case of the generalized Stokes theorem for a Hodge-starred exterior derivative, it can be used to reduce by one the dimensionality of the set over which a scalar field is integrated as long as that scalar field can be expressed as a vector field under the namesake operation. FTP, name this fundamental theorem from vector calculus; a multi-dimensional analogue of integration by parts sometimes called Guass' theorem and named for the operation symbolized": {
+    "guess": "Divergence theorem",
+    "confidence": [
+      [
+        "D",
+        -0.018493123
+      ],
+      [
+        "iver",
+        0.0
+      ],
+      [
+        "gence",
+        -1.9361265e-07
+      ],
+      [
+        " theorem",
+        -0.023346687
+      ]
+    ]
+  },
+  "A velocity-space generalization of this lemma is used to take moments of the Boltzmann equation, because it trivially shows that the velocity-space integral of the distribution function under the namesake operation in velocity space vanishes. A special case of the generalized Stokes theorem for a Hodge-starred exterior derivative, it can be used to reduce by one the dimensionality of the set over which a scalar field is integrated as long as that scalar field can be expressed as a vector field under the namesake operation. FTP, name this fundamental theorem from vector calculus; a multi-dimensional analogue of integration by parts sometimes called Guass' theorem and named for the operation symbolized by del-dot.": {
+    "guess": "Divergence theorem",
+    "confidence": [
+      [
+        "D",
+        -0.0073831165
+      ],
+      [
+        "iver",
+        0.0
+      ],
+      [
+        "gence",
+        0.0
+      ],
+      [
+        " theorem",
+        -0.0031779523
+      ]
+    ]
+  },
+  "Velazquez depicted a white one on a chair in his portrait of Prince Felipe Prospero, and Frida Kahlo": {
+    "guess": "Parrot",
+    "confidence": [
+      [
+        "Par",
+        -0.35431656
+      ],
+      [
+        "rot",
+        -0.10027309
+      ]
+    ]
+  },
+  "Velazquez depicted a white one on a chair in his portrait of Prince Felipe Prospero, and Frida Kahlo did a self-portrait with a tiny Itzcuintli one.  One appears in front of a canvas, between a young boy": {
+    "guess": "Dog",
+    "confidence": [
+      [
+        "Dog",
+        -0.005035694
+      ]
+    ]
+  },
+  "Velazquez depicted a white one on a chair in his portrait of Prince Felipe Prospero, and Frida Kahlo did a self-portrait with a tiny Itzcuintli one.  One appears in front of a canvas, between a young boy and a female nude in Courbet's Artist's Studio, while a spotted one appears near the shore of The": {
+    "guess": "Dog",
+    "confidence": [
+      [
+        "Dog",
+        -0.055326898
+      ]
+    ]
+  },
+  "Velazquez depicted a white one on a chair in his portrait of Prince Felipe Prospero, and Frida Kahlo did a self-portrait with a tiny Itzcuintli one.  One appears in front of a canvas, between a young boy and a female nude in Courbet's Artist's Studio, while a spotted one appears near the shore of The Hay Wain.  One of these animals is depicted with stop-motion inspired leg movement in a Giacomo Balla": {
+    "guess": "Dog",
+    "confidence": [
+      [
+        "Dog",
+        -0.026108338
+      ]
+    ]
+  },
+  "Velazquez depicted a white one on a chair in his portrait of Prince Felipe Prospero, and Frida Kahlo did a self-portrait with a tiny Itzcuintli one.  One appears in front of a canvas, between a young boy and a female nude in Courbet's Artist's Studio, while a spotted one appears near the shore of The Hay Wain.  One of these animals is depicted with stop-motion inspired leg movement in a Giacomo Balla Futurist painting showing its \"dynamism.\"  For 10 points, name this type of creature that C.M. Coolidge": {
+    "guess": "Dog",
+    "confidence": [
+      [
+        "Dog",
+        -0.00812882
+      ]
+    ]
+  },
+  "Velazquez depicted a white one on a chair in his portrait of Prince Felipe Prospero, and Frida Kahlo did a self-portrait with a tiny Itzcuintli one.  One appears in front of a canvas, between a young boy and a female nude in Courbet's Artist's Studio, while a spotted one appears near the shore of The Hay Wain.  One of these animals is depicted with stop-motion inspired leg movement in a Giacomo Balla Futurist painting showing its \"dynamism.\"  For 10 points, name this type of creature that C.M. Coolidge depicted in A Friend in Need playing poker.": {
+    "guess": "Dog",
+    "confidence": [
+      [
+        "Dog",
+        -0.003164057
+      ]
+    ]
+  }
+}

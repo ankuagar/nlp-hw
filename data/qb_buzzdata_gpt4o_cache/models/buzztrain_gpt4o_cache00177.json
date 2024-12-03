@@ -1,0 +1,710 @@
+{
+  "AMANDA extended one of these created by David Turner, and Wadler wrote a book on how to use monads in": {
+    "guess": "Haskell (programming language)",
+    "confidence": [
+      [
+        "H",
+        -0.12146837
+      ],
+      [
+        "askell",
+        0.0
+      ],
+      [
+        " (",
+        -0.12887499
+      ],
+      [
+        "program",
+        -0.00038550937
+      ],
+      [
+        "ming",
+        0.0
+      ],
+      [
+        " language",
+        -1.2948405e-05
+      ],
+      [
+        ")",
+        -2.8160932e-06
+      ]
+    ]
+  },
+  "AMANDA extended one of these created by David Turner, and Wadler wrote a book on how to use monads in them.  Charity is an example of the so-called \"total\" type of these that prohibit non-termination,": {
+    "guess": "Functional programming languages",
+    "confidence": [
+      [
+        "Functional",
+        -0.00674
+      ],
+      [
+        " programming",
+        -0.0011704603
+      ],
+      [
+        " languages",
+        -0.062136073
+      ]
+    ]
+  },
+  "AMANDA extended one of these created by David Turner, and Wadler wrote a book on how to use monads in them.  Charity is an example of the so-called \"total\" type of these that prohibit non-termination, and easy memorization in them is attained through the fact that many of them maintain referential transparency.": {
+    "guess": "Functional programming languages",
+    "confidence": [
+      [
+        "Functional",
+        -0.24894772
+      ],
+      [
+        " programming",
+        -1.50940705e-05
+      ],
+      [
+        " languages",
+        -0.004721207
+      ]
+    ]
+  },
+  "AMANDA extended one of these created by David Turner, and Wadler wrote a book on how to use monads in them.  Charity is an example of the so-called \"total\" type of these that prohibit non-termination, and easy memorization in them is attained through the fact that many of them maintain referential transparency.  Some 70 SFRIs extend one of these beyond its R6RS standards, while another employs call-by-need,": {
+    "guess": "Haskell",
+    "confidence": [
+      [
+        "H",
+        -0.008271645
+      ],
+      [
+        "askell",
+        0.0
+      ]
+    ]
+  },
+  "AMANDA extended one of these created by David Turner, and Wadler wrote a book on how to use monads in them.  Charity is an example of the so-called \"total\" type of these that prohibit non-termination, and easy memorization in them is attained through the fact that many of them maintain referential transparency.  Some 70 SFRIs extend one of these beyond its R6RS standards, while another employs call-by-need, a form of lazy evaluation.  Besides that one named for the first namesake of the Curry-Howard": {
+    "guess": "Functional programming language",
+    "confidence": [
+      [
+        "Functional",
+        -0.008136387
+      ],
+      [
+        " programming",
+        -0.002187853
+      ],
+      [
+        " language",
+        -0.31456426
+      ]
+    ]
+  },
+  "AMANDA extended one of these created by David Turner, and Wadler wrote a book on how to use monads in them.  Charity is an example of the so-called \"total\" type of these that prohibit non-termination, and easy memorization in them is attained through the fact that many of them maintain referential transparency.  Some 70 SFRIs extend one of these beyond its R6RS standards, while another employs call-by-need, a form of lazy evaluation.  Besides that one named for the first namesake of the Curry-Howard correspondence, side effects aren't present in \"pure\" ones.  Microsoft recently created one that": {
+    "guess": "Functional programming",
+    "confidence": [
+      [
+        "Functional",
+        -0.00032843283
+      ],
+      [
+        " programming",
+        -1.504853e-06
+      ]
+    ]
+  },
+  "AMANDA extended one of these created by David Turner, and Wadler wrote a book on how to use monads in them.  Charity is an example of the so-called \"total\" type of these that prohibit non-termination, and easy memorization in them is attained through the fact that many of them maintain referential transparency.  Some 70 SFRIs extend one of these beyond its R6RS standards, while another employs call-by-need, a form of lazy evaluation.  Besides that one named for the first namesake of the Curry-Howard correspondence, side effects aren't present in \"pure\" ones.  Microsoft recently created one that is similar to OCaml called F# [\"F-Sharp\"], and they usually implement the tuple data type.  Exemplified": {
+    "guess": "Functional programming languages",
+    "confidence": [
+      [
+        "Functional",
+        -0.0006105715
+      ],
+      [
+        " programming",
+        -6.539802e-05
+      ],
+      [
+        " languages",
+        -6.408677e-05
+      ]
+    ]
+  },
+  "AMANDA extended one of these created by David Turner, and Wadler wrote a book on how to use monads in them.  Charity is an example of the so-called \"total\" type of these that prohibit non-termination, and easy memorization in them is attained through the fact that many of them maintain referential transparency.  Some 70 SFRIs extend one of these beyond its R6RS standards, while another employs call-by-need, a form of lazy evaluation.  Besides that one named for the first namesake of the Curry-Howard correspondence, side effects aren't present in \"pure\" ones.  Microsoft recently created one that is similar to OCaml called F# [\"F-Sharp\"], and they usually implement the tuple data type.  Exemplified by Scheme and Lisp, for 10 points, name this type of programming language contrasted with imperative": {
+    "guess": "Functional programming",
+    "confidence": [
+      [
+        "Functional",
+        -0.0044065015
+      ],
+      [
+        " programming",
+        -9.372295e-06
+      ]
+    ]
+  },
+  "AMANDA extended one of these created by David Turner, and Wadler wrote a book on how to use monads in them.  Charity is an example of the so-called \"total\" type of these that prohibit non-termination, and easy memorization in them is attained through the fact that many of them maintain referential transparency.  Some 70 SFRIs extend one of these beyond its R6RS standards, while another employs call-by-need, a form of lazy evaluation.  Besides that one named for the first namesake of the Curry-Howard correspondence, side effects aren't present in \"pure\" ones.  Microsoft recently created one that is similar to OCaml called F# [\"F-Sharp\"], and they usually implement the tuple data type.  Exemplified by Scheme and Lisp, for 10 points, name this type of programming language contrasted with imperative languages.": {
+    "guess": "Functional programming",
+    "confidence": [
+      [
+        "Functional",
+        -0.00674829
+      ],
+      [
+        " programming",
+        -7.226629e-06
+      ]
+    ]
+  },
+  "Amacrine (AM-uh-krin) cells in this structure regulate nervous input to ganglion (\"GANG\"-lee-on) cells,": {
+    "guess": "Retina",
+    "confidence": [
+      [
+        "Ret",
+        -0.6631148
+      ],
+      [
+        "ina",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Amacrine (AM-uh-krin) cells in this structure regulate nervous input to ganglion (\"GANG\"-lee-on) cells, and this structure's namesake pigmentosa (PIG-men-TOE-suh) causes tunnel vision and night blindness.": {
+    "guess": "Retina",
+    "confidence": [
+      [
+        "Ret",
+        -0.00040314416
+      ],
+      [
+        "ina",
+        0.0
+      ]
+    ]
+  },
+  "Amacrine (AM-uh-krin) cells in this structure regulate nervous input to ganglion (\"GANG\"-lee-on) cells, and this structure's namesake pigmentosa (PIG-men-TOE-suh) causes tunnel vision and night blindness. This seven-layered structure has a sensitive fovea (FO-vee-uh) in its macular (MACK-you-lur) region.": {
+    "guess": "Retina",
+    "confidence": [
+      [
+        "Ret",
+        -0.00055851246
+      ],
+      [
+        "ina",
+        0.0
+      ]
+    ]
+  },
+  "Amacrine (AM-uh-krin) cells in this structure regulate nervous input to ganglion (\"GANG\"-lee-on) cells, and this structure's namesake pigmentosa (PIG-men-TOE-suh) causes tunnel vision and night blindness. This seven-layered structure has a sensitive fovea (FO-vee-uh) in its macular (MACK-you-lur) region. This structure contains photoreceptor (FO-toe-ree-SEP-tur) cells like rods and cones, and it converts": {
+    "guess": "Retina",
+    "confidence": [
+      [
+        "Ret",
+        -0.00028588812
+      ],
+      [
+        "ina",
+        0.0
+      ]
+    ]
+  },
+  "Amacrine (AM-uh-krin) cells in this structure regulate nervous input to ganglion (\"GANG\"-lee-on) cells, and this structure's namesake pigmentosa (PIG-men-TOE-suh) causes tunnel vision and night blindness. This seven-layered structure has a sensitive fovea (FO-vee-uh) in its macular (MACK-you-lur) region. This structure contains photoreceptor (FO-toe-ree-SEP-tur) cells like rods and cones, and it converts light to nervous signals sent through the optic nerve. For 10 points, name this structure that": {
+    "guess": "Retina",
+    "confidence": [
+      [
+        "Ret",
+        -0.0005052541
+      ],
+      [
+        "ina",
+        0.0
+      ]
+    ]
+  },
+  "Amacrine (AM-uh-krin) cells in this structure regulate nervous input to ganglion (\"GANG\"-lee-on) cells, and this structure's namesake pigmentosa (PIG-men-TOE-suh) causes tunnel vision and night blindness. This seven-layered structure has a sensitive fovea (FO-vee-uh) in its macular (MACK-you-lur) region. This structure contains photoreceptor (FO-toe-ree-SEP-tur) cells like rods and cones, and it converts light to nervous signals sent through the optic nerve. For 10 points, name this structure that lies along the back of the eye.": {
+    "guess": "Retina",
+    "confidence": [
+      [
+        "Ret",
+        -0.00034177996
+      ],
+      [
+        "ina",
+        0.0
+      ]
+    ]
+  },
+  "Amartya Sen criticized it for its implicit assumption that the utility functions of different individuals": {
+    "guess": "Bergson\u2013Samuelson social welfare function",
+    "confidence": [
+      [
+        "B",
+        -0.84837115
+      ],
+      [
+        "erg",
+        -4.9186317e-05
+      ],
+      [
+        "son",
+        -5.157039e-05
+      ],
+      [
+        "\u2013",
+        -0.006795544
+      ],
+      [
+        "Samuel",
+        -0.00033772705
+      ],
+      [
+        "son",
+        -3.1281633e-07
+      ],
+      [
+        " social",
+        -0.00040862753
+      ],
+      [
+        " welfare",
+        -9.0883464e-07
+      ],
+      [
+        " function",
+        -0.0002970896
+      ]
+    ]
+  },
+  "Amartya Sen criticized it for its implicit assumption that the utility functions of different individuals were incomparable, and that therefore only ordinal preferences could be used as input. Gibbard": {
+    "guess": "Gibbard\u2013Satterthwaite theorem",
+    "confidence": [
+      [
+        "G",
+        -0.75543004
+      ],
+      [
+        "ibb",
+        -4.7755875e-05
+      ],
+      [
+        "ard",
+        0.0
+      ],
+      [
+        "\u2013",
+        -0.7149225
+      ],
+      [
+        "S",
+        -0.0001373897
+      ],
+      [
+        "atter",
+        -3.1281633e-07
+      ],
+      [
+        "th",
+        0.0
+      ],
+      [
+        "wa",
+        -1.504853e-06
+      ],
+      [
+        "ite",
+        0.0
+      ],
+      [
+        " theorem",
+        -4.596782e-05
+      ]
+    ]
+  },
+  "Amartya Sen criticized it for its implicit assumption that the utility functions of different individuals were incomparable, and that therefore only ordinal preferences could be used as input. Gibbard and Satterthwaite replaced several of its axioms by one requiring nonmanipulability of the system in": {
+    "guess": "Arrow's impossibility theorem",
+    "confidence": [
+      [
+        "Arrow",
+        -0.6276696
+      ],
+      [
+        "'s",
+        -0.00015848507
+      ],
+      [
+        " imposs",
+        -0.0040852856
+      ],
+      [
+        "ibility",
+        0.0
+      ],
+      [
+        " theorem",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Amartya Sen criticized it for its implicit assumption that the utility functions of different individuals were incomparable, and that therefore only ordinal preferences could be used as input. Gibbard and Satterthwaite replaced several of its axioms by one requiring nonmanipulability of the system in question, but still reached the same final conclusion. First popularized in the 1951 book \"Social Choice": {
+    "guess": "Arrow's impossibility theorem",
+    "confidence": [
+      [
+        "Arrow",
+        -0.026793322
+      ],
+      [
+        "'s",
+        -7.493431e-05
+      ],
+      [
+        " imposs",
+        -0.048606098
+      ],
+      [
+        "ibility",
+        0.0
+      ],
+      [
+        " theorem",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Amartya Sen criticized it for its implicit assumption that the utility functions of different individuals were incomparable, and that therefore only ordinal preferences could be used as input. Gibbard and Satterthwaite replaced several of its axioms by one requiring nonmanipulability of the system in question, but still reached the same final conclusion. First popularized in the 1951 book \"Social Choice and Individual Values\", the original version of this result had axioms including transitivity": {
+    "guess": "Arrow's impossibility theorem",
+    "confidence": [
+      [
+        "Arrow",
+        -0.011695467
+      ],
+      [
+        "'s",
+        -3.1305768e-05
+      ],
+      [
+        " imposs",
+        -0.011053125
+      ],
+      [
+        "ibility",
+        0.0
+      ],
+      [
+        " theorem",
+        0.0
+      ]
+    ]
+  },
+  "Amartya Sen criticized it for its implicit assumption that the utility functions of different individuals were incomparable, and that therefore only ordinal preferences could be used as input. Gibbard and Satterthwaite replaced several of its axioms by one requiring nonmanipulability of the system in question, but still reached the same final conclusion. First popularized in the 1951 book \"Social Choice and Individual Values\", the original version of this result had axioms including transitivity and independence of irrelevant alternatives. FTP what is this result that states that the only voting": {
+    "guess": "Arrow's impossibility theorem",
+    "confidence": [
+      [
+        "Arrow",
+        -0.007161808
+      ],
+      [
+        "'s",
+        -3.1305768e-05
+      ],
+      [
+        " imposs",
+        -0.014176204
+      ],
+      [
+        "ibility",
+        0.0
+      ],
+      [
+        " theorem",
+        0.0
+      ]
+    ]
+  },
+  "Amartya Sen criticized it for its implicit assumption that the utility functions of different individuals were incomparable, and that therefore only ordinal preferences could be used as input. Gibbard and Satterthwaite replaced several of its axioms by one requiring nonmanipulability of the system in question, but still reached the same final conclusion. First popularized in the 1951 book \"Social Choice and Individual Values\", the original version of this result had axioms including transitivity and independence of irrelevant alternatives. FTP what is this result that states that the only voting system satisfying certain axioms is a dictatorship?": {
+    "guess": "Arrow's Impossibility Theorem",
+    "confidence": [
+      [
+        "Arrow",
+        -0.024269098
+      ],
+      [
+        "'s",
+        -6.6113236e-05
+      ],
+      [
+        " Im",
+        -0.4741062
+      ],
+      [
+        "poss",
+        -1.1398757e-05
+      ],
+      [
+        "ibility",
+        0.0
+      ],
+      [
+        " The",
+        -1.9361265e-07
+      ],
+      [
+        "orem",
+        0.0
+      ]
+    ]
+  },
+  "AMA is used as a reagent in a modification of this reaction involving oligoethylene glycols.  One alternative": {
+    "guess": "Mitsunobu reaction",
+    "confidence": [
+      [
+        "M",
+        -0.210008
+      ],
+      [
+        "its",
+        -0.0009973214
+      ],
+      [
+        "un",
+        -1.9361265e-07
+      ],
+      [
+        "obu",
+        -1.9361265e-07
+      ],
+      [
+        " reaction",
+        -0.062011153
+      ]
+    ]
+  },
+  "AMA is used as a reagent in a modification of this reaction involving oligoethylene glycols.  One alternative to this reaction uses 2,4,6-trichlorobenzoyl chloride, while another forms an o-acylisourea": {
+    "guess": "Steglich esterification",
+    "confidence": [
+      [
+        "Ste",
+        -0.17713624
+      ],
+      [
+        "glich",
+        -1.7954959e-05
+      ],
+      [
+        " ester",
+        -0.056779295
+      ],
+      [
+        "ification",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "AMA is used as a reagent in a modification of this reaction involving oligoethylene glycols.  One alternative to this reaction uses 2,4,6-trichlorobenzoyl chloride, while another forms an o-acylisourea intermediate and uses 4-dimethylaminopyridine as a catalyst; those alternatives are named for (*) Yamaguchi": {
+    "guess": "Steglich esterification",
+    "confidence": [
+      [
+        "Ste",
+        -0.053567912
+      ],
+      [
+        "glich",
+        -8.657073e-06
+      ],
+      [
+        " ester",
+        -0.05686939
+      ],
+      [
+        "ification",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "AMA is used as a reagent in a modification of this reaction involving oligoethylene glycols.  One alternative to this reaction uses 2,4,6-trichlorobenzoyl chloride, while another forms an o-acylisourea intermediate and uses 4-dimethylaminopyridine as a catalyst; those alternatives are named for (*) Yamaguchi and Steglich.  This reaction begins with the protonation of one reactant by an acid catalyst": {
+    "guess": "Fischer Esterification",
+    "confidence": [
+      [
+        "F",
+        -0.48952505
+      ],
+      [
+        "ischer",
+        -0.00055934687
+      ],
+      [
+        " Ester",
+        -0.1488934
+      ],
+      [
+        "ification",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "AMA is used as a reagent in a modification of this reaction involving oligoethylene glycols.  One alternative to this reaction uses 2,4,6-trichlorobenzoyl chloride, while another forms an o-acylisourea intermediate and uses 4-dimethylaminopyridine as a catalyst; those alternatives are named for (*) Yamaguchi and Steglich.  This reaction begins with the protonation of one reactant by an acid catalyst followed by nucleophilic attack by the other reactant yielding a tetrahedral intermediate, which undergoes": {
+    "guess": "Esterification",
+    "confidence": [
+      [
+        "E",
+        -0.053241774
+      ],
+      [
+        "ster",
+        -1.9361265e-07
+      ],
+      [
+        "ification",
+        -3.392825e-05
+      ]
+    ]
+  },
+  "AMA is used as a reagent in a modification of this reaction involving oligoethylene glycols.  One alternative to this reaction uses 2,4,6-trichlorobenzoyl chloride, while another forms an o-acylisourea intermediate and uses 4-dimethylaminopyridine as a catalyst; those alternatives are named for (*) Yamaguchi and Steglich.  This reaction begins with the protonation of one reactant by an acid catalyst followed by nucleophilic attack by the other reactant yielding a tetrahedral intermediate, which undergoes a tautomeric shift to give the products. The yield of this equilibrium reaction can be improved": {
+    "guess": "Esterification",
+    "confidence": [
+      [
+        "E",
+        -0.16185425
+      ],
+      [
+        "ster",
+        0.0
+      ],
+      [
+        "ification",
+        -1.3186812e-05
+      ]
+    ]
+  },
+  "AMA is used as a reagent in a modification of this reaction involving oligoethylene glycols.  One alternative to this reaction uses 2,4,6-trichlorobenzoyl chloride, while another forms an o-acylisourea intermediate and uses 4-dimethylaminopyridine as a catalyst; those alternatives are named for (*) Yamaguchi and Steglich.  This reaction begins with the protonation of one reactant by an acid catalyst followed by nucleophilic attack by the other reactant yielding a tetrahedral intermediate, which undergoes a tautomeric shift to give the products. The yield of this equilibrium reaction can be improved by the use of azeotropic distillation or drying agents to remove water since the reverse reaction": {
+    "guess": "Esterification",
+    "confidence": [
+      [
+        "E",
+        -0.38869917
+      ],
+      [
+        "ster",
+        -1.9361265e-07
+      ],
+      [
+        "ification",
+        -1.18755715e-05
+      ]
+    ]
+  },
+  "AMA is used as a reagent in a modification of this reaction involving oligoethylene glycols.  One alternative to this reaction uses 2,4,6-trichlorobenzoyl chloride, while another forms an o-acylisourea intermediate and uses 4-dimethylaminopyridine as a catalyst; those alternatives are named for (*) Yamaguchi and Steglich.  This reaction begins with the protonation of one reactant by an acid catalyst followed by nucleophilic attack by the other reactant yielding a tetrahedral intermediate, which undergoes a tautomeric shift to give the products. The yield of this equilibrium reaction can be improved by the use of azeotropic distillation or drying agents to remove water since the reverse reaction is hydrolysis. For 10 points, name this reaction which joins an alcohol and a carboxylic acid to": {
+    "guess": "Esterification",
+    "confidence": [
+      [
+        "E",
+        -0.055890933
+      ],
+      [
+        "ster",
+        0.0
+      ],
+      [
+        "ification",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "AMA is used as a reagent in a modification of this reaction involving oligoethylene glycols.  One alternative to this reaction uses 2,4,6-trichlorobenzoyl chloride, while another forms an o-acylisourea intermediate and uses 4-dimethylaminopyridine as a catalyst; those alternatives are named for (*) Yamaguchi and Steglich.  This reaction begins with the protonation of one reactant by an acid catalyst followed by nucleophilic attack by the other reactant yielding a tetrahedral intermediate, which undergoes a tautomeric shift to give the products. The yield of this equilibrium reaction can be improved by the use of azeotropic distillation or drying agents to remove water since the reverse reaction is hydrolysis. For 10 points, name this reaction which joins an alcohol and a carboxylic acid to form a fragrant functional group.": {
+    "guess": "Esterification",
+    "confidence": [
+      [
+        "E",
+        -0.045141015
+      ],
+      [
+        "ster",
+        0.0
+      ],
+      [
+        "ification",
+        -1.8624639e-06
+      ]
+    ]
+  },
+  "The Amalgamated Association of Iron, Steel, and Tin Workers went on strike. Five days later, Pinkerton": {
+    "guess": "Homestead strike",
+    "confidence": [
+      [
+        "Hom",
+        -3.23786e-05
+      ],
+      [
+        "estead",
+        0.0
+      ],
+      [
+        " strike",
+        -0.023245826
+      ]
+    ]
+  },
+  "The Amalgamated Association of Iron, Steel, and Tin Workers went on strike. Five days later, Pinkerton agents attempted to enter the plant by boat, and gunfire broke out. Violence then raged for three": {
+    "guess": "Homestead strike",
+    "confidence": [
+      [
+        "Hom",
+        -1.3663626e-05
+      ],
+      [
+        "estead",
+        0.0
+      ],
+      [
+        " strike",
+        -0.03804195
+      ]
+    ]
+  },
+  "The Amalgamated Association of Iron, Steel, and Tin Workers went on strike. Five days later, Pinkerton agents attempted to enter the plant by boat, and gunfire broke out. Violence then raged for three more days, ending only after the Pennsylvania national guard seized control of the plant. FTP, name": {
+    "guess": "Homestead strike",
+    "confidence": [
+      [
+        "Hom",
+        -4.20341e-05
+      ],
+      [
+        "estead",
+        0.0
+      ],
+      [
+        " strike",
+        -0.018150061
+      ]
+    ]
+  },
+  "The Amalgamated Association of Iron, Steel, and Tin Workers went on strike. Five days later, Pinkerton agents attempted to enter the plant by boat, and gunfire broke out. Violence then raged for three more days, ending only after the Pennsylvania national guard seized control of the plant. FTP, name this event that helped swing the 1892 presidential election to Grover Cleveland, the worst strike in": {
+    "guess": "Homestead strike",
+    "confidence": [
+      [
+        "Hom",
+        -6.49212e-05
+      ],
+      [
+        "estead",
+        0.0
+      ],
+      [
+        " strike",
+        -0.03804172
+      ]
+    ]
+  },
+  "The Amalgamated Association of Iron, Steel, and Tin Workers went on strike. Five days later, Pinkerton agents attempted to enter the plant by boat, and gunfire broke out. Violence then raged for three more days, ending only after the Pennsylvania national guard seized control of the plant. FTP, name this event that helped swing the 1892 presidential election to Grover Cleveland, the worst strike in the history of the Carnegie Steel company.": {
+    "guess": "Homestead strike",
+    "confidence": [
+      [
+        "Hom",
+        -0.0006382157
+      ],
+      [
+        "estead",
+        0.0
+      ],
+      [
+        " strike",
+        -0.16022666
+      ]
+    ]
+  }
+}

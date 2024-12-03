@@ -1,0 +1,113 @@
+{
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.36141786
+      ]
+    ]
+  },
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than the rate constant of breaking a bond to a more common isotope, but experimental evidence shows that": {
+    "guess": "Kinetic Isotope Effect",
+    "confidence": [
+      [
+        "K",
+        -0.5530963
+      ],
+      [
+        "inetic",
+        -7.703444e-06
+      ],
+      [
+        " Is",
+        -0.69321877
+      ],
+      [
+        "otope",
+        -3.1281633e-07
+      ],
+      [
+        " Effect",
+        -3.7697225e-06
+      ]
+    ]
+  },
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than the rate constant of breaking a bond to a more common isotope, but experimental evidence shows that the ratio of rate constants is near unity, a paradox known as its namesake \"isotope effect\". It is": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.041039128
+      ]
+    ]
+  },
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than the rate constant of breaking a bond to a more common isotope, but experimental evidence shows that the ratio of rate constants is near unity, a paradox known as its namesake \"isotope effect\". It is often a component of solvents in NMR because of its invisibility to NMR spectrometers, and because it": {
+    "guess": "Deuterium",
+    "confidence": [
+      [
+        "De",
+        -0.010222884
+      ],
+      [
+        "uter",
+        0.0
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than the rate constant of breaking a bond to a more common isotope, but experimental evidence shows that the ratio of rate constants is near unity, a paradox known as its namesake \"isotope effect\". It is often a component of solvents in NMR because of its invisibility to NMR spectrometers, and because it is destroyed by thermonuclear reactions, there is surprisingly little of it in the interior of the": {
+    "guess": "Deuterium",
+    "confidence": [
+      [
+        "De",
+        -0.005446724
+      ],
+      [
+        "uter",
+        0.0
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than the rate constant of breaking a bond to a more common isotope, but experimental evidence shows that the ratio of rate constants is near unity, a paradox known as its namesake \"isotope effect\". It is often a component of solvents in NMR because of its invisibility to NMR spectrometers, and because it is destroyed by thermonuclear reactions, there is surprisingly little of it in the interior of the sun.  Discovered spectroscopically by Harold Urey, for 10 points, what is this isotope of hydrogen": {
+    "guess": "Deuterium",
+    "confidence": [
+      [
+        "De",
+        -0.0135287605
+      ],
+      [
+        "uter",
+        0.0
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "The Eyring equation predicts that the rate constant of breaking a bond to this is six times less than the rate constant of breaking a bond to a more common isotope, but experimental evidence shows that the ratio of rate constants is near unity, a paradox known as its namesake \"isotope effect\". It is often a component of solvents in NMR because of its invisibility to NMR spectrometers, and because it is destroyed by thermonuclear reactions, there is surprisingly little of it in the interior of the sun.  Discovered spectroscopically by Harold Urey, for 10 points, what is this isotope of hydrogen consisting of one proton and one neutron?": {
+    "guess": "Deuterium",
+    "confidence": [
+      [
+        "De",
+        -0.00023405286
+      ],
+      [
+        "uter",
+        0.0
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  }
+}

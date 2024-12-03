@@ -1,0 +1,71 @@
+{
+  "In C4 plants, the enzyme PEP carboxylase (kar-BAHK-sih-lays) is found in this type of cell, which lies": {
+    "guess": "Mesophyll cell",
+    "confidence": [
+      [
+        "Mes",
+        -0.046978135
+      ],
+      [
+        "ophyll",
+        0.0
+      ],
+      [
+        " cell",
+        -0.39081028
+      ]
+    ]
+  },
+  "In C4 plants, the enzyme PEP carboxylase (kar-BAHK-sih-lays) is found in this type of cell, which lies adjacent to the bundle sheath. In most plants, this type of ground tissue is bounded by the upper": {
+    "guess": "Mesophyll",
+    "confidence": [
+      [
+        "Mes",
+        -0.016767051
+      ],
+      [
+        "ophyll",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In C4 plants, the enzyme PEP carboxylase (kar-BAHK-sih-lays) is found in this type of cell, which lies adjacent to the bundle sheath. In most plants, this type of ground tissue is bounded by the upper and lower surfaces of the lam- ina and is divided into regular and loosely arranged cell layers called": {
+    "guess": "Mesophyll",
+    "confidence": [
+      [
+        "Mes",
+        -0.0038971067
+      ],
+      [
+        "ophyll",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In C4 plants, the enzyme PEP carboxylase (kar-BAHK-sih-lays) is found in this type of cell, which lies adjacent to the bundle sheath. In most plants, this type of ground tissue is bounded by the upper and lower surfaces of the lam- ina and is divided into regular and loosely arranged cell layers called the palisade and spongy layers, respectively. Ob- taining carbon dioxide through the stomata, name": {
+    "guess": "Mesophyll",
+    "confidence": [
+      [
+        "Mes",
+        -0.0041795485
+      ],
+      [
+        "ophyll",
+        0.0
+      ]
+    ]
+  },
+  "In C4 plants, the enzyme PEP carboxylase (kar-BAHK-sih-lays) is found in this type of cell, which lies adjacent to the bundle sheath. In most plants, this type of ground tissue is bounded by the upper and lower surfaces of the lam- ina and is divided into regular and loosely arranged cell layers called the palisade and spongy layers, respectively. Ob- taining carbon dioxide through the stomata, name this middle layer of leaf tissue where most photosynthesis in a plant occurs.": {
+    "guess": "Mesophyll",
+    "confidence": [
+      [
+        "Mes",
+        -0.019051166
+      ],
+      [
+        "ophyll",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "One theater of this war began when an object was displayed in the House of Commons by the captain of": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.1704007
+      ],
+      [
+        ".",
+        -0.16023488
+      ]
+    ]
+  },
+  "One theater of this war began when an object was displayed in the House of Commons by the captain of the Rebecca, sparking the War of Jenkin's Ear. One battle in this war was won by Count Schwerin after": {
+    "guess": "War of the Austrian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.005994206
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -0.0005233657
+      ],
+      [
+        " Austrian",
+        -3.1281633e-07
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "One theater of this war began when an object was displayed in the House of Commons by the captain of the Rebecca, sparking the War of Jenkin's Ear. One battle in this war was won by Count Schwerin after his commander fled at Mollwitz. This war featured the last time an English monarch led troops into": {
+    "guess": "War of the Austrian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.0015825896
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -0.00026741522
+      ],
+      [
+        " Austrian",
+        0.0
+      ],
+      [
+        " Succ",
+        -1.9361265e-07
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "One theater of this war began when an object was displayed in the House of Commons by the captain of the Rebecca, sparking the War of Jenkin's Ear. One battle in this war was won by Count Schwerin after his commander fled at Mollwitz. This war featured the last time an English monarch led troops into battle when George II fought at Dettingen. This war gave the territory of (*) Silesia to Prussia through": {
+    "guess": "War of the Austrian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.0013235727
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " the",
+        -0.0001501445
+      ],
+      [
+        " Austrian",
+        0.0
+      ],
+      [
+        " Succ",
+        -1.9361265e-07
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "One theater of this war began when an object was displayed in the House of Commons by the captain of the Rebecca, sparking the War of Jenkin's Ear. One battle in this war was won by Count Schwerin after his commander fled at Mollwitz. This war featured the last time an English monarch led troops into battle when George II fought at Dettingen. This war gave the territory of (*) Silesia to Prussia through the treaty of Aix-la-Chapelle. For 10 points, name this war caused by the Pragmatic Sanction,": {
+    "guess": "War of the Austrian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.0005511255
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        -4.143808e-05
+      ],
+      [
+        " Austrian",
+        0.0
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  },
+  "One theater of this war began when an object was displayed in the House of Commons by the captain of the Rebecca, sparking the War of Jenkin's Ear. One battle in this war was won by Count Schwerin after his commander fled at Mollwitz. This war featured the last time an English monarch led troops into battle when George II fought at Dettingen. This war gave the territory of (*) Silesia to Prussia through the treaty of Aix-la-Chapelle. For 10 points, name this war caused by the Pragmatic Sanction, which pitted Frederick the Great against the recently ascended Maria Theresa.": {
+    "guess": "War of the Austrian Succession",
+    "confidence": [
+      [
+        "War",
+        -0.00012916465
+      ],
+      [
+        " of",
+        0.0
+      ],
+      [
+        " the",
+        0.0
+      ],
+      [
+        " Austrian",
+        0.0
+      ],
+      [
+        " Succ",
+        0.0
+      ],
+      [
+        "ession",
+        0.0
+      ]
+    ]
+  }
+}

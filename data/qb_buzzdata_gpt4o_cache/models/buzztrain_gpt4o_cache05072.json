@@ -1,0 +1,231 @@
+{
+  "The next version of this language has the designation 0x (zero x). One important part of this language": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -1.0819507
+      ],
+      [
+        ".",
+        -0.20142299
+      ]
+    ]
+  },
+  "The next version of this language has the designation 0x (zero x). One important part of this language is templates and it supports references. One can manage memory in it by using the delete and new operators.": {
+    "guess": "C++",
+    "confidence": [
+      [
+        "C",
+        -6.122589e-05
+      ],
+      [
+        "++",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The next version of this language has the designation 0x (zero x). One important part of this language is templates and it supports references. One can manage memory in it by using the delete and new operators. In it, one can print to the standard output using cout. Unlike its ancestor, this language": {
+    "guess": "C++",
+    "confidence": [
+      [
+        "C",
+        -9.133887e-06
+      ],
+      [
+        "++",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The next version of this language has the designation 0x (zero x). One important part of this language is templates and it supports references. One can manage memory in it by using the delete and new operators. In it, one can print to the standard output using cout. Unlike its ancestor, this language supports classes. For 10 points, name this programming language whose name reflects that it is a step": {
+    "guess": "C++",
+    "confidence": [
+      [
+        "C",
+        -0.001946845
+      ],
+      [
+        "++",
+        -1.3856493e-06
+      ]
+    ]
+  },
+  "The next version of this language has the designation 0x (zero x). One important part of this language is templates and it supports references. One can manage memory in it by using the delete and new operators. In it, one can print to the standard output using cout. Unlike its ancestor, this language supports classes. For 10 points, name this programming language whose name reflects that it is a step up from its predecessor, C.": {
+    "guess": "C++",
+    "confidence": [
+      [
+        "C",
+        -0.0015167689
+      ],
+      [
+        "++",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Neylan McBaine leads a \"project\" named for these people. Since 1978, these people have been allowed to": {
+    "guess": "Mormon women",
+    "confidence": [
+      [
+        "M",
+        -0.36191812
+      ],
+      [
+        "ormon",
+        -0.040173765
+      ],
+      [
+        " women",
+        -0.5770279
+      ]
+    ]
+  },
+  "Neylan McBaine leads a \"project\" named for these people. Since 1978, these people have been allowed to speak in general conference. These people comprise the entire membership of the Relief Society, which": {
+    "guess": "Mormon women",
+    "confidence": [
+      [
+        "M",
+        -0.21111149
+      ],
+      [
+        "ormon",
+        -0.00034380643
+      ],
+      [
+        " women",
+        -0.020637302
+      ]
+    ]
+  },
+  "Neylan McBaine leads a \"project\" named for these people. Since 1978, these people have been allowed to speak in general conference. These people comprise the entire membership of the Relief Society, which since 1977 has been considered on par with the Melchizedek priesthood. A protest for the ordination": {
+    "guess": "Mormon women",
+    "confidence": [
+      [
+        "M",
+        -0.8766119
+      ],
+      [
+        "ormon",
+        -0.00011021859
+      ],
+      [
+        " women",
+        -0.018209998
+      ]
+    ]
+  },
+  "Neylan McBaine leads a \"project\" named for these people. Since 1978, these people have been allowed to speak in general conference. These people comprise the entire membership of the Relief Society, which since 1977 has been considered on par with the Melchizedek priesthood. A protest for the ordination of these people in April 2014 aroused ire by refusing to leave (*) Temple Square. In December 2012,": {
+    "guess": "Ordain Women",
+    "confidence": [
+      [
+        "Ord",
+        -0.5009432
+      ],
+      [
+        "ain",
+        -0.00027170655
+      ],
+      [
+        " Women",
+        -0.0001309527
+      ]
+    ]
+  },
+  "Neylan McBaine leads a \"project\" named for these people. Since 1978, these people have been allowed to speak in general conference. These people comprise the entire membership of the Relief Society, which since 1977 has been considered on par with the Melchizedek priesthood. A protest for the ordination of these people in April 2014 aroused ire by refusing to leave (*) Temple Square. In December 2012, these people staged a \"wear pants to church\" protest. For 10 points, identify these people who are": {
+    "guess": "Mormon women",
+    "confidence": [
+      [
+        "M",
+        -0.56360847
+      ],
+      [
+        "ormon",
+        -5.8603408e-05
+      ],
+      [
+        " women",
+        -0.057147074
+      ]
+    ]
+  },
+  "Neylan McBaine leads a \"project\" named for these people. Since 1978, these people have been allowed to speak in general conference. These people comprise the entire membership of the Relief Society, which since 1977 has been considered on par with the Melchizedek priesthood. A protest for the ordination of these people in April 2014 aroused ire by refusing to leave (*) Temple Square. In December 2012, these people staged a \"wear pants to church\" protest. For 10 points, identify these people who are currently barred from most leadership positions in the Latter-Day Saint movement, and are instead": {
+    "guess": "Mormon women",
+    "confidence": [
+      [
+        "M",
+        -0.6744335
+      ],
+      [
+        "ormon",
+        -2.4630364e-05
+      ],
+      [
+        " women",
+        -0.029658265
+      ]
+    ]
+  },
+  "Neylan McBaine leads a \"project\" named for these people. Since 1978, these people have been allowed to speak in general conference. These people comprise the entire membership of the Relief Society, which since 1977 has been considered on par with the Melchizedek priesthood. A protest for the ordination of these people in April 2014 aroused ire by refusing to leave (*) Temple Square. In December 2012, these people staged a \"wear pants to church\" protest. For 10 points, identify these people who are currently barred from most leadership positions in the Latter-Day Saint movement, and are instead expected to marry and bear children.": {
+    "guess": "LDS women",
+    "confidence": [
+      [
+        "L",
+        -0.72500545
+      ],
+      [
+        "DS",
+        -0.048723623
+      ],
+      [
+        " women",
+        -0.16974822
+      ]
+    ]
+  },
+  "The next NASA probe to visit this body will launch in November 2011 and is named Curiosity. Its highest": {
+    "guess": "Mars",
+    "confidence": [
+      [
+        "Mars",
+        -0.002942044
+      ]
+    ]
+  },
+  "The next NASA probe to visit this body will launch in November 2011 and is named Curiosity. Its highest point is located just outside the volcanic Tharsis region, and it is home to a large canyon known": {
+    "guess": "Mars",
+    "confidence": [
+      [
+        "Mars",
+        -0.7289235
+      ]
+    ]
+  },
+  "The next NASA probe to visit this body will launch in November 2011 and is named Curiosity. Its highest point is located just outside the volcanic Tharsis region, and it is home to a large canyon known as Valles Marineris. The tallest mountain in the Solar System, Olympus Mons, is located on this planet,": {
+    "guess": "Mars",
+    "confidence": [
+      [
+        "Mars",
+        -0.07538836
+      ]
+    ]
+  },
+  "The next NASA probe to visit this body will launch in November 2011 and is named Curiosity. Its highest point is located just outside the volcanic Tharsis region, and it is home to a large canyon known as Valles Marineris. The tallest mountain in the Solar System, Olympus Mons, is located on this planet, which is orbited by two Asaph Hall-discovered moons called Deimos and Phobos. For 10 points, name": {
+    "guess": "Mars",
+    "confidence": [
+      [
+        "Mars",
+        -0.21658634
+      ]
+    ]
+  },
+  "The next NASA probe to visit this body will launch in November 2011 and is named Curiosity. Its highest point is located just outside the volcanic Tharsis region, and it is home to a large canyon known as Valles Marineris. The tallest mountain in the Solar System, Olympus Mons, is located on this planet, which is orbited by two Asaph Hall-discovered moons called Deimos and Phobos. For 10 points, name our Solar System's 4th planet often known as the \"red planet.\"": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.597573
+      ]
+    ]
+  }
+}

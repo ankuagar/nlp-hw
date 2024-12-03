@@ -1,0 +1,1446 @@
+{
+  "Chesworth and Dejou applied this simple equation to work in soil chemistry, as a basis for the Hume-Rothery": {
+    "guess": "Hume-Rothery rules",
+    "confidence": [
+      [
+        "H",
+        -0.58756894
+      ],
+      [
+        "ume",
+        -0.0005788889
+      ],
+      [
+        "-R",
+        -0.00011021859
+      ],
+      [
+        "oth",
+        -2.8160932e-06
+      ],
+      [
+        "ery",
+        0.0
+      ],
+      [
+        " rules",
+        -0.014024344
+      ]
+    ]
+  },
+  "Chesworth and Dejou applied this simple equation to work in soil chemistry, as a basis for the Hume-Rothery rules. It can be extended to flow systems with the introduction of feed streams and extensive": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.9232387
+      ]
+    ]
+  },
+  "Chesworth and Dejou applied this simple equation to work in soil chemistry, as a basis for the Hume-Rothery rules. It can be extended to flow systems with the introduction of feed streams and extensive variables, and is sometimes used in conjunction with DePriester charts to tabulate data. It can be": {
+    "guess": "Gibbs' phase rule",
+    "confidence": [
+      [
+        "G",
+        -1.0510108
+      ],
+      [
+        "ib",
+        -3.1424974e-05
+      ],
+      [
+        "bs",
+        0.0
+      ],
+      [
+        "'",
+        -0.6064055
+      ],
+      [
+        " phase",
+        -0.04859316
+      ],
+      [
+        " rule",
+        -4.365741e-06
+      ]
+    ]
+  },
+  "Chesworth and Dejou applied this simple equation to work in soil chemistry, as a basis for the Hume-Rothery rules. It can be extended to flow systems with the introduction of feed streams and extensive variables, and is sometimes used in conjunction with DePriester charts to tabulate data. It can be quickly transformed into Euler's formula for simple polyhedra and arises out of an equation of its namesake": {
+    "guess": "Gibbs free energy",
+    "confidence": [
+      [
+        "G",
+        -0.024385441
+      ],
+      [
+        "ib",
+        -1.6882126e-05
+      ],
+      [
+        "bs",
+        0.0
+      ],
+      [
+        " free",
+        -0.5356029
+      ],
+      [
+        " energy",
+        0.0
+      ]
+    ]
+  },
+  "Chesworth and Dejou applied this simple equation to work in soil chemistry, as a basis for the Hume-Rothery rules. It can be extended to flow systems with the introduction of feed streams and extensive variables, and is sometimes used in conjunction with DePriester charts to tabulate data. It can be quickly transformed into Euler's formula for simple polyhedra and arises out of an equation of its namesake and Duhem. Its mathematical formulation for a system at equilibrium equates the number of components": {
+    "guess": "Phase rule",
+    "confidence": [
+      [
+        "Phase",
+        -0.47955856
+      ],
+      [
+        " rule",
+        -0.00011009939
+      ]
+    ]
+  },
+  "Chesworth and Dejou applied this simple equation to work in soil chemistry, as a basis for the Hume-Rothery rules. It can be extended to flow systems with the introduction of feed streams and extensive variables, and is sometimes used in conjunction with DePriester charts to tabulate data. It can be quickly transformed into Euler's formula for simple polyhedra and arises out of an equation of its namesake and Duhem. Its mathematical formulation for a system at equilibrium equates the number of components plus 2 to the degrees of freedom plus the number of distinct states. FTP, name this basic rule": {
+    "guess": "Phase rule",
+    "confidence": [
+      [
+        "Phase",
+        -0.40254587
+      ],
+      [
+        " rule",
+        -0.25194594
+      ]
+    ]
+  },
+  "Chesworth and Dejou applied this simple equation to work in soil chemistry, as a basis for the Hume-Rothery rules. It can be extended to flow systems with the introduction of feed streams and extensive variables, and is sometimes used in conjunction with DePriester charts to tabulate data. It can be quickly transformed into Euler's formula for simple polyhedra and arises out of an equation of its namesake and Duhem. Its mathematical formulation for a system at equilibrium equates the number of components plus 2 to the degrees of freedom plus the number of distinct states. FTP, name this basic rule of thermodynamics named for a guy who also has a certain free energy.": {
+    "guess": "Phase rule",
+    "confidence": [
+      [
+        "Phase",
+        -0.51369745
+      ],
+      [
+        " rule",
+        -0.100213036
+      ]
+    ]
+  },
+  "Chen's Theorem describes the representation of large instances of these. All degrees in a graph with": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.3056312
+      ]
+    ]
+  },
+  "Chen's Theorem describes the representation of large instances of these. All degrees in a graph with an Euler walk have this distinction. The Goldbach conjecture states that these above a certain value": {
+    "guess": "Prime number",
+    "confidence": [
+      [
+        "Prime",
+        -0.15087658
+      ],
+      [
+        " number",
+        -0.00026300468
+      ]
+    ]
+  },
+  "Chen's Theorem describes the representation of large instances of these. All degrees in a graph with an Euler walk have this distinction. The Goldbach conjecture states that these above a certain value can be written as the sum of two primes. Polynomials whose degree are of this type must have a global": {
+    "guess": "Even number",
+    "confidence": [
+      [
+        "Even",
+        -0.02222011
+      ],
+      [
+        " number",
+        -0.5936025
+      ]
+    ]
+  },
+  "Chen's Theorem describes the representation of large instances of these. All degrees in a graph with an Euler walk have this distinction. The Goldbach conjecture states that these above a certain value can be written as the sum of two primes. Polynomials whose degree are of this type must have a global maximum or minimum. The positive examples of these correspond to the binary numbers whose least significant": {
+    "guess": "Even number",
+    "confidence": [
+      [
+        "Even",
+        -0.047259137
+      ],
+      [
+        " number",
+        -0.2111856
+      ]
+    ]
+  },
+  "Chen's Theorem describes the representation of large instances of these. All degrees in a graph with an Euler walk have this distinction. The Goldbach conjecture states that these above a certain value can be written as the sum of two primes. Polynomials whose degree are of this type must have a global maximum or minimum. The positive examples of these correspond to the binary numbers whose least significant place is zero. For 10 points, name these numbers which are multiples of two and thus not": {
+    "guess": "Even Numbers",
+    "confidence": [
+      [
+        "Even",
+        -0.0010322151
+      ],
+      [
+        " Numbers",
+        -0.40410864
+      ]
+    ]
+  },
+  "Chen's Theorem describes the representation of large instances of these. All degrees in a graph with an Euler walk have this distinction. The Goldbach conjecture states that these above a certain value can be written as the sum of two primes. Polynomials whose degree are of this type must have a global maximum or minimum. The positive examples of these correspond to the binary numbers whose least significant place is zero. For 10 points, name these numbers which are multiples of two and thus not odd.": {
+    "guess": "Even Numbers",
+    "confidence": [
+      [
+        "Even",
+        -0.0001819682
+      ],
+      [
+        " Numbers",
+        -0.25198978
+      ]
+    ]
+  },
+  "While this chemist was employed at the Hercules Powder Company, he collaborated with his supervisor David": {
+    "guess": "Wallace Carothers",
+    "confidence": [
+      [
+        "Wall",
+        -0.3431532
+      ],
+      [
+        "ace",
+        -6.704273e-07
+      ],
+      [
+        " Car",
+        -0.16025652
+      ],
+      [
+        "others",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "While this chemist was employed at the Hercules Powder Company, he collaborated with his supervisor David Breslow to discover the general mechanism for hydroformylation. A better-known reaction named for": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.14924146
+      ]
+    ]
+  },
+  "While this chemist was employed at the Hercules Powder Company, he collaborated with his supervisor David Breslow to discover the general mechanism for hydroformylation. A better-known reaction named for this man has an intramolecular variant named for Mori and Ban, which can be used to synthesize indoles.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.44066054
+      ]
+    ]
+  },
+  "While this chemist was employed at the Hercules Powder Company, he collaborated with his supervisor David Breslow to discover the general mechanism for hydroformylation. A better-known reaction named for this man has an intramolecular variant named for Mori and Ban, which can be used to synthesize indoles. This man's reaction originally involved the formation of trans-stilbene from the combination": {
+    "guess": "E.J. Corey",
+    "confidence": [
+      [
+        "E",
+        -0.87654257
+      ],
+      [
+        ".J",
+        -0.27976182
+      ],
+      [
+        ".",
+        -2.3392786e-06
+      ],
+      [
+        " Corey",
+        -0.0002553793
+      ]
+    ]
+  },
+  "While this chemist was employed at the Hercules Powder Company, he collaborated with his supervisor David Breslow to discover the general mechanism for hydroformylation. A better-known reaction named for this man has an intramolecular variant named for Mori and Ban, which can be used to synthesize indoles. This man's reaction originally involved the formation of trans-stilbene from the combination of styrene and iodobenzene. In that reaction a transmetallation step is absent from the mechanism; after": {
+    "guess": "Heck reaction",
+    "confidence": [
+      [
+        "He",
+        -0.5828258
+      ],
+      [
+        "ck",
+        -7.58424e-06
+      ],
+      [
+        " reaction",
+        -0.048828993
+      ]
+    ]
+  },
+  "While this chemist was employed at the Hercules Powder Company, he collaborated with his supervisor David Breslow to discover the general mechanism for hydroformylation. A better-known reaction named for this man has an intramolecular variant named for Mori and Ban, which can be used to synthesize indoles. This man's reaction originally involved the formation of trans-stilbene from the combination of styrene and iodobenzene. In that reaction a transmetallation step is absent from the mechanism; after the universal oxidative addition step, the catalyst undergoes migratory insertion and beta-hydride": {
+    "guess": "Heck reaction",
+    "confidence": [
+      [
+        "He",
+        -0.028295143
+      ],
+      [
+        "ck",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.005236718
+      ]
+    ]
+  },
+  "While this chemist was employed at the Hercules Powder Company, he collaborated with his supervisor David Breslow to discover the general mechanism for hydroformylation. A better-known reaction named for this man has an intramolecular variant named for Mori and Ban, which can be used to synthesize indoles. This man's reaction originally involved the formation of trans-stilbene from the combination of styrene and iodobenzene. In that reaction a transmetallation step is absent from the mechanism; after the universal oxidative addition step, the catalyst undergoes migratory insertion and beta-hydride elimination, followed by deprotonation. That reaction creates carbon-carbon bonds by activating": {
+    "guess": "Heck reaction",
+    "confidence": [
+      [
+        "He",
+        -0.13740377
+      ],
+      [
+        "ck",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.0040833857
+      ]
+    ]
+  },
+  "While this chemist was employed at the Hercules Powder Company, he collaborated with his supervisor David Breslow to discover the general mechanism for hydroformylation. A better-known reaction named for this man has an intramolecular variant named for Mori and Ban, which can be used to synthesize indoles. This man's reaction originally involved the formation of trans-stilbene from the combination of styrene and iodobenzene. In that reaction a transmetallation step is absent from the mechanism; after the universal oxidative addition step, the catalyst undergoes migratory insertion and beta-hydride elimination, followed by deprotonation. That reaction creates carbon-carbon bonds by activating an alkene with a palladium catalyst, just like similar reactions named for Negishi and Suzuki, with": {
+    "guess": "Heck reaction",
+    "confidence": [
+      [
+        "He",
+        -0.013380917
+      ],
+      [
+        "ck",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.00026932248
+      ]
+    ]
+  },
+  "While this chemist was employed at the Hercules Powder Company, he collaborated with his supervisor David Breslow to discover the general mechanism for hydroformylation. A better-known reaction named for this man has an intramolecular variant named for Mori and Ban, which can be used to synthesize indoles. This man's reaction originally involved the formation of trans-stilbene from the combination of styrene and iodobenzene. In that reaction a transmetallation step is absent from the mechanism; after the universal oxidative addition step, the catalyst undergoes migratory insertion and beta-hydride elimination, followed by deprotonation. That reaction creates carbon-carbon bonds by activating an alkene with a palladium catalyst, just like similar reactions named for Negishi and Suzuki, with whom this man shared the Nobel Prize in 2010. The namesake of a reaction also titled for Mizoroki, FTP,": {
+    "guess": "Heck reaction",
+    "confidence": [
+      [
+        "He",
+        -0.0070668743
+      ],
+      [
+        "ck",
+        0.0
+      ],
+      [
+        " reaction",
+        -0.00056721066
+      ]
+    ]
+  },
+  "While this chemist was employed at the Hercules Powder Company, he collaborated with his supervisor David Breslow to discover the general mechanism for hydroformylation. A better-known reaction named for this man has an intramolecular variant named for Mori and Ban, which can be used to synthesize indoles. This man's reaction originally involved the formation of trans-stilbene from the combination of styrene and iodobenzene. In that reaction a transmetallation step is absent from the mechanism; after the universal oxidative addition step, the catalyst undergoes migratory insertion and beta-hydride elimination, followed by deprotonation. That reaction creates carbon-carbon bonds by activating an alkene with a palladium catalyst, just like similar reactions named for Negishi and Suzuki, with whom this man shared the Nobel Prize in 2010. The namesake of a reaction also titled for Mizoroki, FTP, name this American chemist who pioneered transition metal catalysis with his cross-coupling reaction.": {
+    "guess": "Heck reaction",
+    "confidence": [
+      [
+        "He",
+        -0.0022580219
+      ],
+      [
+        "ck",
+        -1.9361265e-07
+      ],
+      [
+        " reaction",
+        -0.0009243228
+      ]
+    ]
+  },
+  "This chemical compound is found naturally in the mineral cerargyrite, and is a white, cubic crystalline": {
+    "guess": "Silver chloride",
+    "confidence": [
+      [
+        "Silver",
+        -6.2775536e-05
+      ],
+      [
+        " chloride",
+        -0.00043162284
+      ]
+    ]
+  },
+  "This chemical compound is found naturally in the mineral cerargyrite, and is a white, cubic crystalline solid in its pure form. It is nearly insoluble in pure water, but is soluble in solutions containing": {
+    "guess": "Silver chloride",
+    "confidence": [
+      [
+        "Silver",
+        -0.001979549
+      ],
+      [
+        " chloride",
+        -0.00084166887
+      ]
+    ]
+  },
+  "This chemical compound is found naturally in the mineral cerargyrite, and is a white, cubic crystalline solid in its pure form. It is nearly insoluble in pure water, but is soluble in solutions containing ammonia, potassium cyanate or sodium thiosulfate. It changes to a deep grayish blue when exposed": {
+    "guess": "Silver chloride",
+    "confidence": [
+      [
+        "Silver",
+        -0.0015564015
+      ],
+      [
+        " chloride",
+        -0.0004477117
+      ]
+    ]
+  },
+  "This chemical compound is found naturally in the mineral cerargyrite, and is a white, cubic crystalline solid in its pure form. It is nearly insoluble in pure water, but is soluble in solutions containing ammonia, potassium cyanate or sodium thiosulfate. It changes to a deep grayish blue when exposed to light, because it decomposes into its constituent elements. FTP, name this chemical used in photography": {
+    "guess": "Silver chloride",
+    "confidence": [
+      [
+        "Silver",
+        -0.0009948218
+      ],
+      [
+        " chloride",
+        -1.1860543
+      ]
+    ]
+  },
+  "This chemical compound is found naturally in the mineral cerargyrite, and is a white, cubic crystalline solid in its pure form. It is nearly insoluble in pure water, but is soluble in solutions containing ammonia, potassium cyanate or sodium thiosulfate. It changes to a deep grayish blue when exposed to light, because it decomposes into its constituent elements. FTP, name this chemical used in photography and silver plating.": {
+    "guess": "Silver chloride",
+    "confidence": [
+      [
+        "Silver",
+        -0.00050311204
+      ],
+      [
+        " chloride",
+        -0.7221118
+      ]
+    ]
+  },
+  "Chemically related to abscisic acid, auxiliary buds are released from inhibition when treated with these": {
+    "guess": "Strigolactones",
+    "confidence": [
+      [
+        "Str",
+        -0.22837487
+      ],
+      [
+        "igol",
+        -1.9816675e-06
+      ],
+      [
+        "act",
+        0.0
+      ],
+      [
+        "ones",
+        -0.20141333
+      ]
+    ]
+  },
+  "Chemically related to abscisic acid, auxiliary buds are released from inhibition when treated with these substances. Derived from adenine, an example of this type of compound is 6-furfurylaminopurine,": {
+    "guess": "Cytokinin",
+    "confidence": [
+      [
+        "C",
+        -0.00035965684
+      ],
+      [
+        "yt",
+        0.0
+      ],
+      [
+        "ok",
+        -0.011047815
+      ],
+      [
+        "inin",
+        0.0
+      ]
+    ]
+  },
+  "Chemically related to abscisic acid, auxiliary buds are released from inhibition when treated with these substances. Derived from adenine, an example of this type of compound is 6-furfurylaminopurine, and certain compounds derived from urea are referred to as these compounds, even though not all of those": {
+    "guess": "Cytokinin",
+    "confidence": [
+      [
+        "C",
+        -0.00016861738
+      ],
+      [
+        "yt",
+        0.0
+      ],
+      [
+        "ok",
+        -0.3132617
+      ],
+      [
+        "inin",
+        0.0
+      ]
+    ]
+  },
+  "Chemically related to abscisic acid, auxiliary buds are released from inhibition when treated with these substances. Derived from adenine, an example of this type of compound is 6-furfurylaminopurine, and certain compounds derived from urea are referred to as these compounds, even though not all of those compounds are natural. Used commercially in the storage of green vegetables, for 10 points identify": {
+    "guess": "Cytokinin",
+    "confidence": [
+      [
+        "C",
+        -0.0005498142
+      ],
+      [
+        "yt",
+        0.0
+      ],
+      [
+        "ok",
+        -0.16022412
+      ],
+      [
+        "inin",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Chemically related to abscisic acid, auxiliary buds are released from inhibition when treated with these substances. Derived from adenine, an example of this type of compound is 6-furfurylaminopurine, and certain compounds derived from urea are referred to as these compounds, even though not all of those compounds are natural. Used commercially in the storage of green vegetables, for 10 points identify these nitrogen-based hormones that, along with inhibitors, auxins, and gibberellins regulate growth": {
+    "guess": "Cytokinin",
+    "confidence": [
+      [
+        "C",
+        -6.5278815e-05
+      ],
+      [
+        "yt",
+        0.0
+      ],
+      [
+        "ok",
+        -0.00015848507
+      ],
+      [
+        "inin",
+        0.0
+      ]
+    ]
+  },
+  "Chemically related to abscisic acid, auxiliary buds are released from inhibition when treated with these substances. Derived from adenine, an example of this type of compound is 6-furfurylaminopurine, and certain compounds derived from urea are referred to as these compounds, even though not all of those compounds are natural. Used commercially in the storage of green vegetables, for 10 points identify these nitrogen-based hormones that, along with inhibitors, auxins, and gibberellins regulate growth in plants.": {
+    "guess": "Cytokinin",
+    "confidence": [
+      [
+        "C",
+        -7.159661e-05
+      ],
+      [
+        "yt",
+        0.0
+      ],
+      [
+        "ok",
+        -0.00015848507
+      ],
+      [
+        "inin",
+        0.0
+      ]
+    ]
+  },
+  "Cheo-tsin, called the Sardanapalus of China, set fire to his palace with himself and his queen shut inside": {
+    "guess": "Zhou Xin",
+    "confidence": [
+      [
+        "Z",
+        -1.3743579
+      ],
+      [
+        "hou",
+        -0.926151
+      ],
+      [
+        " Xin",
+        -0.1383356
+      ]
+    ]
+  },
+  "Cheo-tsin, called the Sardanapalus of China, set fire to his palace with himself and his queen shut inside so that he wouldn't fall into the hands of Woowong, the founder of this dynasty. It saw the \"hundred": {
+    "guess": "Zhou dynasty",
+    "confidence": [
+      [
+        "Z",
+        -0.0028112906
+      ],
+      [
+        "hou",
+        0.0
+      ],
+      [
+        " dynasty",
+        -0.078891434
+      ]
+    ]
+  },
+  "Cheo-tsin, called the Sardanapalus of China, set fire to his palace with himself and his queen shut inside so that he wouldn't fall into the hands of Woowong, the founder of this dynasty. It saw the \"hundred schools of thought,\" and shares its name with a short-lived dynasty that was declared in 690": {
+    "guess": "Zhou dynasty",
+    "confidence": [
+      [
+        "Z",
+        -0.0123099685
+      ],
+      [
+        "hou",
+        0.0
+      ],
+      [
+        " dynasty",
+        -0.04862938
+      ]
+    ]
+  },
+  "Cheo-tsin, called the Sardanapalus of China, set fire to his palace with himself and his queen shut inside so that he wouldn't fall into the hands of Woowong, the founder of this dynasty. It saw the \"hundred schools of thought,\" and shares its name with a short-lived dynasty that was declared in 690 CE by the Empress Wu. For ten points, name this dynasty whose later Eastern period is further divided": {
+    "guess": "Zhou dynasty",
+    "confidence": [
+      [
+        "Z",
+        -0.0009249189
+      ],
+      [
+        "hou",
+        0.0
+      ],
+      [
+        " dynasty",
+        -0.2522465
+      ]
+    ]
+  },
+  "Cheo-tsin, called the Sardanapalus of China, set fire to his palace with himself and his queen shut inside so that he wouldn't fall into the hands of Woowong, the founder of this dynasty. It saw the \"hundred schools of thought,\" and shares its name with a short-lived dynasty that was declared in 690 CE by the Empress Wu. For ten points, name this dynasty whose later Eastern period is further divided into the Spring and Autumn period and the Warring States period, and which reigned between the Shang": {
+    "guess": "Zhou dynasty",
+    "confidence": [
+      [
+        "Z",
+        -0.0025692373
+      ],
+      [
+        "hou",
+        0.0
+      ],
+      [
+        " dynasty",
+        -0.0001596771
+      ]
+    ]
+  },
+  "Cheo-tsin, called the Sardanapalus of China, set fire to his palace with himself and his queen shut inside so that he wouldn't fall into the hands of Woowong, the founder of this dynasty. It saw the \"hundred schools of thought,\" and shares its name with a short-lived dynasty that was declared in 690 CE by the Empress Wu. For ten points, name this dynasty whose later Eastern period is further divided into the Spring and Autumn period and the Warring States period, and which reigned between the Shang and Qin dynasties.": {
+    "guess": "Zhou dynasty",
+    "confidence": [
+      [
+        "Z",
+        -0.000104496816
+      ],
+      [
+        "hou",
+        0.0
+      ],
+      [
+        " dynasty",
+        -0.029752921
+      ]
+    ]
+  },
+  "This chemist studied the effect of the triplet state on organic phosphorescence, and he contributed to": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.5610362
+      ],
+      [
+        ".",
+        -0.25196153
+      ]
+    ]
+  },
+  "This chemist studied the effect of the triplet state on organic phosphorescence, and he contributed to chemical thermodynamics by introducing the concepts of ionic strength, the activity coefficient, and": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.65707946
+      ],
+      [
+        ".",
+        -0.69316024
+      ]
+    ]
+  },
+  "This chemist studied the effect of the triplet state on organic phosphorescence, and he contributed to chemical thermodynamics by introducing the concepts of ionic strength, the activity coefficient, and fugacity. He coined the term \"photon\" to describe units of EM radiation and isolated the first sample": {
+    "guess": "Gilbert N. Lewis",
+    "confidence": [
+      [
+        "Gil",
+        -0.315039
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " N",
+        -0.00013333677
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Lewis",
+        0.0
+      ]
+    ]
+  },
+  "This chemist studied the effect of the triplet state on organic phosphorescence, and he contributed to chemical thermodynamics by introducing the concepts of ionic strength, the activity coefficient, and fugacity. He coined the term \"photon\" to describe units of EM radiation and isolated the first sample of deuterium oxide, or heavy water. He divided compounds into electron pair acceptors and donors": {
+    "guess": "Gilbert N. Lewis",
+    "confidence": [
+      [
+        "Gil",
+        -0.0032175223
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " N",
+        -0.00011510595
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Lewis",
+        0.0
+      ]
+    ]
+  },
+  "This chemist studied the effect of the triplet state on organic phosphorescence, and he contributed to chemical thermodynamics by introducing the concepts of ionic strength, the activity coefficient, and fugacity. He coined the term \"photon\" to describe units of EM radiation and isolated the first sample of deuterium oxide, or heavy water. He divided compounds into electron pair acceptors and donors with his acid-base theory. FTP, name this American chemist whose theory of covalent bonds led to his": {
+    "guess": "Gilbert N. Lewis",
+    "confidence": [
+      [
+        "Gil",
+        -0.08391979
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " N",
+        -0.036270656
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Lewis",
+        0.0
+      ]
+    ]
+  },
+  "This chemist studied the effect of the triplet state on organic phosphorescence, and he contributed to chemical thermodynamics by introducing the concepts of ionic strength, the activity coefficient, and fugacity. He coined the term \"photon\" to describe units of EM radiation and isolated the first sample of deuterium oxide, or heavy water. He divided compounds into electron pair acceptors and donors with his acid-base theory. FTP, name this American chemist whose theory of covalent bonds led to his namesake \"dot diagrams.\"": {
+    "guess": "Gilbert N. Lewis",
+    "confidence": [
+      [
+        "Gil",
+        -0.013098345
+      ],
+      [
+        "bert",
+        0.0
+      ],
+      [
+        " N",
+        -0.09198595
+      ],
+      [
+        ".",
+        0.0
+      ],
+      [
+        " Lewis",
+        0.0
+      ]
+    ]
+  },
+  "Cheney's algorithm, an extension of the semispace method, is one way to implement this procedure, and": {
+    "guess": "Garbage collection (computer science)",
+    "confidence": [
+      [
+        "Gar",
+        -0.0012204634
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -0.038043782
+      ],
+      [
+        " (",
+        -0.20158574
+      ],
+      [
+        "computer",
+        -0.0010395984
+      ],
+      [
+        " science",
+        -3.7385154e-05
+      ],
+      [
+        ")",
+        -5.080963e-06
+      ]
+    ]
+  },
+  "Cheney's algorithm, an extension of the semispace method, is one way to implement this procedure, and involves dividing the heap in half and copying elements back and forth between to-spaces. It's not": {
+    "guess": "Garbage collection (computer science)",
+    "confidence": [
+      [
+        "Gar",
+        -0.2543743
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -0.0025831473
+      ],
+      [
+        " (",
+        -7.77952e-05
+      ],
+      [
+        "computer",
+        -1.1994775e-05
+      ],
+      [
+        " science",
+        -1.6240566e-06
+      ],
+      [
+        ")",
+        -2.577686e-06
+      ]
+    ]
+  },
+  "Cheney's algorithm, an extension of the semispace method, is one way to implement this procedure, and involves dividing the heap in half and copying elements back and forth between to-spaces. It's not recursion, but LISP was an early language to support it, and cycles tend to lead to problems in a similar": {
+    "guess": "Garbage collection",
+    "confidence": [
+      [
+        "Gar",
+        -0.002093992
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -0.048608597
+      ]
+    ]
+  },
+  "Cheney's algorithm, an extension of the semispace method, is one way to implement this procedure, and involves dividing the heap in half and copying elements back and forth between to-spaces. It's not recursion, but LISP was an early language to support it, and cycles tend to lead to problems in a similar process to this called Reference Counting. One implementation of this process involves putting": {
+    "guess": "Garbage collection (computer science)",
+    "confidence": [
+      [
+        "Gar",
+        -0.13009077
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -0.0002321456
+      ],
+      [
+        " (",
+        -2.4584822e-06
+      ],
+      [
+        "computer",
+        -1.7716551e-05
+      ],
+      [
+        " science",
+        -1.0280384e-06
+      ],
+      [
+        ")",
+        -4.4849444e-06
+      ]
+    ]
+  },
+  "Cheney's algorithm, an extension of the semispace method, is one way to implement this procedure, and involves dividing the heap in half and copying elements back and forth between to-spaces. It's not recursion, but LISP was an early language to support it, and cycles tend to lead to problems in a similar process to this called Reference Counting. One implementation of this process involves putting a tag on every reachable block in memory and then freeing any block without a tag, and is known as": {
+    "guess": "Garbage collection (computer science)",
+    "confidence": [
+      [
+        "Gar",
+        -0.0036334465
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -0.048588052
+      ],
+      [
+        " (",
+        -0.0011757015
+      ],
+      [
+        "computer",
+        -0.0003958801
+      ],
+      [
+        " science",
+        -9.729906e-06
+      ],
+      [
+        ")",
+        -4.6802244e-05
+      ]
+    ]
+  },
+  "Cheney's algorithm, an extension of the semispace method, is one way to implement this procedure, and involves dividing the heap in half and copying elements back and forth between to-spaces. It's not recursion, but LISP was an early language to support it, and cycles tend to lead to problems in a similar process to this called Reference Counting. One implementation of this process involves putting a tag on every reachable block in memory and then freeing any block without a tag, and is known as Mark and Sweep. C and C++ do not have an automatic one built into the language, but Java does. FTP,": {
+    "guess": "Garbage collection (computer science)",
+    "confidence": [
+      [
+        "Gar",
+        -0.049236134
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -0.000203898
+      ],
+      [
+        " (",
+        -1.0280384e-06
+      ],
+      [
+        "computer",
+        -2.8160932e-06
+      ],
+      [
+        " science",
+        0.0
+      ],
+      [
+        ")",
+        -2.8160932e-06
+      ]
+    ]
+  },
+  "Cheney's algorithm, an extension of the semispace method, is one way to implement this procedure, and involves dividing the heap in half and copying elements back and forth between to-spaces. It's not recursion, but LISP was an early language to support it, and cycles tend to lead to problems in a similar process to this called Reference Counting. One implementation of this process involves putting a tag on every reachable block in memory and then freeing any block without a tag, and is known as Mark and Sweep. C and C++ do not have an automatic one built into the language, but Java does. FTP, identify this process where memory blocks no longer used are automatically trashed.": {
+    "guess": "Garbage collection (computer science)",
+    "confidence": [
+      [
+        "Gar",
+        -0.00092968706
+      ],
+      [
+        "bage",
+        0.0
+      ],
+      [
+        " collection",
+        -5.383526e-05
+      ],
+      [
+        " (",
+        -1.3186812e-05
+      ],
+      [
+        "computer",
+        -1.9361265e-07
+      ],
+      [
+        " science",
+        0.0
+      ],
+      [
+        ")",
+        -3.650519e-06
+      ]
+    ]
+  },
+  "Chechen Island sits in this body of water, which the Greeks called the Hyrcanian Sea and which is saline": {
+    "guess": "Caspian Sea",
+    "confidence": [
+      [
+        "C",
+        -0.00992974
+      ],
+      [
+        "asp",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Sea",
+        0.0
+      ]
+    ]
+  },
+  "Chechen Island sits in this body of water, which the Greeks called the Hyrcanian Sea and which is saline because it is a remnant of the Tethys Sea. Along with Lake Baikal, it is home to one of only two": {
+    "guess": "Caspian Sea",
+    "confidence": [
+      [
+        "C",
+        -0.26750425
+      ],
+      [
+        "asp",
+        -1.9361265e-07
+      ],
+      [
+        "ian",
+        -4.3202e-07
+      ],
+      [
+        " Sea",
+        -0.095755145
+      ]
+    ]
+  },
+  "Chechen Island sits in this body of water, which the Greeks called the Hyrcanian Sea and which is saline because it is a remnant of the Tethys Sea. Along with Lake Baikal, it is home to one of only two species of freshwater dolphin. In its north it receives both the Ural and Volga Rivers, and Turkmenistan": {
+    "guess": "Caspian Sea",
+    "confidence": [
+      [
+        "C",
+        -0.0005778161
+      ],
+      [
+        "asp",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Sea",
+        0.0
+      ]
+    ]
+  },
+  "Chechen Island sits in this body of water, which the Greeks called the Hyrcanian Sea and which is saline because it is a remnant of the Tethys Sea. Along with Lake Baikal, it is home to one of only two species of freshwater dolphin. In its north it receives both the Ural and Volga Rivers, and Turkmenistan and Kazakhstan comprise its eastern shoreline. The largest city on this body of water is on the": {
+    "guess": "Caspian Sea",
+    "confidence": [
+      [
+        "C",
+        -0.016121173
+      ],
+      [
+        "asp",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Sea",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Chechen Island sits in this body of water, which the Greeks called the Hyrcanian Sea and which is saline because it is a remnant of the Tethys Sea. Along with Lake Baikal, it is home to one of only two species of freshwater dolphin. In its north it receives both the Ural and Volga Rivers, and Turkmenistan and Kazakhstan comprise its eastern shoreline. The largest city on this body of water is on the Absheron Peninsula in Azerbaijan. Baku lies on, FTP, what inland \"sea,\" sometimes described as the": {
+    "guess": "Caspian Sea",
+    "confidence": [
+      [
+        "C",
+        -0.00012058931
+      ],
+      [
+        "asp",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Sea",
+        0.0
+      ]
+    ]
+  },
+  "Chechen Island sits in this body of water, which the Greeks called the Hyrcanian Sea and which is saline because it is a remnant of the Tethys Sea. Along with Lake Baikal, it is home to one of only two species of freshwater dolphin. In its north it receives both the Ural and Volga Rivers, and Turkmenistan and Kazakhstan comprise its eastern shoreline. The largest city on this body of water is on the Absheron Peninsula in Azerbaijan. Baku lies on, FTP, what inland \"sea,\" sometimes described as the largest lake in the world?": {
+    "guess": "Caspian Sea",
+    "confidence": [
+      [
+        "C",
+        -3.3451433e-05
+      ],
+      [
+        "asp",
+        0.0
+      ],
+      [
+        "ian",
+        0.0
+      ],
+      [
+        " Sea",
+        0.0
+      ]
+    ]
+  },
+  "The chemicals produced by this structute's parafollicular or c cells is stored in this organ's namesake": {
+    "guess": "Thyroid gland",
+    "confidence": [
+      [
+        "Th",
+        -0.18645634
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "roid",
+        -2.4749568e-05
+      ],
+      [
+        " gland",
+        -0.66284305
+      ]
+    ]
+  },
+  "The chemicals produced by this structute's parafollicular or c cells is stored in this organ's namesake \u2013globulin, created by its follicles. This organ is affected by Grave's disease and Hashimoto's syndrome,": {
+    "guess": "Thyroid",
+    "confidence": [
+      [
+        "Th",
+        -0.0012435633
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "roid",
+        0.0
+      ]
+    ]
+  },
+  "The chemicals produced by this structute's parafollicular or c cells is stored in this organ's namesake \u2013globulin, created by its follicles. This organ is affected by Grave's disease and Hashimoto's syndrome, which can affect calcitonin production, but its diseases can sometimes be treated by injections": {
+    "guess": "Thyroid",
+    "confidence": [
+      [
+        "Th",
+        -0.002018094
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "roid",
+        0.0
+      ]
+    ]
+  },
+  "The chemicals produced by this structute's parafollicular or c cells is stored in this organ's namesake \u2013globulin, created by its follicles. This organ is affected by Grave's disease and Hashimoto's syndrome, which can affect calcitonin production, but its diseases can sometimes be treated by injections of iodine-131, since this organ concentrates iodine, the lack of which causes a goiter. For ten": {
+    "guess": "Thyroid",
+    "confidence": [
+      [
+        "Th",
+        -0.009337036
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "roid",
+        0.0
+      ]
+    ]
+  },
+  "The chemicals produced by this structute's parafollicular or c cells is stored in this organ's namesake \u2013globulin, created by its follicles. This organ is affected by Grave's disease and Hashimoto's syndrome, which can affect calcitonin production, but its diseases can sometimes be treated by injections of iodine-131, since this organ concentrates iodine, the lack of which causes a goiter. For ten points, and this endocrine gland located on the throat that produced thyroxine.": {
+    "guess": "Thyroid gland",
+    "confidence": [
+      [
+        "Th",
+        -0.00041339206
+      ],
+      [
+        "y",
+        0.0
+      ],
+      [
+        "roid",
+        0.0
+      ],
+      [
+        " gland",
+        -0.38908076
+      ]
+    ]
+  },
+  "Your chemistry teacher tells you to prepare a 4N (4 normal) solution of sulfuric acid. The teacher directs": {
+    "guess": "Normality (chemistry)",
+    "confidence": [
+      [
+        "Normal",
+        -0.12922399
+      ],
+      [
+        "ity",
+        -8.506662e-05
+      ],
+      [
+        " (",
+        -0.16294537
+      ],
+      [
+        "chem",
+        -0.0041232808
+      ],
+      [
+        "istry",
+        -1.9361265e-07
+      ],
+      [
+        ")",
+        -1.5809293e-05
+      ]
+    ]
+  },
+  "Your chemistry teacher tells you to prepare a 4N (4 normal) solution of sulfuric acid. The teacher directs you to make the solution by diluting a dangerous 8M stock solution of sulfuric acid. If you desire": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.31337255
+      ]
+    ]
+  },
+  "Your chemistry teacher tells you to prepare a 4N (4 normal) solution of sulfuric acid. The teacher directs you to make the solution by diluting a dangerous 8M stock solution of sulfuric acid. If you desire to make 1 L of solution, FTP, how much stock solution should you add to how much water?": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.890291
+      ]
+    ]
+  },
+  "The chemical energy from this process is used to drive synthetic reactions such as the formation of sugars": {
+    "guess": "Photosynthesis",
+    "confidence": [
+      [
+        "Photos",
+        -0.0033975292
+      ],
+      [
+        "ynthesis",
+        0.0
+      ]
+    ]
+  },
+  "The chemical energy from this process is used to drive synthetic reactions such as the formation of sugars or the fixation of nitrogen into amino acids, the building blocks for protein synthesis. Organisms": {
+    "guess": "Photosynthesis",
+    "confidence": [
+      [
+        "Photos",
+        -0.0014008333
+      ],
+      [
+        "ynthesis",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "The chemical energy from this process is used to drive synthetic reactions such as the formation of sugars or the fixation of nitrogen into amino acids, the building blocks for protein synthesis. Organisms that produce energy through this process are called photoautotrophs. FTP name this process where": {
+    "guess": "Photosynthesis",
+    "confidence": [
+      [
+        "Photos",
+        -0.0003088871
+      ],
+      [
+        "ynthesis",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "The chemical energy from this process is used to drive synthetic reactions such as the formation of sugars or the fixation of nitrogen into amino acids, the building blocks for protein synthesis. Organisms that produce energy through this process are called photoautotrophs. FTP name this process where plants, algae, and some bacteria convert the energy from sunlight to chemical energy.": {
+    "guess": "Photosynthesis",
+    "confidence": [
+      [
+        "Photos",
+        -0.0091360025
+      ],
+      [
+        "ynthesis",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The chemiabsorption of benzoic acid derivatives has been found to increase this value in gallium arsenide.": {
+    "guess": "Work function",
+    "confidence": [
+      [
+        "Work",
+        -0.2891793
+      ],
+      [
+        " function",
+        -0.0024795814
+      ]
+    ]
+  },
+  "The chemiabsorption of benzoic acid derivatives has been found to increase this value in gallium arsenide. This quantity also appears in an equation relating the current density to the square of the temperature.": {
+    "guess": "Seebeck coefficient",
+    "confidence": [
+      [
+        "Se",
+        -0.5330907
+      ],
+      [
+        "ebe",
+        -7.3458323e-06
+      ],
+      [
+        "ck",
+        0.0
+      ],
+      [
+        " coefficient",
+        -0.00014942927
+      ]
+    ]
+  },
+  "The chemiabsorption of benzoic acid derivatives has been found to increase this value in gallium arsenide. This quantity also appears in an equation relating the current density to the square of the temperature. In addition to the Richardson-Dushman equation, this value is also central to the Edison": {
+    "guess": "Work function",
+    "confidence": [
+      [
+        "Work",
+        -0.4379762
+      ],
+      [
+        " function",
+        -0.0003357006
+      ]
+    ]
+  },
+  "The chemiabsorption of benzoic acid derivatives has been found to increase this value in gallium arsenide. This quantity also appears in an equation relating the current density to the square of the temperature. In addition to the Richardson-Dushman equation, this value is also central to the Edison effect, in which an input in heat causes thermionic (*) emission. Terbium and lithium have a similar": {
+    "guess": "Work function",
+    "confidence": [
+      [
+        "Work",
+        -0.089725904
+      ],
+      [
+        " function",
+        -0.00038062572
+      ]
+    ]
+  },
+  "The chemiabsorption of benzoic acid derivatives has been found to increase this value in gallium arsenide. This quantity also appears in an equation relating the current density to the square of the temperature. In addition to the Richardson-Dushman equation, this value is also central to the Edison effect, in which an input in heat causes thermionic (*) emission. Terbium and lithium have a similar value for this quantity, about 3 electron-Volts, and this quantity can be decreased for metals that": {
+    "guess": "Work function",
+    "confidence": [
+      [
+        "Work",
+        -0.079842605
+      ],
+      [
+        " function",
+        -0.0010339995
+      ]
+    ]
+  },
+  "The chemiabsorption of benzoic acid derivatives has been found to increase this value in gallium arsenide. This quantity also appears in an equation relating the current density to the square of the temperature. In addition to the Richardson-Dushman equation, this value is also central to the Edison effect, in which an input in heat causes thermionic (*) emission. Terbium and lithium have a similar value for this quantity, about 3 electron-Volts, and this quantity can be decreased for metals that have been coated with oxides. On the other hand, it tends to be largest for metals with closely packed": {
+    "guess": "Work function",
+    "confidence": [
+      [
+        "Work",
+        -0.011264504
+      ],
+      [
+        " function",
+        -0.0007106439
+      ]
+    ]
+  },
+  "The chemiabsorption of benzoic acid derivatives has been found to increase this value in gallium arsenide. This quantity also appears in an equation relating the current density to the square of the temperature. In addition to the Richardson-Dushman equation, this value is also central to the Edison effect, in which an input in heat causes thermionic (*) emission. Terbium and lithium have a similar value for this quantity, about 3 electron-Volts, and this quantity can be decreased for metals that have been coated with oxides. On the other hand, it tends to be largest for metals with closely packed lattice structures. Given by Planck's constant times the cutoff frequency, FTP, name this value,": {
+    "guess": "Work function",
+    "confidence": [
+      [
+        "Work",
+        -0.0053087045
+      ],
+      [
+        " function",
+        -0.00071147823
+      ]
+    ]
+  },
+  "The chemiabsorption of benzoic acid derivatives has been found to increase this value in gallium arsenide. This quantity also appears in an equation relating the current density to the square of the temperature. In addition to the Richardson-Dushman equation, this value is also central to the Edison effect, in which an input in heat causes thermionic (*) emission. Terbium and lithium have a similar value for this quantity, about 3 electron-Volts, and this quantity can be decreased for metals that have been coated with oxides. On the other hand, it tends to be largest for metals with closely packed lattice structures. Given by Planck's constant times the cutoff frequency, FTP, name this value, central to the photoelectric effect, giving the minimum amount of energy needed for an electron to": {
+    "guess": "Work function",
+    "confidence": [
+      [
+        "Work",
+        -0.025257492
+      ],
+      [
+        " function",
+        -3.1305768e-05
+      ]
+    ]
+  },
+  "The chemiabsorption of benzoic acid derivatives has been found to increase this value in gallium arsenide. This quantity also appears in an equation relating the current density to the square of the temperature. In addition to the Richardson-Dushman equation, this value is also central to the Edison effect, in which an input in heat causes thermionic (*) emission. Terbium and lithium have a similar value for this quantity, about 3 electron-Volts, and this quantity can be decreased for metals that have been coated with oxides. On the other hand, it tends to be largest for metals with closely packed lattice structures. Given by Planck's constant times the cutoff frequency, FTP, name this value, central to the photoelectric effect, giving the minimum amount of energy needed for an electron to be ejected from a metal.": {
+    "guess": "Work function",
+    "confidence": [
+      [
+        "Work",
+        -0.003646757
+      ],
+      [
+        " function",
+        -0.00014001218
+      ]
+    ]
+  }
+}

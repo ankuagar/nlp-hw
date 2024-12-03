@@ -1,0 +1,95 @@
+{
+  "One of the biggest undertaking of 20th century mathematics was the classification of the finite kind": {
+    "guess": "Classification of finite simple groups",
+    "confidence": [
+      [
+        "Classification",
+        -0.15930551
+      ],
+      [
+        " of",
+        -0.0001407274
+      ],
+      [
+        " finite",
+        -0.00071803085
+      ],
+      [
+        " simple",
+        -4.3202e-07
+      ],
+      [
+        " groups",
+        0.0
+      ]
+    ]
+  },
+  "One of the biggest undertaking of 20th century mathematics was the classification of the finite kind of these objects, which was completed in the early 1980s. The last one discovered was so large that": {
+    "guess": "Classification of finite simple groups",
+    "confidence": [
+      [
+        "Classification",
+        -0.05600186
+      ],
+      [
+        " of",
+        -3.070975e-05
+      ],
+      [
+        " finite",
+        -0.0022317364
+      ],
+      [
+        " simple",
+        -1.9361265e-07
+      ],
+      [
+        " groups",
+        0.0
+      ]
+    ]
+  },
+  "One of the biggest undertaking of 20th century mathematics was the classification of the finite kind of these objects, which was completed in the early 1980s. The last one discovered was so large that it was known as \"The Monster.\" The smallest example of one is the alternating group of even permutations": {
+    "guess": "Finite simple groups",
+    "confidence": [
+      [
+        "Finite",
+        -0.12944321
+      ],
+      [
+        " simple",
+        -0.0009132516
+      ],
+      [
+        " groups",
+        -0.42870173
+      ]
+    ]
+  },
+  "One of the biggest undertaking of 20th century mathematics was the classification of the finite kind of these objects, which was completed in the early 1980s. The last one discovered was so large that it was known as \"The Monster.\" The smallest example of one is the alternating group of even permutations of 5 objects. FTP, name this type of group, which is defined as one that has no non-trivial normal": {
+    "guess": "Simple group",
+    "confidence": [
+      [
+        "Simple",
+        -0.26011235
+      ],
+      [
+        " group",
+        -0.0030247679
+      ]
+    ]
+  },
+  "One of the biggest undertaking of 20th century mathematics was the classification of the finite kind of these objects, which was completed in the early 1980s. The last one discovered was so large that it was known as \"The Monster.\" The smallest example of one is the alternating group of even permutations of 5 objects. FTP, name this type of group, which is defined as one that has no non-trivial normal subgroups.": {
+    "guess": "Simple group",
+    "confidence": [
+      [
+        "Simple",
+        -0.004358791
+      ],
+      [
+        " group",
+        -0.00049477146
+      ]
+    ]
+  }
+}

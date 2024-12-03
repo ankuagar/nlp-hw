@@ -1,0 +1,670 @@
+{
+  "The sum of the squares of the reciprocals of this function evaluated at the nonnegative integers is equal": {
+    "guess": "Riemann zeta function",
+    "confidence": [
+      [
+        "R",
+        -0.24501921
+      ],
+      [
+        "iem",
+        0.0
+      ],
+      [
+        "ann",
+        -3.1281633e-07
+      ],
+      [
+        " z",
+        -0.020562442
+      ],
+      [
+        "eta",
+        0.0
+      ],
+      [
+        " function",
+        -6.749814e-06
+      ]
+    ]
+  },
+  "The sum of the squares of the reciprocals of this function evaluated at the nonnegative integers is equal to the modified Bessel function of the first kind at x=2. The Leviathan Number is found by evaluating": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.70993435
+      ]
+    ]
+  },
+  "The sum of the squares of the reciprocals of this function evaluated at the nonnegative integers is equal to the modified Bessel function of the first kind at x=2. The Leviathan Number is found by evaluating this function at 10 to the 666th power. The rising type can be represented with the Pochhammer": {
+    "guess": "Gamma function",
+    "confidence": [
+      [
+        "Gamma",
+        -0.19210108
+      ],
+      [
+        " function",
+        -3.3093824e-05
+      ]
+    ]
+  },
+  "The sum of the squares of the reciprocals of this function evaluated at the nonnegative integers is equal to the modified Bessel function of the first kind at x=2. The Leviathan Number is found by evaluating this function at 10 to the 666th power. The rising type can be represented with the Pochhammer Symbol. Wilson's Theorem states that this function of any prime minus 1 is also congruent to -1 modulo": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.018939584
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "The sum of the squares of the reciprocals of this function evaluated at the nonnegative integers is equal to the modified Bessel function of the first kind at x=2. The Leviathan Number is found by evaluating this function at 10 to the 666th power. The rising type can be represented with the Pochhammer Symbol. Wilson's Theorem states that this function of any prime minus 1 is also congruent to -1 modulo that prime. Legendre's theorem provides a corollary to determine the number of (*) trailing zeroes": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.002545578
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "The sum of the squares of the reciprocals of this function evaluated at the nonnegative integers is equal to the modified Bessel function of the first kind at x=2. The Leviathan Number is found by evaluating this function at 10 to the 666th power. The rising type can be represented with the Pochhammer Symbol. Wilson's Theorem states that this function of any prime minus 1 is also congruent to -1 modulo that prime. Legendre's theorem provides a corollary to determine the number of (*) trailing zeroes of this function evaluated at nonnegative integers. When this function is evaluated at large numbers,": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.060806006
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "The sum of the squares of the reciprocals of this function evaluated at the nonnegative integers is equal to the modified Bessel function of the first kind at x=2. The Leviathan Number is found by evaluating this function at 10 to the 666th power. The rising type can be represented with the Pochhammer Symbol. Wilson's Theorem states that this function of any prime minus 1 is also congruent to -1 modulo that prime. Legendre's theorem provides a corollary to determine the number of (*) trailing zeroes of this function evaluated at nonnegative integers. When this function is evaluated at large numbers, Stirling's approximation is used. The gamma function extends this function to all complex numbers": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.018170664
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "The sum of the squares of the reciprocals of this function evaluated at the nonnegative integers is equal to the modified Bessel function of the first kind at x=2. The Leviathan Number is found by evaluating this function at 10 to the 666th power. The rising type can be represented with the Pochhammer Symbol. Wilson's Theorem states that this function of any prime minus 1 is also congruent to -1 modulo that prime. Legendre's theorem provides a corollary to determine the number of (*) trailing zeroes of this function evaluated at nonnegative integers. When this function is evaluated at large numbers, Stirling's approximation is used. The gamma function extends this function to all complex numbers other than negative integers. For 10 points, name this function that, for positive integers n, is": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.00071088225
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "The sum of the squares of the reciprocals of this function evaluated at the nonnegative integers is equal to the modified Bessel function of the first kind at x=2. The Leviathan Number is found by evaluating this function at 10 to the 666th power. The rising type can be represented with the Pochhammer Symbol. Wilson's Theorem states that this function of any prime minus 1 is also congruent to -1 modulo that prime. Legendre's theorem provides a corollary to determine the number of (*) trailing zeroes of this function evaluated at nonnegative integers. When this function is evaluated at large numbers, Stirling's approximation is used. The gamma function extends this function to all complex numbers other than negative integers. For 10 points, name this function that, for positive integers n, is the product from 1 to n, and which is represented by an exclamation point.": {
+    "guess": "Factorial",
+    "confidence": [
+      [
+        "Factor",
+        -0.00012415809
+      ],
+      [
+        "ial",
+        0.0
+      ]
+    ]
+  },
+  "The sum of the first n consecutive odd integers results in this function of n. In carpentry, the steel": {
+    "guess": "Square numbers",
+    "confidence": [
+      [
+        "Square",
+        -0.018747844
+      ],
+      [
+        " numbers",
+        -0.4961458
+      ]
+    ]
+  },
+  "The sum of the first n consecutive odd integers results in this function of n. In carpentry, the steel one of these is used to make right angles. This shape was once used as an infantry formation to defend": {
+    "guess": "Square",
+    "confidence": [
+      [
+        "Square",
+        -0.0023408043
+      ]
+    ]
+  },
+  "The sum of the first n consecutive odd integers results in this function of n. In carpentry, the steel one of these is used to make right angles. This shape was once used as an infantry formation to defend against cavalry charges. It has the largest area of any other quadrilateral with the same perimeter.": {
+    "guess": "Square",
+    "confidence": [
+      [
+        "Square",
+        -0.0014516637
+      ]
+    ]
+  },
+  "The sum of the first n consecutive odd integers results in this function of n. In carpentry, the steel one of these is used to make right angles. This shape was once used as an infantry formation to defend against cavalry charges. It has the largest area of any other quadrilateral with the same perimeter. For ten points, name this equilateral four sided figure that has perpendicular diagonals.": {
+    "guess": "Square",
+    "confidence": [
+      [
+        "Square",
+        -0.0003740695
+      ]
+    ]
+  },
+  "Summer riots occurred in this country's Rakhine State against the minority Rohingya people, and this": {
+    "guess": "Myanmar",
+    "confidence": [
+      [
+        "Myanmar",
+        -0.53947973
+      ]
+    ]
+  },
+  "Summer riots occurred in this country's Rakhine State against the minority Rohingya people, and this nation is still fighting a civil war over governance in Kachin. One politician from this country was": {
+    "guess": "Aung San Suu Kyi",
+    "confidence": [
+      [
+        "A",
+        -0.0155168995
+      ],
+      [
+        "ung",
+        0.0
+      ],
+      [
+        " San",
+        -1.9361265e-07
+      ],
+      [
+        " Su",
+        -1.0280384e-06
+      ],
+      [
+        "u",
+        0.0
+      ],
+      [
+        " K",
+        0.0
+      ],
+      [
+        "yi",
+        0.0
+      ]
+    ]
+  },
+  "Summer riots occurred in this country's Rakhine State against the minority Rohingya people, and this nation is still fighting a civil war over governance in Kachin. One politician from this country was placed under house arrest after the National League for Democracy party dominated the 1990 elections.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.75080645
+      ]
+    ]
+  },
+  "Summer riots occurred in this country's Rakhine State against the minority Rohingya people, and this nation is still fighting a civil war over governance in Kachin. One politician from this country was placed under house arrest after the National League for Democracy party dominated the 1990 elections. Its current president, (*) Thein Sein, took over in 2011 from Than Shwe. For ten points, name this": {
+    "guess": "Myanmar",
+    "confidence": [
+      [
+        "Myanmar",
+        -0.27993175
+      ]
+    ]
+  },
+  "Summer riots occurred in this country's Rakhine State against the minority Rohingya people, and this nation is still fighting a civil war over governance in Kachin. One politician from this country was placed under house arrest after the National League for Democracy party dominated the 1990 elections. Its current president, (*) Thein Sein, took over in 2011 from Than Shwe. For ten points, name this Asian nation governed by a military junta from its recently-constructed capital Naypyidaw, home to": {
+    "guess": "Myanmar",
+    "confidence": [
+      [
+        "Myanmar",
+        -0.22696105
+      ]
+    ]
+  },
+  "Summer riots occurred in this country's Rakhine State against the minority Rohingya people, and this nation is still fighting a civil war over governance in Kachin. One politician from this country was placed under house arrest after the National League for Democracy party dominated the 1990 elections. Its current president, (*) Thein Sein, took over in 2011 from Than Shwe. For ten points, name this Asian nation governed by a military junta from its recently-constructed capital Naypyidaw, home to female opposition leader Aung San Suu Kyi.": {
+    "guess": "Myanmar",
+    "confidence": [
+      [
+        "Myanmar",
+        -0.2035841
+      ]
+    ]
+  },
+  "The sum of the reciprocals of Sylvester's Sequence converge to this number, and in ZF set theory, it": {
+    "guess": "ONE",
+    "confidence": [
+      [
+        "ONE",
+        -0.749952
+      ]
+    ]
+  },
+  "The sum of the reciprocals of Sylvester's Sequence converge to this number, and in ZF set theory, it is defined as the set whose only element is the empty set. This only odd number in the range of Euler's": {
+    "guess": "Two",
+    "confidence": [
+      [
+        "Two",
+        -0.79037774
+      ]
+    ]
+  },
+  "The sum of the reciprocals of Sylvester's Sequence converge to this number, and in ZF set theory, it is defined as the set whose only element is the empty set. This only odd number in the range of Euler's totient is the largest output possible of the Mobius function, and Egyptian fractions have this": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.31986478
+      ]
+    ]
+  },
+  "The sum of the reciprocals of Sylvester's Sequence converge to this number, and in ZF set theory, it is defined as the set whose only element is the empty set. This only odd number in the range of Euler's totient is the largest output possible of the Mobius function, and Egyptian fractions have this number as the numerator. (*) Zero-factorial is equal to this number, as is i to the fourth power. Events": {
+    "guess": "One",
+    "confidence": [
+      [
+        "One",
+        -0.18459135
+      ]
+    ]
+  },
+  "The sum of the reciprocals of Sylvester's Sequence converge to this number, and in ZF set theory, it is defined as the set whose only element is the empty set. This only odd number in the range of Euler's totient is the largest output possible of the Mobius function, and Egyptian fractions have this number as the numerator. (*) Zero-factorial is equal to this number, as is i to the fourth power. Events which will definitely occur have probability equal to this number, and, like zero, all powers of": {
+    "guess": "One",
+    "confidence": [
+      [
+        "One",
+        -0.37751192
+      ]
+    ]
+  },
+  "The sum of the reciprocals of Sylvester's Sequence converge to this number, and in ZF set theory, it is defined as the set whose only element is the empty set. This only odd number in the range of Euler's totient is the largest output possible of the Mobius function, and Egyptian fractions have this number as the numerator. (*) Zero-factorial is equal to this number, as is i to the fourth power. Events which will definitely occur have probability equal to this number, and, like zero, all powers of this number are equal to it. For ten points, give this multiplicative identity, the first positive": {
+    "guess": "One",
+    "confidence": [
+      [
+        "One",
+        -0.29592198
+      ]
+    ]
+  },
+  "The sum of the reciprocals of Sylvester's Sequence converge to this number, and in ZF set theory, it is defined as the set whose only element is the empty set. This only odd number in the range of Euler's totient is the largest output possible of the Mobius function, and Egyptian fractions have this number as the numerator. (*) Zero-factorial is equal to this number, as is i to the fourth power. Events which will definitely occur have probability equal to this number, and, like zero, all powers of this number are equal to it. For ten points, give this multiplicative identity, the first positive integer.": {
+    "guess": "One",
+    "confidence": [
+      [
+        "One",
+        -0.44027042
+      ]
+    ]
+  },
+  "They can be summed in a pair-wise fashion to create the generalized Hamaker theory. In addition to contributions": {
+    "guess": "Hamaker constant",
+    "confidence": [
+      [
+        "Ham",
+        -0.9830341
+      ],
+      [
+        "aker",
+        -3.1281633e-07
+      ],
+      [
+        " constant",
+        -0.31990963
+      ]
+    ]
+  },
+  "They can be summed in a pair-wise fashion to create the generalized Hamaker theory. In addition to contributions from ionic double layers, they comprise a major part of DLVO theory, and they are the source": {
+    "guess": "Van der Waals force",
+    "confidence": [
+      [
+        "Van",
+        -0.043986894
+      ],
+      [
+        " der",
+        -0.00050489645
+      ],
+      [
+        " Wa",
+        -1.0280384e-06
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " force",
+        -0.35180286
+      ]
+    ]
+  },
+  "They can be summed in a pair-wise fashion to create the generalized Hamaker theory. In addition to contributions from ionic double layers, they comprise a major part of DLVO theory, and they are the source of the term raised to the sixth power in the Lennard-Jones potential. Recent studies have developed": {
+    "guess": "Van der Waals force",
+    "confidence": [
+      [
+        "Van",
+        -0.95629454
+      ],
+      [
+        " der",
+        -3.1281633e-07
+      ],
+      [
+        " Wa",
+        0.0
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " force",
+        -0.02363163
+      ]
+    ]
+  },
+  "They can be summed in a pair-wise fashion to create the generalized Hamaker theory. In addition to contributions from ionic double layers, they comprise a major part of DLVO theory, and they are the source of the term raised to the sixth power in the Lennard-Jones potential. Recent studies have developed carbon nanotube hairs able to exploit them in a manner similar to geckos, which use them to stick": {
+    "guess": "Van der Waals force",
+    "confidence": [
+      [
+        "Van",
+        -0.027405811
+      ],
+      [
+        " der",
+        -3.1281633e-07
+      ],
+      [
+        " Wa",
+        0.0
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " force",
+        -0.0125784045
+      ]
+    ]
+  },
+  "They can be summed in a pair-wise fashion to create the generalized Hamaker theory. In addition to contributions from ionic double layers, they comprise a major part of DLVO theory, and they are the source of the term raised to the sixth power in the Lennard-Jones potential. Recent studies have developed carbon nanotube hairs able to exploit them in a manner similar to geckos, which use them to stick to surfaces. They include permanent, induced, and transient interactions, the latter known as London": {
+    "guess": "Van der Waals force",
+    "confidence": [
+      [
+        "Van",
+        -0.35706365
+      ],
+      [
+        " der",
+        -5.5122365e-07
+      ],
+      [
+        " Wa",
+        0.0
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " force",
+        -0.062026843
+      ]
+    ]
+  },
+  "They can be summed in a pair-wise fashion to create the generalized Hamaker theory. In addition to contributions from ionic double layers, they comprise a major part of DLVO theory, and they are the source of the term raised to the sixth power in the Lennard-Jones potential. Recent studies have developed carbon nanotube hairs able to exploit them in a manner similar to geckos, which use them to stick to surfaces. They include permanent, induced, and transient interactions, the latter known as London dispersion. For 10 points, name these general intermolecular forces, named for a Dutch scientist.": {
+    "guess": "Van der Waals force",
+    "confidence": [
+      [
+        "Van",
+        -0.0036879594
+      ],
+      [
+        " der",
+        -1.9361265e-07
+      ],
+      [
+        " Wa",
+        0.0
+      ],
+      [
+        "als",
+        0.0
+      ],
+      [
+        " force",
+        -0.0019291093
+      ]
+    ]
+  },
+  "What is the sum of the squares of the first eight natural numbers, that is one squared plus two squared": {
+    "guess": "None.",
+    "confidence": [
+      [
+        "None",
+        -0.14401296
+      ],
+      [
+        ".",
+        -0.5759564
+      ]
+    ]
+  },
+  "What is the sum of the squares of the first eight natural numbers, that is one squared plus two squared plus three squared up to eight squared? Computing this one term at a time may be difficult, but it": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.27061892
+      ]
+    ]
+  },
+  "What is the sum of the squares of the first eight natural numbers, that is one squared plus two squared plus three squared up to eight squared? Computing this one term at a time may be difficult, but it is easy to prove by induction a closed formula which holds for all natural numbers. Those of you who": {
+    "guess": "Square pyramidal number",
+    "confidence": [
+      [
+        "Square",
+        -0.1330201
+      ],
+      [
+        " pyram",
+        -0.0020327305
+      ],
+      [
+        "idal",
+        0.0
+      ],
+      [
+        " number",
+        -1.9027791e-05
+      ]
+    ]
+  },
+  "What is the sum of the squares of the first eight natural numbers, that is one squared plus two squared plus three squared up to eight squared? Computing this one term at a time may be difficult, but it is easy to prove by induction a closed formula which holds for all natural numbers. Those of you who have already learned the formula should know that the sum of the squares from one to \"n\" is equal": {
+    "guess": "Square pyramidal number",
+    "confidence": [
+      [
+        "Square",
+        -0.7102615
+      ],
+      [
+        " pyram",
+        -0.0017302793
+      ],
+      [
+        "idal",
+        0.0
+      ],
+      [
+        " number",
+        -0.000296136
+      ]
+    ]
+  },
+  "What is the sum of the squares of the first eight natural numbers, that is one squared plus two squared plus three squared up to eight squared? Computing this one term at a time may be difficult, but it is easy to prove by induction a closed formula which holds for all natural numbers. Those of you who have already learned the formula should know that the sum of the squares from one to \"n\" is equal to n times the quantity n plus one times the quantity two n plus one divided by six.": {
+    "guess": "Square pyramidal number",
+    "confidence": [
+      [
+        "Square",
+        -0.14979334
+      ],
+      [
+        " pyram",
+        -0.0006028342
+      ],
+      [
+        "idal",
+        0.0
+      ],
+      [
+        " number",
+        -3.4121115e-06
+      ]
+    ]
+  },
+  "In Sumerian myth, there were seven of these, known as the Anunnaki. The title Un-nefer was given to a": {
+    "guess": "Osiris",
+    "confidence": [
+      [
+        "Os",
+        -0.006809869
+      ],
+      [
+        "iris",
+        0.0
+      ]
+    ]
+  },
+  "In Sumerian myth, there were seven of these, known as the Anunnaki. The title Un-nefer was given to a member of the Ennead of Heliopolis in recognition of his work in this capacity. In Hindu belief, the": {
+    "guess": "Judges",
+    "confidence": [
+      [
+        "Jud",
+        -0.067572095
+      ],
+      [
+        "ges",
+        -6.869018e-06
+      ]
+    ]
+  },
+  "In Sumerian myth, there were seven of these, known as the Anunnaki. The title Un-nefer was given to a member of the Ennead of Heliopolis in recognition of his work in this capacity. In Hindu belief, the scribe Chitragupta helped the twin brother of Yamuna with his work in this role. In later Egyptian": {
+    "guess": "Underworld Judges",
+    "confidence": [
+      [
+        "Under",
+        -0.18663806
+      ],
+      [
+        "world",
+        0.0
+      ],
+      [
+        " Judges",
+        -0.35814348
+      ]
+    ]
+  },
+  "In Sumerian myth, there were seven of these, known as the Anunnaki. The title Un-nefer was given to a member of the Ennead of Heliopolis in recognition of his work in this capacity. In Hindu belief, the scribe Chitragupta helped the twin brother of Yamuna with his work in this role. In later Egyptian mythology, 42 auxiliary deities served this function in the Hall of the Two Truths in Duat. In Greek": {
+    "guess": "Judges of the dead",
+    "confidence": [
+      [
+        "Jud",
+        -0.20594785
+      ],
+      [
+        "ges",
+        -0.00014215785
+      ],
+      [
+        " of",
+        -0.0008515591
+      ],
+      [
+        " the",
+        -5.5122365e-07
+      ],
+      [
+        " dead",
+        -0.2208796
+      ]
+    ]
+  },
+  "In Sumerian myth, there were seven of these, known as the Anunnaki. The title Un-nefer was given to a member of the Ennead of Heliopolis in recognition of his work in this capacity. In Hindu belief, the scribe Chitragupta helped the twin brother of Yamuna with his work in this role. In later Egyptian mythology, 42 auxiliary deities served this function in the Hall of the Two Truths in Duat. In Greek myth, the son of Zeus and Aegina shared this job with two sons of Zeus and Europa. In Egyptian myth,": {
+    "guess": "Judge of the dead",
+    "confidence": [
+      [
+        "Judge",
+        -0.4476002
+      ],
+      [
+        " of",
+        -0.0126393745
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " dead",
+        -0.17273593
+      ]
+    ]
+  },
+  "In Sumerian myth, there were seven of these, known as the Anunnaki. The title Un-nefer was given to a member of the Ennead of Heliopolis in recognition of his work in this capacity. In Hindu belief, the scribe Chitragupta helped the twin brother of Yamuna with his work in this role. In later Egyptian mythology, 42 auxiliary deities served this function in the Hall of the Two Truths in Duat. In Greek myth, the son of Zeus and Aegina shared this job with two sons of Zeus and Europa. In Egyptian myth, the demon Ammit and the feather of Maat played roles in the work of, FTP, what sort of netherworld": {
+    "guess": "Judge of the Dead",
+    "confidence": [
+      [
+        "Judge",
+        -0.2675442
+      ],
+      [
+        " of",
+        -9.651017e-05
+      ],
+      [
+        " the",
+        -1.147242e-06
+      ],
+      [
+        " Dead",
+        -0.5831841
+      ]
+    ]
+  },
+  "In Sumerian myth, there were seven of these, known as the Anunnaki. The title Un-nefer was given to a member of the Ennead of Heliopolis in recognition of his work in this capacity. In Hindu belief, the scribe Chitragupta helped the twin brother of Yamuna with his work in this role. In later Egyptian mythology, 42 auxiliary deities served this function in the Hall of the Two Truths in Duat. In Greek myth, the son of Zeus and Aegina shared this job with two sons of Zeus and Europa. In Egyptian myth, the demon Ammit and the feather of Maat played roles in the work of, FTP, what sort of netherworld functionary, a role shared by Yama, Osiris, Aeacus, Minos, and Rhadamanthys?": {
+    "guess": "Judge of the dead",
+    "confidence": [
+      [
+        "Judge",
+        -0.060870502
+      ],
+      [
+        " of",
+        -1.7120534e-05
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " dead",
+        -0.24039623
+      ]
+    ]
+  }
+}

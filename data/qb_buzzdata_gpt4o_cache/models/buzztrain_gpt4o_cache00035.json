@@ -1,0 +1,80 @@
+{
+  "The Ackermann function cannot be expressed without using this procedure, and every effectively calculable": {
+    "guess": "Recursion",
+    "confidence": [
+      [
+        "Rec",
+        -0.63580066
+      ],
+      [
+        "ursion",
+        -6.098748e-05
+      ]
+    ]
+  },
+  "The Ackermann function cannot be expressed without using this procedure, and every effectively calculable function is general this by Church's thesis. All functions defined by course-of-values this are": {
+    "guess": "Recursion",
+    "confidence": [
+      [
+        "Rec",
+        -0.017074954
+      ],
+      [
+        "ursion",
+        -3.0545007e-06
+      ]
+    ]
+  },
+  "The Ackermann function cannot be expressed without using this procedure, and every effectively calculable function is general this by Church's thesis. All functions defined by course-of-values this are primitive this, and operations expressed using the \"tail\" form of this may easily be translated into": {
+    "guess": "Recursion",
+    "confidence": [
+      [
+        "Rec",
+        -0.014834261
+      ],
+      [
+        "ursion",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Ackermann function cannot be expressed without using this procedure, and every effectively calculable function is general this by Church's thesis. All functions defined by course-of-values this are primitive this, and operations expressed using the \"tail\" form of this may easily be translated into (*) iteration. Binary search uses this process to repeatedly divide a list into halves. Often used": {
+    "guess": "Recursion",
+    "confidence": [
+      [
+        "Rec",
+        -0.0012642826
+      ],
+      [
+        "ursion",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The Ackermann function cannot be expressed without using this procedure, and every effectively calculable function is general this by Church's thesis. All functions defined by course-of-values this are primitive this, and operations expressed using the \"tail\" form of this may easily be translated into (*) iteration. Binary search uses this process to repeatedly divide a list into halves. Often used to calculate elements of the Fibonacci sequence or values of the factorial function, for 10 points,": {
+    "guess": "Recursion",
+    "confidence": [
+      [
+        "Rec",
+        -7.910644e-05
+      ],
+      [
+        "ursion",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "The Ackermann function cannot be expressed without using this procedure, and every effectively calculable function is general this by Church's thesis. All functions defined by course-of-values this are primitive this, and operations expressed using the \"tail\" form of this may easily be translated into (*) iteration. Binary search uses this process to repeatedly divide a list into halves. Often used to calculate elements of the Fibonacci sequence or values of the factorial function, for 10 points, name this process wherein a function calls itself.": {
+    "guess": "Recursion",
+    "confidence": [
+      [
+        "Rec",
+        -4.406056e-05
+      ],
+      [
+        "ursion",
+        -1.147242e-06
+      ]
+    ]
+  }
+}

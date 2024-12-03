@@ -1,0 +1,791 @@
+{
+  "In fluid dynamics, this man's namesake equations govern inviscid flow. He names a formula for the distance": {
+    "guess": "Bernoulli's principle",
+    "confidence": [
+      [
+        "Bern",
+        -0.47933838
+      ],
+      [
+        "ou",
+        -1.9862217e-05
+      ],
+      [
+        "lli",
+        0.0
+      ],
+      [
+        "'s",
+        -0.00042698128
+      ],
+      [
+        " principle",
+        -0.017031362
+      ]
+    ]
+  },
+  "In fluid dynamics, this man's namesake equations govern inviscid flow. He names a formula for the distance between a triangle's incenter and circumcenter. In topology, his namesake characteristic, chi,": {
+    "guess": "Euler",
+    "confidence": [
+      [
+        "Euler",
+        -0.008348493
+      ]
+    ]
+  },
+  "In fluid dynamics, this man's namesake equations govern inviscid flow. He names a formula for the distance between a triangle's incenter and circumcenter. In topology, his namesake characteristic, chi, is the number of vertices, minus edges, plus faces, which for a polyhedron is always 2. The number": {
+    "guess": "Euler characteristic",
+    "confidence": [
+      [
+        "Euler",
+        -0.016171144
+      ],
+      [
+        " characteristic",
+        -0.05200807
+      ]
+    ]
+  },
+  "In fluid dynamics, this man's namesake equations govern inviscid flow. He names a formula for the distance between a triangle's incenter and circumcenter. In topology, his namesake characteristic, chi, is the number of vertices, minus edges, plus faces, which for a polyhedron is always 2. The number of smaller natural numbers coprime to a given natural number is this man's totient function. His namesake": {
+    "guess": "Euler",
+    "confidence": [
+      [
+        "Euler",
+        -0.040023502
+      ]
+    ]
+  },
+  "In fluid dynamics, this man's namesake equations govern inviscid flow. He names a formula for the distance between a triangle's incenter and circumcenter. In topology, his namesake characteristic, chi, is the number of vertices, minus edges, plus faces, which for a polyhedron is always 2. The number of smaller natural numbers coprime to a given natural number is this man's totient function. His namesake circuit is a solution to the Bridges of K\u00f6nigsberg problem, and his namesake formula states that": {
+    "guess": "Euler",
+    "confidence": [
+      [
+        "Euler",
+        -0.022310238
+      ]
+    ]
+  },
+  "In fluid dynamics, this man's namesake equations govern inviscid flow. He names a formula for the distance between a triangle's incenter and circumcenter. In topology, his namesake characteristic, chi, is the number of vertices, minus edges, plus faces, which for a polyhedron is always 2. The number of smaller natural numbers coprime to a given natural number is this man's totient function. His namesake circuit is a solution to the Bridges of K\u00f6nigsberg problem, and his namesake formula states that e to the ix equals cis x [\"sis ecks\"]. For 10 points, name this 18th century Swiss mathematician.": {
+    "guess": "Euler",
+    "confidence": [
+      [
+        "Euler",
+        -0.6871707
+      ]
+    ]
+  },
+  "In a fluid system, this quantity equals pressure times volumetric flow rate. In an AC circuit, the ratio": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.50927126
+      ]
+    ]
+  },
+  "In a fluid system, this quantity equals pressure times volumetric flow rate. In an AC circuit, the ratio between the real and apparent varieties of this quantity is known as its namesake factor, while": {
+    "guess": "Power factor",
+    "confidence": [
+      [
+        "Power",
+        -0.008986563
+      ],
+      [
+        " factor",
+        -0.008689506
+      ]
+    ]
+  },
+  "In a fluid system, this quantity equals pressure times volumetric flow rate. In an AC circuit, the ratio between the real and apparent varieties of this quantity is known as its namesake factor, while its complex variety uses units of volt-amperes. Its electrical type equals current times voltage, and": {
+    "guess": "Power (physics)",
+    "confidence": [
+      [
+        "Power",
+        -0.2500433
+      ],
+      [
+        " (",
+        -0.049889
+      ],
+      [
+        "physics",
+        -0.00012058931
+      ],
+      [
+        ")",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "In a fluid system, this quantity equals pressure times volumetric flow rate. In an AC circuit, the ratio between the real and apparent varieties of this quantity is known as its namesake factor, while its complex variety uses units of volt-amperes. Its electrical type equals current times voltage, and in a rotational system this quantity equals torque times angular velocity. Its integral with respect": {
+    "guess": "Power (physics)",
+    "confidence": [
+      [
+        "Power",
+        -0.03652676
+      ],
+      [
+        " (",
+        -0.0006554892
+      ],
+      [
+        "physics",
+        -8.061054e-06
+      ],
+      [
+        ")",
+        -6.869018e-06
+      ]
+    ]
+  },
+  "In a fluid system, this quantity equals pressure times volumetric flow rate. In an AC circuit, the ratio between the real and apparent varieties of this quantity is known as its namesake factor, while its complex variety uses units of volt-amperes. Its electrical type equals current times voltage, and in a rotational system this quantity equals torque times angular velocity. Its integral with respect to time gives the work done on a system, and it is equal to force dotted with velocity. For 10 points,": {
+    "guess": "Power (physics)",
+    "confidence": [
+      [
+        "Power",
+        -0.0028229433
+      ],
+      [
+        " (",
+        -0.008631823
+      ],
+      [
+        "physics",
+        -9.729906e-06
+      ],
+      [
+        ")",
+        -2.220075e-06
+      ]
+    ]
+  },
+  "In a fluid system, this quantity equals pressure times volumetric flow rate. In an AC circuit, the ratio between the real and apparent varieties of this quantity is known as its namesake factor, while its complex variety uses units of volt-amperes. Its electrical type equals current times voltage, and in a rotational system this quantity equals torque times angular velocity. Its integral with respect to time gives the work done on a system, and it is equal to force dotted with velocity. For 10 points, name this quantity, the rate of change of kinetic energy or quantity of work done per time, which": {
+    "guess": "Power (physics)",
+    "confidence": [
+      [
+        "Power",
+        -0.011174794
+      ],
+      [
+        " (",
+        -0.062071096
+      ],
+      [
+        "physics",
+        -1.8789384e-05
+      ],
+      [
+        ")",
+        -2.3392786e-06
+      ]
+    ]
+  },
+  "In a fluid system, this quantity equals pressure times volumetric flow rate. In an AC circuit, the ratio between the real and apparent varieties of this quantity is known as its namesake factor, while its complex variety uses units of volt-amperes. Its electrical type equals current times voltage, and in a rotational system this quantity equals torque times angular velocity. Its integral with respect to time gives the work done on a system, and it is equal to force dotted with velocity. For 10 points, name this quantity, the rate of change of kinetic energy or quantity of work done per time, which is measured in watts.": {
+    "guess": "Power (physics)",
+    "confidence": [
+      [
+        "Power",
+        -0.012524726
+      ],
+      [
+        " (",
+        -0.023327818
+      ],
+      [
+        "physics",
+        -2.0696643e-05
+      ],
+      [
+        ")",
+        -8.89548e-06
+      ]
+    ]
+  },
+  "Fluid movement across these entities is calculated by the Starling equation. In the kidney, the glomerulus": {
+    "guess": "Glomerular filtration barrier",
+    "confidence": [
+      [
+        "Gl",
+        -0.6816912
+      ],
+      [
+        "omer",
+        -3.1281633e-07
+      ],
+      [
+        "ular",
+        -0.3870769
+      ],
+      [
+        " filtration",
+        -0.10071144
+      ],
+      [
+        " barrier",
+        -0.37348473
+      ]
+    ]
+  },
+  "Fluid movement across these entities is calculated by the Starling equation. In the kidney, the glomerulus (glo-MAIR-you-lus) is formed of these entities, whose activity was first observed by Marcello": {
+    "guess": "Capillaries",
+    "confidence": [
+      [
+        "Cap",
+        -0.009860801
+      ],
+      [
+        "ill",
+        -0.57593966
+      ],
+      [
+        "aries",
+        0.0
+      ]
+    ]
+  },
+  "Fluid movement across these entities is calculated by the Starling equation. In the kidney, the glomerulus (glo-MAIR-you-lus) is formed of these entities, whose activity was first observed by Marcello Malphigi (mal-FEE-gee). \"Fenestrated\" types of these structures allow small amounts of protein and small": {
+    "guess": "Capillaries",
+    "confidence": [
+      [
+        "Cap",
+        -0.0026049104
+      ],
+      [
+        "ill",
+        -0.3132617
+      ],
+      [
+        "aries",
+        0.0
+      ]
+    ]
+  },
+  "Fluid movement across these entities is calculated by the Starling equation. In the kidney, the glomerulus (glo-MAIR-you-lus) is formed of these entities, whose activity was first observed by Marcello Malphigi (mal-FEE-gee). \"Fenestrated\" types of these structures allow small amounts of protein and small molecules to diffuse through them. Many of these structures are only one cell thick. Oxygen is": {
+    "guess": "Capillaries",
+    "confidence": [
+      [
+        "Cap",
+        -0.0028154552
+      ],
+      [
+        "ill",
+        -0.00043066923
+      ],
+      [
+        "aries",
+        0.0
+      ]
+    ]
+  },
+  "Fluid movement across these entities is calculated by the Starling equation. In the kidney, the glomerulus (glo-MAIR-you-lus) is formed of these entities, whose activity was first observed by Marcello Malphigi (mal-FEE-gee). \"Fenestrated\" types of these structures allow small amounts of protein and small molecules to diffuse through them. Many of these structures are only one cell thick. Oxygen is delivered to cells by diffusing across the walls of these vessels. For 10 points, name these smallest": {
+    "guess": "Capillaries",
+    "confidence": [
+      [
+        "Cap",
+        -0.000134052
+      ],
+      [
+        "ill",
+        -0.00012344286
+      ],
+      [
+        "aries",
+        0.0
+      ]
+    ]
+  },
+  "Fluid movement across these entities is calculated by the Starling equation. In the kidney, the glomerulus (glo-MAIR-you-lus) is formed of these entities, whose activity was first observed by Marcello Malphigi (mal-FEE-gee). \"Fenestrated\" types of these structures allow small amounts of protein and small molecules to diffuse through them. Many of these structures are only one cell thick. Oxygen is delivered to cells by diffusing across the walls of these vessels. For 10 points, name these smallest blood vessels in the human body.": {
+    "guess": "Capillary",
+    "confidence": [
+      [
+        "Cap",
+        -0.63263184
+      ],
+      [
+        "illary",
+        -0.023245595
+      ]
+    ]
+  },
+  "Fluctuations in these landmasses have been caused in part by periodic changes in heat received by the": {
+    "guess": "Milankovitch cycles",
+    "confidence": [
+      [
+        "Mil",
+        -0.07258467
+      ],
+      [
+        "ank",
+        -7.58424e-06
+      ],
+      [
+        "ov",
+        -3.7697225e-06
+      ],
+      [
+        "itch",
+        0.0
+      ],
+      [
+        " cycles",
+        -0.0028534941
+      ]
+    ]
+  },
+  "Fluctuations in these landmasses have been caused in part by periodic changes in heat received by the Sun.  During the Pleistocene Epoch, these covered 30 percent of the world\u201fs land area. They primarily": {
+    "guess": "Glaciers",
+    "confidence": [
+      [
+        "Gl",
+        -0.008099727
+      ],
+      [
+        "ac",
+        -0.20807725
+      ],
+      [
+        "iers",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Fluctuations in these landmasses have been caused in part by periodic changes in heat received by the Sun.  During the Pleistocene Epoch, these covered 30 percent of the world\u201fs land area. They primarily erode the terrain  through abrasion and plucking, and fields of drumlins and eskers are formed by": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.00035310065
+      ],
+      [
+        "acier",
+        -0.6205257
+      ]
+    ]
+  },
+  "Fluctuations in these landmasses have been caused in part by periodic changes in heat received by the Sun.  During the Pleistocene Epoch, these covered 30 percent of the world\u201fs land area. They primarily erode the terrain  through abrasion and plucking, and fields of drumlins and eskers are formed by these entities. Apart from the  oceans, they are the largest reservoir of total water and store about": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.000952433
+      ],
+      [
+        "acier",
+        -0.47482455
+      ]
+    ]
+  },
+  "Fluctuations in these landmasses have been caused in part by periodic changes in heat received by the Sun.  During the Pleistocene Epoch, these covered 30 percent of the world\u201fs land area. They primarily erode the terrain  through abrasion and plucking, and fields of drumlins and eskers are formed by these entities. Apart from the  oceans, they are the largest reservoir of total water and store about three- fourths of all fresh water in the world.  Ar\u00eates, horns, cirques, and moraines are also shaped": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.03098015
+      ],
+      [
+        "acier",
+        -0.01838136
+      ]
+    ]
+  },
+  "Fluctuations in these landmasses have been caused in part by periodic changes in heat received by the Sun.  During the Pleistocene Epoch, these covered 30 percent of the world\u201fs land area. They primarily erode the terrain  through abrasion and plucking, and fields of drumlins and eskers are formed by these entities. Apart from the  oceans, they are the largest reservoir of total water and store about three- fourths of all fresh water in the world.  Ar\u00eates, horns, cirques, and moraines are also shaped by these landmasses. FTP, name these perennial masses of ice  which move over land.": {
+    "guess": "Glacier",
+    "confidence": [
+      [
+        "Gl",
+        -0.0004388943
+      ],
+      [
+        "acier",
+        -0.0031803253
+      ]
+    ]
+  },
+  "A flurry of new spending projects in this region in 2011 will include the construction of a deepwater": {
+    "guess": "Arctic",
+    "confidence": [
+      [
+        "Ar",
+        -0.008077139
+      ],
+      [
+        "ctic",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "A flurry of new spending projects in this region in 2011 will include the construction of a deepwater port at Nanisivik and a new atmospheric research laboratory at Eureka. Since the 1962 closure of a": {
+    "guess": "The Arctic",
+    "confidence": [
+      [
+        "The",
+        -0.28350893
+      ],
+      [
+        " Arctic",
+        -0.051030725
+      ]
+    ]
+  },
+  "A flurry of new spending projects in this region in 2011 will include the construction of a deepwater port at Nanisivik and a new atmospheric research laboratory at Eureka. Since the 1962 closure of a nearby nickel mine, this place's second largest city of Rankin Inlet has been beset by unemployment,": {
+    "guess": "Nunavut",
+    "confidence": [
+      [
+        "Nun",
+        -0.103322364
+      ],
+      [
+        "avut",
+        0.0
+      ]
+    ]
+  },
+  "A flurry of new spending projects in this region in 2011 will include the construction of a deepwater port at Nanisivik and a new atmospheric research laboratory at Eureka. Since the 1962 closure of a nearby nickel mine, this place's second largest city of Rankin Inlet has been beset by unemployment, and that city understandably lost a 1995 plebiscite to be this place's capital. This territory includes": {
+    "guess": "Nunavut",
+    "confidence": [
+      [
+        "Nun",
+        -0.08109927
+      ],
+      [
+        "avut",
+        0.0
+      ]
+    ]
+  },
+  "A flurry of new spending projects in this region in 2011 will include the construction of a deepwater port at Nanisivik and a new atmospheric research laboratory at Eureka. Since the 1962 closure of a nearby nickel mine, this place's second largest city of Rankin Inlet has been beset by unemployment, and that city understandably lost a 1995 plebiscite to be this place's capital. This territory includes one island in James Bay and the eastern half of Victoria Island, and Frobisher Bay was the old": {
+    "guess": "Nunavut",
+    "confidence": [
+      [
+        "Nun",
+        -0.091460414
+      ],
+      [
+        "avut",
+        0.0
+      ]
+    ]
+  },
+  "A flurry of new spending projects in this region in 2011 will include the construction of a deepwater port at Nanisivik and a new atmospheric research laboratory at Eureka. Since the 1962 closure of a nearby nickel mine, this place's second largest city of Rankin Inlet has been beset by unemployment, and that city understandably lost a 1995 plebiscite to be this place's capital. This territory includes one island in James Bay and the eastern half of Victoria Island, and Frobisher Bay was the old name of its capital city, Iqaluit, which is located on Baffin Island. For 10 points, identify this majority-Inuit": {
+    "guess": "Nunavut",
+    "confidence": [
+      [
+        "Nun",
+        -0.030371325
+      ],
+      [
+        "avut",
+        0.0
+      ]
+    ]
+  },
+  "A flurry of new spending projects in this region in 2011 will include the construction of a deepwater port at Nanisivik and a new atmospheric research laboratory at Eureka. Since the 1962 closure of a nearby nickel mine, this place's second largest city of Rankin Inlet has been beset by unemployment, and that city understandably lost a 1995 plebiscite to be this place's capital. This territory includes one island in James Bay and the eastern half of Victoria Island, and Frobisher Bay was the old name of its capital city, Iqaluit, which is located on Baffin Island. For 10 points, identify this majority-Inuit Canadian territory that in 1999 split off from the Northwest Territory.": {
+    "guess": "Nunavut",
+    "confidence": [
+      [
+        "Nun",
+        -0.100621015
+      ],
+      [
+        "avut",
+        0.0
+      ]
+    ]
+  },
+  "The 5-fluoro form of this compound is an anticancer drug, while methylation of it can produce another": {
+    "guess": "Uracil",
+    "confidence": [
+      [
+        "Ur",
+        -0.08747741
+      ],
+      [
+        "ac",
+        -9.014684e-06
+      ],
+      [
+        "il",
+        0.0
+      ]
+    ]
+  },
+  "The 5-fluoro form of this compound is an anticancer drug, while methylation of it can produce another pyrimidine, a process which occurs to protect DNA. It can be synthesized by reacting cytosine with": {
+    "guess": "5-Fluorouracil",
+    "confidence": [
+      [
+        "5",
+        -0.40810066
+      ],
+      [
+        "-Fl",
+        -0.040408377
+      ],
+      [
+        "u",
+        -8.657073e-06
+      ],
+      [
+        "or",
+        -2.1650272e-05
+      ],
+      [
+        "our",
+        -0.0001719551
+      ],
+      [
+        "ac",
+        -1.9361265e-07
+      ],
+      [
+        "il",
+        0.0
+      ]
+    ]
+  },
+  "The 5-fluoro form of this compound is an anticancer drug, while methylation of it can produce another pyrimidine, a process which occurs to protect DNA. It can be synthesized by reacting cytosine with water, producing ammonia and this compound. This nitrogenous base forms a nucleoside when bound to either": {
+    "guess": "Uracil",
+    "confidence": [
+      [
+        "Ur",
+        -0.25983995
+      ],
+      [
+        "ac",
+        -9.0883464e-07
+      ],
+      [
+        "il",
+        0.0
+      ]
+    ]
+  },
+  "The 5-fluoro form of this compound is an anticancer drug, while methylation of it can produce another pyrimidine, a process which occurs to protect DNA. It can be synthesized by reacting cytosine with water, producing ammonia and this compound. This nitrogenous base forms a nucleoside when bound to either a deoxyribose or ribose ring, although it is more commonly found in RNA. Depending on its configuration,": {
+    "guess": "Uracil",
+    "confidence": [
+      [
+        "Ur",
+        -0.079164505
+      ],
+      [
+        "ac",
+        -2.7610455e-05
+      ],
+      [
+        "il",
+        0.0
+      ]
+    ]
+  },
+  "The 5-fluoro form of this compound is an anticancer drug, while methylation of it can produce another pyrimidine, a process which occurs to protect DNA. It can be synthesized by reacting cytosine with water, producing ammonia and this compound. This nitrogenous base forms a nucleoside when bound to either a deoxyribose or ribose ring, although it is more commonly found in RNA. Depending on its configuration, it can base-pair with almost any other base, though it does show a clear preference for adenine.": {
+    "guess": "Uracil",
+    "confidence": [
+      [
+        "Ur",
+        -0.003696874
+      ],
+      [
+        "ac",
+        -1.6240566e-06
+      ],
+      [
+        "il",
+        0.0
+      ]
+    ]
+  },
+  "The 5-fluoro form of this compound is an anticancer drug, while methylation of it can produce another pyrimidine, a process which occurs to protect DNA. It can be synthesized by reacting cytosine with water, producing ammonia and this compound. This nitrogenous base forms a nucleoside when bound to either a deoxyribose or ribose ring, although it is more commonly found in RNA. Depending on its configuration, it can base-pair with almost any other base, though it does show a clear preference for adenine. FTP, name this compound replaced by thymine in DNA.": {
+    "guess": "Uracil",
+    "confidence": [
+      [
+        "Ur",
+        -0.010462627
+      ],
+      [
+        "ac",
+        -7.9418505e-06
+      ],
+      [
+        "il",
+        0.0
+      ]
+    ]
+  },
+  "The fluorescent dye SYBR green I [S Y B R green one] and the \"molecular beacon\" method use fluorescence": {
+    "guess": "Real-time polymerase chain reaction",
+    "confidence": [
+      [
+        "Real",
+        -0.2621256
+      ],
+      [
+        "-time",
+        -0.00083488156
+      ],
+      [
+        " polymer",
+        -0.06433856
+      ],
+      [
+        "ase",
+        0.0
+      ],
+      [
+        " chain",
+        0.0
+      ],
+      [
+        " reaction",
+        0.0
+      ]
+    ]
+  },
+  "The fluorescent dye SYBR green I [S Y B R green one] and the \"molecular beacon\" method use fluorescence to measure its progress, and the RACE method is based on it. Elevated presence of magnesium ions": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.47769186
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        "ase",
+        0.0
+      ],
+      [
+        " chain",
+        -0.033646967
+      ],
+      [
+        " reaction",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The fluorescent dye SYBR green I [S Y B R green one] and the \"molecular beacon\" method use fluorescence to measure its progress, and the RACE method is based on it. Elevated presence of magnesium ions increases its mutation rate, and it is often a precursor to single-strand conformation polymorphism.": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.10048648
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        "ase",
+        0.0
+      ],
+      [
+        " chain",
+        -0.0024760163
+      ],
+      [
+        " reaction",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The fluorescent dye SYBR green I [S Y B R green one] and the \"molecular beacon\" method use fluorescence to measure its progress, and the RACE method is based on it. Elevated presence of magnesium ions increases its mutation rate, and it is often a precursor to single-strand conformation polymorphism. Its three steps consist of the heat-induced separation of two template strands, reduction of temperature": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.0056132884
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        "ase",
+        0.0
+      ],
+      [
+        " chain",
+        -0.026300417
+      ],
+      [
+        " reaction",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The fluorescent dye SYBR green I [S Y B R green one] and the \"molecular beacon\" method use fluorescence to measure its progress, and the RACE method is based on it. Elevated presence of magnesium ions increases its mutation rate, and it is often a precursor to single-strand conformation polymorphism. Its three steps consist of the heat-induced separation of two template strands, reduction of temperature so the primers can anneal to the strands, and addition of nucleotides using the Taq polymerase": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -0.0042580194
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        "ase",
+        0.0
+      ],
+      [
+        " chain",
+        -4.3202e-07
+      ],
+      [
+        " reaction",
+        0.0
+      ]
+    ]
+  },
+  "The fluorescent dye SYBR green I [S Y B R green one] and the \"molecular beacon\" method use fluorescence to measure its progress, and the RACE method is based on it. Elevated presence of magnesium ions increases its mutation rate, and it is often a precursor to single-strand conformation polymorphism. Its three steps consist of the heat-induced separation of two template strands, reduction of temperature so the primers can anneal to the strands, and addition of nucleotides using the Taq polymerase enzyme. For 10 points, name this technique developed in 1983 by Kary Mullis, which is used for quickly": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -9.877504e-05
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        "ase",
+        0.0
+      ],
+      [
+        " chain",
+        -1.2664457e-06
+      ],
+      [
+        " reaction",
+        0.0
+      ]
+    ]
+  },
+  "The fluorescent dye SYBR green I [S Y B R green one] and the \"molecular beacon\" method use fluorescence to measure its progress, and the RACE method is based on it. Elevated presence of magnesium ions increases its mutation rate, and it is often a precursor to single-strand conformation polymorphism. Its three steps consist of the heat-induced separation of two template strands, reduction of temperature so the primers can anneal to the strands, and addition of nucleotides using the Taq polymerase enzyme. For 10 points, name this technique developed in 1983 by Kary Mullis, which is used for quickly copying segments of DNA.": {
+    "guess": "Polymerase chain reaction",
+    "confidence": [
+      [
+        "Poly",
+        -7.79144e-05
+      ],
+      [
+        "mer",
+        0.0
+      ],
+      [
+        "ase",
+        0.0
+      ],
+      [
+        " chain",
+        -1.6240566e-06
+      ],
+      [
+        " reaction",
+        0.0
+      ]
+    ]
+  }
+}

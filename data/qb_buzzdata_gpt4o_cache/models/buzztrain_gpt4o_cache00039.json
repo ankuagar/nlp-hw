@@ -1,0 +1,525 @@
+{
+  "Across the street from this building, its architect designed a row of four mansions much better matching": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1509207
+      ]
+    ]
+  },
+  "Across the street from this building, its architect designed a row of four mansions much better matching modern architecture on Erasmus Lane. Each room in this building matches its patron's criteria of": {
+    "guess": "Winchester Mystery House",
+    "confidence": [
+      [
+        "Win",
+        -1.0596963
+      ],
+      [
+        "chester",
+        -0.00028064317
+      ],
+      [
+        " Mystery",
+        -0.023400847
+      ],
+      [
+        " House",
+        0.0
+      ]
+    ]
+  },
+  "Across the street from this building, its architect designed a row of four mansions much better matching modern architecture on Erasmus Lane. Each room in this building matches its patron's criteria of having a bed fit in at least two directions, direct water and drainage, and access to the outside,": {
+    "guess": "Fallingwater",
+    "confidence": [
+      [
+        "F",
+        -0.5092332
+      ],
+      [
+        "alling",
+        -7.13582e-05
+      ],
+      [
+        "water",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Across the street from this building, its architect designed a row of four mansions much better matching modern architecture on Erasmus Lane. Each room in this building matches its patron's criteria of having a bed fit in at least two directions, direct water and drainage, and access to the outside, and a corner window looks out on the city near this building, providing light to the interior, as does": {
+    "guess": "Villa Savoye",
+    "confidence": [
+      [
+        "Villa",
+        -0.104277894
+      ],
+      [
+        " Sav",
+        -0.042813845
+      ],
+      [
+        "oye",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "Across the street from this building, its architect designed a row of four mansions much better matching modern architecture on Erasmus Lane. Each room in this building matches its patron's criteria of having a bed fit in at least two directions, direct water and drainage, and access to the outside, and a corner window looks out on the city near this building, providing light to the interior, as does the skylight in its flat roof. The designer of this building used his namesake joints in the design": {
+    "guess": "Fallingwater",
+    "confidence": [
+      [
+        "F",
+        -0.8674438
+      ],
+      [
+        "alling",
+        -0.004111762
+      ],
+      [
+        "water",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "Across the street from this building, its architect designed a row of four mansions much better matching modern architecture on Erasmus Lane. Each room in this building matches its patron's criteria of having a bed fit in at least two directions, direct water and drainage, and access to the outside, and a corner window looks out on the city near this building, providing light to the interior, as does the skylight in its flat roof. The designer of this building used his namesake joints in the design for his Red and Blue Chair. Its bottom floor has a kitchen, storage room, servant's room, reading": {
+    "guess": "Rietveld Schr\u00f6der House",
+    "confidence": [
+      [
+        "R",
+        -0.015578285
+      ],
+      [
+        "iet",
+        0.0
+      ],
+      [
+        "veld",
+        -4.3202e-07
+      ],
+      [
+        " Schr",
+        -6.909333e-05
+      ],
+      [
+        "\u00f6",
+        -5.5122365e-07
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        " House",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Across the street from this building, its architect designed a row of four mansions much better matching modern architecture on Erasmus Lane. Each room in this building matches its patron's criteria of having a bed fit in at least two directions, direct water and drainage, and access to the outside, and a corner window looks out on the city near this building, providing light to the interior, as does the skylight in its flat roof. The designer of this building used his namesake joints in the design for his Red and Blue Chair. Its bottom floor has a kitchen, storage room, servant's room, reading room, and studio space, which the designer used for a few years as his own office. On the other hand,": {
+    "guess": "Rietveld Schr\u00f6der House",
+    "confidence": [
+      [
+        "R",
+        -0.004015715
+      ],
+      [
+        "iet",
+        0.0
+      ],
+      [
+        "veld",
+        -3.1281633e-07
+      ],
+      [
+        " Schr",
+        -0.00020580526
+      ],
+      [
+        "\u00f6",
+        -7.89631e-07
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        " House",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Across the street from this building, its architect designed a row of four mansions much better matching modern architecture on Erasmus Lane. Each room in this building matches its patron's criteria of having a bed fit in at least two directions, direct water and drainage, and access to the outside, and a corner window looks out on the city near this building, providing light to the interior, as does the skylight in its flat roof. The designer of this building used his namesake joints in the design for his Red and Blue Chair. Its bottom floor has a kitchen, storage room, servant's room, reading room, and studio space, which the designer used for a few years as his own office. On the other hand, in order to provide expansive room for children to play in the day, and private bedrooms at night,": {
+    "guess": "Rietveld Schr\u00f6der House",
+    "confidence": [
+      [
+        "R",
+        -0.028539395
+      ],
+      [
+        "iet",
+        0.0
+      ],
+      [
+        "veld",
+        -4.3202e-07
+      ],
+      [
+        " Schr",
+        -0.00015335932
+      ],
+      [
+        "\u00f6",
+        -6.704273e-07
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        " House",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Across the street from this building, its architect designed a row of four mansions much better matching modern architecture on Erasmus Lane. Each room in this building matches its patron's criteria of having a bed fit in at least two directions, direct water and drainage, and access to the outside, and a corner window looks out on the city near this building, providing light to the interior, as does the skylight in its flat roof. The designer of this building used his namesake joints in the design for his Red and Blue Chair. Its bottom floor has a kitchen, storage room, servant's room, reading room, and studio space, which the designer used for a few years as his own office. On the other hand, in order to provide expansive room for children to play in the day, and private bedrooms at night, the concertina walls on its upper floor can divide the area into one room or six, and its exterior": {
+    "guess": "Rietveld Schr\u00f6der House",
+    "confidence": [
+      [
+        "R",
+        -0.015251593
+      ],
+      [
+        "iet",
+        0.0
+      ],
+      [
+        "veld",
+        -4.3202e-07
+      ],
+      [
+        " Schr",
+        -0.00010354319
+      ],
+      [
+        "\u00f6",
+        -5.5122365e-07
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        " House",
+        -9.0883464e-07
+      ]
+    ]
+  },
+  "Across the street from this building, its architect designed a row of four mansions much better matching modern architecture on Erasmus Lane. Each room in this building matches its patron's criteria of having a bed fit in at least two directions, direct water and drainage, and access to the outside, and a corner window looks out on the city near this building, providing light to the interior, as does the skylight in its flat roof. The designer of this building used his namesake joints in the design for his Red and Blue Chair. Its bottom floor has a kitchen, storage room, servant's room, reading room, and studio space, which the designer used for a few years as his own office. On the other hand, in order to provide expansive room for children to play in the day, and private bedrooms at night, the concertina walls on its upper floor can divide the area into one room or six, and its exterior used elementarism, which combined white and gray surfaces with horizontal and vertical accents in black": {
+    "guess": "Rietveld Schr\u00f6der House",
+    "confidence": [
+      [
+        "R",
+        -0.009358879
+      ],
+      [
+        "iet",
+        0.0
+      ],
+      [
+        "veld",
+        -6.704273e-07
+      ],
+      [
+        " Schr",
+        -0.00014847564
+      ],
+      [
+        "\u00f6",
+        -5.5122365e-07
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        " House",
+        -6.704273e-07
+      ]
+    ]
+  },
+  "Across the street from this building, its architect designed a row of four mansions much better matching modern architecture on Erasmus Lane. Each room in this building matches its patron's criteria of having a bed fit in at least two directions, direct water and drainage, and access to the outside, and a corner window looks out on the city near this building, providing light to the interior, as does the skylight in its flat roof. The designer of this building used his namesake joints in the design for his Red and Blue Chair. Its bottom floor has a kitchen, storage room, servant's room, reading room, and studio space, which the designer used for a few years as his own office. On the other hand, in order to provide expansive room for children to play in the day, and private bedrooms at night, the concertina walls on its upper floor can divide the area into one room or six, and its exterior used elementarism, which combined white and gray surfaces with horizontal and vertical accents in black and primary colors, a technique developed by Theo van Doesburg. Designed by Gerrit Rietveld, for": {
+    "guess": "Rietveld Schr\u00f6der House",
+    "confidence": [
+      [
+        "R",
+        -0.0011466488
+      ],
+      [
+        "iet",
+        0.0
+      ],
+      [
+        "veld",
+        -3.1281633e-07
+      ],
+      [
+        " Schr",
+        -0.0001004439
+      ],
+      [
+        "\u00f6",
+        -6.704273e-07
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        " House",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Across the street from this building, its architect designed a row of four mansions much better matching modern architecture on Erasmus Lane. Each room in this building matches its patron's criteria of having a bed fit in at least two directions, direct water and drainage, and access to the outside, and a corner window looks out on the city near this building, providing light to the interior, as does the skylight in its flat roof. The designer of this building used his namesake joints in the design for his Red and Blue Chair. Its bottom floor has a kitchen, storage room, servant's room, reading room, and studio space, which the designer used for a few years as his own office. On the other hand, in order to provide expansive room for children to play in the day, and private bedrooms at night, the concertina walls on its upper floor can divide the area into one room or six, and its exterior used elementarism, which combined white and gray surfaces with horizontal and vertical accents in black and primary colors, a technique developed by Theo van Doesburg. Designed by Gerrit Rietveld, for 10 points, name this building in Utrecht, an architectural example of De Stijl.": {
+    "guess": "Rietveld Schr\u00f6der House",
+    "confidence": [
+      [
+        "R",
+        -0.00038682064
+      ],
+      [
+        "iet",
+        0.0
+      ],
+      [
+        "veld",
+        -3.1281633e-07
+      ],
+      [
+        " Schr",
+        -0.0001167748
+      ],
+      [
+        "\u00f6",
+        -5.5122365e-07
+      ],
+      [
+        "der",
+        0.0
+      ],
+      [
+        " House",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "An acrobat's feet can be seen in the top left of this painting, just above a large light. The central": {
+    "guess": "A Bar at the Folies-Berg\u00e8re",
+    "confidence": [
+      [
+        "A",
+        -0.68955976
+      ],
+      [
+        " Bar",
+        -0.47675395
+      ],
+      [
+        " at",
+        -5.3193703e-06
+      ],
+      [
+        " the",
+        -9.0883464e-07
+      ],
+      [
+        " Fol",
+        -1.9361265e-07
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        "-B",
+        -2.1531068e-05
+      ],
+      [
+        "erg",
+        0.0
+      ],
+      [
+        "\u00e8re",
+        -0.0019291093
+      ]
+    ]
+  },
+  "An acrobat's feet can be seen in the top left of this painting, just above a large light. The central items appear in red, brown, black, and green, while the columns are pink and yellow. A container of": {
+    "guess": "The answer is: None",
+    "confidence": [
+      [
+        "The",
+        -0.30969757
+      ],
+      [
+        " answer",
+        -1.1966286
+      ],
+      [
+        " is",
+        -0.006794829
+      ],
+      [
+        ":",
+        -0.13627295
+      ],
+      [
+        " None",
+        -0.58553225
+      ]
+    ]
+  },
+  "An acrobat's feet can be seen in the top left of this painting, just above a large light. The central items appear in red, brown, black, and green, while the columns are pink and yellow. A container of red fruit, possibly tomatoes, sits on the counter and a large chandelier hangs in the background. Only": {
+    "guess": "The Night Caf\u00e9",
+    "confidence": [
+      [
+        "The",
+        -1.0548267
+      ],
+      [
+        " Night",
+        -0.61292017
+      ],
+      [
+        " Caf\u00e9",
+        -0.28734115
+      ]
+    ]
+  },
+  "An acrobat's feet can be seen in the top left of this painting, just above a large light. The central items appear in red, brown, black, and green, while the columns are pink and yellow. A container of red fruit, possibly tomatoes, sits on the counter and a large chandelier hangs in the background. Only two faces are distinct, though the title location is quite crowded. The central figure wears flowers": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.1230686
+      ]
+    ]
+  },
+  "An acrobat's feet can be seen in the top left of this painting, just above a large light. The central items appear in red, brown, black, and green, while the columns are pink and yellow. A container of red fruit, possibly tomatoes, sits on the counter and a large chandelier hangs in the background. Only two faces are distinct, though the title location is quite crowded. The central figure wears flowers in two locations on her blouse, as well as a bracelet and locket. The man speaking to her wears": {
+    "guess": "Bar at the Folies-Berg\u00e8re",
+    "confidence": [
+      [
+        "Bar",
+        -1.0949295
+      ],
+      [
+        " at",
+        -0.18884328
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Fol",
+        -9.0883464e-07
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        "-B",
+        -7.517272e-05
+      ],
+      [
+        "erg",
+        0.0
+      ],
+      [
+        "\u00e8re",
+        -0.00015860428
+      ]
+    ]
+  },
+  "An acrobat's feet can be seen in the top left of this painting, just above a large light. The central items appear in red, brown, black, and green, while the columns are pink and yellow. A container of red fruit, possibly tomatoes, sits on the counter and a large chandelier hangs in the background. Only two faces are distinct, though the title location is quite crowded. The central figure wears flowers in two locations on her blouse, as well as a bracelet and locket. The man speaking to her wears a top hat. FTP name this painting by Manet in which the title location is shown reflected in the mirror": {
+    "guess": "A Bar at the Folies-Berg\u00e8re",
+    "confidence": [
+      [
+        "A",
+        -0.0022810998
+      ],
+      [
+        " Bar",
+        -3.1281633e-07
+      ],
+      [
+        " at",
+        0.0
+      ],
+      [
+        " the",
+        -3.1281633e-07
+      ],
+      [
+        " Fol",
+        -1.9361265e-07
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        "-B",
+        -3.1305768e-05
+      ],
+      [
+        "erg",
+        0.0
+      ],
+      [
+        "\u00e8re",
+        -5.4385737e-06
+      ]
+    ]
+  },
+  "An acrobat's feet can be seen in the top left of this painting, just above a large light. The central items appear in red, brown, black, and green, while the columns are pink and yellow. A container of red fruit, possibly tomatoes, sits on the counter and a large chandelier hangs in the background. Only two faces are distinct, though the title location is quite crowded. The central figure wears flowers in two locations on her blouse, as well as a bracelet and locket. The man speaking to her wears a top hat. FTP name this painting by Manet in which the title location is shown reflected in the mirror behind the barmaid.          |": {
+    "guess": "A Bar at the Folies-Berg\u00e8re",
+    "confidence": [
+      [
+        "A",
+        -0.0017305104
+      ],
+      [
+        " Bar",
+        -3.1281633e-07
+      ],
+      [
+        " at",
+        0.0
+      ],
+      [
+        " the",
+        -4.3202e-07
+      ],
+      [
+        " Fol",
+        -1.9361265e-07
+      ],
+      [
+        "ies",
+        0.0
+      ],
+      [
+        "-B",
+        -1.6762922e-05
+      ],
+      [
+        "erg",
+        -1.9361265e-07
+      ],
+      [
+        "\u00e8re",
+        -9.627177e-05
+      ]
+    ]
+  }
+}

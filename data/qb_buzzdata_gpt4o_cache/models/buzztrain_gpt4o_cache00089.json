@@ -1,0 +1,246 @@
+{
+  "Agarwal proved that decision problem versions of this problem are NP- complete, and its unclear whether": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.18431638
+      ]
+    ]
+  },
+  "Agarwal proved that decision problem versions of this problem are NP- complete, and its unclear whether that version of this problem is in APX. Kooshesh and Moret combined Chazelle's triangulation algorithm": {
+    "guess": "Euclidean TSP",
+    "confidence": [
+      [
+        "Eu",
+        -0.848094
+      ],
+      [
+        "clidean",
+        -3.7697225e-06
+      ],
+      [
+        " T",
+        -0.8954176
+      ],
+      [
+        "SP",
+        -2.4391957e-05
+      ]
+    ]
+  },
+  "Agarwal proved that decision problem versions of this problem are NP- complete, and its unclear whether that version of this problem is in APX. Kooshesh and Moret combined Chazelle's triangulation algorithm with one proof of this problem to give a linear time algorithm for it. For n vertices, it needs": {
+    "guess": "Minimum spanning tree",
+    "confidence": [
+      [
+        "Minimum",
+        -0.83473885
+      ],
+      [
+        " spanning",
+        -0.6051278
+      ],
+      [
+        " tree",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Agarwal proved that decision problem versions of this problem are NP- complete, and its unclear whether that version of this problem is in APX. Kooshesh and Moret combined Chazelle's triangulation algorithm with one proof of this problem to give a linear time algorithm for it. For n vertices, it needs big-Omega of n to the three-halves entities to satisfy the problem in the interior since objects such": {
+    "guess": "Art Gallery Problem",
+    "confidence": [
+      [
+        "Art",
+        -0.15957953
+      ],
+      [
+        " Gallery",
+        -0.016043872
+      ],
+      [
+        " Problem",
+        -0.1663536
+      ]
+    ]
+  },
+  "Agarwal proved that decision problem versions of this problem are NP- complete, and its unclear whether that version of this problem is in APX. Kooshesh and Moret combined Chazelle's triangulation algorithm with one proof of this problem to give a linear time algorithm for it. For n vertices, it needs big-Omega of n to the three-halves entities to satisfy the problem in the interior since objects such as the Sch\u00f6nhardt polyhedron are not tetrahedralizable. The exterior version of this problem is": {
+    "guess": "Art Gallery Problem",
+    "confidence": [
+      [
+        "Art",
+        -0.31537467
+      ],
+      [
+        " Gallery",
+        -0.04859725
+      ],
+      [
+        " Problem",
+        -0.2851393
+      ]
+    ]
+  },
+  "Agarwal proved that decision problem versions of this problem are NP- complete, and its unclear whether that version of this problem is in APX. Kooshesh and Moret combined Chazelle's triangulation algorithm with one proof of this problem to give a linear time algorithm for it. For n vertices, it needs big-Omega of n to the three-halves entities to satisfy the problem in the interior since objects such as the Sch\u00f6nhardt polyhedron are not tetrahedralizable. The exterior version of this problem is sometimes known as the fortress problem, and the original problem posed by Victor Klee can be proved": {
+    "guess": "Art Gallery Problem",
+    "confidence": [
+      [
+        "Art",
+        -0.0006190312
+      ],
+      [
+        " Gallery",
+        -0.31327128
+      ],
+      [
+        " Problem",
+        -0.23631983
+      ]
+    ]
+  },
+  "Agarwal proved that decision problem versions of this problem are NP- complete, and its unclear whether that version of this problem is in APX. Kooshesh and Moret combined Chazelle's triangulation algorithm with one proof of this problem to give a linear time algorithm for it. For n vertices, it needs big-Omega of n to the three-halves entities to satisfy the problem in the interior since objects such as the Sch\u00f6nhardt polyhedron are not tetrahedralizable. The exterior version of this problem is sometimes known as the fortress problem, and the original problem posed by Victor Klee can be proved by first showing that every polygon can be triangulated and then by making a 3-coloring of the triangulated": {
+    "guess": "Art Gallery Problem",
+    "confidence": [
+      [
+        "Art",
+        -0.00035918003
+      ],
+      [
+        " Gallery",
+        -0.6326035
+      ],
+      [
+        " Problem",
+        -0.32296214
+      ]
+    ]
+  },
+  "Agarwal proved that decision problem versions of this problem are NP- complete, and its unclear whether that version of this problem is in APX. Kooshesh and Moret combined Chazelle's triangulation algorithm with one proof of this problem to give a linear time algorithm for it. For n vertices, it needs big-Omega of n to the three-halves entities to satisfy the problem in the interior since objects such as the Sch\u00f6nhardt polyhedron are not tetrahedralizable. The exterior version of this problem is sometimes known as the fortress problem, and the original problem posed by Victor Klee can be proved by first showing that every polygon can be triangulated and then by making a 3-coloring of the triangulated polygon; this was the proof given by Steve Fisk, though the problem was originally proven by": {
+    "guess": "Art gallery problem",
+    "confidence": [
+      [
+        "Art",
+        -0.0002671768
+      ],
+      [
+        " gallery",
+        -0.07889177
+      ],
+      [
+        " problem",
+        -0.0059312894
+      ]
+    ]
+  },
+  "Agarwal proved that decision problem versions of this problem are NP- complete, and its unclear whether that version of this problem is in APX. Kooshesh and Moret combined Chazelle's triangulation algorithm with one proof of this problem to give a linear time algorithm for it. For n vertices, it needs big-Omega of n to the three-halves entities to satisfy the problem in the interior since objects such as the Sch\u00f6nhardt polyhedron are not tetrahedralizable. The exterior version of this problem is sometimes known as the fortress problem, and the original problem posed by Victor Klee can be proved by first showing that every polygon can be triangulated and then by making a 3-coloring of the triangulated polygon; this was the proof given by Steve Fisk, though the problem was originally proven by Chv\u00e1tal, who showed it requires floor of n over 3 guards. For 10 points, name this problem that asks": {
+    "guess": "Art gallery problem",
+    "confidence": [
+      [
+        "Art",
+        -7.8748824e-05
+      ],
+      [
+        " gallery",
+        -0.023249088
+      ],
+      [
+        " problem",
+        -0.0015065284
+      ]
+    ]
+  },
+  "Agarwal proved that decision problem versions of this problem are NP- complete, and its unclear whether that version of this problem is in APX. Kooshesh and Moret combined Chazelle's triangulation algorithm with one proof of this problem to give a linear time algorithm for it. For n vertices, it needs big-Omega of n to the three-halves entities to satisfy the problem in the interior since objects such as the Sch\u00f6nhardt polyhedron are not tetrahedralizable. The exterior version of this problem is sometimes known as the fortress problem, and the original problem posed by Victor Klee can be proved by first showing that every polygon can be triangulated and then by making a 3-coloring of the triangulated polygon; this was the proof given by Steve Fisk, though the problem was originally proven by Chv\u00e1tal, who showed it requires floor of n over 3 guards. For 10 points, name this problem that asks how many guards are needed to watch over the eponymous institution.": {
+    "guess": "Art gallery problem",
+    "confidence": [
+      [
+        "Art",
+        -6.730528e-05
+      ],
+      [
+        " gallery",
+        -0.0017101633
+      ],
+      [
+        " problem",
+        -0.0059299823
+      ]
+    ]
+  },
+  "Agamemnon's tomb inspired this architect's Painting Gallery, which is located in a complex that can be": {
+    "guess": "Philip Johnson",
+    "confidence": [
+      [
+        "Philip",
+        -0.48254737
+      ],
+      [
+        " Johnson",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Agamemnon's tomb inspired this architect's Painting Gallery, which is located in a complex that can be accessed through the red-and-black \"Da Monsta\" gatehouse. The Burial of Phocion inspired the landscaping": {
+    "guess": "Philip Johnson",
+    "confidence": [
+      [
+        "Philip",
+        -0.050213307
+      ],
+      [
+        " Johnson",
+        -5.5122365e-07
+      ]
+    ]
+  },
+  "Agamemnon's tomb inspired this architect's Painting Gallery, which is located in a complex that can be accessed through the red-and-black \"Da Monsta\" gatehouse. The Burial of Phocion inspired the landscaping of a New Canaan complex that served as this artist's (*) Connecticut home. This architect collaborated": {
+    "guess": "Philip Johnson",
+    "confidence": [
+      [
+        "Philip",
+        -0.009344948
+      ],
+      [
+        " Johnson",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "Agamemnon's tomb inspired this architect's Painting Gallery, which is located in a complex that can be accessed through the red-and-black \"Da Monsta\" gatehouse. The Burial of Phocion inspired the landscaping of a New Canaan complex that served as this artist's (*) Connecticut home. This architect collaborated with a German architect on a building located at 375 Park Avenue that houses the Four Seasons": {
+    "guess": "Philip Johnson",
+    "confidence": [
+      [
+        "Philip",
+        -0.01945916
+      ],
+      [
+        " Johnson",
+        -1.6240566e-06
+      ]
+    ]
+  },
+  "Agamemnon's tomb inspired this architect's Painting Gallery, which is located in a complex that can be accessed through the red-and-black \"Da Monsta\" gatehouse. The Burial of Phocion inspired the landscaping of a New Canaan complex that served as this artist's (*) Connecticut home. This architect collaborated with a German architect on a building located at 375 Park Avenue that houses the Four Seasons Restaurant. For 10 points, which American architect of the Glass House worked with Mies van der": {
+    "guess": "Philip Johnson",
+    "confidence": [
+      [
+        "Philip",
+        -0.0021188543
+      ],
+      [
+        " Johnson",
+        -4.3202e-07
+      ]
+    ]
+  },
+  "Agamemnon's tomb inspired this architect's Painting Gallery, which is located in a complex that can be accessed through the red-and-black \"Da Monsta\" gatehouse. The Burial of Phocion inspired the landscaping of a New Canaan complex that served as this artist's (*) Connecticut home. This architect collaborated with a German architect on a building located at 375 Park Avenue that houses the Four Seasons Restaurant. For 10 points, which American architect of the Glass House worked with Mies van der Rohe on the Seagram Building?": {
+    "guess": "Philip Johnson",
+    "confidence": [
+      [
+        "Philip",
+        -0.0013359552
+      ],
+      [
+        " Johnson",
+        0.0
+      ]
+    ]
+  }
+}

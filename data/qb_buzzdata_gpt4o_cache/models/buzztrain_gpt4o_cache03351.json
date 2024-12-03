@@ -1,0 +1,264 @@
+{
+  "In one isothermal version of this technique for protein ligand studies in a calorimeter, a binding\n polynomial": {
+    "guess": "Isothermal Titration Calorimetry",
+    "confidence": [
+      [
+        "Is",
+        -0.0019775261
+      ],
+      [
+        "othermal",
+        -1.9361265e-07
+      ],
+      [
+        " T",
+        -0.00026801124
+      ],
+      [
+        "itr",
+        0.0
+      ],
+      [
+        "ation",
+        0.0
+      ],
+      [
+        " Cal",
+        -6.704273e-07
+      ],
+      [
+        "or",
+        0.0
+      ],
+      [
+        "im",
+        -1.9361265e-07
+      ],
+      [
+        "etry",
+        0.0
+      ]
+    ]
+  },
+  "In one isothermal version of this technique for protein ligand studies in a calorimeter, a binding\n polynomial is used to analyze the data. Before fluorescence-activated cell sorting, a version of this\n": {
+    "guess": "Isothermal Titration Calorimetry",
+    "confidence": [
+      [
+        "Is",
+        -0.078069486
+      ],
+      [
+        "othermal",
+        -3.1281633e-07
+      ],
+      [
+        " T",
+        -0.0002755174
+      ],
+      [
+        "itr",
+        0.0
+      ],
+      [
+        "ation",
+        0.0
+      ],
+      [
+        " Cal",
+        -1.504853e-06
+      ],
+      [
+        "or",
+        0.0
+      ],
+      [
+        "im",
+        0.0
+      ],
+      [
+        "etry",
+        0.0
+      ]
+    ]
+  },
+  "In one isothermal version of this technique for protein ligand studies in a calorimeter, a binding\n polynomial is used to analyze the data. Before fluorescence-activated cell sorting, a version of this\n technique using serial dilution is performed using the antibody of interest. This technique produces": {
+    "guess": "Titration",
+    "confidence": [
+      [
+        "T",
+        -0.44941244
+      ],
+      [
+        "itr",
+        -3.1737043e-06
+      ],
+      [
+        "ation",
+        -3.1281633e-07
+      ]
+    ]
+  },
+  "In one isothermal version of this technique for protein ligand studies in a calorimeter, a binding\n polynomial is used to analyze the data. Before fluorescence-activated cell sorting, a version of this\n technique using serial dilution is performed using the antibody of interest. This technique produces a curve\n with inflection points for each dissociation equilibrium, which is why polyprotic samples": {
+    "guess": "Titration",
+    "confidence": [
+      [
+        "T",
+        -0.049269035
+      ],
+      [
+        "itr",
+        -4.3202e-07
+      ],
+      [
+        "ation",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In one isothermal version of this technique for protein ligand studies in a calorimeter, a binding\n polynomial is used to analyze the data. Before fluorescence-activated cell sorting, a version of this\n technique using serial dilution is performed using the antibody of interest. This technique produces a curve\n with inflection points for each dissociation equilibrium, which is why polyprotic samples have multiple\n bumps on said curve. Samples are placed in burets for this procedure, and an indicator": {
+    "guess": "Titration",
+    "confidence": [
+      [
+        "T",
+        -0.17052181
+      ],
+      [
+        "itr",
+        -1.9361265e-07
+      ],
+      [
+        "ation",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "In one isothermal version of this technique for protein ligand studies in a calorimeter, a binding\n polynomial is used to analyze the data. Before fluorescence-activated cell sorting, a version of this\n technique using serial dilution is performed using the antibody of interest. This technique produces a curve\n with inflection points for each dissociation equilibrium, which is why polyprotic samples have multiple\n bumps on said curve. Samples are placed in burets for this procedure, and an indicator like phenolphthalein\n is used to determine when the equivalence point has been reached. For 10 points,": {
+    "guess": "Titration",
+    "confidence": [
+      [
+        "T",
+        -0.025617534
+      ],
+      [
+        "itr",
+        0.0
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "In one isothermal version of this technique for protein ligand studies in a calorimeter, a binding\n polynomial is used to analyze the data. Before fluorescence-activated cell sorting, a version of this\n technique using serial dilution is performed using the antibody of interest. This technique produces a curve\n with inflection points for each dissociation equilibrium, which is why polyprotic samples have multiple\n bumps on said curve. Samples are placed in burets for this procedure, and an indicator like phenolphthalein\n is used to determine when the equivalence point has been reached. For 10 points, name this chemical\n procedure which is used to find the concentration of an acid or base in a": {
+    "guess": "Titration",
+    "confidence": [
+      [
+        "T",
+        -0.0087415045
+      ],
+      [
+        "itr",
+        0.0
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "In one isothermal version of this technique for protein ligand studies in a calorimeter, a binding\n polynomial is used to analyze the data. Before fluorescence-activated cell sorting, a version of this\n technique using serial dilution is performed using the antibody of interest. This technique produces a curve\n with inflection points for each dissociation equilibrium, which is why polyprotic samples have multiple\n bumps on said curve. Samples are placed in burets for this procedure, and an indicator like phenolphthalein\n is used to determine when the equivalence point has been reached. For 10 points, name this chemical\n procedure which is used to find the concentration of an acid or base in a sample.": {
+    "guess": "Titration",
+    "confidence": [
+      [
+        "T",
+        -0.0053347936
+      ],
+      [
+        "itr",
+        0.0
+      ],
+      [
+        "ation",
+        0.0
+      ]
+    ]
+  },
+  "An isotope of this element is being used in the MAJORANA project, an international effort searching for": {
+    "guess": "Germanium",
+    "confidence": [
+      [
+        "German",
+        -0.023896817
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "An isotope of this element is being used in the MAJORANA project, an international effort searching for neutrinoless double-beta decay. This element was first found by Clemens Winkler [VINK-ler], combined": {
+    "guess": "Germanium",
+    "confidence": [
+      [
+        "German",
+        -0.030592062
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "An isotope of this element is being used in the MAJORANA project, an international effort searching for neutrinoless double-beta decay. This element was first found by Clemens Winkler [VINK-ler], combined with silver and sulfur in the mineral argyrodite. This element's arsenide was used in the most efficient": {
+    "guess": "Germanium",
+    "confidence": [
+      [
+        "German",
+        -0.0015805667
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "An isotope of this element is being used in the MAJORANA project, an international effort searching for neutrinoless double-beta decay. This element was first found by Clemens Winkler [VINK-ler], combined with silver and sulfur in the mineral argyrodite. This element's arsenide was used in the most efficient solar cell produced to date. Before being superseded by silicon, this metalloid was used in": {
+    "guess": "Germanium",
+    "confidence": [
+      [
+        "German",
+        -0.0070374054
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "An isotope of this element is being used in the MAJORANA project, an international effort searching for neutrinoless double-beta decay. This element was first found by Clemens Winkler [VINK-ler], combined with silver and sulfur in the mineral argyrodite. This element's arsenide was used in the most efficient solar cell produced to date. Before being superseded by silicon, this metalloid was used in early transistors. For 10 points, name this element originally known as eka-silicon but with atomic": {
+    "guess": "Germanium",
+    "confidence": [
+      [
+        "German",
+        -0.0048756697
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  },
+  "An isotope of this element is being used in the MAJORANA project, an international effort searching for neutrinoless double-beta decay. This element was first found by Clemens Winkler [VINK-ler], combined with silver and sulfur in the mineral argyrodite. This element's arsenide was used in the most efficient solar cell produced to date. Before being superseded by silicon, this metalloid was used in early transistors. For 10 points, name this element originally known as eka-silicon but with atomic number 32 and symbol Ge.": {
+    "guess": "Germanium",
+    "confidence": [
+      [
+        "German",
+        -0.011447775
+      ],
+      [
+        "ium",
+        0.0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.27123153
+      ]
+    ]
+  },
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its more common \"directional\" variety. The Hessian Matrix is filled with second order ones of these, while": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.00028719936
+      ]
+    ]
+  },
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its more common \"directional\" variety. The Hessian Matrix is filled with second order ones of these, while the Jacobian Matrix is filled with first order ones. One variety of this operation is commonly": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.0032979664
+      ]
+    ]
+  },
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its more common \"directional\" variety. The Hessian Matrix is filled with second order ones of these, while the Jacobian Matrix is filled with first order ones. One variety of this operation is commonly used when dealing with (*) functions of more than one variable; that is this operation's \"partial\" variety.": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.004455159
+      ]
+    ]
+  },
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its more common \"directional\" variety. The Hessian Matrix is filled with second order ones of these, while the Jacobian Matrix is filled with first order ones. One variety of this operation is commonly used when dealing with (*) functions of more than one variable; that is this operation's \"partial\" variety. The chain, product, and quotient rules are commonly used in performing this operation for a": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.10214849
+      ]
+    ]
+  },
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its more common \"directional\" variety. The Hessian Matrix is filled with second order ones of these, while the Jacobian Matrix is filled with first order ones. One variety of this operation is commonly used when dealing with (*) functions of more than one variable; that is this operation's \"partial\" variety. The chain, product, and quotient rules are commonly used in performing this operation for a function. For 10 points, identify this process whose \"anti\" variety, according to the Fundamental Theorem": {
+    "guess": "Differentiation",
+    "confidence": [
+      [
+        "Differ",
+        -0.31399435
+      ],
+      [
+        "enti",
+        -3.1737043e-06
+      ],
+      [
+        "ation",
+        -1.9361265e-07
+      ]
+    ]
+  },
+  "The Fr\u00e9chet variety of this is defined on Banach spaces. The Gateaux variety of this is similar to its more common \"directional\" variety. The Hessian Matrix is filled with second order ones of these, while the Jacobian Matrix is filled with first order ones. One variety of this operation is commonly used when dealing with (*) functions of more than one variable; that is this operation's \"partial\" variety. The chain, product, and quotient rules are commonly used in performing this operation for a function. For 10 points, identify this process whose \"anti\" variety, according to the Fundamental Theorem of Calculus, is the same as an integral.": {
+    "guess": "Derivative",
+    "confidence": [
+      [
+        "Derivative",
+        -0.16075605
+      ]
+    ]
+  }
+}

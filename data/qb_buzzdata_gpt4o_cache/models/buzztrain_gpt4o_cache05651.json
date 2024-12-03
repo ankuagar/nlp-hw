@@ -1,0 +1,93 @@
+{
+  "Oscar Wilde wrote a poem that begins, \"the corn has turned from gray to red / Since first my spirit wandered": {
+    "guess": "The answer is: \"Helas!\"",
+    "confidence": [
+      [
+        "The",
+        -0.83976567
+      ],
+      [
+        " answer",
+        -0.9301027
+      ],
+      [
+        " is",
+        -0.002181073
+      ],
+      [
+        ":",
+        -0.0009008581
+      ],
+      [
+        " \"",
+        -1.0908172
+      ],
+      [
+        "Hel",
+        -0.77875894
+      ],
+      [
+        "as",
+        -3.6789137e-05
+      ],
+      [
+        "!\"",
+        -0.20194261
+      ]
+    ]
+  },
+  "Oscar Wilde wrote a poem that begins, \"the corn has turned from gray to red / Since first my spirit wandered forth\" about this city \"Unvisited,\" and Christina Light has her bust made by the sculptor Roderick": {
+    "guess": "Rome",
+    "confidence": [
+      [
+        "Rome",
+        -0.08077219
+      ]
+    ]
+  },
+  "Oscar Wilde wrote a poem that begins, \"the corn has turned from gray to red / Since first my spirit wandered forth\" about this city \"Unvisited,\" and Christina Light has her bust made by the sculptor Roderick Hudson in this city. Hilda witnesses Miriam Schaefer inducing her lover Donatello to murder a": {
+    "guess": "Rome",
+    "confidence": [
+      [
+        "Rome",
+        -0.055036534
+      ]
+    ]
+  },
+  "Oscar Wilde wrote a poem that begins, \"the corn has turned from gray to red / Since first my spirit wandered forth\" about this city \"Unvisited,\" and Christina Light has her bust made by the sculptor Roderick Hudson in this city. Hilda witnesses Miriam Schaefer inducing her lover Donatello to murder a monk by throwing him off the Tarpeian Rock in one novel set here, The Marble Faun, while the title": {
+    "guess": "Rome",
+    "confidence": [
+      [
+        "Rome",
+        -6.0510665e-05
+      ]
+    ]
+  },
+  "Oscar Wilde wrote a poem that begins, \"the corn has turned from gray to red / Since first my spirit wandered forth\" about this city \"Unvisited,\" and Christina Light has her bust made by the sculptor Roderick Hudson in this city. Hilda witnesses Miriam Schaefer inducing her lover Donatello to murder a monk by throwing him off the Tarpeian Rock in one novel set here, The Marble Faun, while the title character of another book is snubbed at a party hosted by Mrs. Walker in this city because she spurned": {
+    "guess": "Rome",
+    "confidence": [
+      [
+        "Rome",
+        -0.00012797261
+      ]
+    ]
+  },
+  "Oscar Wilde wrote a poem that begins, \"the corn has turned from gray to red / Since first my spirit wandered forth\" about this city \"Unvisited,\" and Christina Light has her bust made by the sculptor Roderick Hudson in this city. Hilda witnesses Miriam Schaefer inducing her lover Donatello to murder a monk by throwing him off the Tarpeian Rock in one novel set here, The Marble Faun, while the title character of another book is snubbed at a party hosted by Mrs. Walker in this city because she spurned Winterbourne to carry on a scandalous affair with Giovanelli. For 10 points, name this city, in which": {
+    "guess": "Rome",
+    "confidence": [
+      [
+        "Rome",
+        -4.3583746e-05
+      ]
+    ]
+  },
+  "Oscar Wilde wrote a poem that begins, \"the corn has turned from gray to red / Since first my spirit wandered forth\" about this city \"Unvisited,\" and Christina Light has her bust made by the sculptor Roderick Hudson in this city. Hilda witnesses Miriam Schaefer inducing her lover Donatello to murder a monk by throwing him off the Tarpeian Rock in one novel set here, The Marble Faun, while the title character of another book is snubbed at a party hosted by Mrs. Walker in this city because she spurned Winterbourne to carry on a scandalous affair with Giovanelli. For 10 points, name this city, in which Daisy Miller contracts malaria during a tour of the Coliseum.": {
+    "guess": "Rome",
+    "confidence": [
+      [
+        "Rome",
+        -7.851042e-05
+      ]
+    ]
+  }
+}

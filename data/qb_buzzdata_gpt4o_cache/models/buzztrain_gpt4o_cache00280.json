@@ -1,0 +1,93 @@
+{
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi,": {
+    "guess": "Sorting network",
+    "confidence": [
+      [
+        "Sorting",
+        -0.01360496
+      ],
+      [
+        " network",
+        -0.012401807
+      ]
+    ]
+  },
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi, while Leonardo numbers underlie an adaptive method known as the \"smooth\" variety. For certain": {
+    "guess": "Sorting algorithm",
+    "confidence": [
+      [
+        "Sorting",
+        -0.083687276
+      ],
+      [
+        " algorithm",
+        -0.048092604
+      ]
+    ]
+  },
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi, while Leonardo numbers underlie an adaptive method known as the \"smooth\" variety. For certain kinds of data, algorithms like the \"pigeonhole\" and \"bucket\" forms can outperform the otherwise-optimal": {
+    "guess": "Sorting algorithms",
+    "confidence": [
+      [
+        "Sorting",
+        -0.079613656
+      ],
+      [
+        " algorithms",
+        -0.31559712
+      ]
+    ]
+  },
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi, while Leonardo numbers underlie an adaptive method known as the \"smooth\" variety. For certain kinds of data, algorithms like the \"pigeonhole\" and \"bucket\" forms can outperform the otherwise-optimal big O of (*) n log n. One method for doing this named for the data structure which it uses improves": {
+    "guess": "Sorting algorithm",
+    "confidence": [
+      [
+        "Sorting",
+        -0.0009855313
+      ],
+      [
+        " algorithm",
+        -0.49116585
+      ]
+    ]
+  },
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi, while Leonardo numbers underlie an adaptive method known as the \"smooth\" variety. For certain kinds of data, algorithms like the \"pigeonhole\" and \"bucket\" forms can outperform the otherwise-optimal big O of (*) n log n. One method for doing this named for the data structure which it uses improves on one which involves scanning repeatedly for the next element; those are the \"heap\" and \"selection\"": {
+    "guess": "Sorting algorithms",
+    "confidence": [
+      [
+        "Sorting",
+        -0.0010640095
+      ],
+      [
+        " algorithms",
+        -0.06672761
+      ]
+    ]
+  },
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi, while Leonardo numbers underlie an adaptive method known as the \"smooth\" variety. For certain kinds of data, algorithms like the \"pigeonhole\" and \"bucket\" forms can outperform the otherwise-optimal big O of (*) n log n. One method for doing this named for the data structure which it uses improves on one which involves scanning repeatedly for the next element; those are the \"heap\" and \"selection\" varieties. Exemplified by algorithms like \"insertion\", \"merge\", \"quick\", and \"bubble\", for 10": {
+    "guess": "Sorting algorithm",
+    "confidence": [
+      [
+        "Sorting",
+        -0.030212887
+      ],
+      [
+        " algorithm",
+        -0.0009139668
+      ]
+    ]
+  },
+  "One asymptotically optimal method for performing this in hardware is named for Ajtai, Komlos, and Szemeredi, while Leonardo numbers underlie an adaptive method known as the \"smooth\" variety. For certain kinds of data, algorithms like the \"pigeonhole\" and \"bucket\" forms can outperform the otherwise-optimal big O of (*) n log n. One method for doing this named for the data structure which it uses improves on one which involves scanning repeatedly for the next element; those are the \"heap\" and \"selection\" varieties. Exemplified by algorithms like \"insertion\", \"merge\", \"quick\", and \"bubble\", for 10 points, name this task in computer programming in which a list is put in order.": {
+    "guess": "Sorting algorithm",
+    "confidence": [
+      [
+        "Sorting",
+        -0.029805575
+      ],
+      [
+        " algorithm",
+        -0.14613959
+      ]
+    ]
+  }
+}

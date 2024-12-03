@@ -1,0 +1,83 @@
+{
+  "During axial load, the ratio of transverse strain to axial strain is a dimensionless number known as": {
+    "guess": "Poisson's ratio",
+    "confidence": [
+      [
+        "Po",
+        -0.013177997
+      ],
+      [
+        "isson",
+        0.0
+      ],
+      [
+        "'s",
+        -1.504853e-06
+      ],
+      [
+        " ratio",
+        -0.0016257872
+      ]
+    ]
+  },
+  "During axial load, the ratio of transverse strain to axial strain is a dimensionless number known as his ratio. In electrostatics, his equation is the differential form of Gauss's Law, and relates the": {
+    "guess": "Poisson's ratio",
+    "confidence": [
+      [
+        "Po",
+        -0.0541929
+      ],
+      [
+        "isson",
+        0.0
+      ],
+      [
+        "'s",
+        -6.086828e-05
+      ],
+      [
+        " ratio",
+        -0.008928078
+      ]
+    ]
+  },
+  "During axial load, the ratio of transverse strain to axial strain is a dimensionless number known as his ratio. In electrostatics, his equation is the differential form of Gauss's Law, and relates the Laplacian of the potential to the local charge density. His probability distribution arises when counting": {
+    "guess": "Poisson",
+    "confidence": [
+      [
+        "Po",
+        -0.039211024
+      ],
+      [
+        "isson",
+        0.0
+      ]
+    ]
+  },
+  "During axial load, the ratio of transverse strain to axial strain is a dimensionless number known as his ratio. In electrostatics, his equation is the differential form of Gauss's Law, and relates the Laplacian of the potential to the local charge density. His probability distribution arises when counting the number of occurrences of a rare event in a long series of trials. FTP name this French mathematician": {
+    "guess": "Poisson",
+    "confidence": [
+      [
+        "Po",
+        -0.0012140448
+      ],
+      [
+        "isson",
+        0.0
+      ]
+    ]
+  },
+  "During axial load, the ratio of transverse strain to axial strain is a dimensionless number known as his ratio. In electrostatics, his equation is the differential form of Gauss's Law, and relates the Laplacian of the potential to the local charge density. His probability distribution arises when counting the number of occurrences of a rare event in a long series of trials. FTP name this French mathematician and physicist with a fishy name.": {
+    "guess": "Poisson",
+    "confidence": [
+      [
+        "Po",
+        -0.0007268482
+      ],
+      [
+        "isson",
+        0.0
+      ]
+    ]
+  }
+}

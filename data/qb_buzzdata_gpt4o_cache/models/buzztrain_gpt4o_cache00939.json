@@ -1,0 +1,363 @@
+{
+  "Clofibrate and salicilic acid increase levels of this compound in rats, a result attributed to their": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.53698915
+      ]
+    ]
+  },
+  "Clofibrate and salicilic acid increase levels of this compound in rats, a result attributed to their agonistic effect on PPAR alpha. This compound is a cofactor in the uncoupling protein used in fatty": {
+    "guess": "Carnitine",
+    "confidence": [
+      [
+        "Carn",
+        -0.15947607
+      ],
+      [
+        "it",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "Clofibrate and salicilic acid increase levels of this compound in rats, a result attributed to their agonistic effect on PPAR alpha. This compound is a cofactor in the uncoupling protein used in fatty acid-dependent proton transport, and it is a cosubstrate of the enzyme that effects de novo pyrimidine": {
+    "guess": "Carnitine",
+    "confidence": [
+      [
+        "Carn",
+        -0.13231671
+      ],
+      [
+        "it",
+        0.0
+      ],
+      [
+        "ine",
+        0.0
+      ]
+    ]
+  },
+  "Clofibrate and salicilic acid increase levels of this compound in rats, a result attributed to their agonistic effect on PPAR alpha. This compound is a cofactor in the uncoupling protein used in fatty acid-dependent proton transport, and it is a cosubstrate of the enzyme that effects de novo pyrimidine synthesis, DHOD. A synthetic analogue of this compound sometimes used to treat Friedrich's ataxia": {
+    "guess": "Coenzyme Q10",
+    "confidence": [
+      [
+        "Co",
+        -0.27112246
+      ],
+      [
+        "enzyme",
+        -2.3392786e-06
+      ],
+      [
+        " Q",
+        -0.0006295175
+      ],
+      [
+        "10",
+        -0.0016529253
+      ]
+    ]
+  },
+  "Clofibrate and salicilic acid increase levels of this compound in rats, a result attributed to their agonistic effect on PPAR alpha. This compound is a cofactor in the uncoupling protein used in fatty acid-dependent proton transport, and it is a cosubstrate of the enzyme that effects de novo pyrimidine synthesis, DHOD. A synthetic analogue of this compound sometimes used to treat Friedrich's ataxia is idebenone, which is being tested as a treatment for Leber's hereditary optic neuropathy, which arises": {
+    "guess": "Coenzyme Q10",
+    "confidence": [
+      [
+        "Co",
+        -0.02169415
+      ],
+      [
+        "enzyme",
+        -2.7729659e-05
+      ],
+      [
+        " Q",
+        -3.1281633e-07
+      ],
+      [
+        "10",
+        -0.00060164585
+      ]
+    ]
+  },
+  "Clofibrate and salicilic acid increase levels of this compound in rats, a result attributed to their agonistic effect on PPAR alpha. This compound is a cofactor in the uncoupling protein used in fatty acid-dependent proton transport, and it is a cosubstrate of the enzyme that effects de novo pyrimidine synthesis, DHOD. A synthetic analogue of this compound sometimes used to treat Friedrich's ataxia is idebenone, which is being tested as a treatment for Leber's hereditary optic neuropathy, which arises from mutations in the genes for the ND4, ND1 and ND6 subunits. One name for this compound comes": {
+    "guess": "Coenzyme Q10",
+    "confidence": [
+      [
+        "Co",
+        -0.0036877207
+      ],
+      [
+        "enzyme",
+        -1.6762922e-05
+      ],
+      [
+        " Q",
+        0.0
+      ],
+      [
+        "10",
+        -0.00077687344
+      ]
+    ]
+  },
+  "Clofibrate and salicilic acid increase levels of this compound in rats, a result attributed to their agonistic effect on PPAR alpha. This compound is a cofactor in the uncoupling protein used in fatty acid-dependent proton transport, and it is a cosubstrate of the enzyme that effects de novo pyrimidine synthesis, DHOD. A synthetic analogue of this compound sometimes used to treat Friedrich's ataxia is idebenone, which is being tested as a treatment for Leber's hereditary optic neuropathy, which arises from mutations in the genes for the ND4, ND1 and ND6 subunits. One name for this compound comes in part from its ten isoprene repeats. A less energetic reaction this compound participates in is": {
+    "guess": "Coenzyme Q10",
+    "confidence": [
+      [
+        "Co",
+        -0.040939346
+      ],
+      [
+        "enzyme",
+        -4.5491004e-05
+      ],
+      [
+        " Q",
+        -4.3202e-07
+      ],
+      [
+        "10",
+        -0.00035989526
+      ]
+    ]
+  },
+  "Clofibrate and salicilic acid increase levels of this compound in rats, a result attributed to their agonistic effect on PPAR alpha. This compound is a cofactor in the uncoupling protein used in fatty acid-dependent proton transport, and it is a cosubstrate of the enzyme that effects de novo pyrimidine synthesis, DHOD. A synthetic analogue of this compound sometimes used to treat Friedrich's ataxia is idebenone, which is being tested as a treatment for Leber's hereditary optic neuropathy, which arises from mutations in the genes for the ND4, ND1 and ND6 subunits. One name for this compound comes in part from its ten isoprene repeats. A less energetic reaction this compound participates in is the oxidation of succinate to fumarate, and its reduction by NADH generates four cytosolic protons in": {
+    "guess": "Coenzyme Q10",
+    "confidence": [
+      [
+        "Co",
+        -0.030675871
+      ],
+      [
+        "enzyme",
+        -5.8365e-05
+      ],
+      [
+        " Q",
+        -1.9361265e-07
+      ],
+      [
+        "10",
+        -0.0003011425
+      ]
+    ]
+  },
+  "Clofibrate and salicilic acid increase levels of this compound in rats, a result attributed to their agonistic effect on PPAR alpha. This compound is a cofactor in the uncoupling protein used in fatty acid-dependent proton transport, and it is a cosubstrate of the enzyme that effects de novo pyrimidine synthesis, DHOD. A synthetic analogue of this compound sometimes used to treat Friedrich's ataxia is idebenone, which is being tested as a treatment for Leber's hereditary optic neuropathy, which arises from mutations in the genes for the ND4, ND1 and ND6 subunits. One name for this compound comes in part from its ten isoprene repeats. A less energetic reaction this compound participates in is the oxidation of succinate to fumarate, and its reduction by NADH generates four cytosolic protons in its reduction by NADH in complex I. For 10 points, name this component of the electron transport chain,": {
+    "guess": "Coenzyme Q10",
+    "confidence": [
+      [
+        "Co",
+        -0.014322866
+      ],
+      [
+        "enzyme",
+        -0.00015848507
+      ],
+      [
+        " Q",
+        0.0
+      ],
+      [
+        "10",
+        -0.00019305047
+      ]
+    ]
+  },
+  "Clofibrate and salicilic acid increase levels of this compound in rats, a result attributed to their agonistic effect on PPAR alpha. This compound is a cofactor in the uncoupling protein used in fatty acid-dependent proton transport, and it is a cosubstrate of the enzyme that effects de novo pyrimidine synthesis, DHOD. A synthetic analogue of this compound sometimes used to treat Friedrich's ataxia is idebenone, which is being tested as a treatment for Leber's hereditary optic neuropathy, which arises from mutations in the genes for the ND4, ND1 and ND6 subunits. One name for this compound comes in part from its ten isoprene repeats. A less energetic reaction this compound participates in is the oxidation of succinate to fumarate, and its reduction by NADH generates four cytosolic protons in its reduction by NADH in complex I. For 10 points, name this component of the electron transport chain, a quinone derivative which passes electrons to cytochrome c.": {
+    "guess": "Coenzyme Q10",
+    "confidence": [
+      [
+        "Co",
+        -0.004839857
+      ],
+      [
+        "enzyme",
+        -9.615256e-05
+      ],
+      [
+        " Q",
+        0.0
+      ],
+      [
+        "10",
+        -0.00028386168
+      ]
+    ]
+  },
+  "A clock tower can be seen above the background clouds in this work, while a group of men on a small boat": {
+    "guess": "The Fighting Temeraire",
+    "confidence": [
+      [
+        "The",
+        -0.5632062
+      ],
+      [
+        " Fighting",
+        -0.51351887
+      ],
+      [
+        " Tem",
+        -0.00031770815
+      ],
+      [
+        "era",
+        -2.3392786e-06
+      ],
+      [
+        "ire",
+        0.0
+      ]
+    ]
+  },
+  "A clock tower can be seen above the background clouds in this work, while a group of men on a small boat can be seen on the right in front of a flotilla of ships. A cap with a red tuft lies on the ground": {
+    "guess": "The Fighting Temeraire",
+    "confidence": [
+      [
+        "The",
+        -0.38381946
+      ],
+      [
+        " Fighting",
+        -0.64908254
+      ],
+      [
+        " Tem",
+        -7.278864e-05
+      ],
+      [
+        "era",
+        -2.4584822e-06
+      ],
+      [
+        "ire",
+        0.0
+      ]
+    ]
+  },
+  "A clock tower can be seen above the background clouds in this work, while a group of men on a small boat can be seen on the right in front of a flotilla of ships. A cap with a red tuft lies on the ground in front of a pair of men clasping their hands, one of whom is holding a green blanket. A man holding": {
+    "guess": "The Death of General Wolfe",
+    "confidence": [
+      [
+        "The",
+        -0.37850964
+      ],
+      [
+        " Death",
+        -0.07896789
+      ],
+      [
+        " of",
+        -5.5122365e-07
+      ],
+      [
+        " General",
+        -0.028078534
+      ],
+      [
+        " Wolfe",
+        -4.1557283e-05
+      ]
+    ]
+  },
+  "A clock tower can be seen above the background clouds in this work, while a group of men on a small boat can be seen on the right in front of a flotilla of ships. A cap with a red tuft lies on the ground in front of a pair of men clasping their hands, one of whom is holding a green blanket. A man holding a blue-and-while flag stands over the central scene. On the left an Indian squats in front of the": {
+    "guess": "Washington Crossing the Delaware",
+    "confidence": [
+      [
+        "Washington",
+        -0.5125716
+      ],
+      [
+        " Crossing",
+        -7.822647e-06
+      ],
+      [
+        " the",
+        -1.9361265e-07
+      ],
+      [
+        " Delaware",
+        0.0
+      ]
+    ]
+  },
+  "A clock tower can be seen above the background clouds in this work, while a group of men on a small boat can be seen on the right in front of a flotilla of ships. A cap with a red tuft lies on the ground in front of a pair of men clasping their hands, one of whom is holding a green blanket. A man holding a blue-and-while flag stands over the central scene. On the left an Indian squats in front of the title figure, who is being tended to by three men, two of them in red coats and one in blue. Presumably": {
+    "guess": "The Death of General Wolfe",
+    "confidence": [
+      [
+        "The",
+        -0.24970154
+      ],
+      [
+        " Death",
+        -0.00091194035
+      ],
+      [
+        " of",
+        -1.147242e-06
+      ],
+      [
+        " General",
+        -0.0005632806
+      ],
+      [
+        " Wolfe",
+        -1.4617256e-05
+      ]
+    ]
+  },
+  "A clock tower can be seen above the background clouds in this work, while a group of men on a small boat can be seen on the right in front of a flotilla of ships. A cap with a red tuft lies on the ground in front of a pair of men clasping their hands, one of whom is holding a green blanket. A man holding a blue-and-while flag stands over the central scene. On the left an Indian squats in front of the title figure, who is being tended to by three men, two of them in red coats and one in blue. Presumably depicting a scene at the Battle of the Plains of Abraham, FTP, name this painting of a military": {
+    "guess": "The Death of General Wolfe",
+    "confidence": [
+      [
+        "The",
+        -0.021794233
+      ],
+      [
+        " Death",
+        -0.00014382669
+      ],
+      [
+        " of",
+        -3.1281633e-07
+      ],
+      [
+        " General",
+        -0.0013278568
+      ],
+      [
+        " Wolfe",
+        -6.392203e-06
+      ]
+    ]
+  },
+  "A clock tower can be seen above the background clouds in this work, while a group of men on a small boat can be seen on the right in front of a flotilla of ships. A cap with a red tuft lies on the ground in front of a pair of men clasping their hands, one of whom is holding a green blanket. A man holding a blue-and-while flag stands over the central scene. On the left an Indian squats in front of the title figure, who is being tended to by three men, two of them in red coats and one in blue. Presumably depicting a scene at the Battle of the Plains of Abraham, FTP, name this painting of a military figure's demise in Canada, by Benjamin West.": {
+    "guess": "The Death of General Wolfe",
+    "confidence": [
+      [
+        "The",
+        -0.00031341682
+      ],
+      [
+        " Death",
+        -5.5577775e-06
+      ],
+      [
+        " of",
+        -1.9361265e-07
+      ],
+      [
+        " General",
+        -6.511407e-06
+      ],
+      [
+        " Wolfe",
+        -5.080963e-06
+      ]
+    ]
+  }
+}

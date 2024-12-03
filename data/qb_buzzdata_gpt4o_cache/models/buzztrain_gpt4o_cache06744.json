@@ -1,0 +1,92 @@
+{
+  "On a road named for this place, an animal thought to be a hyena crashes into a moving car. A Christian": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -1.0132848
+      ]
+    ]
+  },
+  "On a road named for this place, an animal thought to be a hyena crashes into a moving car. A Christian woman describes a sound in this place as \"devoid of distinction.\" While one character briefly leaves": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.5384486
+      ]
+    ]
+  },
+  "On a road named for this place, an animal thought to be a hyena crashes into a moving car. A Christian woman describes a sound in this place as \"devoid of distinction.\" While one character briefly leaves this place for a smoke, another character flees this place and is lacerated by thorned plants. (*)": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.42302716
+      ]
+    ]
+  },
+  "On a road named for this place, an animal thought to be a hyena crashes into a moving car. A Christian woman describes a sound in this place as \"devoid of distinction.\" While one character briefly leaves this place for a smoke, another character flees this place and is lacerated by thorned plants. (*) Mrs. Moore and her son's intended bride are led on a disastrous tour of this place by an Indian man.": {
+    "guess": "Marabar Caves",
+    "confidence": [
+      [
+        "Mar",
+        -0.015401265
+      ],
+      [
+        "abar",
+        0.0
+      ],
+      [
+        " C",
+        -3.5313153e-06
+      ],
+      [
+        "aves",
+        0.0
+      ]
+    ]
+  },
+  "On a road named for this place, an animal thought to be a hyena crashes into a moving car. A Christian woman describes a sound in this place as \"devoid of distinction.\" While one character briefly leaves this place for a smoke, another character flees this place and is lacerated by thorned plants. (*) Mrs. Moore and her son's intended bride are led on a disastrous tour of this place by an Indian man. Adela Quested claims Dr. Aziz raped her in - for 10 points - what fictional caves near Chandrapore": {
+    "guess": "Marabar Caves",
+    "confidence": [
+      [
+        "Mar",
+        -0.01271283
+      ],
+      [
+        "abar",
+        0.0
+      ],
+      [
+        " C",
+        -5.5122365e-07
+      ],
+      [
+        "aves",
+        0.0
+      ]
+    ]
+  },
+  "On a road named for this place, an animal thought to be a hyena crashes into a moving car. A Christian woman describes a sound in this place as \"devoid of distinction.\" While one character briefly leaves this place for a smoke, another character flees this place and is lacerated by thorned plants. (*) Mrs. Moore and her son's intended bride are led on a disastrous tour of this place by an Indian man. Adela Quested claims Dr. Aziz raped her in - for 10 points - what fictional caves near Chandrapore found in E. M. Forster's novel A Passage to India?": {
+    "guess": "Marabar Caves",
+    "confidence": [
+      [
+        "Mar",
+        -0.0061400686
+      ],
+      [
+        "abar",
+        0.0
+      ],
+      [
+        " C",
+        -1.3856493e-06
+      ],
+      [
+        "aves",
+        0.0
+      ]
+    ]
+  }
+}

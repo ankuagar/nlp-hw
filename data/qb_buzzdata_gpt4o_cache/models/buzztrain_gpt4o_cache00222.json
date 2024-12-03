@@ -1,0 +1,92 @@
+{
+  "The apathy of his countrymen to a slide of a prisoner awaiting execution sparked his literary career.": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.2481834
+      ]
+    ]
+  },
+  "The apathy of his countrymen to a slide of a prisoner awaiting execution sparked his literary career. He later nurtured younger writers, founding the Eighteen Society, whose slogan was \"out of the salons": {
+    "guess": "Victor Hugo",
+    "confidence": [
+      [
+        "Victor",
+        -0.6973818
+      ],
+      [
+        " Hugo",
+        -9.014684e-06
+      ]
+    ]
+  },
+  "The apathy of his countrymen to a slide of a prisoner awaiting execution sparked his literary career. He later nurtured younger writers, founding the Eighteen Society, whose slogan was \"out of the salons and into the streets.\" His reputation was established with 1923's A Call to Arms, while the title": {
+    "guess": "Lu Xun",
+    "confidence": [
+      [
+        "Lu",
+        -0.001965032
+      ],
+      [
+        " X",
+        0.0
+      ],
+      [
+        "un",
+        0.0
+      ]
+    ]
+  },
+  "The apathy of his countrymen to a slide of a prisoner awaiting execution sparked his literary career. He later nurtured younger writers, founding the Eighteen Society, whose slogan was \"out of the salons and into the streets.\" His reputation was established with 1923's A Call to Arms, while the title character of \"The True Story of Ah Q\" is a byword for a tendency to see defeat as a psychological victory.": {
+    "guess": "Lu Xun",
+    "confidence": [
+      [
+        "Lu",
+        -0.023530094
+      ],
+      [
+        " X",
+        0.0
+      ],
+      [
+        "un",
+        0.0
+      ]
+    ]
+  },
+  "The apathy of his countrymen to a slide of a prisoner awaiting execution sparked his literary career. He later nurtured younger writers, founding the Eighteen Society, whose slogan was \"out of the salons and into the streets.\" His reputation was established with 1923's A Call to Arms, while the title character of \"The True Story of Ah Q\" is a byword for a tendency to see defeat as a psychological victory. A fan of Gogol, he used \"The Diary of a Madman\" as the basis for a tale of the same name. For": {
+    "guess": "Lu Xun",
+    "confidence": [
+      [
+        "Lu",
+        -0.051112507
+      ],
+      [
+        " X",
+        0.0
+      ],
+      [
+        "un",
+        0.0
+      ]
+    ]
+  },
+  "The apathy of his countrymen to a slide of a prisoner awaiting execution sparked his literary career. He later nurtured younger writers, founding the Eighteen Society, whose slogan was \"out of the salons and into the streets.\" His reputation was established with 1923's A Call to Arms, while the title character of \"The True Story of Ah Q\" is a byword for a tendency to see defeat as a psychological victory. A fan of Gogol, he used \"The Diary of a Madman\" as the basis for a tale of the same name. For 10 points, name this Socialist Realist Chinese writer.": {
+    "guess": "Lu Xun",
+    "confidence": [
+      [
+        "Lu",
+        -0.001051627
+      ],
+      [
+        " X",
+        0.0
+      ],
+      [
+        "un",
+        0.0
+      ]
+    ]
+  }
+}

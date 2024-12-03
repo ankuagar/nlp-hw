@@ -1,0 +1,982 @@
+{
+  "Uncouplers of this process include 2,4-dinitrophenol and cyanide.  Resulting from the conversion of succinate": {
+    "guess": "Oxidative phosphorylation",
+    "confidence": [
+      [
+        "Ox",
+        -0.21376517
+      ],
+      [
+        "id",
+        0.0
+      ],
+      [
+        "ative",
+        0.0
+      ],
+      [
+        " phosphorylation",
+        -1.50940705e-05
+      ]
+    ]
+  },
+  "Uncouplers of this process include 2,4-dinitrophenol and cyanide.  Resulting from the conversion of succinate to fumarate and the hydrogen ions delivered by NADH, intermediates in it include the cytochromes": {
+    "guess": "Electron transport chain",
+    "confidence": [
+      [
+        "Electron",
+        -0.0024800582
+      ],
+      [
+        " transport",
+        -5.4312077e-05
+      ],
+      [
+        " chain",
+        0.0
+      ]
+    ]
+  },
+  "Uncouplers of this process include 2,4-dinitrophenol and cyanide.  Resulting from the conversion of succinate to fumarate and the hydrogen ions delivered by NADH, intermediates in it include the cytochromes and coenzyme Q, also known as ubiquinone.  Several iron ions along it are repeatedly oxidized": {
+    "guess": "Electron transport chain",
+    "confidence": [
+      [
+        "Electron",
+        -0.00010342398
+      ],
+      [
+        " transport",
+        -3.88156e-05
+      ],
+      [
+        " chain",
+        0.0
+      ]
+    ]
+  },
+  "Uncouplers of this process include 2,4-dinitrophenol and cyanide.  Resulting from the conversion of succinate to fumarate and the hydrogen ions delivered by NADH, intermediates in it include the cytochromes and coenzyme Q, also known as ubiquinone.  Several iron ions along it are repeatedly oxidized and reduced, and it provides the gradient for ATP synthase, which then completes the process of chemiosmosis.": {
+    "guess": "Electron transport chain",
+    "confidence": [
+      [
+        "Electron",
+        -0.00012713818
+      ],
+      [
+        " transport",
+        -1.0445127e-05
+      ],
+      [
+        " chain",
+        0.0
+      ]
+    ]
+  },
+  "Uncouplers of this process include 2,4-dinitrophenol and cyanide.  Resulting from the conversion of succinate to fumarate and the hydrogen ions delivered by NADH, intermediates in it include the cytochromes and coenzyme Q, also known as ubiquinone.  Several iron ions along it are repeatedly oxidized and reduced, and it provides the gradient for ATP synthase, which then completes the process of chemiosmosis.  Oxygen serves as the final acceptor of, FTP, what energy-producing pathway in the inner mitochondrial": {
+    "guess": "Electron transport chain",
+    "confidence": [
+      [
+        "Electron",
+        -4.6802244e-05
+      ],
+      [
+        " transport",
+        -4.3202e-07
+      ],
+      [
+        " chain",
+        0.0
+      ]
+    ]
+  },
+  "Uncouplers of this process include 2,4-dinitrophenol and cyanide.  Resulting from the conversion of succinate to fumarate and the hydrogen ions delivered by NADH, intermediates in it include the cytochromes and coenzyme Q, also known as ubiquinone.  Several iron ions along it are repeatedly oxidized and reduced, and it provides the gradient for ATP synthase, which then completes the process of chemiosmosis.  Oxygen serves as the final acceptor of, FTP, what energy-producing pathway in the inner mitochondrial membrane involving negatively-charged particles?": {
+    "guess": "Electron transport chain",
+    "confidence": [
+      [
+        "Electron",
+        -5.0735965e-05
+      ],
+      [
+        " transport",
+        -6.704273e-07
+      ],
+      [
+        " chain",
+        0.0
+      ]
+    ]
+  },
+  "His underlings include Mr. Cushman, who recommends him a man who brags of sleeping with his office's": {
+    "guess": "None",
+    "confidence": [
+      [
+        "None",
+        -0.64402664
+      ]
+    ]
+  },
+  "His underlings include Mr. Cushman, who recommends him a man who brags of sleeping with his office's cleaning woman.  A fan of \"fancy mustard\" sandwiches, he discovers an employee hiding under his desk": {
+    "guess": "George Costanza",
+    "confidence": [
+      [
+        "George",
+        -0.22988085
+      ],
+      [
+        " Cost",
+        -0.006101205
+      ],
+      [
+        "anza",
+        0.0
+      ]
+    ]
+  },
+  "His underlings include Mr. Cushman, who recommends him a man who brags of sleeping with his office's cleaning woman.  A fan of \"fancy mustard\" sandwiches, he discovers an employee hiding under his desk during a bomb (*) threat.  He notes how his people kept saying \"Ken Phelps, Ken Phelps\", and later": {
+    "guess": "George Steinbrenner",
+    "confidence": [
+      [
+        "George",
+        -0.012554865
+      ],
+      [
+        " Stein",
+        -0.1269424
+      ],
+      [
+        "b",
+        0.0
+      ],
+      [
+        "ren",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ]
+    ]
+  },
+  "His underlings include Mr. Cushman, who recommends him a man who brags of sleeping with his office's cleaning woman.  A fan of \"fancy mustard\" sandwiches, he discovers an employee hiding under his desk during a bomb (*) threat.  He notes how his people kept saying \"Ken Phelps, Ken Phelps\", and later describes Babe Ruth as a \"fat old man, with little-girl legs\".  For 10 points, name this Seinfeld character": {
+    "guess": "George Steinbrenner",
+    "confidence": [
+      [
+        "George",
+        -0.00022845028
+      ],
+      [
+        " Stein",
+        -4.012684e-05
+      ],
+      [
+        "b",
+        0.0
+      ],
+      [
+        "ren",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ]
+    ]
+  },
+  "His underlings include Mr. Cushman, who recommends him a man who brags of sleeping with his office's cleaning woman.  A fan of \"fancy mustard\" sandwiches, he discovers an employee hiding under his desk during a bomb (*) threat.  He notes how his people kept saying \"Ken Phelps, Ken Phelps\", and later describes Babe Ruth as a \"fat old man, with little-girl legs\".  For 10 points, name this Seinfeld character who made George Costanza an Assistant to the Traveling Secretary for the Yankees.": {
+    "guess": "George Steinbrenner",
+    "confidence": [
+      [
+        "George",
+        -8.006007e-05
+      ],
+      [
+        " Stein",
+        -4.3202e-07
+      ],
+      [
+        "b",
+        0.0
+      ],
+      [
+        "ren",
+        0.0
+      ],
+      [
+        "ner",
+        0.0
+      ]
+    ]
+  },
+  "Uncharacteristic of the techniques this artist adopted later in his career was his The She-Wolf, as was": {
+    "guess": "Jackson Pollock",
+    "confidence": [
+      [
+        "Jackson",
+        -0.00029172545
+      ],
+      [
+        " Poll",
+        0.0
+      ],
+      [
+        "ock",
+        0.0
+      ]
+    ]
+  },
+  "Uncharacteristic of the techniques this artist adopted later in his career was his The She-Wolf, as was the predominantly yellow, orange, and blue Moby-Dick. He painted a work whose turquoise undertones": {
+    "guess": "Jackson Pollock",
+    "confidence": [
+      [
+        "Jackson",
+        -0.0014421383
+      ],
+      [
+        " Poll",
+        0.0
+      ],
+      [
+        "ock",
+        0.0
+      ]
+    ]
+  },
+  "Uncharacteristic of the techniques this artist adopted later in his career was his The She-Wolf, as was the predominantly yellow, orange, and blue Moby-Dick. He painted a work whose turquoise undertones are covered by a web of black interspersed with white and orange stripes, Full Fathom Five. His works": {
+    "guess": "Jackson Pollock",
+    "confidence": [
+      [
+        "Jackson",
+        -0.0019877558
+      ],
+      [
+        " Poll",
+        0.0
+      ],
+      [
+        "ock",
+        0.0
+      ]
+    ]
+  },
+  "Uncharacteristic of the techniques this artist adopted later in his career was his The She-Wolf, as was the predominantly yellow, orange, and blue Moby-Dick. He painted a work whose turquoise undertones are covered by a web of black interspersed with white and orange stripes, Full Fathom Five. His works have been found to display elements of self-similarity common to fractals and include Lavender Mist.": {
+    "guess": "Jackson Pollock",
+    "confidence": [
+      [
+        "Jackson",
+        -0.005284396
+      ],
+      [
+        " Poll",
+        0.0
+      ],
+      [
+        "ock",
+        0.0
+      ]
+    ]
+  },
+  "Uncharacteristic of the techniques this artist adopted later in his career was his The She-Wolf, as was the predominantly yellow, orange, and blue Moby-Dick. He painted a work whose turquoise undertones are covered by a web of black interspersed with white and orange stripes, Full Fathom Five. His works have been found to display elements of self-similarity common to fractals and include Lavender Mist. For 10 points, name this artist, nicknamed Jack the Dripper for his innovative style of drip painting.": {
+    "guess": "Jackson Pollock",
+    "confidence": [
+      [
+        "Jackson",
+        -0.0067967246
+      ],
+      [
+        " Poll",
+        0.0
+      ],
+      [
+        "ock",
+        0.0
+      ]
+    ]
+  },
+  "The uncertainty principle explains why one version of this system has a zero point energy of one-half": {
+    "guess": "Harmonic oscillator",
+    "confidence": [
+      [
+        "H",
+        -0.16257927
+      ],
+      [
+        "arm",
+        -1.2664457e-06
+      ],
+      [
+        "onic",
+        -6.704273e-07
+      ],
+      [
+        " oscillator",
+        -0.06996734
+      ]
+    ]
+  },
+  "The uncertainty principle explains why one version of this system has a zero point energy of one-half h-bar times omega. This system will decay to a steady state most quickly when zeta equals one. One": {
+    "guess": "Damped harmonic oscillator",
+    "confidence": [
+      [
+        "D",
+        -0.050858974
+      ],
+      [
+        "amped",
+        -0.00043102686
+      ],
+      [
+        " harmonic",
+        -0.0014193996
+      ],
+      [
+        " oscillator",
+        -1.147242e-06
+      ]
+    ]
+  },
+  "The uncertainty principle explains why one version of this system has a zero point energy of one-half h-bar times omega. This system will decay to a steady state most quickly when zeta equals one. One example of this system can be analyzed exactly using elliptic integrals, or approximately using the": {
+    "guess": "Damped harmonic oscillator",
+    "confidence": [
+      [
+        "D",
+        -0.04437103
+      ],
+      [
+        "amped",
+        -0.00071171665
+      ],
+      [
+        " harmonic",
+        -0.0024835076
+      ],
+      [
+        " oscillator",
+        -2.6968896e-06
+      ]
+    ]
+  },
+  "The uncertainty principle explains why one version of this system has a zero point energy of one-half h-bar times omega. This system will decay to a steady state most quickly when zeta equals one. One example of this system can be analyzed exactly using elliptic integrals, or approximately using the small-angle approximation. These systems experience unbounded growth in amplitude if driven at the resonant": {
+    "guess": "Driven harmonic oscillator",
+    "confidence": [
+      [
+        "Driven",
+        -0.7832071
+      ],
+      [
+        " harmonic",
+        -0.0056678103
+      ],
+      [
+        " oscillator",
+        -4.0246043e-05
+      ]
+    ]
+  },
+  "The uncertainty principle explains why one version of this system has a zero point energy of one-half h-bar times omega. This system will decay to a steady state most quickly when zeta equals one. One example of this system can be analyzed exactly using elliptic integrals, or approximately using the small-angle approximation. These systems experience unbounded growth in amplitude if driven at the resonant frequency, and their motion can be generally described using Hooke's law. For 10 points, name": {
+    "guess": "Damped harmonic oscillator",
+    "confidence": [
+      [
+        "D",
+        -0.5168994
+      ],
+      [
+        "amped",
+        -0.0002637199
+      ],
+      [
+        " harmonic",
+        -0.0019109079
+      ],
+      [
+        " oscillator",
+        -1.5213274e-05
+      ]
+    ]
+  },
+  "The uncertainty principle explains why one version of this system has a zero point energy of one-half h-bar times omega. This system will decay to a steady state most quickly when zeta equals one. One example of this system can be analyzed exactly using elliptic integrals, or approximately using the small-angle approximation. These systems experience unbounded growth in amplitude if driven at the resonant frequency, and their motion can be generally described using Hooke's law. For 10 points, name these systems which experience a restoring force proportional to displacement, exemplified by pendulums": {
+    "guess": "Simple harmonic oscillator",
+    "confidence": [
+      [
+        "Simple",
+        -0.32619452
+      ],
+      [
+        " harmonic",
+        -0.00026133584
+      ],
+      [
+        " oscillator",
+        -0.00074256473
+      ]
+    ]
+  },
+  "The uncertainty principle explains why one version of this system has a zero point energy of one-half h-bar times omega. This system will decay to a steady state most quickly when zeta equals one. One example of this system can be analyzed exactly using elliptic integrals, or approximately using the small-angle approximation. These systems experience unbounded growth in amplitude if driven at the resonant frequency, and their motion can be generally described using Hooke's law. For 10 points, name these systems which experience a restoring force proportional to displacement, exemplified by pendulums and springs.": {
+    "guess": "Harmonic oscillator",
+    "confidence": [
+      [
+        "H",
+        -0.35707584
+      ],
+      [
+        "arm",
+        -3.888926e-06
+      ],
+      [
+        "onic",
+        -1.9361265e-07
+      ],
+      [
+        " oscillator",
+        -0.0001624188
+      ]
+    ]
+  },
+  "Undoubtedly the most famous Canadian example of this genre is about atomic bomb testing in Polynesia;": {
+    "guess": "\"American Woman\"",
+    "confidence": [
+      [
+        "\"",
+        -0.5189456
+      ],
+      [
+        "American",
+        -0.71621895
+      ],
+      [
+        " Woman",
+        -0.05733361
+      ],
+      [
+        "\"",
+        -0.16183163
+      ]
+    ]
+  },
+  "Undoubtedly the most famous Canadian example of this genre is about atomic bomb testing in Polynesia; that work is Laurence Hyde's Southern Cross. One work in this genre is about a slave trader who kills": {
+    "guess": "Graphic novel",
+    "confidence": [
+      [
+        "Graphic",
+        -0.1405385
+      ],
+      [
+        " novel",
+        -0.08719328
+      ]
+    ]
+  },
+  "Undoubtedly the most famous Canadian example of this genre is about atomic bomb testing in Polynesia; that work is Laurence Hyde's Southern Cross. One work in this genre is about a slave trader who kills an African and steals his drum, and is called Madman's Drum. Another work in this genre follows a": {
+    "guess": "Wordless novel",
+    "confidence": [
+      [
+        "Word",
+        -0.61540765
+      ],
+      [
+        "less",
+        0.0
+      ],
+      [
+        " novel",
+        -0.008659013
+      ]
+    ]
+  },
+  "Undoubtedly the most famous Canadian example of this genre is about atomic bomb testing in Polynesia; that work is Laurence Hyde's Southern Cross. One work in this genre is about a slave trader who kills an African and steals his drum, and is called Madman's Drum. Another work in this genre follows a generic man's trip through a city, after which he enters a forest and dies, whereupon his soul leaves": {
+    "guess": "Wordless novel",
+    "confidence": [
+      [
+        "Word",
+        -0.10853898
+      ],
+      [
+        "less",
+        0.0
+      ],
+      [
+        " novel",
+        -0.011534157
+      ]
+    ]
+  },
+  "Undoubtedly the most famous Canadian example of this genre is about atomic bomb testing in Polynesia; that work is Laurence Hyde's Southern Cross. One work in this genre is about a slave trader who kills an African and steals his drum, and is called Madman's Drum. Another work in this genre follows a generic man's trip through a city, after which he enters a forest and dies, whereupon his soul leaves his body and stomps on his heart. The pioneers of this genre included Otto (*) N\u00fcckel and the author": {
+    "guess": "Wordless novel",
+    "confidence": [
+      [
+        "Word",
+        -0.29586574
+      ],
+      [
+        "less",
+        0.0
+      ],
+      [
+        " novel",
+        -0.0120256785
+      ]
+    ]
+  },
+  "Undoubtedly the most famous Canadian example of this genre is about atomic bomb testing in Polynesia; that work is Laurence Hyde's Southern Cross. One work in this genre is about a slave trader who kills an African and steals his drum, and is called Madman's Drum. Another work in this genre follows a generic man's trip through a city, after which he enters a forest and dies, whereupon his soul leaves his body and stomps on his heart. The pioneers of this genre included Otto (*) N\u00fcckel and the author of The Idea and Passionate Journey, Frans Masereel. This genre was introduced to America by the": {
+    "guess": "Wordless novel",
+    "confidence": [
+      [
+        "Word",
+        -0.35856128
+      ],
+      [
+        "less",
+        0.0
+      ],
+      [
+        " novel",
+        -0.025611373
+      ]
+    ]
+  },
+  "Undoubtedly the most famous Canadian example of this genre is about atomic bomb testing in Polynesia; that work is Laurence Hyde's Southern Cross. One work in this genre is about a slave trader who kills an African and steals his drum, and is called Madman's Drum. Another work in this genre follows a generic man's trip through a city, after which he enters a forest and dies, whereupon his soul leaves his body and stomps on his heart. The pioneers of this genre included Otto (*) N\u00fcckel and the author of The Idea and Passionate Journey, Frans Masereel. This genre was introduced to America by the author of such works as Wild Pilgrimage and Gods' Man, Lynd Ward. For 10 points, name this genre of": {
+    "guess": "Wordless novel",
+    "confidence": [
+      [
+        "Word",
+        -0.281895
+      ],
+      [
+        "less",
+        0.0
+      ],
+      [
+        " novel",
+        -0.039585203
+      ]
+    ]
+  },
+  "Undoubtedly the most famous Canadian example of this genre is about atomic bomb testing in Polynesia; that work is Laurence Hyde's Southern Cross. One work in this genre is about a slave trader who kills an African and steals his drum, and is called Madman's Drum. Another work in this genre follows a generic man's trip through a city, after which he enters a forest and dies, whereupon his soul leaves his body and stomps on his heart. The pioneers of this genre included Otto (*) N\u00fcckel and the author of The Idea and Passionate Journey, Frans Masereel. This genre was introduced to America by the author of such works as Wild Pilgrimage and Gods' Man, Lynd Ward. For 10 points, name this genre of proto-graphic novels with no text, which was popular among the German Expressionists.": {
+    "guess": "Wordless novel",
+    "confidence": [
+      [
+        "Word",
+        -0.10519674
+      ],
+      [
+        "less",
+        0.0
+      ],
+      [
+        " novel",
+        -0.014603794
+      ]
+    ]
+  },
+  "This man's underrated works for piano include Rondo Capriccioso and his first Piano Concerto in G Minor.": {
+    "guess": "Felix Mendelssohn",
+    "confidence": [
+      [
+        "Fel",
+        -0.3447909
+      ],
+      [
+        "ix",
+        0.0
+      ],
+      [
+        " Mend",
+        0.0
+      ],
+      [
+        "els",
+        0.0
+      ],
+      [
+        "so",
+        0.0
+      ],
+      [
+        "hn",
+        0.0
+      ]
+    ]
+  },
+  "This man's underrated works for piano include Rondo Capriccioso and his first Piano Concerto in G Minor. He drew from Cervantes and Goethe for the opera Camacho's Wedding and The First Walpurgis Night,": {
+    "guess": "Felix Mendelssohn",
+    "confidence": [
+      [
+        "Fel",
+        -0.025353968
+      ],
+      [
+        "ix",
+        0.0
+      ],
+      [
+        " Mend",
+        0.0
+      ],
+      [
+        "els",
+        0.0
+      ],
+      [
+        "so",
+        0.0
+      ],
+      [
+        "hn",
+        0.0
+      ]
+    ]
+  },
+  "This man's underrated works for piano include Rondo Capriccioso and his first Piano Concerto in G Minor. He drew from Cervantes and Goethe for the opera Camacho's Wedding and The First Walpurgis Night, respectively. Spring Song and Spinning Song are two of his Songs Without Words, and a visit to Scotland": {
+    "guess": "Felix Mendelssohn",
+    "confidence": [
+      [
+        "Fel",
+        -5.7888185e-05
+      ],
+      [
+        "ix",
+        0.0
+      ],
+      [
+        " Mend",
+        0.0
+      ],
+      [
+        "els",
+        0.0
+      ],
+      [
+        "so",
+        0.0
+      ],
+      [
+        "hn",
+        0.0
+      ]
+    ]
+  },
+  "This man's underrated works for piano include Rondo Capriccioso and his first Piano Concerto in G Minor. He drew from Cervantes and Goethe for the opera Camacho's Wedding and The First Walpurgis Night, respectively. Spring Song and Spinning Song are two of his Songs Without Words, and a visit to Scotland inspired his Hebrides Overture and Third Symphony. He is better known for a symphony featuring": {
+    "guess": "Felix Mendelssohn",
+    "confidence": [
+      [
+        "Fel",
+        -0.0063825687
+      ],
+      [
+        "ix",
+        0.0
+      ],
+      [
+        " Mend",
+        0.0
+      ],
+      [
+        "els",
+        0.0
+      ],
+      [
+        "so",
+        0.0
+      ],
+      [
+        "hn",
+        0.0
+      ]
+    ]
+  },
+  "This man's underrated works for piano include Rondo Capriccioso and his first Piano Concerto in G Minor. He drew from Cervantes and Goethe for the opera Camacho's Wedding and The First Walpurgis Night, respectively. Spring Song and Spinning Song are two of his Songs Without Words, and a visit to Scotland inspired his Hebrides Overture and Third Symphony. He is better known for a symphony featuring tarantella and saltarello styles and incidental music featuring a Scherzo and Wedding March. FTP, name": {
+    "guess": "Felix Mendelssohn",
+    "confidence": [
+      [
+        "Fel",
+        -4.572941e-05
+      ],
+      [
+        "ix",
+        0.0
+      ],
+      [
+        " Mend",
+        0.0
+      ],
+      [
+        "els",
+        0.0
+      ],
+      [
+        "so",
+        0.0
+      ],
+      [
+        "hn",
+        0.0
+      ]
+    ]
+  },
+  "This man's underrated works for piano include Rondo Capriccioso and his first Piano Concerto in G Minor. He drew from Cervantes and Goethe for the opera Camacho's Wedding and The First Walpurgis Night, respectively. Spring Song and Spinning Song are two of his Songs Without Words, and a visit to Scotland inspired his Hebrides Overture and Third Symphony. He is better known for a symphony featuring tarantella and saltarello styles and incidental music featuring a Scherzo and Wedding March. FTP, name this German composer of the \"Italian\" Symphony and music for A Midsummer Night's Dream.": {
+    "guess": "Felix Mendelssohn",
+    "confidence": [
+      [
+        "Fel",
+        -0.06594022
+      ],
+      [
+        "ix",
+        0.0
+      ],
+      [
+        " Mend",
+        -1.9361265e-07
+      ],
+      [
+        "els",
+        0.0
+      ],
+      [
+        "so",
+        0.0
+      ],
+      [
+        "hn",
+        0.0
+      ]
+    ]
+  },
+  "In 1970 her uncle was elected the first Socialist president of her native country. Born in Peru, she": {
+    "guess": "Isabel Allende",
+    "confidence": [
+      [
+        "Is",
+        -0.3964123
+      ],
+      [
+        "abel",
+        -4.8425554e-06
+      ],
+      [
+        " All",
+        -8.180258e-06
+      ],
+      [
+        "ende",
+        0.0
+      ]
+    ]
+  },
+  "In 1970 her uncle was elected the first Socialist president of her native country. Born in Peru, she later fled to Venezuela when her uncle was killed in 1975 by the Pinochet regime, and eventually settled": {
+    "guess": "Isabel Allende",
+    "confidence": [
+      [
+        "Is",
+        -0.5236794
+      ],
+      [
+        "abel",
+        -4.3202e-07
+      ],
+      [
+        " All",
+        -1.6240566e-06
+      ],
+      [
+        "ende",
+        0.0
+      ]
+    ]
+  },
+  "In 1970 her uncle was elected the first Socialist president of her native country. Born in Peru, she later fled to Venezuela when her uncle was killed in 1975 by the Pinochet regime, and eventually settled in the United States. Among her books are Paula, written as a letter to her dying daughter, and": {
+    "guess": "Isabel Allende",
+    "confidence": [
+      [
+        "Is",
+        -0.008542944
+      ],
+      [
+        "abel",
+        -2.220075e-06
+      ],
+      [
+        " All",
+        -1.6240566e-06
+      ],
+      [
+        "ende",
+        0.0
+      ]
+    ]
+  },
+  "In 1970 her uncle was elected the first Socialist president of her native country. Born in Peru, she later fled to Venezuela when her uncle was killed in 1975 by the Pinochet regime, and eventually settled in the United States. Among her books are Paula, written as a letter to her dying daughter, and In the House of the Spirits, originally written as a letter to her dying grandfather. For ten points,": {
+    "guess": "Isabel Allende",
+    "confidence": [
+      [
+        "Is",
+        -0.07961134
+      ],
+      [
+        "abel",
+        0.0
+      ],
+      [
+        " All",
+        0.0
+      ],
+      [
+        "ende",
+        0.0
+      ]
+    ]
+  },
+  "In 1970 her uncle was elected the first Socialist president of her native country. Born in Peru, she later fled to Venezuela when her uncle was killed in 1975 by the Pinochet regime, and eventually settled in the United States. Among her books are Paula, written as a letter to her dying daughter, and In the House of the Spirits, originally written as a letter to her dying grandfather. For ten points, who is this Chilean writer?": {
+    "guess": "Isabel Allende",
+    "confidence": [
+      [
+        "Is",
+        -0.00026419671
+      ],
+      [
+        "abel",
+        -9.0883464e-07
+      ],
+      [
+        " All",
+        0.0
+      ],
+      [
+        "ende",
+        0.0
+      ]
+    ]
+  },
+  "After his uncle usurped the throne of Iolchus, he was sent to  live with the centaur Chiron. At Colchis,": {
+    "guess": "Jason",
+    "confidence": [
+      [
+        "Jason",
+        -0.0008970509
+      ]
+    ]
+  },
+  "After his uncle usurped the throne of Iolchus, he was sent to  live with the centaur Chiron. At Colchis, he yoked fire-breathing  bulls, sowed the dragon's teeth of Cadmus, killed the king's son,  and": {
+    "guess": "Jason",
+    "confidence": [
+      [
+        "Jason",
+        -0.018880976
+      ]
+    ]
+  },
+  "After his uncle usurped the throne of Iolchus, he was sent to  live with the centaur Chiron. At Colchis, he yoked fire-breathing  bulls, sowed the dragon's teeth of Cadmus, killed the king's son,  and carried off the king's daughter, who became his wife. He died  when struck by the prow of the ship that": {
+    "guess": "Jason",
+    "confidence": [
+      [
+        "Jason",
+        -0.50866634
+      ]
+    ]
+  },
+  "After his uncle usurped the throne of Iolchus, he was sent to  live with the centaur Chiron. At Colchis, he yoked fire-breathing  bulls, sowed the dragon's teeth of Cadmus, killed the king's son,  and carried off the king's daughter, who became his wife. He died  when struck by the prow of the ship that made him famous. FTP,  name this husband of Medea and leader of the Argonauts.": {
+    "guess": "Jason",
+    "confidence": [
+      [
+        "Jason",
+        -0.00044008633
+      ]
+    ]
+  },
+  "Uncyclopedia lists Oscar Wilde as the source for everything this man knows, below which it quotes this": {
+    "guess": "Chuck Norris Facts",
+    "confidence": [
+      [
+        "Chuck",
+        -0.18809676
+      ],
+      [
+        " Norris",
+        -7.89631e-07
+      ],
+      [
+        " Facts",
+        -0.42796406
+      ]
+    ]
+  },
+  "Uncyclopedia lists Oscar Wilde as the source for everything this man knows, below which it quotes this man saying \"the above quote is completely accurate.\" He selected Rachel Getting Married as his favorite": {
+    "guess": "Roger Ebert",
+    "confidence": [
+      [
+        "Roger",
+        -0.11430835
+      ],
+      [
+        " E",
+        -7.89631e-07
+      ],
+      [
+        "bert",
+        0.0
+      ]
+    ]
+  },
+  "Uncyclopedia lists Oscar Wilde as the source for everything this man knows, below which it quotes this man saying \"the above quote is completely accurate.\" He selected Rachel Getting Married as his favorite movie of 2008 on his blog, whose features include \"Wordplay Wednesday\" and bewildering conversations": {
+    "guess": "The A.V. Club",
+    "confidence": [
+      [
+        "The",
+        -1.4775503
+      ],
+      [
+        " A",
+        -1.0068507
+      ],
+      [
+        ".V",
+        -0.0031856748
+      ],
+      [
+        ".",
+        -6.635165e-05
+      ],
+      [
+        " Club",
+        -6.749814e-06
+      ]
+    ]
+  },
+  "Uncyclopedia lists Oscar Wilde as the source for everything this man knows, below which it quotes this man saying \"the above quote is completely accurate.\" He selected Rachel Getting Married as his favorite movie of 2008 on his blog, whose features include \"Wordplay Wednesday\" and bewildering conversations with his son Dylan. He was defeated by (*) Brad Rutter in the Ultimate Tournament of Champions,": {
+    "guess": "Ken Jennings",
+    "confidence": [
+      [
+        "Ken",
+        -0.00043829824
+      ],
+      [
+        " Jennings",
+        -4.4849444e-06
+      ]
+    ]
+  },
+  "Uncyclopedia lists Oscar Wilde as the source for everything this man knows, below which it quotes this man saying \"the above quote is completely accurate.\" He selected Rachel Getting Married as his favorite movie of 2008 on his blog, whose features include \"Wordplay Wednesday\" and bewildering conversations with his son Dylan. He was defeated by (*) Brad Rutter in the Ultimate Tournament of Champions, and this Brainiac author fell to Nancy Zerg when he failed to identify H&R Block. For 10 points,": {
+    "guess": "Ken Jennings",
+    "confidence": [
+      [
+        "Ken",
+        -0.00060164585
+      ],
+      [
+        " Jennings",
+        -4.4849444e-06
+      ]
+    ]
+  },
+  "Uncyclopedia lists Oscar Wilde as the source for everything this man knows, below which it quotes this man saying \"the above quote is completely accurate.\" He selected Rachel Getting Married as his favorite movie of 2008 on his blog, whose features include \"Wordplay Wednesday\" and bewildering conversations with his son Dylan. He was defeated by (*) Brad Rutter in the Ultimate Tournament of Champions, and this Brainiac author fell to Nancy Zerg when he failed to identify H&R Block. For 10 points, name this man who won $2.52 million on Jeopardy!": {
+    "guess": "Ken Jennings",
+    "confidence": [
+      [
+        "Ken",
+        -7.481511e-05
+      ],
+      [
+        " Jennings",
+        -9.0883464e-07
+      ]
+    ]
+  }
+}

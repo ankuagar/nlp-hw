@@ -1,0 +1,63 @@
+{
+  "The Byzantine historian Procopius described a white stone column located in North Africa that described": {
+    "guess": "Pillars of Hercules",
+    "confidence": [
+      [
+        "P",
+        -0.29486197
+      ],
+      [
+        "ill",
+        -0.0019482718
+      ],
+      [
+        "ars",
+        0.0
+      ],
+      [
+        " of",
+        -8.304016e-05
+      ],
+      [
+        " Hercules",
+        -0.39880747
+      ]
+    ]
+  },
+  "The Byzantine historian Procopius described a white stone column located in North Africa that described the flight from the army of this Old Testament figure, the son of Nun.  Of the tribe of Ephraim,": {
+    "guess": "Joshua",
+    "confidence": [
+      [
+        "Joshua",
+        -0.0005560128
+      ]
+    ]
+  },
+  "The Byzantine historian Procopius described a white stone column located in North Africa that described the flight from the army of this Old Testament figure, the son of Nun.  Of the tribe of Ephraim, his forty years as a slave are mentioned in Exodus, as is his selection to fight the people of Amalek.": {
+    "guess": "Joshua",
+    "confidence": [
+      [
+        "Joshua",
+        -0.0015893695
+      ]
+    ]
+  },
+  "The Byzantine historian Procopius described a white stone column located in North Africa that described the flight from the army of this Old Testament figure, the son of Nun.  Of the tribe of Ephraim, his forty years as a slave are mentioned in Exodus, as is his selection to fight the people of Amalek.  Upon the death of Moses, this man led the Israelites.  FTP, identify this namesake of the sixth": {
+    "guess": "Joshua",
+    "confidence": [
+      [
+        "Joshua",
+        -5.7768983e-05
+      ]
+    ]
+  },
+  "The Byzantine historian Procopius described a white stone column located in North Africa that described the flight from the army of this Old Testament figure, the son of Nun.  Of the tribe of Ephraim, his forty years as a slave are mentioned in Exodus, as is his selection to fight the people of Amalek.  Upon the death of Moses, this man led the Israelites.  FTP, identify this namesake of the sixth book of the Old-Testament, perhaps best known for conquering Jericho.": {
+    "guess": "Joshua",
+    "confidence": [
+      [
+        "Joshua",
+        -0.0071640583
+      ]
+    ]
+  }
+}
