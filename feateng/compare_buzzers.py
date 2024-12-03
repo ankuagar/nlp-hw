@@ -66,7 +66,7 @@ guesser_model_train = "../models/buzztrain_gpt4o_cache"
 guesser_model_test = "../models/buzzdev_gpt4o_cache"
 
 # List of buzzer models
-buzzer_models = ["MLP", "LogisticBuzzer", "RNN"]
+buzzer_models = ["MLP", "LogisticBuzzer", "RNNBuzzer"]
 feature_subsets = [["Length", "Frequency", "Category", "ContextualMatch", "PreviousGuess"]]
 
 # Main loop to iterate over buzzer models and feature subsets
