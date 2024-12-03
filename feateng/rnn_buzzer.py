@@ -10,7 +10,7 @@ class RNNModel(nn.Module):
     """
     A simple RNN model for classification.
     """
-    def __init__(self, input_size, hidden_size, output_size=2):
+    def __init__(self, input_size, hidden_size=128, output_size=2):
         super(RNNModel, self).__init__()
         self.hidden_size = hidden_size
         self.rnn = nn.RNN(input_size, hidden_size, batch_first=True)

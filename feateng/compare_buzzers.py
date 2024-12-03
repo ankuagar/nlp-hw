@@ -100,7 +100,7 @@ for buzzer_type in buzzer_models:
             '--GprGuesser_filename', guesser_model_test,
             # '--LogisticBuzzer_filename=models/' + filename_stem,
             '--evaluate', evaluation,
-            # '--buzzer_type', buzzer_type,
+            '--buzzer_type', buzzer_type,
             '--output_json', output_json  # Include output_json flag to specify unique output
         ]
         if buzzer_type == "MLP":
@@ -180,12 +180,12 @@ for buzzer_type in buzzer_models:
             }])
 
             # Validate that the new row is not a duplicate of existing rows
-            columns_to_check = results_df.columns[results_df.columns.get_loc("waiting %"):]
-            if not results_df[columns_to_check].duplicated().any():
-                # Use pd.concat to add the new row to results_df
-                results_df = pd.concat([results_df, new_row_df], ignore_index=True)
-            else:
-                print(f"Warning: Duplicate row detected for subset {subset}. Skipping row addition.")
+            # columns_to_check = results_df.columns[results_df.columns.get_loc("waiting %"):]
+            # if not results_df[columns_to_check].duplicated().any():
+            #     # Use pd.concat to add the new row to results_df
+            results_df = pd.concat([results_df, new_row_df], ignore_index=True)
+            # else:
+            #     print(f"Warning: Duplicate row detected for subset {subset}. Skipping row addition.")
 
         except Exception as e:
             # Detailed error logging
@@ -203,22 +203,22 @@ for buzzer_type in buzzer_models:
 
 # Export results
 # Sort the DataFrame by descending order of Buzz Ratio
-if not results_df.empty:
-    results_df = results_df.sort_values(by="Buzz Ratio", ascending=False)
-    columns_to_check = results_df.columns[results_df.columns.get_loc("waiting %"):]
-    output_stem = '_'.join(buzzer_models)
-    # Validate and remove duplicate rows
-    duplicates = results_df.duplicated(subset=columns_to_check, keep=False)
-    if duplicates.any():
-        print("Warning: Duplicate rows found in the CSV output.")
-        duplicate_rows = results_df[duplicates]
-        duplicate_log_path = f"summary/{output_stem}_duplicate_rows_log.csv"
-        duplicate_rows.to_csv(duplicate_log_path, index=False)
-        print(f"Duplicate rows have been saved to {duplicate_log_path}")
+# if not results_df.empty:
+#     results_df = results_df.sort_values(by="Buzz Ratio", ascending=False)
+#     columns_to_check = results_df.columns[results_df.columns.get_loc("waiting %"):]
+#     output_stem = '_'.join(buzzer_models)
+#     # Validate and remove duplicate rows
+#     duplicates = results_df.duplicated(subset=columns_to_check, keep=False)
+#     if duplicates.any():
+#         print("Warning: Duplicate rows found in the CSV output.")
+#         duplicate_rows = results_df[duplicates]
+#         duplicate_log_path = f"summary/{output_stem}_duplicate_rows_log.csv"
+#         duplicate_rows.to_csv(duplicate_log_path, index=False)
+#         print(f"Duplicate rows have been saved to {duplicate_log_path}")
 
-        # Remove duplicates and save a new CSV without them
-        results_df.drop_duplicates(subset=columns_to_check, keep='first', inplace=True)
-   
-    results_df.to_csv(f"summary/{output_stem}_eval_summary.csv", index=False)
-else:
-    print("No results generated.")
+#         # Remove duplicates and save a new CSV without them
+#         results_df.drop_duplicates(subset=columns_to_check, keep='first', inplace=True)
+output_stem = '_'.join(buzzer_models)  
+results_df.to_csv(f"summary/{output_stem}_eval_summary.csv", index=False)
+# else:
+#     print("No results generated.")

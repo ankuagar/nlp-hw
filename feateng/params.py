@@ -202,9 +202,12 @@ def load_buzzer(flags, load=False):
             learning_rate=flags.mlp_learning_rate,
         )
     # New logic for RNNBuzzer
-    if flags.buzzer_type == "RNNBuzzer":
+    else:
         from rnn_buzzer import RNNBuzzer
-        buzzer = RNNBuzzer(flags.RNNBuzzer_filename, flags.run_length, flags.num_guesses, hidden_size=flags.rnn_hidden_size)
+        buzzer = RNNBuzzer(flags.RNNBuzzer_filename, 
+                           flags.run_length,
+                           flags.num_guesses, 
+                           hidden_size=flags.rnn_hidden_size)
 
     if load:
         buzzer.load()
