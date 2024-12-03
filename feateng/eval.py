@@ -7,39 +7,36 @@ import os
 import random
 import string
 import logging
-
 from tqdm import tqdm
-
 from params import load_guesser, load_questions, load_buzzer, \
-    add_buzzer_params, add_guesser_params, add_general_params,\
+    add_buzzer_params, add_guesser_params, add_general_params, \
     add_question_params, setup_logging
 
 # Ensure the summary directory exists
 os.makedirs("summary", exist_ok=True)
 
-kLABELS = {"best": "Guess was correct, Buzz was correct",
-           "timid": "Guess was correct, Buzz was not",
-           "hit": "Guesser ranked right page first",
-           "close": "Guesser had correct answer in top n list",
-           "miss": "Guesser did not have correct answer in top n list",
-           "aggressive": "Guess was wrong, Buzz was wrong",
-           "waiting": "Guess was wrong, Buzz was correct"}
+kLABELS = {
+    "best": "Guess was correct, Buzz was correct",
+    "timid": "Guess was correct, Buzz was not",
+    "hit": "Guesser ranked right page first",
+    "close": "Guesser had correct answer in top n list",
+    "miss": "Guesser did not have correct answer in top n list",
+    "aggressive": "Guess was wrong, Buzz was wrong",
+    "waiting": "Guess was wrong, Buzz was correct"
+}
 
 def normalize_answer(answer):
     """
-    Remove superfluous components to create a normalized form of an answer that
-    can be more easily compared.
+    Normalize an answer string for easier comparison.
     """
     from unidecode import unidecode
-    
+
     if answer is None:
         return ''
-    reduced = unidecode(answer)
-    reduced = reduced.replace("_", " ")
+    reduced = unidecode(answer).replace("_", " ")
     if "(" in reduced:
         reduced = reduced.split("(")[0]
-    reduced = "".join(x for x in reduced.lower() if x not in string.punctuation)
-    reduced = reduced.strip()
+    reduced = "".join(x for x in reduced.lower() if x not in string.punctuation).strip()
 
     for bad_start in ["the ", "a ", "an "]:
         if reduced.startswith(bad_start):
@@ -48,28 +45,22 @@ def normalize_answer(answer):
 
 def rough_compare(guess, page):
     """
-    See if a guess is correct. Not perfect, but better than direct string
-    comparison. Allows for slight variation.
+    Determine if a guess matches an answer, allowing for minor variations.
     """
     if page is None:
         return False
-    
+
     guess = normalize_answer(guess)
     page = normalize_answer(page)
 
     if guess == '':
         return False
-    
-    if guess == page:
-        return True
-    elif page.find(guess) >= 0 and (len(page) - len(guess)) / len(page) > 0.5:
-        return True
-    else:
-        return False
-    
+
+    return guess == page or (page.find(guess) >= 0 and (len(page) - len(guess)) / len(page) > 0.5)
+
 def eval_retrieval(guesser, questions, n_guesses=25, cutoff=-1):
     """
-    Evaluate the guesser's retrieval
+    Evaluate the retrieval accuracy of a guesser.
     """
     from collections import Counter, defaultdict
     outcomes = Counter()
@@ -77,20 +68,12 @@ def eval_retrieval(guesser, questions, n_guesses=25, cutoff=-1):
 
     question_text = []
     for question in tqdm(questions):
-        text = question["text"]
-        if cutoff == 0:
-            text = text[:int(random.random() * len(text))]
-        elif cutoff > 0:
-            text = text[:cutoff]
+        text = question["text"][:cutoff] if cutoff > 0 else question["text"]
         question_text.append(text)
 
     all_guesses = guesser.batch_guess(question_text, n_guesses)
-    assert len(all_guesses) == len(question_text)
     for question, guesses, text in zip(questions, all_guesses, question_text):
-        if len(guesses) > n_guesses:
-            logging.warn("Warning: guesser is not obeying n_guesses argument")
-            guesses = guesses[:n_guesses]
-            
+        guesses = guesses[:n_guesses] if len(guesses) > n_guesses else guesses
         top_guess = guesses[0]["guess"]
         answer = question["page"]
 
@@ -108,7 +91,6 @@ def eval_retrieval(guesser, questions, n_guesses=25, cutoff=-1):
             examples["miss"].append(example)
 
     return outcomes, examples
-
 def pretty_feature_print(features, first_features=["guess", "answer", "id"]):
     """
     Nicely print a buzzer example's features
@@ -136,38 +118,30 @@ def pretty_feature_print(features, first_features=["guess", "answer", "id"]):
 
 def eval_buzzer(buzzer, questions, history_length, history_depth):
     """
-    Compute buzzer outcomes on a dataset
+    Evaluate a buzzer's performance on a dataset.
     """
     from collections import Counter, defaultdict
-    
+
     buzzer.load()
     buzzer.add_data(questions)
     buzzer.build_features(history_length=history_length, history_depth=history_depth)
-    
-    predict, feature_matrix, feature_dict, correct, metadata = buzzer.predict(questions)
 
-    # Keep track of how much of the question you needed to see before answering correctly
-    question_seen = {}
-    question_length = defaultdict(int)
-    
+    predictions, _, feature_dict, correct, metadata = buzzer.predict(questions)
     outcomes = Counter()
     examples = defaultdict(list)
-    for buzz, guess_correct, features, meta in zip(predict, correct, feature_dict, metadata):
-        qid = meta["id"]
-        
-        # Add back in metadata now that we have prevented cheating in feature creation        
-        for ii in meta:
-            features[ii] = meta[ii]
+    question_seen = {}
+    question_length = defaultdict(int)
 
-        # Keep track of the longest run we saw for each question
+    for buzz, guess_correct, features, meta in zip(predictions, correct, feature_dict, metadata):
+        qid = meta["id"]
+        features.update(meta)
         question_length[qid] = max(question_length[qid], len(meta["text"]))
-        
+
         if guess_correct:
             if buzz:
                 outcomes["best"] += 1
                 examples["best"].append(features)
-
-                if not qid in question_seen:
+                if qid not in question_seen:
                     question_seen[qid] = len(meta["text"])
             else:
                 outcomes["timid"] += 1
@@ -176,85 +150,65 @@ def eval_buzzer(buzzer, questions, history_length, history_depth):
             if buzz:
                 outcomes["aggressive"] += 1
                 examples["aggressive"].append(features)
-
-                if not qid in question_seen:
+                if qid not in question_seen:
                     question_seen[qid] = -len(meta["text"])
             else:
                 outcomes["waiting"] += 1
                 examples["waiting"].append(features)
-    
-    unseen_characters = 0.0
-    number_questions = 0
-    for question in question_length:
-        number_questions += 1
-        length = question_length[question]
-        if question in question_seen:
-            if question_seen[question] > 0:
-                unseen_characters += 1.0 - question_seen[question] / length
-            else:
-                unseen_characters -= 1.0 + question_seen[question] / length
 
-    return outcomes, examples, unseen_characters / number_questions
+    unseen_characters = 0.0
+    for question, length in question_length.items():
+        if question in question_seen:
+            seen = question_seen[question]
+            unseen_characters += (1.0 - seen / length) if seen > 0 else (-1.0 - seen / length)
+
+    unseen_characters /= len(question_length)
+    return outcomes, examples, unseen_characters
 
 if __name__ == "__main__":
-    # Load model and evaluate it
     import argparse
-    
+
     parser = argparse.ArgumentParser()
     add_general_params(parser)
     add_guesser_params(parser)
     add_question_params(parser)
     add_buzzer_params(parser)
-
     parser.add_argument('--evaluate', default="buzzer", type=str)
     parser.add_argument('--cutoff', default=-1, type=int)
     parser.add_argument('--output_json', type=str, default="summary/eval_output.json", help="Path to save output JSON file")
-    
+
     flags = parser.parse_args()
     setup_logging(flags)
 
     questions = load_questions(flags)
     guesser = load_guesser(flags, load=flags.load)
-    
+
     if flags.evaluate == "buzzer":
         buzzer = load_buzzer(flags, load=True)
         outcomes, examples, unseen = eval_buzzer(buzzer, questions,
                                                  history_length=flags.buzzer_history_length,
                                                  history_depth=flags.buzzer_history_depth)
     elif flags.evaluate == "guesser":
-        if flags.cutoff >= 0:
-            outcomes, examples = eval_retrieval(guesser, questions, flags.num_guesses, flags.cutoff)
-        else:
-            outcomes, examples = eval_retrieval(guesser, questions, flags.num_guesses)
+        outcomes, examples = eval_retrieval(guesser, questions, flags.num_guesses, flags.cutoff)
     else:
-        assert False, "Gotta evaluate something"
-        
+        raise ValueError("Specify a valid evaluation target: 'buzzer' or 'guesser'.")
+
     total = sum(outcomes[x] for x in outcomes if x != "hit")
-    outcome_percentages = {f"{ii} %": outcome_subtotal / total for ii, outcome_subtotal in outcomes.items()}
+    outcome_percentages = {f"{key} %": value / total for key, value in outcomes.items()}
 
-    for ii in outcomes:
-        print("%s %0.2f\n===================\n" % (ii, outcomes[ii] / total))
-        if len(examples[ii]) > 10:
-            population = list(random.sample(examples[ii], 10))
-        else:
-            population = examples[ii]
-        for jj in population:
-            print(pretty_feature_print(jj))
+    for key in outcomes:
+        print(f"{key} {outcomes[key] / total:.2f}\n===================")
+        sample_examples = examples[key][:10] if len(examples[key]) > 10 else examples[key]
+        for example in sample_examples:
+            print(pretty_feature_print(example))
         print("=================")
-        
-    if flags.evaluate == "buzzer":
-        for weight, feature in zip(buzzer._classifier.coef_[0], buzzer._featurizer.feature_names_):
-            print("%40s: %0.4f" % (feature.strip(), weight))
-        
-        print("Questions Right: %i (out of %i) Accuracy: %0.2f  Buzz ratio: %0.2f Buzz position: %f" %
-              (outcomes["best"], total,
-               (outcomes["best"] + outcomes["waiting"]) / total,
-               (outcomes["best"] - outcomes["aggressive"] * 0.5) / total,
-               unseen))
-    elif flags.evaluate == "guesser":
-        print("Precision @1: %0.4f Recall: %0.4f" % (outcomes["hit"] / total, outcomes["close"] / total))
 
-    # Save results to JSON file
+    if flags.evaluate == "buzzer" and flags.buzzer_type == "LogisticBuzzer":
+        for weight, feature in zip(buzzer._classifier.coef_[0], buzzer._featurizer.feature_names_):
+            print(f"{feature.strip():>40}: {weight:.4f}")
+    elif flags.evaluate == "buzzer" and flags.buzzer_type == "RNNBuzzer":
+        print("RNNBuzzer does not support linear feature inspection.")
+
     results = {
         "questions_right": outcomes["best"],
         "total": total,
@@ -264,8 +218,5 @@ if __name__ == "__main__":
         "outcome_percentages": outcome_percentages
     }
 
-    try:
-        with open(flags.output_json, "w") as f:
-            json.dump(results, f)
-    except Exception as e:
-        logging.error(f"Failed to write output JSON file {flags.output_json}: {e}")
+    with open(flags.output_json, "w") as f:
+        json.dump(results, f)
