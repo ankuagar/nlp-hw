@@ -5,7 +5,6 @@ import sys
 import pandas as pd
 import json
 import time
-from datetime import datetime
 
 LOSS_FUNCTIONS = {
     "MLP": "BuzzLoss",
@@ -67,7 +66,7 @@ guesser_model_test = "../models/buzzdev_gpt4o_cache"
 
 # List of buzzer models
 buzzer_models = ["MLP", "LogisticBuzzer", "RNNBuzzer"]
-feature_subsets = [["Length", "Frequency", "Category", "ContextualMatch", "PreviousGuess"]]
+buzzer_models = ["RNNBuzzer", "LogisticBuzzer"]
 
 # Main loop to iterate over buzzer models and feature subsets
 for buzzer_type in buzzer_models:
@@ -78,84 +77,68 @@ for buzzer_type in buzzer_models:
         # Determine the filename stem based on the subset
         filename_stem = generate_filename_stem(subset, buzzer_type)
 
-        
         # TRAINING SPECS
-        # Construct the `buzzer.py` command using sys.executable
         buzzer_command = [
             sys.executable, 'buzzer.py', '--guesser_type=Gpr', '--limit', str(training_limit),
             '--GprGuesser_filename', guesser_model_train,
             '--questions', training_dataset, '--buzzer_guessers', 'Gpr',
             '--buzzer_type', buzzer_type
         ]
-            
 
-        
-        #TESTING SPECS
-        # Construct the `eval.py` command using sys.executable
+        # TESTING SPECS
         output_json = f"summary/eval_output_{filename_stem}.json"
         eval_command = [
             sys.executable, 'eval.py', '--guesser_type=Gpr',
             '--TfidfGuesser_filename=models/TfidfGuesser', '--limit', str(testing_limit),
             '--questions', test_dataset, '--buzzer_guessers', 'Gpr',
             '--GprGuesser_filename', guesser_model_test,
-            # '--LogisticBuzzer_filename=models/' + filename_stem,
             '--evaluate', evaluation,
             '--buzzer_type', buzzer_type,
-            '--output_json', output_json  # Include output_json flag to specify unique output
+            '--output_json', output_json
         ]
+
         if buzzer_type == "MLP":
             buzzer_filename_flag = ['--MLPBuzzer_filename=models/' + filename_stem]
         elif buzzer_type == "RNNBuzzer":
             buzzer_filename_flag = ['--RNNBuzzer_filename=models/' + filename_stem, '--rnn_hidden_size=128']
-        else:  # LogisticBuzzer
+        else:
             buzzer_filename_flag = ['--LogisticBuzzer_filename=models/' + filename_stem]
 
         buzzer_command.extend(buzzer_filename_flag)
         eval_command.extend(buzzer_filename_flag)
-            
 
-        # Only add --features if subset is not empty
         if subset:
             feature_flag = ['--features'] + list(subset)
             buzzer_command.extend(feature_flag)
             eval_command.extend(feature_flag)
-        
+
         error_log_file = f"summary/error_log_{filename_stem}.txt"
-        
+
         try:
-            # Log start of commands
             print(f"Running with feature subset: {subset} -> {filename_stem}")
             time.sleep(1)
-            # Run the buzzer.py command
             subprocess.run(buzzer_command, check=True)
-            
-            # Add an explicit delay to ensure I/O has sufficient time to complete
             time.sleep(2)
-            
+
             eval_output_log = f"evals/eval_output_{filename_stem}.txt"
             with open(eval_output_log, "w") as out_f, open(error_log_file, "w") as err_f:
                 subprocess.run(eval_command, stdout=out_f, stderr=err_f, check=True)
 
-
-            # Add an explicit delay before checking output
             time.sleep(2)
 
             # Retry logic for validating the output
             max_retries = 3
-            retry_delay = 2  # seconds
+            retry_delay = 2
             for attempt in range(max_retries):
                 validation_result = validate_json_output(output_json)
                 if isinstance(validation_result, dict):
-                    # Successfully validated
                     eval_results = validation_result
                     break
                 else:
-                    # Log the retry attempt
                     with open(error_log_file, "a") as err_f:
                         err_f.write(f"Attempt {attempt + 1}: {validation_result}\n")
                     time.sleep(retry_delay)
             else:
-                # If all retries fail, raise an error
                 raise ValueError(f"Failed to validate JSON output after {max_retries} attempts: {output_json}")
 
             loss_function = LOSS_FUNCTIONS.get(buzzer_type, "Unknown")
@@ -165,7 +148,7 @@ for buzzer_type in buzzer_models:
                 "Features": list(subset),
                 "Buzzer Type": buzzer_type,
                 "Filename Stem": filename_stem,
-                "Loss Function": loss_function,  # Include the loss function dynamically
+                "Loss Function": loss_function,
                 "Training Limit": training_limit,
                 "Testing Limit": testing_limit,
                 "Training Dataset": training_dataset,
@@ -179,16 +162,9 @@ for buzzer_type in buzzer_models:
                 "Buzz Position": eval_results["buzz_position"]
             }])
 
-            # Validate that the new row is not a duplicate of existing rows
-            # columns_to_check = results_df.columns[results_df.columns.get_loc("waiting %"):]
-            # if not results_df[columns_to_check].duplicated().any():
-            #     # Use pd.concat to add the new row to results_df
             results_df = pd.concat([results_df, new_row_df], ignore_index=True)
-            # else:
-            #     print(f"Warning: Duplicate row detected for subset {subset}. Skipping row addition.")
 
         except Exception as e:
-            # Detailed error logging
             with open(error_log_file, "a") as err_file:
                 err_file.write(f"Error for subset {subset}: {e}\n")
                 err_file.write(f"Buzzer command: {' '.join(buzzer_command)}\n")
@@ -202,23 +178,5 @@ for buzzer_type in buzzer_models:
             continue
 
 # Export results
-# Sort the DataFrame by descending order of Buzz Ratio
-# if not results_df.empty:
-#     results_df = results_df.sort_values(by="Buzz Ratio", ascending=False)
-#     columns_to_check = results_df.columns[results_df.columns.get_loc("waiting %"):]
-#     output_stem = '_'.join(buzzer_models)
-#     # Validate and remove duplicate rows
-#     duplicates = results_df.duplicated(subset=columns_to_check, keep=False)
-#     if duplicates.any():
-#         print("Warning: Duplicate rows found in the CSV output.")
-#         duplicate_rows = results_df[duplicates]
-#         duplicate_log_path = f"summary/{output_stem}_duplicate_rows_log.csv"
-#         duplicate_rows.to_csv(duplicate_log_path, index=False)
-#         print(f"Duplicate rows have been saved to {duplicate_log_path}")
-
-#         # Remove duplicates and save a new CSV without them
-#         results_df.drop_duplicates(subset=columns_to_check, keep='first', inplace=True)
-output_stem = '_'.join(buzzer_models)  
+output_stem = '_'.join(buzzer_models)
 results_df.to_csv(f"summary/{output_stem}_eval_summary.csv", index=False)
-# else:
-#     print("No results generated.")

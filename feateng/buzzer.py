@@ -12,7 +12,6 @@ from tqdm import tqdm
 
 from collections import Counter
 from collections import defaultdict
-
 from guesser import add_guesser_params
 from features import LengthFeature
 from features import ContextualMatchFeature

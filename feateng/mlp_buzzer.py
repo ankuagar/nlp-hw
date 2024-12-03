@@ -119,8 +119,19 @@ class MLPBuzzer(Buzzer):
         """
         Load the MLP model and parent state.
         """
-        Buzzer.load(self)
+        input_dim = len(self._featurizer.feature_names_)  # Get the number of features
+        layers = []
+        prev_dim = input_dim
+        for hidden_dim in self.hidden_dims:
+            layers.append(nn.Linear(prev_dim, hidden_dim))
+            layers.append(nn.ReLU())
+            prev_dim = hidden_dim
+        layers.append(nn.Linear(prev_dim, 1))  # Final layer for binary output
+        layers.append(nn.Sigmoid())
+
+        self.model = nn.Sequential(*layers).to(self.device)
         with open(f"{self.filename}.model.pkl", "rb") as f:
+            
             self.model.load_state_dict(pickle.load(f))
 
 
