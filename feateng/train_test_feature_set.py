@@ -10,11 +10,12 @@ from datetime import datetime
 LOSS_FUNCTIONS = {
     "MLP": "BuzzLoss",
     "LogisticBuzzer": "Logistic Loss",
+    "RNNBuzzer": "CrossEntropyLoss"
 }
 
 # Define the features to use in generating the power set
-# features = ["Length", "Frequency", "Category", "ContextualMatch", "PreviousGuess"]
-features = []
+features = ["Length", "Frequency", "Category", "ContextualMatch", "PreviousGuess"]
+# features = []
 
 # DataFrame to store results
 results_df = pd.DataFrame(columns=[
@@ -57,7 +58,7 @@ def validate_json_output(json_path):
         return str(e)  # Return error message for logging purposes
 
 # Generate the power set of features
-feature_subsets = list(itertools.chain.from_iterable(itertools.combinations(features, r) for r in range(len(features)+1)))
+# feature_subsets = list(itertools.chain.from_iterable(itertools.combinations(features, r) for r in range(len(features)+1)))
 feature_subsets = [["Length", "Frequency", "Category", "ContextualMatch", "PreviousGuess"]]
 
 # Set values for the parameters
@@ -75,6 +76,7 @@ guesser_model_test = "../models/buzzdev_gpt4o_cache"
 
 buzzer_type = "MLP"
 buzzer_type = "LogisticBuzzer"
+buzzer_type = "RNNBuzzer"
 
 # Add loss debugging
 # if buzzer_type == "MLP":
@@ -116,6 +118,10 @@ for subset in feature_subsets:
     ]
     if buzzer_type == "MLP":
         buzzer_filename_flag = ['--MLPBuzzer_filename=models/' + filename_stem]
+        buzzer_command.extend(buzzer_filename_flag)
+        eval_command.extend(buzzer_filename_flag)
+    elif buzzer_type == "RNNBuzzer":
+        buzzer_filename_flag = ['--RNNBuzzer_filename=models/' + filename_stem, '--rnn_hidden_size=128']
         buzzer_command.extend(buzzer_filename_flag)
         eval_command.extend(buzzer_filename_flag)
     else:
@@ -188,12 +194,12 @@ for subset in feature_subsets:
             "Buzz Ratio": eval_results["buzz_ratio"],
             "Buzz Position": eval_results["buzz_position"]
         }])
-
-        # Validate that the new row is not a duplicate of existing rows
-        
+        results_df = pd.concat([results_df, new_row_df], ignore_index=True)
+        # # Validate that the new row is not a duplicate of existing rows
+        # columns_to_check = results_df.columns[results_df.columns.get_loc("waiting %"):]
         # if not results_df[columns_to_check].duplicated().any():
         #     # Use pd.concat to add the new row to results_df
-        #     results_df = pd.concat([results_df, new_row_df], ignore_index=True)
+        #     
         # else:
         #     print(f"Warning: Duplicate row detected for subset {subset}. Skipping row addition.")
 

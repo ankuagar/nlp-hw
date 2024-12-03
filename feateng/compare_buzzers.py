@@ -10,6 +10,7 @@ from datetime import datetime
 LOSS_FUNCTIONS = {
     "MLP": "BuzzLoss",
     "LogisticBuzzer": "Logistic Loss",
+    "RNNBuzzer": "CrossEntropyLoss"
 }
 
 # Define the features to use in generating the power set
@@ -65,7 +66,7 @@ guesser_model_train = "../models/buzztrain_gpt4o_cache"
 guesser_model_test = "../models/buzzdev_gpt4o_cache"
 
 # List of buzzer models
-buzzer_models = ["MLP", "LogisticBuzzer"]
+buzzer_models = ["MLP", "LogisticBuzzer", "RNN"]
 feature_subsets = [["Length", "Frequency", "Category", "ContextualMatch", "PreviousGuess"]]
 
 # Main loop to iterate over buzzer models and feature subsets
@@ -104,12 +105,13 @@ for buzzer_type in buzzer_models:
         ]
         if buzzer_type == "MLP":
             buzzer_filename_flag = ['--MLPBuzzer_filename=models/' + filename_stem]
-            buzzer_command.extend(buzzer_filename_flag)
-            eval_command.extend(buzzer_filename_flag)
-        else:
+        elif buzzer_type == "RNNBuzzer":
+            buzzer_filename_flag = ['--RNNBuzzer_filename=models/' + filename_stem, '--rnn_hidden_size=128']
+        else:  # LogisticBuzzer
             buzzer_filename_flag = ['--LogisticBuzzer_filename=models/' + filename_stem]
-            buzzer_command.extend(buzzer_filename_flag)
-            eval_command.extend(buzzer_filename_flag)
+
+        buzzer_command.extend(buzzer_filename_flag)
+        eval_command.extend(buzzer_filename_flag)
             
 
         # Only add --features if subset is not empty
