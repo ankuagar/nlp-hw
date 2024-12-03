@@ -88,6 +88,32 @@ Replace NewFeatureName with the name(s) of the feature(s).
 The features are correctly implemented in features.py.
 They are instantiated in params.py and included in the feature set.
 
+#### RNN 
+
+RNN training
+```bash
+feateng % python3 buzzer.py --guesser_type=Gpr --limit=50 \
+  --GprGuesser_filename=../models/buzztrain_gpr_cache \
+  --questions=../data/qanta.buzztrain.json.gz --buzzer_guessers Gpr \
+  --buzzer_type=RNNBuzzer --RNNBuzzer_filename=rnn_models/rnn_no_feature \
+  --features "" --rnn_hidden_size=128
+
+```
+
+
+RNN Eval
+```bash
+feateng % .venv/bin/python3 eval.py --guesser_type=Gpr \
+--TfidfGuesser_filename=../models/TfidfGuesser --limit=25 \
+--questions=../data/qanta.buzzdev.json.gz --buzzer_guessers Gpr \
+--GprGuesser_filename=../models/buzzdev_gpr_cache \
+--buzzer_type=RNNBuzzer --RNNBuzzer_filename=rnn_models/rnn_no_feature \
+--features "" --rnn_hidden_size=128
+```
+
+
+
+
 ## Compare Models
 After training, we compare the performance of models with and without the new feature using the evaluation metrics provided by eval.py. For more details on evaluation, see the Evals Folder.
 
