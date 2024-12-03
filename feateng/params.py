@@ -9,6 +9,7 @@ import argparse
 import json
 import gzip
 
+import pickle 
 from pandas import read_csv
 
 
@@ -27,16 +28,28 @@ def add_question_params(parser):
     parser.add_argument('--secondary_questions', default = "../nlp-hw/data/qanta.guessdev.json.gz",type=str)
     parser.add_argument('--expo_output_root', default="expo/expo", type=str) 
 
+# def add_buzzer_params(parser):
+#     parser.add_argument('--buzzer_guessers', nargs='+', default = ['Tfidf'], help='Guessers to feed into Buzzer', type=str)
+#     parser.add_argument('--buzzer_history_length', type=int, default=0, help="How many time steps to retain guesser history")
+#     parser.add_argument('--buzzer_history_depth', type=int, default=0, help="How many old guesses per time step to keep")    
+#     parser.add_argument('--features', nargs='+', help='Features to feed into Buzzer', type=str,  default=[''])    
+#     parser.add_argument('--buzzer_type', type=str, default="LogisticBuzzer")
+#     parser.add_argument('--run_length', type=int, default=100)
+#     parser.add_argument('--primary_guesser', type=str, default='Tfidf', help="What guesser does buzzer depend on?")
+#     parser.add_argument('--LogisticBuzzer_filename', type=str, default="models/LogisticBuzzer")    
+    
 def add_buzzer_params(parser):
-    parser.add_argument('--buzzer_guessers', nargs='+', default = ['Tfidf'], help='Guessers to feed into Buzzer', type=str)
+    parser.add_argument('--buzzer_guessers', nargs='+', default=['Tfidf'], help='Guessers to feed into Buzzer', type=str)
     parser.add_argument('--buzzer_history_length', type=int, default=0, help="How many time steps to retain guesser history")
-    parser.add_argument('--buzzer_history_depth', type=int, default=0, help="How many old guesses per time step to keep")    
-    parser.add_argument('--features', nargs='+', help='Features to feed into Buzzer', type=str,  default=[''])    
-    parser.add_argument('--buzzer_type', type=str, default="LogisticBuzzer")
+    parser.add_argument('--buzzer_history_depth', type=int, default=0, help="How many old guesses per time step to keep")
+    parser.add_argument('--features', nargs='+', help='Features to feed into Buzzer', type=str, default=[''])
+    parser.add_argument('--buzzer_type', type=str, default="LogisticBuzzer")  # Default to LogisticBuzzer
     parser.add_argument('--run_length', type=int, default=100)
     parser.add_argument('--primary_guesser', type=str, default='Tfidf', help="What guesser does buzzer depend on?")
-    parser.add_argument('--LogisticBuzzer_filename', type=str, default="models/LogisticBuzzer")    
-    
+    parser.add_argument('--LogisticBuzzer_filename', type=str, default="models/LogisticBuzzer")
+    parser.add_argument('--RNNBuzzer_filename', type=str, default="models/RNNBuzzer")
+    parser.add_argument('--rnn_hidden_size', type=int, default=128, help="Hidden size for the RNN model")
+
 def add_guesser_params(parser):
     parser.add_argument('--guesser_type', type=str, default="Tfidf")
     # TODO (jbg): This is more general than tfidf, make more general (currently being used by DAN guesser as well)
@@ -169,12 +182,18 @@ def load_buzzer(flags, load=False):
     """
     Create the buzzer and its features.
     """
-    
     print("Loading buzzer")
     buzzer = None
+    
+    # Existing logic for LogisticBuzzer
     if flags.buzzer_type == "LogisticBuzzer":
         from logistic_buzzer import LogisticBuzzer
         buzzer = LogisticBuzzer(flags.LogisticBuzzer_filename, flags.run_length, flags.num_guesses)
+
+    # New logic for RNNBuzzer
+    if flags.buzzer_type == "RNNBuzzer":
+        from rnn_buzzer import RNNBuzzer
+        buzzer = RNNBuzzer(flags.RNNBuzzer_filename, flags.run_length, flags.num_guesses, hidden_size=flags.rnn_hidden_size)
 
     if load:
         buzzer.load()
