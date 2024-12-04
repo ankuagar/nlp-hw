@@ -40,37 +40,7 @@ class RNNModel(nn.Module):
         combined = torch.cat((rnn_hidden.squeeze(0), feature_out), dim=1)  # [batch_size, hidden_size * 2]
         output = self.combined_fc(combined)  # [batch_size, output_size]
         return output
-# class RNNModel(nn.Module):
-#     """
-#     Enhanced RNN model with LSTM layers, dropout, and batch normalization.
-#     """
-#     def __init__(self, vocab_size, embedding_dim, feature_dim, hidden_size=128, output_size=2, num_layers=2, dropout=0.3):
-#         super(RNNModel, self).__init__()
-#         self.hidden_size = hidden_size
-#         self.embedding = nn.Embedding(vocab_size, embedding_dim)
-#         self.lstm = nn.LSTM(embedding_dim, hidden_size, num_layers=num_layers, batch_first=True, dropout=dropout)
-#         self.feature_fc = nn.Linear(feature_dim, hidden_size)  # Fully connected layer for additional features
-#         self.dropout = nn.Dropout(dropout)
-#         self.batch_norm = nn.BatchNorm1d(hidden_size * 2)
-#         self.combined_fc = nn.Linear(hidden_size * 2, output_size)  # Combine text and features
 
-#     def forward(self, text_input, features):
-#         """
-#         Forward pass with text embeddings, LSTM, and additional features.
-#         """
-#         # Text Embedding and LSTM
-#         embedded = self.embedding(text_input)  # [batch_size, seq_len, embedding_dim]
-#         lstm_out, (hidden, _) = self.lstm(embedded)  # [batch_size, seq_len, hidden_size]
-
-#         # Process Features
-#         feature_out = self.feature_fc(features)  # [batch_size, hidden_size]
-
-#         # Combine the last hidden state and features
-#         combined = torch.cat((hidden[-1], feature_out), dim=1)  # [batch_size, hidden_size * 2]
-#         combined = self.batch_norm(combined)
-#         combined = self.dropout(combined)
-#         output = self.combined_fc(combined)  # [batch_size, output_size]
-#         return output
 
 class RNNBuzzer(Buzzer):
     """
@@ -118,29 +88,41 @@ class RNNBuzzer(Buzzer):
         self.vocab_size = len(vocab)
         return torch.tensor(padded_sequences, dtype=torch.long)
 
-    def prepare_features(self):
+    def prepare_features(self, is_training=False):
         """
-        Vectorize self._features using DictVectorizer.
+        Vectorize self._features using DictVectorizer. Ensures consistent feature ordering and compatibility.
         """
-        return self._featurizer.fit_transform(self._features).toarray()
+        if is_training:
+            feature_matrix = self._featurizer.fit_transform(self._features).toarray()
+        else:
+            feature_matrix = self._featurizer.transform(self._features).toarray()
+
+        # Ensure the feature matrix matches the expected dimensions
+        expected_dim = len(self._featurizer.feature_names_)
+        current_dim = feature_matrix.shape[1]
+        if current_dim < expected_dim:
+            # Pad missing features with zeros
+            padded_matrix = np.zeros((feature_matrix.shape[0], expected_dim))
+            padded_matrix[:, :current_dim] = feature_matrix
+            logging.warning(f"Padded feature matrix from {current_dim} to {expected_dim}.")
+            return padded_matrix
+
+        return feature_matrix
 
     def train(self):
         """
         Train the RNN buzzer model with text embeddings and additional features.
         """
-        # Ensure self._runs, self._features, and self._correct are populated
         if not self._runs or not self._features or not self._correct:
             raise ValueError("No data available. Ensure add_data and build_features are called before training.")
 
-        # Prepare embeddings and feature matrix
         embedded_data = self.prepare_embeddings()
-        feature_matrix = self.prepare_features()
+        feature_matrix = self.prepare_features(is_training=True)
         labels_tensor = torch.tensor(self._correct, dtype=torch.long).to(self.device)
 
-        # Initialize model
-        self._initialize_model(self.vocab_size, feature_matrix.shape[1])
+        feature_dim = feature_matrix.shape[1]
+        self._initialize_model(self.vocab_size, feature_dim)
 
-        # Training loop
         epochs = 10
         for epoch in range(epochs):
             self.model.train()
@@ -153,22 +135,20 @@ class RNNBuzzer(Buzzer):
             loss = self.criterion(predictions, labels_tensor)
             loss.backward()
             self.optimizer.step()
-
-            print(f"Epoch {epoch + 1}/{epochs}, Loss: {loss.item()}")
+            logging.info(f"Epoch {epoch + 1}/{epochs}, Loss: {loss.item()}")
 
     def predict(self, questions=None):
         """
         Predict with the RNN model and return outputs in the same format as Buzzer.predict.
         """
-        # Ensure self._runs and self._features are populated
-        if not self._runs or not self._features or not self._correct or not self._metadata:
-            raise ValueError("No data available. Ensure add_data and build_features are called before prediction.")
-
-        # Prepare embeddings and feature matrix
         embedded_data = self.prepare_embeddings()
         feature_matrix = self.prepare_features()
 
-        # Predict using the RNN model
+        if feature_matrix.shape[1] != self.model.feature_fc.in_features:
+            raise ValueError(
+                f"Feature dimension mismatch: Model expects {self.model.feature_fc.in_features}, but got {feature_matrix.shape[1]}."
+            )
+
         self.model.eval()
         with torch.no_grad():
             predictions_tensor = self.model(
@@ -177,33 +157,28 @@ class RNNBuzzer(Buzzer):
             )
             predicted_labels = torch.argmax(predictions_tensor, dim=1).cpu().tolist()
 
-        # Ensure outputs match Buzzer.predict format
-        predictions = predicted_labels
-        return predictions, feature_matrix, self._features, self._correct, self._metadata
+        return predicted_labels, feature_matrix, self._features, self._correct, self._metadata
 
-        
     def save(self):
         """
-        Save the RNN model, featurizer, and additional metadata.
+        Save the RNN model and featurizer.
         """
-        Buzzer.save(self)
+        super().save()
         torch.save({
             "model_state_dict": self.model.state_dict(),
             "vocab_size": self.vocab_size,
+            "feature_names_": self._featurizer.feature_names_,
             "featurizer": self._featurizer
         }, f"{self.filename}.rnn_model.pth")
 
+
     def load(self):
         """
-        Load the RNN model, featurizer, and additional metadata.
+        Load the RNN model and featurizer.
         """
-        Buzzer.load(self)
+        super().load()
         checkpoint = torch.load(f"{self.filename}.rnn_model.pth")
-        
-        # Restore vocab_size and initialize model
         self.vocab_size = checkpoint["vocab_size"]
-        feature_dim = len(self._featurizer.feature_names_)
-        self._initialize_model(self.vocab_size, feature_dim)
-
-        # Load model state
+        self._featurizer.feature_names_ = checkpoint["feature_names_"]
+        self._initialize_model(self.vocab_size, len(self._featurizer.feature_names_))
         self.model.load_state_dict(checkpoint["model_state_dict"])
