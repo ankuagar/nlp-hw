@@ -65,7 +65,7 @@ python3 buzzer.py --guesser_type=Gpr --limit=50 \
   --LogisticBuzzer_filename=models/no_feature --features ""
 ```
 
-#### 2. Train With New Features 
+### 2. Train With New Features 
 
 Once you’ve added a new feature, train the Buzzer to include it:
 ```bash
@@ -87,7 +87,7 @@ The RNNBuzzer supports tuning key hyperparameters through command-line flags:
 
 1. --rnn_hidden_size: Specifies the size of the hidden state in the RNN. Default is 128.
 
-#### 1.Train RNNBuzzer
+### 1. Train RNNBuzzer
 To train the RNNBuzzer without new features:
 ```bash
 feateng % python3 buzzer.py --guesser_type=Gpr --limit=50 \
@@ -105,7 +105,7 @@ python3 buzzer.py --guesser_type=Gpr --limit=50 \\
   --buzzer_type=RNNBuzzer --RNNBuzzer_filename=models/rnn_with_feature \\
   --features NewFeatureName --rnn_hidden_size=128
 ```
-#### 2.Evaluate RNNBuzzer
+### 2. Evaluate RNNBuzzer
 ```bash
 feateng % .venv/bin/python3 eval.py --guesser_type=Gpr \
 --TfidfGuesser_filename=../models/TfidfGuesser --limit=25 \
@@ -121,7 +121,8 @@ The MLPBuzzer supports tuning the following hyperparameters through command-line
 
 1. --mlp_hidden_size: Specifies the size of each hidden layer in the MLP. Default is 128.
 2. --mlp_num_layers: Specifies the number of hidden layers in the MLP. Default is 2.
-#### 1.Train MLBuzzer
+   
+### 1. Train MLBuzzer
 To train the MLPBuzzer without new features:
 ```bash
 python3 buzzer.py --guesser_type=Gpr --limit=50 \\
@@ -139,7 +140,7 @@ python3 buzzer.py --guesser_type=Gpr --limit=50 \\
   --buzzer_type=MLP --MLPBuzzer_filename=models/mlp_with_feature \\
   --features NewFeatureName --mlp_hidden_size=128 --mlp_num_layers=2
 ```
-#### 2.Evaluate MLPBuzzer
+### 2. Evaluate MLPBuzzer
 ```bash
 python3 eval.py --guesser_type=Gpr \\
   --TfidfGuesser_filename=models/TfidfGuesser --limit=25 \\
