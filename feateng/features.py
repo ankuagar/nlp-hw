@@ -115,20 +115,6 @@ class CategoryFeature(Feature):
         yield ("subcategory", question["subcategory"])  
         yield ("tournament", question["tournament"])
 
-class PreviousGuessFeature(Feature):                                                                    
-    def __call__(self, question, run, guess, guess_history, other_guesses=None):                                         
-        count = 0                                                                                       
-        score = []                                                                                   
-        for guesser in guess_history:                                                                   
-            for time in guess_history[guesser]:                                                         
-                # print(guess_history[guesser][time])                                                   
-                count += sum(1 for x in guess_history[guesser][time] if x['guess'] == guess)             
-                score += [x['confidence'] for x in guess_history[guesser][time] if x['guess'] == guess]  
-        yield ("count", count)
-        if score:                                                                           
-            yield ("max_score", max(score))                                                                  
-            yield ("avg_score", mean(score))                                                                 
-
 if __name__ == "__main__":
     """
 

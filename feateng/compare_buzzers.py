@@ -13,7 +13,7 @@ LOSS_FUNCTIONS = {
 }
 
 # Define the features to use in generating the power set
-features = ["Length", "Frequency", "Category", "ContextualMatch", "PreviousGuess"]
+features = ["Length", "Frequency", "Category", "ContextualMatch"]
 
 # DataFrame to store the best result for each buzzer type
 results_df = pd.DataFrame(columns=[
