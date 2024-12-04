@@ -82,6 +82,11 @@ The features are correctly implemented in features.py.
 They are instantiated in params.py and included in the feature set.
 
 ## Train and Evaluate RNNBuzzer
+#### Hyperparameter Tuning
+The RNNBuzzer supports tuning key hyperparameters through command-line flags:
+
+1. --rnn_hidden_size: Specifies the size of the hidden state in the RNN. Default is 128.
+
 #### 1.Train RNNBuzzer
 To train the RNNBuzzer without new features:
 ```bash
@@ -111,6 +116,11 @@ feateng % .venv/bin/python3 eval.py --guesser_type=Gpr \
 ```
 
 ## Train and Evaluate MLPBuzzer
+#### Hyperparameter Tuning
+The MLPBuzzer supports tuning the following hyperparameters through command-line flags:
+
+1. --mlp_hidden_size: Specifies the size of each hidden layer in the MLP. Default is 128.
+2. --mlp_num_layers: Specifies the number of hidden layers in the MLP. Default is 2.
 #### 1.Train MLBuzzer
 To train the MLPBuzzer without new features:
 ```bash
