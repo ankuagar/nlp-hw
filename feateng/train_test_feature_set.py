@@ -14,7 +14,7 @@ LOSS_FUNCTIONS = {
 }
 
 # Define the features to use in generating the power set
-features = ["Length", "Frequency", "Category", "ContextualMatch", "PreviousGuess"]
+features = ["Length", "Frequency", "Category", "ContextualMatch"]
 # features = []
 
 # DataFrame to store results
@@ -59,7 +59,7 @@ def validate_json_output(json_path):
 
 # Generate the power set of features
 # feature_subsets = list(itertools.chain.from_iterable(itertools.combinations(features, r) for r in range(len(features)+1)))
-feature_subsets = [["Length", "Frequency", "Category", "ContextualMatch", "PreviousGuess"]]
+feature_subsets = [features]
 
 # Set values for the parameters
 training_limit = 50
@@ -74,8 +74,8 @@ evaluation = "buzzer"
 guesser_model_train = "../models/buzztrain_gpt4o_cache"
 guesser_model_test = "../models/buzzdev_gpt4o_cache"
 
-buzzer_type = "MLP"
-buzzer_type = "LogisticBuzzer"
+# buzzer_type = "MLP"
+# buzzer_type = "LogisticBuzzer"
 buzzer_type = "RNNBuzzer"
 
 # Add loss debugging
@@ -113,7 +113,7 @@ for subset in feature_subsets:
         '--GprGuesser_filename', guesser_model_test,
         # '--LogisticBuzzer_filename=models/' + filename_stem,
         '--evaluate', evaluation,
-        # '--buzzer_type', buzzer_type,
+        '--buzzer_type', buzzer_type,
         '--output_json', output_json  # Include output_json flag to specify unique output
     ]
     if buzzer_type == "MLP":
@@ -235,6 +235,8 @@ if not results_df.empty:
         results_df.drop_duplicates(subset=columns_to_check, keep='first', inplace=True)
 
     # Export the DataFrame as CSV
-    results_df.to_csv(f"summary/{filename_stem}_eval_summary.csv", index=False)
+    eval_summary_file_name = f"summary/{filename_stem}_eval_summary.csv"
+    results_df.to_csv(eval_summary_file_name, index=False)
+    print("Evaluation data exported to: ", eval_summary_file_name)
 else:
     print("No results were generated, possibly due to errors in processing.")

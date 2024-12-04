@@ -213,6 +213,7 @@ if __name__ == "__main__":
     parser.add_argument('--output_json', type=str, default="summary/eval_output.json", help="Path to save output JSON file")
 
     flags = parser.parse_args()
+    print("In eval.py received flags", flags)
     setup_logging(flags)
 
     questions = load_questions(flags)

@@ -320,7 +320,8 @@ if __name__ == "__main__":
     add_buzzer_params(parser)
     add_question_params(parser)
     flags = parser.parse_args()
-    setup_logging(flags)    
+    print("In buzzer.py received flags", flags)
+    setup_logging(flags)
 
     guesser = load_guesser(flags)    
     buzzer = load_buzzer(flags)
