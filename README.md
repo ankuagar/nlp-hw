@@ -52,11 +52,11 @@ The files are organized as follows:
 7. mlp_buzzer.py: Contains the implementation of the MLPBuzzer, which uses a multilayer perceptron for classification.
 8. compare_buzzers.py: Automates training and evaluation for different buzzer models and feature combinations.
    
-## Steps to Train the Classifier
+## Train and Eval Logistic Regression : Baseline Classifier
 
 ### 1. Train Without New Features
 
-To establish a baseline, train the Buzzer using the existing features only. This helps in understanding the model's current performance:
+To establish a baseline, train the Logistic Regressuon Buzzer using the existing features only. This helps in understanding the model's current performance:
 
 ```bash
 python3 buzzer.py --guesser_type=Gpr --limit=50 \
@@ -146,6 +146,8 @@ Run the script:
 ```bash
 python3 compare_buzzers.py
 ```
+
+Run on the whole dataset, it takes a while to run. 
 
 ## Outputs
 1. Trained Models: Saved in the models/ directory, named based on buzzer type and features.
