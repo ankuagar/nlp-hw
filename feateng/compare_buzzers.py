@@ -7,7 +7,7 @@ import json
 import time
 
 LOSS_FUNCTIONS = {
-    "MLP": "BuzzLoss",
+    "MLP": "BCELoss",
     "LogisticBuzzer": "Logistic Loss",
     "RNNBuzzer": "CrossEntropyLoss"
 }
