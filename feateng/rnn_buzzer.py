@@ -13,64 +13,64 @@ import pickle
 from sklearn.feature_extraction import DictVectorizer
 from buzzer import Buzzer
 import logging 
-# class RNNModel(nn.Module):
-#     """
-#     RNN model with text embeddings and additional features.
-#     """
-#     def __init__(self, vocab_size, embedding_dim, feature_dim, hidden_size=128, output_size=2):
-#         super(RNNModel, self).__init__()
-#         self.hidden_size = hidden_size
-#         self.embedding = nn.Embedding(vocab_size, embedding_dim)
-#         self.rnn = nn.RNN(embedding_dim, hidden_size, batch_first=True)
-#         self.feature_fc = nn.Linear(feature_dim, hidden_size)  # Fully connected layer for additional features
-#         self.combined_fc = nn.Linear(hidden_size * 2, output_size)  # Combine text and features
-
-#     def forward(self, text_input, features):
-#         """
-#         Forward pass with text embeddings and additional features.
-#         """
-#         # Text Embedding and RNN
-#         embedded = self.embedding(text_input)  # [batch_size, seq_len, embedding_dim]
-#         _, rnn_hidden = self.rnn(embedded)    # [1, batch_size, hidden_size]
-
-#         # Process Features
-#         feature_out = self.feature_fc(features)  # [batch_size, hidden_size]
-
-#         # Combine RNN output and features
-#         combined = torch.cat((rnn_hidden.squeeze(0), feature_out), dim=1)  # [batch_size, hidden_size * 2]
-#         output = self.combined_fc(combined)  # [batch_size, output_size]
-#         return output
 class RNNModel(nn.Module):
     """
-    Enhanced RNN model with LSTM layers, dropout, and batch normalization.
+    RNN model with text embeddings and additional features.
     """
-    def __init__(self, vocab_size, embedding_dim, feature_dim, hidden_size=128, output_size=2, num_layers=2, dropout=0.3):
+    def __init__(self, vocab_size, embedding_dim, feature_dim, hidden_size=128, output_size=2):
         super(RNNModel, self).__init__()
         self.hidden_size = hidden_size
         self.embedding = nn.Embedding(vocab_size, embedding_dim)
-        self.lstm = nn.LSTM(embedding_dim, hidden_size, num_layers=num_layers, batch_first=True, dropout=dropout)
+        self.rnn = nn.RNN(embedding_dim, hidden_size, batch_first=True)
         self.feature_fc = nn.Linear(feature_dim, hidden_size)  # Fully connected layer for additional features
-        self.dropout = nn.Dropout(dropout)
-        self.batch_norm = nn.BatchNorm1d(hidden_size * 2)
         self.combined_fc = nn.Linear(hidden_size * 2, output_size)  # Combine text and features
 
     def forward(self, text_input, features):
         """
-        Forward pass with text embeddings, LSTM, and additional features.
+        Forward pass with text embeddings and additional features.
         """
-        # Text Embedding and LSTM
+        # Text Embedding and RNN
         embedded = self.embedding(text_input)  # [batch_size, seq_len, embedding_dim]
-        lstm_out, (hidden, _) = self.lstm(embedded)  # [batch_size, seq_len, hidden_size]
+        _, rnn_hidden = self.rnn(embedded)    # [1, batch_size, hidden_size]
 
         # Process Features
         feature_out = self.feature_fc(features)  # [batch_size, hidden_size]
 
-        # Combine the last hidden state and features
-        combined = torch.cat((hidden[-1], feature_out), dim=1)  # [batch_size, hidden_size * 2]
-        combined = self.batch_norm(combined)
-        combined = self.dropout(combined)
+        # Combine RNN output and features
+        combined = torch.cat((rnn_hidden.squeeze(0), feature_out), dim=1)  # [batch_size, hidden_size * 2]
         output = self.combined_fc(combined)  # [batch_size, output_size]
         return output
+# class RNNModel(nn.Module):
+#     """
+#     Enhanced RNN model with LSTM layers, dropout, and batch normalization.
+#     """
+#     def __init__(self, vocab_size, embedding_dim, feature_dim, hidden_size=128, output_size=2, num_layers=2, dropout=0.3):
+#         super(RNNModel, self).__init__()
+#         self.hidden_size = hidden_size
+#         self.embedding = nn.Embedding(vocab_size, embedding_dim)
+#         self.lstm = nn.LSTM(embedding_dim, hidden_size, num_layers=num_layers, batch_first=True, dropout=dropout)
+#         self.feature_fc = nn.Linear(feature_dim, hidden_size)  # Fully connected layer for additional features
+#         self.dropout = nn.Dropout(dropout)
+#         self.batch_norm = nn.BatchNorm1d(hidden_size * 2)
+#         self.combined_fc = nn.Linear(hidden_size * 2, output_size)  # Combine text and features
+
+#     def forward(self, text_input, features):
+#         """
+#         Forward pass with text embeddings, LSTM, and additional features.
+#         """
+#         # Text Embedding and LSTM
+#         embedded = self.embedding(text_input)  # [batch_size, seq_len, embedding_dim]
+#         lstm_out, (hidden, _) = self.lstm(embedded)  # [batch_size, seq_len, hidden_size]
+
+#         # Process Features
+#         feature_out = self.feature_fc(features)  # [batch_size, hidden_size]
+
+#         # Combine the last hidden state and features
+#         combined = torch.cat((hidden[-1], feature_out), dim=1)  # [batch_size, hidden_size * 2]
+#         combined = self.batch_norm(combined)
+#         combined = self.dropout(combined)
+#         output = self.combined_fc(combined)  # [batch_size, output_size]
+#         return output
 
 class RNNBuzzer(Buzzer):
     """

@@ -102,7 +102,8 @@ for buzzer_type in buzzer_models:
             '--questions', test_dataset, '--buzzer_guessers', 'Gpr',
             '--GprGuesser_filename', guesser_model_test,
             '--evaluate', evaluation,
-            '--output_json', output_json
+            '--output_json', output_json,
+            '--buzzer_type', buzzer_type,
         ]
         eval_command.extend(buzzer_filename_flag)
         if subset:
